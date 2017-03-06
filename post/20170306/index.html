@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="http://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要11篇(2017-03-06) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="一个测量和预测个人科学家的表现的框架; 定向网络的抵御能力; 公约之间的竞争和选择; 多关系推荐的加权随机游走取样; 语义变化的频率模式：语言变化中">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要11篇(2017-03-06) - 网络科学研究速递">
+<meta itemprop="description" content="一个测量和预测个人科学家的表现的框架; 定向网络的抵御能力; 公约之间的竞争和选择; 多关系推荐的加权随机游走取样; 语义变化的频率模式：语言变化中">
+<meta itemprop="image" content="http://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要11篇(2017-03-06) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.complexly.me/post/20170306/" />
+<meta property="og:image" content="http://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="一个测量和预测个人科学家的表现的框架; 定向网络的抵御能力; 公约之间的竞争和选择; 多关系推荐的加权随机游走取样; 语义变化的频率模式：语言变化中">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="http://www.complexly.me/post/20170306/">
+  <link rel='shortlink' href="http://www.complexly.me/post/20170306/"/>
+  <link rel="shortcut icon" href="http://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="http://www.complexly.me/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="http://www.complexly.me/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="http://www.complexly.me/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="http://www.complexly.me/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="http://www.complexly.me/public/highlight/styles/github.css">
+<script src="http://www.complexly.me/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="http://www.complexly.me/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="http://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="http://www.complexly.me/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="http://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="http://www.complexly.me/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要11篇(2017-03-06)</h1>
+
+                  <p class="post-byline">
+                    2017年03月06日 · 4314 字 ·
+                    阅读时间约9分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      
+
+<ul>
+<li>一个测量和预测个人科学家的表现的框架;</li>
+<li>定向网络的抵御能力;</li>
+<li>公约之间的竞争和选择;</li>
+<li>多关系推荐的加权随机游走取样;</li>
+<li>语义变化的频率模式：语言变化中近临界动力学的基于语料库的证据;</li>
+<li>DAWT：密集注释维基百科跨多种语言的文本;</li>
+<li>同行影响如何影响能源消耗;</li>
+<li>有推广时的在线人气模型病毒式传播潜力和注意经济学;</li>
+<li>解卷积推荐系统中的反馈循环;</li>
+<li>当哈希碰撞楔形：一个分布式算法寻找高相似性向量;</li>
+<li>加权生长单纯复形;</li>
+</ul>
+
+<h3 id="一个测量和预测个人科学家的表现的框架">一个测量和预测个人科学家的表现的框架</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1510.02749">http://arxiv.org/abs/1510.02749</a></p>
+
+<p>作者： Endel Poder</p>
+
+<p>摘要： 定量文献计量指标广泛用于评估科学家的绩效。然而，传统指标不太依赖于旨在衡量的过程的分析和测量的实际目标。在这项研究中，我提出一个简单的框架来衡量和预测个人研究者的科学绩效，考虑到出版和引文过程的主要规律性和实际任务的要求。新指标的统计特性 - 科学家的个人影响率 - 通过应用于爱沙尼亚研究人员的样本来说明。</p>
+
+<h3 id="定向网络的抵御能力">定向网络的抵御能力</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1701.03404">http://arxiv.org/abs/1701.03404</a></p>
+
+<p>作者： Jin-Hua Zhao</p>
+
+<p>摘要： 复杂的互连系统的弹性涉及在基于随机或设计方案的外部扰动之后的宏观功能节点簇的大小。对于在成分之间具有定向或非对称相互作用的互连系统的表示，定向网络是方便的选择。然而，交互方向如何影响网络恢复能力仍然缺乏彻底的探索。在这里，我们使用基于节点的入和出度的简单故障过程来研究定向网络的弹性，其中任何节点具有内分度$ &lt;k_ {in} $或外分度$ &lt;反复删除k_ {ou} $。利用明确的分析框架，我们可以预测剩余节点簇在没有度相关的有向随机图上的相对大小。我们表明，对于$ k_ {in} \ geq 2 $或$ k_ {ou} \ geq 2 $的情况下，不连续过渡上升，节点之间的单向交互驱动网络更容易受到基于入和出度。</p>
+
+<h3 id="公约之间的竞争和选择">公约之间的竞争和选择</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1702.06527">http://arxiv.org/abs/1702.06527</a></p>
+
+<p>作者： Rahmtin Rotabi, Cristian Danescu-Niculescu-Mizil, Jon Kleinberg</p>
+
+<p>摘要： 在许多领域，不同公约之间的潜在竞争决定了哪个公约将成为主导。人们看到社区术语的成功，政治修辞中的竞争性框架或技术语境中的术语的成效。这些影响已经在在线领域广泛传播，其中数据提供了在细粒度水平上研究各公约之间的竞争的潜力。然而，在分析公约随时间变化的动态时，即使有详细的在线数据，也会遇到两个重大挑战。首先，随着公约的发展，其意义的基本内容也会发生变化;这种实质性变化混淆了对社会影响的调查。第二，公约的选择是通过个人在社区内的复杂交互作用进行的，竞争公约的用户之间的争论在公约的演变中起着关键作用。任何分析必须在这两个问题的存在下进行。在这项工作中，我们研究一个设置，我们可以干净地跟踪公约之间的竞争。我们的分析基于24年来eprint中的低级创作约定的扩展：通过跟踪宏的扩散和其他作者定义的约定，我们能够研究即使基本含义保持不变的约定。我们发现，随着时间的推移，共同作者之间的相互作用在选择它们中起着至关重要的作用;社区越来越少有经验的成员之间的区别，以及有可见和不可见效应的公约之间的区别，都是基本过程的核心。通过我们的分析，我们在人口水平上预测不同同义词约定随时间的最终成功 - 以及在个人层面上人们之间的“斗争”结果。</p>
+
+<h3 id="多关系推荐的加权随机游走取样">多关系推荐的加权随机游走取样</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1703.00034">http://arxiv.org/abs/1703.00034</a></p>
+
+<p>作者： Fatemeh Vahedian, Robin Burke, Bamshad Mobasher</p>
+
+<p>摘要： 在信息重载的网络中，个性化推荐系统是帮助用户找到最相关信息的必要工具。最常用的推荐框架假定用单个关系表征的用户交互。然而，对于许多任务，例如在社交网络中的推荐，用户项目交互必须被建模为多个关系的复杂网络，而不仅仅是单个关系。最近对多关系因子分解和混合推荐器模型的研究已经表明，使用扩展元路径来捕获关于网络中的用户和项目的附加信息可以增强这种网络中的推荐的准确性。这项工作的大部分集中在未加权的异构网络，并且为了应用这些技术，加权关系必须简化为二进制关系。然而，与诸如对于推荐至关重要的加权边缘（例如用户评级）相关联的信息在这种二值化中丢失。在本文中，我们探索了一种随机游走采样方法，其中边缘采样的频率是边缘权重的函数，并且在加权异构网络中应用这生成扩展元路径。利用这种抽样技术，我们证明了在推荐精度和模型生成效率方面对多个数据集的改进的性能。</p>
+
+<h3 id="语义变化的频率模式-语言变化中近临界动力学的基于语料库的证据">语义变化的频率模式：语言变化中近临界动力学的基于语料库的证据</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1703.00203">http://arxiv.org/abs/1703.00203</a></p>
+
+<p>作者： Quentin Feltgen, Benjamin Fagard, Jean-Pierre Nadal</p>
+
+<p>摘要： 通常认为，当语言项目获得新的含义时，其在语言中的总体使用频率随S形的生长曲线随时间而增加。然而，这种说法只得到有限数量的案例研究的支持。在本文中，我们提供第一基于语言的语言变化的S曲线的一般性的定量确认。此外，我们发现另一种通用模式，在S增长之前可变持续时间的等待时间阶段，在此期间语义扩展词的使用频率保持低和或多或少恒定。我们还提出了一种基于使用的语言变化模型，由认知考虑支持，预测两个阶段，潜伏期和快速S增长发生。驱动机制是随机动力学，在使用频率的空间中的随机游走。基本的确定性动力学突出了控制参数的作用，控制变化开始的认知动力的强度，其调整鞍状节点分叉附近的系统。在临界点附近，延迟阶段对应于临界区域上的扩散时间，并且S增长到随后的快速收敛。两个阶段的持续时间被计算为随机游走过程的特定第一通过时间，导致与从我们的数据集提取的那些分布适合的分布。我们认为我们的结果不是特定于研究的语料库，但适用于语义变化一般。</p>
+
+<h3 id="dawt-密集注释维基百科跨多种语言的文本">DAWT：密集注释维基百科跨多种语言的文本</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1703.00948">http://arxiv.org/abs/1703.00948</a></p>
+
+<p>作者： Nemanja Spasojevic, Preeti Bhargava, Guoning Hu</p>
+
+<p>摘要： 在这项工作中，我们打开了多种语言的DAWT数据集 - 密集注释的维基百科文本。注释包括映射到实体的标记的文本提示（由它们的Freebase机器ID表示）以及实体的类型。数据集包含总共13.6M篇文章，5.0B令牌，13.8M提及实体共现。 DAWT包含比维基百科标记中原始存在的实体链接多4.8倍的锚文本。此外，它跨越几种语言，包括英语，西班牙语，意大利语，德语，法语和阿拉伯语。我们还提出了用于生成丰富了维基百科标记的数据集的方法，以增加链接数。除了主数据集，我们还开发了几个派生数据集，包括提及实体共现计数和实体嵌入，以及Freebase ids和Wikidata项ids之间的映射。我们还讨论这些数据集的两个应用程序，并希望打开它们将证明对自然语言处理和信息检索社区有用，以及促进多语言研究。</p>
+
+<h3 id="同行影响如何影响能源消耗">同行影响如何影响能源消耗</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1703.00980">http://arxiv.org/abs/1703.00980</a></p>
+
+<p>作者： Datong P. Zhou, Munther A. Dahleh, Claire J. Tomlin</p>
+
+<p>摘要： 本文分析了同行效应对理性，效用最大化用户网络的电力消耗的影响。用户从消费电力消耗电力以及消耗比它们的邻居更少的能量，以及消耗比他们的邻居更多的不利。为了最大化为负载服务实体提供电力的利益，受到这种同行效应的用户，我们采用两阶段游戏理论模型，其中实体设置第一阶段的价格，消费者决定他们的需求响应观察到的价格，以便最大化它们在第二阶段的效用。我们推导出这样的同伴效应减少总用户消费的理论陈述。此外，我们获得封闭形式的解决方案，用于完全价格歧视情况下的负载服务实体的电力消耗和利润以及完整信息下的单一价格以及不完全信息下的近似。模拟表明，只将所有用户的选定子集暴露给同伴效应最大化实体的利润。</p>
+
+<h3 id="有推广时的在线人气模型病毒式传播潜力和注意经济学">有推广时的在线人气模型病毒式传播潜力和注意经济学</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1703.01012">http://arxiv.org/abs/1703.01012</a></p>
+
+<p>作者： Marian-Andrei Rizoiu, Lexing Xie</p>
+
+<p>摘要： 模拟在线项目的流行度动态是社交媒体分析和计算社会科学中的一个重要的开放性问题。本文提出了一个深入研究外部促销下的人气动态，特别是在预测在线视频的人气跳跃，并确定有效和有效的时间表，以促进在线内容。最近提出的霍克斯强度过程（HIP）模型作为外源性刺激与内源性反应之间的非线性相互作用的流行性。我们提出了基于HIP的两个新的度量：描述每单位促销的流行度增益，并量化这种效果展开所需的时间。我们通过包含关于视频的固有属性的信息，其接收的促销和流行度排名的非线性效应，对未来的流行度做出更准确的预测。我们通过模拟来说明随着时间的推移人气的展开和资源的时间敏感价值之间的相互作用。最后，我们的模型提供了广告中常用的周期性和持续促进策略的新颖解释，作为增加感知的病毒潜力。本研究提供了关于设置促销计划的定量指南，考虑内容的病毒性，时间和经济。</p>
+
+<h3 id="解卷积推荐系统中的反馈循环">解卷积推荐系统中的反馈循环</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1703.01049">http://arxiv.org/abs/1703.01049</a></p>
+
+<p>作者： Ayan Sinha, David F. Gleich, Karthik Ramani</p>
+
+<p>摘要： 协作过滤是一种基于所有用户偏好的集体信息来推断用户对新内容的偏好的流行技术。推荐系统然后使用该信息向用户提供个性化建议。当用户接受这些建议时，它在推荐系统中创建反馈循环，并且这些循环反复地影响协作过滤算法随时间的预测。我们调查是否可以识别受这些反馈回路影响的项目。我们陈述足够的假设来反卷积反馈回路，同时保持反求解容易。我们进一步开发一个度量来解开推荐系统对整个用户项目评级矩阵的影响。我们对合成和真实世界数据集使用这个度量，以（1）识别推荐系统影响最终评级矩阵的程度，（2）对经常推荐的项目进行排名，以及（3）区分用户的评级项目是推荐的还是内在偏好。我们的结果表明，可以使用没有任何时间信息的评级矩阵的单个快照来恢复固有用户偏好的评级矩阵。</p>
+
+<h3 id="当哈希碰撞楔形-一个分布式算法寻找高相似性向量">当哈希碰撞楔形：一个分布式算法寻找高相似性向量</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1703.01054">http://arxiv.org/abs/1703.01054</a></p>
+
+<p>作者： Aneesh Sharma, C. Seshadhri, Ashish Goel</p>
+
+<p>摘要： 寻找类似的用户对是社交网络中的基本任务，在排名和个性化任务中有许多应用，例如链路预测和连接强度检测。用户相似性的常见表现是基于网络结构：每个用户由表示用户的网络连接的向量表示，其中这些向量中的成对余弦相似性定义用户相似性。用户相似性应用的主要任务是发现具有大于给定阈值$ \ tau $的成对余弦相似度值的所有类似对。与之前的工作相比，假设$ \ tau $非常接近1，我们专注于推荐应用程序，其中$ \ tau $小，但仍然有意义。所有对余弦相似性问题在具有数十亿边缘的网络上是计算上的挑战，并且对于具有小$ \ tau $的设置尤其如此。据我们所知，没有实际的解决方案用于在大型社交网络上计算所有用户对，例如$ \ tau = 0.2 $，即使使用分布式算法的力量。我们的工作直接通过引入一个新的算法&mdash; WHIMP &mdash;在MapReduce模型中有效地解决这个问题，来解决这个问题。 WHIMP的关键观点是结合Cohen-Lewis的“楔形采样”方法用于近似矩阵乘法和Charikar的SimHash随机投影技术。我们提供了WHIMP的理论分析，证明它具有接近最佳的通信成本，同时保持与现有技术水平相当的计算成本。我们还通过计算四个海量数据集上的所有高度相似的对，并且表明它精确地找到高相似性对，从而经验地展示WHIMP的可伸缩性。特别是，我们注意到WHIMP成功地处理了整个Twitter网络，它有数百亿的边缘。</p>
+
+<h3 id="加权生长单纯复形">加权生长单纯复形</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1703.01187">http://arxiv.org/abs/1703.01187</a></p>
+
+<p>作者： Owen T. Courtney, Ginestra Bianconi</p>
+
+<p>摘要： 简单复合物描述协作网络，蛋白质相互作用网络和脑网络，并且在一般的网络结构中，其中相互作用可以包括多于两个的节点。在实际应用中，通常对单纯复形进行加权。在这里我们提出一个非均衡模型的加权成长单纯复形。所提出的动力学能够生成加权的单纯复形，在权重和拓扑之间的丰富的相互作用不仅出现在节点和链接的水平，而且在更高维度的面的水平出现。</p>
+
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="http://www.complexly.me/public/qrcode.jpg" width="129px" height="129px"/>
+                        <div style="text-align:center;">微信扫一扫交流</div>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信关注：netsci
+                            <br />本文地址：<a target="_blank" href="http://www.complexly.me/post/20170306/">http://www.complexly.me/post/20170306/</a>
+                            <br />
+                            Arxiv文章摘要版权归原作者所有，由作者进行翻译整理，未经同意请勿随意转载。</p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+              
+              <div class="jiathis_style"><span class="jiathis_txt">分享到：</span>
+              <a class="jiathis_button_weixin"></a>
+              <a class="jiathis_button_cqq"></a>
+              <a class="jiathis_button_tsina"></a>
+              <a class="jiathis_button_linkedin"></a>
+              <a class="jiathis_button_evernote"></a>
+              <a href="http://www.jiathis.com/share?uid=2126537" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank"></a>
+              </div>
+              <script type="text/javascript" >
+              var jiathis_config={
+                summary:"",
+                shortUrl:false,
+                hideMore:false
+              }
+              </script>
+              <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=2126537" charset="utf-8"></script>
+              
+              <section id="comments" class="themeform">
+<div class="ds-thread" data-thread-key="/post/20170306/" data-title="Arxiv网络科学论文摘要11篇(2017-03-06)" data-url="http://www.complexly.me/post/20170306/"></div>
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"complexly"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0] 
+		 || document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+</script>
+</section>
+
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="http://www.complexly.me/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="http://www.complexly.me/post/20170303/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要11篇(2017-03-03)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. <br>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank">Hugo</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32937726-2', 'auto');
+  ga('send', 'pageview');
+
+  $('#messagesbsb').remove();
+
+</script>
+</body>
+</html>
+
