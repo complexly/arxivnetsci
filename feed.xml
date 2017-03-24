@@ -7,8 +7,75 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Mar 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.complexly.me/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2017-03-24)</title>
+      <link>http://www.complexly.me/post/20170324/</link>
+      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170324/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;生成逼真的尺度复杂网络;&lt;/li&gt;
+&lt;li&gt;名誉与淘汰：专利引用的解除增长和衰老动力学;&lt;/li&gt;
+&lt;li&gt;通过点过程干预进行假新闻减免;&lt;/li&gt;
+&lt;li&gt;复杂传染的消息传递方法;&lt;/li&gt;
+&lt;li&gt;量化和抑制大型引文网络中的排名偏差;&lt;/li&gt;
+&lt;li&gt;SEANO：半监督嵌入带有异常值的属性网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;生成逼真的尺度复杂网络&#34;&gt;生成逼真的尺度复杂网络&lt;/h3&gt;
+
+&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1609.02121&#34;&gt;http://arxiv.org/abs/1609.02121&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作者： Christian L. Staudt, Michael Hamann, Alexander Gutfraind, Ilya Safro, Henning Meyerhenke&lt;/p&gt;
+
+&lt;p&gt;摘要： 生成模型研究是网络科学新兴领域的核心项目，研究如何通过正式规则产生真实网络中的统计模式。这些生成模型的输出是设计和评估网络计算方法以及验证和模拟研究的基础。在过去二十年中，已经提出了各种模型，其最终目标是实现生成网络的全面现实化。在本研究中，我们（a）引入了一种称为ReCoN的新发电机; （b）探索如何将ReCoN和一些现有模型适用于原始网络以产生结构上类似的复制品，（c）使用ReCoN生产比原始样本更大的网络，最后（d）讨论开放问题和有希望的研究方向。在比较实验研究中，我们发现ReCoN通常优于许多其他最先进的网络生成方法。我们认为，ReCoN是一种可扩展和有效的工具，用于对给定网络进行建模，同时在微观和宏观尺度上保留重要属性，并将示例数据缩放到大小数量级。&lt;/p&gt;
+
+&lt;h3 id=&#34;名誉与淘汰-专利引用的解除增长和衰老动力学&#34;&gt;名誉与淘汰：专利引用的解除增长和衰老动力学&lt;/h3&gt;
+
+&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1611.05076&#34;&gt;http://arxiv.org/abs/1611.05076&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作者： K.W. Higham, M. Governale, A.B. Jaffe, U. Zülicke&lt;/p&gt;
+
+&lt;p&gt;摘要： 我们提供了1998年美国专利商标局授予的专利随着时间的推移的分析。与以前的研究相反，进行了技术类别的分类，外部引起引文数量增长受到控制。我们的方法揭示了内在的引用率，明确地分为：从长远来看，指数时间依赖的老化功能和完全时间无关的优先依附型生长核。对于这种可分离引用率的一般情况，我们以对其老化和成长部分的任何功能形式有效的形式分析地获得时间依赖性引文分布。专利引用数据的理论和长期特征之间的良好协议确定了我们的工作，作为解决关于知识传播动态的仍然开放的问题的有用框架，例如在短时间内观察到的引用过量。&lt;/p&gt;
+
+&lt;h3 id=&#34;通过点过程干预进行假新闻减免&#34;&gt;通过点过程干预进行假新闻减免&lt;/h3&gt;
+
+&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1703.07823&#34;&gt;http://arxiv.org/abs/1703.07823&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作者： Mehrdad Farajtabar, Jiachen Yang, Xiaojing Ye, Huan Xu, Rakshit Trivedi, Elias Khalil, Shuang Li, Le Song, Hongyuan Zha&lt;/p&gt;
+
+&lt;p&gt;摘要： 我们提出了通过将强化学习与点过程网络活动模型结合起来，在社交网络中处理假新闻的第一个多阶段干预框架。网络内的假消息和缓解事件的传播是由多变量的霍克斯过程与额外的外生控制术语建立的。通过选择状态的特征表征，定义缓解行动和建立奖励功能来衡量缓解活动的有效性，我们将假消息缓解的问题映射到强化学习框架中。我们开发了一个独特的多元网络点过程的策略迭代方法，目的是优化预算限制下最大总收益的动作。我们的方法显示了在Twitter网络上的实时干预实验中有希望的表现，以减轻替代假冒新闻活动，并优于合成数据集的替代方案。&lt;/p&gt;
+
+&lt;h3 id=&#34;复杂传染的消息传递方法&#34;&gt;复杂传染的消息传递方法&lt;/h3&gt;
+
+&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1703.08046&#34;&gt;http://arxiv.org/abs/1703.08046&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作者： James P. Gleeson, Mason A. Porter&lt;/p&gt;
+
+&lt;p&gt;摘要： 消息传递方法提供了一种强大的方法来计算随机网络上的级联的预期大小（例如，从配置模型集合或其概括中绘制），随着节点数量$ N $变得无限大或具体有限大小网络。我们检查消息传递方法，并显示如何使用（Dhar等人，1997）和（Gleeson，2008）的方法为配置模型网络导出它。使用这种方法，我们为这样的网络解释如何确定“级联条件”的解析表达式，这决定了是否会发生全局级联。我们将这种方法扩展到特定有限尺寸网络的消息传递方法（Shrestha和Moore，2014; Lokhov等，2015），我们得出了一般的级联条件。在本章中，我们用Watts阈值模型来说明这些想法。&lt;/p&gt;
+
+&lt;h3 id=&#34;量化和抑制大型引文网络中的排名偏差&#34;&gt;量化和抑制大型引文网络中的排名偏差&lt;/h3&gt;
+
+&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1703.08071&#34;&gt;http://arxiv.org/abs/1703.08071&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作者： Giacomo Vaccario, Matus Medo, Nicolas Wider, Manuel Sebastian Mariani&lt;/p&gt;
+
+&lt;p&gt;摘要： 众所周知，由于不同的科学领域采用不同的引文实践，不能直接比较来自不同领域的论文的引文数量。引用数量也受到纸张年龄的强烈偏见，因为较早的论文有更多的时间来吸引引文。各种程序旨在抑制这些偏差，并产生新的归一化指标，如相对引用次数。我们使用Microsoft Academic Graph的大型引文数据集和基于马哈拉诺比斯距离的新统计框架，显示了众所周知的指标（包括相对引用次数和Google的PageRank评分）的排名受到纸张领域和年龄的显着偏差。我们提出一个由$ z $ -score驱动的一般归一化程序，当应用于引文计数和PageRank分数时，这种程序的排名偏低。&lt;/p&gt;
+
+&lt;h3 id=&#34;seano-半监督嵌入带有异常值的属性网络&#34;&gt;SEANO：半监督嵌入带有异常值的属性网络&lt;/h3&gt;
+
+&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1703.08100&#34;&gt;http://arxiv.org/abs/1703.08100&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作者： Jiongqian Liang, Peter Jacobs, Srinivasan Parthasarathy&lt;/p&gt;
+
+&lt;p&gt;摘要： 网络嵌入近年来受到越来越多的关注，这是由于其在诸如顶点分类，社区检测和网络可视化等图形挖掘任务中的广泛应用。嵌入同构网络在广泛研究的过程中，很少有方法检查了在半监督环境中出现的部分标记属性网络（PLAN）的嵌入。在本文中，我们提出了一种新的框架，称为半静态嵌入在具有异常值的属性网络（SEANO）中，以学习一种鲁棒的低维向量表示，捕获PLAN中顶点的拓扑接近度，属性亲和度和标签相似度，涉及异常值。我们设计了一个树状的深层神经网络，既有监督的和无监督的组件。这些组件共享网络的前几层。我们在两个组件之间进行交替训练，将有关网络结构，属性和标签的信息迭代地推入嵌入。各种数据集的实验结果证明了在转换和归纳设置下的半监督分类中，SEANO优于现有技术的优点。我们也显示为副产品，当应用于异常值检测任务时，SEANO可以显着优于其他方法。最后，我们介绍了SEANO在具有挑战性的现实环境中的应用 - 卫星图像的洪水映射。在本质上，我们发现SEANO能够在这项任务上胜过最先进的遥感算法。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2017-03-23)</title>
@@ -2043,20 +2110,6 @@
 &lt;p&gt;作者： Xizhe Zhang, Jianfei Han&lt;/p&gt;
 
 &lt;p&gt;摘要： 控制复杂网络在许多应用领域中非常重要。最近的工作发现，通过最大匹配可以获得用于控制网络的输入节点（MIS）的最小数量。然而，网络的最大匹配不是唯一的，并且可能存在许多MIS。由于计算成本高，找到所有可能的输入节点对于大规模网络是困难的。这里我们提出一种有效的算法来枚举网络的所有可能的输入节点。我们严格证明所有可能的输入节点可以通过最大匹配算法的简单修改获得，这允许我们通过仅计算一个MIS获得所有可能的输入节点（所有MIS的联合）。在合成网络和实际网络上的实验结果表明，所提出的算法的计算复杂度与前一个算法的对比明显提高。对于大规模合成网络和真实网络，观察到与以前的算法相比增加了100000x。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>关于我</title>
-      <link>http://www.complexly.me/about/</link>
-      <pubDate>Thu, 02 Mar 2017 16:48:11 +0800</pubDate>
-      
-      <guid>http://www.complexly.me/about/</guid>
-      <description>&lt;p&gt;李杨，T大环境学院在读博士，主要利用&lt;strong&gt;网络科学&lt;/strong&gt;与&lt;strong&gt;数据科学&lt;/strong&gt;方法开展&lt;strong&gt;产业生态学&lt;/strong&gt;研究。&lt;/p&gt;
-
-&lt;p&gt;Springer图书《Statistical Analysis of Network Data with R》中文版《网络数据的统计分析：R语言实践》译者。&lt;/p&gt;
-
-&lt;p&gt;Email: liyang@complexly.me&lt;/p&gt;
 </description>
     </item>
     
