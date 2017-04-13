@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="http://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要8篇(2017-04-13) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="使用推广的度来衡量中心性; 社区检测计算机科学与物理学：格局，相变和硬度; 富人俱乐部测试：如何确定一个复杂的网络是否拥有或没有富人俱乐部？; 澄">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要8篇(2017-04-13) - 网络科学研究速递">
+<meta itemprop="description" content="使用推广的度来衡量中心性; 社区检测计算机科学与物理学：格局，相变和硬度; 富人俱乐部测试：如何确定一个复杂的网络是否拥有或没有富人俱乐部？; 澄">
+<meta itemprop="image" content="http://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要8篇(2017-04-13) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.complexly.me/post/20170413/" />
+<meta property="og:image" content="http://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="使用推广的度来衡量中心性; 社区检测计算机科学与物理学：格局，相变和硬度; 富人俱乐部测试：如何确定一个复杂的网络是否拥有或没有富人俱乐部？; 澄">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="http://www.complexly.me/post/20170413/">
+  <link rel='shortlink' href="http://www.complexly.me/post/20170413/"/>
+  <link rel="shortcut icon" href="http://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="http://www.complexly.me/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="http://www.complexly.me/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="http://www.complexly.me/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="http://www.complexly.me/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="http://www.complexly.me/public/highlight/styles/github.css">
+<script src="http://www.complexly.me/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="http://www.complexly.me/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="http://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="http://www.complexly.me/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="http://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="http://www.complexly.me/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要8篇(2017-04-13)</h1>
+
+                  <p class="post-byline">
+                    2017年04月13日 · 3212 字 ·
+                    阅读时间约7分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      
+
+<ul>
+<li>使用推广的度来衡量中心性;</li>
+<li>社区检测计算机科学与物理学：格局，相变和硬度;</li>
+<li>富人俱乐部测试：如何确定一个复杂的网络是否拥有或没有富人俱乐部？;</li>
+<li>澄清信任社会物联网;</li>
+<li>探索技术改进与创新扩散的关系：实证检验;</li>
+<li>在无尺度网络上使用EA的近似优化问题;</li>
+<li>基于Stigmergy的建模从定位数据发现城市活动模式;</li>
+<li>国家对科技发展的科学影响;</li>
+</ul>
+
+<h3 id="使用推广的度来衡量中心性">使用推广的度来衡量中心性</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1507.02103">http://arxiv.org/abs/1507.02103</a></p>
+
+<p>作者： László Csató</p>
+
+<p>摘要： 网络分析已经成为沟通研究，经济学，地理学，历史与社会学等关键技术。一个根本的问题是如何确定关键节点，为此目的已经开发了一些中心性措施。本文提出了一种称为广义程度的中心度量的新参数族。它是基于这样一个观念，即与一个更为相互关联的节点的关系在更大程度上有助于中心性，而不是一个连接到较不中心的节点。通过考虑全球结构，通过在网络上重新分配其总和程度来提高程度。措施的应用由一组基本属性支持。给出广义程度为单调性的充分条件，除了网络某些修改后的中心秩序排除的反直觉变化。该度量具有图解，可以迭代计算。广义学位被推荐应用除度以外，因为它保留了最有利的学位属性，而是更好地反映了网络中节点的作用，并且增强了区分其重要性的能力。</p>
+
+<h3 id="社区检测计算机科学与物理学-风景-相变和硬度">社区检测计算机科学与物理学：风景，相变和硬度</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1702.00467">http://arxiv.org/abs/1702.00467</a></p>
+
+<p>作者： Cristopher Moore</p>
+
+<p>摘要： 图中的社区检测是找到比图中其余部分更密集连接的顶点组的问题。这个问题有悠久的历史，但由于需要分析社会和生物网络，它正在复兴。虽然有许多方式来形式化，但最受欢迎的方式之一是作为推理问题，其中以图表形式内置了“地面实况”社区结构。然后，任务就是恢复只知道图形的地面事实。最近发现，首先在物理学中启发式地，然后严格地在概率和计算机科学中，这个问题有一个相变，突然变得不可能。也就是说，如果图形太稀疏，或者产生它的概率过程太嘈杂，那么算法就不能找到与种植关联的分区&mdash;甚至可以告诉是否有社区，即区分图从一个纯粹随机的一个概率很高。在该信息理论阈值之上，存在第二阈值，超过该第二阈值已知多项式时间算法成功;在这之间，有一个政权可以进行社区检测，但推测需要指数时间。对于计算机科学家来说，这一领域提供了大量新的想法和开放性问题，其中包括概率和组合，消息传递算法和随机矩阵理论。也许更重要的是，它为统计物理学和统计推断的文化提供了一个窗口，以及这些文化对于实例的分布，解决方案的景观以及硬度的思考。</p>
+
+<h3 id="富人俱乐部测试-如何确定一个复杂的网络是否拥有或没有富人俱乐部">富人俱乐部测试：如何确定一个复杂的网络是否拥有或没有富人俱乐部？</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.03526">http://arxiv.org/abs/1704.03526</a></p>
+
+<p>作者： Alessandro Muscoloni, Carlo Vittorio Cannistraci</p>
+
+<p>摘要： 引入了富人俱乐部概念，以表征具有大量链接（丰富节点）的节点队列的存在，这些节点往往彼此之间良好的连接，创建了一个紧密的组（俱乐部）。富人俱乐部定义了网络显示由节点富有俱乐部的存在而特征的拓扑组织的程度。调查运输，社会，通讯，神经科学等不同领域系统内部组织和网络功能的调查至关重要。已经提出了不同的方法来评估丰富人俱乐部，并且已经采用各种零模型进行统计测试。然而，给定网络分配唯一的富有兴趣意义价值的过程仍然缺失。我们解决这个问题的办法是在三大支柱的基础上发展起来的。我们介绍：i）以较低的富人俱乐部系数为特征的零模型; ii）公平的策略来规范网络在零模型方面的丰富程度; iii）统计测试，利用标准化富人俱乐部系数的最大偏差，将特定的富人俱乐部的p值归因于给定的网络。总之，这项研究提出了首先尝试量化，使用一个独特的措施，网络是否提供了一个重要的富人俱乐部拓扑组织。我们对工程和科学研究的总体影响是，模拟调查网络的功能性能如何随着富裕度的变化而变化，可能会更容易地调整一个独特的价值：提出的富人俱乐部措施。</p>
+
+<h3 id="澄清信任社会物联网">澄清信任社会物联网</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.03554">http://arxiv.org/abs/1704.03554</a></p>
+
+<p>作者： Zhiting Lin, Liang Dong</p>
+
+<p>摘要： 可以利用物联网（IoT）来管理大量连接对象的社会方法。这些对象作为自主代理操作，向用户请求和提供信息和服务。在对象之间建立可靠的关系大大提高了社会物联网中节点交互的有效性，有助于节点克服对不确定性和风险的认识。然而，现有的信任模型存在局限性。在本文中，提出了一种针对社会物联网的综合信任模型。该模型包括委托人，受托人，目标，可信度评估，决策，行动，结果和上下文等成分。建立在这种信托模式的基础上，我们在社会物联网的五个方面阐明了信托的概念，如（1）信任和受托人的相互关系，（2）信任的推理转移，（3）信任的传递性，（4）可信度更新，（5）受动态环境影响的可信度。随着来自现实社会网络的网络连接性，进行了一系列模拟，以评估所提出的信任模型运行的社会IoT的绩效。一个实验性的IoT网络用于进一步验证所提出的信任模型。</p>
+
+<h3 id="探索技术改进与创新扩散的关系-实证检验">探索技术改进与创新扩散的关系：实证检验</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.03597">http://arxiv.org/abs/1704.03597</a></p>
+
+<p>作者： JongRoul Woo, Christopher L. Magee</p>
+
+<p>摘要： 现在显而易见的是，不同的技术领域的性能改进率有显着差异。理论上，这种不同的速率应该影响产品的相对扩散速率，因为扩散过程中性能的改善增加了产品扩散的可取性。然而，没有广泛的经验性尝试来检查这种影响并解释其根本原因。因此，本文回顾了理论基础，着重于对这种效应及其根本原因的实证检验。 18种不同扩散产物的结果显示出预期的关系 - 更快速地扩散产品 - 在技术改进和扩散之间具有强大的统计学意义。实证检验也表明，当渗透减慢时，后期扩散部分的绩效改善并不会减缓。这一发现也与基于效用的扩散理论相一致，但与公司之间竞争导致业绩提升的观念不一致。</p>
+
+<h3 id="在无尺度网络上使用ea的近似优化问题">在无尺度网络上使用EA的近似优化问题</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.03664">http://arxiv.org/abs/1704.03664</a></p>
+
+<p>作者： Ankit Chauhan, Tobias Friedrich, Francesco Quinzan</p>
+
+<p>摘要： 实验观察到，现实世界网络遵循一些拓扑性质，如小世界，幂律等。为了研究这些网络，已经提出了许多随机图模型，如优先附件。在本文中，我们考虑了捕获幂律度分布和退化的确定性属性。具有这些属性的网络在文献中称为无规模网络。许多有趣的问题在无大规模网络上仍然存在。我们研究无量纲性质与一些常用进化算法的近似比率之间的关系。对于顶点封面，我们实验观察到（1 + 1）EA总是比贪婪的本地搜索得到更好的结果，即使它只运行$ O（n \ log n）$步骤。我们给出了一个无量纲网络的构建，其中多目标算法和贪心算法获得最优解，而（1 + 1）EA以恒定概率获得最差可能的解。我们证明，对于主导集，顶点覆盖，连接主导集和独立集合，（1 + 1）EA在预期运行时间$ O（n \ log n）$和$ O（n ^ 4）中获得恒定因子近似）$。而GSEMO在这种网络上的主导集，顶点覆盖和连接主导集合的预期运行时间$ O（n ^ 3）$中给出比（1 + 1）EA更好的近似。</p>
+
+<h3 id="基于stigmergy的建模从定位数据发现城市活动模式">基于Stigmergy的建模从定位数据发现城市活动模式</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.03667">http://arxiv.org/abs/1704.03667</a></p>
+
+<p>作者： Antonio L. Alfeo, Mario G. C. A. Cimino, Sara Egidi, Bruno Lepri, Alex Pentland, Gigliola Vaglini</p>
+
+<p>摘要： 定位数据提供了显着的信息来源来分析人群的城市动态。然而，从人群的紧急行为中发现城市活动模式涉及复杂的系统建模。一种替代方法是采用属于紧急模式的计算技术，这种计算技术能够实现数据的自组织，并允许自适应分析。具体来说，我们的做法是基于stigmergy。通过使用stigmergy每个样品位置与数字信息素沉积相关联，数字信息素沉积物根据其时空接近度逐渐蒸发并与其他沉积物聚集。基于这一原则，我们利用定位数据识别高密度区域（热点），并描述其活动随时间的变化。这种表征允许在不同的日子里发生的动力学比较，提供通过聚类技术可利用的相似性度量。因此，我们根据他们的活动行为聚集时间，发现意想不到的城市活动模式。作为案例研究，我们在2015年分析了纽约市的出租车踪迹。</p>
+
+<h3 id="国家对科技发展的科学影响">国家对科技发展的科学影响</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.03768">http://arxiv.org/abs/1704.03768</a></p>
+
+<p>作者： Aurelio Patelli, Giulio Cimini, Emanuele Pugliese, Andrea Gabrielli</p>
+
+<p>摘要： 确定科学成就如何影响随后的知识创造过程，是建立统一的生态系统，以研究创新和竞争力的动态。然而，通过专利统计，单独依靠科学制作的数据，通过文献计量指标和技术进步，只能对科技之间的关键相互作用提供有限的见解，事实上在创新空间中共同前进。本文利用科学论文和专利的引用资料，量化了科学成果对科学进步和科技进步的直接影响。我们的分析强调了具有类似创新体系特征的国家地理文化集群的存在，揭示了科技成功的异质耦合动力。这项研究是建立知识创造和创新综合框架的第一步。</p>
+
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="http://www.complexly.me/public/qrcode.jpg" width="129px" height="129px"/>
+                        <div style="text-align:center;">微信扫一扫交流</div>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信关注：netsci
+                            <br />本文地址：<a target="_blank" href="http://www.complexly.me/post/20170413/">http://www.complexly.me/post/20170413/</a>
+                            <br />
+                            Arxiv文章摘要版权归原作者所有，由作者进行翻译整理，未经同意请勿随意转载。</p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+              
+              <div class="jiathis_style_24x24"><span class="jiathis_txt">分享到：</span>
+              <a class="jiathis_button_weixin"></a>
+              <a class="jiathis_button_cqq"></a>
+              <a class="jiathis_button_tsina"></a>
+              <a class="jiathis_button_linkedin"></a>
+              <a class="jiathis_button_evernote"></a>
+              <a href="http://www.jiathis.com/share?uid=2126537" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank"></a>
+              <br><br />
+              </div>
+              <script type="text/javascript" >
+              var jiathis_config={
+                summary:"",
+                shortUrl:false,
+                hideMore:false
+              }
+              </script>
+              <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=2126537" charset="utf-8"></script>
+              
+              <section id="comments" class="themeform">
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2126537"></script>
+</section>
+
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="http://www.complexly.me/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="http://www.complexly.me/post/20170412/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要12篇(2017-04-12)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. <br>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank">Hugo</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32937726-2', 'auto');
+  ga('send', 'pageview');
+
+  $('#messagesbsb').remove();
+
+</script>
+</body>
+</html>
+
