@@ -7,8 +7,66 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 13 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.complexly.me/post/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-04-14)</title>
+      <link>http://www.complexly.me/post/20170414/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170414/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;分析网络谱的退化;&lt;/li&gt;
+&lt;li&gt;网络中的高阶聚类;&lt;/li&gt;
+&lt;li&gt;图和网络中的二阶度同配性;&lt;/li&gt;
+&lt;li&gt;秩序预测学业成绩：校园生活方式的行为分析;&lt;/li&gt;
+&lt;li&gt;电网系统空间一致性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;分析网络谱的退化&#34;&gt;分析网络谱的退化&lt;/h3&gt;
+
+&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1609.08355&#34;&gt;http://arxiv.org/abs/1609.08355&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作者： Loïc Marrec, Sarika Jalan&lt;/p&gt;
+
+&lt;p&gt;摘要： 许多现实世界的网络在很少的特征值上表现出很高的简并性。我们表明，网络邻接矩阵的简单转换提供了对网络谱中高多重性的发生起源的理解。我们发现与退化特征值相关联的特征向量揭示了有助于退化的结构。由于这些退化在模型图中很少被观察到，我们提出了各种癌症网络的结果。这种方法提供了一个机会来搜索可能在网络中发挥重要作用的退化的结构。&lt;/p&gt;
+
+&lt;h3 id=&#34;网络中的高阶聚类&#34;&gt;网络中的高阶聚类&lt;/h3&gt;
+
+&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1704.03913&#34;&gt;http://arxiv.org/abs/1704.03913&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作者： Hao Yin, Austin R. Benson, Jure Leskovec&lt;/p&gt;
+
+&lt;p&gt;摘要： 复杂网络的基本属性是边缘聚类的趋势。聚类的范围通常由聚类系数量化，聚类系数是长度2路径关闭的概率，即在网络中诱发三角形。然而，超越三角形的高阶结构对于了解复杂网络至关重要，而且对于这种更高阶模式的聚类行为还没有很好的理解。在这里，我们引入了更高阶聚类系数，测量高阶网络结构的闭包概率，并提供了复杂网络边缘如何集群的更全面的观点。我们的高阶聚类系数是传统聚类系数的自然泛化。我们得到关于高阶聚类系数的几个属性，并在通常的随机图模型下进行分析。最后，我们使用高阶聚类系数从几个领域获得对真实世界网络结构的新见解。&lt;/p&gt;
+
+&lt;h3 id=&#34;图和网络中的二阶度同配性&#34;&gt;图和网络中的二阶度同配性&lt;/h3&gt;
+
+&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1704.03943&#34;&gt;http://arxiv.org/abs/1704.03943&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作者： Alfonso Allen-Perkins, Juan Manuel Pastor, Ernesto Estrada&lt;/p&gt;
+
+&lt;p&gt;摘要： 度同配性是图中高度（相对较低程度）的节点与高度节点（或低度节点）连接的趋势。这是由度相关的Pearson相关系数量化的。这里我们扩展这个概念，以解释图中给定节点的第二个邻居的影响。也就是说，我们将一个节点的二阶度视为其相邻节点的所有度的总和。然后，图形的二阶度同配性为两度度相关系数的Pearson相关系数。我们在这里发现这个二阶度同配性指数的分析表达作为贡献子图的函数。然后我们分别根据度数和二阶度同配-同配和异配-异配图的情况，研究了所有261,000个具有9个节点的连接图。更奇怪的是，我们观察到一类图，它们是度异配和二阶度同配的。由于存在某些拓扑特征，例如与高度相关的低度节点，我们解释了存在的一些图。更重要的是，我们研究了一系列49个现实世界网络，我们观察到其中几个存在异配-同配。特别是，这里研究的所有生物网络都属于这一类。我们还得出结论，没有图/网络有同配-异配结构。&lt;/p&gt;
+
+&lt;h3 id=&#34;秩序预测学业成绩-校园生活方式的行为分析&#34;&gt;秩序预测学业成绩：校园生活方式的行为分析&lt;/h3&gt;
+
+&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1704.04103&#34;&gt;http://arxiv.org/abs/1704.04103&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作者： Yi Cao, Defu Lian, Zhihai Rong, Jiatu Shi, Qing Wang, Yifan Wu, Huaxiu Yao, Tao Zhou&lt;/p&gt;
+
+&lt;p&gt;摘要： 对学生行为模式与学业成绩之间的关系进行定量的了解是迈向个性化教育的重要一步。与以往以问卷调查为主的研究相比，本文从18,960名本科生智能卡中收集行为记录，并提出了一种新颖的度量方式，称为“秩序”，它衡量校园日常生活的规律性（例如，就餐和淋浴）。实证分析表明，学业成绩（GPA）与秩序密切相关。此外，我们表明，秩序是预测学业成绩的重要特征，即使在学生勤奋的情况下也能显着提高预测精度。基于这些分析，教育行政人员可以在必要时的早期阶段更好地引导学生的校园生活，实施有效的干预措施。&lt;/p&gt;
+
+&lt;h3 id=&#34;电网系统空间一致性&#34;&gt;电网系统空间一致性&lt;/h3&gt;
+
+&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1704.04162&#34;&gt;http://arxiv.org/abs/1704.04162&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;作者： Mi Jin Lee, Beom Jun Kim&lt;/p&gt;
+
+&lt;p&gt;摘要： 强大的同步对于电网的稳定运行是不可或缺的。最近有报道说，大量的分散式发电机，而不是少量的大型发电厂，提供了增强的同步，同时具有更强的抗结构性故障的鲁棒性。在本文中，我们系统地控制了发电机地理分布的空间均匀性，得出结论：发电机分布越均匀，同步发生越多。在存在电源的时间故障的情况下，我们观察到空间均匀性有助于电网在短时间内恢复平稳性。我们还讨论了我们的结果在设计电网网络结构中的实际意义。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-04-13)</title>
@@ -1692,73 +1750,6 @@
 &lt;p&gt;作者： Priscila Martins, Manoel Miranda, Fabrício Benevenuto, Jussara Almeida&lt;/p&gt;
 
 &lt;p&gt;摘要： 自从推出以来，Pok {\&amp;lsquo;e} mon Go被指出是智能手机时代最大的游戏现象。由于游戏需要用户走在现实世界中，以便查看和捕获Pok {\ e} mons，新一波众包应用已经出现，允许用户相互协作，共享何时何地}发现。在本文中，我们描述了一种称为PokeCrew的举措之一。我们的分析揭示了这种新兴的众包任务中用户行为和系统使用的一系列方面，有助于揭示一些问题和好处。我们希望我们的努力可以启发新的众包系统的设计。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Arxiv网络科学论文摘要6篇(2017-03-24)</title>
-      <link>http://www.complexly.me/post/20170324/</link>
-      <pubDate>Fri, 24 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.complexly.me/post/20170324/</guid>
-      <description>
-
-&lt;ul&gt;
-&lt;li&gt;生成逼真的尺度复杂网络;&lt;/li&gt;
-&lt;li&gt;名誉与淘汰：专利引用的解除增长和衰老动力学;&lt;/li&gt;
-&lt;li&gt;通过点过程干预进行假新闻减免;&lt;/li&gt;
-&lt;li&gt;复杂传染的消息传递方法;&lt;/li&gt;
-&lt;li&gt;量化和抑制大型引文网络中的排名偏差;&lt;/li&gt;
-&lt;li&gt;SEANO：半监督嵌入带有异常值的属性网络;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;生成逼真的尺度复杂网络&#34;&gt;生成逼真的尺度复杂网络&lt;/h3&gt;
-
-&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1609.02121&#34;&gt;http://arxiv.org/abs/1609.02121&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;作者： Christian L. Staudt, Michael Hamann, Alexander Gutfraind, Ilya Safro, Henning Meyerhenke&lt;/p&gt;
-
-&lt;p&gt;摘要： 生成模型研究是网络科学新兴领域的核心项目，研究如何通过正式规则产生真实网络中的统计模式。这些生成模型的输出是设计和评估网络计算方法以及验证和模拟研究的基础。在过去二十年中，已经提出了各种模型，其最终目标是实现生成网络的全面现实化。在本研究中，我们（a）引入了一种称为ReCoN的新发电机; （b）探索如何将ReCoN和一些现有模型适用于原始网络以产生结构上类似的复制品，（c）使用ReCoN生产比原始样本更大的网络，最后（d）讨论开放问题和有希望的研究方向。在比较实验研究中，我们发现ReCoN通常优于许多其他最先进的网络生成方法。我们认为，ReCoN是一种可扩展和有效的工具，用于对给定网络进行建模，同时在微观和宏观尺度上保留重要属性，并将示例数据缩放到大小数量级。&lt;/p&gt;
-
-&lt;h3 id=&#34;名誉与淘汰-专利引用的解除增长和衰老动力学&#34;&gt;名誉与淘汰：专利引用的解除增长和衰老动力学&lt;/h3&gt;
-
-&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1611.05076&#34;&gt;http://arxiv.org/abs/1611.05076&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;作者： K.W. Higham, M. Governale, A.B. Jaffe, U. Zülicke&lt;/p&gt;
-
-&lt;p&gt;摘要： 我们提供了1998年美国专利商标局授予的专利随着时间的推移的分析。与以前的研究相反，进行了技术类别的分类，外部引起引文数量增长受到控制。我们的方法揭示了内在的引用率，明确地分为：从长远来看，指数时间依赖的老化功能和完全时间无关的优先依附型生长核。对于这种可分离引用率的一般情况，我们以对其老化和成长部分的任何功能形式有效的形式分析地获得时间依赖性引文分布。专利引用数据的理论和长期特征之间的良好协议确定了我们的工作，作为解决关于知识传播动态的仍然开放的问题的有用框架，例如在短时间内观察到的引用过量。&lt;/p&gt;
-
-&lt;h3 id=&#34;通过点过程干预进行假新闻减免&#34;&gt;通过点过程干预进行假新闻减免&lt;/h3&gt;
-
-&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1703.07823&#34;&gt;http://arxiv.org/abs/1703.07823&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;作者： Mehrdad Farajtabar, Jiachen Yang, Xiaojing Ye, Huan Xu, Rakshit Trivedi, Elias Khalil, Shuang Li, Le Song, Hongyuan Zha&lt;/p&gt;
-
-&lt;p&gt;摘要： 我们提出了通过将强化学习与点过程网络活动模型结合起来，在社交网络中处理假新闻的第一个多阶段干预框架。网络内的假消息和缓解事件的传播是由多变量的霍克斯过程与额外的外生控制术语建立的。通过选择状态的特征表征，定义缓解行动和建立奖励功能来衡量缓解活动的有效性，我们将假消息缓解的问题映射到强化学习框架中。我们开发了一个独特的多元网络点过程的策略迭代方法，目的是优化预算限制下最大总收益的动作。我们的方法显示了在Twitter网络上的实时干预实验中有希望的表现，以减轻替代假冒新闻活动，并优于合成数据集的替代方案。&lt;/p&gt;
-
-&lt;h3 id=&#34;复杂传染的消息传递方法&#34;&gt;复杂传染的消息传递方法&lt;/h3&gt;
-
-&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1703.08046&#34;&gt;http://arxiv.org/abs/1703.08046&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;作者： James P. Gleeson, Mason A. Porter&lt;/p&gt;
-
-&lt;p&gt;摘要： 消息传递方法提供了一种强大的方法来计算随机网络上的级联的预期大小（例如，从配置模型集合或其概括中绘制），随着节点数量$ N $变得无限大或具体有限大小网络。我们检查消息传递方法，并显示如何使用（Dhar等人，1997）和（Gleeson，2008）的方法为配置模型网络导出它。使用这种方法，我们为这样的网络解释如何确定“级联条件”的解析表达式，这决定了是否会发生全局级联。我们将这种方法扩展到特定有限尺寸网络的消息传递方法（Shrestha和Moore，2014; Lokhov等，2015），我们得出了一般的级联条件。在本章中，我们用Watts阈值模型来说明这些想法。&lt;/p&gt;
-
-&lt;h3 id=&#34;量化和抑制大型引文网络中的排名偏差&#34;&gt;量化和抑制大型引文网络中的排名偏差&lt;/h3&gt;
-
-&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1703.08071&#34;&gt;http://arxiv.org/abs/1703.08071&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;作者： Giacomo Vaccario, Matus Medo, Nicolas Wider, Manuel Sebastian Mariani&lt;/p&gt;
-
-&lt;p&gt;摘要： 众所周知，由于不同的科学领域采用不同的引文实践，不能直接比较来自不同领域的论文的引文数量。引用数量也受到纸张年龄的强烈偏见，因为较早的论文有更多的时间来吸引引文。各种程序旨在抑制这些偏差，并产生新的归一化指标，如相对引用次数。我们使用Microsoft Academic Graph的大型引文数据集和基于马哈拉诺比斯距离的新统计框架，显示了众所周知的指标（包括相对引用次数和Google的PageRank评分）的排名受到纸张领域和年龄的显着偏差。我们提出一个由$ z $ -score驱动的一般归一化程序，当应用于引文计数和PageRank分数时，这种程序的排名偏低。&lt;/p&gt;
-
-&lt;h3 id=&#34;seano-半监督嵌入带有异常值的属性网络&#34;&gt;SEANO：半监督嵌入带有异常值的属性网络&lt;/h3&gt;
-
-&lt;p&gt;地址： &lt;a href=&#34;http://arxiv.org/abs/1703.08100&#34;&gt;http://arxiv.org/abs/1703.08100&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;作者： Jiongqian Liang, Peter Jacobs, Srinivasan Parthasarathy&lt;/p&gt;
-
-&lt;p&gt;摘要： 网络嵌入近年来受到越来越多的关注，这是由于其在诸如顶点分类，社区检测和网络可视化等图形挖掘任务中的广泛应用。嵌入同构网络在广泛研究的过程中，很少有方法检查了在半监督环境中出现的部分标记属性网络（PLAN）的嵌入。在本文中，我们提出了一种新的框架，称为半静态嵌入在具有异常值的属性网络（SEANO）中，以学习一种鲁棒的低维向量表示，捕获PLAN中顶点的拓扑接近度，属性亲和度和标签相似度，涉及异常值。我们设计了一个树状的深层神经网络，既有监督的和无监督的组件。这些组件共享网络的前几层。我们在两个组件之间进行交替训练，将有关网络结构，属性和标签的信息迭代地推入嵌入。各种数据集的实验结果证明了在转换和归纳设置下的半监督分类中，SEANO优于现有技术的优点。我们也显示为副产品，当应用于异常值检测任务时，SEANO可以显着优于其他方法。最后，我们介绍了SEANO在具有挑战性的现实环境中的应用 - 卫星图像的洪水映射。在本质上，我们发现SEANO能够在这项任务上胜过最先进的遥感算法。&lt;/p&gt;
 </description>
     </item>
     
