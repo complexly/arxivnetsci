@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="http://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要13篇(2017-04-20) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="随机块模型和约束非负矩阵分解的似然最大化的等价性; 邓巴圈的零模型; WSDM 2017上单次与双盲审查; 建立政党和选民之间的互动; 高可再生欧洲电力网络">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要13篇(2017-04-20) - 网络科学研究速递">
+<meta itemprop="description" content="随机块模型和约束非负矩阵分解的似然最大化的等价性; 邓巴圈的零模型; WSDM 2017上单次与双盲审查; 建立政党和选民之间的互动; 高可再生欧洲电力网络">
+<meta itemprop="image" content="http://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要13篇(2017-04-20) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.complexly.me/post/20170420/" />
+<meta property="og:image" content="http://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="随机块模型和约束非负矩阵分解的似然最大化的等价性; 邓巴圈的零模型; WSDM 2017上单次与双盲审查; 建立政党和选民之间的互动; 高可再生欧洲电力网络">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="http://www.complexly.me/post/20170420/">
+  <link rel='shortlink' href="http://www.complexly.me/post/20170420/"/>
+  <link rel="shortcut icon" href="http://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="http://www.complexly.me/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="http://www.complexly.me/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="http://www.complexly.me/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="http://www.complexly.me/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="http://www.complexly.me/public/highlight/styles/github.css">
+<script src="http://www.complexly.me/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="http://www.complexly.me/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="http://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="http://www.complexly.me/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="http://www.complexly.me/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="http://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="http://www.complexly.me/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要13篇(2017-04-20)</h1>
+
+                  <p class="post-byline">
+                    2017年04月20日 · 5005 字 ·
+                    阅读时间约10分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      
+
+<ul>
+<li>随机块模型和约束非负矩阵分解的似然最大化的等价性;</li>
+<li>邓巴圈的零模型;</li>
+<li>WSDM 2017上单次与双盲审查;</li>
+<li>建立政党和选民之间的互动;</li>
+<li>高可再生欧洲电力网络合作的好处;</li>
+<li>对非结构化文本数据的感知;</li>
+<li>知道你的25个推文：用社交媒体预测个性的新模式;</li>
+<li>通过随机游走选择图模型;</li>
+<li>模拟工具来比较和优化移动计划;</li>
+<li>局部低阶矩阵近似的社会建议;</li>
+<li>基于随机游走的网络嵌入算法的隐藏流结构和度量空间;</li>
+<li>科学中的性别差异？男性和女性计算机科学家的辍学，生产力，合作与成功;</li>
+<li>电话上的耳机;</li>
+</ul>
+
+<h3 id="随机块模型和约束非负矩阵分解的似然最大化的等价性">随机块模型和约束非负矩阵分解的似然最大化的等价性</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1604.01200">http://arxiv.org/abs/1604.01200</a></p>
+
+<p>作者： Zhong-Yuan Zhang, Yujie Gai, Yu-Fei Wang, Hui-Min Cheng</p>
+
+<p>摘要： 复杂网络中的社区结构检测对于理解网络的拓扑结构以及其功能十分重要。随机块模型和非负矩阵分解是社区检测的两种广泛使用的方法，从不同的角度提出。在本文中，对它们之间的关系进行了研究。随机块模型的似然函数对数可以在非负矩阵分解的框架下进行重构。除了模型等价性，两种方法采用的算法是不同的。进行初步数值实验来比较算法的行为。</p>
+
+<h3 id="邓巴圈的零模型">邓巴圈的零模型</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1701.07428">http://arxiv.org/abs/1701.07428</a></p>
+
+<p>作者： Manuel Jiménez-Martín, Ignacio Tamarit, Javier Rodríguez-Laguna, Elka Korutcheva</p>
+
+<p>摘要： 个人的社会群体可以由个人和他们的熟人之间的联系形成的自我网络来代表。自我网络呈现出越来越大的嵌套层的内部结构，其具有降低的关系强度，其尺寸呈现精确的缩放比例。从有限的社会带宽的概念开始，假设每一层链接的固定成本，我们提出一个盛大的规范集合，产生观察到的层级社会结构。在我们的设置中，我们进一步表明，展示这种分级组织的配置数量占主导地位。这个结果表明，如果我们假设存在需求不同资源量的层次，观察到的自我网络的内部结构确实是一个自然的结果。在热力学极限中，当自我网络副本数量大时，实现了特定层次度降低到泊松变量。我们还发现，在某些条件下，等分层成本是获得恒定组大小缩放所必需的。最后，我们将模型与经验社会网络进行比较。</p>
+
+<h3 id="wsdm-2017上单次与双盲审查">WSDM 2017上单次与双盲审查</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1702.00502">http://arxiv.org/abs/1702.00502</a></p>
+
+<p>作者： Andrew Tomkins, Min Zhang, William D. Heavlin</p>
+
+<p>摘要： 在本文中，我们研究了采用单盲审查的会议计划委员会的影响，委员会成员知道论文作者的名称和隶属关系以及双盲审查，其中这些信息对委员会成员是不可见的。 WSDM 2017，第十届ACM国际网络搜索和数据挖掘ACM会议，进行了一项对照实验，其中每篇论文由四名委员会成员审查。这四位评审员中的两名是从一组可以获得作者信息的委员会成员中选出的;另外两个人从不相关的游泳池中选出，他们无法访问这些信息。这种信息的不对称性持续存在于论文招标，审查论文和输入分数的过程中。单盲条件下的审查人员一般会报22％以上的文件，并优先申办高级机构的论文。一旦将文件分配给审稿人，单盲审稿人比双盲同行更有可能推荐来自着名作家和顶级机构的接受文件。估计的赔率乘数分别为1.76和1.67，结果是有形的。对于女性作者，我们的研究中相关的赔率乘数为0.82并不具有统计学意义。然而，荟萃分析将此值与其他实验的值相一致，而在这一较大聚集的上下文中，性别影响具有统计学意义。</p>
+
+<h3 id="建立政党和选民之间的互动">建立政党和选民之间的互动</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.05453">http://arxiv.org/abs/1704.05453</a></p>
+
+<p>作者： F. Bagarello, F. Gargano</p>
+
+<p>摘要： 在本文中，我们最近提出了一些关于描述在他们自己之间以及与一个选民盆地相互作用的政党之间的联盟的操纵性方法的结果。特别是，我们提出和比较三种不同的模型，推导出他们相关{决策函数}的动态，即每一方形成或不组合联盟的态度。在第一个模型中，考虑了各方与其选民之间的相互作用。我们表明，这些互动只是根据选民而将决策功能推向某些渐近价值：这是{\ em完美派对}，它符合选民的建议。第二个模式是第一个模型的扩展，其中包括修改选民状况的$ rule $以及结果在某个特定时间步长的决策函数。在第三个模型中，我们忽略与选民的互动，而我们考虑到双方之间的立方和四次相互作用，我们表明我们得到（稍微振荡）渐近值的决策函数，接近于它们的初始值。这是{\ em real party}，不听选民。详细考虑了几个明确的情况，并显示了数值结果。</p>
+
+<h3 id="高可再生欧洲电力网络合作的好处">高可再生欧洲电力网络合作的好处</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.05492">http://arxiv.org/abs/1704.05492</a></p>
+
+<p>作者： David P. Schlachtberger, Tom Brown, Stefan Schramm, Martin Greiner</p>
+
+<p>摘要： 为了实现雄心勃勃的欧洲CO $ _2 $减排目标，未来欧洲电力系统的大多数情况依赖于大量的风力和太阳能光伏发电。我们在两个概念之间进行插值，以平衡这些可再生能源的可变性：使用输电网平衡大陆尺度并在局部与存储平衡。通过系统地将传输容量从最佳电平限制到零来完成该插值。我们对风能，太阳能，水力发电，天然气发电和输电的能力投资和调度进行技术经济成本优化，以及泵水，电池和氢气储存等存储选项。与1990年相比，这种模拟假设减少95％CO $ _2 $的排放量，并且在30个欧洲国家的天气和电力需求的完整历史年份上运行。在具有较高传输扩张能力的成本优化系统中，能源发电以风力（65％）和水电（15％）为主，平均系统成本与当今的系统相当。限制传输使平衡有利于太阳能和存储，将成本提高了三分之一。由于限制被放宽，最佳电网扩容的成本效益的85％可以仅占传输量的44％。</p>
+
+<h3 id="对非结构化文本数据的感知">对非结构化文本数据的感知</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.05505">http://arxiv.org/abs/1704.05505</a></p>
+
+<p>作者： Lin Li, William M. Campbell, Cagri Dagli, Joseph P. Campbell</p>
+
+<p>摘要： 社会科学中的许多网络分析任务都依赖于使用明确的关系或正在考虑的实体之间的交互创建的预先存在的数据源。例子包括电子邮件日志，社交媒体上的朋友和追随者网络，通信网络等。在这些数据中，识别谁连接到谁以及如何连接是相对容易的。然而，我们每天遇到的大多数数据是非结构化的自由文本数据，例如论坛，在线市场等。从非结构化文本中提取网络数据要困难得多。在这项工作中，我们提出了一种用于分析非结构化文本数据并将数据转换为直接适用于下游应用程序的结构化图的端到端系统。具体来说，我们来看社交媒体数据，并尝试预测用户帖子中最具指示性的词语。所得到的关键字可以用于构建用于下游处理的上下文+内容网络，例如基于图的分析和学习。考虑到这一目标，我们将我们的方法应用于跨域实体解决方案的应用。使用自动关键字的结果系统的性能显示了具有用户注释的主题标签的系统的改进。</p>
+
+<h3 id="知道你的25个推文-用社交媒体预测个性的新模式">知道你的25个推文：用社交媒体预测个性的新模式</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.05513">http://arxiv.org/abs/1704.05513</a></p>
+
+<p>作者： Pierre-Hadrien Arnoux, Anbang Xu, Neil Boyette, Jalal Mahmud, Rama Akkiraju, Vibha Sinha</p>
+
+<p>摘要： 预测个性对于支持以人为中心的活动的社会应用来说至关重要，但是用户书面文本的先前建模方法需要太多的输入数据才能在社交媒体的背景下实际使用。在这项工作中，我们的目标是大幅度减少个性化建模的数据需求，并开发适用于Twitter上大多数用户的模型。我们的模型将Word嵌入功能与高斯过程回归相结合。基于Twitter上超过1.3K用户的评估，我们发现我们的模型获得与现有技术相似或更好的精度，数据减少8倍。</p>
+
+<h3 id="通过随机游走选择图模型">通过随机游走选择图模型</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.05516">http://arxiv.org/abs/1704.05516</a></p>
+
+<p>作者： Lin Li, William M. Campbell, Rajmonda S. Caceres</p>
+
+<p>摘要： 在本文中，我们提出了一种基于随机游走过程的新颖方法，用于发现图模型的有意义的表示。我们的方法利用许多短随机游走的瞬态行为与新的初始化机制来产生模型识别特征。这些特征能够捕获底层图模型的更全面的结构签名。所得到的表示对于节点排列和图的大小都是不变的，允许在大类图之间进行直接比较。我们测试了我们对两个具有挑战性的模式选择问题的方法：在随机块模型中Erd \“{o} s-Renyi模型的稀疏体系中的歧视和种植团体问题，我们的表示方法实现了与已知理论限制，除了计算简单和可扩展到大图。</p>
+
+<h3 id="模拟工具来比较和优化移动计划">模拟工具来比较和优化移动计划</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.05529">http://arxiv.org/abs/1704.05529</a></p>
+
+<p>作者： Alessandra Campo, Roberto D&rsquo;Autilia</p>
+
+<p>摘要： 在过去几十年中，流动规划一直是城市发展的根本问题。需要充分了解移动系统影响整个城市的交通行为的方式，以提出符合城市目标的计划。特别是，为了预测移动计划变化的后果，需要比较不同计划和各自成本和收益的工具。这项研究的目的是展示如何根据不同的计划来比较两种不同的流动模型，以及如何使用这种比较策略来制定或审查流动性计划。作为一个案例研究，我们分析了巴塞罗那市，在过去十年中，市政府应用了新的城市流动计划，每5年审查一次（PMU 2007和2012）。通过使用MATSim仿真工具，我们实现了基础设施网络的两种模式：我们建立了地铁，火车，电车和汽车网络。两种车型之间的主要区别在于汽车网络的速度限制以及自行车网络的存在与否。结果表明，如果我们设定低速限制并增加自行车基础设施，平均行车时间会减少，自行车网络的用户数增加，损害公共和私人交通工具。特别是，我们显示，公共交通工具的用户数量比私人运输用户减少。这种行为与公共汽车网络的缺乏有关，在这些模型中没有模拟，这表明只有在与总线网络集成时，才能正常工作。</p>
+
+<h3 id="局部低阶矩阵近似的社会建议">局部低阶矩阵近似的社会建议</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.05735">http://arxiv.org/abs/1704.05735</a></p>
+
+<p>作者： Huan Zhao, Quanming Yao, Dik Lun Lee</p>
+
+<p>摘要： 在推荐文献中，社会关系已经成功地纳入到传统的推荐方法中，特别是最流行的最先进的一种矩阵因式分解（MF）。 MF基于用户项目评级矩阵为低等级的假设，因此可以被分解成表示用户和项目潜在特征的两个较小的矩阵。最近，基于一个新的假设，已经提出了局部LOw秩矩阵近似法（LLORMA），而不是假设等级矩阵是低秩序的，即等价矩阵由一组低秩子矩阵组成，称为局部低秩。代替分解原始矩阵，这些低秩子矩阵被独立地分解以近似原始评级矩阵。实验结果表明，与标准MF相比，LLORMA显着提高了推荐性能。不幸的是，LLORMA并没有利用任何社会信息。在本文中，我们提出了一种称为社会局部加权矩阵因式分解（SLWMF）的新型模型，这是局部低阶框架中社会推荐模型的第一个工作。 SLWMF基于直观的想法，如果我们可以将社交关系智能地整合到局部低级框架中，那么推荐性能可以肯定地提高。</p>
+
+<h3 id="基于随机游走的网络嵌入算法的隐藏流结构和度量空间">基于随机游走的网络嵌入算法的隐藏流结构和度量空间</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.05743">http://arxiv.org/abs/1704.05743</a></p>
+
+<p>作者： Weiwei Gu, Li Gong, Xiandao Lou, Jiang Zhang</p>
+
+<p>摘要： 将网络中的所有顶点编码为根据其局部和全局结构的一组数字向量的网络嵌入引起了广泛的关注。网络嵌入不仅可以学习网络的重要特征，如聚类和链接预测，还可以学习节点的潜在向量表示，为各种应用（如可视化，节点分类和推荐）提供理论支持。作为研究的最新进展，已经设计了基于随机游走的几种算法。虽然他们学习效率和准确度的高分得到了很大的关注，但仍然缺乏理论解释，算法的透明度已被怀疑。在这里，我们提出一种基于开放流网络模型的方法，揭示网络上不同随机游走策略的底层流结构及其隐含度量空间。我们表明，基于随机游走的嵌入的本质是在开放流网络上定义的潜在度量结构。这不仅加深了对随机游走嵌入算法的理解，而且有助于在嵌入中寻找新的潜在应用。</p>
+
+<h3 id="科学中的性别差异-男性和女性计算机科学家的辍学-生产力-合作与成功">科学中的性别差异？男性和女性计算机科学家的辍学，生产力，合作与成功</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.05801">http://arxiv.org/abs/1704.05801</a></p>
+
+<p>作者： Mohsen Jadidi, Fariba Karimi, Claudia Wagner</p>
+
+<p>摘要： 科学合作塑造出新颖的想法和新发现，帮助科学家通过出版高影响力的出版物和授予建议来推进科学事业。然而，最近的研究表明，许多科学实践中仍然存在性别不平等现象，从招聘到同行审查流程和拨款申请。虽然实证研究结果突出表明，合作影响成功，性别不平等存在于科学中，但我们对协作模式中与性别有关的差异，随着时间的推移如何变化以及如何影响科学成功几乎不了解。在本文中，我们通过研究47年来超过一百万计算机科学家的辍学率，生产力和协作模式的性别差异来弥补这一差距。我们调查哪些协作模式与科学成功有关，如果这些模式与男科和女科学家相似。我们的研究结果突出表明，虽然辍学率，生产力和合作模式存在微妙的性别差异，但成功的男科学家和女性科学家却发现了相同的协作模式：与同一职业年龄的科学家相比，他们倾向于与其他科学家合作，更持久和重复的合作，将人们聚集在一起，不与之前的合作，并与其他成功的科学家进行合作。</p>
+
+<h3 id="电话上的耳机">电话上的耳机</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1704.05815">http://arxiv.org/abs/1704.05815</a></p>
+
+<p>作者： Thomas Louail, Marc Barthelemy</p>
+
+<p>摘要： 我们分析一个数据集，提供数千个音乐听众有效播放的完整信息。我们的分析证实了以前通过访谈和问卷调查研究强调的一些属性，但也揭示了个人和集体层面的新统计模式。特别是，我们显示，个体遵循以相同波动，交替重和轻听力为特征的常规听觉节奏，并可根据其时间习惯 - “早期鸟类”，“工作时间”分为四组相似大小听众“，”晚上听众“和”夜猫子“。我们提供听众在重复聆听和发现新内容之间相互作用的详细的放射检查。我们展示不同的流派鼓励不同的听力习惯，从古典或爵士音乐，在不同的歌曲之间更平衡的听力，嘻哈和舞蹈与更多的异质分布的戏剧。最后，我们提供了在共同的歌曲中相互遥远的人们的距离。特别是，我们显示，DJ的歌曲数量应该适用于大小为$ N $的随机观众，以便每个人听到至少一首他/她目前听的歌曲，是$ S \ sim N ^ \ alpha $其中指数取决于音乐流派，在$ [0.5,0.8] $范围内。更一般地说，我们的研究结果表明，最近获得几乎无限的歌曲目录不能促进新奇的探索，但大多数用户喜欢重复相同的歌曲。</p>
+
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="http://www.complexly.me/public/qrcode.jpg" width="129px" height="129px"/>
+                        <div style="text-align:center;">微信扫一扫交流</div>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信关注：netsci
+                            <br />本文地址：<a target="_blank" href="http://www.complexly.me/post/20170420/">http://www.complexly.me/post/20170420/</a>
+                            <br />
+                            Arxiv文章摘要版权归原作者所有，由作者进行翻译整理，未经同意请勿随意转载。</p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+              
+              <div class="jiathis_style_24x24"><span class="jiathis_txt">分享到：</span>
+              <a class="jiathis_button_weixin"></a>
+              <a class="jiathis_button_cqq"></a>
+              <a class="jiathis_button_tsina"></a>
+              <a class="jiathis_button_linkedin"></a>
+              <a class="jiathis_button_evernote"></a>
+              <a href="http://www.jiathis.com/share?uid=2126537" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank"></a>
+              <br><br />
+              </div>
+              <script type="text/javascript" >
+              var jiathis_config={
+                summary:"",
+                shortUrl:false,
+                hideMore:false
+              }
+              </script>
+              <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=2126537" charset="utf-8"></script>
+              
+              <section id="comments" class="themeform">
+<div id="uyan_frame"></div>
+<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2126537"></script>
+</section>
+
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="http://www.complexly.me/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="http://www.complexly.me/post/20170419/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要7篇(2017-04-19)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. <br>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank">Hugo</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
