@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2017-05-02)</title>
+      <link>http://www.complexly.me/post/20170502/</link>
+      <pubDate>Tue, 02 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170502/</guid>
+      <description>通过成本补贴促进外部性采用互联网技术和服务; 用词向量和集合模型预测和理解法律制定; 在人类流动中建模时空程序; 随机块模型揭示了引文模式的映射及</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2017-05-01)</title>
