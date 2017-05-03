@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 02 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2017-05-03)</title>
+      <link>http://www.complexly.me/post/20170503/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170503/</guid>
+      <description>接近Rado Multigraph的优先连接流程; 适应用于在含时图中枚举最大分类的Bron-Kerbosch算法; 过度的互惠扭曲了在线社交网络</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2017-05-02)</title>
