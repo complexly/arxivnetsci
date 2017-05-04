@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 03 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2017-05-04)</title>
+      <link>http://www.complexly.me/post/20170504/</link>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170504/</guid>
+      <description>网络中元数据和社区检测的基本事实; 高效，密集，有成效的城市Kaya关系的见解; 随机规则图的Lovasz Theta函数和硬制度中的社区检测; 雅</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2017-05-03)</title>
