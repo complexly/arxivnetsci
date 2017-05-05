@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 04 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2017-05-05)</title>
+      <link>http://www.complexly.me/post/20170505/</link>
+      <pubDate>Fri, 05 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170505/</guid>
+      <description>有向随机图协议动态; 真相自然而然吗？时间压力增加了一次性欺骗博弈的诚实; 使用链接分析的匿名图中的名称实体消歧：基于网络嵌入的解决方案; 移民代</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2017-05-04)</title>
