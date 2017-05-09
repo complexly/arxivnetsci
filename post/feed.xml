@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 08 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要30篇(2017-05-09)</title>
+      <link>http://www.complexly.me/post/20170509/</link>
+      <pubDate>Tue, 09 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170509/</guid>
+      <description>网络分析手册[KONECT - 科布伦茨网络集]; 使用闲话传播信息：随机对照试验的理论与证据; 认知与社会规范中的朋友悖论与系统偏见; 增强二次金融</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2017-05-08)</title>
