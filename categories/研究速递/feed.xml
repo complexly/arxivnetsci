@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 09 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2017-05-10)</title>
+      <link>http://www.complexly.me/post/20170510/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170510/</guid>
+      <description>在线性时间采样几何不均匀随机图; 一般类别的基础几何的无量纲网络的平均距离; 关于可交换错误的关系数据的回归的标准误差; 信息网络模型：效率，稳定</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要30篇(2017-05-09)</title>
