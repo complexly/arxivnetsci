@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 10 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-05-11)</title>
+      <link>http://www.complexly.me/post/20170511/</link>
+      <pubDate>Thu, 11 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170511/</guid>
+      <description>汽车销售动态背后的最大熵原理; 挖掘目标属性子空间和大型归属网络中目标社区的集合; 挖掘应用感知社区组织与社会网络中有关属性的扩展特征子空间; 基</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2017-05-10)</title>
