@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 12 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2017-05-15)</title>
+      <link>http://www.complexly.me/post/20170515/</link>
+      <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170515/</guid>
+      <description>使用神经网络从异质证据学习个体的多方面表示; 使用支持向量回归预测在线视频的流行度; 对具有难点节点状态的网络的动力学的几何约束; 组合无标度网络</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-05-12)</title>
