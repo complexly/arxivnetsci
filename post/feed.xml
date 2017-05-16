@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 15 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2017-05-16)</title>
+      <link>http://www.complexly.me/post/20170516/</link>
+      <pubDate>Tue, 16 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170516/</guid>
+      <description>市场法非正常股票回报和最高法院决策; 一种用于在线社交网络中谣言阻塞的高效随机算法; 贝叶斯集团决策：算法和复杂性; 性别的社会结构的偏差和差异;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2017-05-15)</title>
