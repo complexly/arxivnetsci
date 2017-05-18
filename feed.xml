@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 17 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2017-05-18)</title>
+      <link>http://www.complexly.me/post/20170518/</link>
+      <pubDate>Thu, 18 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170518/</guid>
+      <description>网络相关结果存在的模型辅助设计实验; 通过在线社交媒体了解音乐多样性; 多组行人流的粒子方法; 集体关注对社会媒体争议辩论的影响; 有向图的最优分割</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2017-05-17)</title>
