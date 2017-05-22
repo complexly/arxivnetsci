@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2017-05-22)</title>
+      <link>http://www.complexly.me/post/20170522/</link>
+      <pubDate>Mon, 22 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170522/</guid>
+      <description>新产品与消费者复苏的扩散; 在量子信息中粗心使用语言; 混合理性在偏好形成中的证据; MPC遇到社会网络分析：分布式敏感社交网络的隐私保护分析; 网</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2017-05-19)</title>
