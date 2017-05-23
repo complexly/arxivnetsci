@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 22 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2017-05-23)</title>
+      <link>http://www.complexly.me/post/20170523/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170523/</guid>
+      <description>布尔八卦网络; 种子PageRank中的本地化; 从分离到混合财富城市的转型动力学; 抗议活动与抗议活动之间的不同话语：#BlackLivesMa</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2017-05-22)</title>
