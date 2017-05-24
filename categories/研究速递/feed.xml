@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2017-05-24)</title>
+      <link>http://www.complexly.me/post/20170524/</link>
+      <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170524/</guid>
+      <description>在具有半带反馈的独立级联模型下的在线影响最大化; 揭示物理网络中的隐藏流; 从秩组合评估Zipfs法则的解释和确切公式; BECCS即时部署负面排</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2017-05-23)</title>
