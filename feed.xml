@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 24 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-05-25)</title>
+      <link>http://www.complexly.me/post/20170525/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170525/</guid>
+      <description>相位转换和谱图聚类的模型顺序选择标准; 生成大量合成网络的新方法; 网格上的自组织隔离; 在空间公共物品博弈中排除联盟形式; 一个路径节点关键度度量</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2017-05-24)</title>
