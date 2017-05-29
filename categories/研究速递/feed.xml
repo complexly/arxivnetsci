@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 26 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2017-05-29)</title>
+      <link>http://www.complexly.me/post/20170529/</link>
+      <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170529/</guid>
+      <description>变形拉普拉斯算子和有向网络中的谱排名; 联合复发疫情的同步和混合爆发; 使用二进制编程计算符号网络中的挫折指数的确切方法; 关于科学出版物的“持续</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-05-26)</title>
