@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.complexly.me/post/20170530/</loc>
+    <lastmod>2017-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.complexly.me/post/20170529/</loc>
     <lastmod>2017-05-29T00:00:00+00:00</lastmod>
   </url>
@@ -318,7 +323,7 @@
   
   <url>
     <loc>http://www.complexly.me/post/</loc>
-    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -329,13 +334,13 @@
   
   <url>
     <loc>http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/</loc>
-    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.complexly.me/</loc>
-    <lastmod>2017-05-29T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 29 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要21篇(2017-05-30)</title>
+      <link>http://www.complexly.me/post/20170530/</link>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170530/</guid>
+      <description>建模不同意见的动态; BiFold可视化的二分数据集; 在Twitter上挖掘健康和疾病事件：验证印度尼西亚境内的搜索协议; 多重词汇网络揭示了儿</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2017-05-29)</title>
