@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2017-06-07)</title>
+      <link>http://www.complexly.me/post/20170607/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170607/</guid>
+      <description>利用链路预测算法通用检测异常顶点; 挖掘在线社交数据，用于检测社交网络精神障碍; 代理人的情报在集体行为中产生结构性的相变; 紧急网络模块化; 无状</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2017-06-06)</title>
