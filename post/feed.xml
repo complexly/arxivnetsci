@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2017-06-08)</title>
+      <link>http://www.complexly.me/post/20170608/</link>
+      <pubDate>Thu, 08 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170608/</guid>
+      <description>人类群集动力学的认知机制; 随机几何图谱的谱统计; 社会网络极端主义宣传的传染动力; 衡量在线政治话语的演讲; 二维指数来量化科学研究的影响和范围;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2017-06-07)</title>
