@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 12 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2017-06-13)</title>
+      <link>http://www.complexly.me/post/20170613/</link>
+      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170613/</guid>
+      <description>网络中群集数量的交叉验证估算; 社区检测中群集选择的比较分析; 在具有吸引力的活动驱动网络上随机游走; 减少具有对称性破坏的多代理系统的复杂性：通</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2017-06-12)</title>
