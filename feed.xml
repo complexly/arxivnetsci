@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2017-06-15)</title>
+      <link>http://www.complexly.me/post/20170615/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170615/</guid>
+      <description>基于LFR基准的I / O高效生成大量图; 互动模式和个人动态塑造了我们同步移动的方式; 尾部的故事：优胜者如何竞争领导力; 与推荐人在当地相互作用的</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2017-06-14)</title>
