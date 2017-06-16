@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 15 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2017-06-16)</title>
+      <link>http://www.complexly.me/post/20170616/</link>
+      <pubDate>Fri, 16 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170616/</guid>
+      <description>瓦楞随机游走：快速准确地挖掘大图中的主题统计; ChoiceRank：从网络中的节点流量中识别偏好; 多文化维基百科挖掘地缘政治互动：利用减化的</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2017-06-15)</title>
