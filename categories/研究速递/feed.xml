@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 16 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2017-06-19)</title>
+      <link>http://www.complexly.me/post/20170619/</link>
+      <pubDate>Mon, 19 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170619/</guid>
+      <description>在科学论文中建模引文和共同作者之间的协同; 在线社交媒体上的公共话语和新闻消费：对意大利全民投票的定量，跨平台分析; 社交媒体上的交通：旅行相关</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2017-06-16)</title>
