@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2017-06-21)</title>
+      <link>http://www.complexly.me/post/20170621/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170621/</guid>
+      <description>心理病理网络中的症状如何预测？ 18个公开数据集的再分析; 超越“欲速不达”的效果; 持续关系的力量背后的时间模式; 家乡城镇用户的位置感知推荐系统</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2017-06-20)</title>
