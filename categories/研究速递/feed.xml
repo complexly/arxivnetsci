@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2017-06-23)</title>
+      <link>http://www.complexly.me/post/20170623/</link>
+      <pubDate>Fri, 23 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170623/</guid>
+      <description>多代理模型中周期性外场对语言动态的影响; 知识流动在技术领域的动态模式：经验结果和链路预测; 均衡网络博弈中的信息和挫折与偏好相冲突; 个人与活动</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2017-06-22)</title>
