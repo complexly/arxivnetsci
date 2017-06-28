@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 27 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jun 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2017-06-28)</title>
+      <link>http://www.complexly.me/post/20170628/</link>
+      <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170628/</guid>
+      <description>对抗聚合的新在线生态学：ISIS及其以外; 一种用于建模低压网络需求的遗传算法方法; 随机块模型的可检测限制的有限尺寸分析; 网络防御作为复杂的自</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2017-06-27)</title>
@@ -24,7 +33,7 @@
     <item>
       <title>Arxiv网络科学论文摘要6篇(2017-06-26)</title>
       <link>http://www.complexly.me/post/20170626/</link>
-      <pubDate>Sun, 25 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.complexly.me/post/20170626/</guid>
       <description>NOESIS网络导向探测，仿真和感应系统; 交通成本：美国燃料价格空间分析; 与有效推文相关的挖掘功能; 用于估计边感染概率的通用框架; 社会机器人</description>
