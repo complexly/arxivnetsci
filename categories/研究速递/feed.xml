@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 30 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2017-07-03)</title>
+      <link>http://www.complexly.me/post/20170703/</link>
+      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170703/</guid>
+      <description>任意规则化的图; 科学作者的性别不平衡的具体形式：网络方法; 欧几里得随机图的社区检测; 调查运输需求模型中社交网络数据的潜力; Chatbots作</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2017-06-30)</title>
@@ -126,7 +135,7 @@
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>http://www.complexly.me/post/20170614/</guid>
-      <description>通过连续子模块功能的稳健预算分配; 2017年GitHub开源调查摘要分析; “（Weitergeititet von Sinististin）”：维基</description>
+      <description>基于连续次模函数的稳健预算分配; 2017年GitHub开源调查摘要分析; “（Weitergeititet von Sinististin）”：维基百</description>
     </item>
     
     <item>
