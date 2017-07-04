@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2017-07-04)</title>
+      <link>http://www.complexly.me/post/20170704/</link>
+      <pubDate>Tue, 04 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170704/</guid>
+      <description>一致性，反差性和意见分歧：来自意见动态数学模型的见解; 用于量化博弈理论的全局稳定性和动力学的景观和通量; TS网络的简单表征：理论与应用; 20</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2017-07-03)</title>
