@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 06 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2017-07-07)</title>
+      <link>http://www.complexly.me/post/20170707/</link>
+      <pubDate>Fri, 07 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170707/</guid>
+      <description>具有非线性动力学的复杂网络的基于结构的控制; 广义优先连接模型的分类; 具有两种对抗实体的复杂随机系统理论; 复杂网络中影响者识别的理论; 为什么我</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-07-06)</title>
