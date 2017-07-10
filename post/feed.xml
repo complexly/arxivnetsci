@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 07 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2017-07-10)</title>
+      <link>http://www.complexly.me/post/20170710/</link>
+      <pubDate>Mon, 10 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170710/</guid>
+      <description>使用交流电模型的FACTS设备的可扩展最佳布置和尺寸调整; 空间网络集合的熵; 共享存储器图桁架分解; 时间网络的抽样：方法和偏差; 揭示动力网络中</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2017-07-07)</title>
