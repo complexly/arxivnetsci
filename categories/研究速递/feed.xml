@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2017-07-11)</title>
+      <link>http://www.complexly.me/post/20170711/</link>
+      <pubDate>Tue, 11 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170711/</guid>
+      <description>网络重建的子模型变分推理; 使用链路预测的复杂网络中的社区检测; 通过熵和物流建模城市的智能增长; 用于多尺度分层社区检测的快速启发式算法; 使用任</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2017-07-10)</title>
