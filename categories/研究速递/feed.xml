@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 12 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2017-07-13)</title>
+      <link>http://www.complexly.me/post/20170713/</link>
+      <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170713/</guid>
+      <description>基于可变城市边界的城市空间异速尺度; 加权网络中基于意义的社区检测; 两种基于OLS的城市多分形参数估计方法的比较; 中国城市分层异速尺度分析：1</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2017-07-12)</title>
