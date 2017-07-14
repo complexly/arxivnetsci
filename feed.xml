@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2017-07-14)</title>
+      <link>http://www.complexly.me/post/20170714/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170714/</guid>
+      <description>纠错编码符合网络物理系统：自愈相互依赖网络的消息传递分析; 人类的性循环是由文化和集体情绪驱动的; 互连复杂网络中的最优耦合模式; 在博弈中区分人</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2017-07-13)</title>
