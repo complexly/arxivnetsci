@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2017-07-20)</title>
+      <link>http://www.complexly.me/post/20170720/</link>
+      <pubDate>Thu, 20 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.complexly.me/post/20170720/</guid>
+      <description>用于实时动态模型缩减的聚类技术的比较研究; 通过改进经济复杂度来衡量经济知识强度; 英雄与零：预测新视频博弈对Twitch.tv的影响; 图滤波器</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-07-19)</title>
