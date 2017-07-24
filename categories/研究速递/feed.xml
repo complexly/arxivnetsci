@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 21 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2017-07-24)</title>
+      <link>https://www.complexly.me/post/20170724/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170724/</guid>
+      <description>从级联推理网络结构; 使用用户生成的内容标签预测图书偏好设置中的个性; 协同作用的热力学根源及其对社会的影响; 有些技术超越监管制度吗？; 车辆之间</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2017-07-21)</title>
