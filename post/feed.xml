@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2017-07-25)</title>
+      <link>https://www.complexly.me/post/20170725/</link>
+      <pubDate>Tue, 25 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170725/</guid>
+      <description>共同演进的三人最后通牒博弈中的偏袒和团体公平的演变; 在基于加速度的流动模型中，前辈数量在交互中的影响; 进化囚徒的困境博弈与自适应网络相结合;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2017-07-24)</title>
