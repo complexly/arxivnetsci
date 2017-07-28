@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 27 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2017-07-28)</title>
+      <link>https://www.complexly.me/post/20170728/</link>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170728/</guid>
+      <description>通信危机对共识形成和社会动态中的突破点的影响; 联系网络模型对随机流行病模拟的影响; 铁路网复杂的延迟动态：从普遍规律到现实建模; 小组建议：公理</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-07-27)</title>
