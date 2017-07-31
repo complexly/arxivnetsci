@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2017-07-31)</title>
+      <link>https://www.complexly.me/post/20170731/</link>
+      <pubDate>Mon, 31 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170731/</guid>
+      <description>&lt;p&gt;本周出游，更新时间或有延迟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;联合建模社交网络和移动轨迹的神经网络方法;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;由社会接近度引起的社会梳理策略的适应性;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;合作国家的水动力学模型;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;图的中心度量;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2017-07-28)</title>
