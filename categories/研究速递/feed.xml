@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 31 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2017-08-01)</title>
+      <link>https://www.complexly.me/post/20170801/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170801/</guid>
+      <description>&lt;p&gt;本周出游，更新时间或有延迟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;自然通信优化模型;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;使用分层路由小世界图的高效和鲁棒的近似最近邻搜索;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;意大利议会社团结构的随机块模型带惩罚推断方法;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;植物动态与选民相互作用：速度依赖性转变和快速极性共识;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;共演化自旋系统的统计力学;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;本地环网自动机和双曲几何在复杂网络链路预测中的影响;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;绘制网络科学课程的课程结构和内容;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;相似空间中的软社区;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;模拟行为非平衡随机模型中的假记忆;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;人类主要活动的纵向趋势源于时间使用调查的分析;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;PyPSA：用于电力系统分析的Python;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;关于2016年奥地利总统选举的Twitter讨论的分析;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;利用文献计量学比较人;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2017-07-31)</title>
