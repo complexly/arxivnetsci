@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2017-08-02)</title>
+      <link>https://www.complexly.me/post/20170802/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170802/</guid>
+      <description>&lt;p&gt;本周出游，更新时间或有延迟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;平衡自私与规范的一致性可以解释大规模囚徒困境中的人类行为;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;映射传播动态：从时间到最短路径到粘合渗透;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;使用社交网络方法的复杂通信网络网络动力学建模与分析;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;在半度量空间中采样、聚类和嵌入数据点的统一框架;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;用于排名作者，论文和领域的图分析框架;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;指数扭曲采样：归一化网络中心分析的统一方法;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;具有多个供需链接和功能阈值的相互依赖网络中的级联故障;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2017-08-01)</title>
