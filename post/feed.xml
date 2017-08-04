@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 03 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-08-04)</title>
+      <link>https://www.complexly.me/post/20170804/</link>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170804/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用约束符号谱聚类的座位分配;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;网络社区检测：审查和视觉调查;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;用于自动在线滥用检测的基于图的功能;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;稀疏性完全放松模块化最大化社区检测;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;网络中的多尺度混合模式;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2017-08-03)</title>
