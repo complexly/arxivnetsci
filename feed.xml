@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 04 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要3篇(2017-08-07)</title>
+      <link>https://www.complexly.me/post/20170807/</link>
+      <pubDate>Mon, 07 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170807/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;你的Facebook个人资料图片揭示了你的个性;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;非参数加权随机块模型;&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;基于主体的建模工具，用于在对等、特殊和其他复杂网络中自组织的建模和仿真;&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2017-08-04)</title>
