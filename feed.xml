@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 10 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2017-08-11)</title>
+      <link>https://www.complexly.me/post/20170811/</link>
+      <pubDate>Fri, 11 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170811/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;将城市作为整体的拓扑表示;&lt;/li&gt;
+&lt;li&gt;区域采油和消费模式。第二部分：预测区域石油消费量的下降;&lt;/li&gt;
+&lt;li&gt;几何多尺度社区检测：马尔科夫稳定性和矢量分区;&lt;/li&gt;
+&lt;li&gt;意见动态模型中社区身份的丧失作为组间互动强度的函数;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2017-08-10)</title>
