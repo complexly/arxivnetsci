@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 11 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2017-08-14)</title>
+      <link>https://www.complexly.me/post/20170814/</link>
+      <pubDate>Mon, 14 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170814/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;玻璃层次网络的稳定性;&lt;/li&gt;
+&lt;li&gt;基于离散事件系统规范（DEVS）的血缘模型;&lt;/li&gt;
+&lt;li&gt;消息或信使？从网络请愿签名数据推导病毒和扩散结构;&lt;/li&gt;
+&lt;li&gt;技术网络：创新的自动化起源;&lt;/li&gt;
+&lt;li&gt;不同电动车辆控制策略对动力网格稳定性的贡献;&lt;/li&gt;
+&lt;li&gt;石油经济相位图：物理上的类比;&lt;/li&gt;
+&lt;li&gt;加权随机几何和随机矩形图：邻接矩阵的谱和特征函数属性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2017-08-11)</title>
