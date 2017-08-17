@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-08-17)</title>
+      <link>https://www.complexly.me/post/20170817/</link>
+      <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170817/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;电阻扰动距离：动态网络分析的度量标准;&lt;/li&gt;
+&lt;li&gt;代谢网络的通量依赖图;&lt;/li&gt;
+&lt;li&gt;使用来自单圈的汽车传感器数据的驾驶员识别;&lt;/li&gt;
+&lt;li&gt;高斯测试通道前景理论的战略沟通;&lt;/li&gt;
+&lt;li&gt;广义最小二乘法可以克服受访者驱动抽样的临界阈值;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2017-08-16)</title>
