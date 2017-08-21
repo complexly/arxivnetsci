@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 18 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-08-21)</title>
+      <link>https://www.complexly.me/post/20170821/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170821/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过深度增强学习学习进行物理实验;&lt;/li&gt;
+&lt;li&gt;适应度选民模式：阻尼振荡和异常共识;&lt;/li&gt;
+&lt;li&gt;通过非线性模块化特征向量在网络中进行社区检测;&lt;/li&gt;
+&lt;li&gt;社会网络中偏好在基于抽样的偏好聚合中的传播建模;&lt;/li&gt;
+&lt;li&gt;公共博弈合作：留下，但不要太久;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要2篇(2017-08-18)</title>
