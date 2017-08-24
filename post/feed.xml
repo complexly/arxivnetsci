@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2017-08-24)</title>
+      <link>https://www.complexly.me/post/20170824/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170824/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;控制复杂网络拥塞：公平，效率和网络结构;&lt;/li&gt;
+&lt;li&gt;具有重叠社区的稀疏和模块化图的可交换随机度量;&lt;/li&gt;
+&lt;li&gt;二十世纪的波动与经济增长;&lt;/li&gt;
+&lt;li&gt;使用模块化密度测量的网络社区检测;&lt;/li&gt;
+&lt;li&gt;风险与互动厌恶：囚徒困境中的筛选机制;&lt;/li&gt;
+&lt;li&gt;GitHub和StackOverflow：分析跨越多个社交协作平台的开发者兴趣;&lt;/li&gt;
+&lt;li&gt;发现Facebook的政治话题讨论主题与谱语境化;&lt;/li&gt;
+&lt;li&gt;协同推理共存信息扩散;&lt;/li&gt;
+&lt;li&gt;具有随机性的智能驱动器模型 - 对交通流动振荡的新见解;&lt;/li&gt;
+&lt;li&gt;用于测试社区检测算法的分层基准图;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2017-08-23)</title>
