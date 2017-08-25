@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2017-08-25)</title>
+      <link>https://www.complexly.me/post/20170825/</link>
+      <pubDate>Fri, 25 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170825/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;一类节点复制网络模型中最短路径长度的分布;&lt;/li&gt;
+&lt;li&gt;在知识图中查找流以支持事实检查;&lt;/li&gt;
+&lt;li&gt;富人俱乐部案例中核心边缘网络的弹性;&lt;/li&gt;
+&lt;li&gt;测量技术复杂性 - 当前的方法和结构复杂性的新措施;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2017-08-24)</title>

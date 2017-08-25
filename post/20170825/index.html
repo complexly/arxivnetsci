@@ -1,0 +1,390 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要4篇(2017-08-25) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+一类节点复制网络模型中最短路径长度的分布;
+在知识图中查找流以支持事实检查;
+富人俱乐部案例中核心边缘网络的弹性;
+测量技术复杂性 - 当前的方法和结构复杂性的新措施;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要4篇(2017-08-25) - 网络科学研究速递">
+<meta itemprop="description" content="
+一类节点复制网络模型中最短路径长度的分布;
+在知识图中查找流以支持事实检查;
+富人俱乐部案例中核心边缘网络的弹性;
+测量技术复杂性 - 当前的方法和结构复杂性的新措施;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要4篇(2017-08-25) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20170825/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+一类节点复制网络模型中最短路径长度的分布;
+在知识图中查找流以支持事实检查;
+富人俱乐部案例中核心边缘网络的弹性;
+测量技术复杂性 - 当前的方法和结构复杂性的新措施;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20170825/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20170825/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要4篇(2017-08-25)</h1>
+
+                  <p class="post-byline">
+                    2017年08月25日 · 1686 字 ·
+                    阅读时间约4分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>一类节点复制网络模型中最短路径长度的分布;</li>
+<li>在知识图中查找流以支持事实检查;</li>
+<li>富人俱乐部案例中核心边缘网络的弹性;</li>
+<li>测量技术复杂性 - 当前的方法和结构复杂性的新措施;</li>
+</ul>
+
+<p></p>
+
+<h3 id="一类节点复制网络模型中最短路径长度的分布">一类节点复制网络模型中最短路径长度的分布</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.07177">http://arxiv.org/abs/1708.07177</a></p>
+
+<p>作者： Chanania Steinbock, Ofer Biham, Eytan Katzav</p>
+
+<p>摘要： 我们提出了通过节点重复（ND）演进的网络增长模型中最短路径长度（DSPL）分布的分析结果。该模型捕获了重要机制发挥重要作用的社会网络，熟人网络和科学引文网络的结构和增长动态的基本属性。从初始种子网络开始，在每个时间步骤，选择被称为母节点的随机节点进行复制。其子节点被添加到网络中，形成到母节点的链接，并且以每个邻居的概率$ p $。所得网络的程度分布符合幂律分布，因此ND网络是无标度的网络。为了计算DSPL，我们得到概率的时间演化的主方程$ P_t（L = \ ell）$，$ \ ell = 1,2，\ dots $，其中$ L $是一对节点之间的距离和$ t $是时候。找到主方程的精确解析解，我们得到$ P_t（L = \ ell）$的闭合表达式。平均距离$ \ langle L \ rangle_t $和直径$ \ Delta_t $被发现像$ \ ln t $一样扩展，即ND网络是一个小型世界网络。 DSPL的方差也可以像$ \ ln t $一样扩大。有趣的是，平均距离和直径显示出小世界网络的性质，而不是在其他无标度网络中观察到的超小型世界网络行为，其中$ \ langle L \ rangle_t \ sim \ ln \ ln t $。</p>
+
+<h3 id="在知识图中查找流以支持事实检查">在知识图中查找流以支持事实检查</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.07239">http://arxiv.org/abs/1708.07239</a></p>
+
+<p>作者： Prashant Shiralkar, Alessandro Flammini, Filippo Menczer, Giovanni Luca Ciampaglia</p>
+
+<p>摘要： 在线生成的信息的数量和速度限制了当前的新闻实践，以相同的速率事实检查索赔。事实检查的计算方法可能是帮助缓解大规模错误传播风险的关键。这种方法的设计不仅可以在评估可疑索赔的真实性方面具有可扩展性和有效性，而且还可以通过展示相关事实和模式来提高人事检验人员的生产力，从而帮助他们进行分析。为此，我们提出一种新颖的，无监督的基于网络流程的方法来确定以（主题，谓词，对象）三元组的形式表达的事实陈述的真实性。我们将有关现实世界实体的背景信息作为流动网络的知识图表，以及作为流体抽象商品的知识。我们表明，这样的三元组的计算事实检查相当于找到从主题节点发出的“知识流”，并通过连接它们的路径朝向对象节点流动。对娱乐，商业，体育，地理等相关事实的一系列现实世界和手工制作的数据集的评估显示，这种网络流模型可以非常有效地识别真假的虚假陈述，超越现有算法测试用例。此外，该模型具有自动发现几个有用的路径模式和表面相关事实的能力，这可能有助于人类事实检查者证实或反驳索赔。</p>
+
+<h3 id="富人俱乐部案例中核心边缘网络的弹性">富人俱乐部案例中核心边缘网络的弹性</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.07329">http://arxiv.org/abs/1708.07329</a></p>
+
+<p>作者： Matteo Cinelli, Giovanna Ferraro, Antonio Iovanella</p>
+
+<p>摘要： 核心 - 外围网络是呈现一组中心和密集连接的节点（即核心）和一组非中心和稀疏连接的节点（即周边）的结构。富人俱乐部是指最高度节点显示高密度连接的集合。因此，显示富俱乐部的网络可以解释为核心 - 外围网络，其中核心由多个集线器组成。在本文中，我们测试显示逐渐密集的富豪俱乐部的网络的弹性，并且我们观察到这种结构如何能够在信息流中的凝聚力和效率方面影响网络措施。另外，我们考虑到这样一种情况，而不是使核心更密集，我们增加了与周边环节的联系。这两个核心和边增稠程序勾勒出新环节的布局决策过程，使我们能够进行一个有助于在弹性视角下对复杂网络进行理解和监督的情景分析。两个过程的优点以及它们的含义在网络效率和节点异质性两方面进行了讨论。</p>
+
+<h3 id="测量技术复杂性-当前的方法和结构复杂性的新措施">测量技术复杂性 - 当前的方法和结构复杂性的新措施</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.07357">http://arxiv.org/abs/1708.07357</a></p>
+
+<p>作者： Tom Broekel</p>
+
+<p>摘要： 本文回顾了技术复杂度测量的两个突出的方法：反思的方法和技术组合难度的评估。它审查了他们的核心基本假设，并讨论了与这些相关的潜在问题。作为替代方案，引入了结构复杂性的新措施。本文还提出了四个具有技术复杂性的风格化事实，作为五个复杂度测量（随着时间的推移，更大的研发工作，更多的协同研发，空间集中）的实证评估的基准。评估采用1980年至2013年的欧洲专利数据，发现结构复杂性的新尺度，反映了四种风格化事实与传统措施一样好或更好。在经验应用中也显示出较少的问题。</p>
+
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> 进行更新，并提供RSS订阅。</p>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        <div style="text-align:center;">微信扫一扫交流</div>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信关注：netsci
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20170825/">https://www.complexly.me/post/20170825/</a>
+                            <br />
+                            Arxiv文章摘要版权归原作者所有，由作者进行翻译整理，未经同意请勿随意转载。</p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20170824/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要10篇(2017-08-24)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+            <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
