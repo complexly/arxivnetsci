@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要26篇(2017-08-29) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+进化网络博弈：模仿和最佳反应动态的均衡;
+评估城市引力模型距离指数的尺度方法;
+克服情绪分析中的语言变化与社会关注;
+人工网络社区检测算法的比较分析;
+流量跟踪作为分析网络化大型可再生电力系统的工具集;
+复杂网络上的多目标搜索：全局平均随机搜索时间的对数增长;
+流图的挑战：随机块分区;
+h指数的标准理论模型的一些变化：比较分析;
+使用引导方法比较不同研究领域的h指数;
+使用名称嵌入进行国籍分类;
+网络精华：PageRank完成和中心 - 符合马尔科夫链;
+通过非追溯随机游走更快的聚类;
+从Twitter使用学习从标签比例挖掘政治情绪的人口统计学;
+音乐复杂度;
+测量社交垃圾邮件和机器人对社交媒体信息传播的影响;
+用于检测动态网络社区变化的集体框架;
+Hirsch指数变体分类;
+在线审查系统中的自动人头攻击和防御;
+walk2friends：从移动配置文件中推送社交链接;
+非经典（量子）不确定性下预期效用的动态一致性;
+准备（量子）信念系统;
+大趋势和工作干预影响分析器：欧洲大数据黑客入门;
+基于社会网络分析的美国道路网研究;
+对资本收入的均衡保税计划;
+使用偏好网络的社区检测;
+揭示成长，衰老和通货膨胀的动态，引用到具体研究领域的科学文章;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要26篇(2017-08-29) - 网络科学研究速递">
+<meta itemprop="description" content="
+进化网络博弈：模仿和最佳反应动态的均衡;
+评估城市引力模型距离指数的尺度方法;
+克服情绪分析中的语言变化与社会关注;
+人工网络社区检测算法的比较分析;
+流量跟踪作为分析网络化大型可再生电力系统的工具集;
+复杂网络上的多目标搜索：全局平均随机搜索时间的对数增长;
+流图的挑战：随机块分区;
+h指数的标准理论模型的一些变化：比较分析;
+使用引导方法比较不同研究领域的h指数;
+使用名称嵌入进行国籍分类;
+网络精华：PageRank完成和中心 - 符合马尔科夫链;
+通过非追溯随机游走更快的聚类;
+从Twitter使用学习从标签比例挖掘政治情绪的人口统计学;
+音乐复杂度;
+测量社交垃圾邮件和机器人对社交媒体信息传播的影响;
+用于检测动态网络社区变化的集体框架;
+Hirsch指数变体分类;
+在线审查系统中的自动人头攻击和防御;
+walk2friends：从移动配置文件中推送社交链接;
+非经典（量子）不确定性下预期效用的动态一致性;
+准备（量子）信念系统;
+大趋势和工作干预影响分析器：欧洲大数据黑客入门;
+基于社会网络分析的美国道路网研究;
+对资本收入的均衡保税计划;
+使用偏好网络的社区检测;
+揭示成长，衰老和通货膨胀的动态，引用到具体研究领域的科学文章;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要26篇(2017-08-29) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20170829/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+进化网络博弈：模仿和最佳反应动态的均衡;
+评估城市引力模型距离指数的尺度方法;
+克服情绪分析中的语言变化与社会关注;
+人工网络社区检测算法的比较分析;
+流量跟踪作为分析网络化大型可再生电力系统的工具集;
+复杂网络上的多目标搜索：全局平均随机搜索时间的对数增长;
+流图的挑战：随机块分区;
+h指数的标准理论模型的一些变化：比较分析;
+使用引导方法比较不同研究领域的h指数;
+使用名称嵌入进行国籍分类;
+网络精华：PageRank完成和中心 - 符合马尔科夫链;
+通过非追溯随机游走更快的聚类;
+从Twitter使用学习从标签比例挖掘政治情绪的人口统计学;
+音乐复杂度;
+测量社交垃圾邮件和机器人对社交媒体信息传播的影响;
+用于检测动态网络社区变化的集体框架;
+Hirsch指数变体分类;
+在线审查系统中的自动人头攻击和防御;
+walk2friends：从移动配置文件中推送社交链接;
+非经典（量子）不确定性下预期效用的动态一致性;
+准备（量子）信念系统;
+大趋势和工作干预影响分析器：欧洲大数据黑客入门;
+基于社会网络分析的美国道路网研究;
+对资本收入的均衡保税计划;
+使用偏好网络的社区检测;
+揭示成长，衰老和通货膨胀的动态，引用到具体研究领域的科学文章;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20170829/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20170829/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要26篇(2017-08-29)</h1>
+
+                  <p class="post-byline">
+                    2017年08月29日 · 9212 字 ·
+                    阅读时间约19分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>进化网络博弈：模仿和最佳反应动态的均衡;</li>
+<li>评估城市引力模型距离指数的尺度方法;</li>
+<li>克服情绪分析中的语言变化与社会关注;</li>
+<li>人工网络社区检测算法的比较分析;</li>
+<li>流量跟踪作为分析网络化大型可再生电力系统的工具集;</li>
+<li>复杂网络上的多目标搜索：全局平均随机搜索时间的对数增长;</li>
+<li>流图的挑战：随机块分区;</li>
+<li>h指数的标准理论模型的一些变化：比较分析;</li>
+<li>使用引导方法比较不同研究领域的h指数;</li>
+<li>使用名称嵌入进行国籍分类;</li>
+<li>网络精华：PageRank完成和中心 - 符合马尔科夫链;</li>
+<li>通过非追溯随机游走更快的聚类;</li>
+<li>从Twitter使用学习从标签比例挖掘政治情绪的人口统计学;</li>
+<li>音乐复杂度;</li>
+<li>测量社交垃圾邮件和机器人对社交媒体信息传播的影响;</li>
+<li>用于检测动态网络社区变化的集体框架;</li>
+<li>Hirsch指数变体分类;</li>
+<li>在线审查系统中的自动人头攻击和防御;</li>
+<li>walk2friends：从移动配置文件中推送社交链接;</li>
+<li>非经典（量子）不确定性下预期效用的动态一致性;</li>
+<li>准备（量子）信念系统;</li>
+<li>大趋势和工作干预影响分析器：欧洲大数据黑客入门;</li>
+<li>基于社会网络分析的美国道路网研究;</li>
+<li>对资本收入的均衡保税计划;</li>
+<li>使用偏好网络的社区检测;</li>
+<li>揭示成长，衰老和通货膨胀的动态，引用到具体研究领域的科学文章;</li>
+</ul>
+
+<p></p>
+
+<h3 id="进化网络博弈-模仿和最佳反应动态的均衡">进化网络博弈：模仿和最佳反应动态的均衡</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1403.1131">http://arxiv.org/abs/1403.1131</a></p>
+
+<p>作者： Giulio Cimini</p>
+
+<p>摘要： 我们考虑网络上的战略替代品和战略补充的博弈。我们引入两种不同的进化动力学，以便改善其平衡的多样性，我们通过平均场方法分析系统。我们发现，对于作为替代品的模型的最佳射击博弈来说，像复制者一样的动力学不会导致纳什均衡，而是导致独特的均衡（根据初始条件和博弈，充分合作或完全失败）参数），由协调博弈代表。另一方面，当动态以更好的反应演变的形式变得更加认真地要求时，预测总是纳什均衡（至少当个人完全理性时）：对于最佳射门博弈，我们找到具有确定价值的均衡贡献者的分数，而对于协调博弈的对称均衡仅针对合作者的低或高初始部分。我们还通过考虑复杂的异构拓扑来扩展我们的研究，并且表明所选择的均衡的性质对于最佳射击博弈而言并不改变。然而，对于协调博弈，我们揭示了一个重要的区别，即无限大规模的无缝网络合作出现在合作激励的任何价值上。</p>
+
+<h3 id="评估城市引力模型距离指数的尺度方法">评估城市引力模型距离指数的尺度方法</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1511.01171">http://arxiv.org/abs/1511.01171</a></p>
+
+<p>作者： Yanguang Chen, Linshan Huang</p>
+
+<p>摘要： 引力模型是社会物理学和人文地理学的重要模型之一，但是几个基本的理论和方法问题仍然存在，仍有待解决。特别是使用欧氏几何的想法难以解释和评估距离指数。本文致力于探索城市引力模型的距离衰减参数。基于分形几何的思想，可以从城市自相似层次的尺度规律中得出几个分形参数关系。结果表明，距离指数只是尺度指数，等于地理区域内城市尺寸测量的平均分形维数。可以用Zipf的大小分布指数和城市和城镇等地理元素的空间分布的分形维数的乘积来评估尺度指数。新方程适用于中国城市，实证结果符合理论预期。研究结果进一步支持了地理引力模型是分形模型，其距离指数与分形维数和Zipf指数相关联。这项工作将有助于地理学家使用分形概念了解引力模型，并使用分形建模方法估计距离指数。</p>
+
+<h3 id="克服情绪分析中的语言变化与社会关注">克服情绪分析中的语言变化与社会关注</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1511.06052">http://arxiv.org/abs/1511.06052</a></p>
+
+<p>作者： Yi Yang, Jacob Eisenstein</p>
+
+<p>摘要： 语言的变化是无所不在的，特别是在较新的写作形式，如社交媒体。幸运的是，变化不是随机的，它通常与作者的社会属性有关。在本文中，我们展示了如何利用社会网络，使情绪分析对社会语言的变化更加强大。关键思想是语言同质性：社会关联个体以类似的方式使用语言的倾向。我们在一个基于注意力的神经网络架构中形成了这个想法，其中注意力分为几个基础模型，取决于作者在社会网络中的地位。这具有平滑社会网络上的分类功能的效果，并且使得即使对于没有标记数据或人口统计元数据的作者，也可以诱导个性化分类器。这种模式显着提高了Twitter上情绪分析的准确性和审查数据。</p>
+
+<h3 id="人工网络社区检测算法的比较分析">人工网络社区检测算法的比较分析</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1608.00763">http://arxiv.org/abs/1608.00763</a></p>
+
+<p>作者： Zhao Yang, René Algesheimer, Claudio Juan Tessone</p>
+
+<p>摘要： 已经开发了许多社区检测算法来发现复杂网络的介观特性。然而，在精度和计算时间方面，算法有多好，仍然是开放的。现实世界网络的测试算法有一定的限制，使得他们的见解有可能有偏见：网络通常很小，底层社区没有客观定义。在本研究中，我们使用Lancichinetti-Fortunato-Radicchi基准图来测试8种最先进的算法。我们使用补充措施和算法的计算时间量化精度。基于简单的网络属性和上述结果，我们提供了有助于为给定网络选择最适合的社区检测算法的指南。此外，这些规则允许发现使用具有宏观网络属性的特定算法的限制。我们的贡献有三个方面：首先，我们提供实际的技术来确定在大多数情况下，基于正在考虑的网络的可观察属性，哪种算法是最适合的算法。其次，我们使用混合参数作为找到不同算法的可靠性范围的容易测量的指标。最后，我们研究了网络尺寸的依赖关系，重点是算法的预测能力和有效的计算时间。</p>
+
+<h3 id="流量跟踪作为分析网络化大型可再生电力系统的工具集">流量跟踪作为分析网络化大型可再生电力系统的工具集</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1609.02977">http://arxiv.org/abs/1609.02977</a></p>
+
+<p>作者： Jonas Hörsch, Mirko Schäfer, Sarah Becker, Stefan Schramm, Martin Greiner</p>
+
+<p>摘要： 流量跟踪的方法遵循从网络生成源到网络的功耗流向网络消耗接收器，这允许将底层传输基础设施的使用分配给系统参与者。本文提出了一种适用于在可再生能源发电量较大的大型电力系统模型中自然流入的任意组合的重构。我们提出一个应用程序，允许将电网上的电力流量与特定区域或发电技术相关联，并强调这种技术解决在这种系统中发生的物理进口和出口的时空模式的能力。该方法的分析潜力为基于IEEE 118总线网络的场景展示。</p>
+
+<h3 id="复杂网络上的多目标搜索-全局平均随机搜索时间的对数增长">复杂网络上的多目标搜索：全局平均随机搜索时间的对数增长</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1701.03259">http://arxiv.org/abs/1701.03259</a></p>
+
+<p>作者： Tongfeng Weng, Jie Zhang, Michael Small, Ji Yang, Farshid Hassani Bijarbooneh, Pan Hui</p>
+
+<p>摘要： 我们调查复杂网络上的多目标搜索，并得出平均随机覆盖时间的精确表达式，以量化步行者需要访问多个目标的预期时间。基于此，我们恢复并扩展了网络上多目标搜索的一些有趣的结果。具体来说，我们观察到随机搜索过程范围广泛的随机搜索过程的全局平均随机覆盖时间的对数增长，包括通用随机游走，偏向随机游走和最大熵随机游走。我们显示对数增长模式是通过使用退火网络方法和Sherman-Morrison公式在网络上进行多目标搜索的通用特征。此外，我们发现，对于偏向随机游走，全局平均随机覆盖时间可以最小化，相应的最优参数也使全局平均第一次通过时间最小化，指向其鲁棒性。我们的研究结果进一步证实，对数增长模式是一种在限制性媒体中管理多目标搜索的普遍规律。</p>
+
+<h3 id="流图的挑战-随机块分区">流图的挑战：随机块分区</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.07883">http://arxiv.org/abs/1708.07883</a></p>
+
+<p>作者： Edward Kao, Vijay Gadepally, Michael Hurley, Michael Jones, Jeremy Kepner, Sanjeev Mohindra, Paul Monticciolo, Albert Reuther, Siddharth Samsi, William Song, Diane Staheli, Steven Smith</p>
+
+<p>摘要： 分析真实图的一个重要目标是在大型流图上实现可扩展的性能。一个具有挑战性的相关例子是图分区问题。作为一个组合问题，图分区是NP-hard，但是现有的松弛方法提供了可以对大图进行尺度的合理的近似解。已经证明竞争性的基准和挑战是提升最先进绩效并促进社区合作的有效手段。本文用亚二次复杂度的基线划分算法描述了一个图分区挑战。该算法采用严格的贝叶斯推理方法，该方法基于捕获真实世界图特征的统计模型。这个强大的基础使得算法能够解决诸如模块化最大化之类的众所周知的图分割方法的局限性。本文描述了挑战的各个方面，包括：（1）数据集和流图生成器，（2）具有伪码的基线分割算法，（3）用于并行化贝叶斯推理的正确性的参数，（4）不同的并行计算策略，如基于节点的并行性和基于矩阵的并行性，（5）分区正确性和计算需求的评估指标，（6）基于Python的演示代码和开源C ++代码的初步时序，以及（7）考虑因素用于以流式方式分割图。 GraphChallenge.org提供了具有详细文档的算法和指标的数据集和源代码。</p>
+
+<h3 id="h指数的标准理论模型的一些变化-比较分析">h指数的标准理论模型的一些变化：比较分析</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.07890">http://arxiv.org/abs/1708.07890</a></p>
+
+<p>作者： Chrisovalantis Malesios</p>
+
+<p>摘要： 在最近的文献中提出了通过文献计量学来估计h指数的各种数学模型，如文章数量（P）和收到的引文（C）。这些模型之前已经经过验证，假设数学模型并且在某些固定常数下预先确定模型参数值。在这里，通过采用统计建模视图，我研究了通常用于这种类型的点数据的替代分布。我还表明，这种表示中h指数数学模型的参数的典型假设并不总是现实的，更适合的规范是有利的。还证明了对后盾的预测。</p>
+
+<h3 id="使用引导方法比较不同研究领域的h指数">使用引导方法比较不同研究领域的h指数</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.07893">http://arxiv.org/abs/1708.07893</a></p>
+
+<p>作者： C. Malesios, S. Psarakis</p>
+
+<p>摘要： h指数的一个重要缺点是通常不能考虑研究者的具体研究领域。通常报告各种场的平均值和中值h-指数值的采样点估计值是高度可变的并且取决于具体样本，并且提供预测精度的置信区间将是有用的。在本文中，我们应用非参数自举技术来构建不同研究领域的h指数的置信区间。这样就不需要有关经验后盾的分布的具体假设，也不需要大样本，因为该方法是基于初始样本的重采样。分析结果表明，各方面存在重大差异。大多数领域的平均值和中位数h指数的自举间隔的表现似乎是相当令人满意的。</p>
+
+<h3 id="使用名称嵌入进行国籍分类">使用名称嵌入进行国籍分类</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.07903">http://arxiv.org/abs/1708.07903</a></p>
+
+<p>作者： Junting Ye, Shuchu Han, Yifan Hu, Baris Coskun, Meizhu Liu, Hong Qin, Steven Skiena</p>
+
+<p>摘要： 国籍识别解锁重要的人口信息，在生物医学和社会学研究中有许多应用。现有的基于名称的国籍分类器使用名称子字符串作为特征，并且通过从维基百科提取的小而无代表性的标记名称集合进行训练。因此，这些方法实现有限的性能，不能支持细粒度分类。我们利用通信模式中的同情现象来学习名字嵌入，这是一种编码性别，民族和国籍的新表征，它很容易适用于建立分类器和其他系统。通过我们对一家主要互联网公司的57M联系人列表的分析，我们可以设计出一个细粒度的国籍分类器，涵盖39个群体，占世界人口的90％以上。在对13种常见课程中其他已发表系统的评估中，我们的F1得分（0.795）比我们最接近的竞争对手Ethnea（0.580）好得多。据我们所知，这是最准确，细粒度的国籍分类器。作为社交媒体应用程序，我们将分类器应用于六个不同领域的主要Twitter明星的追随者。我们在特朗普和奥巴马的追随者以及不同群体青睐的体育和娱乐中表现出鲜明的差异。最后，我们确定一个异常的政治人物，大概以为膨胀的后果似乎大部分不能阅读他所在的语言。</p>
+
+<h3 id="网络精华-pagerank完成和中心-符合马尔科夫链">网络精华：PageRank完成和中心 - 符合马尔科夫链</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.07906">http://arxiv.org/abs/1708.07906</a></p>
+
+<p>作者： Shang-Hua Teng</p>
+
+<p>摘要： Ji \ v {r} \&lsquo;我Matou \ v {s} ek（1963-2015）在数学和算法设计方面取得了许多突破性的贡献。他的里程碑式成果不仅深刻而且优雅。通过超越原始对象 - 如欧几里德空间或线性程序 -  Jirka发现了具有挑战性的数学/算法问题的精华以及对他自然的美丽解决方案，但是对该领域的惊人发现。在这篇短暂的探索文章中，我将首先与读者分享我与Jirka的初步接触，并讨论了他从20世纪90年代初的基本几何结果。在社会和信息网络时代，我将把讨论从几何结构转变为网络结构，试图向网络科学的圣杯迈出一大步，那就是了解观察到的稀疏的网络本质和多媒体网络数据。我将讨论一个简单的结果，总结了个性化PageRank矩阵的一些基本代数属性。与传统的二元关系的传递闭包不同，个性化PageRank矩阵采用网络数据的“累积马尔可夫闭包”。这些代数属性中的一些在各种上下文中是已知的。但我希望在更广泛的背景下将它们集中在一起，将有助于说明马尔科夫完成网络的理想属性，并激励网络理论的系统开发，以了解广泛和普遍存在的多方面网络数据。</p>
+
+<h3 id="通过非追溯随机游走更快的聚类">通过非追溯随机游走更快的聚类</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.07967">http://arxiv.org/abs/1708.07967</a></p>
+
+<p>作者： Brian Rappaport, Anuththari Gamage, Shuchin Aeron</p>
+
+<p>摘要： 本文提出了VEC-NBT，它是无监督图集群技术VEC的一个变体，它为稀疏图显着改进了原始算法的性能。 VEC采用最先进的word2vec模型的新颖应用，通过图节点上的随机游走在欧氏空间中嵌入图。在VEC-NBT中，我们修改原始算法以使用非回溯随机游走，而不是在VEC中使用的正常回溯随机游走。我们介绍一个非追溯随机游走的修改，我们称之为一个随心所欲的随机游走，并且经验地表明，使用VEC-NBT的这种随机游走模型需要在图表上较短的行走以获得具有可比较或更高准确度的结果比VEC，特别是对于稀疏图。</p>
+
+<h3 id="从twitter使用学习从标签比例挖掘政治情绪的人口统计学">从Twitter使用学习从标签比例挖掘政治情绪的人口统计学</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08000">http://arxiv.org/abs/1708.08000</a></p>
+
+<p>作者： Ehsan Mohammady Ardehaly, Aron Culotta</p>
+
+<p>摘要： 意见挖掘和人口属性推理在社会科学中有很多应用。在本文中，我们提出模型来推断Twitter数据的多个潜在属性的每日联合概率，如政治情绪和人口特征。由于为传统的监督分类注入数据成本高昂，因此我们采用美国人口普查，国家和国家政治民调以及库克党派投票指数作为人口，提出了从标签比例（LLP）模型中进行人口统计和意见推理的可扩展学习级数据。在LLP分类设置中，培训数据分为一组未标签的行李，其中只有每个包中的标签分发是已知的，消除了实例级注释的要求。我们提出的LLP模型，加权标签正则化（WLR）提供了标签正则化的先前工作的可扩展概括，以支持袋内样品的重量，适用于袋子分层布置的这种设置（例如，县级袋子嵌套国家级行李箱内）。我们将模型应用到截至2016年美国总统大选前的一年中收集的Twitter数据，从而对政治情绪和人口与时间和地点之间的关系进行估计。我们发现我们的方法密切跟踪按人口分类分类的传统投票数据，导致比基准线方法减少28-44％的错误。我们还提供描述性评估，显示模型如何用于估计许多变量之间的相互作用，并确定语言时间变化，使用传统轮询方法通常不可行的能力。</p>
+
+<h3 id="音乐复杂度">音乐复杂度</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08041">http://arxiv.org/abs/1708.08041</a></p>
+
+<p>作者： April Pease, Korosh Mahmoodi, Bruce J. West</p>
+
+<p>摘要： 我们提出了一种基于音乐音量分析来搜索音乐重要事件的技术。关于这个问题的早期工作是基于这样的假设：关键事件对应于音乐笔记的变化，有趣的结果是关键事件的复杂性指数为μ〜2，这是动态的相反的幂律指数的大脑。搜索技术分析音乐音量并确认早期作品的结果，从而通过复杂性匹配的现象有助于解释大脑对音乐敏感的原因。复杂性匹配最近被解释为将复杂网络从一个复杂网络转移到另一个复杂网络。为此，我们还考察了音乐的多样性，同时观察到计算机性能的多重分形谱比相同乐谱的人类表演的多重分形谱明显更窄。我们推测，虽然关键事件对于信息传播来说显然是重要的，但是它们单独不足以定义音乐性，这通过多重分割谱更充分地衡量。</p>
+
+<h3 id="测量社交垃圾邮件和机器人对社交媒体信息传播的影响">测量社交垃圾邮件和机器人对社交媒体信息传播的影响</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08134">http://arxiv.org/abs/1708.08134</a></p>
+
+<p>作者： Emilio Ferrara</p>
+
+<p>摘要： 机器人在线平台生态系统中扮演着至关重要的角色，作为生成内容和向社会媒体人口扩散信息的高效和自动的工具。在本章中，我们将讨论社交机器人在社交媒体内容传播动态中的作用。具体来说，我们首先会研究一下机器人与人类在政治交流的背景下产生的内容的扩散动态之间的差异，然后研究社交媒体垃圾邮件运动扩散动态背后的漫游器的特征。</p>
+
+<h3 id="用于检测动态网络社区变化的集体框架">用于检测动态网络社区变化的集体框架</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08136">http://arxiv.org/abs/1708.08136</a></p>
+
+<p>作者： Timothy La Fond, Geoffrey Sanders, Christine Klymko, Van Emden Henson</p>
+
+<p>摘要： 动态网络，特别是那些代表社会网络的网络，随着时间的推移，社区结构不断发展。节点可以在不同社区之间迁移，社区可以分为多个新社区，社区可以合并在一起等。为了用不断发展的社区代表动态网络，必须使用动态模型而不是静态模型。这里我们使用动态随机块模型，其中底层块模型在不同时间是不同的。为了表示由该动态模型表示的结构变化，网络将被分割为离散时间段，并且聚类算法将为每个段分配块成员资格。在本文中，我们展示了使用聚类分配的集合可以适应可扩展聚类算法中的方差，并且在成对精度和成对回归方面产生优异的结果。我们还展示了由集合产生的动态聚类可以被简化为简洁地封装社区进化的流程图。</p>
+
+<h3 id="hirsch指数变体分类">Hirsch指数变体分类</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08138">http://arxiv.org/abs/1708.08138</a></p>
+
+<p>作者： M. Schreiber, C.C. Malesios, S. Psarakis</p>
+
+<p>摘要： 利用Hirsch指数h及其一些变体进行探索性因素分析，我们讨论了最重要的Hirsch型指数之一，即g-指数是否包括不仅关于生产性核心的尺寸的信息，而且还包括论文在核心。我们还研究了因子分析中使用的数据的对数和平方根变换的影响。为了展示我们的方法，我们使用一个真实的数据分析来分析从科学网编制的26位物理学家的引文记录。</p>
+
+<h3 id="在线审查系统中的自动人头攻击和防御">在线审查系统中的自动人头攻击和防御</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08151">http://arxiv.org/abs/1708.08151</a></p>
+
+<p>作者： Yuanshun Yao, Bimal Viswanath, Jenna Cryan, Haitao Zheng, Ben Y. Zhao</p>
+
+<p>摘要： 恶意的众包论坛正在成为在线传播错误信息的来源，但受到招聘和管理人力成本的限制。在本文中，我们确定了一类新的攻击，利用深度学习语言模型（循环神经网络或RNN）来自动生成针对产品和服务的假在线评论。这些攻击不仅价格便宜，而且更具可扩展性，但它们可以控制内容输出速率，以消除令人震惊的广告系列易于检测的签名突发性。使用Yelp评论作为示例平台，我们展示了两次分阶段审查生成和定制攻击如何产生最先进的统计检测器无法区分的评论。我们进行基于调查的用户研究，以显示这些评论不仅可以逃避人的检测，而且还可以使用户对“有用性”指标的评分很高。最后，我们通过利用RNN培训和生成周期引入的有损变革，开发出针对这些攻击的新型自动防御。我们考虑对抗我们的机制的对策，表明它们为攻击者带来了不吸引人的成本效益权衡，并且可以通过在线服务提供商施加的简单约束来进一步削减它们。</p>
+
+<h3 id="walk2friends-从移动配置文件中推送社交链接">walk2friends：从移动配置文件中推送社交链接</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08221">http://arxiv.org/abs/1708.08221</a></p>
+
+<p>作者： Michael Backes, Mathias Humbert, Jun Pang, Yang Zhang</p>
+
+<p>摘要： 定位技术的发展导致越来越多的移动数据可用。在为人们的生活带来很多便利的同时，这种可用性也引起了对隐私的严重关切。在本文中，我们专注于可以从移动性数据推断的最敏感的信息之一，即社会关系。我们提出一种依靠高级特征学习技术来自动总结用户移动性特征的新型社会关系推理攻击。与现有的方法相比，我们的攻击能够预测任何两个人的社会关系，并且不要求对手掌握现有社会关系的先前知识。这些优势显着增加了我们攻击的适用性和隐私评估的范围。对大型数据集进行的大量实验表明，我们的推理攻击是有效的，并且比最佳的最先进的方案提高了13％至20％。我们提出三种防范机制 - 隐藏，替代和推广 - 并评估其有效性，以缓解移动数据共享带来的社会环境隐私风险。我们的实验结果表明，隐藏和替代机制都优于泛化。此外，隐藏和替换在实用程序和隐私之间实现了可比较的权衡，前者保留了更好的效用，后者提供了更好的隐私。</p>
+
+<h3 id="非经典-量子-不确定性下预期效用的动态一致性">非经典（量子）不确定性下预期效用的动态一致性</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08244">http://arxiv.org/abs/1708.08244</a></p>
+
+<p>作者： Vladimir V. Danilov, Ariane Lambert-Mogiliansky, Vassily Vergopoulos</p>
+
+<p>摘要： 决策中的量子认知是近期和急速增长的领域。在本文中，我们在非经典（量子）不确定性的背景下开发了一个预期效用理论。我们用希尔伯特空间代替古典状态空间，允许引入量子彩票的概念。在这个框架内，我们制定了关于量子彩票的偏好的公理来建立一个表征定理。我们表明，要求以新信息为条件的选择行为的一致性等同于von Neuman-L“uder假设应用于信念，但动态一致的量子式代理可能违反了动态递归一致性，但这个功能表明了有趣的应用我们在劝说的例子中说明行为经济学。</p>
+
+<h3 id="准备-量子-信念系统">准备（量子）信念系统</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08250">http://arxiv.org/abs/1708.08250</a></p>
+
+<p>作者： Vladimir V. Danilov, Ariane Lambert-Mogiliansky</p>
+
+<p>摘要： 在本文中，我们研究与信念的量子不确定性有关的劝说的潜力。我们首先在量子般的信仰的背景下制定说服问题。我们提供说明设置的信仰操纵的经济实例。我们接下来建立一个理论结果，表明在没有测量限制的情况下，可以通过合适的测量顺序获得任何状态。我们终于在劝说的背景下讨论了我们的结果的实际意义。关键词：信仰，量子式，说服力，测量</p>
+
+<h3 id="大趋势和工作干预影响分析器-欧洲大数据黑客入门">大趋势和工作干预影响分析器：欧洲大数据黑客入门</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08262">http://arxiv.org/abs/1708.08262</a></p>
+
+<p>作者： Rain Opik, Toomas Kirt, Innar Liiv</p>
+
+<p>摘要： 本文介绍了欧洲大数据Hackathon条目的结果，以促进关于欧洲就业和技能错配以及劳动力市场的提供和外部数据集中的模式的数据分析和可视化。这项工作的主要贡献是：从职业分享技能的角度，发展代表劳动力市场内部结构复杂化的方法;开发和呈现原型，以及构建图和相关必要数据处理的扩展描述。由于劳动力市场不是一个孤立的现象，不断受到外部趋势和干预的影响，所提出的工具旨在增加额外的外部信息层面：大趋势对劳动力市场的影响是什么？哪个国家劳动力市场哪个国家最容易接近大趋势或计划干预？介绍了分析劳动力市场以及自动化和计算机化工作的大趋势。原型的源代码作为开放源码发布，用于更好的重复性。</p>
+
+<h3 id="基于社会网络分析的美国道路网研究">基于社会网络分析的美国道路网研究</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08273">http://arxiv.org/abs/1708.08273</a></p>
+
+<p>作者： Elie Ngomseu Mambou, Samuel Nlend, Harold Liu</p>
+
+<p>摘要： 大数据结构和网络的复杂性需要更多的研究来分析和表示数据，以便更好地理解和使用数据。在这方面，有几种类型的模型来表示结构。本文的目的是使用社会网络拓扑来分析美国，加利福尼亚州，宾夕法尼亚州和德克萨斯州的以下国家的道路网络。我们的方法主要集中在道路网数据集群，以创建“社区”。</p>
+
+<h3 id="对资本收入的均衡保税计划">对资本收入的均衡保税计划</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08275">http://arxiv.org/abs/1708.08275</a></p>
+
+<p>作者： Jacques Tempere</p>
+
+<p>摘要： 在市场均衡条件下，资本收入分配遵循帕累托幂律，其特征在于给定均衡。在这里，提出了一个简单的税收计划，使得税后资本收入分配仍然是均衡分布，尽管指数不同。这种税收计划显示为渐进式，其参数可以简单地从（i）所征收的总税额中获得，（ii）选择上述阈值以上的资本收入将被征税，（iii）总额的资本收入。后者可以通过使用Piketty对资本/劳动收入比率的估计或通过拟合初始帕累托指数来获得。此外，这两种方式都提供了对资本申报收入数额的检查。</p>
+
+<h3 id="使用偏好网络的社区检测">使用偏好网络的社区检测</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08305">http://arxiv.org/abs/1708.08305</a></p>
+
+<p>作者： Mursel Tasgin, Haluk Bingol</p>
+
+<p>摘要： 社区检测是识别网络中的群集或节点组的任务，其中同一组中的节点彼此之间的连接多于不同组中的节点。它在确定许多生物，社会和计算机网络节点的类似功能或作用方面具有实际应用。随着近年来大型网络的可用性，社区检测算法的性能和可扩展性变得至关重要，即如果算法的时间复杂度高，则不能在大型网络上运行。在本文中，我们提出一种新的社区检测算法，具有局部方法，能够在大型网络上运行。它有一个简单有效的方法;给定网络，我们构建具有相同集合节点的偏好网络，并且每个节点具有显示其与其相同社区的优选节点的单个输出边。在这样的偏好网络中，每个连接的组件都是社区。在优化网络的构建中，首选节点选择至关重要，为此目的使用基于相似度的度量。为了保持本地，我们只使用可以在每个节点进行选择的1-邻域中计算的度量。我们使用两个相似性度量;第一个是选择器节点及其邻居的常见邻居数，第二个是选择节点周围的邻居的扩展能力，由Lind etal的八卦算法计算。我们的算法在计算机生成的LFR网络和具有地面真相社区结构的现实网络中进行测试。它可以快速识别社区。它是本地的，可扩展的，适用于大型网络上的分布式执行。</p>
+
+<h3 id="揭示成长-衰老和通货膨胀的动态-引用到具体研究领域的科学文章">揭示成长，衰老和通货膨胀的动态，引用到具体研究领域的科学文章</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1708.08335">http://arxiv.org/abs/1708.08335</a></p>
+
+<p>作者： K. W. Higham, M. Governale, A. B. Jaffe, U. Zülicke</p>
+
+<p>摘要： 我们分析了美国物理学会（PRA，PRB，PRC，PRD，PRE和PRL）期刊文章获得的引文的时间演变。随着时间的推移，在每个期刊上发表的论文数量的变化被认为是由归一化所引起的引起的引用变异。发现适当的通货膨胀调整引用率可分离为优先依附型生长核和纯过时相关（即随着出版时间随时间而变化的单调递减）老化功能。与不同期刊相关的增长核心和老化功能的经验提取参数的变化指向引用强度和知识流动的研究领域特异性特征。与技术分类的专利队列的引用动态的类似结果的比较提供了更深入的了解信息传播的基本原理，如引用行为所示。</p>
+
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> 进行更新，并提供RSS订阅。</p>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        <div style="text-align:center;">微信扫一扫交流</div>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信关注：netsci
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20170829/">https://www.complexly.me/post/20170829/</a>
+                            <br />
+                            Arxiv文章摘要版权归原作者所有，由作者进行翻译整理，未经同意请勿随意转载。</p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20170828/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要12篇(2017-08-28)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+            <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
