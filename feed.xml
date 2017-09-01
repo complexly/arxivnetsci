@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 31 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2017-09-01)</title>
+      <link>https://www.complexly.me/post/20170901/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170901/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;不同汇总水平的短期电力负荷预测;&lt;/li&gt;
+&lt;li&gt;通过自适应地利用网络的多个结构特征，改进复杂网络中的链路预测;&lt;/li&gt;
+&lt;li&gt;现象环境交通模型第1部分：模糊逻辑验证;&lt;/li&gt;
+&lt;li&gt;利用局部h指数来确定网络中有影响力的传播者;&lt;/li&gt;
+&lt;li&gt;使用协调博弈的社会网络分析;&lt;/li&gt;
+&lt;li&gt;加快非马可夫的第一通道渗透与几个额外的边;&lt;/li&gt;
+&lt;li&gt;略广泛的广义传染病：统一简单的生物和社会传播模式;&lt;/li&gt;
+&lt;li&gt;NIPS 2016审查流程的设计与分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-08-31)</title>
