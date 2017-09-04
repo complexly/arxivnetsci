@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2017-09-04)</title>
+      <link>https://www.complexly.me/post/20170904/</link>
+      <pubDate>Mon, 04 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170904/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会和通信网络中弱连接的注意力;&lt;/li&gt;
+&lt;li&gt;截断选择和扩散随机图;&lt;/li&gt;
+&lt;li&gt;复杂网络的凸骨架;&lt;/li&gt;
+&lt;li&gt;节点链接和矩阵表示的再次实验比较;&lt;/li&gt;
+&lt;li&gt;“取得”发生：社会和语言背景对词汇创新成功的影响;&lt;/li&gt;
+&lt;li&gt;电子邮件附件值得一千个字，是么？;&lt;/li&gt;
+&lt;li&gt;绘制没有时间片的动态图;&lt;/li&gt;
+&lt;li&gt;用夏普特征向量偏差估计混合成员;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-09-01)</title>
