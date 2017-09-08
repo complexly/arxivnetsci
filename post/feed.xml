@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 07 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-09-08)</title>
+      <link>https://www.complexly.me/post/20170908/</link>
+      <pubDate>Fri, 08 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170908/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;活动组织101：了解事件流行的潜在因素;&lt;/li&gt;
+&lt;li&gt;用于评估可能的税收收入操纵的数据科学：意大利的情况;&lt;/li&gt;
+&lt;li&gt;物理学家是否太早停止搜索？远程科学，优化景观调查;&lt;/li&gt;
+&lt;li&gt;多层脑网络;&lt;/li&gt;
+&lt;li&gt;当标签变短时：通过网络结构和顶点属性的混合进行属性图模拟;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2017-09-07)</title>
