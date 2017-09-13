@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 12 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2017-09-13)</title>
+      <link>https://www.complexly.me/post/20170913/</link>
+      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170913/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过GAN学习图的拓扑特征;&lt;/li&gt;
+&lt;li&gt;原始多层网络嵌入;&lt;/li&gt;
+&lt;li&gt;使用动态规划的可靠性约束最小成本生成扩展规划：KSA中的孤立小型网格;&lt;/li&gt;
+&lt;li&gt;高可再生能源渗透情景对系统可靠性的影响：沙特阿拉伯王国的两个案例研究;&lt;/li&gt;
+&lt;li&gt;在分布式团队中建立基于个人信任的连接;&lt;/li&gt;
+&lt;li&gt;爵士乐中的禁止三元组与创意成功：迈尔斯戴维斯因素;&lt;/li&gt;
+&lt;li&gt;流行病传播动力学与耐药和异质接触;&lt;/li&gt;
+&lt;li&gt;系统估计中的观测等价：复杂网络中的收缩;&lt;/li&gt;
+&lt;li&gt;传感器故障下的分布式估计恢复;&lt;/li&gt;
+&lt;li&gt;具有相关层次的多路复用网络的重建;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要21篇(2017-09-12)</title>
