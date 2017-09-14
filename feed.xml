@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2017-09-14)</title>
+      <link>https://www.complexly.me/post/20170914/</link>
+      <pubDate>Thu, 14 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170914/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;公共物品博弈与随机选择合作的演变;&lt;/li&gt;
+&lt;li&gt;网络时钟：检测信息扩散的时间尺度;&lt;/li&gt;
+&lt;li&gt;动态网络中的本地社区检测;&lt;/li&gt;
+&lt;li&gt;减轻病毒营销过度暴露;&lt;/li&gt;
+&lt;li&gt;第二十五届图绘制与网络可视化国际研讨会（GD 2017）;&lt;/li&gt;
+&lt;li&gt;有限连接组件在无限有向和多重网络中，具有任意度分布;&lt;/li&gt;
+&lt;li&gt;流式数据的近似集成;&lt;/li&gt;
+&lt;li&gt;在Twitter上的早期Debuking谣言：利用弱学习器的智慧;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2017-09-13)</title>
