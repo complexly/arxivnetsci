@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2017-09-15)</title>
+      <link>https://www.complexly.me/post/20170915/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170915/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;从节点嵌入到社区嵌入;&lt;/li&gt;
+&lt;li&gt;通过最大熵减轻复杂交通网络中的拥塞;&lt;/li&gt;
+&lt;li&gt;网络分类与归类;&lt;/li&gt;
+&lt;li&gt;重新生成社区模型的谱图聚类;&lt;/li&gt;
+&lt;li&gt;基于图表示学习方法的框架;&lt;/li&gt;
+&lt;li&gt;扩展corona积作为加权异构网络的完美解决模型;&lt;/li&gt;
+&lt;li&gt;关于潜在人口博弈的模仿动态;&lt;/li&gt;
+&lt;li&gt;审查隐私价值的方法;&lt;/li&gt;
+&lt;li&gt;更新规则对共同犯人困境的影响;&lt;/li&gt;
+&lt;li&gt;种子缓冲信息传播过程;&lt;/li&gt;
+&lt;li&gt;通过土地价格多元化揭示不平等：1912年京都议案;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-09-14)</title>
