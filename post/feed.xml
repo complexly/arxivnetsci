@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2017-09-21)</title>
+      <link>https://www.complexly.me/post/20170921/</link>
+      <pubDate>Thu, 21 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170921/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;量化社会媒体的争议;&lt;/li&gt;
+&lt;li&gt;介绍性建模教学课程中社会融合对学生持续性的影响;&lt;/li&gt;
+&lt;li&gt;具有动态社区结构的建模序列和时间网络;&lt;/li&gt;
+&lt;li&gt;跨维基百科增长的语言的鲁棒聚类;&lt;/li&gt;
+&lt;li&gt;关于人群中行为动力学与社会互动之间的相互作用;&lt;/li&gt;
+&lt;li&gt;基于注意的多视图网络表示学习协作框架;&lt;/li&gt;
+&lt;li&gt;移动电话数据识别的时间表的社会网络差异;&lt;/li&gt;
+&lt;li&gt;从人类流动模式解剖城市空间结构，确定功能城市边界;&lt;/li&gt;
+&lt;li&gt;发现Twitter Bursty僵尸网络;&lt;/li&gt;
+&lt;li&gt;VCExplorer：基于具有图合并的轮廓顶点的交互式图探索框架;&lt;/li&gt;
+&lt;li&gt;部分缺失社区的影响对中心性措施的可靠性;&lt;/li&gt;
+&lt;li&gt;用于同时进行社区和反社区检测的基于模块化的谱方法;&lt;/li&gt;
+&lt;li&gt;烟雾筛选器或直射枪：检测用户评论社会网络中的精英Sybil攻击;&lt;/li&gt;
+&lt;li&gt;传输分支参数对电压电平的相互依赖关系;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-09-20)</title>
