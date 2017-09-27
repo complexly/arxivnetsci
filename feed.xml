@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 26 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-09-27)</title>
+      <link>https://www.complexly.me/post/20170927/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170927/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;数学运动能否打败玩家？;&lt;/li&gt;
+&lt;li&gt;非线性映射收敛和社会网络应用;&lt;/li&gt;
+&lt;li&gt;音乐团体网络作为成功预测者;&lt;/li&gt;
+&lt;li&gt;网络有效排名的物理模型;&lt;/li&gt;
+&lt;li&gt;通过处理历史数据探索级联中断和天气;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2017-09-26)</title>
