@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2017-09-28)</title>
+      <link>https://www.complexly.me/post/20170928/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170928/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;非线性随机交通模型中的动力容量下降;&lt;/li&gt;
+&lt;li&gt;聚结菌落模型：平均场，尺度和几何;&lt;/li&gt;
+&lt;li&gt;易感-感染-易感动态在时变配置模型网络上的相变;&lt;/li&gt;
+&lt;li&gt;信息处理功能可以检测动力系统的行为方式;&lt;/li&gt;
+&lt;li&gt;随机重叠社区：大图的近似主题密度;&lt;/li&gt;
+&lt;li&gt;推特AI：对于专家Twitterati的看法;&lt;/li&gt;
+&lt;li&gt;网络自组织：数据驱动的Koopman方法;&lt;/li&gt;
+&lt;li&gt;随机实验来检测和估计网络中的社会影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2017-09-27)</title>
