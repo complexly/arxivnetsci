@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要7篇(2017-09-29) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+网络中重要重叠的社区的有效检测：部分社区兼并算法;
+通过共振现象进行核裁军核查;
+使用机器学习推理个人属性;
+利用电力线网进行通信建模传输和辐射效应;
+网络上的多动态过程：基于度数的近似框架进行分析;
+复发图的历史回顾;
+动态交通建模中道路风险缓解的控制策略;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要7篇(2017-09-29) - 网络科学研究速递">
+<meta itemprop="description" content="
+网络中重要重叠的社区的有效检测：部分社区兼并算法;
+通过共振现象进行核裁军核查;
+使用机器学习推理个人属性;
+利用电力线网进行通信建模传输和辐射效应;
+网络上的多动态过程：基于度数的近似框架进行分析;
+复发图的历史回顾;
+动态交通建模中道路风险缓解的控制策略;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要7篇(2017-09-29) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20170929/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+网络中重要重叠的社区的有效检测：部分社区兼并算法;
+通过共振现象进行核裁军核查;
+使用机器学习推理个人属性;
+利用电力线网进行通信建模传输和辐射效应;
+网络上的多动态过程：基于度数的近似框架进行分析;
+复发图的历史回顾;
+动态交通建模中道路风险缓解的控制策略;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20170929/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20170929/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要7篇(2017-09-29)</h1>
+
+                  <p class="post-byline">
+                    2017年09月29日 · 2108 字 ·
+                    阅读时间约5分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>网络中重要重叠的社区的有效检测：部分社区兼并算法;</li>
+<li>通过共振现象进行核裁军核查;</li>
+<li>使用机器学习推理个人属性;</li>
+<li>利用电力线网进行通信建模传输和辐射效应;</li>
+<li>网络上的多动态过程：基于度数的近似框架进行分析;</li>
+<li>复发图的历史回顾;</li>
+<li>动态交通建模中道路风险缓解的控制策略;</li>
+</ul>
+
+<p></p>
+
+<h3 id="网络中重要重叠的社区的有效检测-部分社区兼并算法">网络中重要重叠的社区的有效检测：部分社区兼并算法</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1509.00556">http://arxiv.org/abs/1509.00556</a></p>
+
+<p>作者： Elvis H. W. Xu, P. M. Hui</p>
+
+<p>摘要： 在大型网络中检测社区是一个具有挑战性的任务，每个顶点可能属于多个社区，就像在社会网络中一样。顶点的多个隶属度以及社区之间的强烈重叠使许多检测算法无效。我们开发了部分社区合并算法（PCMA），用于检测具有重大重叠以及轻微重叠和不相交的社区。这是一种自下而上的方法，基于正确重新组合在自顶向点网络中显示的社区的部分信息，以重建完整的社区。噪音控制和合并秩序是实施这一理念的两个关键问题。我们提出了一个可以抑制噪声的两个合并社区之间的新颖的相似性度量，以及递归合并最相似的社区对的一种有效的算法。根据两个基准测试PCMA的有效性和准确性，并与四个现有算法进行比较。它是具有线性复杂性的最有效的方法，并且当顶点具有多个成员资格时，它优于比较的算法。 PCMA应用于两个巨大的在线社会网络Friendster和新浪微博。检测到数百万个社区，并且它们的质量优于相应的元数据组。我们发现，后者不应被视为结构性社区的基本真理。在检测到的社区中发现的重大重叠模式证实了需要诸如PCMA之类的新算法来处理社会网络中的多个顶点成员。</p>
+
+<h3 id="通过共振现象进行核裁军核查">通过共振现象进行核裁军核查</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1709.09736">http://arxiv.org/abs/1709.09736</a></p>
+
+<p>作者： Jake J. Hecla, Areg Danagoulian</p>
+
+<p>摘要： 核裁军条约本身不足以消除核武器的存在威胁。核查核弹头正在拆除的真实性的技术在计算条约伙伴的义务之前是必要的。这项工作提出了一个新颖的概念，利用同位素特异性核共振现象通过将其与先前认证的模板进行比较来认证弹头的裂变成分。所有信息在物理域中以相当于物理零知识证明系统的方式加密。使用蒙特卡罗模拟，该系统被显示为没有显示关于武器的同位素或几何信息，同时容易地检测到欺骗的尝试。这种核技术可以大大增加未来核裁军条约的范围和可信度。</p>
+
+<h3 id="使用机器学习推理个人属性">使用机器学习推理个人属性</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1709.09927">http://arxiv.org/abs/1709.09927</a></p>
+
+<p>作者： Take Yo, Kazutoshi Sasahara</p>
+
+<p>摘要： 使用机器学习算法，包括深度学习，我们从性别，职业和年龄组的推文文本中研究了个人属性的预测。我们应用word2vec来构造单词向量，然后将其用于向量化tweet块。将所得到的tweet向量用作训练模型的输入，并且将这些模型的预测精度作为tweet向量的尺寸和tweet黑色的大小进行检查。结果表明，机器学习算法可以预测三种人格属性，精度达60-70％。</p>
+
+<h3 id="利用电力线网进行通信建模传输和辐射效应">利用电力线网进行通信建模传输和辐射效应</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1709.09939">http://arxiv.org/abs/1709.09939</a></p>
+
+<p>作者： Davide Righini, Federico Passerini, Andrea M. Tonello</p>
+
+<p>摘要： 电力线通信（PLC）技术利用配电网来传送高频数据信号。这种电力线网络的自然构造使得穿过它们的高频信号的相关部分被辐射而不是被传导。这不仅使得设备位于电力线电缆旁边的电磁干扰（EMI），而且导致信号完整性的一致恶化。由于现有的PLC通道模型不考虑辐射现象造成的损失，本文针对开发精确网络仿真器的需求做出了回应。本文介绍了有关信号完整性的传导和辐射效应的彻底分析，由于网络不平衡，将差分模式转换为共模信号转换。该工作的结果允许通过混合模式传输矩阵描述每个网络元件。此外，传输线的经典的每单位长度等效电路被扩展以包含辐射电阻。本文的结果为综合电力线网络模型的未来发展奠定了基础，并结合了传导和辐射现象。</p>
+
+<h3 id="网络上的多动态过程-基于度数的近似框架进行分析">网络上的多动态过程：基于度数的近似框架进行分析</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1709.09969">http://arxiv.org/abs/1709.09969</a></p>
+
+<p>作者： Peter G. Fennell, James P. Gleeson</p>
+
+<p>摘要： 节点可以占据多个离散状态之一的网络上的多动态过程被广泛使用，因为它们能够重新创建无法通过更简单的二进制状态模型充分捕获的逼真，复杂的行为。在流行病学中，多元模型被用于预测实际流行病的演变，而社会科学中则采用多态模型来研究不同的观点和复杂的现象，如分离。在本文中，我们介绍了广义近似框架，用于研究和分析网络上的多状态动态过程。这些框架是基于程度的，允许分析网络连接结构对动态过程的影响。我们通过分析流行病学和物理学两个具体的动力学过程来说明我们的方法的效用。我们开发的近似框架，以及开源数值解算器，为网络上多个动态过程的跨学科研究提供了一个统一的框架和一套有价值的工具。</p>
+
+<h3 id="复发图的历史回顾">复发图的历史回顾</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1709.09971">http://arxiv.org/abs/1709.09971</a></p>
+
+<p>作者： Norbert Marwan</p>
+
+<p>摘要： 在过去二十年里，复发图（RP）在许多不同的科学学科中被引入。原来这个方法有多强大。引入RP的量化方法，研究RP与动力系统的基本特性之间的关系，引起了更多的关注。经过20年的RP后，现在是在历史背景下总结这一发展的时候了。</p>
+
+<h3 id="动态交通建模中道路风险缓解的控制策略">动态交通建模中道路风险缓解的控制策略</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1709.09980">http://arxiv.org/abs/1709.09980</a></p>
+
+<p>作者： Andrea Tosin, Mattia Zanella</p>
+
+<p>摘要： 在本文中，我们提出了一种波尔兹曼型动力学方法对道路交通建模，其中包括针对缓解速度依赖性道路风险因素的微观二元相互作用水平的控制策略。这样的描述是为了模仿驾驶员辅助车辆的系统，其通过在本地响应其驾驶员的动作来影响大规模的交通动态，包括与集体道路风险和安全相关的交通动态。</p>
+
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        <div style="text-align:center;">微信扫一扫交流</div>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信关注：netsci
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20170929/">https://www.complexly.me/post/20170929/</a>
+                            <br />
+                            Arxiv文章摘要版权归原作者所有，由作者进行翻译整理，未经同意请勿随意转载。</p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20170928/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要8篇(2017-09-28)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+            <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

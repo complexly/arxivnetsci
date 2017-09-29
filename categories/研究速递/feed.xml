@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 28 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Sep 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2017-09-29)</title>
+      <link>https://www.complexly.me/post/20170929/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20170929/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络中重要重叠的社区的有效检测：部分社区兼并算法;&lt;/li&gt;
+&lt;li&gt;通过共振现象进行核裁军核查;&lt;/li&gt;
+&lt;li&gt;使用机器学习推理个人属性;&lt;/li&gt;
+&lt;li&gt;利用电力线网进行通信建模传输和辐射效应;&lt;/li&gt;
+&lt;li&gt;网络上的多动态过程：基于度数的近似框架进行分析;&lt;/li&gt;
+&lt;li&gt;复发图的历史回顾;&lt;/li&gt;
+&lt;li&gt;动态交通建模中道路风险缓解的控制策略;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-09-28)</title>
