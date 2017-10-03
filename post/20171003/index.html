@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要9篇(2017-10-03) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+基于Tabu搜索的群集算法及其在Spark上的并行实现;
+人类流动：模型和应用;
+随机游走者在吸引力演变下的空间模式：持续节点，度数分布和谱属性;
+激活“早餐俱乐部”：建模在自然世界社会网络中的影响;
+在线音乐社区的协作成功因素;
+用线性模型集合识别社交媒体上的Clickbait帖子;
+社会网络中的信念动态：基于流体的分析;
+网络表示的模体迭代模型;
+频率分布对词，代码和标志的多重含义的依赖;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要9篇(2017-10-03) - 网络科学研究速递">
+<meta itemprop="description" content="
+基于Tabu搜索的群集算法及其在Spark上的并行实现;
+人类流动：模型和应用;
+随机游走者在吸引力演变下的空间模式：持续节点，度数分布和谱属性;
+激活“早餐俱乐部”：建模在自然世界社会网络中的影响;
+在线音乐社区的协作成功因素;
+用线性模型集合识别社交媒体上的Clickbait帖子;
+社会网络中的信念动态：基于流体的分析;
+网络表示的模体迭代模型;
+频率分布对词，代码和标志的多重含义的依赖;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要9篇(2017-10-03) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20171003/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+基于Tabu搜索的群集算法及其在Spark上的并行实现;
+人类流动：模型和应用;
+随机游走者在吸引力演变下的空间模式：持续节点，度数分布和谱属性;
+激活“早餐俱乐部”：建模在自然世界社会网络中的影响;
+在线音乐社区的协作成功因素;
+用线性模型集合识别社交媒体上的Clickbait帖子;
+社会网络中的信念动态：基于流体的分析;
+网络表示的模体迭代模型;
+频率分布对词，代码和标志的多重含义的依赖;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20171003/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20171003/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要9篇(2017-10-03)</h1>
+
+                  <p class="post-byline">
+                    2017年10月03日 · 3147 字 ·
+                    阅读时间约7分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>基于Tabu搜索的群集算法及其在Spark上的并行实现;</li>
+<li>人类流动：模型和应用;</li>
+<li>随机游走者在吸引力演变下的空间模式：持续节点，度数分布和谱属性;</li>
+<li>激活“早餐俱乐部”：建模在自然世界社会网络中的影响;</li>
+<li>在线音乐社区的协作成功因素;</li>
+<li>用线性模型集合识别社交媒体上的Clickbait帖子;</li>
+<li>社会网络中的信念动态：基于流体的分析;</li>
+<li>网络表示的模体迭代模型;</li>
+<li>频率分布对词，代码和标志的多重含义的依赖;</li>
+</ul>
+
+<p></p>
+
+<h3 id="基于tabu搜索的群集算法及其在spark上的并行实现">基于Tabu搜索的群集算法及其在Spark上的并行实现</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1702.01396">http://arxiv.org/abs/1702.01396</a></p>
+
+<p>作者： Yinhao Lu, Buyang Cao, Fred Glover</p>
+
+<p>摘要： 众所周知的K-means聚类算法已被广泛应用于从数据分析到物流应用的不同应用领域。然而，K-means算法可能受到质心的初始选择等因素的影响，并且很容易被局部最优化。在本文中，我们提出了一种改进的K均值聚类算法，该算法由Tabu搜索策略增强，更适合满足大数据应用的需求。我们的设计进一步增强，以利用基于Spark框架的并行处理。计算实验证明了基于Tabu搜索的聚类算法在Spark MLlib中体现的K-means方法的广泛使用版本的优势，在可扩展性，准确性和有效性方面比较了算法。</p>
+
+<h3 id="人类流动-模型和应用">人类流动：模型和应用</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.00004">http://arxiv.org/abs/1710.00004</a></p>
+
+<p>作者： Hugo Barbosa-Filho, Marc Barthelemy, Gourab Ghoshal, Charlotte R. James, Maxime Lenormand, Thomas Louail, Ronaldo Menezes, José J. Ramasco, Filippo Simini, Marcello Tomasini</p>
+
+<p>摘要： 近年来，与人类运动有关的广泛地理位置数据集的爆炸性增长，使科学家能够定量研究个人和集体的流动模式，并产生可以捕捉和复制人类轨迹中的时空结构和规律的模型。人类流动性研究对于估计候鸟流量，交通预测，城市规划和流行模拟等应用尤为重要。在这项调查中，我们审查了制定的方法来重现各种流动模式，主要关注最近的发展。这项审查既可以作为人类流动的基本建模原理的介绍，也可以用作适用于具体的与移动有关的问题的技术方法。审查通过区分个人和人口流动以及短程和远程移动之间的组织来组织。在整个文本中，理论的描述与现实世界的应用程序相互交织在一起。</p>
+
+<h3 id="随机游走者在吸引力演变下的空间模式-持续节点-度数分布和谱属性">随机游走者在吸引力演变下的空间模式：持续节点，度数分布和谱属性</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.00301">http://arxiv.org/abs/1710.00301</a></p>
+
+<p>作者： Roberto da Silva</p>
+
+<p>摘要： 在本文中，我们探讨了随机游走者生成的具有演化吸引力的节点的特征，以及依赖于节点之间的欧几里德距离的Boltzmann样转移概率，以及两者之间的吸引力之比（$ \ beta $）他们。我们表明，持久性节点，即渐近时间以前从未到达的节点，在固定情况下，与吸引力是固定的，对于所有节点（$ \ beta = 1 $）等于1的情况是不同的。同时，我们还研究了进化网络的吸引力和程度分布的谱特性和统计学。最后，我们研究了持久阶段和无持续阶段之间的交叉，并且我们还表明存在一种特殊类型的转移概率，导致持久性时间演化的幂律行为。</p>
+
+<h3 id="激活-早餐俱乐部-建模在自然世界社会网络中的影响">激活“早餐俱乐部”：建模在自然世界社会网络中的影响</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.00364">http://arxiv.org/abs/1710.00364</a></p>
+
+<p>作者： Lily Hu, Bryan Wilder, Amulya Yadav, Eric Rice, Milind Tambe</p>
+
+<p>摘要： 虽然统治扩散模式已经使给定社会网络的结构特权，作为信息交流的关键，但是真正的人际交往似乎并不会发生在一个连接图上。使用从无家可归青年社会网络中艾滋病意识传播的试点研究收集的数据，我们显示健康信息并没有根据主导模式概述的过程扩散到实地。由于物理网络扩散场景往往与数字网络上研究较多的对等体分歧，因此我们提出了一种替代的激活跳转模型（AJM），它从多代理团队角度描述物理网络上的信息扩散。我们的模型展示了影响传播的主要级联和阈值模型的两个主要区别特征：1）种子集团队的结构组成影响每个节点的影响行为，2）影响节点可能将信息传播给非邻居。我们表明，AJM显着优于现有模型，适合观察到的青年网络上的节点级影响数据。然后，我们证明了理论结果，表明AJM展示了主导模型共享的许多表现良好的属性。我们的研究结果表明，AJM提出了一种灵活和更准确的网络扩散模型，可以更好地说明该领域的影响最大化。</p>
+
+<h3 id="在线音乐社区的协作成功因素">在线音乐社区的协作成功因素</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.00366">http://arxiv.org/abs/1710.00366</a></p>
+
+<p>作者： Fabio Calefato, Giuseppe Iaffaldano, Filippo Lanubile</p>
+
+<p>摘要： 网络社区已经能够通过其成员通过互联网进行的成功合作，开发大型开源软件（OSS）项目，如Linux和Firefox。然而，在线社区也涉及创意艺术领域，如动画，视频博弈和音乐。尽管它们越来越受欢迎，导致这些社区成功合作的因素还不完全清楚。在本文中，我们提出了一个关于音乐社区中创作合作的研究，作者通过“叠加”将歌曲组合在一起，即通过将新曲目与现有音频录制进行混合。我们分析了歌曲和作者相关的措施之间的关系以及歌曲被覆盖的可能性。我们发现最近的歌曲以及许多反应的歌曲更有可能被过度夸张;在社区中具有高地位的作者和可识别的身份撰写社区倾向于建立的歌曲。</p>
+
+<h3 id="用线性模型集合识别社交媒体上的clickbait帖子">用线性模型集合识别社交媒体上的Clickbait帖子</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.00399">http://arxiv.org/abs/1710.00399</a></p>
+
+<p>作者： Alexey Grigorev</p>
+
+<p>摘要： clickbait的目的是使链接如此吸引人，点击它。然而，这些文章的内容往往与标题无关，质量差，最终让读者不满意。为了帮助读者，Clickbait挑战的组织者（这个http URL）要求参与者建立一个机器学习模型，以便对他们的“clickbaitness”进行评分。在本文中，我们提出用线性SVM模型集合来解决clickbait问题，我们的方法在挑战中得到成功测试：它显示了0.036 MSE的很好的表现，在比赛的所有解决方案中排名第三。</p>
+
+<h3 id="社会网络中的信念动态-基于流体的分析">社会网络中的信念动态：基于流体的分析</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.00530">http://arxiv.org/abs/1710.00530</a></p>
+
+<p>作者： Alessandro Nordio, Alberto Tarable, Carla Fabiana Chiasserini, Emilio Leonardi</p>
+
+<p>摘要： 社会媒体的出现和扩散导致了数学模型的发展，描述了由社会互动用户组成的生态系统中的信仰/观点的演变。目标是获得对集体主导的社会信仰的认识，以及系统的不同组成部分的影响，如用户的互动，同时能够预测用户的意见。按照这个线索，在本文中，我们考虑了一个相当笼统的动态社会互动模型，它捕捉了社会系统所呈现的所有主要特征。对于这种模型，通过采用平均场方法，我们得出一个扩散微分方程，其表示渐近信念动力学，随着用户数量的增加。然后我们分析系统的稳态行为以及时间依赖（瞬态）行为。特别地，对于稳态分布，我们为相关类别的系统获得简单的闭合表达式，而在大多数情况下我们提出了有效的半分析技术。最后，我们开发了一种有效的半分析方法来分析用户对时间的信念的动态性，可以应用于非常大的一类系统。</p>
+
+<h3 id="网络表示的模体迭代模型">网络表示的模体迭代模型</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.00644">http://arxiv.org/abs/1710.00644</a></p>
+
+<p>作者： Lintao Lv, Zengchang Qin, Tao Wan</p>
+
+<p>摘要： 随着Facebook，Twitter，LinkedIn，微博等社会网络信息的爆炸，社交媒体采访已成为大数据中最受欢迎的研究领域之一。理解和表达社会网络的结构是社会媒体挖掘的关键。在本文中，我们提出了模体迭代模型（MIM）来表示社会网络的结构。顾名思义，新模式是基于网络模体的迭代。为了更好地展示模型的属性，通过研究三顶点无向网络图案的邻接矩阵，提出了一种称为顶点重排序和排序（VRA）的启发式和贪心算法。该算法用于从网络的邻接矩阵映射到二进制图像，它显示了网络结构可视化的新视角。总而言之，该模型为构建图像和网络之间的链接提供了一种有用的方法，并提供了一种表示社会网络结构的新方法。</p>
+
+<h3 id="频率分布对词-代码和标志的多重含义的依赖">频率分布对词，代码和标志的多重含义的依赖</h3>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.00683">http://arxiv.org/abs/1710.00683</a></p>
+
+<p>作者： Xiaoyong Yan, Petter Minnhagen</p>
+
+<p>摘要： 通过删除字母来研究由于文本中多个含义的频率分布的依赖关系。通过用较少字母对单词进行编码，每个编码字的含义数量增加。这种增加被测量并用作预测理论中的输入。对于以英文书写的文本，字频分布广泛且胖，而如果这些单词只用第一个字母表示，则分布变为指数。这两个分布都是由理论预测的，而连续表示第一个L = 6,5,4,3,2,1个字母的单词的整个序列也是如此。对由汉字编写的文字和由字母代码编写的相同文本进行比较，并将相应频率分布的相似度解释为汉字多重含义的结果。这进一步意味着由字母写的英文文本的字频形状和汉字写的中文文字的形状差异是由于编码而不是语言本身。</p>
+
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        <div style="text-align:center;">微信扫一扫交流</div>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信关注：netsci
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20171003/">https://www.complexly.me/post/20171003/</a>
+                            <br />
+                            Arxiv文章摘要版权归原作者所有，由作者进行翻译整理，未经同意请勿随意转载。</p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20171002/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要9篇(2017-10-02)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+            <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

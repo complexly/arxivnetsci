@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2017-10-03)</title>
+      <link>https://www.complexly.me/post/20171003/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171003/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于Tabu搜索的群集算法及其在Spark上的并行实现;&lt;/li&gt;
+&lt;li&gt;人类流动：模型和应用;&lt;/li&gt;
+&lt;li&gt;随机游走者在吸引力演变下的空间模式：持续节点，度数分布和谱属性;&lt;/li&gt;
+&lt;li&gt;激活“早餐俱乐部”：建模在自然世界社会网络中的影响;&lt;/li&gt;
+&lt;li&gt;在线音乐社区的协作成功因素;&lt;/li&gt;
+&lt;li&gt;用线性模型集合识别社交媒体上的Clickbait帖子;&lt;/li&gt;
+&lt;li&gt;社会网络中的信念动态：基于流体的分析;&lt;/li&gt;
+&lt;li&gt;网络表示的模体迭代模型;&lt;/li&gt;
+&lt;li&gt;频率分布对词，代码和标志的多重含义的依赖;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2017-10-02)</title>
