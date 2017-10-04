@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 03 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2017-10-04)</title>
+      <link>https://www.complexly.me/post/20171004/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171004/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;永远的最好的朋友（BFF）：寻找持久密集的子图;&lt;/li&gt;
+&lt;li&gt;动态异构信息网络中的连续时间关系预测;&lt;/li&gt;
+&lt;li&gt;找到最佳的网络自折叠Kirigami;&lt;/li&gt;
+&lt;li&gt;大规模疫情爆发期间的弹性管理;&lt;/li&gt;
+&lt;li&gt;使用小子图统计测试全球网络结构;&lt;/li&gt;
+&lt;li&gt;网络中节点学习向量表示的监督Q-walk;&lt;/li&gt;
+&lt;li&gt;可兴奋网络的动态范围最大化;&lt;/li&gt;
+&lt;li&gt;哈勃伯特的理论和光伏：破坏能源转换记录的废话;&lt;/li&gt;
+&lt;li&gt;帕累托在多层网络增长中的最优化;&lt;/li&gt;
+&lt;li&gt;印度设计老虎走廊的计算方法;&lt;/li&gt;
+&lt;li&gt;功能脑成像的图信号处理视图;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2017-10-03)</title>
