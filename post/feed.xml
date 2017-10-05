@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2017-10-05)</title>
+      <link>https://www.complexly.me/post/20171005/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171005/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;模块化时变网络中的流行病传播;&lt;/li&gt;
+&lt;li&gt;社会网络关系分析：从相似性到接近度的反向平滑度;&lt;/li&gt;
+&lt;li&gt;神经Clickbait检测引擎;&lt;/li&gt;
+&lt;li&gt;聚类网络渗流过程的谱估计;&lt;/li&gt;
+&lt;li&gt;复杂网络的几何演化;&lt;/li&gt;
+&lt;li&gt;通过时间跟踪和用户特征的联合聚类确定社会媒体徽章的影响;&lt;/li&gt;
+&lt;li&gt;基于Jaccard度量的Ollivier-Ricci曲率的有效替代;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2017-10-04)</title>
