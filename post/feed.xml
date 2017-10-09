@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2017-10-09)</title>
+      <link>https://www.complexly.me/post/20171009/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171009/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;电信网络分析的功能复杂性框架;&lt;/li&gt;
+&lt;li&gt;对多动作事件日志的快速预算影响最大化;&lt;/li&gt;
+&lt;li&gt;优先连接和顶点到达时间;&lt;/li&gt;
+&lt;li&gt;网络中的分辨率共识聚类;&lt;/li&gt;
+&lt;li&gt;突发事件在社会网络上快速和缓慢传播的模式;&lt;/li&gt;
+&lt;li&gt;使用稀疏数字追踪填充个人层面的移动性时间表;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-10-06)</title>
