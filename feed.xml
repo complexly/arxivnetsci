@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2017-10-10)</title>
+      <link>https://www.complexly.me/post/20171010/</link>
+      <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171010/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;美国证券市场的典型部门和企业演进;&lt;/li&gt;
+&lt;li&gt;估计大特征丰富图中的潜在特征 - 特征相互作用;&lt;/li&gt;
+&lt;li&gt;通过OutWithFriendz移动应用程序了解组事件计划;&lt;/li&gt;
+&lt;li&gt;用跳跃随机微分方程建模微博的集体行为;&lt;/li&gt;
+&lt;li&gt;密集网络随机化的组合米勒 - 哈格算法;&lt;/li&gt;
+&lt;li&gt;社会网络的基线混合模型;&lt;/li&gt;
+&lt;li&gt;一种用于指数随机图模型的完美采样方法;&lt;/li&gt;
+&lt;li&gt;超越非模态影响最大化的最差情况（In）近似性;&lt;/li&gt;
+&lt;li&gt;RUM：通过多层次的结构信息保存的网络表示学习;&lt;/li&gt;
+&lt;li&gt;绝大多数情绪检测与大型社会网络中的外部影响;&lt;/li&gt;
+&lt;li&gt;网络国际环境中的国家生存;&lt;/li&gt;
+&lt;li&gt;网络嵌入作为矩阵因式分解：统一DeepWalk，LINE，PTE和node2vec;&lt;/li&gt;
+&lt;li&gt;智能电网中基于主体的模型规范：基于认知代理的计算方法;&lt;/li&gt;
+&lt;li&gt;人在环中网络-物理系统的激励设计：加利福尼亚州需求响应案例研究;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2017-10-09)</title>
