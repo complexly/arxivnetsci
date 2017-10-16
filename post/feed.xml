@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 13 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2017-10-16)</title>
+      <link>https://www.complexly.me/post/20171016/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171016/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;行为社区和网络的原子结构;&lt;/li&gt;
+&lt;li&gt;在Kickstarter上估计交货期限的时间奖励交付项目;&lt;/li&gt;
+&lt;li&gt;从多个嘈杂的实现估计一个网络;&lt;/li&gt;
+&lt;li&gt;使用网络本地信息进行边采样;&lt;/li&gt;
+&lt;li&gt;造成行人流出瓶颈的出口时间之间的相关性;&lt;/li&gt;
+&lt;li&gt;估计使用共用车辆进行家庭通勤的停车需求节省;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2017-10-13)</title>
