@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 16 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2017-10-17)</title>
+      <link>https://www.complexly.me/post/20171017/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171017/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;点过程符合RNN：预测相互行为感染的细粒度用户兴趣;&lt;/li&gt;
+&lt;li&gt;考虑社区的随机游走网络嵌入;&lt;/li&gt;
+&lt;li&gt;网络时间平均动态中的对称性：通过最小网络模型减少不必要的复杂性;&lt;/li&gt;
+&lt;li&gt;通过复合算法在整个过程中有效地拆除网络;&lt;/li&gt;
+&lt;li&gt;加权H指数用于识别有影响力的传播者;&lt;/li&gt;
+&lt;li&gt;关于时间演进的图：从任何检测器中解释异常;&lt;/li&gt;
+&lt;li&gt;全球风险网络平均场稳定点的演变;&lt;/li&gt;
+&lt;li&gt;风险感知对时间网络中流行病传播的影响;&lt;/li&gt;
+&lt;li&gt;定量图论：图论和网络科学的新分支;&lt;/li&gt;
+&lt;li&gt;符号网络上随机游走的自动规避剪枝;&lt;/li&gt;
+&lt;li&gt;分析多车道公路交通的风险等级;&lt;/li&gt;
+&lt;li&gt;PRT网络模拟的建议基准;&lt;/li&gt;
+&lt;li&gt;有针对性的恢复是防范流行病传播的有效策略;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2017-10-16)</title>

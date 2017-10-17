@@ -1,0 +1,524 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要13篇(2017-10-17) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+点过程符合RNN：预测相互行为感染的细粒度用户兴趣;
+考虑社区的随机游走网络嵌入;
+网络时间平均动态中的对称性：通过最小网络模型减少不必要的复杂性;
+通过复合算法在整个过程中有效地拆除网络;
+加权H指数用于识别有影响力的传播者;
+关于时间演进的图：从任何检测器中解释异常;
+全球风险网络平均场稳定点的演变;
+风险感知对时间网络中流行病传播的影响;
+定量图论：图论和网络科学的新分支;
+符号网络上随机游走的自动规避剪枝;
+分析多车道公路交通的风险等级;
+PRT网络模拟的建议基准;
+有针对性的恢复是防范流行病传播的有效策略;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要13篇(2017-10-17) - 网络科学研究速递">
+<meta itemprop="description" content="
+点过程符合RNN：预测相互行为感染的细粒度用户兴趣;
+考虑社区的随机游走网络嵌入;
+网络时间平均动态中的对称性：通过最小网络模型减少不必要的复杂性;
+通过复合算法在整个过程中有效地拆除网络;
+加权H指数用于识别有影响力的传播者;
+关于时间演进的图：从任何检测器中解释异常;
+全球风险网络平均场稳定点的演变;
+风险感知对时间网络中流行病传播的影响;
+定量图论：图论和网络科学的新分支;
+符号网络上随机游走的自动规避剪枝;
+分析多车道公路交通的风险等级;
+PRT网络模拟的建议基准;
+有针对性的恢复是防范流行病传播的有效策略;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要13篇(2017-10-17) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20171017/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+点过程符合RNN：预测相互行为感染的细粒度用户兴趣;
+考虑社区的随机游走网络嵌入;
+网络时间平均动态中的对称性：通过最小网络模型减少不必要的复杂性;
+通过复合算法在整个过程中有效地拆除网络;
+加权H指数用于识别有影响力的传播者;
+关于时间演进的图：从任何检测器中解释异常;
+全球风险网络平均场稳定点的演变;
+风险感知对时间网络中流行病传播的影响;
+定量图论：图论和网络科学的新分支;
+符号网络上随机游走的自动规避剪枝;
+分析多车道公路交通的风险等级;
+PRT网络模拟的建议基准;
+有针对性的恢复是防范流行病传播的有效策略;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20171017/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20171017/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要13篇(2017-10-17)</h1>
+
+                  <p class="post-byline">
+                    2017年10月17日 · 4996 字 ·
+                    阅读时间约10分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>点过程符合RNN：预测相互行为感染的细粒度用户兴趣;</li>
+<li>考虑社区的随机游走网络嵌入;</li>
+<li>网络时间平均动态中的对称性：通过最小网络模型减少不必要的复杂性;</li>
+<li>通过复合算法在整个过程中有效地拆除网络;</li>
+<li>加权H指数用于识别有影响力的传播者;</li>
+<li>关于时间演进的图：从任何检测器中解释异常;</li>
+<li>全球风险网络平均场稳定点的演变;</li>
+<li>风险感知对时间网络中流行病传播的影响;</li>
+<li>定量图论：图论和网络科学的新分支;</li>
+<li>符号网络上随机游走的自动规避剪枝;</li>
+<li>分析多车道公路交通的风险等级;</li>
+<li>PRT网络模拟的建议基准;</li>
+<li>有针对性的恢复是防范流行病传播的有效策略;</li>
+</ul>
+
+<p></p>
+
+<h3 id="点过程符合rnn-预测相互行为感染的细粒度用户兴趣">点过程符合RNN：预测相互行为感染的细粒度用户兴趣</h3>
+
+<p>原文标题： When Point Process Meets RNNs: Predicting Fine-Grained User Interests with Mutual Behavioral Infectivity</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05135">http://arxiv.org/abs/1710.05135</a></p>
+
+<p>作者： Tong Chen, Lin Wu, Yang Wang, Jun Zhang, Hongxu Chen, Xue Li</p>
+
+<p>摘要： 用时间行为预测用户的细粒度兴趣对个性化和信息过滤应用很重要。然而，现有的利益预测方法不能捕捉到对特定项目的微妙用户兴趣，并且尚未研究个人的内部时变漂移注意力。此外，预测过程也可能受到个人间的影响，被称为行为相互感染。灵感来源于时间点过程建模中的点过程，本文提出了一种基于两个循环神经网络（RNN）的深层预测方法，以在用户间行为互感的背景下联合模拟每个用户的连续浏览历史和异步事件序列。当发生事件发生时，我们的模型能够预测用户对特定项目的细粒度兴趣和相应的时间戳。所提出的方法更灵活地通过使用时间点过程来建立事件数据来捕获事件序列的动态特性，并且通过RNN及时更新其强度函数。此外，为了提高模式的可解释性，引入了注意机制，强调个人和个人之间的行为影响随着时间的推移。对实际数据集的实验表明，我们的模型在细粒度用户兴趣预测中优于最先进的方法。</p>
+
+<h3 id="考虑社区的随机游走网络嵌入">考虑社区的随机游走网络嵌入</h3>
+
+<p>原文标题： Community Aware Random Walk for Network Embedding</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05199">http://arxiv.org/abs/1710.05199</a></p>
+
+<p>作者： Mohammad Mehdi Keikha, Maseud Rahgozar, Masoud Asadpour</p>
+
+<p>摘要： 社会网络分析提供有关可以在分类，链路预测等多种应用中使用的网络成员的行为的有意义的信息。然而，由于不同应用的特征学习，网络分析在计算上是昂贵的。近年来，许多研究侧重于社会网络中的特征学习方法。网络嵌入表示具有相同属性的低维表示空间中的网络，其呈现输入网络的压缩表示。在本文中，我们引入了一种名为“CARE”的网络嵌入算法，可以用于不同类型的网络，包括加权，有向和复杂。虽然目前的方法尝试保存节点的本地邻域信息，但是我们利用网络节点的本地邻域和社区信息来覆盖社会网络的本地和全局结构。 CARE构建了由网络节点的本地和全局结构组成的定制路径，作为网络嵌入的基础，并使用跳过模型来学习节点的表示向量。然后，使用随机梯度下降来优化我们的目标函数并学习节点的最终表示。当新节点附加到网络而没有信息丢失时，我们的方法可以是可扩展的。并行化定制的随机游走也用于加速CARE。我们评估CARE对多标签分类和链路预测任务的绩效。不同网络的实验结果表明，针对不同大小的训练数据，所提出的方法在Micro-f1和Macro-f1测量中均优于其他方法。</p>
+
+<h3 id="网络时间平均动态中的对称性-通过最小网络模型减少不必要的复杂性">网络时间平均动态中的对称性：通过最小网络模型减少不必要的复杂性</h3>
+
+<p>原文标题： Symmetries in the time-averaged dynamics of networks: reducing unnecessary complexity through minimal network models</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05251">http://arxiv.org/abs/1710.05251</a></p>
+
+<p>作者： Abu Bakar Siddique, Louis M. Pecora, Francesco Sorrentino</p>
+
+<p>摘要： 复杂网络是科学界普遍关心的问题。已经引入了几个指标来表征这些网络的结构，例如度分布，程度相关性，路径长度，聚类系数，中心度量等。另一个重要特征是存在网络对称性。特别地，已经在网络同步的上下文中研究了这些对称性的影响，其中它们被用于预测集群同步状态的出现和稳定性。在这里，我们提供理论，数值和实验证据，证明网络对称性在网络上的一个更广泛的动力学模型中发挥作用，包括流行病学，博弈理论，通信和耦合的兴奋系统。也就是说，我们看到在所有这些模型中，通过对称关系相关的节点显示出相同的时间平均动力特性。这个发现使我们提出了复杂网络动态的精确但最小的仿真的减少技术，我们显示这些技术是有效的，以便优化计算资源的使用，如计算时间和内存。</p>
+
+<h3 id="通过复合算法在整个过程中有效地拆除网络">通过复合算法在整个过程中有效地拆除网络</h3>
+
+<p>原文标题： Dismantle a network efficiently during the entire process by a compound algorithm</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05265">http://arxiv.org/abs/1710.05265</a></p>
+
+<p>作者： Shao-Meng Qin</p>
+
+<p>摘要： 拆卸网络问题仅在删除剩余图中的哪个剩余图将分解为次广泛大小的连接分量后才会询问图的最小顶点集，但是我们还应考虑在整个拆解过程中的中间状态的效率，其由本文中的一般性能R。为了提高置信传播抽取（BPD）算法的一般性能，我们引入了混合BPD和节点爆炸性渗透（NEP）算法的复合算法（CA）。在这个CA中，NEP算法将重排和优化由BPD给出的拆卸序列的头部。在可以优化一般性能的联合点处连接两个祖先算法。它像BPD一样将图拆分成小块，并且在整个拆解过程中具有NEP的效率。我们发现明智的联合点是BPD将原始图打破不超过原始图1％的子图。我们将CA与这个确定的联合点称为快速CA，并且快速CA与BPD算法处于相同的复杂度类别。对一些现实世界的实例的计算也表明，使用快速CA来优化拆分算法的中间过程是一种有效的方法。</p>
+
+<h3 id="加权h指数用于识别有影响力的传播者">加权H指数用于识别有影响力的传播者</h3>
+
+<p>原文标题： Weighted H-index for identifying influential spreaders</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05272">http://arxiv.org/abs/1710.05272</a></p>
+
+<p>作者： Senbin Yu, Liang Gao, Yi-Fan Wang, Ge Gao, Congcong Zhou, Zi-You Gao</p>
+
+<p>摘要： 传播是社会，生物和技术系统中普遍存在的过程。因此，识别有效的防扩散剂对于预防流行病传播和建立有效的疫苗接种策略至关重要，具有理论和现实意义。在本文中，提出了基于虚拟节点扩展的加权h指数中心性来量化复杂网络中节点的扩散影响。现实世界网络的仿真结果表明，提出的方法提供比五种经典方法更准确和更一致的排名。此外，我们观察到我们测量的单调性和计算复杂度也可以产生优异的性能。</p>
+
+<h3 id="关于时间演进的图-从任何检测器中解释异常">关于时间演进的图：从任何检测器中解释异常</h3>
+
+<p>原文标题： LookOut on Time-Evolving Graphs: Succinctly Explaining Anomalies from Any Detector</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05333">http://arxiv.org/abs/1710.05333</a></p>
+
+<p>作者： Nikhil Gupta, Dhivya Eswaran, Neil Shah, Leman Akoglu, Christos Faloutsos</p>
+
+<p>摘要： 为什么通过现成的检测算法将时间演变图（$ t $ -graph）中的给定节点标记为异常？是因为其传出或进入边的数量还是其时间？我们如何最好地说服一个人类分析师，这个节点是不正常的？我们的工作旨在简化，可解释和简单地解释$ t $ -graphs（通信，IP-IP互动等）中的异常行为，同时尊重人类分析师的有限关注。具体来说，我们从这些图中提取关键特征，并提出从这个特征空间输出几对（散点）图，“最佳”解释已知的异常。为此，我们的工作有四个主要贡献：（a）问题制定：我们引入一个“分析友好的”问题解决方案，通过对图解释异常，（b）解释算法：我们提出一个绘图选择目标和LookOut算法用最优性保证近似，（c）通用性：我们的解释算法既是域和检测器不可知的，（d）可扩展性：我们显示LookOut在输入图的边数上线性地尺度。我们的实验表明，LookOut在几个真正的数据集（包括安然电子邮件和DBLP共同作者）的最大化解释目标方面表现近乎理想。此外，LookOut可以快速，可视地解释和直观的结果来解释来自Enron，DBLP和LBNL（计算机网络）数据的“实况”异常。</p>
+
+<h3 id="全球风险网络平均场稳定点的演变">全球风险网络平均场稳定点的演变</h3>
+
+<p>原文标题： Evolution of the Global Risk Network Mean-Field Stability Point</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05386">http://arxiv.org/abs/1710.05386</a></p>
+
+<p>作者： Xiang Niu, Alaa Moussawi, Noemi Derzsy, Xin Lin, Gyorgy Korniss, Boleslaw K. Szymanski</p>
+
+<p>摘要： 随着人口的不断增长和技术的飞速发展，全球人类网络的规模和连接密度也在不断增加。这种增长加剧了网络化的全球威胁，并可能导致意想不到的后果，例如由航空旅行，网络空间威胁，全球治理等引起的全球流行病。对于全球网络的指导机制的定量理解对于全球的正常运行和维护是必要的基础设施。每年世界经济论坛都会发布关于全球风险的权威性报告，并将此数据应用于CARP模式，我们回答关键问题，如网络如何随着时间的推移而演变。在演化过程中，我们不是将不同时间点的全球风险网络状况进行比较，而是在风险不变的情况下在这些点处稳定。从稳定状态来看，世界社会在每个时间点都面临着全球经济和稳定的挑战的差异。最后，我们利用成功区分相关性和因果关系的方法来研究全球网络风险之间的影响。使用详细的数学分析与模拟获得了本文中提出的所有结果，以支持我们的发现。</p>
+
+<h3 id="风险感知对时间网络中流行病传播的影响">风险感知对时间网络中流行病传播的影响</h3>
+
+<p>原文标题： Effect of risk perception on epidemic spreading in temporal networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05589">http://arxiv.org/abs/1710.05589</a></p>
+
+<p>作者： Antoine Moinet, Alain Barrat, Romualdo Pastor Satorras</p>
+
+<p>摘要： 通过大量建模工作和分析和数值研究，已经获得了对流行病传播模型理解的许多进展，考虑到具有非常不同结构和性质的宿主群体，包括复杂和时间的相互作用网络。此外，最近的一些研究已经开始超出了疾病传播与其所展现的接触结构之间缺乏联系的假设。已经提出包括对传播意识的模型，以模拟个人采取可能的预防措施，降低其感染风险，但主要考虑静态网络。在这里，我们将这样的框架适应于个人之间的互动时间网络的更现实的情况。我们通过分析和数值方法对时间网络的简单模型和经验时间分辨的联系人数据研究所得模型。分析结果表明，疫情阈值不受意识的影响，但流行率可以显着降低。然而，数值研究强调了非常强的有限尺寸效应的存在，特别是对于更现实的合成时间网络，导致在存在风险意识的情况下有效流行阈值的显着变化。对于经验联系网络，意识机制也导致了有效门槛的转变，并大大降低了流行病学流行率。</p>
+
+<h3 id="定量图论-图论和网络科学的新分支">定量图论：图论和网络科学的新分支</h3>
+
+<p>原文标题： Quantitative Graph Theory: A new branch of graph theory and in network science</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05660">http://arxiv.org/abs/1710.05660</a></p>
+
+<p>作者： Matthias Dehmer, Frank Emmert-Streib, Yongtang Shi</p>
+
+<p>摘要： 在本文中，我们描述了{\ sc定量图论}，并认为它是网络科学中的一个新的图论分支，然而，与古典图论相比，具有显着的不同特征。定量图论的主要目标是通过采用基于数值不变量和比较的{\ it测量方法}来对包含在复杂网络中的信息进行结构化量化。此外，方法和网络不一定是确定性的，但可以是统计学的。因此，这是对经典图论理论领域的补充，它是描述性和确定性的。我们提供了在总体概念网络科学的背景下如何将定量图论用于新颖应用的例子。</p>
+
+<h3 id="符号网络上随机游走的自动规避剪枝">符号网络上随机游走的自动规避剪枝</h3>
+
+<p>原文标题： Self-Avoiding Pruning Random Walk on Signed Network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05744">http://arxiv.org/abs/1710.05744</a></p>
+
+<p>作者： Huijuan Wang, Cunquan Qu, Chongze Jiao, Wioletta Ruszel</p>
+
+<p>摘要： 一个签名的网络代表一组节点如何通过两个逻辑上相互矛盾的链接类型连接：正和负链接。示例是签署的产品网络，其中两个产品可以互补（一起购买）或可替代（购买而不是彼此）。这种相互矛盾的链接类型在信息，意见等的传播过程中可能发挥着不同的作用。在这项工作中，我们提出了一个在自动避免修剪（SAP）随机游走在签名的网络上，以建模例如。用户在签署的社会网络上的产品和信息/意见传播的符号网络上的购买活动。具体来说，SAP散步从随机节点开始。在每个步骤中，步行者移动到随机选择的正邻居，并且其先前访问的节点及其负邻居被去除。我们在分析和数字上探索了如何签名的网络特征（如链路密度和度分布）如何影响SAP散步的关键性能：由SAP散步的节点删除导致的修剪网络的演进，SAP步行的长度以及每个节点的访问概率。我们在符号网络模型中的发现在两个真实世界签名的网络中进一步部分验证。</p>
+
+<h3 id="分析多车道公路交通的风险等级">分析多车道公路交通的风险等级</h3>
+
+<p>原文标题： Analysis of risk levels for traffic on a multi-lane highway</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05752">http://arxiv.org/abs/1710.05752</a></p>
+
+<p>作者： Michael Herty, Giuseppe Visconti</p>
+
+<p>摘要： 我们分析了多车道道路上的风险水平。目的是使用碰撞指标来了解流量的哪个方向主要影响交通流量的安全。事实上，在多车道高速公路上，车辆之间的相互作用也发生在车道变化中，我们显示它们对潜在冲突的程度有很大的影响。特别是在这项研究中，我们将时间碰撞视为风险度量，我们使用A3德国高速公路上收集的实验数据。</p>
+
+<h3 id="prt网络模拟的建议基准">PRT网络模拟的建议基准</h3>
+
+<p>原文标题： Proposed benchmarks for PRT networks simulation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05754">http://arxiv.org/abs/1710.05754</a></p>
+
+<p>作者： Jerzy Mieścicki, Wiktor B. Daszczuk</p>
+
+<p>摘要： 个人快速公交（PRT）是城市交通的有前途的形式。其运行方式是使用在专用网络内的车站之间传送乘客的小型无人驾驶车辆。使用离散事件模拟经常评估PRT网络性能的各个方面。本文支持对PRT网络仿真建立一些参考模型，主要针对网络管理算法研究的需要。提出并讨论了这种PRT网络模型的三种模型。所提出的模型可以起到基准的作用，这对于由不同研究组开发的启发式控制算法的比较评估非常有用。</p>
+
+<h3 id="有针对性的恢复是防范流行病传播的有效策略">有针对性的恢复是防范流行病传播的有效策略</h3>
+
+<p>原文标题： Targeted Recovery as an Effective Strategy against Epidemic Spreading</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1710.05807">http://arxiv.org/abs/1710.05807</a></p>
+
+<p>作者： Lucas Böttcher, José S. Andrade Jr., Hans J. Herrmann</p>
+
+<p>摘要： 我们提出了一个有针对性的干预方案，其中恢复仅限于受感染邻居数目最少的个体。我们的恢复策略在任何类型的网络上都是高效的，因为与自发恢复的基线情景相比，疫情爆发是最小的。在空间嵌入式网络的情况下，我们发现一个流行病在空间上保持着一个经历随机游走的特征长度尺度。我们在数值和分析上展示了这种动力学导致了具有平坦表面结构和半径随扩散速率线性增长的流行斑点。</p>
+
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        <div style="text-align:center;">微信扫一扫交流</div>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信关注：netsci
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20171017/">https://www.complexly.me/post/20171017/</a>
+                            <br />
+                            Arxiv文章摘要版权归原作者所有，由作者进行翻译整理，未经同意请勿随意转载。</p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20171016/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要6篇(2017-10-16)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+            <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
