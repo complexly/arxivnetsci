@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 17 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-10-18)</title>
+      <link>https://www.complexly.me/post/20171018/</link>
+      <pubDate>Wed, 18 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171018/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;信息论，可预测性和复杂生命的涌现;&lt;/li&gt;
+&lt;li&gt;高估了太阳能缓解气候变化的潜力;&lt;/li&gt;
+&lt;li&gt;货币和财政政策的普遍经济动态的初步步骤;&lt;/li&gt;
+&lt;li&gt;智利媒体权力结构;&lt;/li&gt;
+&lt;li&gt;在社会图像和文本中使用语言学输入的神经网络模型捕获Clickbaits;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2017-10-17)</title>
@@ -19,7 +36,7 @@
       
       <guid>https://www.complexly.me/post/20171017/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;点过程符合RNN：预测相互行为感染的细粒度用户兴趣;&lt;/li&gt;
+&lt;li&gt;点过程遇到RNN：预测相互行为感染的细粒度用户兴趣;&lt;/li&gt;
 &lt;li&gt;考虑社区的随机游走网络嵌入;&lt;/li&gt;
 &lt;li&gt;网络时间平均动态中的对称性：通过最小网络模型减少不必要的复杂性;&lt;/li&gt;
 &lt;li&gt;通过复合算法在整个过程中有效地拆除网络;&lt;/li&gt;
