@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 18 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2017-10-19)</title>
+      <link>https://www.complexly.me/post/20171019/</link>
+      <pubDate>Thu, 19 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171019/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;典型教职生产力轨迹的误导性叙述;&lt;/li&gt;
+&lt;li&gt;LASAGNE：局部性和结构感知图节点嵌入;&lt;/li&gt;
+&lt;li&gt;随机游走中监督和扩展重新启动用于网络的排名和链路预测;&lt;/li&gt;
+&lt;li&gt;网络社区结构验证的推理程序;&lt;/li&gt;
+&lt;li&gt;最大价值问题：在学术界找到热门话题;&lt;/li&gt;
+&lt;li&gt;在网络社交媒体中检测Clickbait：你不会相信我们是如何做到的;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2017-10-18)</title>
