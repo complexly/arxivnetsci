@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 20 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-10-23)</title>
+      <link>https://www.complexly.me/post/20171023/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171023/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复杂网络中的同步稳健性和广义基尔霍夫指数;&lt;/li&gt;
+&lt;li&gt;无通信大规模分布图生成;&lt;/li&gt;
+&lt;li&gt;连续富者越富流程：适用于企业规模的平均场分析;&lt;/li&gt;
+&lt;li&gt;复杂传染：十年综述;&lt;/li&gt;
+&lt;li&gt;使用信息扩散的时间动态学习在线社会网络中的用户表示;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2017-10-20)</title>
