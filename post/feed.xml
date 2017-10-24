@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2017-10-24)</title>
+      <link>https://www.complexly.me/post/20171024/</link>
+      <pubDate>Tue, 24 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171024/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会网络中的二阶同配混合;&lt;/li&gt;
+&lt;li&gt;综合控制循环能量负荷：马尔可夫决策方法;&lt;/li&gt;
+&lt;li&gt;多模态社会行动识别的计算框架;&lt;/li&gt;
+&lt;li&gt;移动社交大数据：微信朋友圈数据集，网络应用程序和机会;&lt;/li&gt;
+&lt;li&gt;计算通信研究中利用集体注意力流;&lt;/li&gt;
+&lt;li&gt;寻找在组织内有效果和高效率的知识转移方式;&lt;/li&gt;
+&lt;li&gt;解释人类世的起源并预测其未来;&lt;/li&gt;
+&lt;li&gt;在老化的情况下设计耐用网络;&lt;/li&gt;
+&lt;li&gt;通过局域观测实现超快同步;&lt;/li&gt;
+&lt;li&gt;使用弱信号网络上的社区检测来跟踪比特币用户活动;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2017-10-23)</title>
