@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 26 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2017-10-27)</title>
+      <link>https://www.complexly.me/post/20171027/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171027/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于距离的可达性指数;&lt;/li&gt;
+&lt;li&gt;在具有一般初始分布的多路网络中的意见形成;&lt;/li&gt;
+&lt;li&gt;混合策略纳什均衡的不连续对称N玩家博弈;&lt;/li&gt;
+&lt;li&gt;大型属性图表示学习;&lt;/li&gt;
+&lt;li&gt;基于结构平衡理论的符号网络建模;&lt;/li&gt;
+&lt;li&gt;动态社会平衡和通过同质和影响机制的融合评估;&lt;/li&gt;
+&lt;li&gt;从全局尺度到各个城市的动态;&lt;/li&gt;
+&lt;li&gt;小心脚下：通过注意学习图嵌入;&lt;/li&gt;
+&lt;li&gt;使用模块化和映射方程的简单分布式图聚类;&lt;/li&gt;
+&lt;li&gt;解决网络信息不对称：新的基于熵的排名指数;&lt;/li&gt;
+&lt;li&gt;量化网络上的瞬态扩展动力学;&lt;/li&gt;
+&lt;li&gt;关于社会网络中用户建模兴趣和专业知识的热点话题;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2017-10-26)</title>
