@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 30 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2017-10-31)</title>
+      <link>https://www.complexly.me/post/20171031/</link>
+      <pubDate>Tue, 31 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171031/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;人类互动网络的时间稳定性;&lt;/li&gt;
+&lt;li&gt;全球博弈与嘈杂的信息共享;&lt;/li&gt;
+&lt;li&gt;在高密度条件下进行大规模行人流量实验;&lt;/li&gt;
+&lt;li&gt;小观点网络中的修辞诱导集团极化;&lt;/li&gt;
+&lt;li&gt;网络中结构角色相似性的谱图小波;&lt;/li&gt;
+&lt;li&gt;DevRank：在Github挖掘有影响力的开发者;&lt;/li&gt;
+&lt;li&gt;社会传感器控制顺序信息融合;&lt;/li&gt;
+&lt;li&gt;在线社会网络中的音乐同声传译;&lt;/li&gt;
+&lt;li&gt;复杂网络的基于邻居的度数分布;&lt;/li&gt;
+&lt;li&gt;基于三相交通理论的自主驾驶物理学;&lt;/li&gt;
+&lt;li&gt;图注意力网络;&lt;/li&gt;
+&lt;li&gt;通过可见度图进行财务时间序列的统计验证;&lt;/li&gt;
+&lt;li&gt;社会网络去匿名化：对抗知识越多，用户被重新识别越多？;&lt;/li&gt;
+&lt;li&gt;大均匀随机网络中的渐近度分布：一点理论和反例;&lt;/li&gt;
+&lt;li&gt;衡量政治Gerrymandering的相对效率差距公式;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2017-10-30)</title>
