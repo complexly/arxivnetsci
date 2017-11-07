@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 06 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2017-11-07)</title>
+      <link>https://www.complexly.me/post/20171107/</link>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171107/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;探索科学合作网络的合作博弈机制;&lt;/li&gt;
+&lt;li&gt;基于作者相似度的姓名消歧误差分析;&lt;/li&gt;
+&lt;li&gt;自组织系统的噪声诱导同步：无限空间中的Hegselmann-Krause动力学;&lt;/li&gt;
+&lt;li&gt;国家旅行数据评估英国车辆电气化影响的数值分析;&lt;/li&gt;
+&lt;li&gt;构建基于位置的社交媒体用户集;&lt;/li&gt;
+&lt;li&gt;用部分时间戳估计网络中的感染源;&lt;/li&gt;
+&lt;li&gt;SIR-Hawkes：关于流行病模型和霍克斯点过程的关系;&lt;/li&gt;
+&lt;li&gt;跨非结构化在线社会网络的身份匹配：威胁与对策;&lt;/li&gt;
+&lt;li&gt;复杂网络群体演化预测分析;&lt;/li&gt;
+&lt;li&gt;卡茨中心性的控制分析视角;&lt;/li&gt;
+&lt;li&gt;神经机器翻译对抗训练的作者属性匿名性;&lt;/li&gt;
+&lt;li&gt;复杂网络动态的熵和粗粒化;&lt;/li&gt;
+&lt;li&gt;图过滤器和滤波器组的设计;&lt;/li&gt;
+&lt;li&gt;用领导理念检测动态社会网络中的社区结构;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2017-11-06)</title>
