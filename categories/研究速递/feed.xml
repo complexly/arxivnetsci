@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2017-11-16)</title>
+      <link>https://www.complexly.me/post/20171116/</link>
+      <pubDate>Thu, 16 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171116/</guid>
+      <description>&lt;p&gt;最近几周不在国内，更新或有延迟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;基于心理场理论的二维交通流模型研究;&lt;/li&gt;
+&lt;li&gt;解码网络中的社区;&lt;/li&gt;
+&lt;li&gt;考虑到连接权重幂函数的网络节点排序;&lt;/li&gt;
+&lt;li&gt;相关的网络的网络增强了对灾难性故障的稳健性;&lt;/li&gt;
+&lt;li&gt;CTRL + Z：恢复匿名社交图;&lt;/li&gt;
+&lt;li&gt;一种模拟人类迁徙的机器学习方法;&lt;/li&gt;
+&lt;li&gt;什么是正确的事情？用简单的道德推动增加亲社会性;&lt;/li&gt;
+&lt;li&gt;在不真实的答案下查询谣言源头;&lt;/li&gt;
+&lt;li&gt;欧洲风力发电系统的气候变化对后备能源和储存需求的影响;&lt;/li&gt;
+&lt;li&gt;基于模体的图卷积神经网络;&lt;/li&gt;
+&lt;li&gt;音乐听众中的社会情结传播：一项有130万参与者的自然实验;&lt;/li&gt;
+&lt;li&gt;CSWA：无时空聚合的时空社区感知;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要22篇(2017-11-15)</title>
