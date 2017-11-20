@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 17 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2017-11-20)</title>
+      <link>https://www.complexly.me/post/20171120/</link>
+      <pubDate>Mon, 20 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171120/</guid>
+      <description>&lt;p&gt;最近几周不在国内，更新或有延迟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;确定国际食品贸易多元网络的社区结构;&lt;/li&gt;
+&lt;li&gt;网络几何和复杂性;&lt;/li&gt;
+&lt;li&gt;世界范围内的城市住区边界模型;&lt;/li&gt;
+&lt;li&gt;社会系统在疾病传播中的反射性建模;&lt;/li&gt;
+&lt;li&gt;城市分形维数计算不确定性问题的解法;&lt;/li&gt;
+&lt;li&gt;意见动力网络的社会权力演变;&lt;/li&gt;
+&lt;li&gt;稀疏的博弈转换者在恐慌的人群中恢复集体运动;&lt;/li&gt;
+&lt;li&gt;基于自适应标签传播的动态网络社区检测;&lt;/li&gt;
+&lt;li&gt;网络SIRS模型的流行阈值;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2017-11-17)</title>
