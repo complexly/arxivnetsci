@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 21 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2017-11-22)</title>
+      <link>https://www.complexly.me/post/20171122/</link>
+      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171122/</guid>
+      <description>&lt;p&gt;最近几周不在国内，更新或有延迟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;基于总成本约束的空间嵌入双工网络的相位同步;&lt;/li&gt;
+&lt;li&gt;精灵：实时向2亿用户推荐30亿个项目的系统;&lt;/li&gt;
+&lt;li&gt;时间网络中受限制的信息流动显示间歇性社区;&lt;/li&gt;
+&lt;li&gt;公司支付网络和信用风险评级;&lt;/li&gt;
+&lt;li&gt;行人与景点互动的集体模式;&lt;/li&gt;
+&lt;li&gt;带有内存的活动驱动时态网络的动态拓扑;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2017-11-21)</title>
