@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2017-11-23)</title>
+      <link>https://www.complexly.me/post/20171123/</link>
+      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171123/</guid>
+      <description>&lt;p&gt;最近几周不在国内，更新或有延迟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;基于迁移流动的美国乡村树状图/区域划分;&lt;/li&gt;
+&lt;li&gt;随机消防员问题;&lt;/li&gt;
+&lt;li&gt;通过非对称链路聚类信息改进基于局部聚类的top-L链路预测方法;&lt;/li&gt;
+&lt;li&gt;自偏转对具有位置分配功能的完全不对称简单排除过程的影响;&lt;/li&gt;
+&lt;li&gt;学习用户偏好激励分享经济的探索;&lt;/li&gt;
+&lt;li&gt;二元意见动态的预算分配;&lt;/li&gt;
+&lt;li&gt;Twitter上主题 - 演员网络的自动分析：社会语义网络分析的新方法;&lt;/li&gt;
+&lt;li&gt;通过对呼叫数据记录进行数据挖掘来识别用户习惯;&lt;/li&gt;
+&lt;li&gt;用于多路复用网络的节点和层特征向量中心性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2017-11-22)</title>
