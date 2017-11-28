@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2017-11-28)</title>
+      <link>https://www.complexly.me/post/20171128/</link>
+      <pubDate>Tue, 28 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171128/</guid>
+      <description>&lt;p&gt;最近几周不在国内，更新或有延迟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;主稳定方程，用于多路网络中的完整，层内和层间同步;&lt;/li&gt;
+&lt;li&gt;一种基于边连通性的分层图分解的近似算法;&lt;/li&gt;
+&lt;li&gt;用户何时在Twitter上更改他们的个人资料信息？;&lt;/li&gt;
+&lt;li&gt;BL-MNE：新兴的异构社会网络通过广泛的学习嵌入自动编码器;&lt;/li&gt;
+&lt;li&gt;BL-ECD：基于广泛学习通过分层结构融合的企业社区检测合;&lt;/li&gt;
+&lt;li&gt;基于位置的社会网络中的兴趣点推荐方法：旅行到一个新的地理区域;&lt;/li&gt;
+&lt;li&gt;利用地面实况数据进行社区检测算法评估;&lt;/li&gt;
+&lt;li&gt;使用基于演化因果矩阵和马尔可夫链的多用途仿真程序模拟干预结果;&lt;/li&gt;
+&lt;li&gt;社会资本的类型及相关网络措施;&lt;/li&gt;
+&lt;li&gt;定时器：误差有界的SVD在动态网络上重新启动;&lt;/li&gt;
+&lt;li&gt;在位于地理位置的Twitter数据中的尺度规则;&lt;/li&gt;
+&lt;li&gt;社会网络中的意见影响和演化：一个马尔可夫代理模型;&lt;/li&gt;
+&lt;li&gt;城市空间环境下的多尺度熵;&lt;/li&gt;
+&lt;li&gt;复制和分化网络的度分布的主方程;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2017-11-27)</title>
