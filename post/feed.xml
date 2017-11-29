@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 28 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2017-11-29)</title>
+      <link>https://www.complexly.me/post/20171129/</link>
+      <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171129/</guid>
+      <description>&lt;p&gt;最近几周不在国内，更新或有延迟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;扩散范围和有效性在多路网络中的作用;&lt;/li&gt;
+&lt;li&gt;随机切换反应速率的循环Lotka-Volterra模型中的生存​​行为;&lt;/li&gt;
+&lt;li&gt;龙王阶段在优先依附和失败模型中的分类;&lt;/li&gt;
+&lt;li&gt;利用人群来检测和减少假新闻和错误信息的传播;&lt;/li&gt;
+&lt;li&gt;齐达内诚实还是消息灵通？欧足联如何避免一场严重的丑闻;&lt;/li&gt;
+&lt;li&gt;TweetIT-分析Twitter用户的主题以获得最大的关注;&lt;/li&gt;
+&lt;li&gt;超网络的结构深度嵌入;&lt;/li&gt;
+&lt;li&gt;用于学习Twitter意识形态倾向的联合非负矩阵分解;&lt;/li&gt;
+&lt;li&gt;社交媒体，金钱和政治：2016年美国国会周期的竞选金融;&lt;/li&gt;
+&lt;li&gt;通过利用他们的社交关系来推断用户的偏好;&lt;/li&gt;
+&lt;li&gt;复杂网络中离散时间流行病过程的链接方程;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2017-11-28)</title>
