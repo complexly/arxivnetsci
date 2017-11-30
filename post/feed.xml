@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2017-11-30)</title>
+      <link>https://www.complexly.me/post/20171130/</link>
+      <pubDate>Thu, 30 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171130/</guid>
+      <description>&lt;p&gt;最近几周不在国内，更新或有延迟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;人类流动与社会互动关系揭示一般活动模式;&lt;/li&gt;
+&lt;li&gt;我们是否真的需要全部抓住它们？一种新的用户引导式社交媒体抓取方法;&lt;/li&gt;
+&lt;li&gt;主动中介基数：算法与应用;&lt;/li&gt;
+&lt;li&gt;在线社会网络的成本效益种子选择;&lt;/li&gt;
+&lt;li&gt;具有惯性的Kuramoto振子的多路网络诱发爆炸同步;&lt;/li&gt;
+&lt;li&gt;使用有监督的学习方法组织行为分类;&lt;/li&gt;
+&lt;li&gt;异构信息网络嵌入推荐;&lt;/li&gt;
+&lt;li&gt;无标度网络的表示学习;&lt;/li&gt;
+&lt;li&gt;利用社交媒体上的对话结构来识别潜在的有影响力的用户;&lt;/li&gt;
+&lt;li&gt;用谱图论解构学术促进和任期决策中的异常现象;&lt;/li&gt;
+&lt;li&gt;理解宗教原教旨强度的分析框架;&lt;/li&gt;
+&lt;li&gt;连续时间事件动态网络的块点过程模型;&lt;/li&gt;
+&lt;li&gt;女性在学术研讨会上的知名度：女性比男性提出更少的问题;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2017-11-29)</title>
