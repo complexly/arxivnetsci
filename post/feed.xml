@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 30 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2017-12-01)</title>
+      <link>https://www.complexly.me/post/20171201/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171201/</guid>
+      <description>&lt;p&gt;最近几周不在国内，更新或有延迟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;电力基础设施网络的生成图模型;&lt;/li&gt;
+&lt;li&gt;“TenisRank”：基于PageRank的网球选手新排名;&lt;/li&gt;
+&lt;li&gt;在线社交媒体中提高潜在用户模型;&lt;/li&gt;
+&lt;li&gt;单向随机增长与重置;&lt;/li&gt;
+&lt;li&gt;量化多重网络中的层相似性：一项系统研究;&lt;/li&gt;
+&lt;li&gt;KIBS创新型社交媒体创业网络;&lt;/li&gt;
+&lt;li&gt;社交曝光协同过滤：一种模块化的社会推荐方法;&lt;/li&gt;
+&lt;li&gt;LATTE：面向应用的网络嵌入;&lt;/li&gt;
+&lt;li&gt;了解在线社会网络的服务整合：数据驱动的研究;&lt;/li&gt;
+&lt;li&gt;比特币网络的Google矩阵;&lt;/li&gt;
+&lt;li&gt;具有优先增长的短程记忆模式;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2017-11-30)</title>
