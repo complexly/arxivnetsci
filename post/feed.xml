@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 05 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2017-12-06)</title>
+      <link>https://www.complexly.me/post/20171206/</link>
+      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171206/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;渐近最优的Moran过程放大器;&lt;/li&gt;
+&lt;li&gt;布尔网络集合影响下的最优稳定化;&lt;/li&gt;
+&lt;li&gt;#anarexia，#anarexia，#anarexyia：用拼写变化表征在线社区习惯;&lt;/li&gt;
+&lt;li&gt;加权网络的社会三角和广义聚类系数;&lt;/li&gt;
+&lt;li&gt;EmTaggeR：一种基于字词嵌入的新颖的Twitter标签推荐方法;&lt;/li&gt;
+&lt;li&gt;同行评审中的人工智能：演化计算如何支持期刊编辑？;&lt;/li&gt;
+&lt;li&gt;尺寸问题：社区检测算法的比较分析;&lt;/li&gt;
+&lt;li&gt;建模R＆D联盟的形成：一个基于主体模型的经验验证;&lt;/li&gt;
+&lt;li&gt;网络增长的专业化模式;&lt;/li&gt;
+&lt;li&gt;自我中心网络中的链路形成：局地度的影响及对链路推荐的影响;&lt;/li&gt;
+&lt;li&gt;艺术，文化和科学职业中的热手现象;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2017-12-05)</title>
