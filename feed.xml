@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 07 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-12-08)</title>
+      <link>https://www.complexly.me/post/20171208/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171208/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于集成发现网络中不相交，重叠和模糊的社区结构;&lt;/li&gt;
+&lt;li&gt;与分裂图相关的一类随机矩阵中的谱间隙的涌现;&lt;/li&gt;
+&lt;li&gt;识别地理标记Twitter消息中的数据噪声，用户偏差和系统错误;&lt;/li&gt;
+&lt;li&gt;线性和非线性市场相关性：表征金融危机和投资组合优化;&lt;/li&gt;
+&lt;li&gt;欧洲水电和北非太阳能在完全可再生的欧洲电力系统中的相互作用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2017-12-07)</title>
