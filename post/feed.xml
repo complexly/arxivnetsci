@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2017-12-12)</title>
+      <link>https://www.complexly.me/post/20171212/</link>
+      <pubDate>Tue, 12 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171212/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;西班牙2015年和2016年全国大选中的双党派分解，职能网络和法院分析;&lt;/li&gt;
+&lt;li&gt;网络结构和Twitter上的信息多样性模式;&lt;/li&gt;
+&lt;li&gt;概率图中信息流的最大化;&lt;/li&gt;
+&lt;li&gt;波尔兹曼博弈在异构共识动态中的应用;&lt;/li&gt;
+&lt;li&gt;社会等级制度的自组织和时间稳定性;&lt;/li&gt;
+&lt;li&gt;SneakPeek：基于用户交互的图像兴趣挖掘;&lt;/li&gt;
+&lt;li&gt;童年语言和生成模式的长期相关性;&lt;/li&gt;
+&lt;li&gt;在线社会网络的级联崩溃;&lt;/li&gt;
+&lt;li&gt;通过城市指标和统计学习来预测犯罪;&lt;/li&gt;
+&lt;li&gt;众包准确而强有力地预测了最高法院的决定;&lt;/li&gt;
+&lt;li&gt;功能分形城市网络：地理空间共存和基础设施的同质性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2017-12-11)</title>
