@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2017-12-14)</title>
+      <link>https://www.complexly.me/post/20171214/</link>
+      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171214/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;男性自我引用高：性别和跨领域和跨时代的自引;&lt;/li&gt;
+&lt;li&gt;社会媒体流行度与深度时态语境网络的序贯预测;&lt;/li&gt;
+&lt;li&gt;科学的两极分化;&lt;/li&gt;
+&lt;li&gt;不同环境下符号网络的平衡与挫折;&lt;/li&gt;
+&lt;li&gt;局部社区检测的Krylov子空间逼近;&lt;/li&gt;
+&lt;li&gt;通过优化的单层重连来实现复用网络的本地化;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2017-12-13)</title>
@@ -29,7 +47,7 @@
 &lt;li&gt;对社区结构重叠的社会网络进行匿名化处理;&lt;/li&gt;
 &lt;li&gt;一种图聚类的流算法;&lt;/li&gt;
 &lt;li&gt;平均场方法在两种振荡器类型的复杂网络中的频率同步;&lt;/li&gt;
-&lt;li&gt;Hawkes过程用于侵入物种建模和管理;&lt;/li&gt;
+&lt;li&gt;Hawkes过程用于入侵物种建模和管理;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
