@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 15 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2017-12-18)</title>
+      <link>https://www.complexly.me/post/20171218/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171218/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用0维持久性同调特征推动交互式图探索;&lt;/li&gt;
+&lt;li&gt;graphTPP：一种基于多变量的交互式图布局和分析方法;&lt;/li&gt;
+&lt;li&gt;演化博弈中的异构更新机制：混合创新和模仿动态;&lt;/li&gt;
+&lt;li&gt;用线性反馈描述复杂网络动态的动态可通信性和流动性;&lt;/li&gt;
+&lt;li&gt;量子决策者网络信息处理;&lt;/li&gt;
+&lt;li&gt;建模人类行为的个体循环变异;&lt;/li&gt;
+&lt;li&gt;通过建模框架推断空间和一般复杂网络的层次结构;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2017-12-15)</title>
