@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要3篇(2017-12-20) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+针对基于位置的社会网络中兴趣点推荐的用户建模：最新进展;
+自律距离度量及其在角色挖掘节点嵌入中的应用;
+在线压力下的人类聚合超越了优先连接;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要3篇(2017-12-20) - 网络科学研究速递">
+<meta itemprop="description" content="
+针对基于位置的社会网络中兴趣点推荐的用户建模：最新进展;
+自律距离度量及其在角色挖掘节点嵌入中的应用;
+在线压力下的人类聚合超越了优先连接;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要3篇(2017-12-20) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20171220/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+针对基于位置的社会网络中兴趣点推荐的用户建模：最新进展;
+自律距离度量及其在角色挖掘节点嵌入中的应用;
+在线压力下的人类聚合超越了优先连接;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20171220/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20171220/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要3篇(2017-12-20)</h1>
+
+                  <p class="post-byline">
+                    2017年12月20日 · 1552 字 ·
+                    阅读时间约4分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>针对基于位置的社会网络中兴趣点推荐的用户建模：最新进展;</li>
+<li>自律距离度量及其在角色挖掘节点嵌入中的应用;</li>
+<li>在线压力下的人类聚合超越了优先连接;</li>
+</ul>
+
+<p></p>
+
+<h3 id="针对基于位置的社会网络中兴趣点推荐的用户建模-最新进展">针对基于位置的社会网络中兴趣点推荐的用户建模：最新进展</h3>
+
+<p>原文标题： User modeling for point-of-interest recommendations in location-based social networks: the state-of-the-art</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1712.06768">http://arxiv.org/abs/1712.06768</a></p>
+
+<p>作者： Shudong Liu</p>
+
+<p>摘要： 定位服务（LBS）的迅速发展，极大地丰富了人们的城市生活，近年来吸引了数百万用户。基于位置的社会网络（LBSN）允许用户在实际位置办理登机手续，并随时随地与朋友分享每日兴趣点（POI）。这种登记行为可以使日常的现实生活经验通过互联网迅速传播。而且，可以充分利用LBSN中的登记数据来了解人类日常活动和流动的基本规律。本文的重点是通过对LBSN的数据分析来回顾POI建议的用户建模分类。首先简要介绍LBSN的结构和数据特征，然后介绍LBSN中POI建议用户建模的形式化。根据在POI建议的用户建模方法中充分利用哪种类型的LBSN数据，我们将用户建模算法分为四类：基于纯签入数据的用户建模，基于地理信息的用户建模，基于时空信息用户建模和基于地理社会信息的用户建模。最后，对现有的工作进行总结，指出今后五个方面的挑战和新的方向</p>
+
+<h3 id="自律距离度量及其在角色挖掘节点嵌入中的应用">自律距离度量及其在角色挖掘节点嵌入中的应用</h3>
+
+<p>原文标题： An Automorphic Distance Metric and its Application to Node Embedding for Role Mining</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1712.06979">http://arxiv.org/abs/1712.06979</a></p>
+
+<p>作者： Víctor Martínez, Fernando Berzal, Juan-Carlos Cubero</p>
+
+<p>摘要： 角色是分析以网络数据为代表的互动实体的行为和功能的基本概念。角色发现是隐藏角色的任务。节点角色通常用等价类来定义，其中两个节点如果属于相同的等价类，则具有相同的角色。自守等价，当两个节点可以交换标签形成一个同构图时，两个节点是等价的，它捕获了这个共同的角色概念。等价的二元概念过于严格，实际网络中的节点很少属于相同的等价类。相反，在相似性或距离方面的宽松定义通常用于计算两个节点相等的程度。在本文中，我们提出了一种称为自守距离的新距离度量，它度量了两个节点自守等价的程度。我们还研究了它在节点嵌入中的应用，展示了我们的度量如何用于生成节点的向量表示，从而保留了它们在数据可视化和机器学习中的角色。我们的实验证实了所提出的度量标准在不同网络的节点嵌入生成中优于RoleSim自守等价性度量。</p>
+
+<h3 id="在线压力下的人类聚合超越了优先连接">在线压力下的人类聚合超越了优先连接</h3>
+
+<p>原文标题： Online human aggregation under pressure moves beyond preferential attachment</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1712.07020">http://arxiv.org/abs/1712.07020</a></p>
+
+<p>作者： Zhenfeng Cao, Minzhang Zheng, Pedro D. Manrique, Zhou He, Neil F. Johnson</p>
+
+<p>摘要： 有大量的在线人类活动，不论是秘密的还是非法的，因此个人在恐惧暴露或捕获的情况下进行操作。然而，关于什么模型最好地描述所得到的动力学的理论知识很少。在这里，我们通过分析最近出现在全球社交媒体网站上的95个ISIS在线社区（即自组织的社交媒体组织）背后的支持者的演变动态来解决这一差距。我们表明，虽然他们不遵循一个传统的（即基于尺寸的）优先附着（PA）模型，但是他们的动态演化可以用我们在这里介绍的一个新的变体来解释，我们称之为主动吸引模型（AA）。这个AA模型考虑到了人类在压力下的在线行为中无疑具有特征的局部性和群体异质性，但是这些特征并没有包含在传统的PA模型中。 AA模型可以捕捉所有规模范围内的特定群体和宏观的观察结果，而不仅仅是大群体或群体最初成长的尾部，这表明异质性和局部性在网上极端主义支持的动态中起着至关重要的作用。我们推导出两个简单系统中群体大小分布的近似表达式，这两个系统同时涉及群体加入机制（由PA或AA管理），群体离开和帐户禁止，并显示这些过程如何影响群体大小分布。我们相信这项工作将有助于理解广泛的在线人类活动，这些活动既可能是秘密的，也可能是非法的，因此个人在恐惧暴露或捕获的情况下进行活动。</p>
+
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        <div style="text-align:center;">微信扫一扫交流</div>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信关注：netsci
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20171220/">https://www.complexly.me/post/20171220/</a>
+                            <br />
+                            Arxiv文章摘要版权归原作者所有，由作者进行翻译整理，未经同意请勿随意转载。</p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20171219/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要17篇(2017-12-19)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+            <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 19 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要3篇(2017-12-20)</title>
+      <link>https://www.complexly.me/post/20171220/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171220/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;针对基于位置的社会网络中兴趣点推荐的用户建模：最新进展;&lt;/li&gt;
+&lt;li&gt;自律距离度量及其在角色挖掘节点嵌入中的应用;&lt;/li&gt;
+&lt;li&gt;在线压力下的人类聚合超越了优先连接;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2017-12-19)</title>
