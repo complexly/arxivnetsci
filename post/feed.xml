@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-12-21)</title>
+      <link>https://www.complexly.me/post/20171221/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171221/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于抽样改进对介数中心性的逼近;&lt;/li&gt;
+&lt;li&gt;网络互补转换，对称和群集同步;&lt;/li&gt;
+&lt;li&gt;融合多方面的交易数据进行用户建模和人口预测;&lt;/li&gt;
+&lt;li&gt;含时演化网络的基于模型的含时指数族随机图模型聚类;&lt;/li&gt;
+&lt;li&gt;理论和应用物理是如何整合的？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2017-12-20)</title>
