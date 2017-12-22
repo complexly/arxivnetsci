@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 21 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2017-12-22)</title>
+      <link>https://www.complexly.me/post/20171222/</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171222/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;个体特征预测的因果特征选择;&lt;/li&gt;
+&lt;li&gt;利用三元关系进行假新闻检测;&lt;/li&gt;
+&lt;li&gt;任意复杂网络流行病传播概率动态的最优控制;&lt;/li&gt;
+&lt;li&gt;控制信息融合与风险规避CVaR社会传感器;&lt;/li&gt;
+&lt;li&gt;基于模型的非参数加权网络聚类;&lt;/li&gt;
+&lt;li&gt;随机图对连通性的容错性：对数平均度的相变;&lt;/li&gt;
+&lt;li&gt;记忆诱导的网络自我维持活动机制;&lt;/li&gt;
+&lt;li&gt;现代科学跨学科的优势;&lt;/li&gt;
+&lt;li&gt;具有随机切换能力的种群的生态演化动力学;&lt;/li&gt;
+&lt;li&gt;运输网络的弹性和效率;&lt;/li&gt;
+&lt;li&gt;多视图深度学习预测Twitter用户的位置;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2017-12-21)</title>
