@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 22 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2017-12-25)</title>
+      <link>https://www.complexly.me/post/20171225/</link>
+      <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171225/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会经济网络消费模式的相关性;&lt;/li&gt;
+&lt;li&gt;动态嵌入的图聚类;&lt;/li&gt;
+&lt;li&gt;网络博弈的一个变分不等式框架：存在性，唯一性，收敛性和敏感性分析;&lt;/li&gt;
+&lt;li&gt;提出原始研究成果的量化指标;&lt;/li&gt;
+&lt;li&gt;跟踪命名实体的扩散;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2017-12-22)</title>
