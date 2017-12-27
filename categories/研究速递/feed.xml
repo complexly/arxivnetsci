@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2017-12-27)</title>
+      <link>https://www.complexly.me/post/20171227/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20171227/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;时间多层网络中的社区检测，以及相关网络的应用;&lt;/li&gt;
+&lt;li&gt;基于动态用户兴趣的学术活动场所推荐;&lt;/li&gt;
+&lt;li&gt;寻找会话杀手：话题结束帖子的预测研究;&lt;/li&gt;
+&lt;li&gt;网络数据的连续型潜在空间模型几何;&lt;/li&gt;
+&lt;li&gt;情绪，爱情和上帝：理解众包的在线词典“城市字典”;&lt;/li&gt;
+&lt;li&gt;用流二部图抽样估计节点相似度;&lt;/li&gt;
+&lt;li&gt;随机幂律图上的距离标号;&lt;/li&gt;
+&lt;li&gt;随机生长树Jordan中心的持续性;&lt;/li&gt;
+&lt;li&gt;区域经济发展中的集体学习效应最大化;&lt;/li&gt;
+&lt;li&gt;城市金丝雀：指标群作为城市变化的预测指标;&lt;/li&gt;
+&lt;li&gt;在时态网络中改变点，记忆和流行传播;&lt;/li&gt;
+&lt;li&gt;实现在线社会网络提供商的利润最大化;&lt;/li&gt;
+&lt;li&gt;论兰萨罗特历史教会的定位：当人的需要主宰经典的规定时;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2017-12-25)</title>
