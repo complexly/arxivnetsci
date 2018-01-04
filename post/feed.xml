@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 03 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2018-01-04)</title>
+      <link>https://www.complexly.me/post/20180104/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180104/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;局部社区阻碍全局共识：在多个本地网络上命名博弈;&lt;/li&gt;
+&lt;li&gt;来自先知的建议：真正的智能信息检索;&lt;/li&gt;
+&lt;li&gt;幂律网格随机变量随机停止求和的局部概率;&lt;/li&gt;
+&lt;li&gt;加纳消费者在线隐私问题：电子商务采用的原因及其影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2018-01-03)</title>
