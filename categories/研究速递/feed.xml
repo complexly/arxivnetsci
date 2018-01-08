@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2018-01-08)</title>
+      <link>https://www.complexly.me/post/20180108/</link>
+      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180108/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;测量相关突发的记忆系数的限制;&lt;/li&gt;
+&lt;li&gt;推导复杂网络上稀疏观测扰动的传播路径;&lt;/li&gt;
+&lt;li&gt;用于验证社区检测算法的模块化网络;&lt;/li&gt;
+&lt;li&gt;如何战胜科学与影响人：决策者与认知网络的宣传;&lt;/li&gt;
+&lt;li&gt;瓶颈实验的微观旅行时间分析;&lt;/li&gt;
+&lt;li&gt;叙述网络;&lt;/li&gt;
+&lt;li&gt;有限存储容量的动态多层网络中的移动性和拥塞;&lt;/li&gt;
+&lt;li&gt;在可调节聚类的双层静态 - 动态多路复用网络上，基于边的SIR流行病房间建模;&lt;/li&gt;
+&lt;li&gt;通用网络拆解;&lt;/li&gt;
+&lt;li&gt;关联网络中聚类与度的关系;&lt;/li&gt;
+&lt;li&gt;从社交媒体数据中检测交通事故的深度学习方法;&lt;/li&gt;
+&lt;li&gt;用设计的拉普拉斯谱对网络动力学进行功能控制;&lt;/li&gt;
+&lt;li&gt;基于本体的社会大数据语义数据提取方法：最新进展和研究方向;&lt;/li&gt;
+&lt;li&gt;社交媒体上的政治话语：回声室、守门人和两党制的代价;&lt;/li&gt;
+&lt;li&gt;谱图伪造：图生成目标模块化;&lt;/li&gt;
+&lt;li&gt;屏蔽Google的语言毒性模型以对抗攻击;&lt;/li&gt;
+&lt;li&gt;政治腐败网络的动力结构;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2018-01-04)</title>
