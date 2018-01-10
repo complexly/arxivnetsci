@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要7篇(2018-01-10) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+二模网络的弹性;
+通过区块链技术迈向可信赖的社会网络;
+随机图与随机几何图在节点故障模型中的k连通性;
+社会网络的不同层面是否传递相同的信息？;
+Facebook上接种疫苗辩论的极化;
+离散Bass模型中的边界效应;
+Twitter的话题立场检测：一个两阶段LSTM模型的注意;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要7篇(2018-01-10) - 网络科学研究速递">
+<meta itemprop="description" content="
+二模网络的弹性;
+通过区块链技术迈向可信赖的社会网络;
+随机图与随机几何图在节点故障模型中的k连通性;
+社会网络的不同层面是否传递相同的信息？;
+Facebook上接种疫苗辩论的极化;
+离散Bass模型中的边界效应;
+Twitter的话题立场检测：一个两阶段LSTM模型的注意;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要7篇(2018-01-10) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20180110/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+二模网络的弹性;
+通过区块链技术迈向可信赖的社会网络;
+随机图与随机几何图在节点故障模型中的k连通性;
+社会网络的不同层面是否传递相同的信息？;
+Facebook上接种疫苗辩论的极化;
+离散Bass模型中的边界效应;
+Twitter的话题立场检测：一个两阶段LSTM模型的注意;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20180110/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20180110/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要7篇(2018-01-10)</h1>
+
+                  <p class="post-byline">
+                    2018年01月10日 · 2902 字 ·
+                    阅读时间约6分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>二模网络的弹性;</li>
+<li>通过区块链技术迈向可信赖的社会网络;</li>
+<li>随机图与随机几何图在节点故障模型中的k连通性;</li>
+<li>社会网络的不同层面是否传递相同的信息？;</li>
+<li>Facebook上接种疫苗辩论的极化;</li>
+<li>离散Bass模型中的边界效应;</li>
+<li>Twitter的话题立场检测：一个两阶段LSTM模型的注意;</li>
+</ul>
+
+<p></p>
+
+<h3 id="二模网络的弹性">二模网络的弹性</h3>
+
+<p>原文标题： On the Resilience of Bipartite Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1306.5720">http://arxiv.org/abs/1306.5720</a></p>
+
+<p>作者： Shelby Heinecke, Will Perkins, Lev Reyzin</p>
+
+<p>摘要： 受到网络中感染传播模型建模的影响，在本文中，我们将探讨哪些二部图对各种参数设置下的广泛感染是最有弹性的。也就是说，我们在独立传染的独立传播模型下研究一个要求最低度$ d $的双方网络。我们在$ d = 1 $的情况下完全刻画了最优图，这已经产生了非平凡的行为，我们给出了一般情况下的极值结果。我们证明，在$ d = 2 $的情况下，令人吃惊的是，最佳弹性图包含一个图，它不是在$ d = 1 $的情况下找到的两个“极值”之一。然后，我们简要地考察强制连通性要求而不是单方面程度要求的情况，并且我们再次发现，最有弹性的图集包含两个以上的“极值”。我们还表明，确定对感染最有抵抗力的任意二部图的子图对于任何单边最小度数$ d \ ge 1 $都是NP难的。</p>
+
+<h3 id="通过区块链技术迈向可信赖的社会网络">通过区块链技术迈向可信赖的社会网络</h3>
+
+<p>原文标题： Towards Trusted Social Networks with Blockchain Technology</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1801.02796">http://arxiv.org/abs/1801.02796</a></p>
+
+<p>作者： Yize Chen, Quanlai Li, Hao Wang</p>
+
+<p>摘要： 大规模的谣言传播可能会造成严重的社会和经济损失。网络社会网络随着新媒体的出现甚至可能使传闻更加严重。谣言传播的有效控制具有理论和实践意义。本文首先了解区块链技术如何帮助限制谣言的传播。具体而言，我们开发了嵌入区块链技术的社会网络的新范式，该技术采用分散合同来激励信任网络以及保护信息交换契约。我们设计一个基于区块链的顺序算法，利用虚拟信息点数来进行每个点对点的信息交换。我们验证了区块链支持社会网络限制谣言传播的有效性。仿真结果验证了我们的算法设计在避免快速而强烈的谣言传播的同时，激发了对可信社会网络更好的机制设计。</p>
+
+<h3 id="随机图与随机几何图在节点故障模型中的k连通性">随机图与随机几何图在节点故障模型中的k连通性</h3>
+
+<p>原文标题： k-connectivity of Random Graphs and Random Geometric Graphs in Node Fault Model</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1801.02818">http://arxiv.org/abs/1801.02818</a></p>
+
+<p>作者： Satoshi Takabe, Tadashi Wadayama</p>
+
+<p>摘要： 随机图的k连通性是指示多跳无线传感器网络（WSN）可靠性的基本属性。由具有有限功率资源的传感器节点组成的WSN由具有不可靠节点的随机图来建模，这被称为节点故障模型。在本文中，我们通过评估网络击穿概率，即随机节点移除后随机图的断开概率，研究节点故障模型中随机图的k连通性。使用强典型集合的概念，我们得到网络击穿概率的普遍渐近上下界。边界既适用于随机图，也适用于随机几何图。然后，我们考虑三个具有代表性的随机图集：随机传感器节点部署生成的随机密钥预分配方案的随机几何图作为无线传感器网络的模型，最简单的情况是鄂尔多斯 - 仁义随机图。边界揭示了这些合奏的网络击穿概率的相变的存在。</p>
+
+<h3 id="社会网络的不同层面是否传递相同的信息">社会网络的不同层面是否传递相同的信息？</h3>
+
+<p>原文标题： Are the different layers of a social network conveying the same information?</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1801.02874">http://arxiv.org/abs/1801.02874</a></p>
+
+<p>作者： Ajaykumar Manivannan, W. Quin Yow, Roland Bouffanais, Alain Barrat</p>
+
+<p>摘要： 对社会理论和现象的全面和定量的研究越来越多地从描述人类社会关系的大量数据中受益，这些数据现在可以在计算社会科学领域得到。然而，这样的数据通常代表构成社会网络的许多交互层中的一个，其可以以多种方式来定义，并且通常由各种类型的通信（例如，电话呼叫，面对面通信等）组成。 ）。因此，许多研究集中在单一层上，对应于手头的数据。然而，一些研究表明，尽管两者之间存在一定程度的相关性，但这些层不可互换。在这里，我们调查是否在不同层次的个人之间的相互作用导致相似的结论关于人口同态模式的存在 - 同源代表社会网络中最广泛的研究现象之一。为此，我们考虑一个数据集，描述具有不同民族，第一语言和性别的亚洲学生群体中各种性质的相互作用和联系。我们研究homophily模式，以及他们在社会网络的每一层的时间演变。为了便于我们的分析，我们提出了一种通用的方法来评估一层中观察到的同质模式是否可以告诉我们另一层中的模式。例如，我们的研究表明，尽管存在一些小的差异，三个网络层（手机通信，友谊问卷和信任关系）导致相似和一致的结果。然而，共存网络层的同质模式不会产生关于其他网络层的任何有意义的信息。</p>
+
+<h3 id="facebook上接种疫苗辩论的极化">Facebook上接种疫苗辩论的极化</h3>
+
+<p>原文标题： Polarization of the Vaccination Debate on Facebook</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1801.02903">http://arxiv.org/abs/1801.02903</a></p>
+
+<p>作者： Ana Lucia Schmidt, Fabiana Zollo, Antonio Scala, Cornelia Betsch, Walter Quattrociocchi</p>
+
+<p>摘要： 疫苗犹豫已被公认为全球主要的健康威胁。在社交媒体上获得任何类型的信息被认为是潜在的强大影响因素，犹豫不决。最近在接种疫苗等领域的研究表明，通过互联网获取大量内容而没有中间人，解决了两极分化的用户主要隔离问题。用户选择坚持信念系统的信息，往往忽略异议信息。在本文中，我们评估社会媒体在疫苗接种领域中是否存在两极分化。我们对Facebook进行了全面的定量分析，分析了2.6亿用户在7年零5个月的时间内与298.018个帖子交互的情况。我们使用社区检测算法从用户活动中自动检测新兴社区，并量化社区随时间推移的凝聚力。我们的研究结果表明，疫苗的内容消耗是由回声室效应所支配的，并且两年来两极分化增加。社区从用户的消费习惯中浮现出来，即大多数用户只是消费信息而不是消费者，而不是两者。回声室的存在或许可以解释为什么提供准确信息的社交媒体活动的范围可能有限，可能只在分组中有效，甚至可能进一步激发观点的两极分化。将不同意见的信息引入分组是不予考虑的，可以起到相反的作用，进一步加强分组内的现有意见。</p>
+
+<h3 id="离散bass模型中的边界效应">离散Bass模型中的边界效应</h3>
+
+<p>原文标题： Boundary Effects in the Discrete Bass Model</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1801.03030">http://arxiv.org/abs/1801.03030</a></p>
+
+<p>作者： Gadi Fibich, Tomer Levin, Oren Yakir</p>
+
+<p>摘要： 为了研究边界对新产品扩散的影响，我们引入了两个新的分析工具：使我们能够明确地计算各种网络上的聚集扩散的无差异原理和支配不同的扩散的优势原理网络。使用这些原则，我们证明了我们的主要结果：在有限的线上，单边扩散（即，当每个消费者只能受到其左邻居的影响时）严格地比双向扩散慢（即，当每个消费者可以受到她左右邻居的影响）。这与周期性扩散的情况有所不同，其中单侧和双侧扩散是相同的。我们观察到更高维数值上类似的结果。</p>
+
+<h3 id="twitter的话题立场检测-一个两阶段lstm模型的注意">Twitter的话题立场检测：一个两阶段LSTM模型的注意</h3>
+
+<p>原文标题： Topical Stance Detection for Twitter: A Two-Phase LSTM Model Using Attention</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1801.03032">http://arxiv.org/abs/1801.03032</a></p>
+
+<p>作者： Kuntal Dey, Ritvik Shrivastava, Saroj Kaushik</p>
+
+<p>摘要： 局部立场检测问题解决了针对给定主题检测文本内容的姿态：给定文本内容的情绪是（FAVOR）是（正），是反对（负）还是无（中立）给定的主题。使用注意力的概念，我们开发了一个两阶段的解决方案。在第一阶段，我们对主观性进行分类 - 给定的推文对于给定的主题是中性的还是主观的。在第二阶段，我们将主观鸣叫（忽略中立鸣叫）的情绪分类 - 给定的主观鸣叫对于该主题是否具有正面或反面的立场。我们提出了一个基于长期短期记忆（LSTM）的深度神经网络，并且在每个阶段都会引起注意。在2016年的SemEval立场检测Twitter任务数据集中，我们获得了68.84％的最佳情况宏观F分数和60.2％的最佳情况精度，优于现有的基于深度学习的解决方案。我们的框架，T-PAN，是第一个在局部立场检测文献，在两阶段架构内使用深度学习。</p>
+
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        <div style="text-align:center;">微信扫一扫交流</div>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信关注：netsci
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20180110/">https://www.complexly.me/post/20180110/</a>
+                            <br />
+                            Arxiv文章摘要版权归原作者所有，由作者进行翻译整理，未经同意请勿随意转载。</p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20180109/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要12篇(2018-01-09)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+            <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
