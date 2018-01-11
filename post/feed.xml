@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 10 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2018-01-11)</title>
+      <link>https://www.complexly.me/post/20180111/</link>
+      <pubDate>Thu, 11 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180111/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;不确定图数据库中的风险规避匹配;&lt;/li&gt;
+&lt;li&gt;优先依附：生成网络的通用机制;&lt;/li&gt;
+&lt;li&gt;异质社会互动对群集动态的影响;&lt;/li&gt;
+&lt;li&gt;利用等谱削减揭示社会网络中的层次结构;&lt;/li&gt;
+&lt;li&gt;无标度网络很少见;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2018-01-10)</title>
