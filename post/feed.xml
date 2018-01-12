@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 11 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-01-12)</title>
+      <link>https://www.complexly.me/post/20180112/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180112/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在标签传播和社区检测中引入自旋玻璃模型;&lt;/li&gt;
+&lt;li&gt;模块度的近似等价D和非负矩阵分解;&lt;/li&gt;
+&lt;li&gt;多重网络中抑制疾病传播的最优资源扩散;&lt;/li&gt;
+&lt;li&gt;量化北卡罗来纳州的改划选区;&lt;/li&gt;
+&lt;li&gt;发现公共交通网络隐藏的社区结构;&lt;/li&gt;
+&lt;li&gt;从扩散的非平稳图信号中识别无向网络拓扑;&lt;/li&gt;
+&lt;li&gt;迈向基于动态交互的模型;&lt;/li&gt;
+&lt;li&gt;Schelling模型启发下的社会网络相变;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2018-01-11)</title>
