@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 12 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-01-15)</title>
+      <link>https://www.complexly.me/post/20180115/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180115/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络中核心-边缘结构和社区结构的统一检测方法;&lt;/li&gt;
+&lt;li&gt;利用最相似节点对进行社区检测的效率;&lt;/li&gt;
+&lt;li&gt;个人流动性和社会行为：一枚硬币的两面;&lt;/li&gt;
+&lt;li&gt;这个视频会病毒传播么？解释和预测Youtube视频的受欢迎程度;&lt;/li&gt;
+&lt;li&gt;编辑人-编辑内容的信息是否可以预测编辑的存留期？;&lt;/li&gt;
+&lt;li&gt;当采用的回报递增时多种货币的并存;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2018-01-12)</title>
