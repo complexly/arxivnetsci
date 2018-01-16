@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2018-01-16)</title>
+      <link>https://www.complexly.me/post/20180116/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180116/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;电网对输入波动的敏感性;&lt;/li&gt;
+&lt;li&gt;利用深度学习检测推文中的攻击性语言;&lt;/li&gt;
+&lt;li&gt;人类交流动态的熵度量;&lt;/li&gt;
+&lt;li&gt;死亡峰值和出生谷值之间的耦合。第1部分：证据;&lt;/li&gt;
+&lt;li&gt;死亡峰值和出生谷值之间的耦合。第2部分：显著特征的比较分析;&lt;/li&gt;
+&lt;li&gt;基于近似度分布的分层图抽样算法的改进;&lt;/li&gt;
+&lt;li&gt;通信启发的流行病传播和缓解模型;&lt;/li&gt;
+&lt;li&gt;信息社区内容生产与消费的稳定高效结构;&lt;/li&gt;
+&lt;li&gt;不同规模和特异性的科学社区的网络整合;&lt;/li&gt;
+&lt;li&gt;产品在国际贸易中份额的罐子模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-01-15)</title>
