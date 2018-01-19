@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2018-01-19)</title>
+      <link>https://www.complexly.me/post/20180119/</link>
+      <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180119/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;衡量，理解和分类新闻媒体在危机事件后对Twitter的同情;&lt;/li&gt;
+&lt;li&gt;无模型从非线性集体动力学推理直接网络相互作用;&lt;/li&gt;
+&lt;li&gt;加密货币市场动态的实证研究;&lt;/li&gt;
+&lt;li&gt;网络表示学习综述;&lt;/li&gt;
+&lt;li&gt;时间很重要：社交媒体流行的多尺度时间化;&lt;/li&gt;
+&lt;li&gt;NDlib：用于模拟和分析复杂网络上的扩散过程的Python库;&lt;/li&gt;
+&lt;li&gt;谱图嵌入：非回溯视角与图逼近;&lt;/li&gt;
+&lt;li&gt;活跃社区检测：最大似然法;&lt;/li&gt;
+&lt;li&gt;创新信息通讯技术引文分析与治理进展（2008-2017）;&lt;/li&gt;
+&lt;li&gt;基于分布式动态图的高效检测重叠社区;&lt;/li&gt;
+&lt;li&gt;在线错误信息网络解剖;&lt;/li&gt;
+&lt;li&gt;找出风电场功率波动的结构;&lt;/li&gt;
+&lt;li&gt;社会网络中的话题生命周期：分析语义连续性和社会共同体的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-01-18)</title>
