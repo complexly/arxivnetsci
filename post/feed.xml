@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-01-24)</title>
+      <link>https://www.complexly.me/post/20180124/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180124/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在线社交网络中信息与行为并发传播的社会影响;&lt;/li&gt;
+&lt;li&gt;学习阶级特定的词语表达在社交媒体中及早发现恶作剧;&lt;/li&gt;
+&lt;li&gt;跟踪网络动态：回顾距离和相似性度量;&lt;/li&gt;
+&lt;li&gt;社团对于影响力学习的重要性;&lt;/li&gt;
+&lt;li&gt;从基于随机游走的节点相似度学习网络;&lt;/li&gt;
+&lt;li&gt;活动驱动网络上的分布式协议;&lt;/li&gt;
+&lt;li&gt;网络仇恨分类：“其他”语言和段落嵌入;&lt;/li&gt;
+&lt;li&gt;阿隆索与城市概况的尺度;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2018-01-23)</title>
