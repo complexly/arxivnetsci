@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 24 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2018-01-25)</title>
+      <link>https://www.complexly.me/post/20180125/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180125/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;SentiBubbles：主题建模和以实体为中心的Tweets的情感可视化;&lt;/li&gt;
+&lt;li&gt;马尔可夫链监测;&lt;/li&gt;
+&lt;li&gt;SAVITR：紧急情况下微博实时定位系统;&lt;/li&gt;
+&lt;li&gt;网络社区的一般定义及其检测算法;&lt;/li&gt;
+&lt;li&gt;说服敏感性可变时的意见动态;&lt;/li&gt;
+&lt;li&gt;语言分形动态驱动的超流扩散的经验观察：已流行词的词频的动态统计特性;&lt;/li&gt;
+&lt;li&gt;使用信息检索和网络聚类技术来理解新闻故事链;&lt;/li&gt;
+&lt;li&gt;多重网络中心度量的新框架;&lt;/li&gt;
+&lt;li&gt;在加泰罗尼亚，加泰罗尼亚语和西班牙语是否可以共存？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2018-01-24)</title>
