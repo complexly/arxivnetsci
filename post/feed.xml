@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 26 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-01-29)</title>
+      <link>https://www.complexly.me/post/20180129/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180129/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Etymo：人工智能研究的新发现引擎;&lt;/li&gt;
+&lt;li&gt;随机游走基本张量及其在网络分析中的应用;&lt;/li&gt;
+&lt;li&gt;从时间观察重建级联;&lt;/li&gt;
+&lt;li&gt;考虑网络传播、社会强化和相关社会影响的情况下评估社区干预措施成败的方法;&lt;/li&gt;
+&lt;li&gt;丧钟为谁而喷：推特脱欧辩论中的喷子行为;&lt;/li&gt;
+&lt;li&gt;社会影响与带有多个选项的并发流动;&lt;/li&gt;
+&lt;li&gt;预测复杂网络中的时空信号传播模式;&lt;/li&gt;
+&lt;li&gt;社会经济网络消费模式的相关性和动态性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2018-01-26)</title>
