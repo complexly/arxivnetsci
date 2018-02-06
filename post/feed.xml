@@ -7,10 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要27篇(2018-02-06)</title>
+      <link>https://www.complexly.me/post/20180206/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180206/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用亚线性查询复杂度来近似局部PageRank;&lt;/li&gt;
+&lt;li&gt;成本和效益之间的相互作用触发了非平凡的疫苗接种;&lt;/li&gt;
+&lt;li&gt;动态网络上的权力配置博弈：均衡选择;&lt;/li&gt;
+&lt;li&gt;利用密度尺度调整指标和网络工具揭示英格兰和威尔士犯罪和财产的关系;&lt;/li&gt;
+&lt;li&gt;学术界游说行为和跨学科动力学的建模;&lt;/li&gt;
+&lt;li&gt;考虑事件持续时间和驾驶员行为不确定性的交通应急计划;&lt;/li&gt;
+&lt;li&gt;社会偏见的观点动态;&lt;/li&gt;
+&lt;li&gt;用于稠密张量挖掘的外存分布式算法;&lt;/li&gt;
+&lt;li&gt;利用复杂网络动态识别全球恐怖中心和脆弱模体;&lt;/li&gt;
+&lt;li&gt;电子商务促销活动的Twitter对话挖掘;&lt;/li&gt;
+&lt;li&gt;具有细化社团的随机交叉图的参数估计;&lt;/li&gt;
+&lt;li&gt;用于双曲空间网络嵌入与链路预测的相似性优先连接最小曲线自动机;&lt;/li&gt;
+&lt;li&gt;集体行为领导的剖析;&lt;/li&gt;
+&lt;li&gt;即时检测自动生成的Tweets;&lt;/li&gt;
+&lt;li&gt;网络上的超级扩散和时间相关的远距相互作用;&lt;/li&gt;
+&lt;li&gt;一个基于演化博弈的共识观点模型;&lt;/li&gt;
+&lt;li&gt;交通驱动的度分布可调的无标度网络上的流行病传播;&lt;/li&gt;
+&lt;li&gt;利用动态网络中的风险规避抑制流行病传播;&lt;/li&gt;
+&lt;li&gt;以信誉驱动的小组形成促进合作;&lt;/li&gt;
+&lt;li&gt;通过惩罚少数人来促进合作;&lt;/li&gt;
+&lt;li&gt;采用自适应路由策略抑制交通驱动的流行病传播;&lt;/li&gt;
+&lt;li&gt;交通驱动疫情传播的免疫;&lt;/li&gt;
+&lt;li&gt;通过符合性驱动的生殖能力加强合作;&lt;/li&gt;
+&lt;li&gt;连续谱弛豫法的网络社区检测;&lt;/li&gt;
+&lt;li&gt;极化与假新闻：潜在错误信息目标的预警;&lt;/li&gt;
+&lt;li&gt;稠密的幂律网络和简单复形;&lt;/li&gt;
+&lt;li&gt;一种有效的染色三元组普查计数方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2018-02-05)</title>
