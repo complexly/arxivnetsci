@@ -7,10 +7,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 12 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要26篇(2018-02-13)</title>
+      <link>https://www.complexly.me/post/20180213/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180213/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;利用感染级联重建网络;&lt;/li&gt;
+&lt;li&gt;相互依存系统中的级联失效：度变化和依赖的影响;&lt;/li&gt;
+&lt;li&gt;WhatsApp使用模式和无信息内容预测模型研究;&lt;/li&gt;
+&lt;li&gt;从熟人到永远的好朋友：对社交关系强度的稳健和细粒度推断;&lt;/li&gt;
+&lt;li&gt;军事和国家安全垃圾新闻：针对美国军人和退伍军人的社交媒体宣传活动;&lt;/li&gt;
+&lt;li&gt;美国大选期间的社交媒体，新闻和政治信息：极化内容集中在摇摆州？;&lt;/li&gt;
+&lt;li&gt;追随者计数谬误：用操纵追随者数检测Twitter用户;&lt;/li&gt;
+&lt;li&gt;网络上的权力分配博弈：一个悖论;&lt;/li&gt;
+&lt;li&gt;动态网络演化的潜在空间模型;&lt;/li&gt;
+&lt;li&gt;人工智能遇到少数博弈：朝着最优资源分配;&lt;/li&gt;
+&lt;li&gt;由于大规模攻击导致网络过载;&lt;/li&gt;
+&lt;li&gt;社会扩散的连续到不连续的过渡;&lt;/li&gt;
+&lt;li&gt;从结构的差异到差异的结构;&lt;/li&gt;
+&lt;li&gt;在多元集合种群网络中传播流行病的框架;&lt;/li&gt;
+&lt;li&gt;SPINE：结构身份保持诱导网络嵌入;&lt;/li&gt;
+&lt;li&gt;GEMSEC：自聚类图嵌入;&lt;/li&gt;
+&lt;li&gt;从发射事件中推断大规模计算机网络的时变功能连接;&lt;/li&gt;
+&lt;li&gt;物联网时代的广告：愿景与挑战;&lt;/li&gt;
+&lt;li&gt;Tagvisor：用于共享Hashtags的隐私顾问;&lt;/li&gt;
+&lt;li&gt;政策众包的基本原理;&lt;/li&gt;
+&lt;li&gt;Twitter上垃圾邮件发送者的集体分类：基于层次元路径的方法;&lt;/li&gt;
+&lt;li&gt;通过类似群集的系统中的迭代边去除来进行网络社区检测;&lt;/li&gt;
+&lt;li&gt;多轮影响最大化（扩展版）;&lt;/li&gt;
+&lt;li&gt;货物检验中多原子伽马射线照相术有效原子序数识别的实验验证;&lt;/li&gt;
+&lt;li&gt;用比特币购买咖啡：真实世界部署比特币销售点终端;&lt;/li&gt;
+&lt;li&gt;DiSLR：有限冗余的分布式采样，用于图流中的三角形计数;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2018-02-12)</title>

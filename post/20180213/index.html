@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要26篇(2018-02-13) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+利用感染级联重建网络;
+相互依存系统中的级联失效：度变化和依赖的影响;
+WhatsApp使用模式和无信息内容预测模型研究;
+从熟人到永远的好朋友：对社交关系强度的稳健和细粒度推断;
+军事和国家安全垃圾新闻：针对美国军人和退伍军人的社交媒体宣传活动;
+美国大选期间的社交媒体，新闻和政治信息：极化内容集中在摇摆州？;
+追随者计数谬误：用操纵追随者数检测Twitter用户;
+网络上的权力分配博弈：一个悖论;
+动态网络演化的潜在空间模型;
+人工智能遇到少数博弈：朝着最优资源分配;
+由于大规模攻击导致网络过载;
+社会扩散的连续到不连续的过渡;
+从结构的差异到差异的结构;
+在多元集合种群网络中传播流行病的框架;
+SPINE：结构身份保持诱导网络嵌入;
+GEMSEC：自聚类图嵌入;
+从发射事件中推断大规模计算机网络的时变功能连接;
+物联网时代的广告：愿景与挑战;
+Tagvisor：用于共享Hashtags的隐私顾问;
+政策众包的基本原理;
+Twitter上垃圾邮件发送者的集体分类：基于层次元路径的方法;
+通过类似群集的系统中的迭代边去除来进行网络社区检测;
+多轮影响最大化（扩展版）;
+货物检验中多原子伽马射线照相术有效原子序数识别的实验验证;
+用比特币购买咖啡：真实世界部署比特币销售点终端;
+DiSLR：有限冗余的分布式采样，用于图流中的三角形计数;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要26篇(2018-02-13) - 网络科学研究速递">
+<meta itemprop="description" content="
+利用感染级联重建网络;
+相互依存系统中的级联失效：度变化和依赖的影响;
+WhatsApp使用模式和无信息内容预测模型研究;
+从熟人到永远的好朋友：对社交关系强度的稳健和细粒度推断;
+军事和国家安全垃圾新闻：针对美国军人和退伍军人的社交媒体宣传活动;
+美国大选期间的社交媒体，新闻和政治信息：极化内容集中在摇摆州？;
+追随者计数谬误：用操纵追随者数检测Twitter用户;
+网络上的权力分配博弈：一个悖论;
+动态网络演化的潜在空间模型;
+人工智能遇到少数博弈：朝着最优资源分配;
+由于大规模攻击导致网络过载;
+社会扩散的连续到不连续的过渡;
+从结构的差异到差异的结构;
+在多元集合种群网络中传播流行病的框架;
+SPINE：结构身份保持诱导网络嵌入;
+GEMSEC：自聚类图嵌入;
+从发射事件中推断大规模计算机网络的时变功能连接;
+物联网时代的广告：愿景与挑战;
+Tagvisor：用于共享Hashtags的隐私顾问;
+政策众包的基本原理;
+Twitter上垃圾邮件发送者的集体分类：基于层次元路径的方法;
+通过类似群集的系统中的迭代边去除来进行网络社区检测;
+多轮影响最大化（扩展版）;
+货物检验中多原子伽马射线照相术有效原子序数识别的实验验证;
+用比特币购买咖啡：真实世界部署比特币销售点终端;
+DiSLR：有限冗余的分布式采样，用于图流中的三角形计数;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要26篇(2018-02-13) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20180213/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+利用感染级联重建网络;
+相互依存系统中的级联失效：度变化和依赖的影响;
+WhatsApp使用模式和无信息内容预测模型研究;
+从熟人到永远的好朋友：对社交关系强度的稳健和细粒度推断;
+军事和国家安全垃圾新闻：针对美国军人和退伍军人的社交媒体宣传活动;
+美国大选期间的社交媒体，新闻和政治信息：极化内容集中在摇摆州？;
+追随者计数谬误：用操纵追随者数检测Twitter用户;
+网络上的权力分配博弈：一个悖论;
+动态网络演化的潜在空间模型;
+人工智能遇到少数博弈：朝着最优资源分配;
+由于大规模攻击导致网络过载;
+社会扩散的连续到不连续的过渡;
+从结构的差异到差异的结构;
+在多元集合种群网络中传播流行病的框架;
+SPINE：结构身份保持诱导网络嵌入;
+GEMSEC：自聚类图嵌入;
+从发射事件中推断大规模计算机网络的时变功能连接;
+物联网时代的广告：愿景与挑战;
+Tagvisor：用于共享Hashtags的隐私顾问;
+政策众包的基本原理;
+Twitter上垃圾邮件发送者的集体分类：基于层次元路径的方法;
+通过类似群集的系统中的迭代边去除来进行网络社区检测;
+多轮影响最大化（扩展版）;
+货物检验中多原子伽马射线照相术有效原子序数识别的实验验证;
+用比特币购买咖啡：真实世界部署比特币销售点终端;
+DiSLR：有限冗余的分布式采样，用于图流中的三角形计数;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20180213/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20180213/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要26篇(2018-02-13)</h1>
+
+                  <p class="post-byline">
+                    2018年02月13日 · 11258 字 ·
+                    阅读时间约23分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>利用感染级联重建网络;</li>
+<li>相互依存系统中的级联失效：度变化和依赖的影响;</li>
+<li>WhatsApp使用模式和无信息内容预测模型研究;</li>
+<li>从熟人到永远的好朋友：对社交关系强度的稳健和细粒度推断;</li>
+<li>军事和国家安全垃圾新闻：针对美国军人和退伍军人的社交媒体宣传活动;</li>
+<li>美国大选期间的社交媒体，新闻和政治信息：极化内容集中在摇摆州？;</li>
+<li>追随者计数谬误：用操纵追随者数检测Twitter用户;</li>
+<li>网络上的权力分配博弈：一个悖论;</li>
+<li>动态网络演化的潜在空间模型;</li>
+<li>人工智能遇到少数博弈：朝着最优资源分配;</li>
+<li>由于大规模攻击导致网络过载;</li>
+<li>社会扩散的连续到不连续的过渡;</li>
+<li>从结构的差异到差异的结构;</li>
+<li>在多元集合种群网络中传播流行病的框架;</li>
+<li>SPINE：结构身份保持诱导网络嵌入;</li>
+<li>GEMSEC：自聚类图嵌入;</li>
+<li>从发射事件中推断大规模计算机网络的时变功能连接;</li>
+<li>物联网时代的广告：愿景与挑战;</li>
+<li>Tagvisor：用于共享Hashtags的隐私顾问;</li>
+<li>政策众包的基本原理;</li>
+<li>Twitter上垃圾邮件发送者的集体分类：基于层次元路径的方法;</li>
+<li>通过类似群集的系统中的迭代边去除来进行网络社区检测;</li>
+<li>多轮影响最大化（扩展版）;</li>
+<li>货物检验中多原子伽马射线照相术有效原子序数识别的实验验证;</li>
+<li>用比特币购买咖啡：真实世界部署比特币销售点终端;</li>
+<li>DiSLR：有限冗余的分布式采样，用于图流中的三角形计数;</li>
+</ul>
+
+<p></p>
+
+<h3 id="利用感染级联重建网络">利用感染级联重建网络</h3>
+
+<p>原文标题： Network reconstruction from infection cascades</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1609.00432">http://arxiv.org/abs/1609.00432</a></p>
+
+<p>作者： Alfredo Braunstein, Alessandro Ingrosso, Anna Paola Muntoni</p>
+
+<p>摘要： 访问传播动态扩散的网络对理解和控制网络至关重要。在少数情况下，这些信息可以通过直接实验或传播数据的特性获得。然而，在大多数情况下，有关网络的可用信息是间接的，并且来自对动态的部分观察，使得网络重构成为基本的逆向问题。在这里我们表明，可以重构交互网络的整体结构并且同时推断激活扩散的完整时间过程，仅依赖于单个时期（即，快照）或少量活动级联的时间分散观察。我们提出的方法建立在信念传播近似上，在各种相关案例中显示出令人印象深刻的准确性，并且能够通过提供详细的后验分布建模来推断存在不完整时间序列数据的交互作用轨迹适应观测。此外，我们通过实验表明，完整级联的信息内容比稀疏观察或单个快照的信息内容要小。</p>
+
+<h3 id="相互依存系统中的级联失效-度变化和依赖的影响">相互依存系统中的级联失效：度变化和依赖的影响</h3>
+
+<p>原文标题： Cascading Failures in Interdependent Systems: Impact of Degree Variability and Dependence</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1702.00298">http://arxiv.org/abs/1702.00298</a></p>
+
+<p>作者： Richard J. La</p>
+
+<p>摘要： 我们研究了包含相互依存的网络/系统的系统中的级联故障，其中节点依赖于同一系统和其他系统中的其他节点来执行其功能。节点之间的（相互）依赖性使用依赖图来建模，其中节点的度向量通过前述依赖性确定其可能潜在地导致每个系统中的其他节点的数量。具体而言，我们检查节点度的可变性和依赖属性对级联失败概率的影响。我们表明节点度的较大变化阻碍了系统中的广泛故障，从随机故障开始。类似地，节点度数的正相关性使得难以引发失败的流行，从而使系统对随机故障更有力。</p>
+
+<h3 id="whatsapp使用模式和无信息内容预测模型研究">WhatsApp使用模式和无信息内容预测模型研究</h3>
+
+<p>原文标题： A Study of WhatsApp Usage Patterns and Prediction Models without Message Content</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03393">http://arxiv.org/abs/1802.03393</a></p>
+
+<p>作者： Avi Rosenfeld, Sigal Sina, David Sarne, Or Avidov, Sarit Kraus</p>
+
+<p>摘要： 互联网社会网络已经成为一种无处不在的应用程序，允许人们轻松共享文本，图片和音频和视频文件。流行的网络包括WhatsApp，Facebook，Reddit和LinkedIn。我们对WhatsApp社会网络的使用情况进行了广泛的研究，该网络是一种快速取代SMS消息的互联网消息应用程序。为了更好地了解人们对网络的使用情况，我们提供了来自100多个用户的超过600万条消息的分析，其目标是使用活动数据构建人口统计预测模型。我们对数据进行了广泛的统计和数值分析，发现不同性别和年龄人群的WhatsApp使用情况存在显著差异。我们还将数据输入到Weka数据挖掘软件包中，并研究从决策树和贝叶斯网络算法创建的模型。我们发现不同性别和年龄人群在几乎所有消息和群组属性中的使用习惯存在显著差异。我们还注意到用户群体行为的差异，并创建了预测模型，包括给定群组可能拥有相对较多的文件附件的可能性，如果一个群体包含更多参与者，活动频率更高，响应时间更短以及信息更短。我们成功量化和预测用户的性别和年龄人口。同样，我们能够预测不同类型的组使用情况。所有模型都是在不分析消息内容的情况下构建的我们详细讨论了所有预测模型中包含的特定属性，并根据这些结果提出了可能的应用。</p>
+
+<h3 id="从熟人到永远的好朋友-对社交关系强度的稳健和细粒度推断">从熟人到永远的好朋友：对社交关系强度的稳健和细粒度推断</h3>
+
+<p>原文标题： From acquaintance to best friend forever: robust and fine-grained inference of social tie strengths</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03549">http://arxiv.org/abs/1802.03549</a></p>
+
+<p>作者： Florian Adriaens, Tijl De Bie, Aristides Gionis, Jefrey Lijffijt, Polina Rozenshtein</p>
+
+<p>摘要： 社会网络往往只能提供一个关于社交关系的二元视角：两个人是否连接在一起。虽然有时外部信息可以用来推断社会关系的强度，但获取这些信息可能受到限制或不切实际。 Sintos和Tsaparas（KDD 2014）首先建议通过利用\ strong {三重封闭（STC）}属性来从单独的网络拓扑中推断社会联系的强度。 ％&mdash;假定在社会网络中举行〜\ cite {sim：08}。 STC财产规定，如果人员$ A $与人员B $和$ C $有强烈的社会联系，则B $和$ C $必须彼此相连（无论是弱者还是强者）。 Sintos和Tsaparas利用这种方法将社会关系强度推断为NP-hard优化问题，并提出了两种近似算法。我们通过开发一系列线性松弛的问题来完善和改进这个里程碑式的论文，这个问题可以用多项式时间精确地解决。有用的是，这些放松会推断更细粒度的绑定强度（超越强和弱），这也可以避免在网络拓扑结构提供不确定的证据时，做出任意强/弱的强度分配。其中一种放松同时推断出现有限数量的STC违规。广泛的理论分析导致两种有效的算法方法。最后，我们的实验结果阐明了所提出的方法的优点，并在实践中揭示了STC性质的有效性。</p>
+
+<h3 id="军事和国家安全垃圾新闻-针对美国军人和退伍军人的社交媒体宣传活动">军事和国家安全垃圾新闻：针对美国军人和退伍军人的社交媒体宣传活动</h3>
+
+<p>原文标题： Junk News on Military Affairs and National Security: Social Media Disinformation Campaigns Against US Military Personnel and Veterans</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03572">http://arxiv.org/abs/1802.03572</a></p>
+
+<p>作者： John D. Gallacher, Vlad Barash, Philip N. Howard, John Kelly</p>
+
+<p>摘要： 社交媒体为现役军人和退伍军人提供政治新闻和信息。我们分析了Twitter和Facebook用户的小组，他们花费时间从美国军事人员和退伍军人的网站上发布垃圾消息，提供有关阴谋论，错误信息和其他形式的有关军事和国家安全问题的垃圾消息。 （1）通过Twitter，我们发现现任和前任军事人员之间存在着重要且持续的相互作用，并且有广泛的极端主义，俄罗斯和国际阴谋分组网络。 （2）在Facebook上，我们发现军事和退伍军人以及致力于政治阴谋的分组和公共页面之间的重要且持续的相互作用，以及政治范围的双方。 （3）在Facebook上，对阴谋论和政治权利最感兴趣的用户似乎散发着最多的垃圾新闻，而无论是军人还是退伍军人的用户都是最成熟的新闻消费者之一，通过网络的小垃圾新闻。</p>
+
+<h3 id="美国大选期间的社交媒体-新闻和政治信息-极化内容集中在摇摆州">美国大选期间的社交媒体，新闻和政治信息：极化内容集中在摇摆州？</h3>
+
+<p>原文标题： Social Media, News and Political Information during the US Election: Was Polarizing Content Concentrated in Swing States?</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03573">http://arxiv.org/abs/1802.03573</a></p>
+
+<p>作者： Philip N. Howard, Bence Kollanyi, Samantha Bradshaw, Lisa-Maria Neudert</p>
+
+<p>摘要： 美国选民通过链接俄罗斯，维基解密和垃圾新闻来源的内容，分享了大量的政治新闻和信息。这些低质量的政治信息是否均匀分布在全国各地，还是集中在摇摆州和全国特定地区？在这份数据备忘录中，我们应用了一份经过测试的关于政治新闻和信息的字典，这些信息是在2016年总统选举周围的10天内通过Twitter分享的。使用自我报告的位置信息，我们将三分之一的用户按州分类，并为全国各地的偏振内容分布创建一个简单的索引。我们发现（1）在全国范围内，Twitter用户比专业制作的新闻获得更多的错误信息，极化和阴谋内容。 （2）有些州的用户比其他州的用户分享更多的政治新闻和信息。 （3）即使在每个州的用户人口的相对规模加权时，挥杆状态下的错误信息的平均水平高于无争议状态。我们总结了一些关于战略传播的极化信息对公共生活影响的观察结论。</p>
+
+<h3 id="追随者计数谬误-用操纵追随者数检测twitter用户">追随者计数谬误：用操纵追随者数检测Twitter用户</h3>
+
+<p>原文标题： The Follower Count Fallacy: Detecting Twitter Users with Manipulated Follower Count</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03625">http://arxiv.org/abs/1802.03625</a></p>
+
+<p>作者： Anupama Aggarwal, Saravana Kumar, Kushagra Bhargava, Ponnurangam Kumaraguru</p>
+
+<p>摘要： 在线社会网络（OSN）越来越多地被用作有效沟通的平台，与其他用户互动，并通过喜欢，追随者和分享数量创造社交价值。这些衡量指标和众包评级为OSN用户提供了一种社会声誉感，她试图保持并提高其影响力。用户通过黑市Web服务人为地提升了他们的社交声誉。在这项工作中，我们确定用户使用无监督的局部邻域检测方法来操纵他们的预测跟随者数量。我们基于一组强大的特征来识别用户的邻居，这些特征反映了用户在预期跟随者计数方面的相似性。我们显示使用我们的方法的跟随者计数估计具有84.2％的准确度和低的错误率。另外，我们通过从Twitter的大型随机样本中找出其邻域来估计被怀疑的用户的跟随者数量。我们表明我们的方法对合成操纵追随者的能力非常强。利用显示计数的预测随从计数的偏差，我们还能够以高达98.62％的精度检测客户，</p>
+
+<h3 id="网络上的权力分配博弈-一个悖论">网络上的权力分配博弈：一个悖论</h3>
+
+<p>原文标题： The Power Allocation Game on A Network: A Paradox</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03669">http://arxiv.org/abs/1802.03669</a></p>
+
+<p>作者： Yuke Li, A. Stephen Morse</p>
+
+<p>摘要： 拥塞博弈中众所周知的Braess悖论指出，为交通网络增加额外的道路可能会增加总行程时间，从而降低整体效率。受此启发，本文提出了一种悖论，即从网络上另一种分布式资源分配博弈出现的类似精神，即在\ cite {分配}中开发的国家之间的权力分配博弈。矛盾的是，通过让更多的朋友实际上可以减少一个国家的平衡总福利。也出现了这种悖论发生的条件以及一些无政府状态结果的价格。</p>
+
+<h3 id="动态网络演化的潜在空间模型">动态网络演化的潜在空间模型</h3>
+
+<p>原文标题： Evolving Latent Space Model for Dynamic Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03725">http://arxiv.org/abs/1802.03725</a></p>
+
+<p>作者： Shubham Gupta, Gaurav Sharma, Ambedkar Dukkipati</p>
+
+<p>摘要： 在社会网络，协作网络等现实世界中观察到的网络展现出时间动态，即节点和边随时间出现和/或消失。在本文中，我们提出了一个生成的，基于潜在空间的统计模型（称为动态网络）。我们考虑节点数量固定的情况，但边的存在会随时间而变化。我们的模型允许网络中的社区数量在不同的时间步骤有所不同。我们使用基于神经网络的方法在所提出的模型及其简化版本中执行近似推断。在合成和现实世界的网络上进行社区检测和链路预测任务的实验证明了我们的模型与其他类似的现有方法相比的实用性和有效性。据我们所知，这是第一个将动态网络的统计建模与深入学习以进行社区检测和链路预测的工作。</p>
+
+<h3 id="人工智能遇到少数博弈-朝着最优资源分配">人工智能遇到少数博弈：朝着最优资源分配</h3>
+
+<p>原文标题： Artificial intelligence meets minority game: toward optimal resource allocation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03751">http://arxiv.org/abs/1802.03751</a></p>
+
+<p>作者： Si-Ping Zhang, Jia-Qi Dong, Li Liu, Zi-Gang Huang, Liang Huang, Ying-Cheng Lai</p>
+
+<p>摘要： 资源分配系统为现代社会的正常运作和福祉提供了基本支持，并且可以模仿为少数博弈。一个无处不在的动态现象是放牧的出现，绝大多数用户集中在少量资源上，导致资源分配效率低下。因此设计防止放牧的策略因此具有高度的兴趣。以前的作品集中在依赖外部干预的控制策略上，比如在一部分用户被迫选择特定动作的情况下进行固定控制。没有任何外部控制，是否有可能消除放牧？本文的主要观点是通过利用人工智能（AI）来提供肯定的答案。特别是，我们证明，当代理人被授权加强学习时，他们逐渐熟悉未知的博弈环境，并试图提供最佳行动以最大化回报，可以有效地消除放牧。计算揭示了一个惊人的现象，即不管初始状态如何，系统都会持续不断地向所有资源得到有效利用的最佳状态演变。然而，演变的过程并非没有中断：有很大的波动发生，但只是间歇性地发生。发现两次连续波动事件之间的时间的统计分布取决于演变的奇偶性，即它们之间的时间步数是奇数还是偶数。我们开展物理分析并导出平均场方程，以了解这些现象。由于少数博弈动态和放牧现象在社会，经济和政治系统中很常见，而且由于人工智能越来越普遍，我们期望我们的人工智能强化少数博弈系统具有广泛的应用。</p>
+
+<h3 id="由于大规模攻击导致网络过载">由于大规模攻击导致网络过载</h3>
+
+<p>原文标题： Network Overload due to Massive Attacks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03901">http://arxiv.org/abs/1802.03901</a></p>
+
+<p>作者： Yosef Kornbluth, Gilad Barach, Mark Tuchman, Benjamin Kadish, Gabriel Cwilich, Sergey V. Buldyrev</p>
+
+<p>摘要： 我们研究由于过载引起的网络级联故障，使用节点的中间中心性作为衡量Motter和Lai模型的负载的度量。我们研究了在级联$ p_f $结束时存活节点的比例，作为初始攻击强度的函数，用节点$ p $的比例来度量，这个节点在不同的容忍值$ \ alpha $在随机正则和Erd \ os-Renyi图中，我们发现在$ p- \ alpha $平面上存在一阶相变线$ p_t（\ alpha）$，这样如果$ p <p_t $级联失败导致存活节点的一小部分$ p_f $并且网络的巨大组件消失，而对于$ p> p_t $，$ p_f $很大并且网络的巨大组件仍然存在，恰好在$ p_t $函数$ p_f（p）$经历了一阶不连续性，我们发现$ p_t（\ alpha）$行在临界点$（p_c，\ alpha_c）$结束，其中级联失败被一秒我们通过分析找到初始攻击前后不同程度的节点的平均介数，研究它们的作用在级联失败中，找到$ p_t（\ alpha）$的下限。我们还研究了本地攻击和随机攻击之间的区别。</p>
+
+<h3 id="社会扩散的连续到不连续的过渡">社会扩散的连续到不连续的过渡</h3>
+
+<p>原文标题： From continuous to discontinuous transitions in social diffusion</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03951">http://arxiv.org/abs/1802.03951</a></p>
+
+<p>作者： Paula Tuzón, Juan Fernández-Gracia, Víctor M. Eguíluz</p>
+
+<p>摘要： 社会传播模型反映了人口中新产品，创意或行为的流程。作为控制参数的函数，这些模型通常导致采用者数目的连续或不连续的相变。我们探索了一个简单的社会采用模型，其中代理可以处于两种状态，不管是采用者还是非采用者，并且可以在这两种状态之间通过网络与其他代理进行交互。代理从非采用者转换到采用者的概率取决于其网络邻居中采用者的数量，采用阈值$ T $和采用系数$ a $，这两个参数定义了Hill函数。相比之下，从采用者到非采用者的过渡是自发的，一定比例为$ \ mu $。在平均场方法中，我们推导出控制常微分方程，并且表明全球非采纳和全球采用制度之间过渡的性质主要取决于与一个和两个采纳者采用的可能性之间的平衡。通过超临界干叉分叉，该过渡从连续，经由跨临界分叉变为不连续，经由鞍结和跨临界分叉的组合。我们表征完整的参数空间。最后，我们将我们的分析结果与退火和淬火度规则网络上的蒙特卡洛模拟进行了比较，表明退火情况下的更好的一致性。我们的结果显示了一个简单的模型如何能够捕捉两种看似非常不同的过渡类型，即连续和不连续，从而统一了不同系统的底层动态。此外，这里采用的采纳概率的形式是基于经验测量。</p>
+
+<h3 id="从结构的差异到差异的结构">从结构的差异到差异的结构</h3>
+
+<p>原文标题： From the difference of structures to the structure of the difference</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03966">http://arxiv.org/abs/1802.03966</a></p>
+
+<p>作者： Massimiliano Zanin, Ernestina Menasalvas, Xiaoqian Sun, Sebastian Wandelt</p>
+
+<p>摘要： 在处理演化或多维复杂系统时，网络理论提供了通过分别时变和多层复杂网络描述其构成组件的优雅方式。尽管如此，分析这些组件如何相关仍然是一个悬而未决的问题。我们在这里提出了一个分析（复杂）系统演化的框架，通过描述由多个网络之间的差异通过信息内容度量来创建的结构。与其他方法相反，例如使用全局重叠或熵，提议的方法允许了解观察到的变化是由于随机噪声还是由于结构（目标）修改造成的。我们通过一组合成网络以及代表真正的技术，社会和生物演化系统的网络来验证框架。我们进一步提出了一种重建网络相关图的方法，它可以将系统的演变转换到频域。</p>
+
+<h3 id="在多元集合种群网络中传播流行病的框架">在多元集合种群网络中传播流行病的框架</h3>
+
+<p>原文标题： A framework for epidemic spreading in multiplex networks of metapopulations</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03969">http://arxiv.org/abs/1802.03969</a></p>
+
+<p>作者： David Soriano-Paños, Laura Lotero, Jesús Gómez-Gardeñes, Alex Arenas</p>
+
+<p>摘要： 我们提出了一个理论框架，研究结构性人群中的流行病，异质性因子，受到复发性流动模式的影响。我们建议将复合群体的组成中的异质性表示为多路复用网络中的层，其中节点将对应于地理区域并且层对相同类别的代理的移动性模式进行解释。我们分析了该框架内的经典易感染 - 易感染易感染和易感染 - 感染 - 去除流行模式，并将扩散过程的宏观和微观指标与广泛的蒙特卡罗模拟进行了比较。我们的结果与模拟结果非常吻合。我们还从这个总体框架得出了流行病门槛的确切表达，揭示了对流动性参数的非平凡依赖。最后，我们用这种新的形式主义来解决实际城市疾病的传播，特别是在哥伦比亚麦德林市，这个城市的人口分为六个社会经济阶层，每个阶层都有一个这种多元化形式主义的层次。</p>
+
+<h3 id="spine-结构身份保持诱导网络嵌入">SPINE：结构身份保持诱导网络嵌入</h3>
+
+<p>原文标题： SPINE: Structural Identity Preserved Inductive Network Embedding</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03984">http://arxiv.org/abs/1802.03984</a></p>
+
+<p>作者： Junliang Guo, Linli Xu, Enhong Chen</p>
+
+<p>摘要： 网络嵌入领域的最新进展表明，低维网络表示在网络分析中起着关键作用。大多数现有网络嵌入方法编码节点的本地接近度，例如一阶和二阶近似。虽然效率很高，但这些方法缺乏利用彼此远离的节点之间的全局结构信息。另外，大多数现有的方法学习嵌入在单个固定网络上，因此不能被推广到看不见的节点或网络而没有再训练。在本文中，我们介绍SPINE，一种可以在任何距离共同捕获本地邻近和邻近的方法，同时可以有效地处理看不见的节点或网络。具体而言，我们根据名为Rooted PageRank的网络的高阶邻近度，确定每个节点的结构身份，然后是一种新颖的有偏离的Skip-Gram Negative Sampling算法和精心设计的目标函数，以编码局部近似和全局结构身份节点同时。基准数据集上的广泛的实验结果证明了所提出的框架相对于现有技术的优越性。</p>
+
+<h3 id="gemsec-自聚类图嵌入">GEMSEC：自聚类图嵌入</h3>
+
+<p>原文标题： GEMSEC: Graph Embedding with Self Clustering</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.03997">http://arxiv.org/abs/1802.03997</a></p>
+
+<p>作者： Benedek Rozemberczki, Ryan Davies, Rik Sarkar, Charles Sutton</p>
+
+<p>摘要： 现代图嵌入过程可以从具有数百万个节点的图中有效地提取节点的特征。这些功能稍后将用作下游预测任务的输入。在本文中，我们提出了GEMSEC的图嵌入算法，它可以同时学习节点的聚类并计算它们的特征。该过程将节点放置在抽象特征空间中，其中顶点特征使保存采样顶点邻域的负对数似然性最小化，而节点聚集到该空间中的固定数量的组中。 GEMSEC是该领域早期工作的普遍扩展，因为它是基于序列的图嵌入过程的核心优化问题的增强，并且不受邻域采样策略的影响。我们展示GEMSEC在真实世界的社会网络上提取高质量的群集，并与其他社区检测算法相竞争。我们证明聚类约束对表示质量具有积极影响，并且我们的过程学习以强健和可扩展的方式共同嵌入和聚类图。</p>
+
+<h3 id="从发射事件中推断大规模计算机网络的时变功能连接">从发射事件中推断大规模计算机网络的时变功能连接</h3>
+
+<p>原文标题： Inferring the time-varying functional connectivity of large-scale computer networks from emitted events</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.04036">http://arxiv.org/abs/1802.04036</a></p>
+
+<p>作者： Antoine Messager, George Parisis, Istvan Z Kiss, Robert Harper, Phil Tee, Luc Berthouze</p>
+
+<p>摘要： 我们考虑从其节点发出的稀疏时间序列事件推断大规模计算机网络的功能连通性的问题。我们在以下三个领域特定的约束条件下这样做：（a）由于网络中未知的时间变化导致的功能连接的非平稳性，（b）限制经典相关性的时间序列事件的稀疏性， （c）缺乏描述事件如何通过网络传播的显式模型。在假定两个节点在功能上连接的概率与它们各自事件之间的平均延迟相关的情况下，我们开发了一种推理方法，其输出是一个无向加权网络，其中两个节点之间的边的权重表示这些节点的可能性功能连接。使用开窗和卷积的组合在每个时间窗计算一个量化一对节点快速连续发射事件的可能性的分数，我们开发了一个时变连接模型，其参数通过最大化模型的预测能力来确定时间窗口到下一个。为了评估我们的推理方法的有效性，我们构建了可以得到地面实况的合成数据，并使用这些数据来针对我们的方法与三种最先进的推理方法进行对比。我们通过讨论它在真实世界的大型计算机网络中的应用来得出结论。</p>
+
+<h3 id="物联网时代的广告-愿景与挑战">物联网时代的广告：愿景与挑战</h3>
+
+<p>原文标题： Advertising in the IoT Era: Vision and Challenges</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.04102">http://arxiv.org/abs/1802.04102</a></p>
+
+<p>作者： Hidayet Aksu, Leonardo Babun, Mauro Conti, Gabriele Tolomei, A. Selcuk Uluagac</p>
+
+<p>摘要： 物联网（IoT）扩展了将计算机互连到众多不同设备（统称为智能设备）的想法。这些都是物理项目，即“物品” - 例如可穿戴设备，家用电器和车辆，充实了计算和网络功能。由于涉及大量设备 - 因此，它的普遍性 - 物联网是一个很好的平台，可用于构建新的应用程序和服务或扩展现有的应用程序和服务。在这方面，将在线广告扩展到物联网领域是一个未被充分调查但前景看好的研究方向，特别是考虑到传统的互联网广告市场已经价值数千亿美元。在本文中，我们首先提出一个受传统互联网广告所基于的着名商业生态系统启发的物联网广告平台架构。此外，我们还讨论实施此类平台的关键挑战，特别关注与架构，广告内容交付，安全性和用户隐私相关的问题。</p>
+
+<h3 id="tagvisor-用于共享hashtags的隐私顾问">Tagvisor：用于共享Hashtags的隐私顾问</h3>
+
+<p>原文标题： Tagvisor: A Privacy Advisor for Sharing Hashtags</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.04122">http://arxiv.org/abs/1802.04122</a></p>
+
+<p>作者： Yang Zhang, Mathias Humbert, Tahleen Rahman, Cheng-Te Li, Jun Pang, Michael Backes</p>
+
+<p>摘要： Hashtag已经成为一种广泛使用的流行文化和活动的概念，但其对人们隐私的影响迄今尚未被调查。在本文中，我们首先系统地分析由标签引起的隐私问题。我们特别关注位置，这是互联网时代公认的关键隐私问题之一。通过依赖随机森林模型，我们显示我们可以根据城市，从精确度为70％到76％的主题标签推断用户的精确位置。为了弥补这种情况，我们引入了一个名为Tagvisor的系统，如果用户选择的话题构成对位置隐私的威胁，系统地建议替代主题标签。 Tagvisor通过三种概念上不同的混淆技术和一种基于语义的度量标准来测量随之而来的效用损失。我们的调查结果显示，混淆至少两个主题标签已经为我们的数据集中的隐私和效用提供了近乎最佳的折衷。这尤其使Tagvisor具有高度的时间效率，因此在实际环境中很实用。</p>
+
+<h3 id="政策众包的基本原理">政策众包的基本原理</h3>
+
+<p>原文标题： The Fundamentals of Policy Crowdsourcing</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.04143">http://arxiv.org/abs/1802.04143</a></p>
+
+<p>作者： John Prpic, Araz Taeihagh, James Melton</p>
+
+<p>摘要： 众包决策研究的现状是什么？本文开始回答这个问题，收集，分类和设置一个广泛的现有研究调查政策众包，在一个新的框架内建立在每个领域的基本类型上。我们首先定义了三种通用众包技术（虚拟劳动力市场，比赛众包，开放式合作）的七个普遍特征，以检验每种模式的相对权衡。然后，我们将这三种类型的众包与政策周期的不同阶段进行比较，以确定跨越两个领域的文献。最后我们讨论公众政策众包的研究趋势，并突出文献中的研究差距和重叠。关键词：众包，政策周期，众包交易，政策流程，政策阶段，虚拟劳动力市场，比赛众包，开放式合作</p>
+
+<h3 id="twitter上垃圾邮件发送者的集体分类-基于层次元路径的方法">Twitter上垃圾邮件发送者的集体分类：基于层次元路径的方法</h3>
+
+<p>原文标题： Collective Classification of Spam Campaigners on Twitter: A Hierarchical Meta-Path Based Approach</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.04168">http://arxiv.org/abs/1802.04168</a></p>
+
+<p>作者： Srishti Gupta, Abhinav Khattar, Arpit Gogia, Ponnurangam Kumaraguru, Tanmoy Chakraborty</p>
+
+<p>摘要： 网络犯罪分子利用在线社会网络上大量用户群的普及，通过传播网络钓鱼URL，附加恶意内容等来传播垃圾邮件活动。然而，另一种使用电话号码的垃圾邮件攻击最近在OSN上盛行，垃圾邮件发布者电话号码以吸引用户的注意力，并说服他们拨打这些电话号码。由于与电话号码相关的内在信任，基于电话号码的垃圾邮件的动态不同于基于URL的垃圾邮件。虽然以前的工作提出了缓解基于URL的垃圾邮件攻击的策略，但基于电话号码的垃圾邮件攻击收到的关注较少。在本文中，我们旨在检测使用电话号码推广Twitter上的广告系列的垃圾邮件发送者。为此，我们收集了670251个用户传播的3,370个广告系列的相关信息。我们通过利用数据集中存在的不同类型节点之间的各种互连，将Twitter数据集建模为异构网络。特别是，我们做出以下贡献：（i）我们提出了一种简单而有效的度量标准，称为分级元路径分数（HMPS），用于衡量未知用户与其他已知垃圾邮件发送者的接近程度。 （ii）我们设计了一个基于反馈的主动学习策略，并表明它明显优于垃圾邮件检测任务的三个最先进的基线。与最佳基线方法相比，我们的方法分别高出F1和AUC分别高出6.9％和67.3％。 （iii）为了克服监督学习训练实例较少的问题，我们表明，我们提出的反馈策略比其他过采样策略分别提高了25.6％和46％的F1分数和AUC。最后，我们进行案例研究，以展示我们的方法如何将用户检测为尚未被Twitter（和其他基线）暂停的垃圾邮件发送者。</p>
+
+<h3 id="通过类似群集的系统中的迭代边去除来进行网络社区检测">通过类似群集的系统中的迭代边去除来进行网络社区检测</h3>
+
+<p>原文标题： Network community detection via iterative edge removal in a flocking-like system</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.04186">http://arxiv.org/abs/1802.04186</a></p>
+
+<p>作者： Filipe Alves Neto Verri, Roberto Alves Gueleri, Qiusheng Zheng, Junbao Zhang, Liang Zhao</p>
+
+<p>摘要： 我们提出了一种网络社区检测技术，该技术基于自然启发的粒子对齐系统中出现的属性。最初，每个顶点被分配一个随机方向单位矢量。建立一个非线性动力学规律，以便相邻顶点试图彼此对齐。经过一段时间后，系统停止并且连接最少对齐顶点对的边被移除。然后，演变开始，没有删除的边，并经过足够的删除轮次后，每个社区成为一个连接组件。所提出的方法使用广泛接受的基准和实际网络进行评估。实验结果表明，该方法是健壮的，擅长各种网络。而且，对于大型稀疏网络，边去除过程以准线性时间运行，这使得可以在大规模网络中进行应用。</p>
+
+<h3 id="多轮影响最大化-扩展版">多轮影响最大化（扩展版）</h3>
+
+<p>原文标题： Multi-Round Influence Maximization (Extended Version)</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.04189">http://arxiv.org/abs/1802.04189</a></p>
+
+<p>作者： Lichao Sun, Weiran Huang, Philip S. Yu, Wei Chen</p>
+
+<p>摘要： 在本文中，我们研究多轮影响最大化（MRIM）问题，其中影响在多个回合中独立于可能不同的种子集进行传播，目标是为每个回合选择种子以最大化期望的被激活的节点数量至少在一轮中。 MRIM问题模拟了广告客户进行多轮病毒式营销以推广一种产品的病毒式营销方案。我们考虑两种不同的设置：1）非自适应MRIM，其中广告商需要首先确定用于所有轮次的种子集合，以及2）自适应MRIM，其中广告商可以基于传播自适应地选择种子集合导致前几轮。对于非自适应设置，我们设计了两种算法，这两种算法在效率和有效性之间展现出一个有趣的折衷：一种跨全局贪婪算法，可在全局水平上选择种子并实现$ <sup>1</sup>&frasl;<sub>2</sub>  -  \ varepsilon $近似比率，圆周贪婪算法，它可以一轮一轮地选择种子，并实现$ 1 -e ^ { - （1-1 / e）}  -  \ varepsilon \ approx 0.46  -  \ varepsilon $近似比率，但将运行时间减少一个与轮数相关的因子。对于自适应设置，我们设计一个自适应算法，保证自适应最优解的$ 1-e ^ { - （1-1 / e）}  -  \ varepsilon $近似。在所有情况下，我们进一步设计基于反向影响采样方法的可扩展算法，并实现接近线性的运行时间。我们在几个真实世界的网络上进行实验，并证明我们的算法对于MRIM任务是有效的。</p>
+
+<h3 id="货物检验中多原子伽马射线照相术有效原子序数识别的实验验证">货物检验中多原子伽马射线照相术有效原子序数识别的实验验证</h3>
+
+<p>原文标题： Experimental Demonstration of Multiple Monoenergetic Gamma Radiography for Effective Atomic Number Identification in Cargo Inspection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.04225">http://arxiv.org/abs/1802.04225</a></p>
+
+<p>作者： Brian S. Henderson, Hin Y. Lee, Thomas D. MacDonald, Roberts G. Nelson, Areg Danagoulian</p>
+
+<p>摘要： 通过国际边界走私特殊核材料（SNM）可能导致核恐怖主义，并对全球安全构成重大威胁。本文介绍了一种用于推断商业货物集装箱中物质的密度和类型的新型射线照相技术的实验演示，以此作为检测这些威胁的手段。与传统的使用能量连续分布的bre致辐射光子源的技术不同，该技术利用来自核反应的单能光子，特别是来自$ ^ {11} $ B（d，n $ \ gamma $）的4.4和15.1 MeV光子， $ ^ {12} $ C反应。通过在这两个比能量下利用光子相互作用截面的$ Z $  - 依赖性，可以同时确定面积密度和有效原子序数作为被扫描物体的2D投影的位置的函数。从使用和检测特定能量的光子获得的附加信息大大增加了不同材料之间的分辨能力。本文介绍了模拟货物材料成像的结果，范围从$ Z \ approx5 \ text { - } 92 $，展示了整个范围内材料的有效原子序数和面密度的精确重建。特别是，该系统能够区分纯物质，例如铅和铀 - 这是设计用于检测SNM的系统的关键要求。这种方法可用于区分大多数良性材料与SNM，如铀和钚，从而将假阳性降低到可接受的速度。</p>
+
+<h3 id="用比特币购买咖啡-真实世界部署比特币销售点终端">用比特币购买咖啡：真实世界部署比特币销售点终端</h3>
+
+<p>原文标题： Buy your coffee with bitcoin: Real-world deployment of a bitcoin point of sale terminal</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.04236">http://arxiv.org/abs/1802.04236</a></p>
+
+<p>作者： Shayan Eskandari, Jeremy Clark, Abdelwahab Hamou-Lhadj</p>
+
+<p>摘要： 在本文中，我们将讨论比特币支付的现有方法，适用于小额交易的小企业。我们利用安全性，可用性，可部署性标准开发评估框架，检查几个现有的系统和工具。遵循需求工程方法，我们设计，实施了一个新的销售点（PoS）系统，该系统在我们的评估框架内满足了一套最佳标准。自2014年10月以来，我们的开源系统Aunja PoS已部署在现实世界的咖啡厅。</p>
+
+<h3 id="dislr-有限冗余的分布式采样-用于图流中的三角形计数">DiSLR：有限冗余的分布式采样，用于图流中的三角形计数</h3>
+
+<p>原文标题： DiSLR: Distributed Sampling with Limited Redundancy For Triangle Counting in Graph Streams</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.04249">http://arxiv.org/abs/1802.04249</a></p>
+
+<p>作者： Kijung Shin, Euiwoong Lee, Jinoh Oh, Mohammad Hammoud, Christos Faloutsos</p>
+
+<p>摘要： 给定一个随时间增长的网络规模图，如何在多台机器上存储和处理其边以便快速准确地估计三角形的数量？在许多应用中，三角形（即三号的派系）的数量已被证明是有用的，包括异常检测，社区检测和链接推荐。对于大型和动态图中的三角形计数，最近的工作主要集中在流算法和分布式算法。为了实现这两种方法的优点，我们提出了DiSLR，这是一种分布式流式算法，用于估算与每个节点相关的全局三角形和局部三角形的数量。通过输入流，DiSLR可以仔细处理并将边存储在多台机器上，从而最大限度地减少对计算和存储资源的冗余使用。与其最优秀的竞争对手相比，DiSLR具有以下特点：（a）准确：最高可减少39倍的估计误差;（b）快速：高达10.4倍;与输入流中的边线性成比例;（c） ：随着机器数量的增加，产生无偏估计，并且差异越快越快。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20180213/">https://www.complexly.me/post/20180213/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20180212/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要4篇(2018-02-12)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+            <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
