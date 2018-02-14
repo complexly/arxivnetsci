@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-02-14)</title>
+      <link>https://www.complexly.me/post/20180214/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180214/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;人机融合时代的全球治理体系;&lt;/li&gt;
+&lt;li&gt;测量机器人和人类行为动态;&lt;/li&gt;
+&lt;li&gt;用于Bot检测的深度神经网络;&lt;/li&gt;
+&lt;li&gt;政治操纵的数字痕迹分析：2016年俄罗斯干扰Twitter活动;&lt;/li&gt;
+&lt;li&gt;保留谱特性的网络摘要;&lt;/li&gt;
+&lt;li&gt;通过似然优化进行社区检测：寻找合理的模型;&lt;/li&gt;
+&lt;li&gt;用于函数最大化的基于图的上升算法;&lt;/li&gt;
+&lt;li&gt;涉及Facebook讨论组的攻击策略和时间分析;&lt;/li&gt;
+&lt;li&gt;用一般营销策略实现可扩展影响最大化;&lt;/li&gt;
+&lt;li&gt;DyPerm：最大限度地延长动态社区检测的持久性;&lt;/li&gt;
+&lt;li&gt;多于两种选项的投票动态共识时间尺度分析;&lt;/li&gt;
+&lt;li&gt;利用媒体分组进行弱化监督集体特征学习;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要26篇(2018-02-13)</title>
