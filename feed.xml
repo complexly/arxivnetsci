@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 16 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2018-02-19)</title>
+      <link>https://www.complexly.me/post/20180219/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180219/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用变分自编码器设计随机图模型及其在化学设计中的应用;&lt;/li&gt;
+&lt;li&gt;通过最小化算法信息误差实现无参数网络稀疏化和数据压缩;&lt;/li&gt;
+&lt;li&gt;引文网络拓扑的多样性;&lt;/li&gt;
+&lt;li&gt;计算推断的家谱网络揭示了门当户对的长期趋势;&lt;/li&gt;
+&lt;li&gt;Any-k：标签图中给定时间的Top-k树模式检索;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-02-16)</title>

@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要5篇(2018-02-19) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+用变分自编码器设计随机图模型及其在化学设计中的应用;
+通过最小化算法信息误差实现无参数网络稀疏化和数据压缩;
+引文网络拓扑的多样性;
+计算推断的家谱网络揭示了门当户对的长期趋势;
+Any-k：标签图中给定时间的Top-k树模式检索;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要5篇(2018-02-19) - 网络科学研究速递">
+<meta itemprop="description" content="
+用变分自编码器设计随机图模型及其在化学设计中的应用;
+通过最小化算法信息误差实现无参数网络稀疏化和数据压缩;
+引文网络拓扑的多样性;
+计算推断的家谱网络揭示了门当户对的长期趋势;
+Any-k：标签图中给定时间的Top-k树模式检索;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要5篇(2018-02-19) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20180219/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+用变分自编码器设计随机图模型及其在化学设计中的应用;
+通过最小化算法信息误差实现无参数网络稀疏化和数据压缩;
+引文网络拓扑的多样性;
+计算推断的家谱网络揭示了门当户对的长期趋势;
+Any-k：标签图中给定时间的Top-k树模式检索;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20180219/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20180219/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要5篇(2018-02-19)</h1>
+
+                  <p class="post-byline">
+                    2018年02月19日 · 2095 字 ·
+                    阅读时间约5分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>用变分自编码器设计随机图模型及其在化学设计中的应用;</li>
+<li>通过最小化算法信息误差实现无参数网络稀疏化和数据压缩;</li>
+<li>引文网络拓扑的多样性;</li>
+<li>计算推断的家谱网络揭示了门当户对的长期趋势;</li>
+<li>Any-k：标签图中给定时间的Top-k树模式检索;</li>
+</ul>
+
+<p></p>
+
+<h3 id="用变分自编码器设计随机图模型及其在化学设计中的应用">用变分自编码器设计随机图模型及其在化学设计中的应用</h3>
+
+<p>原文标题： Designing Random Graph Models Using Variational Autoencoders With Applications to Chemical Design</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.05283">http://arxiv.org/abs/1802.05283</a></p>
+
+<p>作者： Bidisha Samanta, Abir De, Niloy Ganguly, Manuel Gomez-Rodriguez</p>
+
+<p>摘要： 深度生成模型因其学习图像，文本和音频的平滑潜在表示的能力而受到称赞，这些模式可用于生成新的合理数据。然而，当前的生成模型由于其独特的特性而不能与图一起工作 - 它们的基础结构不是欧几里德或网格状的，它们在节点标签的排列下仍然是同构的，并且它们具有不同数量的节点和边。在本文中，我们提出了一种图的变分自动编码器，其编码器和解码器是专门设计的，通过多项技术创新来解决上述特性。此外，解码器能够保证生成的图中的一组局部结构和功能属性。实验表明，我们的模型能够学习和模仿几个众所周知的随机图模型的生成过程，并且可以比几种最先进的方法更有效地创建新的分子。</p>
+
+<h3 id="通过最小化算法信息误差实现无参数网络稀疏化和数据压缩">通过最小化算法信息误差实现无参数网络稀疏化和数据压缩</h3>
+
+<p>原文标题： Parameter-free Network Sparsification and Data Reduction by Minimal Algorithmic Information Loss</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.05843">http://arxiv.org/abs/1802.05843</a></p>
+
+<p>作者： Hector Zenil, Narsis A. Kiani, Jesper Tegnér</p>
+
+<p>摘要： 大型复杂数据集或大数据的研究已经成为大多数科学技术领域面临的主要挑战之一。生物学中的细胞和分子网络就是最好的例子之一。此后，已经开发了一些用于降低数据维数的技术，特别是在网络环境中。然而，目前的技术需要一个预定义的度量来减小数据的大小。下面我们就介绍一个家庭的基础上（算法），信息论，旨在尽量减少任何（枚举可计算）的损耗特性有助于对象的算法内容无参数的算法，因此重要的数据降维时的过程中保留迫使该算法首先删除最不重要的特征。独立于任何特定的标准，它们在基本的数学意义上是普遍的。使用次优近似的有效（多项式）估计，我们演示了如何保留网络性能优于其他（领先的）算法以减少网络维数。我们的方法保留了度量分布，聚类系数，边介数，度和特征向量集中度等所有测量的图论指标。我们的结论和数字证明我们的无参数，最小信息损失稀疏化（MILS）方法是强大的，具有最大化的数据和网络上的所有递归可枚举的保存功能的潜力，并实现平等比其他数据减少到显著更好的结果和网络稀疏方法。</p>
+
+<h3 id="引文网络拓扑的多样性">引文网络拓扑的多样性</h3>
+
+<p>原文标题： Diversity from the Topology of Citation Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.06015">http://arxiv.org/abs/1802.06015</a></p>
+
+<p>作者： Vaiva Vasiliauskaite, Tim S. Evans</p>
+
+<p>摘要： 我们研究有向无环图中的传递性及其在捕获节点时的有用性，节点充当这种网络中更密集互连部分之间的桥梁。在传递简化的引文网络中，中心性可以用来衡量跨学科性或多样性。我们研究了度量在随机有向无环图和引用网络中捕获“多样”节点的能力。我们表明，传递减少度中心性能够捕捉“多样”节点，因此这种措施可以是一个及时的替代文本分析技术检索论文，在各种研究领域的影响力。</p>
+
+<h3 id="计算推断的家谱网络揭示了门当户对的长期趋势">计算推断的家谱网络揭示了门当户对的长期趋势</h3>
+
+<p>原文标题： Computationally Inferred Genealogical Networks Uncover Long-Term Trends in Assortative Mating</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.06055">http://arxiv.org/abs/1802.06055</a></p>
+
+<p>作者： Eric Malmi, Aristides Gionis, Arno Solin</p>
+
+<p>摘要： 系谱学网络也被称为家族树或种群谱系，通常由希望了解其祖先的谱系学家研究，但它们也为诸如数字人口统计学，遗传学和计算社会科学等学科提供了有价值的资源。这些网络通常是通过非常耗时的过程手动构建的，这需要手动比较大量的历史记录。我们开发用于自动推断大规模家谱网络的计算方法。与人工构建网络的比较证明了所提出的方法的准确性。为了证明推断的大规模谱系网络的适用性，我们对网络中观察到的交配模式进行纵向分析。这种分析表明，人们选择一个具有相似社会经济地位的配偶的趋势一直存在，这种现象称为门当户对。有趣的是，我们并没有观察到这种趋势在150年的研究时间内持续下降（或增加）。</p>
+
+<h3 id="any-k-标签图中给定时间的top-k树模式检索">Any-k：标签图中给定时间的Top-k树模式检索</h3>
+
+<p>原文标题： Any-k: Anytime Top-k Tree Pattern Retrieval in Labeled Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1802.06060">http://arxiv.org/abs/1802.06060</a></p>
+
+<p>作者： Xiaofeng Yang, Deepak Ajwani, Wolfgang Gatterbauer, Patrick K. Nicholson, Mirek Riedewald, Alessandra Sala</p>
+
+<p>摘要： 推荐系统，社会网络分析，语义搜索和分布式根本原因分析等多个领域的许多问题可以模拟为标记图（也称为“异构信息网络”或HIN）上的模式搜索。给定一个具有节点和边标签约束的大图和查询模式，一个根本的挑战是根据边和节点权重的排序函数找出最前k个匹配。对于用户来说，选择k值很困难。因此，我们提出了任意-k排序算法的新概念：对于给定的时间预算，尽可能多地返回排名最高的结果。然后，如果有更多时间，还可以快速生成下一个较低排名的结果。它可以随时停止，但可能必须继续，直到返回所有结果。本文重点讨论任意标记图上的非循环模式。我们感兴趣的是有效利用（1）异构网络属性的实用算法，特别是对标签的选择性约束，以及（2）用户经常只探索一小部分排名最高的结果。我们的解决方案KARPET小心地集成了利用查询的非循环特性的积极修剪和增量引导式搜索。它使我们能够证明强大的非平凡时间和空间保证，对于这种类型的图搜索问题，这通常被认为是非常困难的。通过实验研究，我们发现KARPET可以在具有数百万个节点和边的大型网络上以树毫秒为单位实现运行时间。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20180219/">https://www.complexly.me/post/20180219/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20180216/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要9篇(2018-02-16)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+            <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
