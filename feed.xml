@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要20篇(2018-02-20)</title>
+      <link>https://www.complexly.me/post/20180220/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180220/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络的快思慢想：氨基酸，神经元和社会网络中互补的&amp;rsquo;精英&amp;rsquo;和&amp;rsquo;群众的智慧&amp;rsquo;;&lt;/li&gt;
+&lt;li&gt;投票偏见和未决定的选民分配：美国总统选举，2004年至2016年;&lt;/li&gt;
+&lt;li&gt;社会影响力的判别模型在事件级联预测与解释中的应用;&lt;/li&gt;
+&lt;li&gt;从相干核开始的对比子图挖掘;&lt;/li&gt;
+&lt;li&gt;德黑兰城市和郊区铁路系统的网络中心性分析;&lt;/li&gt;
+&lt;li&gt;多网络节点表示学习：图对齐情况;&lt;/li&gt;
+&lt;li&gt;用于符号预测的统计链接标签建模：通过联合本地和全局信息来平滑稀疏性;&lt;/li&gt;
+&lt;li&gt;量子决策理论中的量化预测;&lt;/li&gt;
+&lt;li&gt;用节点中心性和分类性能表征节点嵌入算法;&lt;/li&gt;
+&lt;li&gt;使用重力和辐射模型测量可达性;&lt;/li&gt;
+&lt;li&gt;我们读什么，我们搜什么：193个国家的媒体关注和公众关注;&lt;/li&gt;
+&lt;li&gt;D-Semper：为用户兴趣-社交内容建模学习深度语义保留嵌入;&lt;/li&gt;
+&lt;li&gt;属性层级端口图及其应用;&lt;/li&gt;
+&lt;li&gt;你的朋友怎么想？利用友谊悖论的网络高效轮询方法;&lt;/li&gt;
+&lt;li&gt;当羊群进行购物：用自然实验测量产品评级中的羊群效应;&lt;/li&gt;
+&lt;li&gt;时变网络引起的振荡消逝;&lt;/li&gt;
+&lt;li&gt;改进Brandes介数中心性算法;&lt;/li&gt;
+&lt;li&gt;宗教网络中的隔离;&lt;/li&gt;
+&lt;li&gt;无信号交叉口的拥塞分析：不耐烦和马尔可夫排队的影响;&lt;/li&gt;
+&lt;li&gt;环境反馈驱动空间社会困境中的合作;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2018-02-19)</title>
