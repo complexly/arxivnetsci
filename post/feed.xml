@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 20 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2018-02-21)</title>
+      <link>https://www.complexly.me/post/20180221/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180221/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;主稳定性函数揭示了网络中由扩散驱动的模式形成;&lt;/li&gt;
+&lt;li&gt;项目的稳定性：一项实验测试;&lt;/li&gt;
+&lt;li&gt;团队运动中队形结构的表征;&lt;/li&gt;
+&lt;li&gt;挖掘密度对比子图;&lt;/li&gt;
+&lt;li&gt;论意见与在线讨论的复杂性;&lt;/li&gt;
+&lt;li&gt;高阶网络分析工具;&lt;/li&gt;
+&lt;li&gt;无信号交叉口的拥塞分析;&lt;/li&gt;
+&lt;li&gt;简单封闭和高阶链路预测;&lt;/li&gt;
+&lt;li&gt;在线社交系统中的优惠券广告：算法和抽样技术;&lt;/li&gt;
+&lt;li&gt;在线社会网络中发现隐藏的主题中心和权威;&lt;/li&gt;
+&lt;li&gt;人才与运气：成功与失败中随机性的作用;&lt;/li&gt;
+&lt;li&gt;健康保险索赔数据建模的社会网络分析框架;&lt;/li&gt;
+&lt;li&gt;指导社会活动：随机最优控制观点;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要20篇(2018-02-20)</title>
