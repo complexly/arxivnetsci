@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2018-02-23)</title>
+      <link>https://www.complexly.me/post/20180223/</link>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180223/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图和复杂网络中的通信融化;&lt;/li&gt;
+&lt;li&gt;社会网络中的克隆;&lt;/li&gt;
+&lt;li&gt;在Twitter上建模正负情绪的时空变化，以改善局部偏差的识别;&lt;/li&gt;
+&lt;li&gt;可变可再生能源电存储的经济学分析;&lt;/li&gt;
+&lt;li&gt;西方艺术家传记网络中的元数据社区检测;&lt;/li&gt;
+&lt;li&gt;Twitter上的新闻声誉系统：一项大规模研究;&lt;/li&gt;
+&lt;li&gt;为图生成学习超边替代语法;&lt;/li&gt;
+&lt;li&gt;看到森林里的树木？网络知识调查;&lt;/li&gt;
+&lt;li&gt;SCRank：有向社会网络中的垃圾邮件和名人排行榜;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2018-02-22)</title>
