@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2018-02-27)</title>
+      <link>https://www.complexly.me/post/20180227/</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180227/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;计算实验成功预测了超高频股票收益中自相关的出现;&lt;/li&gt;
+&lt;li&gt;“你不是肯尼迪”：媒体评选总统辩论焦点;&lt;/li&gt;
+&lt;li&gt;用于识别NHL选秀中特殊球员的模型树;&lt;/li&gt;
+&lt;li&gt;GraphRNN：图的深度生成模型;&lt;/li&gt;
+&lt;li&gt;多阶段通过社会网络传播信息的有效性;&lt;/li&gt;
+&lt;li&gt;初始条件对复杂网络极化的重要性;&lt;/li&gt;
+&lt;li&gt;N-GCN：半监督节点分类的多尺度图卷积;&lt;/li&gt;
+&lt;li&gt;存在群间抑制的创新扩散模型;&lt;/li&gt;
+&lt;li&gt;流行病在含时活动驱动网络上的最优遏制;&lt;/li&gt;
+&lt;li&gt;解读高频率出生率的波动;&lt;/li&gt;
+&lt;li&gt;我会回来的：关于移动活动跟踪应用程序用户的多元生活;&lt;/li&gt;
+&lt;li&gt;建模相互依赖的和周期性的实际行为序列;&lt;/li&gt;
+&lt;li&gt;有内部和外部噪声的网络中的罕见事件;&lt;/li&gt;
+&lt;li&gt;复杂网络中通过自学获取知识的动态;&lt;/li&gt;
+&lt;li&gt;呼叫中心服务时间是对数正态分布。福克-普朗克描述;&lt;/li&gt;
+&lt;li&gt;空间演化博弈模型中的环境政策规制与企业合规性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-02-26)</title>
