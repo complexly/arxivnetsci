@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-03-05)</title>
+      <link>https://www.complexly.me/post/20180305/</link>
+      <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180305/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络社区结构模型的过拟合与欠拟合评估;&lt;/li&gt;
+&lt;li&gt;社会网络中的影响的高阶单调性和子模性：从局部到全局;&lt;/li&gt;
+&lt;li&gt;RankDCG：秩排序评估度量;&lt;/li&gt;
+&lt;li&gt;利用聚合手机数据理解人类流动情况;&lt;/li&gt;
+&lt;li&gt;NetGAN：通过随机游走生成图;&lt;/li&gt;
+&lt;li&gt;伪分形无标度网络和谢尔宾斯基图形中的独立数和最大独立集的个数;&lt;/li&gt;
+&lt;li&gt;用于可靠统计抽样的稀疏幂律网络模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-03-02)</title>
