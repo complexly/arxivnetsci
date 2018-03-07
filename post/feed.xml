@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 06 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2018-03-07)</title>
+      <link>https://www.complexly.me/post/20180307/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180307/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;局部决定全局：大规模社会网络中有影响力扩散者的识别和量化;&lt;/li&gt;
+&lt;li&gt;美国社会化媒体对极权、党派和垃圾消息的消费;&lt;/li&gt;
+&lt;li&gt;AspEm：异构信息网络不同方面的嵌入学习;&lt;/li&gt;
+&lt;li&gt;语言网络的形态空间;&lt;/li&gt;
+&lt;li&gt;符号网络分割;&lt;/li&gt;
+&lt;li&gt;算法偏差放大了意见偏见：一种有界的置信模型;&lt;/li&gt;
+&lt;li&gt;财富不平等的最优控制动力学模型;&lt;/li&gt;
+&lt;li&gt;识别噪声网络中有影响力的扩散者;&lt;/li&gt;
+&lt;li&gt;种族多样性增加科学影响力;&lt;/li&gt;
+&lt;li&gt;真实与理论网络中的隐藏对称性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-03-06)</title>
