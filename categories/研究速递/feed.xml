@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-03-08)</title>
+      <link>https://www.complexly.me/post/20180308/</link>
+      <pubDate>Thu, 08 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180308/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;量化网络推理中的抽样偏差;&lt;/li&gt;
+&lt;li&gt;噪声网络数据的网络重构和误差估计;&lt;/li&gt;
+&lt;li&gt;影响因素与中心极限定理;&lt;/li&gt;
+&lt;li&gt;N人信任博弈及其复制动力学;&lt;/li&gt;
+&lt;li&gt;MetaGraph2Vec：复杂语义路径增强异构网络嵌入;&lt;/li&gt;
+&lt;li&gt;突发的人类动力学;&lt;/li&gt;
+&lt;li&gt;GPSP：基于图分区和空间投影的异构网络嵌入方法;&lt;/li&gt;
+&lt;li&gt;时间文本网络：基础和结构特性;&lt;/li&gt;
+&lt;li&gt;去激进化的数学模型中的全局稳定性;&lt;/li&gt;
+&lt;li&gt;具有多个连续属性的随机块模型;&lt;/li&gt;
+&lt;li&gt;Facebook直播？现场社交广播是否是真的广播？;&lt;/li&gt;
+&lt;li&gt;模仿或创新：战略更新态度在空间社会困境博弈中的竞争;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2018-03-07)</title>
