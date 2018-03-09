@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 08 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-03-09)</title>
+      <link>https://www.complexly.me/post/20180309/</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180309/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;全球贸易多层网络的嵌套结构组织;&lt;/li&gt;
+&lt;li&gt;图上分段平滑信号的多分辨率表示;&lt;/li&gt;
+&lt;li&gt;固定异构阈值的影响最大化;&lt;/li&gt;
+&lt;li&gt;数字身份：信任和声誉信息对共享经济中用户判断的影响;&lt;/li&gt;
+&lt;li&gt;归一化度差异;&lt;/li&gt;
+&lt;li&gt;基于非回溯中心性的网络随机游走;&lt;/li&gt;
+&lt;li&gt;利用幂律资本分布的动态对加密货币和通证进行分类;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-03-08)</title>
