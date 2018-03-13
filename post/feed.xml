@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 12 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2018-03-13)</title>
+      <link>https://www.complexly.me/post/20180313/</link>
+      <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180313/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;最大化影响传播的预算分配离线和在线模型;&lt;/li&gt;
+&lt;li&gt;代表人类语言和人造语言的文本具有本福德和齐普夫法则共现的特征;&lt;/li&gt;
+&lt;li&gt;网络中的社区互动与冲突;&lt;/li&gt;
+&lt;li&gt;人口密度对流行病的影响;&lt;/li&gt;
+&lt;li&gt;子模超图：p-拉普拉斯算子，Cheeger不等式和谱聚类;&lt;/li&gt;
+&lt;li&gt;一种迭代的全局结构辅助标签网络对齐方法;&lt;/li&gt;
+&lt;li&gt;利用众包数据进行深度主动学习 - 应用：学习Alexa的学习内容;&lt;/li&gt;
+&lt;li&gt;分析网络知识组织系统（NKOS）社区成员之间的网络结构和性别差异;&lt;/li&gt;
+&lt;li&gt;从时空熵的演变中发现用户的人口统计数据;&lt;/li&gt;
+&lt;li&gt;基于局部规则传播的社会网络中基于结构的Sybil检测;&lt;/li&gt;
+&lt;li&gt;文化结构的随机矩阵视角;&lt;/li&gt;
+&lt;li&gt;世界各地传统食谱烹饪模式的数据驱动调查;&lt;/li&gt;
+&lt;li&gt;使用FaceNet面部嵌入分类Tinder上的在线约会资料;&lt;/li&gt;
+&lt;li&gt;基于事件的社会网络中的主题社区检测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-03-12)</title>
