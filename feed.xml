@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 13 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-03-14)</title>
+      <link>https://www.complexly.me/post/20180314/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180314/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;数学的共现单纯复形：识别知识中的孔洞;&lt;/li&gt;
+&lt;li&gt;同时具有局部和全局数据视角的聚类：基于消息传递的方法;&lt;/li&gt;
+&lt;li&gt;相似但不同：挖掘用户对推荐系统的一致性;&lt;/li&gt;
+&lt;li&gt;基于滑动窗张量分解的路网异常检测;&lt;/li&gt;
+&lt;li&gt;社区检测的谱聚类算法分析：一般二部图设置;&lt;/li&gt;
+&lt;li&gt;VERSE：利用相似性度量的多样性图嵌入;&lt;/li&gt;
+&lt;li&gt;在时间网络中检测系统状态的序列;&lt;/li&gt;
+&lt;li&gt;员工和贸易伙伴对公司销售的不对称影响及其动力来源;&lt;/li&gt;
+&lt;li&gt;拓扑结构在功能复杂网络中一直被高估;&lt;/li&gt;
+&lt;li&gt;选区改划的倾斜函数介绍;&lt;/li&gt;
+&lt;li&gt;网络聚类对互助协作性感染的影响;&lt;/li&gt;
+&lt;li&gt;基于大规模营养成分数据的半至严格素食饮食的营养推荐食物;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2018-03-13)</title>
