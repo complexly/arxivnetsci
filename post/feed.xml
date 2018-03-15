@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2018-03-15)</title>
+      <link>https://www.complexly.me/post/20180315/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180315/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;PageRank的闭操作子和垃圾信息阻力;&lt;/li&gt;
+&lt;li&gt;商业周期的内生机制;&lt;/li&gt;
+&lt;li&gt;警告计算社会科学买者：广泛发布的Reddit语料库中的大规模缺失数据;&lt;/li&gt;
+&lt;li&gt;AURORA：在大图上审计PageRank;&lt;/li&gt;
+&lt;li&gt;富信息图中的局部分区;&lt;/li&gt;
+&lt;li&gt;算法社会干预;&lt;/li&gt;
+&lt;li&gt;在传染病建模中使用概率生成函数的入门教程;&lt;/li&gt;
+&lt;li&gt;如何评估Twitter时间排序数据的情感分类器？;&lt;/li&gt;
+&lt;li&gt;建立认知模型的复杂网络框架：揭示连接的相关结构;&lt;/li&gt;
+&lt;li&gt;通过约化的谷歌矩阵来捕捉维基百科地缘政治关系的影响;&lt;/li&gt;
+&lt;li&gt;当莱顿排名中的两所大学进行比较时，可以预期哪些差异？一些制度研究评估的基准;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-03-14)</title>
