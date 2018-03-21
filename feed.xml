@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 20 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2018-03-21)</title>
+      <link>https://www.complexly.me/post/20180321/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180321/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;世界贸易网中的频繁模式分析;&lt;/li&gt;
+&lt;li&gt;GaAN：用于大型时空图学习的门控注意力网络;&lt;/li&gt;
+&lt;li&gt;可持续在线社区在不同规模具有不同的层次结构;&lt;/li&gt;
+&lt;li&gt;劳动力迁移及其经济影响：来自中国社交媒体的视角;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-03-20)</title>
