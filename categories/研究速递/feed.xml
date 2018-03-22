@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 21 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2018-03-22)</title>
+      <link>https://www.complexly.me/post/20180322/</link>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180322/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;间接影响，链接排名和网络解构;&lt;/li&gt;
+&lt;li&gt;探索使用时变图来模拟传输网络;&lt;/li&gt;
+&lt;li&gt;人口金字塔如何被用来探索过去？;&lt;/li&gt;
+&lt;li&gt;调查在线社区内的协作：软件开发VS.艺术创作;&lt;/li&gt;
+&lt;li&gt;随机几何图上的传染病SIR模型：新的迁移率引起的相变;&lt;/li&gt;
+&lt;li&gt;基于模块度的异构网络社区检测;&lt;/li&gt;
+&lt;li&gt;社会网络中新发生的传染病的间接接触影响;&lt;/li&gt;
+&lt;li&gt;社交媒体不会说谎：通过在线异构数据预测2016年台湾选举;&lt;/li&gt;
+&lt;li&gt;Twitter推动运动，Reddit共享时刻：社交媒体的镜头中的“我也是”(#metoo)标签;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2018-03-21)</title>
