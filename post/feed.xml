@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 22 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2018-03-23)</title>
+      <link>https://www.complexly.me/post/20180323/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180323/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;符号网络上基于易感-感染的疾病模型;&lt;/li&gt;
+&lt;li&gt;投票事件期间增强人类在在线交互中的影响;&lt;/li&gt;
+&lt;li&gt;“矩阵”中的生活：网络空间中的人类流动模式;&lt;/li&gt;
+&lt;li&gt;感知中国移民：移动应用程序如何提供对全球移民流量的洞察力;&lt;/li&gt;
+&lt;li&gt;使用社交中心分数的场地建议;&lt;/li&gt;
+&lt;li&gt;多部分病毒传播的数学模型揭示了它们的演化潜力;&lt;/li&gt;
+&lt;li&gt;一种使用网络传播过程的基于信任的推荐方法;&lt;/li&gt;
+&lt;li&gt;计数模型的局部私有贝叶斯推断;&lt;/li&gt;
+&lt;li&gt;在复杂网络中使用词嵌入和社区检测的词感知归纳;&lt;/li&gt;
+&lt;li&gt;YouTube和Pinterest上联盟营销披露的实证研究;&lt;/li&gt;
+&lt;li&gt;2016年美国总统大选期间Twitter上的假新闻影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-03-22)</title>
