@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 28 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2018-03-29)</title>
+      <link>https://www.complexly.me/post/20180329/</link>
+      <pubDate>Thu, 29 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180329/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;弱聚类组织中随机网络的谱;&lt;/li&gt;
+&lt;li&gt;SybilFrame：基于结构的Sybil检测的深度防御框架;&lt;/li&gt;
+&lt;li&gt;Sharenting中的性别偏见：男性和女性在社交媒体上提到儿子往往比女儿多;&lt;/li&gt;
+&lt;li&gt;通过嵌入多人在线战斗竞技场游戏建模游戏头像协同和反对;&lt;/li&gt;
+&lt;li&gt;Graphite：图的迭代生成建模;&lt;/li&gt;
+&lt;li&gt;谢林分离模型中利他主义者的巨大催化效应;&lt;/li&gt;
+&lt;li&gt;灵活的网络嵌入模型;&lt;/li&gt;
+&lt;li&gt;网络流行病学监测哨点的客观度量;&lt;/li&gt;
+&lt;li&gt;基础物理学的文献排名;&lt;/li&gt;
+&lt;li&gt;在Twitter上使用表情皮肤颜色修饰符自我表现;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要24篇(2018-03-28)</title>
@@ -19,7 +41,7 @@
       
       <guid>https://www.complexly.me/post/20180328/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;焦虑，酒精和学者：学生Facebook自白的大规模文本分析;&lt;/li&gt;
+&lt;li&gt;焦虑，酒精和学术：学生Facebook自白的大规模文本分析;&lt;/li&gt;
 &lt;li&gt;推测潜在位置估计同质社会网络中的因果同伴影响;&lt;/li&gt;
 &lt;li&gt;熟悉的陌生人：人类行为的集体规律;&lt;/li&gt;
 &lt;li&gt;在Twitter上表征和检测心怀仇恨的用户;&lt;/li&gt;
