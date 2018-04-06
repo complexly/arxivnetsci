@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 04 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-04-06)</title>
+      <link>https://www.complexly.me/post/20180406/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180406/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;确定符号图的社区结构和模块化指数：发作前和发作后海马深度记录;&lt;/li&gt;
+&lt;li&gt;双层投票系统的影响和妥协;&lt;/li&gt;
+&lt;li&gt;贝叶斯模型用于虚假信息信念影响，优化设计和假新闻遏制;&lt;/li&gt;
+&lt;li&gt;伊辛模型在相互依存网络上的相图和亚稳态;&lt;/li&gt;
+&lt;li&gt;统一演化博弈动态中的适应度和模仿映射;&lt;/li&gt;
+&lt;li&gt;在多层网络中关联模块性最大化和随机块模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-04-04)</title>
