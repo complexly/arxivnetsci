@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-04-09)</title>
+      <link>https://www.complexly.me/post/20180409/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180409/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;双向流中的行人旋转测量;&lt;/li&gt;
+&lt;li&gt;寻找社区族谱：新社区如何从旧社区涌现;&lt;/li&gt;
+&lt;li&gt;适用于规模化图学习的自适应扩散;&lt;/li&gt;
+&lt;li&gt;使用递归神经网络在异步社交媒体流中建模流行性;&lt;/li&gt;
+&lt;li&gt;使用链接的开放数据识别来自Micropost集合的主题;&lt;/li&gt;
+&lt;li&gt;外汇交易和Twitter：垃圾邮件，机器人和信誉操纵;&lt;/li&gt;
+&lt;li&gt;基于维基百科的社交媒体活动分析方法;&lt;/li&gt;
+&lt;li&gt;一个破坏数字社区的简单招数;&lt;/li&gt;
+&lt;li&gt;莫兰过程的相变和算法结果;&lt;/li&gt;
+&lt;li&gt;字符限制如何影响Microposts的风格和成功：Twitter从140字切换到280字的情况;&lt;/li&gt;
+&lt;li&gt;从比特币到比特币现金：网络分析;&lt;/li&gt;
+&lt;li&gt;面向复杂系统的信息几何表征/分类：II. 来自（c，d）流形的临界参数值;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-04-06)</title>
