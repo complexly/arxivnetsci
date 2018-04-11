@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2018-04-11)</title>
+      <link>https://www.complexly.me/post/20180411/</link>
+      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180411/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于Stieltjes矩阵正则化的活动图半监督学习的超模性;&lt;/li&gt;
+&lt;li&gt;我的年龄是什么？使用有影响力的朋友网络和DBpedia预测Twitter用户的年龄;&lt;/li&gt;
+&lt;li&gt;虚假信息网络：谣言、假新闻、恶作剧、钓鱼和各种其他鬼把戏;&lt;/li&gt;
+&lt;li&gt;简明多层网络教程;&lt;/li&gt;
+&lt;li&gt;利用社会媒体家庭暴力话语特征集的意图分类;&lt;/li&gt;
+&lt;li&gt;路径与目的地预测的隐马尔可夫模型;&lt;/li&gt;
+&lt;li&gt;我们能否通过地理标记的Flickr图像预测位置的风景美？;&lt;/li&gt;
+&lt;li&gt;宠物对幸福的影响：使用社会多媒体的大规模多因素分析;&lt;/li&gt;
+&lt;li&gt;时间网络结构对意见动态共识形成速度的影响;&lt;/li&gt;
+&lt;li&gt;挖掘社交媒体进行新闻采访;&lt;/li&gt;
+&lt;li&gt;稀释的行人动态的路径积分表示;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2018-04-10)</title>
