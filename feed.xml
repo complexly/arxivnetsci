@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2018-04-12)</title>
+      <link>https://www.complexly.me/post/20180412/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180412/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;增加聚集性并成长为一个小世界的局部重连算法;&lt;/li&gt;
+&lt;li&gt;基于信息论的全尺度网络比较方法;&lt;/li&gt;
+&lt;li&gt;文本长度对指数的依赖性与词频分布的有限尺度的关系;&lt;/li&gt;
+&lt;li&gt;竞赛模式突出了科学资助的低效率;&lt;/li&gt;
+&lt;li&gt;复杂网络的多尺度动态嵌入;&lt;/li&gt;
+&lt;li&gt;维基项目中的网络结构，效率和表现;&lt;/li&gt;
+&lt;li&gt;OLCPM：在动态社会网络中检测重叠社区的在线框架;&lt;/li&gt;
+&lt;li&gt;科学诺贝尔奖人均收益的实证研究：美国时代即将结束？;&lt;/li&gt;
+&lt;li&gt;分析Twitter上的自动驾驶;&lt;/li&gt;
+&lt;li&gt;关于在Twitter上支持ISIS的阿拉伯话语以及我们可以从中学到的东西;&lt;/li&gt;
+&lt;li&gt;交通灯边界的链路上的交通行为;&lt;/li&gt;
+&lt;li&gt;用网络和语言信息预测Twitter用户的社会经济属性;&lt;/li&gt;
+&lt;li&gt;分析右翼YouTube频道：仇恨，暴力和歧视;&lt;/li&gt;
+&lt;li&gt;比较生物医学研究的科学和技术影响;&lt;/li&gt;
+&lt;li&gt;基于因果推理的社交媒体网络影响力评估;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2018-04-11)</title>
