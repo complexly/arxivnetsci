@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 12 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2018-04-13)</title>
+      <link>https://www.complexly.me/post/20180413/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180413/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;向量空间模型作为文本分类的认知空间;&lt;/li&gt;
+&lt;li&gt;基于流和批数据语义的社交媒体分析;&lt;/li&gt;
+&lt;li&gt;用结构和动态信息预测个体之间的相互作用;&lt;/li&gt;
+&lt;li&gt;学习电影，演员和文学角色的联合高斯表示法;&lt;/li&gt;
+&lt;li&gt;从社交媒体数据中自动推断人的特质和行为;&lt;/li&gt;
+&lt;li&gt;仇恨Lingo：基于目标的社交媒体仇恨言语分析;&lt;/li&gt;
+&lt;li&gt;Cashtag捎带：在Twitter上发现股票微博的垃圾邮件和机器人活动;&lt;/li&gt;
+&lt;li&gt;我会在你身边：一个团中的六个朋友;&lt;/li&gt;
+&lt;li&gt;FIFA和UEFA比赛预选赛的策略证明;&lt;/li&gt;
+&lt;li&gt;社会推广员评分（SPS）和评论网络：一种预测网上购物品牌财务状况的方法和工具;&lt;/li&gt;
+&lt;li&gt;用于本地网络社区检测的生成模型;&lt;/li&gt;
+&lt;li&gt;潜在几何启发的图不相似性增强了复杂网络中的亲和性传播群落检测;&lt;/li&gt;
+&lt;li&gt;个性化的模糊过程;&lt;/li&gt;
+&lt;li&gt;一种新的图生成统计模型：潜在序逻辑（LOLOG）模型;&lt;/li&gt;
+&lt;li&gt;对等仇恨：仇恨言论煽动者及其目标;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2018-04-12)</title>
