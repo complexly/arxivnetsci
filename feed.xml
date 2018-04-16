@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 13 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要3篇(2018-04-16)</title>
+      <link>https://www.complexly.me/post/20180416/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180416/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;从安全论坛挖掘可操作的信息：恶意IP地址的情况;&lt;/li&gt;
+&lt;li&gt;社会物理学：从通信中揭示人类行为;&lt;/li&gt;
+&lt;li&gt;GroupSense：使用智能手机进行群组识别的轻量级框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2018-04-13)</title>
