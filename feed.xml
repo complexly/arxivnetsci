@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2018-04-17)</title>
+      <link>https://www.complexly.me/post/20180417/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180417/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;是或否，你怎么看？加泰罗尼亚独立与社交媒体上的语言认同;&lt;/li&gt;
+&lt;li&gt;挖掘表情符号使用模式与人格的关系;&lt;/li&gt;
+&lt;li&gt;用于检测在Twitter上使用僵尸网络的垃圾信息活动的无监督方法;&lt;/li&gt;
+&lt;li&gt;城市霾和光伏;&lt;/li&gt;
+&lt;li&gt;FSCNMF：通过非负矩阵分解融合结构和内容以嵌入信息网络;&lt;/li&gt;
+&lt;li&gt;Switch 2.0：规划高可再生电力系统的现代平台;&lt;/li&gt;
+&lt;li&gt;多功能产品竞争性多渠道营销的整合框架;&lt;/li&gt;
+&lt;li&gt;伦敦自行车共享网络中的社区结构、互动和动态;&lt;/li&gt;
+&lt;li&gt;基于Levenshtein距离的多维主观旅游信息图像相似度克隆选择算法及交互式GHSOM发现隐藏点;&lt;/li&gt;
+&lt;li&gt;意见分歧揭示了网络社区结构的复杂性;&lt;/li&gt;
+&lt;li&gt;极端主义暴力对线上仇恨言论的影响;&lt;/li&gt;
+&lt;li&gt;现在该来点完全不同的东西了：在线设计师网络中的视觉新奇性;&lt;/li&gt;
+&lt;li&gt;涌现于多个流言级联的重复用户网络;&lt;/li&gt;
+&lt;li&gt;DyLink2Vec：动态网络中链路预测的有效特征表示;&lt;/li&gt;
+&lt;li&gt;用于学习节点潜在表示的演化网络中时间平滑的模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2018-04-16)</title>
