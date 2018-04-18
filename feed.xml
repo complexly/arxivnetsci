@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 17 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-04-18)</title>
+      <link>https://www.complexly.me/post/20180418/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180418/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;部分可观察Twitter网络中的内容污染者实时检测;&lt;/li&gt;
+&lt;li&gt;用于图分类的Walk-Steered卷积;&lt;/li&gt;
+&lt;li&gt;司机和交通的社会行为;&lt;/li&gt;
+&lt;li&gt;超球空间复杂网络的机器学习分析;&lt;/li&gt;
+&lt;li&gt;合作中的潜在结构：以Reddit r/place为例;&lt;/li&gt;
+&lt;li&gt;中心性度量何时欺骗我们;&lt;/li&gt;
+&lt;li&gt;网络中节点的相关性分析识别真实社区;&lt;/li&gt;
+&lt;li&gt;影响社会网络观点的最佳多阶段投资策略;&lt;/li&gt;
+&lt;li&gt;图上的特征传播：图表示学习的新视角;&lt;/li&gt;
+&lt;li&gt;结构化网络和粗粒度描述：动态的视角;&lt;/li&gt;
+&lt;li&gt;邻接矩阵图像表示的网络特征：子图分类的深度/迁移学习;&lt;/li&gt;
+&lt;li&gt;科学家和研究主题的集体注意力;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2018-04-17)</title>
