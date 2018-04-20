@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要8篇(2018-04-20) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+避免公地悲剧的七条规则;
+用非参数Bandits探索部分观测网络;
+网络社区和拓扑变化对社会网络中谐波影响消息传递计算的影响;
+调查多元网络中的负相互作用：一种互信息方法;
+网络上的随机舆论动态：来自部分观察的影响估计;
+核心-边缘网络上二选一动力学的相变;
+使用统计文本分析在社交媒体上识别被损害帐户;
+语义网络中顶点累积相互影响的算法;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要8篇(2018-04-20) - 网络科学研究速递">
+<meta itemprop="description" content="
+避免公地悲剧的七条规则;
+用非参数Bandits探索部分观测网络;
+网络社区和拓扑变化对社会网络中谐波影响消息传递计算的影响;
+调查多元网络中的负相互作用：一种互信息方法;
+网络上的随机舆论动态：来自部分观察的影响估计;
+核心-边缘网络上二选一动力学的相变;
+使用统计文本分析在社交媒体上识别被损害帐户;
+语义网络中顶点累积相互影响的算法;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要8篇(2018-04-20) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20180420/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+避免公地悲剧的七条规则;
+用非参数Bandits探索部分观测网络;
+网络社区和拓扑变化对社会网络中谐波影响消息传递计算的影响;
+调查多元网络中的负相互作用：一种互信息方法;
+网络上的随机舆论动态：来自部分观察的影响估计;
+核心-边缘网络上二选一动力学的相变;
+使用统计文本分析在社交媒体上识别被损害帐户;
+语义网络中顶点累积相互影响的算法;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20180420/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20180420/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要8篇(2018-04-20)</h1>
+
+                  <p class="post-byline">
+                    2018年04月20日 · 2991 字 ·
+                    阅读时间约6分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>避免公地悲剧的七条规则;</li>
+<li>用非参数Bandits探索部分观测网络;</li>
+<li>网络社区和拓扑变化对社会网络中谐波影响消息传递计算的影响;</li>
+<li>调查多元网络中的负相互作用：一种互信息方法;</li>
+<li>网络上的随机舆论动态：来自部分观察的影响估计;</li>
+<li>核心-边缘网络上二选一动力学的相变;</li>
+<li>使用统计文本分析在社交媒体上识别被损害帐户;</li>
+<li>语义网络中顶点累积相互影响的算法;</li>
+</ul>
+
+<p></p>
+
+<h3 id="避免公地悲剧的七条规则">避免公地悲剧的七条规则</h3>
+
+<p>原文标题： Seven rules to avoid the tragedy of the commons</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1804.06984">http://arxiv.org/abs/1804.06984</a></p>
+
+<p>作者： Yohsuke Murase, Seung Ki Baek</p>
+
+<p>摘要： 处于社会困境中的自利球员之间的合作是脆弱的，容易被错误打断。在这项工作中，我们研究重复的$ n $ -person公共货物博弈，并在存在执行错误的情况下寻找一种形成合作纳什均衡的策略，并保证得到的回报不会低于任何公司-players&rsquo;。通过列举$ n = 3 $的战略可能性，我们证明当内存长度$ m $等于三时，这种策略确实存在。这意味着可以公开采用确定性战略来稳定合作对抗错误，避免被剥削的风险。我们进一步表明，对于一般的$ n $  - 人公共物品博弈，$ m \ geq n $是满足上述标准所必需的。</p>
+
+<h3 id="用非参数bandits探索部分观测网络">用非参数Bandits探索部分观测网络</h3>
+
+<p>原文标题： Exploring Partially Observed Networks with Nonparametric Bandits</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1804.07059">http://arxiv.org/abs/1804.07059</a></p>
+
+<p>作者： Kaushalya Madhawa, Tsuyoshi Murata</p>
+
+<p>摘要： 真实世界的网络，如社交和通信网络太大，无法完全观察到。通常部分观察到这样的网络，使得原始网络的网络大小，网络拓扑和节点未知。在本文中，我们将自适应图表探索问题形式化。我们假设我们获得了一个大型网络的不完整快照，并且可以通过查询当前观察到的网络中的节点来发现其他节点。此问题的目标是最大化给定查询预算内观察节点的数量。查询哪一组节点最大化观察网络的大小？我们将这个问题作为一个探索开发问题来提出，并提出一种新的非参数多臂匪（MAB）算法来识别哪些节点被查询。我们的贡献包括：（1）$ i $ KNN-UCB是一种新颖的非参数MAB算法，当手臂出现在向量空间中时，将$ k $  - 最近的邻居UCB应用于设置;（2）提供理论保证$ i $ KNN-UCB算法具有次线性遗憾，并且（3）在合成网络和来自不同域的真实世界网络上应用$ i $ KNN-UCB算法，我们发现与现有基线相比，我们的方法发现多达40％的节点。</p>
+
+<h3 id="网络社区和拓扑变化对社会网络中谐波影响消息传递计算的影响">网络社区和拓扑变化对社会网络中谐波影响消息传递计算的影响</h3>
+
+<p>原文标题： Effects of Network Communities and Topology Changes in Message-Passing Computation of Harmonic Influence in Social Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1804.07093">http://arxiv.org/abs/1804.07093</a></p>
+
+<p>作者： Wilbert Samuel Rossi, Paolo Frasca</p>
+
+<p>摘要： 谐波影响是社会网络中节点重要性的度量，可以通过分布式消息传递算法近似计算。在这个扩展的摘要中，我们看看关于这个算法的两个开放问题。它是如何在真实的社会网络上发挥作用的，社会网络具有复杂的拓扑结构。在算法运行时网络拓扑结构发生变化时它的性能如何？我们分别通过Facebook自我网络和合成网络上的数值实验来回答这两个问题。我们发现社区可以在最终的近似值中引入人工制品，并使算法高估了社区内“地方领导”的重要性。我们还观察到该算法能够平滑地适应拓扑结构的变化。</p>
+
+<h3 id="调查多元网络中的负相互作用-一种互信息方法">调查多元网络中的负相互作用：一种互信息方法</h3>
+
+<p>原文标题： Investigating Negative Interactions in Multiplex Networks: A Mutual Information Approach</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1804.07210">http://arxiv.org/abs/1804.07210</a></p>
+
+<p>作者： Alireza Hajibagheri, Gita Sukthankar</p>
+
+<p>摘要： 许多有趣的现实世界系统被表示为具有多种类型的交互和层之间复杂的依赖性结构的复杂网络。这些相互作用可以被编码为具有价值，具有标记交互的正面链接，例如信任和友谊以及表示不信任或敌意的负面链接。从这些负面交互中提取信息是具有挑战性的，因为标准拓扑度量通常是负面链接形成的不良预测器，特别是在网络层中。在本文中，我们介绍一种基于互信息的方法，使我们能够预测负面和正面的关系。我们的实验表明，SMLP（签名多路复用链路预测）可以利用多路复用网络中的负面关系层来提高链路预测性能。</p>
+
+<h3 id="网络上的随机舆论动态-来自部分观察的影响估计">网络上的随机舆论动态：来自部分观察的影响估计</h3>
+
+<p>原文标题： Randomized opinion dynamics over networks: influence estimation from partial observations</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1804.07220">http://arxiv.org/abs/1804.07220</a></p>
+
+<p>作者： Chiara Ravazzi, Sarah Hojjatinia, Constantino M. Lagoa, Fabrizio Dabbene</p>
+
+<p>摘要： 在本文中，我们提出了一种在稀疏社会网络中估计影响矩阵的技术，其中$ n $个体以八卦方式进行沟通。在每一步中，社会行动者的随机子集都是活跃的，并与随机选择的邻居进行交互。这些观点根据弗里德金和约翰森的机制演变而成，其中个人将他们的信仰更新为他们当前信仰，他们与之互动的主体的信念，以及他们最初的信念或偏见的凸组合。利用最近的向量自回归过程估计结果，我们重构了社会网络拓扑以及从相互作用的部分观察开始的互连强度，从而消除了有限时域技术的一个主要缺点。所提出方法的有效性显示在随机生成网络上。</p>
+
+<h3 id="核心-边缘网络上二选一动力学的相变">核心-边缘网络上二选一动力学的相变</h3>
+
+<p>原文标题： Phase Transition of the 2-Choices Dynamics on Core-Periphery Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1804.07223">http://arxiv.org/abs/1804.07223</a></p>
+
+<p>作者： Emilio Cruciani, Emanuele Natale, André Nusser, Giacomo Scornavacca</p>
+
+<p>摘要： 考虑网络上的以下过程：每个代理最初都拥有观点符号{blue}或\ emph {red};那么，在每一轮中，每个代理人都会看到两个随机邻居，如果两人有相同的意见，代理人会采用它。这个过程被称为“2选择”动态，可以说是社会网络上投票行为最基本的非平凡观点动态建模。尽管表面上看起来很简单，但两种选择只能在具有强扩展性的网络上进行分析 - 根据初始配置的假设将其确定为快速多数共识协议。在这项工作中，我们的目标是通过考虑其在一类具有核心 - 边缘结构的网络上的行为，这是社会网络中众所周知的拓扑假设，来帮助理解2选择动态。简而言之，假定代理的密集连接子集（核心）与网络其余部分（\ emph {外围}）持有不同意见。然后，根据核心与外围之间的切割强度，会发生相变现象：核心的观点在网络的其他部分迅速传播，或者发生亚稳态阶段，这两种观点共存于网络超多项式时间。我们的结果的利益是双重的。一方面，通过将2选择动态看作社会网络中观点之间竞争的简单模型，我们的定理揭示了核心对网络其余部分的影响，这是核心的连通性后者。另一方面，据我们所知，我们提供了第一个分析结果，它显示了一个简单动态的异构行为作为网络结构参数的函数。最后，我们用真实网络上的大量实验来验证我们的理论预测。</p>
+
+<h3 id="使用统计文本分析在社交媒体上识别被损害帐户">使用统计文本分析在社交媒体上识别被损害帐户</h3>
+
+<p>原文标题： Identifying Compromised Accounts on Social Media Using Statistical Text Analysis</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1804.07247">http://arxiv.org/abs/1804.07247</a></p>
+
+<p>作者： Dominic Seyler, Lunan Li, ChengXiang Zhai</p>
+
+<p>摘要： 被损害社交媒体帐户是被第三方（恶意）方劫持的合法用户帐户，并可能导致各种损害。为了控制损害，及早发现此类受损账户非常重要。在这项工作中，我们提出了一个利用统计文本分析来发现受损账户的新颖的通用框架。该框架建立在观察到用户将使用与黑客（或垃圾邮件发送者）使用的语言明显不同的语言时，该帐号被盗用。我们使用该框架开发基于语言建模的特定算法，并使用用户和垃圾邮件发送者的语言模型的相似性作为监督学习设置中的特征来识别受损账户。对超过1.29亿条推文的大型Twitter语料库的评估结果表明了所提出方法的可喜成果。</p>
+
+<h3 id="语义网络中顶点累积相互影响的算法">语义网络中顶点累积相互影响的算法</h3>
+
+<p>原文标题： The Algorithm of Accumulated Mutual Influence of The Vertices in Semantic Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1804.07251">http://arxiv.org/abs/1804.07251</a></p>
+
+<p>作者： Oleh O. Dmytrenko, Dmitry V. Lande</p>
+
+<p>摘要： 在这篇文章中，介绍了计算认知图中顶点相互影响的算法。已经表明，在所提出的算法中，与广泛使用的方法（脉冲方法）相比，没有问题，因为所提出的算法总是给出结果，而不管与加权有向图对应的脉冲过程是稳定与否。根据所提算法的计算结果也不依赖于初始脉冲，反之顶点权重的初始值影响计算结果。与脉冲方法不同，所提出的用于计算顶点的相互影响的算法在增加对应于认知图的相邻矩阵的元素之后不会违反尺度不变性。本文还介绍了该算法在认知地图分析的众多例子中的优势。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20180420/">https://www.complexly.me/post/20180420/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20180419/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要8篇(2018-04-19)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+            <p>Hosted by <a href="https://pages.coding.me" style="font-weight: bold">Coding Pages</a></p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

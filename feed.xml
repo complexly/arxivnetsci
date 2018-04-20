@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 19 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-04-20)</title>
+      <link>https://www.complexly.me/post/20180420/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180420/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;避免公地悲剧的七条规则;&lt;/li&gt;
+&lt;li&gt;用非参数Bandits探索部分观测网络;&lt;/li&gt;
+&lt;li&gt;网络社区和拓扑变化对社会网络中谐波影响消息传递计算的影响;&lt;/li&gt;
+&lt;li&gt;调查多元网络中的负相互作用：一种互信息方法;&lt;/li&gt;
+&lt;li&gt;网络上的随机舆论动态：来自部分观察的影响估计;&lt;/li&gt;
+&lt;li&gt;核心-边缘网络上二选一动力学的相变;&lt;/li&gt;
+&lt;li&gt;使用统计文本分析在社交媒体上识别被损害帐户;&lt;/li&gt;
+&lt;li&gt;语义网络中顶点累积相互影响的算法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2018-04-19)</title>
