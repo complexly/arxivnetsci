@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2018-04-26)</title>
+      <link>https://www.complexly.me/post/20180426/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180426/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;名声的定量测度和统计分布;&lt;/li&gt;
+&lt;li&gt;ImVerde：使用顶点减少的随机游走从不平衡数据中学习网络表示;&lt;/li&gt;
+&lt;li&gt;多样化的用户和活动如何通过社交媒体触发连动行动：Twitter标签活动ILookLikeAnEngineer的经验;&lt;/li&gt;
+&lt;li&gt;实时推断用户类型以协助更加包容的社交媒体行动主义活动;&lt;/li&gt;
+&lt;li&gt;城市体系中网络效应的间接证据;&lt;/li&gt;
+&lt;li&gt;演员属性的构成等同性：佛罗伦萨家庭网络的位置分析;&lt;/li&gt;
+&lt;li&gt;建模城市和网络的协同演化;&lt;/li&gt;
+&lt;li&gt;相互依赖复杂网络上的贿赂博弈;&lt;/li&gt;
+&lt;li&gt;信息在时态网络中的扩散主干;&lt;/li&gt;
+&lt;li&gt;渗流和复杂网络的有效结构;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-04-25)</title>
