@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2018-04-27)</title>
+      <link>https://www.complexly.me/post/20180427/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180427/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用热点定价解决城市地区的拥堵;&lt;/li&gt;
+&lt;li&gt;一种网络核心-边缘检测的非线性谱方法;&lt;/li&gt;
+&lt;li&gt;社会网络融合与挖掘：综述;&lt;/li&gt;
+&lt;li&gt;AbuSniff：针对Facebook上攻击性朋友的自动检测和防御;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2018-04-26)</title>
