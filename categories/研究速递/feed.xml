@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-04-30)</title>
+      <link>https://www.complexly.me/post/20180430/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180430/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过网络分析研究假新闻：检测和适应;&lt;/li&gt;
+&lt;li&gt;股票网络的非线性;&lt;/li&gt;
+&lt;li&gt;拆解效率与网络分形;&lt;/li&gt;
+&lt;li&gt;大人口自治社区中复杂的机构的涌现;&lt;/li&gt;
+&lt;li&gt;SaC2Vec：结构和内容的信息网络表征;&lt;/li&gt;
+&lt;li&gt;部分重叠多路网络中的动态接种;&lt;/li&gt;
+&lt;li&gt;分数网络，新结构;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2018-04-27)</title>
