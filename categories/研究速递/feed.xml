@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2018-05-01)</title>
+      <link>https://www.complexly.me/post/20180501/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180501/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复杂网络上具有独立性的q投票模型的配对近似;&lt;/li&gt;
+&lt;li&gt;不确定图中的条件可靠性;&lt;/li&gt;
+&lt;li&gt;管控正向的复杂网络;&lt;/li&gt;
+&lt;li&gt;用于流行病模拟的城市接触结构：纠正数据驱动方法中的偏差;&lt;/li&gt;
+&lt;li&gt;建模在线时态社区形成;&lt;/li&gt;
+&lt;li&gt;司机有多强攻击性？一个定量分析;&lt;/li&gt;
+&lt;li&gt;葡萄酒和评论：测量和建模Vivino葡萄酒社会网络;&lt;/li&gt;
+&lt;li&gt;实际交通拥堵的无标度弹性;&lt;/li&gt;
+&lt;li&gt;idemetric属性：当大多数距离（几乎）相同;&lt;/li&gt;
+&lt;li&gt;科学与社会中的鸦片：数字;&lt;/li&gt;
+&lt;li&gt;来自Facebook的暴力：孟加拉国的案例研究;&lt;/li&gt;
+&lt;li&gt;MOG：用于图上关系保持聚类的Mapper函数;&lt;/li&gt;
+&lt;li&gt;基于Twitter标签的事件检测方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2018-04-30)</title>
