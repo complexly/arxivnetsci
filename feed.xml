@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-05-08)</title>
+      <link>https://www.complexly.me/post/20180508/</link>
+      <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180508/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;YouTube上的合作：从无监督检测到对视频和频道流行度的影响;&lt;/li&gt;
+&lt;li&gt;社交媒体和营销方面的意见建模;&lt;/li&gt;
+&lt;li&gt;#ILookLikeAnEngineer：使用基于社交媒体的标签活动来更好地理解工程多样性问题;&lt;/li&gt;
+&lt;li&gt;整合社会网络;&lt;/li&gt;
+&lt;li&gt;建模社会网络中的竞争性营销策略;&lt;/li&gt;
+&lt;li&gt;网络上的权力分配博弈：计算问题;&lt;/li&gt;
+&lt;li&gt;记忆对舆论动态的影响;&lt;/li&gt;
+&lt;li&gt;信息在双层网络中传播的双重转换;&lt;/li&gt;
+&lt;li&gt;跨不同网络类别的中心性度量之间的一致性和差异;&lt;/li&gt;
+&lt;li&gt;迭代随机投影的十亿级网络嵌入;&lt;/li&gt;
+&lt;li&gt;网络社区优先级;&lt;/li&gt;
+&lt;li&gt;利用快速神经网络初筛预测电网的连续性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2018-05-07)</title>
