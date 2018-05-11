@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 10 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2018-05-11)</title>
+      <link>https://www.complexly.me/post/20180511/</link>
+      <pubDate>Fri, 11 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180511/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;麦德林帮派对抗的空间动态;&lt;/li&gt;
+&lt;li&gt;hyperdoc2vec：超文本文件的分布式表示;&lt;/li&gt;
+&lt;li&gt;软件工程中的人力资本：概念化人类方面研究的系统映射;&lt;/li&gt;
+&lt;li&gt;搜索建筑，点击军事：比较搜索和导航在维基百科上的作用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2018-05-10)</title>
