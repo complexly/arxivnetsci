@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 11 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-05-14)</title>
+      <link>https://www.complexly.me/post/20180514/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180514/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社交媒体上的情绪驱动的社区分析和检测;&lt;/li&gt;
+&lt;li&gt;Graphlets、node2vec和struc2vec在网络对齐任务中的作用;&lt;/li&gt;
+&lt;li&gt;二模网络中链路预测的最大熵方法;&lt;/li&gt;
+&lt;li&gt;时间网络上新菌株出现的动力学;&lt;/li&gt;
+&lt;li&gt;基于网络的比特币泡沫指标;&lt;/li&gt;
+&lt;li&gt;社会网络和地理：来自外围的观点;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2018-05-11)</title>
