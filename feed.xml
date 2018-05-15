@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2018-05-15)</title>
+      <link>https://www.complexly.me/post/20180515/</link>
+      <pubDate>Tue, 15 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180515/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;系统风险的网络敏感性;&lt;/li&gt;
+&lt;li&gt;使用深度多视角学习Twitter用户地理位置;&lt;/li&gt;
+&lt;li&gt;测量科学广度;&lt;/li&gt;
+&lt;li&gt;推断传递关系的新嵌入式表示和评估协议;&lt;/li&gt;
+&lt;li&gt;网络的智慧：适应性网络如何促进集体智慧;&lt;/li&gt;
+&lt;li&gt;基于信息流模拟的社区检测;&lt;/li&gt;
+&lt;li&gt;复杂系统中层级结构的涌现与演化;&lt;/li&gt;
+&lt;li&gt;CARL：异构网络的内容感知表示学习;&lt;/li&gt;
+&lt;li&gt;混合交通和其他无序流的自驱动粒子模型;&lt;/li&gt;
+&lt;li&gt;用户阻止被认为是有害的？攻击者可控侧的识别社交帐户的通道;&lt;/li&gt;
+&lt;li&gt;现代电力系统需要多大储能？;&lt;/li&gt;
+&lt;li&gt;三次飓风的推特故事：哈维，艾尔玛和玛丽亚;&lt;/li&gt;
+&lt;li&gt;城市形态模型捕捉网络与地域之间的相互作用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-05-14)</title>
