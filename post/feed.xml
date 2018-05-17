@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 16 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-05-17)</title>
+      <link>https://www.complexly.me/post/20180517/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180517/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;银行间市场流动性短缺的流行病传播;&lt;/li&gt;
+&lt;li&gt;无标度网络中基于主体的谣言传播;&lt;/li&gt;
+&lt;li&gt;重构中尺度网络结构;&lt;/li&gt;
+&lt;li&gt;极化之路：极端观点、错误沟通和随机机会如何驱动观点动态;&lt;/li&gt;
+&lt;li&gt;有隐藏和公开表达的意见的投票模型的共识时刻;&lt;/li&gt;
+&lt;li&gt;文献计量学中的批判理性主义和寻找标准（领域标准化）指标;&lt;/li&gt;
+&lt;li&gt;DNS图挖掘中的敏捷偏差分析;&lt;/li&gt;
+&lt;li&gt;将动态网络聚合为一系列图的不变时间标度;&lt;/li&gt;
+&lt;li&gt;多关系网络的结构表示学习;&lt;/li&gt;
+&lt;li&gt;互动传染的模式动态;&lt;/li&gt;
+&lt;li&gt;使用基于图的半监督学习与卷积神经网络对危机相关推文进行分类;&lt;/li&gt;
+&lt;li&gt;通过潜在行为模式推断进行个性化下一兴趣点推荐;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-05-16)</title>
