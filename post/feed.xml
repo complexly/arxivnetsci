@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 17 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-05-18)</title>
+      <link>https://www.complexly.me/post/20180518/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180518/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;理解联盟：社交网站互操作性的分析框架;&lt;/li&gt;
+&lt;li&gt;本福特法则在古典音乐中的涌现;&lt;/li&gt;
+&lt;li&gt;职业转变和轨迹：计算案例研究;&lt;/li&gt;
+&lt;li&gt;恐慌传染和消退动态;&lt;/li&gt;
+&lt;li&gt;利用社会信号改进矩阵分解的项目推荐;&lt;/li&gt;
+&lt;li&gt;通过社会网络分析检测网络威胁：简要综述;&lt;/li&gt;
+&lt;li&gt;简单的活动驱动模型;&lt;/li&gt;
+&lt;li&gt;空间网络集合中大的代数连通性波动意味着来自节点位置信息的预测优势;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-05-17)</title>
