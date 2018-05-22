@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2018-05-22)</title>
+      <link>https://www.complexly.me/post/20180522/</link>
+      <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180522/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;扩散协议控制级联增长吗？;&lt;/li&gt;
+&lt;li&gt;通过标签传播检验节点属性与网络结构的对齐;&lt;/li&gt;
+&lt;li&gt;Twitter上的政治讨论和倾向：2016年意大利宪法公民投票;&lt;/li&gt;
+&lt;li&gt;通过智能设备之间的通信减少电网波动;&lt;/li&gt;
+&lt;li&gt;闭环游走采样器：一种估计大图特征值的有效方法;&lt;/li&gt;
+&lt;li&gt;异构图的半监督学习及其在Facebook新闻馈送中的应用;&lt;/li&gt;
+&lt;li&gt;宗派冲突中激进化的双稳态信念动力学模型;&lt;/li&gt;
+&lt;li&gt;纳入网络循环结构以改善社区检测的新方法;&lt;/li&gt;
+&lt;li&gt;足球比赛中编队的分类算法;&lt;/li&gt;
+&lt;li&gt;你喜欢我喜欢的东西吗？基于接近度的移动社会网络的相似性估计;&lt;/li&gt;
+&lt;li&gt;解剖信任网络：比特币场外交易市场;&lt;/li&gt;
+&lt;li&gt;探索与控制结构的规则性：网络重构的视角;&lt;/li&gt;
+&lt;li&gt;停电统计的负荷依赖性;&lt;/li&gt;
+&lt;li&gt;极化排名：Facebook上欧洲新闻研究;&lt;/li&gt;
+&lt;li&gt;女性稍微比男性更合作一点（在线单次囚徒困境博弈）;&lt;/li&gt;
+&lt;li&gt;Delaunay三角剖分的度分布;&lt;/li&gt;
+&lt;li&gt;“您知道该怎么做”：主动侦测以协调仇恨攻击为目标的YouTube视频;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2018-05-21)</title>
