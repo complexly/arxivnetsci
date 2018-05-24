@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2018-05-24)</title>
+      <link>https://www.complexly.me/post/20180524/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180524/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;成对阈值图;&lt;/li&gt;
+&lt;li&gt;时变传输速率对多元网络流行病与感知耦合动力学的影响;&lt;/li&gt;
+&lt;li&gt;不平等的稳定婚姻问题;&lt;/li&gt;
+&lt;li&gt;二分匹配问题中的竞争;&lt;/li&gt;
+&lt;li&gt;用于从Web上自动提取段落的阿拉伯语问题的逻辑表示;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2018-05-23)</title>
