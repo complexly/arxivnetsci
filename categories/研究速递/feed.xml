@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2018-05-29)</title>
+      <link>https://www.complexly.me/post/20180529/</link>
+      <pubDate>Tue, 29 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180529/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用局部信息估计图的壳指数;&lt;/li&gt;
+&lt;li&gt;人类迁徙的广义引力模型;&lt;/li&gt;
+&lt;li&gt;NetSim  - 复杂网络生成器框架;&lt;/li&gt;
+&lt;li&gt;n个作者出版物的价值和功劳;&lt;/li&gt;
+&lt;li&gt;多稀疏网络的谱聚类：I;&lt;/li&gt;
+&lt;li&gt;通过社会传感器了解和监测贩卖人口：一种社会学方法;&lt;/li&gt;
+&lt;li&gt;NetLSD：听到图的形状;&lt;/li&gt;
+&lt;li&gt;两极分化如何提高了高排名影响者间的内容传播;&lt;/li&gt;
+&lt;li&gt;用于失踪人士推文识别的r实例学习;&lt;/li&gt;
+&lt;li&gt;用于社群检测问题的随机鲁棒矩阵补全;&lt;/li&gt;
+&lt;li&gt;动态网络中潜在节点群成员的泊松Gamma概率模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2018-05-28)</title>
