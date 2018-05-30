@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 29 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2018-05-30)</title>
+      <link>https://www.complexly.me/post/20180530/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180530/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;DynGEM：动态图的深度学习嵌入方法;&lt;/li&gt;
+&lt;li&gt;用于非竞争性和竞争性影响传播的基于信任的动态线性阈值模型;&lt;/li&gt;
+&lt;li&gt;分布式随机梯度跟踪方法;&lt;/li&gt;
+&lt;li&gt;关联但隔离：农村社会网络;&lt;/li&gt;
+&lt;li&gt;非重叠社区检测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2018-05-29)</title>
