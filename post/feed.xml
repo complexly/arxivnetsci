@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-05-31)</title>
+      <link>https://www.complexly.me/post/20180531/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180531/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;气候变化对成本最优的高度可再生欧洲电力网络的影响;&lt;/li&gt;
+&lt;li&gt;快速增量冯诺依曼图熵计算：理论，算法和应用;&lt;/li&gt;
+&lt;li&gt;来自随机游走时间序列的相关网络;&lt;/li&gt;
+&lt;li&gt;信号化交叉口行人行为的决策过程：第1部分。第一个走下路肩的行人;&lt;/li&gt;
+&lt;li&gt;信号交叉口行人行为的决策过程：第2部分。行人是否表现出文化聚群行为？;&lt;/li&gt;
+&lt;li&gt;驴象之争和上校博弈;&lt;/li&gt;
+&lt;li&gt;以太坊交易网络中的社交信号;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2018-05-30)</title>
