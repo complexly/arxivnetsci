@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 31 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2018-06-01)</title>
+      <link>https://www.complexly.me/post/20180601/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180601/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;机器学习如何预测社交媒体用户的人口统计特征？;&lt;/li&gt;
+&lt;li&gt;有噪音环境中具有异质节点影响的级联中心性;&lt;/li&gt;
+&lt;li&gt;分析出现模式并从手机数据中分割用户位置;&lt;/li&gt;
+&lt;li&gt;不合作社会的联合促进合作的演变;&lt;/li&gt;
+&lt;li&gt;大规模复杂网络中的高质量不相交和重叠社群结构;&lt;/li&gt;
+&lt;li&gt;QuickIM：十亿级网络的高效，准确和鲁棒影响最大化算法;&lt;/li&gt;
+&lt;li&gt;评估多路网络中的多样性;&lt;/li&gt;
+&lt;li&gt;HOPF：深度协同分类的高阶传播框架;&lt;/li&gt;
+&lt;li&gt;噪音中的结构：精神错误会产生事件的抽象表征;&lt;/li&gt;
+&lt;li&gt;排名算法在成长网络中的长期影响;&lt;/li&gt;
+&lt;li&gt;从边缘网络社区看模因的起源;&lt;/li&gt;
+&lt;li&gt;融合图卷积网络;&lt;/li&gt;
+&lt;li&gt;改划选区指标的比较;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2018-05-31)</title>
@@ -22,7 +47,7 @@
 &lt;li&gt;气候变化对成本最优的高度可再生欧洲电力网络的影响;&lt;/li&gt;
 &lt;li&gt;快速增量冯诺依曼图熵计算：理论，算法和应用;&lt;/li&gt;
 &lt;li&gt;来自随机游走时间序列的相关网络;&lt;/li&gt;
-&lt;li&gt;信号化交叉口行人行为的决策过程：第1部分。第一个走下路肩的行人;&lt;/li&gt;
+&lt;li&gt;信号交叉口行人行为的决策过程：第1部分。第一个走下路肩的行人;&lt;/li&gt;
 &lt;li&gt;信号交叉口行人行为的决策过程：第2部分。行人是否表现出文化聚群行为？;&lt;/li&gt;
 &lt;li&gt;驴象之争和上校博弈;&lt;/li&gt;
 &lt;li&gt;以太坊交易网络中的社交信号;&lt;/li&gt;
