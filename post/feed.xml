@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2018-06-04)</title>
+      <link>https://www.complexly.me/post/20180604/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180604/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复杂传染的最优模块性;&lt;/li&gt;
+&lt;li&gt;抗精神病药物对脑功能网络社区结构的影响;&lt;/li&gt;
+&lt;li&gt;PageRank分布的阻尼效应;&lt;/li&gt;
+&lt;li&gt;基于分布式并行系统的学术期刊同行评审效果分析;&lt;/li&gt;
+&lt;li&gt;动员特朗普列车：理解政治巨魔社区的集体行动;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2018-06-01)</title>
