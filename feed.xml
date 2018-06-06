@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2018-06-06)</title>
+      <link>https://www.complexly.me/post/20180606/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180606/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;有向粒子运动的随机和粗粒化二维建模;&lt;/li&gt;
+&lt;li&gt;将疾病理解为异质性增加：一个复杂网络计算框架;&lt;/li&gt;
+&lt;li&gt;使用质量指标的双变量图的复杂网络中社区结构的经验表征;&lt;/li&gt;
+&lt;li&gt;向量空间查询复杂网络;&lt;/li&gt;
+&lt;li&gt;特征网络;&lt;/li&gt;
+&lt;li&gt;脑同步，一个虚假的朋友;&lt;/li&gt;
+&lt;li&gt;预测新场地的时间活动模式;&lt;/li&gt;
+&lt;li&gt;PyPSA-Eur：欧洲传输系统的开放优化模型;&lt;/li&gt;
+&lt;li&gt;使用节点对抽样的分层图聚类;&lt;/li&gt;
+&lt;li&gt;通过随机游走采样估计最短路径长度分布;&lt;/li&gt;
+&lt;li&gt;城市形态分析中的平面性和街道网络表征;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2018-06-05)</title>
