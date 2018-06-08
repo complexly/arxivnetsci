@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2018-06-08)</title>
+      <link>https://www.complexly.me/post/20180608/</link>
+      <pubDate>Fri, 08 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180608/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图结构化数据的对抗攻击;&lt;/li&gt;
+&lt;li&gt;Twitter上的预测分析：技术和应用;&lt;/li&gt;
+&lt;li&gt;模拟电网的随机动力学和级联故障;&lt;/li&gt;
+&lt;li&gt;随机块模型是一个离散表面张力问题;&lt;/li&gt;
+&lt;li&gt;欧洲低碳电力情景下基于流量的存储使用情况分析;&lt;/li&gt;
+&lt;li&gt;澳大利亚流行性感冒的时空动态和同步分析：基于主体的建模方法;&lt;/li&gt;
+&lt;li&gt;谱网络嵌入：一种利用稀疏性的快速可扩展方法;&lt;/li&gt;
+&lt;li&gt;对称性在非理性选择中的作用;&lt;/li&gt;
+&lt;li&gt;多渠道社交签名和自我网络的持续特征;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2018-06-07)</title>
