@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-06-11)</title>
+      <link>https://www.complexly.me/post/20180611/</link>
+      <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180611/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用最小个体误差函数去除算法歧视;&lt;/li&gt;
+&lt;li&gt;大型自行车共享网络中动态自行车再平衡的综合框架;&lt;/li&gt;
+&lt;li&gt;在贝叶斯事实发现中使用社会网络信息;&lt;/li&gt;
+&lt;li&gt;加速行人和粒状瓶颈堵塞流的反直觉方式：“更多”能够更快地逃生吗？;&lt;/li&gt;
+&lt;li&gt;破坏随机网络中k核的最小集;&lt;/li&gt;
+&lt;li&gt;扩散图和图上信号处理的统一视角;&lt;/li&gt;
+&lt;li&gt;神经图像研究的景观;&lt;/li&gt;
+&lt;li&gt;图上随机最优运输：框架和新距离度量;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-06-08)</title>
