@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 12 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-06-13)</title>
+      <link>https://www.complexly.me/post/20180613/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180613/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过手机元数据分析旅游动态和特殊事件;&lt;/li&gt;
+&lt;li&gt;齐夫定律，无限复杂性和开放式演化;&lt;/li&gt;
+&lt;li&gt;从二进制数据构建社会网络;&lt;/li&gt;
+&lt;li&gt;群集实现随机优化中更快的收敛;&lt;/li&gt;
+&lt;li&gt;关于随机块模型的普适性;&lt;/li&gt;
+&lt;li&gt;基于Agent的社会物理模型;&lt;/li&gt;
+&lt;li&gt;二部图分析可用于揭示复杂系统中的集群化;&lt;/li&gt;
+&lt;li&gt;认知棱镜中的社会网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2018-06-12)</title>
