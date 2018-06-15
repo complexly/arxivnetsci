@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-06-15)</title>
+      <link>https://www.complexly.me/post/20180615/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180615/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;虚假新闻挑战立场检测任务的回顾性分析;&lt;/li&gt;
+&lt;li&gt;由自组织临界动力学形成分形网络的简单模型;&lt;/li&gt;
+&lt;li&gt;社交媒体上基于密度的改进空间 - 文本聚类;&lt;/li&gt;
+&lt;li&gt;状态最大化作为网络独裁者博弈中公平的来源;&lt;/li&gt;
+&lt;li&gt;检测有统计学意义的社区;&lt;/li&gt;
+&lt;li&gt;具有非重叠社区结构的网络的免疫;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要1篇(2018-06-14)</title>
