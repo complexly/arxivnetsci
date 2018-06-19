@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-06-19)</title>
+      <link>https://www.complexly.me/post/20180619/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180619/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;重温非渐进影响模型：可扩展影响最大化;&lt;/li&gt;
+&lt;li&gt;科学共同体网络的转换现象建模;&lt;/li&gt;
+&lt;li&gt;群集网络成对模型中的流行阈值：闭合和快速相关;&lt;/li&gt;
+&lt;li&gt;基于梯度提升树的新浪微博谣言检测方法;&lt;/li&gt;
+&lt;li&gt;离线点对点金融网络的结构和演变;&lt;/li&gt;
+&lt;li&gt;球员动态强度的动力学Elo评分模型;&lt;/li&gt;
+&lt;li&gt;在复杂网络上由流行病传播引起的集体行为的反馈牵制控制;&lt;/li&gt;
+&lt;li&gt;包含主臂和两个分支的网络通道中的物质流;&lt;/li&gt;
+&lt;li&gt;Newcomb-Benford定律的变种;&lt;/li&gt;
+&lt;li&gt;国际移民的网络分析;&lt;/li&gt;
+&lt;li&gt;运输网络上多包去中心化导航;&lt;/li&gt;
+&lt;li&gt;“你是什么类型？”使用组合多视图嵌入的大麻相关通信中用户类型的情景化分类;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-06-18)</title>
