@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2018-06-21)</title>
+      <link>https://www.complexly.me/post/20180621/</link>
+      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180621/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;未来英国风力机组可能上限的两种不同建模方法;&lt;/li&gt;
+&lt;li&gt;在极端事件中个人更频繁地发送推特：社交传染的理想机制;&lt;/li&gt;
+&lt;li&gt;复杂网络上的权重阈值;&lt;/li&gt;
+&lt;li&gt;监护人的兴起：打击假新闻的事实核查网址推荐;&lt;/li&gt;
+&lt;li&gt;普适在线社会网络（POSNs）的安全性调查;&lt;/li&gt;
+&lt;li&gt;从微博中提取新闻事件;&lt;/li&gt;
+&lt;li&gt;个性化PageRank平均场分析及其对局部图聚类的影响;&lt;/li&gt;
+&lt;li&gt;程式化创新：查询增量可用的随机词典;&lt;/li&gt;
+&lt;li&gt;偏微分方程方法来击败党派的改划选区;&lt;/li&gt;
+&lt;li&gt;如何最大限度地发挥社会影响力：一个综述;&lt;/li&gt;
+&lt;li&gt;使用表情符号共现网络图学习表情符号嵌入;&lt;/li&gt;
+&lt;li&gt;带有增加和删除节点的演化债务人 - 债权人关系网络：P2P借贷案例;&lt;/li&gt;
+&lt;li&gt;利用核心-边缘结构预测时变网络中的高中心性节点;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2018-06-20)</title>
