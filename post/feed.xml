@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2018-06-22)</title>
+      <link>https://www.complexly.me/post/20180622/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180622/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;异构复杂系统波动行为的普遍性的偏离揭示了组件的固有属性：国际货币市场为例;&lt;/li&gt;
+&lt;li&gt;在图中搜索单个社区;&lt;/li&gt;
+&lt;li&gt;通过特征向量和聚类分析进行街道网络拓扑特征描述;&lt;/li&gt;
+&lt;li&gt;使用潜变量概率图语法生成更好的图;&lt;/li&gt;
+&lt;li&gt;重构具有未知和异质性错误的网络;&lt;/li&gt;
+&lt;li&gt;潜在异质多层社区检测;&lt;/li&gt;
+&lt;li&gt;应对产品需求的变化：搜索排名转化率（CR）预测应用;&lt;/li&gt;
+&lt;li&gt;国际足联动态网络排名：替换不准确、有偏见和可利用的足球排名系统;&lt;/li&gt;
+&lt;li&gt;在线请愿的数据挖掘以及结果：Avaaz.org上的一份请愿书数据库;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2018-06-21)</title>
