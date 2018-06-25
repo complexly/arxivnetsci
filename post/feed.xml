@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 22 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-06-25)</title>
+      <link>https://www.complexly.me/post/20180625/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180625/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于段落的复杂网络：应用于文件分类和真实性验证;&lt;/li&gt;
+&lt;li&gt;MOOC讨论论坛的个性化主题推荐;&lt;/li&gt;
+&lt;li&gt;这可能会导致任何球队都不想赢：欧洲足联最近的一项资格准则的缺陷;&lt;/li&gt;
+&lt;li&gt;一种新的同行评审方法的仿真研究;&lt;/li&gt;
+&lt;li&gt;交付大型工程系统时的团队动态;&lt;/li&gt;
+&lt;li&gt;相关矩阵的配置模型;&lt;/li&gt;
+&lt;li&gt;策略主体的谢林隔离;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-06-22)</title>
