@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 29 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-07-02)</title>
+      <link>https://www.complexly.me/post/20180702/</link>
+      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180702/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;领导者、追随者和社区检测;&lt;/li&gt;
+&lt;li&gt;一种研究表达和私人意见差异的影响网络模型;&lt;/li&gt;
+&lt;li&gt;思而后行还是行而后思？;&lt;/li&gt;
+&lt;li&gt;顽固Agent的意见动态;&lt;/li&gt;
+&lt;li&gt;生成连通的随机图;&lt;/li&gt;
+&lt;li&gt;在Twitter上使用混合CNN和RNN模型进行假新闻识别;&lt;/li&gt;
+&lt;li&gt;团队装配机制和墨西哥国家老年医学研究所产生的知识：网络分析和基于主体的建模方法;&lt;/li&gt;
+&lt;li&gt;社会传染的共同扩散;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2018-06-29)</title>
