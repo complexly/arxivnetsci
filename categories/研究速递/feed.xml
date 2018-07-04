@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 03 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-07-04)</title>
+      <link>https://www.complexly.me/post/20180704/</link>
+      <pubDate>Wed, 04 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180704/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;带有三元闭合的共演化非线性投票模型;&lt;/li&gt;
+&lt;li&gt;使用Kappa指数和F-Score代替归一化互信息评估社区结构;&lt;/li&gt;
+&lt;li&gt;社会网络中可扩展的错误信息预防;&lt;/li&gt;
+&lt;li&gt;链路持久性和多层网络中的条件距离;&lt;/li&gt;
+&lt;li&gt;动态网络上的意见形成：识别党派回声室出现的条件;&lt;/li&gt;
+&lt;li&gt;使用维基百科网络的约化Google矩阵评估世界画家的互动和影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-07-03)</title>
