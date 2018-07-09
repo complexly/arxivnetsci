@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要3篇(2018-07-09)</title>
+      <link>https://www.complexly.me/post/20180709/</link>
+      <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180709/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在相依网络中阻止故障级联的策略;&lt;/li&gt;
+&lt;li&gt;城市尺度规律的演变：来自巴西的证据;&lt;/li&gt;
+&lt;li&gt;EPIC：经济假设的独立级联模型下的福利最大化;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要2篇(2018-07-06)</title>
