@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2018-07-10)</title>
+      <link>https://www.complexly.me/post/20180710/</link>
+      <pubDate>Tue, 10 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180710/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;WhatsApp，Doc？对WhatsApp公共群数据的简要分析;&lt;/li&gt;
+&lt;li&gt;使用贝叶斯网络更新条件/事件网络的概率知识;&lt;/li&gt;
+&lt;li&gt;动态航空网络中的子图和模体;&lt;/li&gt;
+&lt;li&gt;医疗记录中的文本到主题：无监督的图分割方法;&lt;/li&gt;
+&lt;li&gt;Core2Vec：网络的核心保留特征学习框架;&lt;/li&gt;
+&lt;li&gt;社会网络中的随机优惠券探测;&lt;/li&gt;
+&lt;li&gt;虚拟物品赌博行为分析;&lt;/li&gt;
+&lt;li&gt;社会网络辅助抄袭检测;&lt;/li&gt;
+&lt;li&gt;沮丧的出现标志着系统性风险;&lt;/li&gt;
+&lt;li&gt;计算网络中优化社区的统计显著性;&lt;/li&gt;
+&lt;li&gt;城市节奏的时空变化：犯罪的行波;&lt;/li&gt;
+&lt;li&gt;随机块模型上的合作演化;&lt;/li&gt;
+&lt;li&gt;稀疏网络Beta中性到左模型的抽样和推理;&lt;/li&gt;
+&lt;li&gt;表征时间序列网络图的复杂性：一种简单的方法;&lt;/li&gt;
+&lt;li&gt;时间网络中的相关突发减缓了传播;&lt;/li&gt;
+&lt;li&gt;在反对者的影响下嘈杂的选民模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2018-07-09)</title>
