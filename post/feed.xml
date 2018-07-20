@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2018-07-20)</title>
+      <link>https://www.complexly.me/post/20180720/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180720/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;对中世纪医学文本进行数据挖掘揭示了成分选择中的模式，这些模式反映了针对特定感染的致病因子的生物活性;&lt;/li&gt;
+&lt;li&gt;您倾向于发布什么样的内容？推特用户的多主题偏好模型;&lt;/li&gt;
+&lt;li&gt;搜索网络的模块;&lt;/li&gt;
+&lt;li&gt;防止对基于AI的威胁情报系统的下毒攻击;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-07-19)</title>
