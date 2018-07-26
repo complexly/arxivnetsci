@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-07-26)</title>
+      <link>https://www.complexly.me/post/20180726/</link>
+      <pubDate>Thu, 26 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180726/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;交通流演化动力学的一般研究框架及其性质分析;&lt;/li&gt;
+&lt;li&gt;恐怖分子网络的涌现性质、渗流与社会叙事;&lt;/li&gt;
+&lt;li&gt;使用分类器估计在线社会网络中的组属性;&lt;/li&gt;
+&lt;li&gt;在没有排序或集聚经济的情况下提高规模报酬;&lt;/li&gt;
+&lt;li&gt;用于研究社交媒体中极化政治事件的用户建模流程;&lt;/li&gt;
+&lt;li&gt;使用SVD和k-means增强社会网络中事件检测的关键字关联：Twitter案例研究;&lt;/li&gt;
+&lt;li&gt;利用扰动和合并在现实世界网络中识别有影响力的传播者;&lt;/li&gt;
+&lt;li&gt;非回溯循环拓扑视角的图距离;&lt;/li&gt;
+&lt;li&gt;有上下文的随机块模型;&lt;/li&gt;
+&lt;li&gt;三种超图特征向量中心性;&lt;/li&gt;
+&lt;li&gt;语言中带上情绪会让你感觉更好吗？从在线数据中测量情绪的分钟级动态;&lt;/li&gt;
+&lt;li&gt;容易被错误的信息影响？去核查！;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2018-07-25)</title>
