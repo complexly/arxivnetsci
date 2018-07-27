@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 26 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-07-27)</title>
+      <link>https://www.complexly.me/post/20180727/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180727/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;统计验证的领先-延迟网络和外汇市场的库存预测;&lt;/li&gt;
+&lt;li&gt;弱连通有向图上的扩散和共识;&lt;/li&gt;
+&lt;li&gt;使用经过验证的再分析数据来研究欧洲国家在高渗透水平下光伏系统配置的影响;&lt;/li&gt;
+&lt;li&gt;基于SVD的智能能源系统中时间序列数据的可视化和近似;&lt;/li&gt;
+&lt;li&gt;面向数据的供水管网流量和流向实时估算算法;&lt;/li&gt;
+&lt;li&gt;社会联系引发文化契约：来自社会和语义网络的双曲线嵌入的证据;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-07-26)</title>
