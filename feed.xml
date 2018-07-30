@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-07-30)</title>
+      <link>https://www.complexly.me/post/20180730/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180730/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;电网系统吸引盆地的多稳态性和变化;&lt;/li&gt;
+&lt;li&gt;一种新的稳定的经济复杂算法;&lt;/li&gt;
+&lt;li&gt;基于学习偏好和可靠性的众包任务推荐;&lt;/li&gt;
+&lt;li&gt;宏观经济模型的最大熵网络重构;&lt;/li&gt;
+&lt;li&gt;DeepLink：一种基于深度学习的新型链路预测框架;&lt;/li&gt;
+&lt;li&gt;具有非均匀度量的有限网络中的时间连通性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-07-27)</title>
