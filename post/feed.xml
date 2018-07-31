@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-07-31)</title>
+      <link>https://www.complexly.me/post/20180731/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180731/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有非单调发病率、基于网络的SIRS流行病模型的全局稳定性;&lt;/li&gt;
+&lt;li&gt;大量个体自激发信息扩散过程的渐近行为;&lt;/li&gt;
+&lt;li&gt;手机天线分布的点过程模型;&lt;/li&gt;
+&lt;li&gt;重建飓风艾玛（2017年）期间佛罗里达的交通流量;&lt;/li&gt;
+&lt;li&gt;难追踪冲突的社会物理学：三组动力学;&lt;/li&gt;
+&lt;li&gt;马尔可夫模型捕捉人类移动临界性的能力缺失;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-07-30)</title>
