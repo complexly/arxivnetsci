@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2018-08-02)</title>
+      <link>https://www.complexly.me/post/20180802/</link>
+      <pubDate>Thu, 02 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180802/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过添加链接来改善节点的介数中心性;&lt;/li&gt;
+&lt;li&gt;PopRank：Facebook上对页面的影响和用户参与度进行排名;&lt;/li&gt;
+&lt;li&gt;模块化的层级和幂律小世界网络对于最小的首次通过时间和覆盖时间为结构最优;&lt;/li&gt;
+&lt;li&gt;重新审视1789-1919英国小说;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2018-08-01)</title>
