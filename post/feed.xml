@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 02 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-08-03)</title>
+      <link>https://www.complexly.me/post/20180803/</link>
+      <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180803/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于通信网络同质性的用户人口统计属性推断;&lt;/li&gt;
+&lt;li&gt;Traj2User：利用嵌入来计算用户移动行为的相似性;&lt;/li&gt;
+&lt;li&gt;城市空间秩序：街道网络方向、配置和熵;&lt;/li&gt;
+&lt;li&gt;面对面互动网络中的相似力和反复组分;&lt;/li&gt;
+&lt;li&gt;信念驱动的社会隔离的网络模型;&lt;/li&gt;
+&lt;li&gt;识别社交媒体中的外生和内生活动;&lt;/li&gt;
+&lt;li&gt;复杂网络中渗流理论的最新进展;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2018-08-02)</title>
