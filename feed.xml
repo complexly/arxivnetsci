@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 03 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-08-06)</title>
+      <link>https://www.complexly.me/post/20180806/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180806/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;评估搜索引擎并定义共识实施;&lt;/li&gt;
+&lt;li&gt;在无标度网络上通过运动感染因子传播流行病的激活阈值;&lt;/li&gt;
+&lt;li&gt;基于球形同胚几何的小世界模型;&lt;/li&gt;
+&lt;li&gt;社会网络的对抗性协调;&lt;/li&gt;
+&lt;li&gt;行业，职业和地点特定知识在新企业生存中的作用;&lt;/li&gt;
+&lt;li&gt;EGBTER：在单个随机图模型中刻画度分布，聚类系数和社区结构;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2018-08-03)</title>
