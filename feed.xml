@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 06 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2018-08-07)</title>
+      <link>https://www.complexly.me/post/20180807/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180807/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;物理学家研究社会经济不平等的方法：人类可以被建模为原子吗？;&lt;/li&gt;
+&lt;li&gt;网络动力学中的对抗现象;&lt;/li&gt;
+&lt;li&gt;齿轮旋转相同和不变卷积神经网络系统;&lt;/li&gt;
+&lt;li&gt;通过优化连通性和理性来缓解Kuramoto困境;&lt;/li&gt;
+&lt;li&gt;CredSaT：包含语义分析和时间因素的大型社交数据用户可信度排名;&lt;/li&gt;
+&lt;li&gt;圆形对映实验中行人动力学研究;&lt;/li&gt;
+&lt;li&gt;有长程连接的高感染性空间SIRS的同步和消除;&lt;/li&gt;
+&lt;li&gt;交通拥堵动态的分段描述;&lt;/li&gt;
+&lt;li&gt;用语言线索分析社会运动;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-08-06)</title>
