@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2018-08-08)</title>
+      <link>https://www.complexly.me/post/20180808/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180808/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;有向随机几何图;&lt;/li&gt;
+&lt;li&gt;流平滑和去噪：边空间中的图信号处理;&lt;/li&gt;
+&lt;li&gt;社会影响力的概率因果分析;&lt;/li&gt;
+&lt;li&gt;社交媒体中的隐私：识别，适应和应用;&lt;/li&gt;
+&lt;li&gt;Erdos-Renyi随机图的模块性;&lt;/li&gt;
+&lt;li&gt;集群网络中的可观察性转换;&lt;/li&gt;
+&lt;li&gt;讨论是如何进行的：社交媒体对话中的话语行为分类;&lt;/li&gt;
+&lt;li&gt;粘附诱导的不连续转变和社会网络分类;&lt;/li&gt;
+&lt;li&gt;基于物理的行人成对交互建模和数据表示;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-08-07)</title>
