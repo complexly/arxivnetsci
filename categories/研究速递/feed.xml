@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 14 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2018-08-15)</title>
+      <link>https://www.complexly.me/post/20180815/</link>
+      <pubDate>Wed, 15 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180815/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在Reddit中提取社区间冲突;&lt;/li&gt;
+&lt;li&gt;你不应憎恨：反对网上仇恨言论;&lt;/li&gt;
+&lt;li&gt;通过子图发现和分解进行大图探索;&lt;/li&gt;
+&lt;li&gt;社交媒体和移动性格局：利用多源数据揭示城市人类移动的空间模式;&lt;/li&gt;
+&lt;li&gt;全球班轮运输网络中的多尺度核心-边缘结构;&lt;/li&gt;
+&lt;li&gt;基于K跳随机游走的异构网络嵌入网络采样;&lt;/li&gt;
+&lt;li&gt;光之海：实用的设备到设备安全在黑暗中升级;&lt;/li&gt;
+&lt;li&gt;人与社会系统的普遍性和尺度律;&lt;/li&gt;
+&lt;li&gt;保持通信的可用性和完整性：灾难和危机期间数据安全和隐私的挑战和指南;&lt;/li&gt;
+&lt;li&gt;利用元路径的网络嵌入在异构DBLP网络挖掘中的应用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2018-08-14)</title>
