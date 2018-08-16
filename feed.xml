@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 15 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-08-16)</title>
+      <link>https://www.complexly.me/post/20180816/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180816/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;信息传播与社会感知动力学;&lt;/li&gt;
+&lt;li&gt;在线约会市场中对伴侣的追求;&lt;/li&gt;
+&lt;li&gt;网络中的潜在代理：估计和定价;&lt;/li&gt;
+&lt;li&gt;基于图信号处理的不规则网络感染分析;&lt;/li&gt;
+&lt;li&gt;关注多媒体内容的跨语言跨平台谣言验证;&lt;/li&gt;
+&lt;li&gt;社会网络中的结构转变：同质性的作用;&lt;/li&gt;
+&lt;li&gt;LogCanvas：使用知识图谱可视化搜索历史;&lt;/li&gt;
+&lt;li&gt;纠缠使得搭便车在热力学极限中变得多余;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2018-08-15)</title>
