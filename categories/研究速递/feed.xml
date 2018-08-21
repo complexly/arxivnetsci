@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2018-08-21)</title>
+      <link>https://www.complexly.me/post/20180821/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180821/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有未观察到边的网络的社区检测;&lt;/li&gt;
+&lt;li&gt;多维图卷积网络;&lt;/li&gt;
+&lt;li&gt;链接递归神经网络;&lt;/li&gt;
+&lt;li&gt;使用不相交的社区结构进行基于集成方法的重叠社区检测;&lt;/li&gt;
+&lt;li&gt;一种用于动态图的增量局部优先社区检测方法;&lt;/li&gt;
+&lt;li&gt;符号图卷积网络;&lt;/li&gt;
+&lt;li&gt;新的无参数人类移动模型;&lt;/li&gt;
+&lt;li&gt;空间网络中核心-边缘结构的检测;&lt;/li&gt;
+&lt;li&gt;存在多个策略更新规则时的动态敏感合作;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2018-08-20)</title>
