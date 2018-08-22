@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 21 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2018-08-22)</title>
+      <link>https://www.complexly.me/post/20180822/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180822/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;纽约市共享自行车的影响;&lt;/li&gt;
+&lt;li&gt;深度多模态图像再利用检测;&lt;/li&gt;
+&lt;li&gt;负载流方程的谱解;&lt;/li&gt;
+&lt;li&gt;从联网车辆间传输的基本安全信息提取的驾驶模式的波动性分析;&lt;/li&gt;
+&lt;li&gt;谁受到欺诈性评论的影响？在现实场景中分析对推荐系统的先令攻击;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-08-21)</title>
