@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-08-24)</title>
+      <link>https://www.complexly.me/post/20180824/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180824/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;动态文本网络中的社区结构和主题建模;&lt;/li&gt;
+&lt;li&gt;在大群体中面对难题时，人类充分利用社会启发式方法;&lt;/li&gt;
+&lt;li&gt;计算模块性景观中亚稳状态的数量：社区检测中贪婪算法的算法可检测性极限;&lt;/li&gt;
+&lt;li&gt;通过连接模式测量网络弹性;&lt;/li&gt;
+&lt;li&gt;舞蹈工作室：人类群集的艺术和工程探索;&lt;/li&gt;
+&lt;li&gt;1990-2017的二元系统期间智利参议院政党的投票权;&lt;/li&gt;
+&lt;li&gt;概率多层网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-08-23)</title>
