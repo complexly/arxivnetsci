@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要3篇(2018-08-27)</title>
+      <link>https://www.complexly.me/post/20180827/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180827/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Zipf律和Taylor律;&lt;/li&gt;
+&lt;li&gt;圣保罗公共交通网络的结构和稳健性;&lt;/li&gt;
+&lt;li&gt;GoT-WAVE：使用graphlet-orbit转换的时间网络对齐;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2018-08-24)</title>
