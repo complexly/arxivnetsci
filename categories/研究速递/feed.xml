@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-08-28)</title>
+      <link>https://www.complexly.me/post/20180828/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180828/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络中的多核心-边缘结构;&lt;/li&gt;
+&lt;li&gt;理论驱动的自杀推文自动内容分析：使用基于典型的LDA数据集分类;&lt;/li&gt;
+&lt;li&gt;在公用设施线路中断数据中发现Zipf分布和级联传播度量;&lt;/li&gt;
+&lt;li&gt;表征社交媒体用户用于讽刺检测;&lt;/li&gt;
+&lt;li&gt;时间依赖分组观测的网络推断;&lt;/li&gt;
+&lt;li&gt;当事实无效：社会网络中的偏见，两极分化和真实;&lt;/li&gt;
+&lt;li&gt;突然投票中社交媒体用户的立场：希腊公投的案例;&lt;/li&gt;
+&lt;li&gt;基于提升低秩矩阵逼近的多层网络嵌入;&lt;/li&gt;
+&lt;li&gt;用于从带干扰的实验估算全局治疗效果的回归调整;&lt;/li&gt;
+&lt;li&gt;具有恢复数据的大规模空间中的人类迁移模式;&lt;/li&gt;
+&lt;li&gt;R0无法预测存在自然增强免疫力情况下的爆发潜力;&lt;/li&gt;
+&lt;li&gt;开放心智模仿可以实现接近最佳的疫苗接种覆盖率;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2018-08-27)</title>
