@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 28 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2018-08-29)</title>
+      <link>https://www.complexly.me/post/20180829/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180829/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用Turan定理估计团数的快速可证方法;&lt;/li&gt;
+&lt;li&gt;事件注意力经济的波动性;&lt;/li&gt;
+&lt;li&gt;一种改进用于复杂网络中检测中尺度结构的信赖传播算法;&lt;/li&gt;
+&lt;li&gt;基于图像的音乐推荐的表示学习;&lt;/li&gt;
+&lt;li&gt;微观定位社会分裂广告：以Facebook为背景的俄罗斯相关广告活动案例研究;&lt;/li&gt;
+&lt;li&gt;为什么拓扑在预测人类活动方面至关重要;&lt;/li&gt;
+&lt;li&gt;在时间网络中发现事件：分割与密集子图发现;&lt;/li&gt;
+&lt;li&gt;影响最大化算法IMM的鞅分析问题;&lt;/li&gt;
+&lt;li&gt;从时间网络挖掘（最大）生成核心;&lt;/li&gt;
+&lt;li&gt;科学奖网络预测谁推进了科学的边界;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-08-28)</title>
