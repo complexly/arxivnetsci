@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 29 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-08-30)</title>
+      <link>https://www.complexly.me/post/20180830/</link>
+      <pubDate>Thu, 30 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180830/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;能源整合的集合多样性和随机化的力量;&lt;/li&gt;
+&lt;li&gt;新闻机构的可信度和社交媒体活动对受众参与的影响;&lt;/li&gt;
+&lt;li&gt;用户级聚合对基于词汇的人群级预测的显著效益;&lt;/li&gt;
+&lt;li&gt;带有细粒度字对齐的改进语义感知网络嵌入;&lt;/li&gt;
+&lt;li&gt;PS-Sim：参与式传感数据可扩展模拟的框架;&lt;/li&gt;
+&lt;li&gt;Twitter上的僵尸网络广告检测;&lt;/li&gt;
+&lt;li&gt;复杂网络的双曲嵌入和社区结构之间的类比表征;&lt;/li&gt;
+&lt;li&gt;通过评估用户的可信度来限制假新闻在社交媒体平台上的传播;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2018-08-29)</title>
