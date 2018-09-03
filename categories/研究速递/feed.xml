@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 31 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2018-09-03)</title>
+      <link>https://www.complexly.me/post/20180903/</link>
+      <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180903/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;保护基于标签的推荐系统免受档案注入攻击：一个比较研究;&lt;/li&gt;
+&lt;li&gt;预测登革热感染引入到来的全球模型;&lt;/li&gt;
+&lt;li&gt;基于意见-邻居的改进的类Vicsek社会网络的影响动态和共识;&lt;/li&gt;
+&lt;li&gt;用于在大型社交媒体上实时数据获取的Bandit算法;&lt;/li&gt;
+&lt;li&gt;带标签社交图中的多样性、拓扑和节点重新识别的风险;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2018-08-31)</title>
