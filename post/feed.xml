@@ -7,10 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要29篇(2018-09-05)</title>
+      <link>https://www.complexly.me/post/20180905/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180905/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在线社会网络的中观分析-负链接的作用;&lt;/li&gt;
+&lt;li&gt;社会网络结构预测身心健康;&lt;/li&gt;
+&lt;li&gt;复杂网络的熵和图能量;&lt;/li&gt;
+&lt;li&gt;使用生成对抗网络进行图的半监督学习;&lt;/li&gt;
+&lt;li&gt;链路预测算法的攻击容忍度：如何隐藏社会网络中的关系;&lt;/li&gt;
+&lt;li&gt;复杂共现网络的超图建模与可视化;&lt;/li&gt;
+&lt;li&gt;俄罗斯的支柱大学：“第二波浪潮”的兴起;&lt;/li&gt;
+&lt;li&gt;识别地球缓冲网络中的关键节点;&lt;/li&gt;
+&lt;li&gt;论城市中传染病发病的尺度模式;&lt;/li&gt;
+&lt;li&gt;意见冲突：一种在Twitter上检测不友好的有效途径;&lt;/li&gt;
+&lt;li&gt;有向复杂网络中的链接删除;&lt;/li&gt;
+&lt;li&gt;复杂网络中的知识共识：学习的作用;&lt;/li&gt;
+&lt;li&gt;离散Ollivier-Ricci流的网络对齐;&lt;/li&gt;
+&lt;li&gt;来自维基百科网络的大学的世界影响力和互动;&lt;/li&gt;
+&lt;li&gt;网络动态模型中极端Thouless效应的精确结果;&lt;/li&gt;
+&lt;li&gt;从本地节点动态预测全局网络;&lt;/li&gt;
+&lt;li&gt;具有社会关系的Ad Hoc网络中的网络分解层次协作;&lt;/li&gt;
+&lt;li&gt;相似性指标的性能及其与链路预测的关系研究：双态随机网络案例;&lt;/li&gt;
+&lt;li&gt;基于互信息复杂网络的风速监测系统社区检测分析;&lt;/li&gt;
+&lt;li&gt;观点：走向集体大脑;&lt;/li&gt;
+&lt;li&gt;对社交媒体的认可：对YouTube和Pinterest上的联盟营销披露的实证研究;&lt;/li&gt;
+&lt;li&gt;加密货币时间序列中关键转变的拓扑识别;&lt;/li&gt;
+&lt;li&gt;空间性可以促进多样性吗？;&lt;/li&gt;
+&lt;li&gt;具有切顶点的网络上特征向量中心性的局部化;&lt;/li&gt;
+&lt;li&gt;揭示城市系统中的共同演化模式：对SimpopNet模型的系统探索;&lt;/li&gt;
+&lt;li&gt;如何建模假新闻;&lt;/li&gt;
+&lt;li&gt;JobComposer：通过多指标效用学习优化职业发展路径;&lt;/li&gt;
+&lt;li&gt;贝叶斯意见交换网络的推理是PSPACE难的;&lt;/li&gt;
+&lt;li&gt;对节点嵌入的对抗性攻击;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2018-09-03)</title>
