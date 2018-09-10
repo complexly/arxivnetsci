@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 07 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-09-10)</title>
+      <link>https://www.complexly.me/post/20180910/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180910/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;利用带文本节点学习有向网络的嵌入 - 软件包依赖网络的应用;&lt;/li&gt;
+&lt;li&gt;移动社会网络中的演化中心性和最大团;&lt;/li&gt;
+&lt;li&gt;Top-k重叠最密集子图：近似和复杂性;&lt;/li&gt;
+&lt;li&gt;BiasedWalk：图表示学习的有偏抽样;&lt;/li&gt;
+&lt;li&gt;针对异构网络群体的多层假设检验;&lt;/li&gt;
+&lt;li&gt;在具有持久边的含时网络上随机游走;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要2篇(2018-09-07)</title>
