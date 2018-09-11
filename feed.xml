@@ -7,10 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要22篇(2018-09-11)</title>
+      <link>https://www.complexly.me/post/20180911/</link>
+      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180911/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;dyngraph2vec：使用动态图表示学习刻画网络动态;&lt;/li&gt;
+&lt;li&gt;自适应边特征引导的图注意网络;&lt;/li&gt;
+&lt;li&gt;BLAG：大型动作集合图上的Bandit;&lt;/li&gt;
+&lt;li&gt;具有群体行为的订单簿模型展示了长程记忆;&lt;/li&gt;
+&lt;li&gt;阿拉伯语的情感分析：方法和技术简述;&lt;/li&gt;
+&lt;li&gt;网络嵌入的快速梯度攻击;&lt;/li&gt;
+&lt;li&gt;交通振荡的增长模式：中美比较研究;&lt;/li&gt;
+&lt;li&gt;利用新闻提取和分析城市间的语义相关性;&lt;/li&gt;
+&lt;li&gt;迷失在数字荒原：数字活动中的隐藏信息;&lt;/li&gt;
+&lt;li&gt;建立研究支持和个人幸福感提升的社会网络;&lt;/li&gt;
+&lt;li&gt;基于Bhattacharyya系数的社会推荐系统;&lt;/li&gt;
+&lt;li&gt;一种新的使用信息论指标的基于优化的幂律生成模型;&lt;/li&gt;
+&lt;li&gt;最优策略网络扩散的计算问题;&lt;/li&gt;
+&lt;li&gt;碳排放限额和价格下的能源系统模型的反直觉行为;&lt;/li&gt;
+&lt;li&gt;哥伦比亚出口能力：建立企业-产品网络;&lt;/li&gt;
+&lt;li&gt;第26届国际图绘制与网络可视化研讨会论文集（GD 2018）;&lt;/li&gt;
+&lt;li&gt;知识图谱中元路径的特征学习;&lt;/li&gt;
+&lt;li&gt;部分虚拟坐标和图测地线的网络拓扑映射;&lt;/li&gt;
+&lt;li&gt;混合依附网络中的形成机制和度分布估计;&lt;/li&gt;
+&lt;li&gt;流形城市：英国城市地区的社会变量;&lt;/li&gt;
+&lt;li&gt;事件图：二阶时间展开的含时网络模型进展和应用;&lt;/li&gt;
+&lt;li&gt;用于高阶特征的HyperKron图模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-09-10)</title>
