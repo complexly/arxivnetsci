@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 11 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-09-12)</title>
+      <link>https://www.complexly.me/post/20180912/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180912/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;度量数据分析方法在社会发展指标分析中的应用;&lt;/li&gt;
+&lt;li&gt;用标记的多变量Hawkes过程学习源头;&lt;/li&gt;
+&lt;li&gt;基于阈值的社会网络信任推理启发式算法;&lt;/li&gt;
+&lt;li&gt;数字普查的房价建模;&lt;/li&gt;
+&lt;li&gt;使用图论算法放置液压控制结构调整水力学峰值;&lt;/li&gt;
+&lt;li&gt;相关博弈响应策略中的纳什均衡;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要22篇(2018-09-11)</title>
