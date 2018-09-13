@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-09-13)</title>
+      <link>https://www.complexly.me/post/20180913/</link>
+      <pubDate>Thu, 13 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180913/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;合作会更好吗？检验多个作者，机构和部门之间的科学合作;&lt;/li&gt;
+&lt;li&gt;传染性增强了Twitter中病毒级联的预测;&lt;/li&gt;
+&lt;li&gt;异构信息网络的元路径和元图联合嵌入;&lt;/li&gt;
+&lt;li&gt;语言文化演变中的规范变化动力学;&lt;/li&gt;
+&lt;li&gt;NNCP：基于深度神经网络学习技术的引用数预测方法;&lt;/li&gt;
+&lt;li&gt;图高斯过程的贝叶斯半监督学习;&lt;/li&gt;
+&lt;li&gt;最大化社会网络中的曝光多样性;&lt;/li&gt;
+&lt;li&gt;简单性创造了不公平：对公平，刻板印象和可解释性的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-09-12)</title>
