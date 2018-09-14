@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 13 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2018-09-14)</title>
+      <link>https://www.complexly.me/post/20180914/</link>
+      <pubDate>Fri, 14 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180914/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;意见形成与个性化推荐之间的闭环;&lt;/li&gt;
+&lt;li&gt;稳健的最密集子图发现;&lt;/li&gt;
+&lt;li&gt;增长网络中社区检测的最佳时间尺度;&lt;/li&gt;
+&lt;li&gt;社会困境中墨守成规和基于回报的模仿之间的竞合关系;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2018-09-13)</title>
