@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 14 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-09-17)</title>
+      <link>https://www.complexly.me/post/20180917/</link>
+      <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180917/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;绘画多样性的历史性涌现：图像色度距离的异质性与大量绘画数据集的特征;&lt;/li&gt;
+&lt;li&gt;通过利用边标签增强网络嵌入;&lt;/li&gt;
+&lt;li&gt;符号网络中的平衡;&lt;/li&gt;
+&lt;li&gt;运动模式的周期性影响了城市环境中的流行病风险;&lt;/li&gt;
+&lt;li&gt;CIMTDetect：一种基于矩阵-张量耦合分解的社区融合新闻检测方法;&lt;/li&gt;
+&lt;li&gt;使用演讲文本进行TED演讲推荐;&lt;/li&gt;
+&lt;li&gt;对抗有害的误导信息传播以捍卫选举;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2018-09-14)</title>
