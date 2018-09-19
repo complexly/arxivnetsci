@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 18 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-09-19)</title>
+      <link>https://www.complexly.me/post/20180919/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180919/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用扩散接口方法对符号网络进行节点分类;&lt;/li&gt;
+&lt;li&gt;多层网络的快速嵌入：算法和分组fMRI应用;&lt;/li&gt;
+&lt;li&gt;论在线社会网络中的错误信息遏制;&lt;/li&gt;
+&lt;li&gt;捆绑渗流如何在染色网络中发生？;&lt;/li&gt;
+&lt;li&gt;利用序列种子探索信息传播的极限;&lt;/li&gt;
+&lt;li&gt;集体行人动力学实验研究;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要25篇(2018-09-18)</title>
