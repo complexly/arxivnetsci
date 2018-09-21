@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2018-09-21)</title>
+      <link>https://www.complexly.me/post/20180921/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180921/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;分析Goodreads上的社会书籍阅读行为及其如何预测亚马逊畅销书;&lt;/li&gt;
+&lt;li&gt;揭开全球价值链的复杂性：单层，多路和多层国际贸易网络中的强度和熵;&lt;/li&gt;
+&lt;li&gt;多尺度下的社会碎片化;&lt;/li&gt;
+&lt;li&gt;比特币网络双花检测系统建模;&lt;/li&gt;
+&lt;li&gt;基于代数拓扑的蜂窝网络基站基础知识;&lt;/li&gt;
+&lt;li&gt;寻找图中实体相关性解释的综述;&lt;/li&gt;
+&lt;li&gt;网站访问者的实证网络分析;&lt;/li&gt;
+&lt;li&gt;通过多变量标记霍克斯过程推断多路扩散网络;&lt;/li&gt;
+&lt;li&gt;最优流量分析，预测和应用;&lt;/li&gt;
+&lt;li&gt;网络社区检测理论进展综述;&lt;/li&gt;
+&lt;li&gt;用于社区答案质量排名的改进在线Wilson分数区间法;&lt;/li&gt;
+&lt;li&gt;图神经网络的多任务学习 - 学习统一网络的多图中心度量;&lt;/li&gt;
+&lt;li&gt;高阶图卷积网络;&lt;/li&gt;
+&lt;li&gt;使用嵌入来应对冗余和模型衰减;&lt;/li&gt;
+&lt;li&gt;学术网络的可视化查询系统;&lt;/li&gt;
+&lt;li&gt;标本作为研究对象：跨分布式存储库进行协调以进行元数据传播;&lt;/li&gt;
+&lt;li&gt;PriPeARL：LinkedIn隐私保护分析和报告框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2018-09-20)</title>
