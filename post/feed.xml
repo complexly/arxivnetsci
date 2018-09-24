@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 21 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-09-24)</title>
+      <link>https://www.complexly.me/post/20180924/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180924/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;时变社会网络中的意见形成：命名博弈的情况;&lt;/li&gt;
+&lt;li&gt;城市交通系统中的弱节点检测：新加坡的弹性规划;&lt;/li&gt;
+&lt;li&gt;学术出版指标的过度优化：在实践中发现Goodhart律;&lt;/li&gt;
+&lt;li&gt;从比特币区块链推断短期波动率指标;&lt;/li&gt;
+&lt;li&gt;通过时空波动可以预测高密度人群集体运动吗？;&lt;/li&gt;
+&lt;li&gt;多维，多层，非线性和动态HITS;&lt;/li&gt;
+&lt;li&gt;FI-GRL：通过投影成本保留的快速归纳图表示学习;&lt;/li&gt;
+&lt;li&gt;逃税博弈：来自基于主体的模型的证据;&lt;/li&gt;
+&lt;li&gt;迈向平面地图的分类;&lt;/li&gt;
+&lt;li&gt;智能车分布式导航对城市交通的影响;&lt;/li&gt;
+&lt;li&gt;用于多网络对齐的低秩方法;&lt;/li&gt;
+&lt;li&gt;随机游走视角下的捉迷藏游戏;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2018-09-21)</title>
