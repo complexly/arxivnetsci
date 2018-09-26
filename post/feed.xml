@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-09-26)</title>
+      <link>https://www.complexly.me/post/20180926/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180926/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;风电引发的波动在电网中的传播;&lt;/li&gt;
+&lt;li&gt;智能复杂网络;&lt;/li&gt;
+&lt;li&gt;中介驱动依附网络的动态扩展、数据崩溃和自相似性;&lt;/li&gt;
+&lt;li&gt;如何在Instagram成名：双重注意力的后期人气预测;&lt;/li&gt;
+&lt;li&gt;有害社交媒体账户早期识别;&lt;/li&gt;
+&lt;li&gt;日本2017年大选期间政党推特账户的信息传播力;&lt;/li&gt;
+&lt;li&gt;评估网络中的随机种子策略;&lt;/li&gt;
+&lt;li&gt;用于演进网络的大小不可知变点检测框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要23篇(2018-09-25)</title>
