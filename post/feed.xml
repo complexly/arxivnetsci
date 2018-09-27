@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2018-09-27)</title>
+      <link>https://www.complexly.me/post/20180927/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20180927/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于随机矩阵理论的复杂市场动态;&lt;/li&gt;
+&lt;li&gt;LOBO：评估Twitter机器人分类器中的泛化缺陷;&lt;/li&gt;
+&lt;li&gt;分析CDR / IPDR数据以从加密的消息传递服务中发现人员网络;&lt;/li&gt;
+&lt;li&gt;计算求偶：通过大规模数据分析理解在线约会的演变;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2018-09-26)</title>
