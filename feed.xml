@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-10-02)</title>
+      <link>https://www.complexly.me/post/20181002/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181002/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;北京城市形态分形维数增长曲线建模;&lt;/li&gt;
+&lt;li&gt;通过局部过程的属性网络增长;&lt;/li&gt;
+&lt;li&gt;支持新闻和社交媒体信任过程的框架;&lt;/li&gt;
+&lt;li&gt;异构代理状态依赖网络稳定性分析的一个简单框架;&lt;/li&gt;
+&lt;li&gt;为什么回声室形成和网络干预失败：选择超过动态网络中的影响;&lt;/li&gt;
+&lt;li&gt;主特征向量局部网络中的特征值交叉;&lt;/li&gt;
+&lt;li&gt;社区检测的凸松弛方法;&lt;/li&gt;
+&lt;li&gt;能量负荷有效混合的平均场控制;&lt;/li&gt;
+&lt;li&gt;基于Blackwell优势的分层社会网络自适应合并;&lt;/li&gt;
+&lt;li&gt;利用非回溯矩阵的主要特征值识别谣言来源;&lt;/li&gt;
+&lt;li&gt;时间尺度和拓扑结构在复杂网络动态中的作用;&lt;/li&gt;
+&lt;li&gt;真实复杂网络上渗流的模糊相变;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-09-28)</title>
