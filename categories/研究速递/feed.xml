@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 03 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-10-04)</title>
+      <link>https://www.complexly.me/post/20181004/</link>
+      <pubDate>Thu, 04 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181004/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络中的混合模式和个体差异;&lt;/li&gt;
+&lt;li&gt;开源俄罗斯Twitter数据的无监督机器学习揭示了全球范围和运营特征;&lt;/li&gt;
+&lt;li&gt;通过社会媒体数据类型不同组合估计意见形成阈值;&lt;/li&gt;
+&lt;li&gt;GI-OHMS：检测重叠社区的图推理;&lt;/li&gt;
+&lt;li&gt;检测以太坊区块链网络中的机器人活动;&lt;/li&gt;
+&lt;li&gt;h_alpha：量化个人科学领导力的指标;&lt;/li&gt;
+&lt;li&gt;多次博弈中意图识别的功能动力学;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2018-10-03)</title>
