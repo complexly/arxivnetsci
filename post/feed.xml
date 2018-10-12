@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 11 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2018-10-12)</title>
+      <link>https://www.complexly.me/post/20181012/</link>
+      <pubDate>Fri, 12 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181012/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过意料之外检测核心 - 边缘结构;&lt;/li&gt;
+&lt;li&gt;利用局部网络社区来预测学业成绩;&lt;/li&gt;
+&lt;li&gt;爆发的感染无法改变网络本地化;&lt;/li&gt;
+&lt;li&gt;现实世界网络的统计物理;&lt;/li&gt;
+&lt;li&gt;模块化网络的中心性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2018-10-11)</title>
