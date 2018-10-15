@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 12 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-10-15)</title>
+      <link>https://www.complexly.me/post/20181015/</link>
+      <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181015/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复杂网络的结构稀疏性：随机模型和真实世界图的有界展开;&lt;/li&gt;
+&lt;li&gt;经济复杂性的方法和概念;&lt;/li&gt;
+&lt;li&gt;记忆对非马尔可夫时间网络上传播过程的影响;&lt;/li&gt;
+&lt;li&gt;在教育领域使用博客：定性系统评价;&lt;/li&gt;
+&lt;li&gt;社会资本预测城镇的腐败风险;&lt;/li&gt;
+&lt;li&gt;基于成对约束的标签传播的半监督重叠社区发现;&lt;/li&gt;
+&lt;li&gt;社会物理学的巨大挑战：追求道德行为;&lt;/li&gt;
+&lt;li&gt;信息提取中的话语景观和无监督主题建模：通过联合国安理会新的阿富汗问题语料库验证文本数据方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2018-10-12)</title>
