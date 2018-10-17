@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2018-10-17)</title>
+      <link>https://www.complexly.me/post/20181017/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181017/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用地理标记推文/土地使用数据和dasymetric地图估算城市地区高时空分辨率的每小时人口分布变化;&lt;/li&gt;
+&lt;li&gt;网络分布式优化的推拉梯度法;&lt;/li&gt;
+&lt;li&gt;支持还是不支持Kavanaugh：这是个极化问题;&lt;/li&gt;
+&lt;li&gt;SINE：可扩展的不完整网络嵌入;&lt;/li&gt;
+&lt;li&gt;在二部图中寻找密集子图：线性算法及其在欺诈检测中的应用;&lt;/li&gt;
+&lt;li&gt;TNE：网络表示学习的潜在模型;&lt;/li&gt;
+&lt;li&gt;通过搜索引擎获得意见动态;&lt;/li&gt;
+&lt;li&gt;网络层析：用于研究网络动态的新结构谱;&lt;/li&gt;
+&lt;li&gt;社会传染的单纯模型;&lt;/li&gt;
+&lt;li&gt;迈向社会崩溃的一般理论：复杂性收益递减的Tainter模型的生物物理分析;&lt;/li&gt;
+&lt;li&gt;粒子速度控制传染动力学中的相变;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-10-16)</title>
