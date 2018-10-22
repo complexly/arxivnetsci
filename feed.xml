@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-10-22)</title>
+      <link>https://www.complexly.me/post/20181022/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181022/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;DERGMs：简并约束指数随机图模型;&lt;/li&gt;
+&lt;li&gt;城市经济反复验证的共同轨迹;&lt;/li&gt;
+&lt;li&gt;QANet：用于异构信息网络基于查询的异常检测的张量分解方法;&lt;/li&gt;
+&lt;li&gt;三元时间序列模体;&lt;/li&gt;
+&lt;li&gt;交互网络中的流动模体;&lt;/li&gt;
+&lt;li&gt;从Louvain算法到Leiden算法：保证连接良好的社区;&lt;/li&gt;
+&lt;li&gt;染色规避的点渗流和边渗流的复杂性;&lt;/li&gt;
+&lt;li&gt;数据驱动和模型生成的复杂网络分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-10-19)</title>
