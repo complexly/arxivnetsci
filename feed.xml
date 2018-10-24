@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2018-10-24)</title>
+      <link>https://www.complexly.me/post/20181024/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181024/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;信息传播对多路网络疫苗接种的影响;&lt;/li&gt;
+&lt;li&gt;通过优先考虑最小度的治疗策略对抗相互依赖空间嵌入网络的局部攻击;&lt;/li&gt;
+&lt;li&gt;成功的博士后奖学金发表记录是什么样的？;&lt;/li&gt;
+&lt;li&gt;智能网络场论：区块链和深度学习的技术物理学;&lt;/li&gt;
+&lt;li&gt;使用基于主体的模型对运输网络进行震后建模;&lt;/li&gt;
+&lt;li&gt;机器人的生活;&lt;/li&gt;
+&lt;li&gt;复杂网络的可延展性;&lt;/li&gt;
+&lt;li&gt;复杂网络上带死亡过程的囚徒困境博弈：最低要求和移民的影响;&lt;/li&gt;
+&lt;li&gt;复杂振荡网络和电网中的关键角色问题：阻力中心识别局部脆弱性;&lt;/li&gt;
+&lt;li&gt;通过图卷积网络寻找适当的交通规则;&lt;/li&gt;
+&lt;li&gt;用结构特征空间分解预测和解释行为数据;&lt;/li&gt;
+&lt;li&gt;社会网络演变中的社会地位与沟通行为;&lt;/li&gt;
+&lt;li&gt;基于影响的网络中心性系统框架与特征;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2018-10-23)</title>
