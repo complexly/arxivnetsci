@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 25 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-10-26)</title>
+      <link>https://www.complexly.me/post/20181026/</link>
+      <pubDate>Fri, 26 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181026/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;生物医学文本中语义网络的演变;&lt;/li&gt;
+&lt;li&gt;双Barabasi-Albert模型;&lt;/li&gt;
+&lt;li&gt;二分z-matchings的统计力学;&lt;/li&gt;
+&lt;li&gt;通过渐近意外识别网络中的多尺度社区;&lt;/li&gt;
+&lt;li&gt;网络流行病传播中回溯路径的相关性;&lt;/li&gt;
+&lt;li&gt;解析Reddit：学术研究概述;&lt;/li&gt;
+&lt;li&gt;用于推断有向接触网络中流动的马尔可夫模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2018-10-25)</title>
