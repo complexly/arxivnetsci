@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 26 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-10-29)</title>
+      <link>https://www.complexly.me/post/20181029/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181029/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过添加假节点攻击图卷积网络;&lt;/li&gt;
+&lt;li&gt;跟踪实体的历史和演变：以实体为中心的大型社交媒体档案含时分析;&lt;/li&gt;
+&lt;li&gt;社会网络中的观点发现与理解;&lt;/li&gt;
+&lt;li&gt;高效和高质量的种子图匹配：采用高阶结构信息;&lt;/li&gt;
+&lt;li&gt;HYPE：带邻域扩展的大规模超图分区;&lt;/li&gt;
+&lt;li&gt;没有项目的理论研究;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2018-10-26)</title>
