@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2018-10-31)</title>
+      <link>https://www.complexly.me/post/20181031/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181031/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用网络分析进行犯罪的时空预测;&lt;/li&gt;
+&lt;li&gt;超越富人俱乐部：与更好连接的节点相关的网络属性;&lt;/li&gt;
+&lt;li&gt;国会投票网络中的意识形态社区分析;&lt;/li&gt;
+&lt;li&gt;机器人对社会网络上观点的影响;&lt;/li&gt;
+&lt;li&gt;圣杯和不良抽样：在意大利研究评估活动中，评估同行评审与文献计量学之间一致性的缺失比例同质性检验;&lt;/li&gt;
+&lt;li&gt;异构信息网络上的无监督元路径约简;&lt;/li&gt;
+&lt;li&gt;empathi：危机中的应急管理和规划的本体论;&lt;/li&gt;
+&lt;li&gt;Memes在多路网络上的传播;&lt;/li&gt;
+&lt;li&gt;复杂网络中的对抗结构模式;&lt;/li&gt;
+&lt;li&gt;调整复杂网络的长度;&lt;/li&gt;
+&lt;li&gt;针对无监督节点嵌入方法的数据污染攻击;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2018-10-30)</title>
