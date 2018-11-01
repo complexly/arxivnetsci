@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-11-01)</title>
+      <link>https://www.complexly.me/post/20181101/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181101/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用移动网络元数据估算静态和动态城市人口;&lt;/li&gt;
+&lt;li&gt;最短路径多重性对多路网络拥塞的影响;&lt;/li&gt;
+&lt;li&gt;网络中流行病过程的随机最优控制;&lt;/li&gt;
+&lt;li&gt;人以群分？GitHub和Stack Overflow中开发人员的群集与迁移行为研究;&lt;/li&gt;
+&lt;li&gt;新闻文章中社会媒体来源的大规模研究;&lt;/li&gt;
+&lt;li&gt;通过高阶聚类系数进行系统风险评估;&lt;/li&gt;
+&lt;li&gt;匹配图与社区结构：一种集中度量方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2018-10-31)</title>
