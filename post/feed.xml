@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2018-11-06)</title>
+      <link>https://www.complexly.me/post/20181106/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181106/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社交媒体影响学校枪击事件的时间、地点和严重程度;&lt;/li&gt;
+&lt;li&gt;SPECTER：利用谱中心性的无种子节点网络对齐;&lt;/li&gt;
+&lt;li&gt;聚类系数流算法中偏差和方差的估计;&lt;/li&gt;
+&lt;li&gt;可靠的基于图的协作排名;&lt;/li&gt;
+&lt;li&gt;稀疏层次图分类器;&lt;/li&gt;
+&lt;li&gt;复杂社会网络的中心性分析;&lt;/li&gt;
+&lt;li&gt;IteRank：基于邻居的面向网络的迭代协作排名方法;&lt;/li&gt;
+&lt;li&gt;可见暗网的结构和内容;&lt;/li&gt;
+&lt;li&gt;众多社会网络的集成;&lt;/li&gt;
+&lt;li&gt;比较叙事社会网络提取技术;&lt;/li&gt;
+&lt;li&gt;使用增强的VoteRank中心性识别引文网络中的有影响力的专利;&lt;/li&gt;
+&lt;li&gt;使用感染的隔室模型预测选举;&lt;/li&gt;
+&lt;li&gt;来自可靠和不可靠媒体的健康相关新闻文章之间的差异;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2018-11-05)</title>
