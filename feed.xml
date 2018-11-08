@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2018-11-08)</title>
+      <link>https://www.complexly.me/post/20181108/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181108/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;BIRDNEST：评级欺诈检测的贝叶斯推断;&lt;/li&gt;
+&lt;li&gt;通过图分解聚类和共正则多视图一致的多视图网络嵌入;&lt;/li&gt;
+&lt;li&gt;季节性流行病期间的主动呼叫调度;&lt;/li&gt;
+&lt;li&gt;个体层面的社会网络与意见动态建模;&lt;/li&gt;
+&lt;li&gt;SocialGCN：一种基于高效图卷积网络的社会推荐模型;&lt;/li&gt;
+&lt;li&gt;权力与领导：复杂系统科学方法第一部分 - 表征与动力学;&lt;/li&gt;
+&lt;li&gt;通过卢浮宫博物馆的随机游走分析游客的流动模式;&lt;/li&gt;
+&lt;li&gt;无标度协作网络：作者名称消歧视角;&lt;/li&gt;
+&lt;li&gt;具有有限谱维数的网络几何同步;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2018-11-06)</title>
