@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 09 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-11-12)</title>
+      <link>https://www.complexly.me/post/20181112/</link>
+      <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181112/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;最大化社会网络中的意见多样性;&lt;/li&gt;
+&lt;li&gt;密切和普通的社会关系：它们在促进大规模传染方面有多重要？;&lt;/li&gt;
+&lt;li&gt;水平可见图的四元模体特征;&lt;/li&gt;
+&lt;li&gt;足球与啤酒 -  2018年FIFA足球世界杯背景下Twitter的社交媒体分析;&lt;/li&gt;
+&lt;li&gt;对自助渗流的洞见：与k核渗流和巨型组件的等价性;&lt;/li&gt;
+&lt;li&gt;理解和预测图中的链接：持续同调视角;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-11-09)</title>
@@ -19,7 +37,7 @@
       
       <guid>https://www.complexly.me/post/20181109/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;谁放出了巨魔？迈向理解国家赞助的巨魔;&lt;/li&gt;
+&lt;li&gt;谁放出了巨魔？理解国家赞助的巨魔;&lt;/li&gt;
 &lt;li&gt;算法个性化时代的意见动态建模;&lt;/li&gt;
 &lt;li&gt;组标记方法的定量分析;&lt;/li&gt;
 &lt;li&gt;用网络科学揭示群体智能：隐喻解释;&lt;/li&gt;
