@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-11-13)</title>
+      <link>https://www.complexly.me/post/20181113/</link>
+      <pubDate>Tue, 13 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181113/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多重网络中的深度学习超扩散;&lt;/li&gt;
+&lt;li&gt;CED：可靠的社交媒体谣言早期检测;&lt;/li&gt;
+&lt;li&gt;基于渗流概率的电力CPS风险传播阈值定量估计方法;&lt;/li&gt;
+&lt;li&gt;有向非对称随机块模型中宏观结构的可检测性;&lt;/li&gt;
+&lt;li&gt;通信网络中收入推理的贝叶斯方法;&lt;/li&gt;
+&lt;li&gt;使用非回溯扩展来分析k核修剪过程;&lt;/li&gt;
+&lt;li&gt;无向网络中的覆盖中心性最大化;&lt;/li&gt;
+&lt;li&gt;智能社会网络的自学习信息扩散模型;&lt;/li&gt;
+&lt;li&gt;网络嵌入和图汇总的关系;&lt;/li&gt;
+&lt;li&gt;网络攻击下链路预测的鲁棒性;&lt;/li&gt;
+&lt;li&gt;时变网络中的时间稳定社区;&lt;/li&gt;
+&lt;li&gt;Segue：通过空间布局的交互构建来概述自我中心网络的演化模式;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-11-12)</title>
