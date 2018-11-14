@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 13 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-11-14)</title>
+      <link>https://www.complexly.me/post/20181114/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181114/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;固定规模系统和网络中的优先连接;&lt;/li&gt;
+&lt;li&gt;选择增长图：用离散选择建模网络形成;&lt;/li&gt;
+&lt;li&gt;故障线最小化的团队形成算法;&lt;/li&gt;
+&lt;li&gt;SMERC：使用文本和时间信息进行社交媒体事件响应聚类;&lt;/li&gt;
+&lt;li&gt;探索才能和运气在获得成功方面的作用;&lt;/li&gt;
+&lt;li&gt;复杂球形网络中的边方向性;&lt;/li&gt;
+&lt;li&gt;3s-车辆车头时距建模的统一;&lt;/li&gt;
+&lt;li&gt;块约束配置模型的分析公式;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-11-13)</title>
