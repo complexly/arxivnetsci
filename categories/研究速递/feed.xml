@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2018-11-15)</title>
+      <link>https://www.complexly.me/post/20181115/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181115/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;SepNE：为网络嵌入带来可分性;&lt;/li&gt;
+&lt;li&gt;社会网络策略扩散的多赢家竞赛;&lt;/li&gt;
+&lt;li&gt;从健康记录中的自由文本到内容集群：一种无监督的图划分方法;&lt;/li&gt;
+&lt;li&gt;利用Ricci曲率测量道路网络拓扑脆弱性;&lt;/li&gt;
+&lt;li&gt;基于接触的含时网络流行病传播模型;&lt;/li&gt;
+&lt;li&gt;图神经网络评估的缺陷;&lt;/li&gt;
+&lt;li&gt;推特上的模拟网络攻击：在2018年美国中期选举之前评估易受网络钓鱼和错误信息攻击的支持脆弱性;&lt;/li&gt;
+&lt;li&gt;网络上的结构和时间异质性;&lt;/li&gt;
+&lt;li&gt;用于网络社区检测的SCORE+;&lt;/li&gt;
+&lt;li&gt;利用局部活动的流网络嵌入;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2018-11-14)</title>
