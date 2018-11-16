@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2018-11-16)</title>
+      <link>https://www.complexly.me/post/20181116/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181116/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于能量的主题耦合群体意见动态交互模型;&lt;/li&gt;
+&lt;li&gt;DeepSpace：移动大数据的在线深度学习框架，用于理解人类移动模式;&lt;/li&gt;
+&lt;li&gt;网络分析中的极小极大率：图估计，社区检测和假设检验;&lt;/li&gt;
+&lt;li&gt;SGR：自监督谱图表示学习;&lt;/li&gt;
+&lt;li&gt;通过各种链路重连策略增强网络容量;&lt;/li&gt;
+&lt;li&gt;相关性对时变通信网络路由和建模的影响;&lt;/li&gt;
+&lt;li&gt;弹性还是稳健性：识别铁路网络中的拓扑脆弱性;&lt;/li&gt;
+&lt;li&gt;多变量时空霍克斯过程与网络重构;&lt;/li&gt;
+&lt;li&gt;在线平台中的离线偏差：对Airbnb中多样性和同质性的研究;&lt;/li&gt;
+&lt;li&gt;在暗网黑客论坛上使用社会网络分析预测企业网络事件;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2018-11-15)</title>
