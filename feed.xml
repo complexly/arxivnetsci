@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 19 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2018-11-20)</title>
+      <link>https://www.complexly.me/post/20181120/</link>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181120/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;什么推动了名人涨粉？语言使用还是社交连接;&lt;/li&gt;
+&lt;li&gt;用于推荐的动态图中的链路预测;&lt;/li&gt;
+&lt;li&gt;多智能体强化学习中语言学习惯的涌现;&lt;/li&gt;
+&lt;li&gt;深入了解匿名：对Quora问题的大规模分析;&lt;/li&gt;
+&lt;li&gt;再现科学家的流动性：数据驱动的模型;&lt;/li&gt;
+&lt;li&gt;用于实际系统的基于拓扑和优化的通用网络恢复;&lt;/li&gt;
+&lt;li&gt;社会网络上意见形成的Ising-PageRank模型;&lt;/li&gt;
+&lt;li&gt;用精英集团探索小世界网络：将嵌入理论引入风险投资网络的动态演化;&lt;/li&gt;
+&lt;li&gt;众包平台的贡献者资料模型化;&lt;/li&gt;
+&lt;li&gt;属性网络的离群感知网络嵌入;&lt;/li&gt;
+&lt;li&gt;Twitter上基于影响的聚类模型;&lt;/li&gt;
+&lt;li&gt;城市系统的空间测度：从熵到分形维数;&lt;/li&gt;
+&lt;li&gt;非法过马路中的不确定行为;&lt;/li&gt;
+&lt;li&gt;综合社会联系网络复杂性与现实性的实证评估;&lt;/li&gt;
+&lt;li&gt;超图的Forman-Ricci曲率;&lt;/li&gt;
+&lt;li&gt;夸大的新闻内容在社交媒体的传播特征;&lt;/li&gt;
+&lt;li&gt;论网络可见性问题;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2018-11-19)</title>
