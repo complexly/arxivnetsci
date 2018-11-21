@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2018-11-21)</title>
+      <link>https://www.complexly.me/post/20181121/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181121/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;机器学习模型解释与预测的人类预测 - 欺骗检测案例研究;&lt;/li&gt;
+&lt;li&gt;角色动作嵌入：网络位置的可扩展表示;&lt;/li&gt;
+&lt;li&gt;在最大负载目标攻击下优化抗级联失效的鲁棒性;&lt;/li&gt;
+&lt;li&gt;在线社区的声誉系统;&lt;/li&gt;
+&lt;li&gt;虚拟社会科学;&lt;/li&gt;
+&lt;li&gt;相关性对时变通信网络通信容量的影响;&lt;/li&gt;
+&lt;li&gt;社会网络竞争性意见动态的两阶段投资博弈;&lt;/li&gt;
+&lt;li&gt;网络模型的精确秩约简;&lt;/li&gt;
+&lt;li&gt;含时图偏移重建：迈向时间稳健的图表示学习;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2018-11-20)</title>
