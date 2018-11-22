@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2018-11-22)</title>
+      <link>https://www.complexly.me/post/20181122/</link>
+      <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181122/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;几何非同质随机图的Bootstrap渗流;&lt;/li&gt;
+&lt;li&gt;建模地面路线网络以了解政体间的相互作用（伊特鲁里亚南部，公元前950-500）;&lt;/li&gt;
+&lt;li&gt;集体注意力的消退塑造了语言变体的演变;&lt;/li&gt;
+&lt;li&gt;选举取证：选举舞弊检测的定量方法;&lt;/li&gt;
+&lt;li&gt;竞争复杂传染过程中的共识与极化;&lt;/li&gt;
+&lt;li&gt;线性流网络中链路故障的非局部影响;&lt;/li&gt;
+&lt;li&gt;话语平等：迈向众包的前K建议的公平表征;&lt;/li&gt;
+&lt;li&gt;方形和三角形格网上演化博弈的几何结构;&lt;/li&gt;
+&lt;li&gt;美国语言地图的统计物理;&lt;/li&gt;
+&lt;li&gt;在网络上学习二次博弈;&lt;/li&gt;
+&lt;li&gt;提取MOOC论坛的资源提及;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-11-21)</title>
@@ -19,7 +42,7 @@
       
       <guid>https://www.complexly.me/post/20181121/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;机器学习模型解释与预测的人类预测 - 欺骗检测案例研究;&lt;/li&gt;
+&lt;li&gt;有机器学习模型解释与预测的人类预测 - 欺骗检测案例研究;&lt;/li&gt;
 &lt;li&gt;角色动作嵌入：网络位置的可扩展表示;&lt;/li&gt;
 &lt;li&gt;在最大负载目标攻击下优化抗级联失效的鲁棒性;&lt;/li&gt;
 &lt;li&gt;在线社区的声誉系统;&lt;/li&gt;
