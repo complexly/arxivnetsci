@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 22 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-11-26)</title>
+      <link>https://www.complexly.me/post/20181126/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181126/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复杂网络：从古典到量子;&lt;/li&gt;
+&lt;li&gt;成长网络上随机游走轨迹的可压缩性;&lt;/li&gt;
+&lt;li&gt;推荐用户：联盟社会网络中应当做谁的粉丝;&lt;/li&gt;
+&lt;li&gt;保护用户隐私：无法追踪的Web浏览历史记录和明确的用户档案的方法;&lt;/li&gt;
+&lt;li&gt;自然语言的秩频分布：概率方法的差异;&lt;/li&gt;
+&lt;li&gt;量化滤波器泡沫：分析选举中的惊异;&lt;/li&gt;
+&lt;li&gt;随机网络中节点和链路状态耦合动力学中的吸收相变;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2018-11-22)</title>
