@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 26 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2018-11-27)</title>
+      <link>https://www.complexly.me/post/20181127/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181127/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;度修正植入性分割模型重建的不可能性;&lt;/li&gt;
+&lt;li&gt;医疗补助人群中处方模式的网络抽象;&lt;/li&gt;
+&lt;li&gt;随机游走影响的成长网络的游走者视角;&lt;/li&gt;
+&lt;li&gt;基于同质性的传播过程模拟社会网络中的真假新闻;&lt;/li&gt;
+&lt;li&gt;人群控制游戏中的集体社交行为;&lt;/li&gt;
+&lt;li&gt;在更安全的路径上更快的马：对加权网络的有效重建的广义推断;&lt;/li&gt;
+&lt;li&gt;飓风中疏散离境和出行时间的联合建模;&lt;/li&gt;
+&lt;li&gt;概率性弃权的空间囚徒困境博弈中的合作;&lt;/li&gt;
+&lt;li&gt;Evoplex：基于主体的网络建模平台;&lt;/li&gt;
+&lt;li&gt;Twitter上角色相关用户分类的混合模型;&lt;/li&gt;
+&lt;li&gt;用于产品市场预测的网络和机器学习组合方法;&lt;/li&gt;
+&lt;li&gt;使用多重符号网络多重分区分析欧洲议会的点名;&lt;/li&gt;
+&lt;li&gt;告诉我一些我朋友不知道的事情：社会网络中的多样性最大化;&lt;/li&gt;
+&lt;li&gt;基于网络社区检测的住宅电力负荷曲线聚类;&lt;/li&gt;
+&lt;li&gt;消除在线社会网络中的影响力源;&lt;/li&gt;
+&lt;li&gt;各城市就业的非线性分布;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2018-11-26)</title>
