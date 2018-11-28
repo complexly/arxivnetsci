@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 27 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2018-11-28)</title>
+      <link>https://www.complexly.me/post/20181128/</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181128/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在线社会网络中网络结构与用户行为的协同演化模型：以网络驱动内容生成为例;&lt;/li&gt;
+&lt;li&gt;改进的谢林类型自旋系统的不容忍间隔和大小界限;&lt;/li&gt;
+&lt;li&gt;不完全信息、有限理性和信息共享的日常动态交通分配;&lt;/li&gt;
+&lt;li&gt;DynamicGEM：动态图嵌入方法库;&lt;/li&gt;
+&lt;li&gt;量化众包车队的感知能力;&lt;/li&gt;
+&lt;li&gt;不同密度下直线走廊老年人流的基本图表;&lt;/li&gt;
+&lt;li&gt;对社交图的稳健主动攻击;&lt;/li&gt;
+&lt;li&gt;DeepVisInterests：CNN-Ontology预测用户对社交图像的兴趣;&lt;/li&gt;
+&lt;li&gt;Facebook用户接触在线广告的大规模分析;&lt;/li&gt;
+&lt;li&gt;用Instagram预测流感;&lt;/li&gt;
+&lt;li&gt;科学合作网络的凸性;&lt;/li&gt;
+&lt;li&gt;用二次近似法快速计算大尺度图的冯诺依曼熵;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2018-11-27)</title>
