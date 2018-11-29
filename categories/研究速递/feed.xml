@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 28 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2018-11-29)</title>
+      <link>https://www.complexly.me/post/20181129/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181129/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于去中心化染色的复杂网络节点多样化;&lt;/li&gt;
+&lt;li&gt;路径选择和事件驱动修正的微观决策模型;&lt;/li&gt;
+&lt;li&gt;自愈路网：城市道路网交通事故的自组织管理策略;&lt;/li&gt;
+&lt;li&gt;异构信息网络中的高阶聚类;&lt;/li&gt;
+&lt;li&gt;用于C-拆解问题的自旋玻璃模型;&lt;/li&gt;
+&lt;li&gt;利用Nagel-Schreckenberg模型研究反向车道使用的起源;&lt;/li&gt;
+&lt;li&gt;迈向社会媒体的去中心化;&lt;/li&gt;
+&lt;li&gt;Stack Overflow不同性别的参与和回报差异;&lt;/li&gt;
+&lt;li&gt;核心-边缘链路预测;&lt;/li&gt;
+&lt;li&gt;针对不完整结构信息的属性网络嵌入;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2018-11-28)</title>
