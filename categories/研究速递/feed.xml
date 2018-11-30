@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 29 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2018-11-30)</title>
+      <link>https://www.complexly.me/post/20181130/</link>
+      <pubDate>Fri, 30 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181130/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;加权网络的巨正则系综;&lt;/li&gt;
+&lt;li&gt;推荐系统评述：从情境感知到基于社会;&lt;/li&gt;
+&lt;li&gt;分析紧急用户的短信数据并探索其优势;&lt;/li&gt;
+&lt;li&gt;手机指标及其与城市社会经济组织的关系;&lt;/li&gt;
+&lt;li&gt;利用多层图的深度嵌入改进社区检测;&lt;/li&gt;
+&lt;li&gt;异构信息网络的通用网络表示;&lt;/li&gt;
+&lt;li&gt;链路预测中的系统偏差：比较基于启发式和图嵌入的方法;&lt;/li&gt;
+&lt;li&gt;基于多源学习的大规模蛋白质相互作用网络中的并行蛋白质群落检测;&lt;/li&gt;
+&lt;li&gt;基于有效抗性的种子集合萌发的群落检测;&lt;/li&gt;
+&lt;li&gt;嵌入有向图的对称化;&lt;/li&gt;
+&lt;li&gt;基于图的熵指标检测有解释力的市场变化方向;&lt;/li&gt;
+&lt;li&gt;使用异构信息网络预测不良媒体风险;&lt;/li&gt;
+&lt;li&gt;使用社交媒体数据预测阿片类药物成瘾复发;&lt;/li&gt;
+&lt;li&gt;使用涵盖更好的种子集的基于流的局部图聚类;&lt;/li&gt;
+&lt;li&gt;反应式探索者解开网络拓扑;&lt;/li&gt;
+&lt;li&gt;用可解释的新闻馈送算法打击假新闻;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2018-11-29)</title>
