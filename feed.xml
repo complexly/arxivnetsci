@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2018-12-05)</title>
+      <link>https://www.complexly.me/post/20181205/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181205/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于手机数据集的移动分析简要综述;&lt;/li&gt;
+&lt;li&gt;不可压缩的高阶网络;&lt;/li&gt;
+&lt;li&gt;我们忽略了动物社会复杂性的什么方面？;&lt;/li&gt;
+&lt;li&gt;PES：流三角估计中的优先边采样;&lt;/li&gt;
+&lt;li&gt;了解信息中心性度量：模拟方法;&lt;/li&gt;
+&lt;li&gt;用补充网络对渗流阈值进行数值评估;&lt;/li&gt;
+&lt;li&gt;在多路网络中有意识和不同时间尺度的流行病传播;&lt;/li&gt;
+&lt;li&gt;不断变化的可达性格局：中国交通网络的突变;&lt;/li&gt;
+&lt;li&gt;二部图上目标集选择问题的不可近似性结果;&lt;/li&gt;
+&lt;li&gt;构建立法网络的信息抽取框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2018-12-04)</title>
