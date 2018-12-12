@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 11 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2018-12-12)</title>
+      <link>https://www.complexly.me/post/20181212/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181212/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;集体想象力的列维飞行;&lt;/li&gt;
+&lt;li&gt;图深度学习：综述;&lt;/li&gt;
+&lt;li&gt;GC-LSTM：用于动态链路预测的图卷积嵌入式LSTM;&lt;/li&gt;
+&lt;li&gt;检测重叠的社区结构：爱沙尼亚支付网络;&lt;/li&gt;
+&lt;li&gt;使用Facebook点赞类别进行自动人格预测;&lt;/li&gt;
+&lt;li&gt;城市探索的语义轨迹：我们如何生活在城市中;&lt;/li&gt;
+&lt;li&gt;变分贝叶斯复杂网络重构;&lt;/li&gt;
+&lt;li&gt;Twitter上对足球粉丝的城市尺度率;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2018-12-11)</title>
