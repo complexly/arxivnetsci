@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要4篇(2018-12-13) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+信息级联模型的对比训练;
+复杂网络中恢复速度分布对疾病传播的影响;
+优化复杂网络搜索的全局平均首次通过时间的随机游走者选择;
+基于多层时间网络的SIS流行病;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要4篇(2018-12-13) - 网络科学研究速递">
+<meta itemprop="description" content="
+信息级联模型的对比训练;
+复杂网络中恢复速度分布对疾病传播的影响;
+优化复杂网络搜索的全局平均首次通过时间的随机游走者选择;
+基于多层时间网络的SIS流行病;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要4篇(2018-12-13) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20181213/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+信息级联模型的对比训练;
+复杂网络中恢复速度分布对疾病传播的影响;
+优化复杂网络搜索的全局平均首次通过时间的随机游走者选择;
+基于多层时间网络的SIS流行病;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20181213/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20181213/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要4篇(2018-12-13)</h1>
+
+                  <p class="post-byline">
+                    2018年12月13日 · 1334 字 ·
+                    阅读时间约3分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>信息级联模型的对比训练;</li>
+<li>复杂网络中恢复速度分布对疾病传播的影响;</li>
+<li>优化复杂网络搜索的全局平均首次通过时间的随机游走者选择;</li>
+<li>基于多层时间网络的SIS流行病;</li>
+</ul>
+
+<p></p>
+
+<h3 id="信息级联模型的对比训练">信息级联模型的对比训练</h3>
+
+<p>原文标题： Contrastive Training for Models of Information Cascades</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1812.04677">http://arxiv.org/abs/1812.04677</a></p>
+
+<p>作者： Shaobin Xu, David A. Smith</p>
+
+<p>摘要： 本文提出了一个信息级联模型作为有向生成树（DSTs）的观察文件。此外，我们提出了一种对比训练程序，该程序利用节点感染的部分时间排序来代替标记的训练链接。模型和无监督训练的这种组合使得可以改进仅使用感染时间的模型，并利用节点的任意特征和信息级联中的消息的文本内容。由于仅具有与先前模型类似的基本节点和时滞特征，DST模型通过无监督训练实现了与博客网络推理任务中的强基线相当的性能。具有附加内容功能的无监督训练可以获得明显更好的结果，达到完全监督模型的一半精度。</p>
+
+<h3 id="复杂网络中恢复速度分布对疾病传播的影响">复杂网络中恢复速度分布对疾病传播的影响</h3>
+
+<p>原文标题： Impact of the distribution of recovery rates on disease spreading in complex networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1812.04734">http://arxiv.org/abs/1812.04734</a></p>
+
+<p>作者： Guilherme Ferraz de Arruda, Giovanni Petri, Francisco A. Rodrigues, Yamir Moreno</p>
+
+<p>摘要： 我们研究了具有任意恢复率分布的一般流行病模型。这种与标准设置的简单偏差足以证明动力学参数中的异质性与研究得越多的结构异质性同样重要。我们的分析解决方案能够预测异质回收率引起的关键性质的变化。此外，我们表明传染性的临界值往往小于同质情况下淬火平均场方法预测的值，并且它可以与回收率的方差联系起来。然后，我们说明了动态 - 结构相关性的作用，它允许关键行为的完全变化。我们表明，通过适当调整其恢复速率，幂律网络拓扑可以表现得与同构结构类似，反之亦然。最后，我们展示了恢复率的异质性如何影响传播过程的网络定位属性。</p>
+
+<h3 id="优化复杂网络搜索的全局平均首次通过时间的随机游走者选择">优化复杂网络搜索的全局平均首次通过时间的随机游走者选择</h3>
+
+<p>原文标题： Selection of Random Walkers that Optimizes the Global Mean First-Passage Time for Search in Complex Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1812.05058">http://arxiv.org/abs/1812.05058</a></p>
+
+<p>作者： Mucong Ding, Kwok Yip Szeto</p>
+
+<p>摘要： 我们设计了一种方法来优化多个随机游走者在复杂网络中搜索一般目标的全局平均首次通过时间（GMFPT），而不指定目标节点的属性。根据拉普拉斯变换的GMFPT公式，我们可以等效地最小化随机游走者访问的站点的概率分布之间的重叠。我们使用仅突变遗传算法来解决这个优化问题，使用具有不同起始位置的步行者群和相应的突变矩阵来修改它们。两种随机网络（WS和BA）的数值实验在选择步行者的起源以实现最小重叠方面表现出令人满意的结果。因此，我们的方法为复杂网络上的多个随机游走者建立搜索过程提供了指导。</p>
+
+<h3 id="基于多层时间网络的sis流行病">基于多层时间网络的SIS流行病</h3>
+
+<p>原文标题： SIS Epidemics in Multilayer-based Temporal Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1812.05073">http://arxiv.org/abs/1812.05073</a></p>
+
+<p>作者： Aram Vajdi, David Juher, Joan Saldana, Caterina Scoglio</p>
+
+<p>摘要： 为了提高基于网络的SIS模型的准确性，我们引入并研究了时间依赖网络的多层表示。特别是，我们假设个人拥有始终存在的长期（永久）联系人，以这种方式识别第一个网络层。还存在第二网络层，其中同一组节点可以通过偶然链接连接，以给定概率创建。虽然第一层的链路是永久性的，但是第二层的链路仅在一定概率下被激活，并且在由该链路连接的两个节点同时参与临时链路的条件下。我们在这个时间依赖的网络上建立了SIS流行病的模型，分析了相应的平均场方程的平衡和稳定性，并阐明了时间层在扩散过程中的作用。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20181213/">https://www.complexly.me/post/20181213/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20181212/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要8篇(2018-12-12)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

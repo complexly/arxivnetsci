@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2018-12-13)</title>
+      <link>https://www.complexly.me/post/20181213/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181213/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;信息级联模型的对比训练;&lt;/li&gt;
+&lt;li&gt;复杂网络中恢复速度分布对疾病传播的影响;&lt;/li&gt;
+&lt;li&gt;优化复杂网络搜索的全局平均首次通过时间的随机游走者选择;&lt;/li&gt;
+&lt;li&gt;基于多层时间网络的SIS流行病;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2018-12-12)</title>
