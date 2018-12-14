@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2018-12-14)</title>
+      <link>https://www.complexly.me/post/20181214/</link>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181214/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;弱耦合网络分层系统上的扩散;&lt;/li&gt;
+&lt;li&gt;影响网络中异质信念系统的共识与分歧;&lt;/li&gt;
+&lt;li&gt;动态网络预测;&lt;/li&gt;
+&lt;li&gt;具有有限值的动态序列特征分析优化算法;&lt;/li&gt;
+&lt;li&gt;噪声驱动的公共产品合作;&lt;/li&gt;
+&lt;li&gt;羊群效应和特殊选择：嘈杂的选民模型中的非线性和老化引起的转变;&lt;/li&gt;
+&lt;li&gt;通过非回溯谱进行图比较;&lt;/li&gt;
+&lt;li&gt;自适应选民模型中的局部对称性和全局结构;&lt;/li&gt;
+&lt;li&gt;gl2vec：使用Graphlet学习有向网络特征表示;&lt;/li&gt;
+&lt;li&gt;印度各州的经济复杂性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2018-12-13)</title>
