@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 20 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2018-12-21)</title>
+      <link>https://www.complexly.me/post/20181221/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181221/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;随机游走者在无标度网络上访问的节点不同;&lt;/li&gt;
+&lt;li&gt;受访者驱动抽样中的渐近种子偏差;&lt;/li&gt;
+&lt;li&gt;通过估计块转移概率减少响应驱动采样中的种子偏差;&lt;/li&gt;
+&lt;li&gt;出版物的中介性;&lt;/li&gt;
+&lt;li&gt;利用社交媒体分析提升旅游领域决策能力;&lt;/li&gt;
+&lt;li&gt;社会网络层次识别研究综述;&lt;/li&gt;
+&lt;li&gt;多层网络中的核分解：理论、算法和应用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2018-12-20)</title>
