@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要6篇(2018-12-24) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+电网中的自发同步;
+利用图距离矩阵的正则分解分析大型稀疏图;
+两阶段传染的动态;
+使用首次命中时间查找最大化收敛率达到共识的集合;
+微观级联预测的神经扩散模型;
+COSINE：大规模信息网络的压缩网络嵌入;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要6篇(2018-12-24) - 网络科学研究速递">
+<meta itemprop="description" content="
+电网中的自发同步;
+利用图距离矩阵的正则分解分析大型稀疏图;
+两阶段传染的动态;
+使用首次命中时间查找最大化收敛率达到共识的集合;
+微观级联预测的神经扩散模型;
+COSINE：大规模信息网络的压缩网络嵌入;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要6篇(2018-12-24) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20181224/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+电网中的自发同步;
+利用图距离矩阵的正则分解分析大型稀疏图;
+两阶段传染的动态;
+使用首次命中时间查找最大化收敛率达到共识的集合;
+微观级联预测的神经扩散模型;
+COSINE：大规模信息网络的压缩网络嵌入;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20181224/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20181224/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要6篇(2018-12-24)</h1>
+
+                  <p class="post-byline">
+                    2018年12月24日 · 2251 字 ·
+                    阅读时间约5分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>电网中的自发同步;</li>
+<li>利用图距离矩阵的正则分解分析大型稀疏图;</li>
+<li>两阶段传染的动态;</li>
+<li>使用首次命中时间查找最大化收敛率达到共识的集合;</li>
+<li>微观级联预测的神经扩散模型;</li>
+<li>COSINE：大规模信息网络的压缩网络嵌入;</li>
+</ul>
+
+<p></p>
+
+<h3 id="电网中的自发同步">电网中的自发同步</h3>
+
+<p>原文标题： Spontaneous synchrony in power-grid networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1302.1914">http://arxiv.org/abs/1302.1914</a></p>
+
+<p>作者： Adilson E. Motter, Seth A. Myers, Marian Anghel, Takashi Nishikawa</p>
+
+<p>摘要： 电网网络运行的一个必要条件是其发电机保持同步。干扰可以促使失步，这是一个涉及大量停电的过程。在这里，我们推导出一种条件，在该条件下，电网的期望同步状态是稳定的，并且使用该条件来识别作为自发同步的决定因素的发电机的可调参数。我们的分析产生了一种指定参数分配的方法，可以增强任何给定网络的同步，我们在选择测试系统和实际电网时进行了演示。由于我们的结果涉及自发同步，因此它们既可以减少对传统控制设备的依赖，又可以提供额外的保护层，因为大多数停电都涉及设备或操作错误，并有助于开发“智能电网”，实时从故障中恢复。</p>
+
+<h3 id="利用图距离矩阵的正则分解分析大型稀疏图">利用图距离矩阵的正则分解分析大型稀疏图</h3>
+
+<p>原文标题： Analysis of large sparse graphs using regular decomposition of graph distance matrices</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1811.10470">http://arxiv.org/abs/1811.10470</a></p>
+
+<p>作者： Hannu Reittu, Lasse Leskelä, Tomi Räty, Marco Fiorucci</p>
+
+<p>摘要： 由于问题的高维度和非线性，大型和稀疏图的统计分析是数据科学中的一个具有挑战性的问题。本文提出了一种快速，可扩展的算法，用于根据观察到的一组参考节点的图距离将这些图划分为不相交的组。得到的分区提供全距离矩阵的低维近似，这有助于仅使用距离矩阵的小样本来揭示图的全局结构特性。所提出的算法受到信息论最小描述原理的启发。我们研究了该算法对所选实际数据集和使用随机块模型和幂律随机图生成的合成图数据集的性能，以及具有有界平均度的稀疏随机块模型的分析考虑。</p>
+
+<h3 id="两阶段传染的动态">两阶段传染的动态</h3>
+
+<p>原文标题： The dynamics of two-stage contagion</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1812.08867">http://arxiv.org/abs/1812.08867</a></p>
+
+<p>作者： Guy Katriel</p>
+
+<p>摘要： 我们探索了旨在研究社会传染的简单模型，其中传染通过两个阶段进行。当与人口统计学转换相结合时，我们表明两阶段传染导致非线性现象，这些现象在数学流行病学的基本“经典”模型中不存在。这些包括：双稳态，关键转换，内生振荡和兴奋性，表明具有阶段的传染模型可以解释社会生活中遇到的复杂动态的某些方面。通过分析和数值方法的组合来研究这些现象和所涉及的分叉。</p>
+
+<h3 id="使用首次命中时间查找最大化收敛率达到共识的集合">使用首次命中时间查找最大化收敛率达到共识的集合</h3>
+
+<p>原文标题： Using First Hitting Times to Find Sets that Maximize the Convergence Rate to Consensus</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1812.08881">http://arxiv.org/abs/1812.08881</a></p>
+
+<p>作者： Fern Y. Hunt</p>
+
+<p>摘要： 在由简单共识模型描述的社会网络中的通信模型中，我们提出了找到具有给定基数和固定共识值的节点子集的问题，其使得剩余节点的值的最快收敛速率达到平衡。给定网络拓扑和称为顽固节点的子集，均衡存在并且是顽固节点的初始值的凸和。非顽固节点处的值以指数方式收敛到其共识值，其速率常数由随机游走者的预期第一击球时间确定，该随机游走者从节点开始并在其访问的第一个顽固节点处结束。在本文中，我们将使用顽固节点的预期第一次击打时间的总和作为最小化问题的目标函数。它的解决方案是收敛速度最快的一套。我们提出了一种多项式时间方法，用于获得固定基数小于参考顶点覆盖的优化问题的近似解。在假设随机游走的转移矩阵是不可约和可逆的情况下，我们还使用马尔可夫链的混合理论得到了预期第一次击球时间的上界，因此得到了收敛速度的上限。</p>
+
+<h3 id="微观级联预测的神经扩散模型">微观级联预测的神经扩散模型</h3>
+
+<p>原文标题： Neural Diffusion Model for Microscopic Cascade Prediction</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1812.08933">http://arxiv.org/abs/1812.08933</a></p>
+
+<p>作者： Cheng Yang, Maosong Sun, Haoran Liu, Shiyi Han, Zhiyuan Liu, Huanbo Luan</p>
+
+<p>摘要： 在过去十年中，信息传播或级联的预测引起了很多关注。大多数级联预测工作的目标是预测级联级宏观属性，例如级联的最终大小。专注于用户级建模的现有微观级联预测模型或者对用户如何被级联感染做出强烈假设，或者将自己限制在特定情况下，其中“谁感染了谁”信息被明确标记。强大的假设过分简化了复杂的扩散机制，并阻止这些模型更好地拟合现实世界的级联数据。此外，关注特定场景的方法不能推广到未观察到扩散图的一般设置。为了克服先前工作的缺点，我们提出了用于一般微观级联预测的神经扩散模型（NDM）。 NDM做出宽松的假设，并采用深度学习技术，包括注意机制和卷积网络进行级联建模。这两个优点使我们的模型能够超越以前方法的限制，更好地拟合扩散数据并推广到看不见的级联。四个实际级联数据集上的扩散预测任务的实验结果表明，就F1得分而言，我们的模型相对于最佳表现基线可以实现高达26％的相对改善。</p>
+
+<h3 id="cosine-大规模信息网络的压缩网络嵌入">COSINE：大规模信息网络的压缩网络嵌入</h3>
+
+<p>原文标题： COSINE: Compressive Network Embedding on Large-scale Information Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1812.08972">http://arxiv.org/abs/1812.08972</a></p>
+
+<p>作者： Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun, Zhichong Fang, Bo Zhang, Leyu Lin</p>
+
+<p>摘要： 最近，在网络中学习节点的低维嵌入的方法激增。由于存在许多大规模的现实世界网络，现有方法在内存中存储大量参数并在边之后更新它们是低效的。由于知道在嵌入空间中具有相似邻域的节点将彼此接近，我们提出了COSINE（COmpresSIve NE）算法，其通过相似节点之间的参数共享来减少存储器占用并加速训练过程。 COSINE将图分区算法应用于网络，并根据分区结果构建节点的参数共享依赖性。通过在相似节点之间共享参数，COSINE将关于更高结构信息的先验知识注入到训练过程中，使网络嵌入更加高效和有效。 COSINE可应用于任何嵌入查找方法，并学习内存有限且训练时间短的高质量嵌入。我们进行多标签分类和链路预测的实验，其中基线和我们的模型具有相同的内存使用。实验结果表明，COSINE使基线分类增加了23％，链路预测增加了25％。此外，使用COSINE的所有表示学习方法的时间从30％减少到70％。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20181224/">https://www.complexly.me/post/20181224/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20181221/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要7篇(2018-12-21)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 21 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2018-12-24)</title>
+      <link>https://www.complexly.me/post/20181224/</link>
+      <pubDate>Mon, 24 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181224/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;电网中的自发同步;&lt;/li&gt;
+&lt;li&gt;利用图距离矩阵的正则分解分析大型稀疏图;&lt;/li&gt;
+&lt;li&gt;两阶段传染的动态;&lt;/li&gt;
+&lt;li&gt;使用首次命中时间查找最大化收敛率达到共识的集合;&lt;/li&gt;
+&lt;li&gt;微观级联预测的神经扩散模型;&lt;/li&gt;
+&lt;li&gt;COSINE：大规模信息网络的压缩网络嵌入;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2018-12-21)</title>
@@ -21,7 +39,7 @@
       <description>&lt;ul&gt;
 &lt;li&gt;随机游走者在无标度网络上访问的节点不同;&lt;/li&gt;
 &lt;li&gt;受访者驱动抽样中的渐近种子偏差;&lt;/li&gt;
-&lt;li&gt;通过估计块转移概率减少响应驱动采样中的种子偏差;&lt;/li&gt;
+&lt;li&gt;通过估计块转移概率减少受访者驱动采样中的种子偏差;&lt;/li&gt;
 &lt;li&gt;出版物的中介性;&lt;/li&gt;
 &lt;li&gt;利用社交媒体分析提升旅游领域决策能力;&lt;/li&gt;
 &lt;li&gt;社会网络层次识别研究综述;&lt;/li&gt;
