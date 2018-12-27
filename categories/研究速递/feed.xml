@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2018-12-27)</title>
+      <link>https://www.complexly.me/post/20181227/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20181227/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于PageRank的模糊社区推荐系统;&lt;/li&gt;
+&lt;li&gt;通过自注意网络学习动态图表示;&lt;/li&gt;
+&lt;li&gt;复杂网络中噪声诱导的去同步和随机均衡脱离;&lt;/li&gt;
+&lt;li&gt;增长随机网络上的随机游走建模;&lt;/li&gt;
+&lt;li&gt;利用大规模的出租车出行起点-终点揭示城市机动性和城市动态：华盛顿特区案例研究;&lt;/li&gt;
+&lt;li&gt;可扩展预测全球在线媒体新闻的病毒性;&lt;/li&gt;
+&lt;li&gt;精英推文？Twitter认证用户网络特征;&lt;/li&gt;
+&lt;li&gt;动态SIR模型的精确解;&lt;/li&gt;
+&lt;li&gt;分析空间嵌入环面的一类网络上的传染图;&lt;/li&gt;
+&lt;li&gt;增加时变有向图上非贝叶斯社会学习的自信心;&lt;/li&gt;
+&lt;li&gt;多个流边的内容关联;&lt;/li&gt;
+&lt;li&gt;网络功能的最佳资源分配;&lt;/li&gt;
+&lt;li&gt;带有惩罚和排斥之间转换的公共物品博弈的演化动态;&lt;/li&gt;
+&lt;li&gt;一种计算双态网络t签名的算法;&lt;/li&gt;
+&lt;li&gt;科学出版中的伴侣效应;&lt;/li&gt;
+&lt;li&gt;运动随机不稳定的混沌动力学和N.A. Bernstein关于“无重复的重复”的假设;&lt;/li&gt;
+&lt;li&gt;共同作者网络多模态现象的博弈模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2018-12-24)</title>
