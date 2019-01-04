@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 03 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2019-01-04)</title>
+      <link>https://www.complexly.me/post/20190104/</link>
+      <pubDate>Fri, 04 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190104/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在一般的V2V传输网络中建模信息传播;&lt;/li&gt;
+&lt;li&gt;Twitter中的事件检测：关键字卷方法;&lt;/li&gt;
+&lt;li&gt;挫败社会工程攻击;&lt;/li&gt;
+&lt;li&gt;基于虚拟Web的个性化PageRank更新;&lt;/li&gt;
+&lt;li&gt;描绘社交媒体上长期存在的政治现象;&lt;/li&gt;
+&lt;li&gt;抗虚假身份的基于传导的社区扩展;&lt;/li&gt;
+&lt;li&gt;流网络功能的拓扑基础;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-01-03)</title>
