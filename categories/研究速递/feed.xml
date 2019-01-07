@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 04 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2019-01-07)</title>
+      <link>https://www.complexly.me/post/20190107/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190107/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于拒绝的复杂网络随机扩散过程仿真;&lt;/li&gt;
+&lt;li&gt;用于缓解Top-K推荐中数据稀疏性的伪隐式反馈;&lt;/li&gt;
+&lt;li&gt;相关事件间时间的分析可解自相关函数;&lt;/li&gt;
+&lt;li&gt;建立联系：科学家们如何在会议期间相遇;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2019-01-04)</title>
