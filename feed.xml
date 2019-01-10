@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2019-01-10)</title>
+      <link>https://www.complexly.me/post/20190110/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190110/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;一般协同SIR动力学的精确解;&lt;/li&gt;
+&lt;li&gt;进行物理学普查;&lt;/li&gt;
+&lt;li&gt;计算机病毒在时变网络上的传播;&lt;/li&gt;
+&lt;li&gt;凝聚态物理学中研究人员的h指数和多作者h_m指数;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2019-01-09)</title>
