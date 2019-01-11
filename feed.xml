@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 10 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2019-01-11)</title>
+      <link>https://www.complexly.me/post/20190111/</link>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190111/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多个传播路径增强了在复杂网络中定位扩散源的能力;&lt;/li&gt;
+&lt;li&gt;基于移动电话使用模式和社会网络拓扑的人口属性推断;&lt;/li&gt;
+&lt;li&gt;谣言源头与正则树上最优估计的距离;&lt;/li&gt;
+&lt;li&gt;用于符号网络的聚类和半监督聚类的MBO方案;&lt;/li&gt;
+&lt;li&gt;时尚和艺术周期受到精英竞争的反主导信号的驱动：音乐风格的定量证据;&lt;/li&gt;
+&lt;li&gt;浪漫伴侣算法匹配中的无政府状态价格;&lt;/li&gt;
+&lt;li&gt;给定相关组件中断的级联停电风险;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2019-01-10)</title>
