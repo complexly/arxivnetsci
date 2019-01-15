@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2019-01-15)</title>
+      <link>https://www.complexly.me/post/20190115/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190115/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过社会网络表征学习预测扩散到达概率;&lt;/li&gt;
+&lt;li&gt;从空间自相关函数推导关联维数;&lt;/li&gt;
+&lt;li&gt;优秀的专利图知识临近性度量;&lt;/li&gt;
+&lt;li&gt;不平等、流动性和财务积累过程：计算经济分析;&lt;/li&gt;
+&lt;li&gt;多重网络中相互依赖的传染-共识动力学引发的爆炸性转变;&lt;/li&gt;
+&lt;li&gt;通过子空间发现进行属性网络嵌入;&lt;/li&gt;
+&lt;li&gt;搜索高效的二进制网络嵌入;&lt;/li&gt;
+&lt;li&gt;数据驱动的网络中隐藏节点的推断;&lt;/li&gt;
+&lt;li&gt;隐藏节点对双向网络重构的影响;&lt;/li&gt;
+&lt;li&gt;在社会复杂系统中，整体可以多于或少于部分（之和）;&lt;/li&gt;
+&lt;li&gt;通过叙利亚难民的社会融合降低土耳其的麻疹风险;&lt;/li&gt;
+&lt;li&gt;社会媒体和卫星图像中的自然灾害检测：一项综述;&lt;/li&gt;
+&lt;li&gt;一种新的城市地震评估综合方法;&lt;/li&gt;
+&lt;li&gt;技术创新对工业生产的影响：多层网络的模体分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2019-01-14)</title>
