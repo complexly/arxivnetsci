@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 15 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-01-16)</title>
+      <link>https://www.complexly.me/post/20190116/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190116/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;层降级会触发多路网络中的结构突变;&lt;/li&gt;
+&lt;li&gt;BoostNet：社交机器人的自举检测，以及危地马拉的案例研究;&lt;/li&gt;
+&lt;li&gt;用于测试网络结构假设的谱拒绝方法;&lt;/li&gt;
+&lt;li&gt;大规模分享情绪：Vent数据集;&lt;/li&gt;
+&lt;li&gt;使用量子硬件的符号图中的多社区检测;&lt;/li&gt;
+&lt;li&gt;比特币闪电网络的拓扑分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2019-01-15)</title>
