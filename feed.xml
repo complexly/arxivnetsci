@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2019-01-17)</title>
+      <link>https://www.complexly.me/post/20190117/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190117/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;州际战争的频率和严重程度;&lt;/li&gt;
+&lt;li&gt;超越均匀反向采样：一种用于预防错误信息的混合采样技术;&lt;/li&gt;
+&lt;li&gt;基于局部边度的加权标签传播算法;&lt;/li&gt;
+&lt;li&gt;推特上基于位置、职业和语义的社会经济地位推理;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-01-16)</title>
