@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2019-01-25)</title>
+      <link>https://www.complexly.me/post/20190125/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190125/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;利用Twitter数据进行社交焦虑时空分析的工具;&lt;/li&gt;
+&lt;li&gt;基于置信度的图卷积网络半监督学习;&lt;/li&gt;
+&lt;li&gt;多路网络中阈值驱动传染的重入相变;&lt;/li&gt;
+&lt;li&gt;保护基于标签的推荐系统免受档案注入攻击：比较研究;&lt;/li&gt;
+&lt;li&gt;社交媒体情感检测与分析;&lt;/li&gt;
+&lt;li&gt;低压电网的需求和不确定性建模及非国内消费者的影响;&lt;/li&gt;
+&lt;li&gt;在线实验中参与者之间的领导者-跟随者等级的涌现;&lt;/li&gt;
+&lt;li&gt;图的热混合模型学习;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-01-24)</title>
