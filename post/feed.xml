@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 25 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2019-01-28)</title>
+      <link>https://www.complexly.me/post/20190128/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190128/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;城市感知作为随机搜索过程;&lt;/li&gt;
+&lt;li&gt;一种探索属性网络结构规律的生成模型;&lt;/li&gt;
+&lt;li&gt;多主体通信博弈中的涌现语言现象;&lt;/li&gt;
+&lt;li&gt;自驱动主体的群集和扩散动态;&lt;/li&gt;
+&lt;li&gt;量子恐怖主义：全球量子系统的集体脆弱性;&lt;/li&gt;
+&lt;li&gt;社交媒体上用户行为的计算景观;&lt;/li&gt;
+&lt;li&gt;Neo4j中基于拓扑和语义图的DBLP数据作者消歧;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-01-25)</title>
