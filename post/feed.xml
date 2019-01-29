@@ -7,10 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要27篇(2019-01-29)</title>
+      <link>https://www.complexly.me/post/20190129/</link>
+      <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190129/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;衡量国家在大科学多学科性方面的能力：核聚变研究案例;&lt;/li&gt;
+&lt;li&gt;最后通牒博弈的反应-达尔文模型：论高扩散时的适度优势;&lt;/li&gt;
+&lt;li&gt;GCN-GAN：加权动态网络的非线性时间链路预测模型;&lt;/li&gt;
+&lt;li&gt;异质混合种群中的动态免疫博弈;&lt;/li&gt;
+&lt;li&gt;使用今天的Twitter讨论预测明天的头条;&lt;/li&gt;
+&lt;li&gt;移民的网络模型：飞地形成与文化整合;&lt;/li&gt;
+&lt;li&gt;众包视频系统中的用户捐赠;&lt;/li&gt;
+&lt;li&gt;引爆点动态：通用公式;&lt;/li&gt;
+&lt;li&gt;大型经济会稳定吗？;&lt;/li&gt;
+&lt;li&gt;社区检测的EXIT分析;&lt;/li&gt;
+&lt;li&gt;通过自然语言处理进行假新闻检测很容易受到对抗攻击;&lt;/li&gt;
+&lt;li&gt;基于复杂网络中模糊局部维的影响力节点识别;&lt;/li&gt;
+&lt;li&gt;简要综述：受推荐系统启发的响应检索;&lt;/li&gt;
+&lt;li&gt;测量图属性的稳健性;&lt;/li&gt;
+&lt;li&gt;图的深度生成模型：使用监督子集选择创建不同的逼真图，及其在电网综合中的应用;&lt;/li&gt;
+&lt;li&gt;学习二模网络的节点表示;&lt;/li&gt;
+&lt;li&gt;无线用户移动性预测精度的函数高斯分布模型;&lt;/li&gt;
+&lt;li&gt;网络的内在尺度很小;&lt;/li&gt;
+&lt;li&gt;网络镜头：拓扑异构网络中的节点分类;&lt;/li&gt;
+&lt;li&gt;网页和社会网络动态中的异常检测;&lt;/li&gt;
+&lt;li&gt;EvalNE：评估用于链路预测的网络嵌入的框架;&lt;/li&gt;
+&lt;li&gt;使用谷歌趋势预测死亡率;&lt;/li&gt;
+&lt;li&gt;大型同质二元乘法属性图模型中的节点隔离;&lt;/li&gt;
+&lt;li&gt;优化的变形拉普拉斯算子用于稀疏异构图中基于谱的社区检测;&lt;/li&gt;
+&lt;li&gt;一种新的基于合成语料库的主题建模算法评估框架;&lt;/li&gt;
+&lt;li&gt;肿瘤连接组：绘制肿瘤内复杂交互网络;&lt;/li&gt;
+&lt;li&gt;地域系统的空间和复杂性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2019-01-28)</title>
