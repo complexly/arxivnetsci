@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 30 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2019-01-31)</title>
+      <link>https://www.complexly.me/post/20190131/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190131/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;含时网络的谱多尺度社区检测及其应用;&lt;/li&gt;
+&lt;li&gt;虚拟社区成员社会人口概况的计算机语言学分析;&lt;/li&gt;
+&lt;li&gt;Twitter工作/就业语料库：有人工参与建立的工作相关话语数据集;&lt;/li&gt;
+&lt;li&gt;模块化网络中带有群间偏差的意见动态;&lt;/li&gt;
+&lt;li&gt;超越聚类系数：复杂网络中节点邻域的拓扑分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-01-30)</title>
