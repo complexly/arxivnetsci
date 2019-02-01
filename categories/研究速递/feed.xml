@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 31 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-02-01)</title>
+      <link>https://www.complexly.me/post/20190201/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190201/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;信息社区建模与分析;&lt;/li&gt;
+&lt;li&gt;仍在那里：在Twitter上建模和识别俄罗斯巨魔帐户;&lt;/li&gt;
+&lt;li&gt;Multi-GCN：用于多视图网络的图卷积网络，及其在全球贫困的应用;&lt;/li&gt;
+&lt;li&gt;自动在线审核的会话网络;&lt;/li&gt;
+&lt;li&gt;小型无序状态下小世界网络中异常扩散的马尔可夫链研究;&lt;/li&gt;
+&lt;li&gt;从网络中分布式稳健地删除恶意节点;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2019-01-31)</title>
