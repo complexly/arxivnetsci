@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2019-02-04)</title>
+      <link>https://www.complexly.me/post/20190204/</link>
+      <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190204/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复杂网络中缺失链路的可预测性;&lt;/li&gt;
+&lt;li&gt;社交媒体和选举操纵分析的危险和挑战：2018年美国中期选举;&lt;/li&gt;
+&lt;li&gt;基于网络修改的社会网络物质滥用预防（初步研究）;&lt;/li&gt;
+&lt;li&gt;有向图上的非马尔可夫蒙特卡洛;&lt;/li&gt;
+&lt;li&gt;一般反馈模型下的自适应影响最大化;&lt;/li&gt;
+&lt;li&gt;复杂网络涌现的表面深度理论;&lt;/li&gt;
+&lt;li&gt;StaTIX——关联数据的统计类型推断;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-02-01)</title>
