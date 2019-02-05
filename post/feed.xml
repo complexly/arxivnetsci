@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 04 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2019-02-05)</title>
+      <link>https://www.complexly.me/post/20190205/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190205/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于生物学原理和人类兴趣动态的社会网络系统中模因流行度增长的模型;&lt;/li&gt;
+&lt;li&gt;符号社会网络中的极化与波动;&lt;/li&gt;
+&lt;li&gt;利用公用事业管线中断数据形成的马尔可夫影响图来减轻级联影响;&lt;/li&gt;
+&lt;li&gt;使用复杂网络中的异常检测诊断模型的过度简化;&lt;/li&gt;
+&lt;li&gt;如何在社会网络上撰写高质量的新闻？通过写作风格挖掘预测新闻质量;&lt;/li&gt;
+&lt;li&gt;用于网络中社团的纠错解码器;&lt;/li&gt;
+&lt;li&gt;出生-消亡过程的首次通过时间分布近似;&lt;/li&gt;
+&lt;li&gt;拥堵吸收驾驶场景中限制二次拥堵的理论条件;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2019-02-04)</title>
