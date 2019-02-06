@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2019-02-06)</title>
+      <link>https://www.complexly.me/post/20190206/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190206/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;HAHE：分层注意异构信息网络嵌入;&lt;/li&gt;
+&lt;li&gt;演化社会网络上的免疫困境;&lt;/li&gt;
+&lt;li&gt;动态多维图的动画拖放交互;&lt;/li&gt;
+&lt;li&gt;检测社交媒体中的暴力极端分子;&lt;/li&gt;
+&lt;li&gt;通过计算策略检测永久和间歇购买热点;&lt;/li&gt;
+&lt;li&gt;大规模网络中发现有影响力社区的文献综述;&lt;/li&gt;
+&lt;li&gt;协作工作的文献计量学;&lt;/li&gt;
+&lt;li&gt;推断社会关系的强度：社区驱动的方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-02-05)</title>
@@ -18,7 +38,9 @@
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.complexly.me/post/20190205/</guid>
-      <description>&lt;ul&gt;
+      <description>&lt;p&gt;&lt;strong&gt;给大家拜年了，祝各位读者新春快乐！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
 &lt;li&gt;基于生物学原理和人类兴趣动态的社会网络系统中模因流行度增长的模型;&lt;/li&gt;
 &lt;li&gt;符号社会网络中的极化与波动;&lt;/li&gt;
 &lt;li&gt;利用公用事业管线中断数据形成的马尔可夫影响图来减轻级联影响;&lt;/li&gt;
