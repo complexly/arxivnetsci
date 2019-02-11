@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2019-02-11)</title>
+      <link>https://www.complexly.me/post/20190211/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190211/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;谱排序;&lt;/li&gt;
+&lt;li&gt;一种监测恐怖分子网络的新型图分析方法;&lt;/li&gt;
+&lt;li&gt;电力基础设施弹性面对灾害影响空间分布的敏感性;&lt;/li&gt;
+&lt;li&gt;网络流行病传播动力学的协同效应;&lt;/li&gt;
+&lt;li&gt;消息立场分类的半监督方法;&lt;/li&gt;
+&lt;li&gt;衡量广告对LinkedIn Feed的长期影响;&lt;/li&gt;
+&lt;li&gt;潜在空间模型的精确恢复;&lt;/li&gt;
+&lt;li&gt;犯罪集中了还是我们只是使用了错误的指标？;&lt;/li&gt;
+&lt;li&gt;随机二元意见模型;&lt;/li&gt;
+&lt;li&gt;利用概念兴趣检测社会网络中的局部社区结构;&lt;/li&gt;
+&lt;li&gt;识别和分析社交媒体中的加密货币操纵;&lt;/li&gt;
+&lt;li&gt;使用具有动态结构的深度学习从推文中进行高分辨率家庭位置预测;&lt;/li&gt;
+&lt;li&gt;用于朋友推荐的异构边嵌入;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2019-02-08)</title>
