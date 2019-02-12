@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2019-02-12)</title>
+      <link>https://www.complexly.me/post/20190212/</link>
+      <pubDate>Tue, 12 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190212/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会系统中的权力积累;&lt;/li&gt;
+&lt;li&gt;从不相关的随机序列和多重分形二元测度映射得到的水平可见性图的解析度分布;&lt;/li&gt;
+&lt;li&gt;基于Latane理论的多选项意见动态模型;&lt;/li&gt;
+&lt;li&gt;更快地计算空间网络上的渗流相关长度;&lt;/li&gt;
+&lt;li&gt;复杂商业网络中的分层社区;&lt;/li&gt;
+&lt;li&gt;市场声誉系统：可行性评估;&lt;/li&gt;
+&lt;li&gt;通过特征排序重建动态网络;&lt;/li&gt;
+&lt;li&gt;复杂网络的快速共识聚类;&lt;/li&gt;
+&lt;li&gt;数据驱动的无监督在线学习者行为聚类;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2019-02-11)</title>
