@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 12 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2019-02-13)</title>
+      <link>https://www.complexly.me/post/20190213/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190213/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多季分析揭示了疾病传播的空间结构;&lt;/li&gt;
+&lt;li&gt;基于元图的活跃社会网络对齐;&lt;/li&gt;
+&lt;li&gt;广义模块度和统计显著社区检测的渐近分辨率边界;&lt;/li&gt;
+&lt;li&gt;WikiLinkGraphs：完整，纵向和多语言的维基百科链接网络数据集;&lt;/li&gt;
+&lt;li&gt;美国在线政治广告透明度分析;&lt;/li&gt;
+&lt;li&gt;中国城市大气污染物的时空相关模式;&lt;/li&gt;
+&lt;li&gt;RTbust：分析时间模式检测Twitter上的僵尸网络;&lt;/li&gt;
+&lt;li&gt;维基百科和数字货币：集体关注与市场表现之间的相互作用;&lt;/li&gt;
+&lt;li&gt;通信网络中节点级异常检测的概率框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2019-02-12)</title>
