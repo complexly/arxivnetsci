@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2019-02-15)</title>
+      <link>https://www.complexly.me/post/20190215/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190215/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;一种用于预测GitHub中流行度的交叉存储库模型;&lt;/li&gt;
+&lt;li&gt;从信息流和人才流动推断区域经济状态;&lt;/li&gt;
+&lt;li&gt;应用于GitHub的网络语义分割;&lt;/li&gt;
+&lt;li&gt;专利质量的事前衡量揭示了引用网络增长的内在适应性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2019-02-14)</title>
