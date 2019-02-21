@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2019-02-21)</title>
+      <link>https://www.complexly.me/post/20190221/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190221/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;定量分区模型和本福德定律;&lt;/li&gt;
+&lt;li&gt;用于社会推荐的图神经网络;&lt;/li&gt;
+&lt;li&gt;具有不完美复制的多状态投票模型;&lt;/li&gt;
+&lt;li&gt;无标度相互依赖网络中的级联故障;&lt;/li&gt;
+&lt;li&gt;在线社会网络中赎回最大化的种子选择和社会优惠券分配;&lt;/li&gt;
+&lt;li&gt;投票给我！任意评分规则表决系统中社会影响的选举控制;&lt;/li&gt;
+&lt;li&gt;如果投资者的信念倾向于预测未来强势的气候政策，那么撤资可能会刺破碳泡沫;&lt;/li&gt;
+&lt;li&gt;NAIRS：神经注意力可解释推荐系统;&lt;/li&gt;
+&lt;li&gt;社交媒体上的虚假新闻：一项数据驱动的综述;&lt;/li&gt;
+&lt;li&gt;基于机器学习的现实手机数据鲁棒预测模型;&lt;/li&gt;
+&lt;li&gt;非马尔可夫恢复对网络上可逆故障传播的影响;&lt;/li&gt;
+&lt;li&gt;维基百科数学家网络分析;&lt;/li&gt;
+&lt;li&gt;从不同类型的在线数据源中提取贡献的社会资本;&lt;/li&gt;
+&lt;li&gt;城市街道网络的结构熵、自组织和幂律：亚历山大思想的证据;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-02-20)</title>
