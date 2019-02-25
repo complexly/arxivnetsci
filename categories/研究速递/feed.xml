@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 22 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-02-25)</title>
+      <link>https://www.complexly.me/post/20190225/</link>
+      <pubDate>Mon, 25 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190225/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图对抗训练：基于图结构的动态正则化;&lt;/li&gt;
+&lt;li&gt;正态分布数据进行阈值处理产生复杂网络;&lt;/li&gt;
+&lt;li&gt;E-LSTM-D：动态网络链路预测的深度学习框架;&lt;/li&gt;
+&lt;li&gt;子集问题硬枚举变量的细粒度搜索空间分类;&lt;/li&gt;
+&lt;li&gt;控制系统性风险 - 最小化风险的网络结构和用于计算风险的节点属性;&lt;/li&gt;
+&lt;li&gt;使用加权动态心跳图方法在Twitter流中检测事件;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要2篇(2019-02-22)</title>
