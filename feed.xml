@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2019-02-26)</title>
+      <link>https://www.complexly.me/post/20190226/</link>
+      <pubDate>Tue, 26 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190226/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;被屏蔽社区成员的轨迹：救赎，累犯和离开;&lt;/li&gt;
+&lt;li&gt;面向数字机构参与和变革的设计;&lt;/li&gt;
+&lt;li&gt;Linky：可视化多个在线社会网络的用户身份链接结果;&lt;/li&gt;
+&lt;li&gt;交通网络的最佳几何形状;&lt;/li&gt;
+&lt;li&gt;异构网络中信息扩散的深度学习方法;&lt;/li&gt;
+&lt;li&gt;可扩展图自动编码器的通用框架;&lt;/li&gt;
+&lt;li&gt;Snowboot：网络推理的Bootstrap方法;&lt;/li&gt;
+&lt;li&gt;多样性及其类别、均衡和差异分解;&lt;/li&gt;
+&lt;li&gt;信息级联中的消息失真;&lt;/li&gt;
+&lt;li&gt;稳定婚姻问题的异质性与不稳定性;&lt;/li&gt;
+&lt;li&gt;城市交通量推断中稠密和不完全轨迹的联合建模;&lt;/li&gt;
+&lt;li&gt;基于加权个性化分解的多标签网络分类;&lt;/li&gt;
+&lt;li&gt;随机超图的配置模型及其应用;&lt;/li&gt;
+&lt;li&gt;将协作数据转换为网络层以实现增强分析;&lt;/li&gt;
+&lt;li&gt;声誉驱动的投票动态;&lt;/li&gt;
+&lt;li&gt;用于数据中心温度监测的LoRaWAN无线传感器网络;&lt;/li&gt;
+&lt;li&gt;Rock，Rap还是Reggaeton？使用Facebook数据评估墨西哥移民的文化同化;&lt;/li&gt;
+&lt;li&gt;利用含HARQ和传感成本的能量收集传感器强化学习来最小化信息时长;&lt;/li&gt;
+&lt;li&gt;SoReC：移动社会网络中基于社会关系的中心性度量;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-02-25)</title>
