@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要4篇(2019-02-27) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+共同发明人网络的社区结构影响了首次引用专利的时间;
+用于推荐系统的考虑交互的分解机;
+GCN-LASE：在图卷积网络中充分利用链接属性;
+经济地理和印度城市与区域收入的尺度性;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要4篇(2019-02-27) - 网络科学研究速递">
+<meta itemprop="description" content="
+共同发明人网络的社区结构影响了首次引用专利的时间;
+用于推荐系统的考虑交互的分解机;
+GCN-LASE：在图卷积网络中充分利用链接属性;
+经济地理和印度城市与区域收入的尺度性;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要4篇(2019-02-27) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20190227/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+共同发明人网络的社区结构影响了首次引用专利的时间;
+用于推荐系统的考虑交互的分解机;
+GCN-LASE：在图卷积网络中充分利用链接属性;
+经济地理和印度城市与区域收入的尺度性;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20190227/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20190227/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要4篇(2019-02-27)</h1>
+
+                  <p class="post-byline">
+                    2019年02月27日 · 1884 字 ·
+                    阅读时间约4分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>共同发明人网络的社区结构影响了首次引用专利的时间;</li>
+<li>用于推荐系统的考虑交互的分解机;</li>
+<li>GCN-LASE：在图卷积网络中充分利用链接属性;</li>
+<li>经济地理和印度城市与区域收入的尺度性;</li>
+</ul>
+
+<p></p>
+
+<h3 id="共同发明人网络的社区结构影响了首次引用专利的时间">共同发明人网络的社区结构影响了首次引用专利的时间</h3>
+
+<p>原文标题： Community structure in co-inventor networks affects time to first citation for patents</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1902.09679">http://arxiv.org/abs/1902.09679</a></p>
+
+<p>作者： W. Doonan, K. W. Higham, M. Governale, U. Zülicke</p>
+
+<p>摘要： 我们调查了一组特定专利的共同发明人网络中的社区结构，并将这种结构与这些专利如何获得他们的第一次引用的动态相关联。直到第一次引用的时间滞后的统计学显著差异与该引用是否来自所列出的发明人与所引用的专利的发明人在相同社区中的成员资格的专利有关。尽管通过不同社区检测算法识别的发明人 - 社区结构在若干方面不同，包括社区规模分布，但是第一次引用的时间差异的大小得到了有力的展现。我们的工作能够量化发明人社区内知识流动的预期加速，从而进一步确立网络分析工具在研究创新动态中的实用性。</p>
+
+<h3 id="用于推荐系统的考虑交互的分解机">用于推荐系统的考虑交互的分解机</h3>
+
+<p>原文标题： Interaction-aware Factorization Machines for Recommender Systems</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1902.09757">http://arxiv.org/abs/1902.09757</a></p>
+
+<p>作者： Fuxing Hong, Dongbo Huang, Ge Chen</p>
+
+<p>摘要： 分解机器（FM）是一种广泛使用的监督学习方法，通过有效地建模特征交互。尽管FM及其许多深度学习变体的成功应用，公平地处理每个特征交互可能会降低性能。例如，无用功能的相互作用可能会引入噪音;在与不同功能交互时，功能的重要性也可能不同。在这项工作中，我们通过引入交互感知机制（IAM）提出了一个名为 {Interaction-aware Factorization Machine}（IFM）的新模型，其中包括 {feature aspect}和 {field aspect}，在两个层面上学习灵活的互动。特征方面通过关注网络学习特征交互重要性，而字段方面将特征交互效果学习为特征交互向量和对应的字段交互原型的参数相似性。 IFM引入了更多结构化控制，并以分层方式学习了特征交互的重要性，从而可以更有效地调整特征和字段级别的交互。此外，我们提供了更通用的架构，并提出了交互感知神经网络（INN）和DeepIFM来捕获高阶交互。为了进一步提高IFM的性能和效率，开发了一种采样方案，以根据现场方面的重要性选择相互作用。两个众所周知的数据集的实验结果表明，所提出的模型优于最先进的方法。</p>
+
+<h3 id="gcn-lase-在图卷积网络中充分利用链接属性">GCN-LASE：在图卷积网络中充分利用链接属性</h3>
+
+<p>原文标题： GCN-LASE: Towards Adequately Incorporating Link Attributes in Graph Convolutional Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1902.09817">http://arxiv.org/abs/1902.09817</a></p>
+
+<p>作者： Ziyao Li, Liang Zhang, Guojie Song</p>
+
+<p>摘要： 事实证明，图卷积网络（GCN）是聚合各个图节点的局部邻域信息的最强大的架构。在现有的GCN中成功利用了低秩邻接和节点特征，但是，图链接可能携带的属性通常被忽略，因为几乎所有这些模型都将图链接简化为描述节点连通性的二进制或标量值。相反，在我们的论文中，链接被恢复为具有描述属性的实体之间的实体关系。我们提出了GCN-LASE（具有链路属性和采样估计的GCN），这是一种新颖的GCN模型，它将节点和链路属性作为输入。为了充分捕获链接和节点属性之间的交互，它们的张量产品被用作邻居特征，在此基础上我们定义了几个图内核，并进一步开发了LASE的架构。此外，为了加速训练过程，通过蒙特卡罗方法估计整个社区的特征总和，为LASE设计新颖的采样策略以最小化估计方差。我们的实验表明，LASE在各种图数据集上的表现优于强基线，进一步的实验证实了链接属性的信息量以及我们的模型充分利用它们的能力。</p>
+
+<h3 id="经济地理和印度城市与区域收入的尺度性">经济地理和印度城市与区域收入的尺度性</h3>
+
+<p>原文标题： Economic geography and the scaling of urban and regional income in India</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1902.09872">http://arxiv.org/abs/1902.09872</a></p>
+
+<p>作者： Anand Sahasranaman, Luis M. A. Bettencourt</p>
+
+<p>摘要： 我们根据对这些数量依赖于相关人口规模的比例分析，对印度地区和城市的经济收入（国内生产总值，国内生产总值）进行了探索。尺度分析为社会经济组织中的网络效应识别提供了一种直接的方法，这是城市和城市化的标志。对于印度的一个次国家区域行政区划，我们发现GDP与人口几乎是线性的，这与其他国家背景下的城市功能单元截然不同。利用与尺度的偏差，我们探索了这些区域单位的行为，以找到强烈不同的经济行为地理模式。我们详细描述了这些模式，并将它们与印度等多个次大陆国家的区域经济发展文献联系起来。鉴于印度城市群的经济数据不足，我们使用一系列假设来建立一个基于地区的新的大型城市数据集。这显示了收入与城市规模的超线性尺度，正如理论所预期的那样，同时显示了区域经济表现所观察到的类似的经济地理模式。由于缺乏更高保真度的直接城市经济数据，对印度城市经济表现的分析受到严重限制。我们讨论了对印度城市经济规模和变化的标准化和一致性估计的必要性，并指出了可以探索制定这些指标的一些代理。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20190227/">https://www.complexly.me/post/20190227/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20190226/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要19篇(2019-02-26)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

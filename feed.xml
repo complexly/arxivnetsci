@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 26 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2019-02-27)</title>
+      <link>https://www.complexly.me/post/20190227/</link>
+      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190227/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;共同发明人网络的社区结构影响了首次引用专利的时间;&lt;/li&gt;
+&lt;li&gt;用于推荐系统的考虑交互的分解机;&lt;/li&gt;
+&lt;li&gt;GCN-LASE：在图卷积网络中充分利用链接属性;&lt;/li&gt;
+&lt;li&gt;经济地理和印度城市与区域收入的尺度性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要19篇(2019-02-26)</title>
