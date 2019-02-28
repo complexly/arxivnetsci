@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要6篇(2019-02-28) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+二次可分解子模函数最小化：理论与实践;
+EvolveGCN：动态图的演化图卷积网络;
+使用机器学习算法预测复杂网络中的疾病可控性;
+深度对抗网络对齐;
+利用模体对扩散网络的时间动力学进行建模;
+融入语义分析和机器学习的社会信用：对最新技术和未来研究方向的综述;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要6篇(2019-02-28) - 网络科学研究速递">
+<meta itemprop="description" content="
+二次可分解子模函数最小化：理论与实践;
+EvolveGCN：动态图的演化图卷积网络;
+使用机器学习算法预测复杂网络中的疾病可控性;
+深度对抗网络对齐;
+利用模体对扩散网络的时间动力学进行建模;
+融入语义分析和机器学习的社会信用：对最新技术和未来研究方向的综述;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要6篇(2019-02-28) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20190228/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+二次可分解子模函数最小化：理论与实践;
+EvolveGCN：动态图的演化图卷积网络;
+使用机器学习算法预测复杂网络中的疾病可控性;
+深度对抗网络对齐;
+利用模体对扩散网络的时间动力学进行建模;
+融入语义分析和机器学习的社会信用：对最新技术和未来研究方向的综述;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20190228/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20190228/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要6篇(2019-02-28)</h1>
+
+                  <p class="post-byline">
+                    2019年02月28日 · 2671 字 ·
+                    阅读时间约6分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>二次可分解子模函数最小化：理论与实践;</li>
+<li>EvolveGCN：动态图的演化图卷积网络;</li>
+<li>使用机器学习算法预测复杂网络中的疾病可控性;</li>
+<li>深度对抗网络对齐;</li>
+<li>利用模体对扩散网络的时间动力学进行建模;</li>
+<li>融入语义分析和机器学习的社会信用：对最新技术和未来研究方向的综述;</li>
+</ul>
+
+<p></p>
+
+<h3 id="二次可分解子模函数最小化-理论与实践">二次可分解子模函数最小化：理论与实践</h3>
+
+<p>原文标题： Quadratic Decomposable Submodular Function Minimization: Theory and Practice</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1902.10132">http://arxiv.org/abs/1902.10132</a></p>
+
+<p>作者： Pan Li, Niao He, Olgica Milenkovic</p>
+
+<p>摘要： 我们引入了一个新的凸优化问题，称为二次可分解子模函数最小化（QDSFM），它允许在图和超图上模拟许多学习任务。该问题与可分解的子模函数最小化（DSFM）密切相关，但解决起来更具挑战性。我们通过一种新的双重策略来解决这个问题，并制定一个可以通过许多双循环算法进行优化的目标。外环使用随机坐标下降（RCD）或替代投影（AP）方法，两者都证明了线性收敛速度。内环通过修改的min-norm-point或Frank-Wolfe算法计算由子模块函数的基础多面体生成的锥体上的投影。我们还描述了QDSFM的两个新应用：超图适应的PageRank和半监督学习。提出的基于超图的PageRank算法可用于局部超图分区，并具有可证明的性能保证。对于超图适应的半监督学习，我们提供数值实验，证明我们的QDSFM求解器的效率，以及与最先进的方法相比，它们对预测精度的显著改进。</p>
+
+<h3 id="evolvegcn-动态图的演化图卷积网络">EvolveGCN：动态图的演化图卷积网络</h3>
+
+<p>原文标题： EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1902.10191">http://arxiv.org/abs/1902.10191</a></p>
+
+<p>作者： Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Charles E. Leisersen</p>
+
+<p>摘要： 由于欧几里德数据的深度学习的广泛使用，图表示学习作为趋势研究主题重新出现，这激发了非欧几里德域中的神经网络的各种创造性设计，特别是图。随着这些图神经网络（GNN）在静态设置中的成功，我们接近图动态演化的进一步实际场景。对于这种情况，将GNN与循环神经网络（RNN，广泛地说）相结合是一个自然的想法。现有方法通常通过使用RNN捕获输出节点嵌入的动态并隐式地调节图模型来学习所有图的单个图模型。在这项工作中，我们提出了一种不同的方法，创造了EvolveGCN，它使用RNN随时间演变图模型本身。该模型自适应方法是面向模型而不是面向节点，因此在输入的灵活性方面是有利的。例如，在极端情况下，模型可以在新的时间步骤处理一组全新的节点，其历史信息是未知的，因为动态已经被转移到GNN参数。我们评估所提出的任务方法，包括节点分类，边分类和链路预测。实验结果表明，与相关方法相比，EvolveGCN的性能普遍较高。</p>
+
+<h3 id="使用机器学习算法预测复杂网络中的疾病可控性">使用机器学习算法预测复杂网络中的疾病可控性</h3>
+
+<p>原文标题： Prediction of the disease controllability in a complex network using machine learning algorithms</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1902.10224">http://arxiv.org/abs/1902.10224</a></p>
+
+<p>作者： Richa Tripathi, Amit Reza, Dinesh Garg</p>
+
+<p>摘要： 机器学习（ML）技术的应用涵盖了从语音，面部和字符识别到医学诊断到数据异常检测以及一般分类，预测和回归问题的广泛应用。在目前的工作中，我们展示了基于回归的现有机器学习技术在复杂网络上疾病可控性预测中的应用。复杂的网络模型确定了个体群体的分布空间以及它们之间的相互作用。有许多流行病传播模型，如SI（易感染 - 感染），SIR（易感染 - 感染 - 恢复），SEIR（易感染 - 暴露 - 感染 - 恢复）等，控制疾病传播动态随时间和静止状态。这种病。我们在标准模型网络的大量复杂网络示例中模拟疾病传播动态，并确定每种情况的基本再现数（R 0）。 R_0是确定无疾病流行病或地方病状态是否渐近稳定的指标。换句话说，它确定传染病是否可以在人群中传播或者从长远来看是否会消亡，从而表明对人群的疾病可控性。我们的目标是使用ML的回归技术，基于复杂网络结构特性的重要性来预测该数量（R 0），而不考虑网络类型。由于两个事实，预测是可能的（a）复杂网络的结构在网络传播过程中起着至关重要的作用。 （b）非线性回归技术的可用性，即使对于高度非线性的数据，也能以极好的精度预测数量。</p>
+
+<h3 id="深度对抗网络对齐">深度对抗网络对齐</h3>
+
+<p>原文标题： Deep Adversarial Network Alignment</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1902.10307">http://arxiv.org/abs/1902.10307</a></p>
+
+<p>作者： Tyler Derr, Hamid Karimi, Xiaorui Liu, Jiejun Xu, Jiliang Tang</p>
+
+<p>摘要： 通常，网络对齐寻求在给定其网络结构时发现跨两个（或更多）网络的节点之间隐藏的底层对应关系。然而，大多数现有的网络对齐方法已经添加了额外约束的假设以指导对齐，例如在网络上具有一组种子节点 - 节点对应或者存在边信息。相反，我们寻求开发一种通用网络对齐算法，不需要额外的假设。最近，网络嵌入在许多网络分析任务中已证明是有效的，但不同网络的嵌入不一致。因此，我们提出了深度对抗网络对齐（DANA）框架，该框架首先使用深度对抗性学习来发现复杂映射，以便对齐两个网络的嵌入分布。然后，使用我们学习的映射函数，DANA执行有效的最近邻居节点对齐。我们在现实世界数据集上进行实验，以显示我们的框架首先对齐图嵌入分布，然后发现优于现有方法的节点对齐的有效性。</p>
+
+<h3 id="利用模体对扩散网络的时间动力学进行建模">利用模体对扩散网络的时间动力学进行建模</h3>
+
+<p>原文标题： Leveraging Motifs to Model the Temporal Dynamics of Diffusion Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1902.10366">http://arxiv.org/abs/1902.10366</a></p>
+
+<p>作者： Soumajyoti Sarkar, Hamidreza Alvari, Paulo Shakarian</p>
+
+<p>摘要： 基于社交影响模型的信息扩散机制主要使用当活动邻居将用户暴露给消息时的采用可能性来研究。问题主要来自这样一个事实：在大多数情况下，在易受感染的节点被感染之前，社会网络中的一组活跃邻居中谁暴露谁的明确信息是不可用的。在本文中，我们试图通过研究级联的时间网络结构来了解信息级联的扩散过程。在这样做时，我们通过网络修剪技术来适应来自节点的活动邻居的暴露的影响，该技术利用网络图案来识别负责这些活动邻居之间的暴露的潜在感染者。我们尝试评估用于建模级联动力学的组件的有效性，尤其是曝光信息的附加效果是否有用。在此模型之后，我们开发了一种推理算法，即InferCut，它使用从模型中学习的参数和暴露信息来预测给定级联中每个潜在易感用户的实际父节点。来自微博社会网络的现实世界数据集的实证评估证明了在扩散过程的早期阶段将曝光信息结合到恢复暴露用户的确切父母中的重要性。</p>
+
+<h3 id="融入语义分析和机器学习的社会信用-对最新技术和未来研究方向的综述">融入语义分析和机器学习的社会信用：对最新技术和未来研究方向的综述</h3>
+
+<p>原文标题： Social Credibility Incorporating Semantic Analysis and Machine Learning: A Survey of the State-of-the-Art and Future Research Directions</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1902.10402">http://arxiv.org/abs/1902.10402</a></p>
+
+<p>作者： Bilal Abu-Salih, Bushra Bremie, Pornpit Wongthongtham, Kevin Duan, Tomayess Issa, Kit Yan Chan, Mohammad Alhabashneh, Teshreen Albtoush, Sulaiman Alqahtani, Abdullah Alqahtani, Muteeb Alahmari, Naser Alshareef, Abdulaziz Albahlal</p>
+
+<p>摘要： 社会大数据（SBD）的丰富为组织提供了一个独特的机会，可以过度使用这些数据丰富来增加收入。因此，迫切需要捕获，加载，存储，处理，分析，转换，解释和可视化这些多样化的社交数据集，以开发特定于应用领域的有意义的见解。本文通过介绍该研究课题的最新文献综述，奠定了理论背景。这与对当前方法的批判性评估有关，并且通过某些建议加以强化，以弥合研究差距。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20190228/">https://www.complexly.me/post/20190228/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20190227/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要4篇(2019-02-27)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

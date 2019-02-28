@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-02-28)</title>
+      <link>https://www.complexly.me/post/20190228/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190228/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;二次可分解子模函数最小化：理论与实践;&lt;/li&gt;
+&lt;li&gt;EvolveGCN：动态图的演化图卷积网络;&lt;/li&gt;
+&lt;li&gt;使用机器学习算法预测复杂网络中的疾病可控性;&lt;/li&gt;
+&lt;li&gt;深度对抗网络对齐;&lt;/li&gt;
+&lt;li&gt;利用模体对扩散网络的时间动力学进行建模;&lt;/li&gt;
+&lt;li&gt;融入语义分析和机器学习的社会信用：对最新技术和未来研究方向的综述;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2019-02-27)</title>
