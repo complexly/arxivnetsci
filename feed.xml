@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2019-03-06)</title>
+      <link>https://www.complexly.me/post/20190306/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190306/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Ad-Hoc网络中的社交感知拥塞控制：现状与前进方向;&lt;/li&gt;
+&lt;li&gt;少即是多：用于检测社交媒体中恶意用户的半监督因果推理;&lt;/li&gt;
+&lt;li&gt;分析多层网络中的模体;&lt;/li&gt;
+&lt;li&gt;社会推荐系统中的信任与诚信;&lt;/li&gt;
+&lt;li&gt;利用简化谷歌矩阵分析联合国COMTRADE数据，评估石油和天然气贸易减少对欧盟经济的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2019-03-05)</title>
