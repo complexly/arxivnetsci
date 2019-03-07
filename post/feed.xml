@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-03-07)</title>
+      <link>https://www.complexly.me/post/20190307/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190307/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会网络中信息访问的差距;&lt;/li&gt;
+&lt;li&gt;多重网络中多目标干预的共识排名;&lt;/li&gt;
+&lt;li&gt;稀疏数据的符号链路预测：人格信息的作用;&lt;/li&gt;
+&lt;li&gt;用于用户身份链接的图神经网络;&lt;/li&gt;
+&lt;li&gt;文化模因的演化动力学及其在大规模电影数据上的应用;&lt;/li&gt;
+&lt;li&gt;交通网络中个体路由随机性的全局益处;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2019-03-06)</title>
