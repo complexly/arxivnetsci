@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2019-03-12)</title>
+      <link>https://www.complexly.me/post/20190312/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190312/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;覆盖问题和超图的核渗流;&lt;/li&gt;
+&lt;li&gt;价格模型中最长的路径;&lt;/li&gt;
+&lt;li&gt;同质活动系统中由网络拓扑调节的图灵斑图;&lt;/li&gt;
+&lt;li&gt;Web缺少基础架构的重要组成部分：开放的Web索引;&lt;/li&gt;
+&lt;li&gt;DeepTagRec：基于内容和用户的Stack Overflow标签推荐框架;&lt;/li&gt;
+&lt;li&gt;恢复中的Redditors：挖掘Reddit文本调查药物成瘾转变;&lt;/li&gt;
+&lt;li&gt;迈向新的社会实验室：通过燃烧人的社区参与进行搜索实验研究;&lt;/li&gt;
+&lt;li&gt;Web上的图数据：扩展主轴，不要重新发明轮子;&lt;/li&gt;
+&lt;li&gt;公路交通数据：基于高D数据集的宏观、微观和关键性分析，用于刻画相关交通情景和交通建模;&lt;/li&gt;
+&lt;li&gt;地理本地微博应用中的标签使用;&lt;/li&gt;
+&lt;li&gt;整合的悖论——二维状态动力学;&lt;/li&gt;
+&lt;li&gt;推特上的单词尺度律;&lt;/li&gt;
+&lt;li&gt;使用联合药物治疗将疟疾从地方性流行病变为根除状态：基于主体的模型方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2019-03-11)</title>
