@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2019-03-13)</title>
+      <link>https://www.complexly.me/post/20190313/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190313/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会网络的迭代局部模型;&lt;/li&gt;
+&lt;li&gt;从路径聚合中学习图中的边属性;&lt;/li&gt;
+&lt;li&gt;基于子集选择的方法寻找复杂网络的重要结构;&lt;/li&gt;
+&lt;li&gt;从Twitter语料库中提取本地化信息用于洪涝预防;&lt;/li&gt;
+&lt;li&gt;资本成本的区域差异对具有雄心勃勃的二氧化碳减排目标的电力系统优化设计的影响;&lt;/li&gt;
+&lt;li&gt;意见形成的统计物理学：它是否属于该领域？;&lt;/li&gt;
+&lt;li&gt;什么使验证用户与众不同？ Twitter上验证用户的认识、分析和预测;&lt;/li&gt;
+&lt;li&gt;QuickStop：最快错误信息检测的马尔科夫最优停止方法;&lt;/li&gt;
+&lt;li&gt;劳动力流动网络的摩擦失业;&lt;/li&gt;
+&lt;li&gt;间作农业可持续蚜虫防治的数学模型;&lt;/li&gt;
+&lt;li&gt;用社交媒体表征当地对移民的态度;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2019-03-12)</title>
