@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2019-03-15)</title>
+      <link>https://www.complexly.me/post/20190315/</link>
+      <pubDate>Fri, 15 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190315/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过无标度特性促进复杂脑网络扩散期间的交叉频率相互作用;&lt;/li&gt;
+&lt;li&gt;HopRank：语义结构如何影响PageRank中的传送（BioPortal案例研究）;&lt;/li&gt;
+&lt;li&gt;基于文本的流行病智能方法综述：一种计算语言学视角;&lt;/li&gt;
+&lt;li&gt;隐蔽网络：隐藏有多难？;&lt;/li&gt;
+&lt;li&gt;多层网络中的交互扩散过程;&lt;/li&gt;
+&lt;li&gt;图嵌入对欺诈检测/风险缓解的经验影响;&lt;/li&gt;
+&lt;li&gt;基于亲和力的社会网络ABMS;&lt;/li&gt;
+&lt;li&gt;用于图可视化、聚类和分类的无监督网络嵌入;&lt;/li&gt;
+&lt;li&gt;在线社区中用户交互时间频率表达的信任;&lt;/li&gt;
+&lt;li&gt;重新感染可以告诉我们R0的什么信息？梅毒传播的建模案例研究;&lt;/li&gt;
+&lt;li&gt;石头剪子布博弈;&lt;/li&gt;
+&lt;li&gt;可以防护对抗性网络攻击吗？;&lt;/li&gt;
+&lt;li&gt;利用R语言潜空间调整方法估计社会影响力;&lt;/li&gt;
+&lt;li&gt;L^gamma-PageRank用于半监督学习;&lt;/li&gt;
+&lt;li&gt;论自组织城市街道网络的扰动;&lt;/li&gt;
+&lt;li&gt;在通勤网络中使用社区检测划分地理区域;&lt;/li&gt;
+&lt;li&gt;自动驾驶汽车速度控制的博弈论框架：连接微观微分博弈和宏观平均场博弈;&lt;/li&gt;
+&lt;li&gt;即时宣布选举的累积图表;&lt;/li&gt;
+&lt;li&gt;筛查谁和何时筛查：不确定性复发传染病的多轮主动筛查;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2019-03-14)</title>
