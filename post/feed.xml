@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-03-19)</title>
+      <link>https://www.complexly.me/post/20190319/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190319/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络上精确SIR马尔可夫过程的有效遏制;&lt;/li&gt;
+&lt;li&gt;一阶和二阶交通网络组合模型;&lt;/li&gt;
+&lt;li&gt;大规模生成城市形态;&lt;/li&gt;
+&lt;li&gt;同质性让社交网站更有影响力吗？探索渗透战略;&lt;/li&gt;
+&lt;li&gt;早期职业挫折和未来职业影响;&lt;/li&gt;
+&lt;li&gt;多维城市网络渗流;&lt;/li&gt;
+&lt;li&gt;自动应用可信度评估工具来跟踪社交媒体上分享的与疫苗接种相关的信息;&lt;/li&gt;
+&lt;li&gt;异构图注意网络;&lt;/li&gt;
+&lt;li&gt;含时网络上随机游走的类;&lt;/li&gt;
+&lt;li&gt;使用网络信息进行流行病控制的有效疫苗接种策略;&lt;/li&gt;
+&lt;li&gt;量化科研、初创公司和安全方面的失败动态;&lt;/li&gt;
+&lt;li&gt;MediaRank：在线新闻源的计算排名;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-03-18)</title>
