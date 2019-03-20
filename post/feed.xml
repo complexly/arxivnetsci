@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-03-20)</title>
+      <link>https://www.complexly.me/post/20190320/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190320/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;所有成功的社区都相似吗？表征和预测在线社区的成功;&lt;/li&gt;
+&lt;li&gt;在承诺与绩效之间：通过治理网络实施科技政策;&lt;/li&gt;
+&lt;li&gt;行人的身体旋转行为在通过和交叉流动中避免碰撞;&lt;/li&gt;
+&lt;li&gt;武装冲突数据的涌现规则性和尺度率;&lt;/li&gt;
+&lt;li&gt;追踪演化社会网络中社区的不同方法的比较研究;&lt;/li&gt;
+&lt;li&gt;基于差分隐私共识的分布式优化;&lt;/li&gt;
+&lt;li&gt;基于小波变换和机器学习的人群密度估计;&lt;/li&gt;
+&lt;li&gt;零排放邻域（ZENs）能源系统的成本优化设计：Evenstad的模型表示和案例研究;&lt;/li&gt;
+&lt;li&gt;图的集合聚类：比较和应用;&lt;/li&gt;
+&lt;li&gt;离散时间NIMFA流行病模型的病毒状态动力学;&lt;/li&gt;
+&lt;li&gt;多路网络的算法复杂性;&lt;/li&gt;
+&lt;li&gt;消除社区检测偏差：低连接度节点的重要性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-03-19)</title>
