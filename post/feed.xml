@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 21 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-03-22)</title>
+      <link>https://www.complexly.me/post/20190322/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190322/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;现实启发投票模型：小型综述;&lt;/li&gt;
+&lt;li&gt;使用自我中心聚类在LinkedIn测量网络效果;&lt;/li&gt;
+&lt;li&gt;使用双曲几何的链路预测;&lt;/li&gt;
+&lt;li&gt;含时图的节点嵌入;&lt;/li&gt;
+&lt;li&gt;子图网络在结构特征空间扩展中的应用;&lt;/li&gt;
+&lt;li&gt;网络共识模型的可控性Gramian子矩阵;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2019-03-21)</title>
