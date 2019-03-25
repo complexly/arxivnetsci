@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2019-03-25)</title>
+      <link>https://www.complexly.me/post/20190325/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190325/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;假新闻检测的分层传播网络：调查与开发;&lt;/li&gt;
+&lt;li&gt;多状态噪声投票模型的共识和多样性;&lt;/li&gt;
+&lt;li&gt;演化囚徒困境博弈中变异率与多策略更新规则共存的作用;&lt;/li&gt;
+&lt;li&gt;复杂网络的广义线性响应理论及其在微电网中可再生能源波动的应用;&lt;/li&gt;
+&lt;li&gt;大脑如何从有意识转变为潜意识感知;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-03-22)</title>
