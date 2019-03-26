@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2019-03-26)</title>
+      <link>https://www.complexly.me/post/20190326/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190326/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;量化网络结构对集体决策的速度和准确性的影响;&lt;/li&gt;
+&lt;li&gt;利用语言学习协作社会网络评估写作熟练程度：Yask;&lt;/li&gt;
+&lt;li&gt;社区检测的精确“没有免费午餐”定理;&lt;/li&gt;
+&lt;li&gt;Fiducia：Zomato的个性化食品推荐系统;&lt;/li&gt;
+&lt;li&gt;同步交通流统计物理：S→F和S→J不稳定性之间的时空竞争;&lt;/li&gt;
+&lt;li&gt;国家发展程度影响了疾病空间;&lt;/li&gt;
+&lt;li&gt;实时社会数据中的焦虑抑郁预测;&lt;/li&gt;
+&lt;li&gt;网络地平线动力学I：定性角度;&lt;/li&gt;
+&lt;li&gt;用于推荐系统中多方面社会效应的深度潜变量表示的双图注意力网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2019-03-25)</title>
