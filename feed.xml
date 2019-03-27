@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2019-03-27)</title>
+      <link>https://www.complexly.me/post/20190327/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190327/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GEVR：针对手机用户群的活动场所推荐系统;&lt;/li&gt;
+&lt;li&gt;生物医学领域科学与技术联动演变分析;&lt;/li&gt;
+&lt;li&gt;通过筛选相关矩阵构建网络：零模型方法;&lt;/li&gt;
+&lt;li&gt;利用动力学的网络重构与社区检测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2019-03-26)</title>
