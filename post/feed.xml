@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2019-03-28)</title>
+      <link>https://www.complexly.me/post/20190328/</link>
+      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190328/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;不只是抑郁：Reddit的双向障碍预测;&lt;/li&gt;
+&lt;li&gt;为什么理解多元社会网络结构化过程将有助于我们更好地理解人类行为的演变;&lt;/li&gt;
+&lt;li&gt;一点点知识是危险的：过度自信解释了对科学的消极态度;&lt;/li&gt;
+&lt;li&gt;Airbnb对伦敦住房结构的破坏;&lt;/li&gt;
+&lt;li&gt;窥探推文地理位置隐私：一种基于图卷积神经网络的方法;&lt;/li&gt;
+&lt;li&gt;完全同构的网络;&lt;/li&gt;
+&lt;li&gt;活动驱动网络的突发性和流行病阈值;&lt;/li&gt;
+&lt;li&gt;感知加密货币新闻的社交媒体信号;&lt;/li&gt;
+&lt;li&gt;回声室内部和之间的词汇汇聚;&lt;/li&gt;
+&lt;li&gt;网络驱动的经济中通过邻居属性实现混合价格歧视;&lt;/li&gt;
+&lt;li&gt;信息融合评估城市密集街区的抗灾能力;&lt;/li&gt;
+&lt;li&gt;从早期采用者角色手中到虚拟垃圾场：虚拟商品寿命生存分析;&lt;/li&gt;
+&lt;li&gt;具有逆火效应和偏差同化的意见动力学;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2019-03-27)</title>
