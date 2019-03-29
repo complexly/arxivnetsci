@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2019-03-29)</title>
+      <link>https://www.complexly.me/post/20190329/</link>
+      <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190329/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;大规模公用设施网络的多尺度最短路径算法;&lt;/li&gt;
+&lt;li&gt;模拟古代帝国的动态与冲突;&lt;/li&gt;
+&lt;li&gt;具有幂律衰减键强度的随机网络中的多重分形;&lt;/li&gt;
+&lt;li&gt;大图上完全个性化PageRank的分布式算法;&lt;/li&gt;
+&lt;li&gt;用于复杂网络鲁棒社区检测的正则化随机块模型;&lt;/li&gt;
+&lt;li&gt;解开狗行为中的语言模式;&lt;/li&gt;
+&lt;li&gt;使用模式S数据的跑道偏移预警的定量评估;&lt;/li&gt;
+&lt;li&gt;关于欧足联2020欧洲杯预选赛附加赛的说明;&lt;/li&gt;
+&lt;li&gt;基于社会网络的旅游推荐系统：综述;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2019-03-28)</title>
