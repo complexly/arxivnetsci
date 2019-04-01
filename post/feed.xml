@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 29 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2019-04-01)</title>
+      <link>https://www.complexly.me/post/20190401/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190401/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;开放式演化与Web服务新颖性机制;&lt;/li&gt;
+&lt;li&gt;PyTorch-BigGraph：大规模图嵌入系统;&lt;/li&gt;
+&lt;li&gt;复杂网络中混合意见动态的平均复制者投票模型;&lt;/li&gt;
+&lt;li&gt;网络社会系统：建模、推理和优化设计;&lt;/li&gt;
+&lt;li&gt;基于扩散的推荐系统的可预测性;&lt;/li&gt;
+&lt;li&gt;Heider平衡和镜像自我;&lt;/li&gt;
+&lt;li&gt;利用基于CDR的社会网络预测复杂的用户行为;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2019-03-29)</title>
