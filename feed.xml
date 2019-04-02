@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2019-04-02)</title>
+      <link>https://www.complexly.me/post/20190402/</link>
+      <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190402/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有不一致性的同质对称阈值模型：独立性与反一致性;&lt;/li&gt;
+&lt;li&gt;推特议员：英国公民与议员之间的数字互动;&lt;/li&gt;
+&lt;li&gt;多路网络的扩散行为;&lt;/li&gt;
+&lt;li&gt;公平核心-边缘图的谱密度;&lt;/li&gt;
+&lt;li&gt;提高推荐系统的长期性能;&lt;/li&gt;
+&lt;li&gt;在大数据平台中使用机器学习和社会网络分析进行电信客户流失预测;&lt;/li&gt;
+&lt;li&gt;社交媒体中人类价值观和对疫苗接种的态度;&lt;/li&gt;
+&lt;li&gt;NewsCompare：一种用于检测国家新闻影响的新颖应用程序;&lt;/li&gt;
+&lt;li&gt;一词多义、简洁性与语言的频率;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2019-04-01)</title>
