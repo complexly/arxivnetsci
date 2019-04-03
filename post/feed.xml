@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-04-03)</title>
+      <link>https://www.complexly.me/post/20190403/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190403/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;纠缠引发的网络分岔的涌现;&lt;/li&gt;
+&lt;li&gt;美国城市在线约会市场结构;&lt;/li&gt;
+&lt;li&gt;使用深度神经网络进行Twitter网络威胁检测;&lt;/li&gt;
+&lt;li&gt;半监督图标记显示美国国会的党派关系日益增长;&lt;/li&gt;
+&lt;li&gt;重复囚徒困境博弈中有观察错误时强制线性回报关系的策略;&lt;/li&gt;
+&lt;li&gt;arXiv与物理预印本和期刊评论文章的共生：一个模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2019-04-02)</title>
