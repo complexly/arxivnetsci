@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 04 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-04-08)</title>
+      <link>https://www.complexly.me/post/20190408/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190408/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于局部聚类的热传导核PageRank的有效估计;&lt;/li&gt;
+&lt;li&gt;基于贝叶斯的公共情感建模方法;&lt;/li&gt;
+&lt;li&gt;符号网络形成博弈和集群平衡;&lt;/li&gt;
+&lt;li&gt;通过输配水网络中的多尺度反馈环路量化网络弹性;&lt;/li&gt;
+&lt;li&gt;打击假新闻的开放问题：可解释性机遇;&lt;/li&gt;
+&lt;li&gt;使用递归神经网络推断振荡系统的动力学;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-04-04)</title>
