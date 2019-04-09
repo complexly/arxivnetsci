@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2019-04-09)</title>
+      <link>https://www.complexly.me/post/20190409/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190409/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社交媒体上的热点;&lt;/li&gt;
+&lt;li&gt;动态网络的拟合优度检验;&lt;/li&gt;
+&lt;li&gt;含时网络的增量嵌入;&lt;/li&gt;
+&lt;li&gt;检测Reddit上违反宏规范的注释的混合方法;&lt;/li&gt;
+&lt;li&gt;真或假？用户行为和态度与确定社交媒体帖子的准确性有关;&lt;/li&gt;
+&lt;li&gt;利用组合传递熵和特征向量中心性分析进行全厂故障和扰动筛选;&lt;/li&gt;
+&lt;li&gt;城市恐怖主义的共同统计模式;&lt;/li&gt;
+&lt;li&gt;语境情感分析：网上MeToo故事中人物形象的个案研究;&lt;/li&gt;
+&lt;li&gt;聪明、负责任和仅限上层种姓：通过对婚姻状况的大规模分析来衡量种姓态度;&lt;/li&gt;
+&lt;li&gt;分布式无需信任社会技术系统的脆弱性;&lt;/li&gt;
+&lt;li&gt;人工蜂群算法中社会交互的表征;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-04-08)</title>
