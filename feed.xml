@@ -7,10 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 10 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要23篇(2019-04-11)</title>
+      <link>https://www.complexly.me/post/20190411/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190411/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;利用CDC网络流量数据预测流感发病率：使用新型数据集进行演示;&lt;/li&gt;
+&lt;li&gt;环境变迁与音乐认同动力学;&lt;/li&gt;
+&lt;li&gt;从时间序列中发现在线流行的模式;&lt;/li&gt;
+&lt;li&gt;网络深度：识别复杂网络的中位数和轮廓;&lt;/li&gt;
+&lt;li&gt;与其遗憾不如谨慎：改进社会机器人检测的对抗方法;&lt;/li&gt;
+&lt;li&gt;使用网络模体了解级联中的信息流;&lt;/li&gt;
+&lt;li&gt;科学地下城：绘制信仰场所和空间;&lt;/li&gt;
+&lt;li&gt;基于时态数据的社会网络社区检测;&lt;/li&gt;
+&lt;li&gt;不确定图上s-t可靠性算法的深入比较;&lt;/li&gt;
+&lt;li&gt;一种识别假新闻网站的分类算法;&lt;/li&gt;
+&lt;li&gt;比特币价格预测：ARIMA方法;&lt;/li&gt;
+&lt;li&gt;考虑风险的前k推荐重排序;&lt;/li&gt;
+&lt;li&gt;变为无标记的坟墓：社交媒体上的死者内容分类;&lt;/li&gt;
+&lt;li&gt;政策辩论中的内生联盟形成;&lt;/li&gt;
+&lt;li&gt;PropTech对印度房地产市场分类广告中房屋的主动定价;&lt;/li&gt;
+&lt;li&gt;GraSPy：Python图统计;&lt;/li&gt;
+&lt;li&gt;多路网络中社区检测的分层随机块模型;&lt;/li&gt;
+&lt;li&gt;基于风味的食物推荐;&lt;/li&gt;
+&lt;li&gt;异构群体非对齐网络的社区检测;&lt;/li&gt;
+&lt;li&gt;随机块模型中潜在维数和社团的贝叶斯估计;&lt;/li&gt;
+&lt;li&gt;分析网络数据的九个快速技巧;&lt;/li&gt;
+&lt;li&gt;修改随机块模型用于幂律度分布;&lt;/li&gt;
+&lt;li&gt;未知环境中行人出行的稳健设计优化;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-04-10)</title>
