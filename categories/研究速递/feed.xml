@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 11 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2019-04-12)</title>
+      <link>https://www.complexly.me/post/20190412/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190412/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;RankMerging：用于预测大型社会网络中链接的监督学习排名框架;&lt;/li&gt;
+&lt;li&gt;基于不一致社区检测的网络要素关系灵活性;&lt;/li&gt;
+&lt;li&gt;隐私协议;&lt;/li&gt;
+&lt;li&gt;最后通牒和独裁者混合博弈的主体网络中的社会结构形成;&lt;/li&gt;
+&lt;li&gt;随机网络竞争影响的渗流阈值;&lt;/li&gt;
+&lt;li&gt;相互依存的基础设施系统风险和面对自然灾害的弹性;&lt;/li&gt;
+&lt;li&gt;复杂网络中心性度量的带吸收随机游走插值;&lt;/li&gt;
+&lt;li&gt;带管制的财富分配模型：动态和均衡;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要23篇(2019-04-11)</title>
