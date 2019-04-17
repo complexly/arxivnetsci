@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 16 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2019-04-17)</title>
+      <link>https://www.complexly.me/post/20190417/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190417/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;亚里士多德与林格曼的关系：开源软件中的超线性生产;&lt;/li&gt;
+&lt;li&gt;距离泛化核分解;&lt;/li&gt;
+&lt;li&gt;激励基于区块链的社交媒体平台：Steemit案例研究;&lt;/li&gt;
+&lt;li&gt;社交媒体的数字架构：在2016年美国大选中比较Facebook、Twitter、Instagram和Snapchat上的政治竞选;&lt;/li&gt;
+&lt;li&gt;事情正在酝酿！从讨论特征早期预测引起争议的帖子;&lt;/li&gt;
+&lt;li&gt;图比较的指标：实践指南;&lt;/li&gt;
+&lt;li&gt;新闻报道中的选择偏见：学习它，对抗它;&lt;/li&gt;
+&lt;li&gt;媒体景观的动态嵌入模型;&lt;/li&gt;
+&lt;li&gt;研究属性对社交媒体用户信任的影响;&lt;/li&gt;
+&lt;li&gt;更广、更远：通过影响分散树来量化科技论文的影响;&lt;/li&gt;
+&lt;li&gt;重新思考科学中的资源配置;&lt;/li&gt;
+&lt;li&gt;医学研究中的睡美人：技术相关性，高科学影响力;&lt;/li&gt;
+&lt;li&gt;虚拟物品赌博经济的多交互动力学建模;&lt;/li&gt;
+&lt;li&gt;在线同人小说的相似性吸引人，新颖性干扰人，但异类蓬勃发展;&lt;/li&gt;
+&lt;li&gt;使用图卷积网络基于拓扑进行论文领域的分类;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-04-16)</title>
