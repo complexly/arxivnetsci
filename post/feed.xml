@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 18 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-04-19)</title>
+      <link>https://www.complexly.me/post/20190419/</link>
+      <pubDate>Fri, 19 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190419/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;系统比较在复杂网络中检测有影响力的传播者的方法;&lt;/li&gt;
+&lt;li&gt;深度表征学习用于社会网络分析;&lt;/li&gt;
+&lt;li&gt;一种快速有效的动态社区检测增量方法;&lt;/li&gt;
+&lt;li&gt;node2bits：用于用户拼接的紧凑的时间和属性感知节点表示;&lt;/li&gt;
+&lt;li&gt;社会网络中失效的影响最大化;&lt;/li&gt;
+&lt;li&gt;维基百科文章中的社会争议;&lt;/li&gt;
+&lt;li&gt;SEVA：电动汽车充电行为的数据驱动模型;&lt;/li&gt;
+&lt;li&gt;多语言社会网络文本表征方案过滤言语攻击的实证评价;&lt;/li&gt;
+&lt;li&gt;基于Copula的生成突发时间序列的算法;&lt;/li&gt;
+&lt;li&gt;通过表征学习实现影响最大化;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2019-04-18)</title>
