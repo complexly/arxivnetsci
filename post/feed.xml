@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2019-04-22)</title>
+      <link>https://www.complexly.me/post/20190422/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190422/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;对大量推文使用word2vec和潜在主题分析来表征城市人口;&lt;/li&gt;
+&lt;li&gt;网络主节点交互的新（aleph）随机猝灭障碍模型;&lt;/li&gt;
+&lt;li&gt;没有永久的朋友或敌人：追踪国家与新闻之间的关系;&lt;/li&gt;
+&lt;li&gt;（不）理性选择的物理学;&lt;/li&gt;
+&lt;li&gt;数字时代的网络欺凌：人们在Twitter上的观点和信息共享行为;&lt;/li&gt;
+&lt;li&gt;媒体影响在线社会网络内容意识形态的模型;&lt;/li&gt;
+&lt;li&gt;离散层次作为最优成本调整生产力组织的理论;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-04-19)</title>
