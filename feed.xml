@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-04-24)</title>
+      <link>https://www.complexly.me/post/20190424/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190424/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;世界烹饪演变的计算模型;&lt;/li&gt;
+&lt;li&gt;识别复杂网络的内在长程度相关性;&lt;/li&gt;
+&lt;li&gt;基于层间相似性的多路网络链路预测;&lt;/li&gt;
+&lt;li&gt;释放支付渠道：量化闪电网络对基于拓扑的攻击的抵御能力;&lt;/li&gt;
+&lt;li&gt;政府立法部门极化的演变;&lt;/li&gt;
+&lt;li&gt;用于社会推荐的神经影响扩散模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-04-23)</title>
