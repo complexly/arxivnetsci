@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-04-26)</title>
+      <link>https://www.complexly.me/post/20190426/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190426/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;PAN：用于深度图神经网络的基于路径积分的卷积;&lt;/li&gt;
+&lt;li&gt;广义模块化嵌入：网络嵌入的通用框架;&lt;/li&gt;
+&lt;li&gt;具有不对称环境反馈的群体合作的演化动力学;&lt;/li&gt;
+&lt;li&gt;TwitterMancer：准确预测推特上的互动;&lt;/li&gt;
+&lt;li&gt;具有相同度分布的随机图的集合;&lt;/li&gt;
+&lt;li&gt;斐波那契树状模型的随机游走：幂律的涌现;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2019-04-25)</title>
