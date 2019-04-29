@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2019-04-29)</title>
+      <link>https://www.complexly.me/post/20190429/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190429/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;假新闻早期检测：理论驱动模型;&lt;/li&gt;
+&lt;li&gt;理解Instagram上政治互动;&lt;/li&gt;
+&lt;li&gt;理想点估计神经网络;&lt;/li&gt;
+&lt;li&gt;快或慢？踩镲时机与动力学的相关波动“普遍性”分析;&lt;/li&gt;
+&lt;li&gt;几何重整化揭示了多尺度人类连接组的自相似性;&lt;/li&gt;
+&lt;li&gt;没有顶点增长的优先连接：巨型组件的涌现;&lt;/li&gt;
+&lt;li&gt;带有未观察到的边的时变网络的谱划分;&lt;/li&gt;
+&lt;li&gt;通过网络信道节点移动的物质的统计分布;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-04-26)</title>
