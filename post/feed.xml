@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2019-04-30)</title>
+      <link>https://www.complexly.me/post/20190430/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190430/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;StartupBR：高等教育对巴西社会网络和企业家精神的影响;&lt;/li&gt;
+&lt;li&gt;专利引文网络的社区检测和增长潜力预测;&lt;/li&gt;
+&lt;li&gt;探索信息中心性在大型网络入侵检测中的应用;&lt;/li&gt;
+&lt;li&gt;社交媒体自动账户分类的社会信息学方法;&lt;/li&gt;
+&lt;li&gt;高质量基于度的启发式影响最大化问题;&lt;/li&gt;
+&lt;li&gt;通过非高斯波动的网络去同步;&lt;/li&gt;
+&lt;li&gt;图布局的深度生成模型;&lt;/li&gt;
+&lt;li&gt;TheFragebogen：基于Web浏览器的科研调查问卷框架;&lt;/li&gt;
+&lt;li&gt;用于含时间的推荐的链接流图;&lt;/li&gt;
+&lt;li&gt;基于密度的社区检测/优化;&lt;/li&gt;
+&lt;li&gt;N2VSCDNNR：基于Node2vec和富信息网络的本地推荐系统;&lt;/li&gt;
+&lt;li&gt;建模选举动态和虚假信息的影响;&lt;/li&gt;
+&lt;li&gt;使用分层上下文的递归神经网络进行推荐;&lt;/li&gt;
+&lt;li&gt;有顽固主体的本地非贝叶斯社会学习;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-04-29)</title>
