@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-05-01)</title>
+      <link>https://www.complexly.me/post/20190501/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190501/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用集体智能多模型集成平台预测埃博拉病毒病的情况：贝叶斯云;&lt;/li&gt;
+&lt;li&gt;文化特征之间的上位效应推动了文化演化的范式转变;&lt;/li&gt;
+&lt;li&gt;三角优先附着具有幂律度和特征值;特征值对网络采样更稳定;&lt;/li&gt;
+&lt;li&gt;贝塞尔式的生灭过程;&lt;/li&gt;
+&lt;li&gt;社会网络中商业广告的计算模型;&lt;/li&gt;
+&lt;li&gt;用户档案在假新闻检测中的作用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2019-04-30)</title>
