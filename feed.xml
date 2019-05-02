@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-05-02)</title>
+      <link>https://www.complexly.me/post/20190502/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190502/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络上的流行病：利用卫生紧急宣告和同伴沟通减少疾病传播;&lt;/li&gt;
+&lt;li&gt;推荐系统的尺度一致方法;&lt;/li&gt;
+&lt;li&gt;MixHop：通过稀疏邻域混合的高阶图卷积架构;&lt;/li&gt;
+&lt;li&gt;关于使用ArXiv作为数据集;&lt;/li&gt;
+&lt;li&gt;论家庭参与需求侧管理方案的最优电池尺寸;&lt;/li&gt;
+&lt;li&gt;通过相关和折衷编程评估三种可变能源之间的时间互补性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-05-01)</title>
