@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 02 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-05-03)</title>
+      <link>https://www.complexly.me/post/20190503/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190503/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用图共注意力网络预测药物合用不良反应;&lt;/li&gt;
+&lt;li&gt;极端发推者的社会网络：案例研究;&lt;/li&gt;
+&lt;li&gt;基于声誉的诱导亲社会行为的信息设计;&lt;/li&gt;
+&lt;li&gt;抽样中关系事件模型估计的可靠性：如何使关系事件模型适应3.6亿个二元事件;&lt;/li&gt;
+&lt;li&gt;关于社交媒体数据统计分析的两种现有方法;&lt;/li&gt;
+&lt;li&gt;动态网络中的时序有序聚类;&lt;/li&gt;
+&lt;li&gt;事件间隔时间的长尾分布看做指数分布的混合;&lt;/li&gt;
+&lt;li&gt;模仿动力学对SIR网络模型中疫苗接种行为的影响;&lt;/li&gt;
+&lt;li&gt;表征WhatsApp组中的注意力级联;&lt;/li&gt;
+&lt;li&gt;自适应Sznajd网络中的意见多样性与社会泡沫;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-05-02)</title>
