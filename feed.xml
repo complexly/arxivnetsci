@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2019-05-09)</title>
+      <link>https://www.complexly.me/post/20190509/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190509/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;展示共同点促进友谊的形成：大型随机田野实验;&lt;/li&gt;
+&lt;li&gt;使用新型计算框架进行多类Twitter数据分类和地理编码;&lt;/li&gt;
+&lt;li&gt;量化多边社会网络中的三角闭合;&lt;/li&gt;
+&lt;li&gt;社交媒体在水文信息学中的应用综述;&lt;/li&gt;
+&lt;li&gt;有引导的团队划分问题：定义，复杂性和算法;&lt;/li&gt;
+&lt;li&gt;周期中最大化最小值的份额分配;&lt;/li&gt;
+&lt;li&gt;斐波那契数列与图模型的纯优先附着机制之间的联系;&lt;/li&gt;
+&lt;li&gt;挖掘主观感兴趣的属性子图;&lt;/li&gt;
+&lt;li&gt;Tag2Vec：标记网络中的标记表示学习;&lt;/li&gt;
+&lt;li&gt;通过新闻传播动态和用户表示学习进行谣言检测;&lt;/li&gt;
+&lt;li&gt;Twitter扩散网络的拓扑比较可靠地揭示了虚假信息新闻;&lt;/li&gt;
+&lt;li&gt;Lanchester战斗模型的随机版本;&lt;/li&gt;
+&lt;li&gt;改划选区的混乱：地图投影置换区的紧凑度得分;&lt;/li&gt;
+&lt;li&gt;May-Leonard模型中的饥饿致死;&lt;/li&gt;
+&lt;li&gt;在线评论可以预测个股的长期回报;&lt;/li&gt;
+&lt;li&gt;一种基于加权随机块模型的混合推荐算法;&lt;/li&gt;
+&lt;li&gt;社交机器人的艺术：综述与分类改进;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-05-08)</title>
