@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 10 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要3篇(2019-05-13)</title>
+      <link>https://www.complexly.me/post/20190513/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190513/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在线回声室的必然性;&lt;/li&gt;
+&lt;li&gt;Check-It：用于检测和减少虚假新闻传播和网上错误信息的插件;&lt;/li&gt;
+&lt;li&gt;加权投票博弈中的平均权重和权力;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-05-10)</title>
