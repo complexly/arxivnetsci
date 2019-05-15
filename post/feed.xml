@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-05-15)</title>
+      <link>https://www.complexly.me/post/20190515/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190515/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;什么时候人们信任他们的社交团体？;&lt;/li&gt;
+&lt;li&gt;不可压缩高阶网络中的跨时边和交叉层边;&lt;/li&gt;
+&lt;li&gt;小世界连接组的通用和非通用神经动力学：有限大小的尺度分析;&lt;/li&gt;
+&lt;li&gt;友谊悖论造成了有向网络中的感知偏误;&lt;/li&gt;
+&lt;li&gt;后果排名算法和长期福利;&lt;/li&gt;
+&lt;li&gt;大图的查询处理：可扩展性和响应时间权衡的方法;&lt;/li&gt;
+&lt;li&gt;通过乘车数据来衡量和降低动态网络的不平衡水平;&lt;/li&gt;
+&lt;li&gt;复杂网络上触发的级联动力学;&lt;/li&gt;
+&lt;li&gt;LikeStarter：基于智能合约的社交DAO，用于众筹;&lt;/li&gt;
+&lt;li&gt;包含三个药剂相互作用的循环Lotka-Volterra模型变体的协同演化动力学;&lt;/li&gt;
+&lt;li&gt;ActiveHNE：主动异构网络嵌入;&lt;/li&gt;
+&lt;li&gt;当随机块模型遇到图神经网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2019-05-14)</title>
