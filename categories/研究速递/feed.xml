@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 16 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2019-05-17)</title>
+      <link>https://www.complexly.me/post/20190517/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190517/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;InfoRest：限制在线社会网络应用程序的隐私泄漏;&lt;/li&gt;
+&lt;li&gt;网络拓扑对直流电网稳定性的影响;&lt;/li&gt;
+&lt;li&gt;网络相似性方法的跨学科综述;&lt;/li&gt;
+&lt;li&gt;使用约简谷歌矩阵分析世贸组织数据中各国经济部门的相互依赖;&lt;/li&gt;
+&lt;li&gt;控制复杂性：具有给定度序列的复杂网络的结构可控性的多样性;&lt;/li&gt;
+&lt;li&gt;迭代囚徒困境中涌现的利用现象作为一种对称性破缺;&lt;/li&gt;
+&lt;li&gt;论社会网络中时间影响最大​​化的公平性;&lt;/li&gt;
+&lt;li&gt;异常用户行为的可视化分析：一项综述;&lt;/li&gt;
+&lt;li&gt;识别大型代码库中的协作者;&lt;/li&gt;
+&lt;li&gt;假新闻和谣言：引发扩散或逐渐消失;&lt;/li&gt;
+&lt;li&gt;利用正则性引理将结构与大图中的噪声分离;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-05-16)</title>
