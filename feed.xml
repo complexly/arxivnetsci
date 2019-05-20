@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 17 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2019-05-20)</title>
+      <link>https://www.complexly.me/post/20190520/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190520/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络之间的相互连接类似一阶渗流变化中的外部场;&lt;/li&gt;
+&lt;li&gt;深度统一多模态嵌入，用于理解社交媒体网络中的内容和用户;&lt;/li&gt;
+&lt;li&gt;仿真模型的探索方法;&lt;/li&gt;
+&lt;li&gt;通过远程监督从Twitter学习跨语言嵌入;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2019-05-17)</title>
