@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2019-05-21)</title>
+      <link>https://www.complexly.me/post/20190521/</link>
+      <pubDate>Tue, 21 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190521/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;不完善私有信号结构的非贝叶斯社会学习;&lt;/li&gt;
+&lt;li&gt;具有可重新激励节点的关键网络级联：为什么树状近似通常有效，何时崩溃，以及如何纠正它们;&lt;/li&gt;
+&lt;li&gt;用于边流的基于图的半监督和主动学习;&lt;/li&gt;
+&lt;li&gt;复杂网络中的嵌套性：观察、涌现和启示;&lt;/li&gt;
+&lt;li&gt;无人驾驶巴士：同步提高效率;&lt;/li&gt;
+&lt;li&gt;可扩展的Gromov-Wasserstein学习图分割和匹配;&lt;/li&gt;
+&lt;li&gt;对夏洛茨维尔2017年“团结右翼”集会的在线反应：利用媒体追随者衡量Twitter网络的两极分化;&lt;/li&gt;
+&lt;li&gt;结合基于内容和图的特征检测在线对话中的滥用语言;&lt;/li&gt;
+&lt;li&gt;基于共轭力模型的行人疏散模拟探索最优旁路策略;&lt;/li&gt;
+&lt;li&gt;使用自愿汇报的地理信息诊断小空间尺度的人体移动模型的性能;&lt;/li&gt;
+&lt;li&gt;考虑关系结构的异构信息网络嵌入;&lt;/li&gt;
+&lt;li&gt;少数人的力量：分析有影响力的用户在协同推荐系统中的影响;&lt;/li&gt;
+&lt;li&gt;多Agent市场的信誉系统;&lt;/li&gt;
+&lt;li&gt;T-EDGE：用于以太坊交易网络分析的时间加权多元有向图嵌入;&lt;/li&gt;
+&lt;li&gt;用于确定实体关系的图距离：欺诈检测的拓扑方法;&lt;/li&gt;
+&lt;li&gt;理解激进思维：识别信号检测Twitter上的极端主义内容;&lt;/li&gt;
+&lt;li&gt;当图挖掘遇到众包：为答案聚合选择专家;&lt;/li&gt;
+&lt;li&gt;Barabasi-Albert网络的配置模型;&lt;/li&gt;
+&lt;li&gt;神经图协同过滤;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2019-05-20)</title>
