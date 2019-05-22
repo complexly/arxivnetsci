@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 21 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-05-22)</title>
+      <link>https://www.complexly.me/post/20190522/</link>
+      <pubDate>Wed, 22 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190522/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;依赖边的顶点权重的超图上的随机游走;&lt;/li&gt;
+&lt;li&gt;从社交媒体来源获取高速流图;&lt;/li&gt;
+&lt;li&gt;复杂网络中恢复的持久阈值动态;&lt;/li&gt;
+&lt;li&gt;最大异配网络上的渗流;&lt;/li&gt;
+&lt;li&gt;人类接触网络的性质不断变化及其对流行病过程的影响;&lt;/li&gt;
+&lt;li&gt;树状时态网络中的并发性和可达性;&lt;/li&gt;
+&lt;li&gt;内容与结构融合的通用多层网络数据分析;&lt;/li&gt;
+&lt;li&gt;量化新颖性和影响力，以及范式转换的模式;&lt;/li&gt;
+&lt;li&gt;从流中学习保守网络;&lt;/li&gt;
+&lt;li&gt;社交媒体流简单有效早期抑郁检测的文本分类框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要19篇(2019-05-21)</title>
