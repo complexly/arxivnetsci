@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2019-05-23)</title>
+      <link>https://www.complexly.me/post/20190523/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190523/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;数据合作社：迈向分布式的个人数据管理基础;&lt;/li&gt;
+&lt;li&gt;IdeoTrace：意识形态追踪框架与2016年美国总统选举案例研究;&lt;/li&gt;
+&lt;li&gt;环中的分布式模式形成;&lt;/li&gt;
+&lt;li&gt;平面双曲流形上链接渗流的重整化群;&lt;/li&gt;
+&lt;li&gt;模拟与增强用于构建深度学习模型的社会网络;&lt;/li&gt;
+&lt;li&gt;全球Facebook使用的人口统计差异;&lt;/li&gt;
+&lt;li&gt;从动态观测中盲辨识随机块模型;&lt;/li&gt;
+&lt;li&gt;多层网络信息传播的最佳层间结构;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-05-22)</title>
