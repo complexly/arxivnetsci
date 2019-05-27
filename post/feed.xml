@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 24 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-05-27)</title>
+      <link>https://www.complexly.me/post/20190527/</link>
+      <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190527/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;forgeNet：使用基于树的集合分类器进行特征提取的图深度神经网络模型;&lt;/li&gt;
+&lt;li&gt;基于超网络的用户创新知识集成模型;&lt;/li&gt;
+&lt;li&gt;多方面隐私：如何在不暴露敏感属性的情况下表达您的在线角色;&lt;/li&gt;
+&lt;li&gt;扩展的无标度网络;&lt;/li&gt;
+&lt;li&gt;复杂网络中的信息对等;&lt;/li&gt;
+&lt;li&gt;监控动态网络：基于模拟的策略，用于比较监控方法和比较研究;&lt;/li&gt;
+&lt;li&gt;复杂网络中点对点传输的形态组织;&lt;/li&gt;
+&lt;li&gt;预测巴西法院的判决;&lt;/li&gt;
+&lt;li&gt;基于模块化的注意力模型的无监督社区检测;&lt;/li&gt;
+&lt;li&gt;Tempus Volat，Hora Fugit——离散和连续时间动态网络模型综述;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-05-24)</title>
