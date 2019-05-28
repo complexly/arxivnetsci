@@ -7,10 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要21篇(2019-05-28)</title>
+      <link>https://www.complexly.me/post/20190528/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190528/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过微观网络模型和宏观分支过程描述的扩散动态可能因聚结而不同;&lt;/li&gt;
+&lt;li&gt;从零开始学习识别高介数中心性节点：一种新的图神经网络方法;&lt;/li&gt;
+&lt;li&gt;使用boutique进行社交媒体数据的多模型调查探索——以公共卫生为例;&lt;/li&gt;
+&lt;li&gt;检测网络中时间序列数据的路径异常;&lt;/li&gt;
+&lt;li&gt;单个向量够了吗？探索网络嵌入的节点多义性;&lt;/li&gt;
+&lt;li&gt;用闭合系数测量有向三元闭包;&lt;/li&gt;
+&lt;li&gt;图注意力自动编码器;&lt;/li&gt;
+&lt;li&gt;具有M个选择的离散意见动态;&lt;/li&gt;
+&lt;li&gt;优化种子扩展群落检测的广义PageRank方法;&lt;/li&gt;
+&lt;li&gt;FOBE和HOBE：一阶和高阶二分嵌入;&lt;/li&gt;
+&lt;li&gt;共享感受：了解Facebook对学术文章的反应;&lt;/li&gt;
+&lt;li&gt;MCNE：学习社会网络的多个条件网络表示的端到端框架;&lt;/li&gt;
+&lt;li&gt;无监督欧氏距离攻击网络嵌入;&lt;/li&gt;
+&lt;li&gt;代码存储库中的幂律：可疑的方法;&lt;/li&gt;
+&lt;li&gt;h_alpha 指数是否强化了科学中的马太效应？使用Stata和R的基于主体的模拟;&lt;/li&gt;
+&lt;li&gt;决策参考信息;&lt;/li&gt;
+&lt;li&gt;在社会网络中传播八卦的信任模型;&lt;/li&gt;
+&lt;li&gt;探索解的景观结构可以实现更可靠的网络社区检测;&lt;/li&gt;
+&lt;li&gt;健康和阿尔茨海默氏症大脑的网络属性;&lt;/li&gt;
+&lt;li&gt;扩展大规模图的细粒度模块化聚类;&lt;/li&gt;
+&lt;li&gt;计数网络上大型时间序列数据的因果路径;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-05-27)</title>
