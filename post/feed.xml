@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-06-01)</title>
+      <link>https://www.complexly.me/post/20190601/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190601/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;稀疏超图随机块模型中的社区检测;&lt;/li&gt;
+&lt;li&gt;机器人小组在推特上的政治宣传中扮演的角色;&lt;/li&gt;
+&lt;li&gt;探索数据集选择对衡量国际研究合作的影响 - 以ACM数字图书馆和微软学术图谱为例;&lt;/li&gt;
+&lt;li&gt;用于意见形成的Wright-Fisher型方程，大时间行为和加权对数-Sobolev不等式;&lt;/li&gt;
+&lt;li&gt;社会网络中拒绝疫苗情绪集群的算法检测与分析;&lt;/li&gt;
+&lt;li&gt;有限时间知识的信息源检测;&lt;/li&gt;
+&lt;li&gt;量化深度学习中图和特征的对齐;&lt;/li&gt;
+&lt;li&gt;二分网络中灭绝引起的社区重组;&lt;/li&gt;
+&lt;li&gt;超市中的客户流动性和拥挤;&lt;/li&gt;
+&lt;li&gt;STAR-GCN：用于推荐系统的堆叠和重建图卷积网络;&lt;/li&gt;
+&lt;li&gt;深度对抗社交推荐;&lt;/li&gt;
+&lt;li&gt;加尔各答Paise餐厅问题的相变;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-05-30)</title>
