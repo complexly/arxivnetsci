@@ -7,17 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Arxiv网络科学论文摘要12篇(2019-06-01)</title>
-      <link>https://www.complexly.me/post/20190601/</link>
+      <title>Arxiv网络科学论文摘要5篇(2019-06-03)</title>
+      <link>https://www.complexly.me/post/20190603/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190603/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用多个指标改进图中隐私的度量;&lt;/li&gt;
+&lt;li&gt;我们能从语料库中得出明显和隐含的偏见吗？;&lt;/li&gt;
+&lt;li&gt;通过在手机众感拍卖中惩罚冗余任务分配来最大化出清率;&lt;/li&gt;
+&lt;li&gt;发现客户评价中在线欺诈群体的串通行为;&lt;/li&gt;
+&lt;li&gt;图上的端到端学习和优化;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-05-31)</title>
+      <link>https://www.complexly.me/post/20190531/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.complexly.me/post/20190601/</guid>
+      <guid>https://www.complexly.me/post/20190531/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;稀疏超图随机块模型中的社区检测;&lt;/li&gt;
 &lt;li&gt;机器人小组在推特上的政治宣传中扮演的角色;&lt;/li&gt;
