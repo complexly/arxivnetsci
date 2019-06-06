@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-06-06)</title>
+      <link>https://www.complexly.me/post/20190606/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190606/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;热力学神经网络;&lt;/li&gt;
+&lt;li&gt;新闻评论中的个人信息共享幂律公共物品博弈;&lt;/li&gt;
+&lt;li&gt;立法有效性悬而未决：通过划分符号网络来研究平衡和两极分化;&lt;/li&gt;
+&lt;li&gt;利用NLP解决在线滥用的公正综合策略;&lt;/li&gt;
+&lt;li&gt;隔间投票模型;&lt;/li&gt;
+&lt;li&gt;行业空间风险投资策略的时间演变;&lt;/li&gt;
+&lt;li&gt;MEDEAS-用于研究能量转换的世界模型校准;&lt;/li&gt;
+&lt;li&gt;对话语言很复杂;&lt;/li&gt;
+&lt;li&gt;对负责任的精英进行建模;&lt;/li&gt;
+&lt;li&gt;GOT：图比较的最优传输框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-06-05)</title>
