@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-06-07)</title>
+      <link>https://www.complexly.me/post/20190607/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190607/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;自激活影响最大化;&lt;/li&gt;
+&lt;li&gt;OutdoorSent：语义特征可以帮助深度学习室外图像的情感分析吗？;&lt;/li&gt;
+&lt;li&gt;在Facebook上使用用户意见推荐业务合作伙伴;&lt;/li&gt;
+&lt;li&gt;基于统计密度的图聚类算法性能分析;&lt;/li&gt;
+&lt;li&gt;间接相互作用影响接触网络结构和扩散动力学;&lt;/li&gt;
+&lt;li&gt;Zorro：消费者数据定价的模型不可知系统;&lt;/li&gt;
+&lt;li&gt;iGEM合成DNA序列中层次结构和重用的演化;&lt;/li&gt;
+&lt;li&gt;创业生态系统涌现的部门多样性;&lt;/li&gt;
+&lt;li&gt;路线博弈中的混乱之路：无政府状态价格为一时，人口增长推动的周期倍增的不稳定性、混沌和无效率;&lt;/li&gt;
+&lt;li&gt;IP流量建模为链路流进行基于度的异常检测;&lt;/li&gt;
+&lt;li&gt;时间交互网络中的多维离群点检测：Twitter上的政治沟通应用;&lt;/li&gt;
+&lt;li&gt;单篇论文如何作用于影响因子：对学术出版的启发;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-06-06)</title>
