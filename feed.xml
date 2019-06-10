@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 07 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2019-06-10)</title>
+      <link>https://www.complexly.me/post/20190610/</link>
+      <pubDate>Mon, 10 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190610/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有间接传输链路的动态接触网络上的扩散;&lt;/li&gt;
+&lt;li&gt;加权网络的顶点分类;&lt;/li&gt;
+&lt;li&gt;复杂网络中最优流行病源的近似识别;&lt;/li&gt;
+&lt;li&gt;与分布式移动推荐系统的临近用户合作;&lt;/li&gt;
+&lt;li&gt;外在因素在创业筹款成功中的重要性差异：早期竞争和成长阶段的网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-06-07)</title>
