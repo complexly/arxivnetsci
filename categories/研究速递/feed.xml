@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2019-06-11)</title>
+      <link>https://www.complexly.me/post/20190611/</link>
+      <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190611/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;有向网络的双曲嵌入模型;&lt;/li&gt;
+&lt;li&gt;复杂人际网络的同步;&lt;/li&gt;
+&lt;li&gt;基于Facebook评论的实时和批量情感分析的用户态度检测与预测;&lt;/li&gt;
+&lt;li&gt;尽可能早的新闻标签：真实还是假？;&lt;/li&gt;
+&lt;li&gt;时间连通模式对流行病过程的影响;&lt;/li&gt;
+&lt;li&gt;从网络观测数据中学习个体治疗效果;&lt;/li&gt;
+&lt;li&gt;基于增量Skip-gram和负抽样的动态网络嵌入;&lt;/li&gt;
+&lt;li&gt;弱关系现象的关键;&lt;/li&gt;
+&lt;li&gt;图神经网络的无冗余计算图;&lt;/li&gt;
+&lt;li&gt;在线影响最大化的因子分解bandit;&lt;/li&gt;
+&lt;li&gt;社交媒体中仇恨言语检测的迁移学习;&lt;/li&gt;
+&lt;li&gt;自动识别社交媒体中的投诉;&lt;/li&gt;
+&lt;li&gt;自动化和职业移动性：数据驱动的网络模型;&lt;/li&gt;
+&lt;li&gt;拥有最后一句话：了解如何抽样在线讨论;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2019-06-10)</title>
