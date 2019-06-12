@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要24篇(2019-06-12)</title>
+      <link>https://www.complexly.me/post/20190612/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190612/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;灭绝过渡时期种群中的利他主义;&lt;/li&gt;
+&lt;li&gt;基于网络的假新闻检测：模式驱动的方法;&lt;/li&gt;
+&lt;li&gt;图神经网络的拓扑攻击与防御：优化视角;&lt;/li&gt;
+&lt;li&gt;审视未受限制的社交媒体：分析极化对话的级联;&lt;/li&gt;
+&lt;li&gt;通过非回溯矩阵分析网络中易感-感染-易感流行病动态;&lt;/li&gt;
+&lt;li&gt;随机空间网络中最短路径的形状;&lt;/li&gt;
+&lt;li&gt;异构网络方法预测个人的心理健康;&lt;/li&gt;
+&lt;li&gt;借助社会网络分析促进学生的表现;&lt;/li&gt;
+&lt;li&gt;具有互动成员的群体中的决策动力学;&lt;/li&gt;
+&lt;li&gt;WikiDataSets：来自WikiData的标准化子图;&lt;/li&gt;
+&lt;li&gt;用于链路预测的弹簧电气模型;&lt;/li&gt;
+&lt;li&gt;使用合成网络进行社区检测中的参数调整;&lt;/li&gt;
+&lt;li&gt;EdMot：一种用于考虑模体的社区检测的边增强方法;&lt;/li&gt;
+&lt;li&gt;一种用于比较图嵌入的无监督框架;&lt;/li&gt;
+&lt;li&gt;潜在通道网络;&lt;/li&gt;
+&lt;li&gt;学龄前儿童互动网络中的对称核-内聚模块;&lt;/li&gt;
+&lt;li&gt;使用异构图卷积网络进行细粒度事件分类;&lt;/li&gt;
+&lt;li&gt;修正的重叠权重和聚类系数;&lt;/li&gt;
+&lt;li&gt;共享单车网络中的跨期社区检测;&lt;/li&gt;
+&lt;li&gt;对称性诱导群体共识;&lt;/li&gt;
+&lt;li&gt;基于LFSR公钥密码体制的新的动态可验证多密共享方案;&lt;/li&gt;
+&lt;li&gt;通过早期与顶尖科学家的职业合作，在学术界获得竞争优势;&lt;/li&gt;
+&lt;li&gt;控制贡献识别复杂网络中的顶级驱动节点;&lt;/li&gt;
+&lt;li&gt;StRE：Wikipedia中的自注意编辑质量预测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2019-06-11)</title>
