@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2019-06-13)</title>
+      <link>https://www.complexly.me/post/20190613/</link>
+      <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190613/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;位置感知图神经网络;&lt;/li&gt;
+&lt;li&gt;用于时间网络建模的加权、二分或有向流图;&lt;/li&gt;
+&lt;li&gt;网络分析的相对Hausdorff距离;&lt;/li&gt;
+&lt;li&gt;一个有长程嗅觉的贪婪觅食者的寿命;&lt;/li&gt;
+&lt;li&gt;图嵌入生物医学网络：方法，应用和评估;&lt;/li&gt;
+&lt;li&gt;基于洛伦兹几何的飞机登机策略分析表明速度较慢的乘客先登机更优;&lt;/li&gt;
+&lt;li&gt;高阶排序和链路预测：从三角闭合到高阶模体闭合;&lt;/li&gt;
+&lt;li&gt;基于地理标记的推文流的多空间尺度事件检测的幂律验证;&lt;/li&gt;
+&lt;li&gt;通过对车辆运动的孤立观察建模来优化城市规模的交通流量;&lt;/li&gt;
+&lt;li&gt;基于社交标签系统加权项的分布式信任感知协同过滤推荐系统;&lt;/li&gt;
+&lt;li&gt;理解复杂网络中社区的脆弱性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要24篇(2019-06-12)</title>
