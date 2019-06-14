@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2019-06-14)</title>
+      <link>https://www.complexly.me/post/20190614/</link>
+      <pubDate>Fri, 14 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190614/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;识别大规模电子支付网络中的非法账户——图表示学习方法;&lt;/li&gt;
+&lt;li&gt;一种SEIR流行病模型，其中潜伏期的经验分布通过Coxian分布近似;&lt;/li&gt;
+&lt;li&gt;具有不确定性的高压电网中线路突发事件的频率变化率;&lt;/li&gt;
+&lt;li&gt;非线性因果关系检测的信息论度量：应用于社交媒体情绪和加密货币价格;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2019-06-13)</title>
