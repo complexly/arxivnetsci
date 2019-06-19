@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要10篇(2019-06-19) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+vGraph：联合社区检测和节点表示学习的生成模型;
+用流形控制引导生态演化博弈动力学;
+锚用户预测的深度主动学习;
+声誉系统——向协作社区中的编辑公平分配点数;
+演化集体智能（ECI）的知识网络系统（KNS）：模型、算法和应用;
+DISCO：当影响最大化遇到网络嵌入和深度学习;
+网络流行病模型分析;
+20年的流动性建模和预测：趋势、缺点和观点;
+通过Twitter无监督机器学习分析城市物流;
+用于临床应用的fMRI语言任务的核心语言脑网络;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要10篇(2019-06-19) - 网络科学研究速递">
+<meta itemprop="description" content="
+vGraph：联合社区检测和节点表示学习的生成模型;
+用流形控制引导生态演化博弈动力学;
+锚用户预测的深度主动学习;
+声誉系统——向协作社区中的编辑公平分配点数;
+演化集体智能（ECI）的知识网络系统（KNS）：模型、算法和应用;
+DISCO：当影响最大化遇到网络嵌入和深度学习;
+网络流行病模型分析;
+20年的流动性建模和预测：趋势、缺点和观点;
+通过Twitter无监督机器学习分析城市物流;
+用于临床应用的fMRI语言任务的核心语言脑网络;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要10篇(2019-06-19) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20190619/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+vGraph：联合社区检测和节点表示学习的生成模型;
+用流形控制引导生态演化博弈动力学;
+锚用户预测的深度主动学习;
+声誉系统——向协作社区中的编辑公平分配点数;
+演化集体智能（ECI）的知识网络系统（KNS）：模型、算法和应用;
+DISCO：当影响最大化遇到网络嵌入和深度学习;
+网络流行病模型分析;
+20年的流动性建模和预测：趋势、缺点和观点;
+通过Twitter无监督机器学习分析城市物流;
+用于临床应用的fMRI语言任务的核心语言脑网络;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20190619/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20190619/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要10篇(2019-06-19)</h1>
+
+                  <p class="post-byline">
+                    2019年06月19日 · 3997 字 ·
+                    阅读时间约8分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>vGraph：联合社区检测和节点表示学习的生成模型;</li>
+<li>用流形控制引导生态演化博弈动力学;</li>
+<li>锚用户预测的深度主动学习;</li>
+<li>声誉系统——向协作社区中的编辑公平分配点数;</li>
+<li>演化集体智能（ECI）的知识网络系统（KNS）：模型、算法和应用;</li>
+<li>DISCO：当影响最大化遇到网络嵌入和深度学习;</li>
+<li>网络流行病模型分析;</li>
+<li>20年的流动性建模和预测：趋势、缺点和观点;</li>
+<li>通过Twitter无监督机器学习分析城市物流;</li>
+<li>用于临床应用的fMRI语言任务的核心语言脑网络;</li>
+</ul>
+
+<p></p>
+
+<h3 id="vgraph-联合社区检测和节点表示学习的生成模型">vGraph：联合社区检测和节点表示学习的生成模型</h3>
+
+<p>原文标题： vGraph: A Generative Model for Joint Community Detection and Node Representation Learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.07159">http://arxiv.org/abs/1906.07159</a></p>
+
+<p>作者： Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang</p>
+
+<p>摘要： 本文重点关注图分析的两个基本任务：社区检测和节点表示学习，分别捕获图的全局和局部结构。在目前的文献中，这两个任务通常是独立研究的，而它们实际上是高度相关的。我们提出了一种名为vGraph的概率生成模型来协作学习社区成员和节点表示。具体来说，我们假设每个节点可以表示为社区的混合，并且每个社区被定义为节点上的多项分布。混合系数和社区分布都通过节点和社区的低维表示来参数化。我们设计了一种有效的变分推理算法，该算法使相邻节点的社区成员在潜在空间中相似。多个真实图表的实验结果表明，vGraph在社区检测和节点表示学习方面都非常有效，在两个任务中都超过了许多竞争基线。我们表明vGraph的框架非常灵活，可以轻松扩展以检测分层社区。</p>
+
+<h3 id="用流形控制引导生态演化博弈动力学">用流形控制引导生态演化博弈动力学</h3>
+
+<p>原文标题： Steering Eco-Evolutionary Games Dynamics with Manifold Control</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.07161">http://arxiv.org/abs/1906.07161</a></p>
+
+<p>作者： Xin Wang, Zhiming Zheng, Feng Fu</p>
+
+<p>摘要： 个体的种群动态与其生态环境之间的反馈循环在自然界中普遍存在，并且已经对由此产生的生态演化动力学产生了深远的影响。将线性环境反馈定律纳入双人博弈的复制动力学中，最近的理论研究揭示了理解社会困境的振荡动力学。然而，在多玩家博弈中更常见的非线性反馈回路的详细效果，尤其是在微生物系统中更为常见，仍然不清楚。在这里，我们专注于生态公益产品博弈，其环境反馈由非线性选择梯度驱动。与以前的模型不同，稳定和不稳定的平衡流形的多个部分可以从种群动力系统中出现。我们发现，以协作者为中心的群体相互作用的较大相对不对称反馈速度不仅加速了稳定流形的收敛，而且增加了这些稳定流形的吸引盆地。此外，我们的工作提供了一种创新的流量控制方法：通过设计适当的切换控制法则，我们能够将生态演化动力学引导到任何所需的群体状态。我们的数学框架是共同演化博弈动力学的重要概括和补充，也填补了理论上的空白，指导了微生物实验中人口状态控制的普遍问题。</p>
+
+<h3 id="锚用户预测的深度主动学习">锚用户预测的深度主动学习</h3>
+
+<p>原文标题： Deep Active Learning for Anchor User Prediction</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.07318">http://arxiv.org/abs/1906.07318</a></p>
+
+<p>作者： Anfeng Cheng, Chuan Zhou, Hong Yang, Jia Wu, Lei Li, Jianlong Tan, Li Guo</p>
+
+<p>摘要： 预测锚对用户对在跨网络分析中起着重要作用。由于为锚定用户标记训练预测模型的成本昂贵，我们在本文中考虑了最小化多个网络中用户对的数量以进行标记以提高预测准确性的问题。为此，我们提出了一种用于锚定用户预测的深度主动学习模型（简称DALAUP）。然而，锚定用户采样的主动学习遇到了非i.i.d的挑战。由网络结构引起的用户对数据以及锚或非锚用户对之间的相关性。为了解决这些挑战，DALAUP使用带有共享参数的几个神经网络来获得用户对的向量表示，并集合三种查询策略来选择用于标记和模型训练的信息量最大的用户对。对现实世界社会网络数据的实验表明，DALAUP优于最先进的方法。</p>
+
+<h3 id="声誉系统-向协作社区中的编辑公平分配点数">声誉系统——向协作社区中的编辑公平分配点数</h3>
+
+<p>原文标题： Reputation Systems &ndash; Fair allocation of points to the editors in the collaborative community</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.07339">http://arxiv.org/abs/1906.07339</a></p>
+
+<p>作者： Shubhendra Pal Singhal</p>
+
+<p>摘要： 在本文中，我们试图确定一个公平分配协作社区贡献者的方案。贡献者之间公平分配点的主要问题是我们必须分析文章版本的改进。可以说，与添加单个逗号的贡献相比，内容的主要变化有所贡献。在这种情况下，每个贡献者都不能得到相同的分数。有许多方法可以像新版本中的更改一样使用。这可能看似相关，但在正确的内容贡献和其他重大变化方面变得无关紧要。也没有AI系统可以检测到这种变化并相应地奖励积分。因此，通过具有理论证明的算法来呈现向贡献者分配点的问题。它依赖于系统中用户的交互式交互，这在大型系统设计经济的情况下是微不足道的。</p>
+
+<h3 id="演化集体智能-eci-的知识网络系统-kns-模型-算法和应用">演化集体智能（ECI）的知识网络系统（KNS）：模型、算法和应用</h3>
+
+<p>原文标题： Knowledge Network System (KNS) by Evolutionary Collective Intelligence (ECI): Model, Algorithm and Applications</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.07358">http://arxiv.org/abs/1906.07358</a></p>
+
+<p>作者： Tao Xiang, Ziliang Huang, Peng Bai, Congrui Ji, Zhiyong Liu</p>
+
+<p>摘要： 为了克服传统的知识，推荐，搜索和社会系统遇到的一些固有的缺点和瓶颈，我们在本文中介绍了知识网络系统（KNS），这是一种新型的知识图，由一个新的算法构建，演化集体智慧（ECI）算法。 ECI是一种代理 - 机器交互算法，通过迭代地向代理推荐有趣/匹配的样本/文件来构建KNS，同时利用代理的集体智慧。据我们所知，基于ECI的KNS是在同一框架中集成知识网络构建，高质量推荐，新型搜索和社交功能的文献中的第一次尝试。讨论了KNS和ECI的一些实际和潜在应用，并提供了一个名为VISVA的真实系统来证明其功效。最后还总结了未来工作的一些未解决的问题。</p>
+
+<h3 id="disco-当影响最大化遇到网络嵌入和深度学习">DISCO：当影响最大化遇到网络嵌入和深度学习</h3>
+
+<p>原文标题： DISCO: Influence Maximization Meets Network Embedding and Deep Learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.07378">http://arxiv.org/abs/1906.07378</a></p>
+
+<p>作者： Hui Li, Mengting Xu, Sourav S Bhowmick, Changsheng Sun, Zhongyuan Jiang, Jiangtao Cui</p>
+
+<p>摘要： 自2003年推出以来，影响最大化（IM）问题在文献中引起了广泛的研究关注。 IM的目的是选择一组能够影响社会网络中最多个体的k个用户。这个问题被证明是NP难的。已经提出了大量近似算法来解决该问题。最先进的算法基于采样的扩散路径估计节点的预期影响。由于最近证明所需样本的数量受特定阈值的限制，该特定阈值预设精度和效率之间的权衡，因此这些传统解决方案的结果质量难以进一步提高而不牺牲效率。在本文中，我们提出了一个正交和新颖的范例，通过利用深度学习模型来估计预期影响来解决IM问题。具体来说，我们提出了一个名为DISCO的新框架，它结合了网络嵌入和深度强化学习技术来解决这个问题。对现实世界网络的实验研究表明，与最先进的经典解决方案相比，DISCO在效率和影响传播质量方面实现了最佳性能。此外，我们还表明学习模型具有良好的通用性。</p>
+
+<h3 id="网络流行病模型分析">网络流行病模型分析</h3>
+
+<p>原文标题： Analysis of an epidemic model on a network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.07449">http://arxiv.org/abs/1906.07449</a></p>
+
+<p>作者： J.-G. Caputo, A. Knippel, F. Mouatamide, M. Khaladi</p>
+
+<p>摘要： 我们分析了扩展到地理网络的KermacK-Mckendrick模型。这产生了涉及网络图拉普拉斯算子的耦合微分方程系统。我们研究了不同参数的影响，并获得了一个简单的流行病发病标准。最后，为了遏制流行病，我们研究了不同的疫苗接种策略，并证明接种最高程度的节点是最有效的。</p>
+
+<h3 id="20年的流动性建模和预测-趋势-缺点和观点">20年的流动性建模和预测：趋势、缺点和观点</h3>
+
+<p>原文标题： 20 Years of Mobility Modeling &amp; Prediction: Trends, Shortcomings &amp; Perspectives</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.07451">http://arxiv.org/abs/1906.07451</a></p>
+
+<p>作者： Vaibhav Kulkarni, Benoit Garbinato</p>
+
+<p>摘要： 在本文中，我们基于1999年至2019年期间发表的1680篇文章，对人类流动建模进行了全面的调查，可以作为该领域研究和实践的路线图。流动建模研究加速了几个研究领域的进步，如城市规划，流行病模型，交通工程，并促进了基于位置的服务的发展。然而，虽然移动模型在不同领域的应用有所增加，但研究结果的可信度却降低了。我们强调了在我们评论的研究中常见的两个重大缺陷：（1）数据不可知模型选择导致准确性与复杂性之间的较差权衡，以及（2）由于采用不准确的验证而无法确定经验收益的来源方法。尽管马尔可夫过程与人类 - 移动性动力学存在可疑关联，但我们还观察到马尔可夫模型变体应用于移动性建模的令人不安的趋势。为此，我们提出了一种数据驱动的移动性建模框架，该框架基于四个移动性元属性量化数据集的特征，以便选择最合适的预测算法。基于严格验证方法的三个真实移动数据集的实验评估证明了我们的框架正确分析模型准确性与复杂性权衡的能力。我们将这些结果与工具和文献元数据一起提供给社区，以提高人员移动建模研究的可靠性和可信度。</p>
+
+<h3 id="通过twitter无监督机器学习分析城市物流">通过Twitter无监督机器学习分析城市物流</h3>
+
+<p>原文标题： Unsupervised machine learning to analyse city logistics through Twitter</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.07529">http://arxiv.org/abs/1906.07529</a></p>
+
+<p>作者： Simon Tamayo (CAOR), François Combes (IFSTTAR/AME/SPLOTT), Gaudron Arthur (CAOR)</p>
+
+<p>摘要： 城市物流的特点是多个利益相关者通常对这种复杂系统有不同的看法。从公共政策的角度来看，确定利益相关者，问题和趋势是一项艰巨的挑战，只有传统观察系统才能部分解决。如今，社交媒体是最大的公共表达渠道之一，通常用于传达与城市物流相关的意见和内容。这项研究的想法是，分析社交媒体内容可以帮助理解公众对城市物流的看法。本文提供了一种从Twitter收集内容和实施机器学习技术（无监督学习和自然语言处理）的方法，以执行内容和情感分析。拟议的方法适用于包含城市物流关键术语的110 000多条推文。结果允许建立概念兴趣图和情感分析，以确定城市物流条目是积极的，消极的还是中立的。</p>
+
+<h3 id="用于临床应用的fmri语言任务的核心语言脑网络">用于临床应用的fMRI语言任务的核心语言脑网络</h3>
+
+<p>原文标题： Core language brain network for fMRI-language task used in clinical applications</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.07546">http://arxiv.org/abs/1906.07546</a></p>
+
+<p>作者： Qiongge Li, Gino Del Ferraro, Luca Pasquini, Kyung K. Peck, Hernan A. Makse, Andrei I. Holodny</p>
+
+<p>摘要： 功能磁共振成像（fMRI）广泛用于临床应用，以突出涉及特定认知过程的大脑区域。脑损伤，例如肿瘤，抑制它们侵入的解剖区域的fMRI激活，因此，脑损伤的功能网络呈现缺失的链接/激活区域。识别缺失的电路部件对于估计损坏程度至关重要。因此，对与临床任务相关但由健康个体执行的功能网络的研究成为最重要的考虑因素。这些“健康”的网络确实可以用作临床研究的控制网络。在这项工作中，我们研究了20个健康个体的功能结构，这些个体执行为临床目的而设计的语言任务。我们推出了一个贯穿所有研究对象的共同体系结构，其中包括Broca区域，Wernicke区域，Premotor区域和预补充运动区域。我们通过使用k核心中心度量来研究该电路的连通性权重，并且我们发现这些区域中的三个属于用于所研究的特定任务的功能语言网络的最强健结构。我们的结果为主要重要功能连接的临床应用提供了有用的见解，因此应通过脑外科手术保留。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20190619/">https://www.complexly.me/post/20190619/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20190618/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要12篇(2019-06-18)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

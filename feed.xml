@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 18 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-06-19)</title>
+      <link>https://www.complexly.me/post/20190619/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190619/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;vGraph：联合社区检测和节点表示学习的生成模型;&lt;/li&gt;
+&lt;li&gt;用流形控制引导生态演化博弈动力学;&lt;/li&gt;
+&lt;li&gt;锚用户预测的深度主动学习;&lt;/li&gt;
+&lt;li&gt;声誉系统——向协作社区中的编辑公平分配点数;&lt;/li&gt;
+&lt;li&gt;演化集体智能（ECI）的知识网络系统（KNS）：模型、算法和应用;&lt;/li&gt;
+&lt;li&gt;DISCO：当影响最大化遇到网络嵌入和深度学习;&lt;/li&gt;
+&lt;li&gt;网络流行病模型分析;&lt;/li&gt;
+&lt;li&gt;20年的流动性建模和预测：趋势、缺点和观点;&lt;/li&gt;
+&lt;li&gt;通过Twitter无监督机器学习分析城市物流;&lt;/li&gt;
+&lt;li&gt;用于临床应用的fMRI语言任务的核心语言脑网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-06-18)</title>
