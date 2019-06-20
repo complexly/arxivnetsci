@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2019-06-20)</title>
+      <link>https://www.complexly.me/post/20190620/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190620/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在具有多个标签的空间囚徒困境模型中，通过自发对称性破缺涌现了歧视;&lt;/li&gt;
+&lt;li&gt;使用个人灾前网络搜索行为的表示来预测疏散决策;&lt;/li&gt;
+&lt;li&gt;索引图搜索树及其应用;&lt;/li&gt;
+&lt;li&gt;计算机科学作者的性别趋势;&lt;/li&gt;
+&lt;li&gt;城市交通系统从特殊事件中恢复的尺度率;&lt;/li&gt;
+&lt;li&gt;检测消费者间电子商务网络中的有问题交易;&lt;/li&gt;
+&lt;li&gt;通过文本增强的药物基因网络上的相互作用传播来预测药物反应;&lt;/li&gt;
+&lt;li&gt;MaGPoS——一种结合磁力和权益证明的新型分散共识机制;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-06-19)</title>
