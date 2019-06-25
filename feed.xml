@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2019-06-25)</title>
+      <link>https://www.complexly.me/post/20190625/</link>
+      <pubDate>Tue, 25 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190625/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;个性化社交媒体短文本的自动条件生成;&lt;/li&gt;
+&lt;li&gt;使用网络属性预测“权力的游戏”中的谋杀;&lt;/li&gt;
+&lt;li&gt;社会影响最大化中的种子和受众多样化;&lt;/li&gt;
+&lt;li&gt;带有衰减、扩散和对流的连续时间网络模型;&lt;/li&gt;
+&lt;li&gt;基于层重构方法的现实多路网络链路预测;&lt;/li&gt;
+&lt;li&gt;保护网络中的共享信息：具有策略攻击的网络安全博弈;&lt;/li&gt;
+&lt;li&gt;结合机器学习和社会网络分析揭示组织结构;&lt;/li&gt;
+&lt;li&gt;使用数百万在线红包识别并理解支付前向互惠;&lt;/li&gt;
+&lt;li&gt;用于网络演化分析的动态网络嵌入;&lt;/li&gt;
+&lt;li&gt;人类社会性的双过程方法：综述;&lt;/li&gt;
+&lt;li&gt;具有共同不变子空间的多异构网络的推断;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2019-06-24)</title>
