@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要4篇(2019-06-26) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+网络干扰下的策略定位;
+情感认知改进假新闻识别;
+用于复杂网络中渗流的消息传递方法的准确性;
+Aw-Rascle交通模型：Enskog型动力学推导和推广;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要4篇(2019-06-26) - 网络科学研究速递">
+<meta itemprop="description" content="
+网络干扰下的策略定位;
+情感认知改进假新闻识别;
+用于复杂网络中渗流的消息传递方法的准确性;
+Aw-Rascle交通模型：Enskog型动力学推导和推广;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要4篇(2019-06-26) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20190626/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+网络干扰下的策略定位;
+情感认知改进假新闻识别;
+用于复杂网络中渗流的消息传递方法的准确性;
+Aw-Rascle交通模型：Enskog型动力学推导和推广;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20190626/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20190626/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要4篇(2019-06-26)</h1>
+
+                  <p class="post-byline">
+                    2019年06月26日 · 1347 字 ·
+                    阅读时间约3分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>网络干扰下的策略定位;</li>
+<li>情感认知改进假新闻识别;</li>
+<li>用于复杂网络中渗流的消息传递方法的准确性;</li>
+<li>Aw-Rascle交通模型：Enskog型动力学推导和推广;</li>
+</ul>
+
+<p></p>
+
+<h3 id="网络干扰下的策略定位">网络干扰下的策略定位</h3>
+
+<p>原文标题： Policy Targeting under Network Interference</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.10258">http://arxiv.org/abs/1906.10258</a></p>
+
+<p>作者： Davide Viviano</p>
+
+<p>摘要： 实验和准实验的实证分析通常旨在确定最大化社会福利的治疗的最佳分配。在存在干扰的情况下，溢出效应导致统计治疗选择问题的新表述。本文提出了一种在网络干扰下构建个体特定最优处理分配规则的新方法。一些特征使得提出的方法对应用程序特别有吸引力：我们构建了依赖于任意一组个体，邻居和网络特征的目标规则，并且我们允许对策略函数进行一般约束;我们考虑异构直接和溢出效应，任意的，可能是非线性的回归模型，并且我们提出了对模型错误指定具有鲁棒性的估计量;该方法灵活地适用于研究人员只观察网络本地信息的情况。从理论的角度来看，我们在干扰下建立了功利主义后悔的第一套保证，并且我们证明它在实际和理论兴趣的情景中达到了最小 - 最大最优率。我们讨论了模拟中的实证表现，并通过调查社会网络在微观金融决策中的作用来说明我们的方法。</p>
+
+<h3 id="情感认知改进假新闻识别">情感认知改进假新闻识别</h3>
+
+<p>原文标题： Emotion Cognizance Improves Fake News Identification</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.10365">http://arxiv.org/abs/1906.10365</a></p>
+
+<p>作者： Anoop K, Deepak P, Lajish V L</p>
+
+<p>摘要： 识别错误信息越来越被认为是具有高度潜在社会影响的重要计算任务。在本文中，我们考虑利用新闻文章的情感特征进行虚假新闻识别，并提出证据表明情绪认知表征更适合于任务。我们概述了利用情绪强度词典来开发情感化文本表示的技术，并评估这种表示在各种监督和无监督场景中的假新闻识别的效用。我们在一系列技术类型和参数设置中观察到的一致和重要的经验收益确立了新闻文章中情感信息的效用，这是一个经常被忽视的方面，用于错误信息识别的任务。</p>
+
+<h3 id="用于复杂网络中渗流的消息传递方法的准确性">用于复杂网络中渗流的消息传递方法的准确性</h3>
+
+<p>原文标题： On the accuracy of message-passing approaches to percolation in complex networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.10377">http://arxiv.org/abs/1906.10377</a></p>
+
+<p>作者： Antoine Allard, Laurent Hébert-Dufresne</p>
+
+<p>摘要： 消息传递方法（MPA）是在真实复杂网络上获得渗透的准分析预测的最先进技术。除了直观和直接之外，它具有数学原理的优点：它在树上是精确的，同时对包含周期的网络产生一般良好的预测，就像大多数真正复杂的网络一样。在这里，我们表明MPA不会对网络的一些不明确的树状近似进行计算，因为它的公式导致相信，而是考虑一个随机网络集合，其中原始网络被克隆并洗牌无限数时间。我们得出结论，MPA在树上是精确的这一事实并不意味着它在树状网络上几乎是精确的。事实上，我们发现非树网络越接近树，MPA精度越差。</p>
+
+<h3 id="aw-rascle交通模型-enskog型动力学推导和推广">Aw-Rascle交通模型：Enskog型动力学推导和推广</h3>
+
+<p>原文标题： The Aw-Rascle traffic model: Enskog-type kinetic derivation and generalisations</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1906.10665">http://arxiv.org/abs/1906.10665</a></p>
+
+<p>作者： Giacomo Dimarco, Andrea Tosin</p>
+
+<p>摘要： 我们从动力学描述中研究了二阶宏观交通模型的推导。特别是，我们将着名的Aw-Rascle模型作为Enskog型动力学方程的流体动力学极限从车辆之间的微观二元相互作用的精确表征中恢复。与文献中提供的其他推导不同，我们的方法揭示了Aw-Rascle模型背后的多尺度物理。这进一步允许我们将其概括为符合Aw-Rascle一致性条件的新的二阶宏观模型，即没有波应该比平均交通流更快地传播。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20190626/">https://www.complexly.me/post/20190626/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20190625/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要11篇(2019-06-25)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
