@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-06-27)</title>
+      <link>https://www.complexly.me/post/20190627/</link>
+      <pubDate>Thu, 27 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190627/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;符号图注意网络;&lt;/li&gt;
+&lt;li&gt;NetSMF：大规模网络嵌入作为稀疏矩阵分解;&lt;/li&gt;
+&lt;li&gt;2018年选举和拉美裔;&lt;/li&gt;
+&lt;li&gt;人群水平流行病观测的网络推断;&lt;/li&gt;
+&lt;li&gt;用于混沌系统预测的物理知识回声状态网络;&lt;/li&gt;
+&lt;li&gt;论假新闻文章的连贯性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2019-06-26)</title>
