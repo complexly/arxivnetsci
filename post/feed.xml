@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2019-07-01)</title>
+      <link>https://www.complexly.me/post/20190701/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190701/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;改善快速公交系统中的公交车流量：基于元胞自动机模拟的方法;&lt;/li&gt;
+&lt;li&gt;行动或反应：分析在线社区审核的主动策略;&lt;/li&gt;
+&lt;li&gt;大规模二部图的对抗表示学习;&lt;/li&gt;
+&lt;li&gt;基于冗余的分辨率和基于投影的层间耦合的多层网络模块化;&lt;/li&gt;
+&lt;li&gt;基于弹性的事后建筑检查优先级排序方法;&lt;/li&gt;
+&lt;li&gt;Twitter上分享的关于MeToo运动的在线资源：帕累托原则;&lt;/li&gt;
+&lt;li&gt;面包屑：具有兴趣点注释的特征丰富的移动数据集;&lt;/li&gt;
+&lt;li&gt;通过社交媒体建模用户肖像;&lt;/li&gt;
+&lt;li&gt;社交媒体用户行为的跨平台建模;&lt;/li&gt;
+&lt;li&gt;模拟社会网络中的回声室和极化动态;&lt;/li&gt;
+&lt;li&gt;具有联合表示学习内容和连接的异常检测;&lt;/li&gt;
+&lt;li&gt;用于广义多任务学习的图星网络;&lt;/li&gt;
+&lt;li&gt;使用社交媒体数据建模食物受欢迎度依赖性;&lt;/li&gt;
+&lt;li&gt;自动发现网络生成过程族;&lt;/li&gt;
+&lt;li&gt;通过边添加实现K核最大化;&lt;/li&gt;
+&lt;li&gt;关键边识别：基于K-Truss的模型;&lt;/li&gt;
+&lt;li&gt;建模城市;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-06-28)</title>
