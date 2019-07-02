@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-07-02)</title>
+      <link>https://www.complexly.me/post/20190702/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190702/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;几何空间中数据簇团或网络社区的角可分性及其与双曲嵌入的关系;&lt;/li&gt;
+&lt;li&gt;基于主体的创造性领导有效性模拟;&lt;/li&gt;
+&lt;li&gt;临近性网络的潜在几何和动态;&lt;/li&gt;
+&lt;li&gt;使用立场分类进行假新闻检测：一项综述;&lt;/li&gt;
+&lt;li&gt;具有顽固链接的社会网络动态的不稳定性;&lt;/li&gt;
+&lt;li&gt;使用节点中心性度量子网中的影响;&lt;/li&gt;
+&lt;li&gt;搜寻对个性化内容图像推荐的影响;&lt;/li&gt;
+&lt;li&gt;使用图嵌入的无监督对抗图对齐;&lt;/li&gt;
+&lt;li&gt;利用社会信号改进加密货币价格预测;&lt;/li&gt;
+&lt;li&gt;基于社交媒体的用户嵌入：文献综述;&lt;/li&gt;
+&lt;li&gt;iPool——层级图神经网络中基于信息的池化;&lt;/li&gt;
+&lt;li&gt;网络结构与初始群体规范分布在规范冲突中的作用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2019-07-01)</title>
