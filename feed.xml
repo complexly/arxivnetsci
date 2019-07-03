@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2019-07-03)</title>
+      <link>https://www.complexly.me/post/20190703/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190703/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会网络驱动的智能车辆互联网推荐的模拟研究;&lt;/li&gt;
+&lt;li&gt;预测媒体和热门Twitter用户的主题立场;&lt;/li&gt;
+&lt;li&gt;丹麦立场分类和谣言决议;&lt;/li&gt;
+&lt;li&gt;在线社会网络中用户品牌定位的语义方法;&lt;/li&gt;
+&lt;li&gt;基于反向贪心方法识别重要节点;&lt;/li&gt;
+&lt;li&gt;广义随机漫游对模型;&lt;/li&gt;
+&lt;li&gt;混乱期间向英国政府提交的请愿的内容、时间和地点;&lt;/li&gt;
+&lt;li&gt;比特币网络的污点分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-07-02)</title>
