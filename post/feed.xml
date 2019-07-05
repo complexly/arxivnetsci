@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 04 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2019-07-05)</title>
+      <link>https://www.complexly.me/post/20190705/</link>
+      <pubDate>Fri, 05 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190705/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在Pinterest上使用OWL和语义Web技术;&lt;/li&gt;
+&lt;li&gt;相关网络上流行病的谱特性和平均场方法的准确性;&lt;/li&gt;
+&lt;li&gt;计算链路流中的距离和延迟;&lt;/li&gt;
+&lt;li&gt;多轮鹰-鸽博弈的优势、分享和评估;&lt;/li&gt;
+&lt;li&gt;使用非时间戳数据跟踪图的时间演化;&lt;/li&gt;
+&lt;li&gt;寻找社团发现的社团;&lt;/li&gt;
+&lt;li&gt;在线社交平台中检测与网络相关的讨论;&lt;/li&gt;
+&lt;li&gt;有效网络：预测网络结构和数据集关键转换的模型;&lt;/li&gt;
+&lt;li&gt;新闻和城市：通过移动数据了解在线新闻消费模式;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-07-04)</title>
