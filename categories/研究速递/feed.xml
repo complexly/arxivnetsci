@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 05 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2019-07-08)</title>
+      <link>https://www.complexly.me/post/20190708/</link>
+      <pubDate>Mon, 08 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190708/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;智能社交机器人揭示了用户偏好与新闻消费多样性之间的联系;&lt;/li&gt;
+&lt;li&gt;随机、Ramanujan和大周长不规则图的向量着色;&lt;/li&gt;
+&lt;li&gt;小说人物网络的提取与分析：综述;&lt;/li&gt;
+&lt;li&gt;使用Google趋势和注意力seq2seq模型预测流感患病率;&lt;/li&gt;
+&lt;li&gt;网络嵌入：压缩和学习;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2019-07-05)</title>
