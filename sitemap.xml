@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.complexly.me/post/20190709/</loc>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.complexly.me/post/20190708/</loc>
     <lastmod>2019-07-08T00:00:00+00:00</lastmod>
   </url>
@@ -2963,7 +2968,7 @@
   
   <url>
     <loc>https://www.complexly.me/post/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2974,13 +2979,13 @@
   
   <url>
     <loc>https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.complexly.me/</loc>
-    <lastmod>2019-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
