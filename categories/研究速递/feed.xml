@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2019-07-15)</title>
+      <link>https://www.complexly.me/post/20190715/</link>
+      <pubDate>Mon, 15 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190715/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多层网络中尺度结构生成模型构建框架;&lt;/li&gt;
+&lt;li&gt;预测在线社会网络的参与：挑战和机遇;&lt;/li&gt;
+&lt;li&gt;流动性恢复了在自愿囚徒困境博弈中支持合作的机制;&lt;/li&gt;
+&lt;li&gt;优先连接树中的异步多数动力学;&lt;/li&gt;
+&lt;li&gt;探索在线学术论坛的课程排名背景;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2019-07-12)</title>
