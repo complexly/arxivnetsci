@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-07-17)</title>
+      <link>https://www.complexly.me/post/20190717/</link>
+      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190717/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;珩磨理论：创造力的复杂系统框架;&lt;/li&gt;
+&lt;li&gt;短期危机信息中的低监督紧急检测和迁移;&lt;/li&gt;
+&lt;li&gt;ICT项目设计和管理的道德基础;&lt;/li&gt;
+&lt;li&gt;深度社交协同过滤;&lt;/li&gt;
+&lt;li&gt;作为一种社会网络产生过程的同质性：来自社交距离依附模型的见解;&lt;/li&gt;
+&lt;li&gt;scikit-mobility：一个用于人类移动分析和模拟的开源Python库;&lt;/li&gt;
+&lt;li&gt;最佳自行车网络增长的数据驱动策略;&lt;/li&gt;
+&lt;li&gt;热力学状态方程到经济状态方程的本质;&lt;/li&gt;
+&lt;li&gt;良好医疗保健服务和患者满意度的途径：一种演化博弈论方法;&lt;/li&gt;
+&lt;li&gt;科学移民网络的枢纽和权威;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-07-16)</title>
