@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 17 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2019-07-18)</title>
+      <link>https://www.complexly.me/post/20190718/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190718/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;DeepTrax：金融交易图嵌入;&lt;/li&gt;
+&lt;li&gt;建模人类注释错误以设计用于社交流处理的考虑偏差的系统;&lt;/li&gt;
+&lt;li&gt;紧急服务多模社交媒体流的相关分类;&lt;/li&gt;
+&lt;li&gt;参与式媒体内容推荐和排名的公平性和多样性;&lt;/li&gt;
+&lt;li&gt;beta-skeleton图的几何和谱研究;&lt;/li&gt;
+&lt;li&gt;使用深度卷积神经网络将缓存作为图像表征问题;&lt;/li&gt;
+&lt;li&gt;社会科学中的纠缠;&lt;/li&gt;
+&lt;li&gt;DeepNC：深度生成网络补全;&lt;/li&gt;
+&lt;li&gt;Glauber动态社会平衡网络模型的相变;&lt;/li&gt;
+&lt;li&gt;一类随机无标度网络的构造和性质;&lt;/li&gt;
+&lt;li&gt;多家庭自我反思的DSGE模型中的自信崩溃;&lt;/li&gt;
+&lt;li&gt;计算人类动力学;&lt;/li&gt;
+&lt;li&gt;迈向可靠的在线钓鱼视频检测：内容不可知的方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-07-17)</title>
