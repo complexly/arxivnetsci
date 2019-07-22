@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.me/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要5篇(2019-07-22) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+用于交通的动力学模型的BGK近似;
+复杂网络中的有偏随机搜索;
+人类数字痕迹的总误差框架;
+带有循环的网络上的消息传递;
+我和你站在一起：用Emoji表情研究危机事件中的团结;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要5篇(2019-07-22) - 网络科学研究速递">
+<meta itemprop="description" content="
+用于交通的动力学模型的BGK近似;
+复杂网络中的有偏随机搜索;
+人类数字痕迹的总误差框架;
+带有循环的网络上的消息传递;
+我和你站在一起：用Emoji表情研究危机事件中的团结;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.me/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要5篇(2019-07-22) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.me/post/20190722/" />
+<meta property="og:image" content="https://www.complexly.me/public/complexly.jpg" />
+<meta property="og:description" content="
+用于交通的动力学模型的BGK近似;
+复杂网络中的有偏随机搜索;
+人类数字痕迹的总误差框架;
+带有循环的网络上的消息传递;
+我和你站在一起：用Emoji表情研究危机事件中的团结;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.me/post/20190722/">
+  <link rel='shortlink' href="https://www.complexly.me/post/20190722/"/>
+  <link rel="shortcut icon" href="https://www.complexly.me/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.me/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.me/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?33b325910de2da42d2ce99e6d7c803ec";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要5篇(2019-07-22)</h1>
+
+                  <p class="post-byline">
+                    2019年07月22日 · 1615 字 ·
+                    阅读时间约4分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>用于交通的动力学模型的BGK近似;</li>
+<li>复杂网络中的有偏随机搜索;</li>
+<li>人类数字痕迹的总误差框架;</li>
+<li>带有循环的网络上的消息传递;</li>
+<li>我和你站在一起：用Emoji表情研究危机事件中的团结;</li>
+</ul>
+
+<p></p>
+
+<h3 id="用于交通的动力学模型的bgk近似">用于交通的动力学模型的BGK近似</h3>
+
+<p>原文标题： The BGK approximation of kinetic models for traffic</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1812.11056">http://arxiv.org/abs/1812.11056</a></p>
+
+<p>作者： Michael Herty, Gabriella Puppo, Sebastiano Roncoroni, Giuseppe Visconti</p>
+
+<p>摘要： 我们研究了车辆交通流的空间非均匀动力学模型。经典公式，例如BGK方程，在拥挤的交通方式中导致无条件不稳定的解决方案。我们通过推导BGK型方程的修改公式来解决这个问题。新的动力学模型允许在交通流中再现条件稳定的非平衡现象。特别地，在模型不稳定的密度的有界区域中出现有界向后传播信号的停止和去波。这里介绍的BGK型模型还提供了微观跟随领导者模型和宏观Aw-Rascle和Zhang模型之间的介观描述。</p>
+
+<h3 id="复杂网络中的有偏随机搜索">复杂网络中的有偏随机搜索</h3>
+
+<p>原文标题： Biased Random Search in Complex Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1907.08222">http://arxiv.org/abs/1907.08222</a></p>
+
+<p>作者： Lasko Basnarkov, Miroslav Mirchev, Ljupco Kocarev</p>
+
+<p>摘要： 我们研究了两种基于局部信息的复杂网络上的偏向随机游走。在第一过程中，有利于向具有较小度数的相邻节点的过渡，而在第二过程中，探索基于两跳邻域的另一概念。我们通过数值模拟验证了这两个程序都减少了目标的平均搜索时间。我们在理论上表明，对于连接良好的网络，其中节点具有许多邻居，基于节点度的逆的随机游走的偏差导致对无向和有向网络的近似最优搜索。</p>
+
+<h3 id="人类数字痕迹的总误差框架">人类数字痕迹的总误差框架</h3>
+
+<p>原文标题： A Total Error Framework for Digital Traces of Humans</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1907.08228">http://arxiv.org/abs/1907.08228</a></p>
+
+<p>作者： Indira Sen, Fabian Floeck, Katrin Weller, Bernd Weiss, Claudia Wagner</p>
+
+<p>摘要： 全世界数亿人的互动和活动每天都被记录为数字痕迹。这些数据汇集在一起​​时，可以提供越来越全面的在不同平台上交互的个人和群体的图片，但它们也可以推断出超出这些平台的更广泛的目标群体，代表了社会科学的巨大潜力。尽管数字痕迹具有许多优点，但最近的研究已经开始讨论当数字痕迹用于了解人类和社会现象时可能发生的错误。顺便提一下，许多类似的错误也会影响调查估计，调查设计人员几十年来一直使用错误概念化框架，如全面调查错误框架。在这项工作中，我们提出了一个概念框架，用于诊断，理解和避免在基于人类数字痕迹的研究中可能出现的错误，这些研究利用了全面调查误差框架的系统方法。</p>
+
+<h3 id="带有循环的网络上的消息传递">带有循环的网络上的消息传递</h3>
+
+<p>原文标题： Message passing on networks with loops</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1907.08252">http://arxiv.org/abs/1907.08252</a></p>
+
+<p>作者： George T. Cantwell, M. E. J. Newman</p>
+
+<p>摘要： 在本文中，我们为网络研究中的长期问题提供了解决方案。消息传递是网络和图计算的基本技术。该方法的第一个版本出现在20世纪30年代，几十年来它已应用于数学，物理学，计算机科学，统计学和机器学习的广泛基础问题，包括贝叶斯推理，自旋模型，着色，可满足性，图分区，网络流行病学和矩阵特征值的计算。然而，尽管它被广泛使用，但人们早就认识到该方法有一个根本的缺陷：它只适用于没有短循环的网络。循环引入相关性，导致该方法最多给出不准确的答案，并在最坏的情况下完全失败。不幸的是，几乎所有现实世界的网络都包含许多短循环，这限制了消息传递方法的有用性。在本文中，我们将演示如何纠正这个缺点并创建适用于任何网络的消息传递方法。我们给出两个示例应用，一个用于网络的渗透属性，另一个用于计算稀疏矩阵的谱。</p>
+
+<h3 id="我和你站在一起-用emoji表情研究危机事件中的团结">我和你站在一起：用Emoji表情研究危机事件中的团结</h3>
+
+<p>原文标题： I Stand With You: Using Emojis to Study Solidarity in Crisis Events</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1907.08326">http://arxiv.org/abs/1907.08326</a></p>
+
+<p>作者： Sashank Santhanam, Vidhushini Srinivasan, Shaina Glass, Samira Shaikh</p>
+
+<p>摘要： 我们研究了在两个重大危机事件 - 自然灾害，2017年飓风Irma和2015年11月巴黎发生的恐怖袭击事件 - 背景下，如何运用表情符号来表达社交媒体的团结。使用带注释的语料库，我们首先训练一个递归神经网络模型来对文本中的团结表达进行分类。接下来，我们使用这些团结表达来表征在线社会网络中的人类行为，通过表情符号的时间和地理空间扩散。我们的分析表明，当危机事件展开时，表情符号是社会媒体行为（团结）的有力指标。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.me">https://www.complexly.me</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.me/post/20190722/">https://www.complexly.me/post/20190722/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.me/post/20190719/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要10篇(2019-07-19)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

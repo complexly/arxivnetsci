@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.me/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2019-07-22)</title>
+      <link>https://www.complexly.me/post/20190722/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.me/post/20190722/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于交通的动力学模型的BGK近似;&lt;/li&gt;
+&lt;li&gt;复杂网络中的有偏随机搜索;&lt;/li&gt;
+&lt;li&gt;人类数字痕迹的总误差框架;&lt;/li&gt;
+&lt;li&gt;带有循环的网络上的消息传递;&lt;/li&gt;
+&lt;li&gt;我和你站在一起：用Emoji表情研究危机事件中的团结;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-07-19)</title>
