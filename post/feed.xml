@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2019-07-25)</title>
+      <link>https://www.complexly.cn/post/20190725/</link>
+      <pubDate>Thu, 25 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190725/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;信息景观的算法失真;&lt;/li&gt;
+&lt;li&gt;复杂社会网络中节点分类的半监督张量分解;&lt;/li&gt;
+&lt;li&gt;在多个时间尺度上检测链路流中的稳定社区;&lt;/li&gt;
+&lt;li&gt;低碳能源系统模型中输电扩展规划的启发式方法;&lt;/li&gt;
+&lt;li&gt;衡量众包申请工人的专业知识;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-07-24)</title>
