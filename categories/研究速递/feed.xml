@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-07-29)</title>
+      <link>https://www.complexly.cn/post/20190729/</link>
+      <pubDate>Mon, 29 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190729/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;石头剪子布模型的Lotka-Volterra和May-Leonard实现中最弱物种的占优;&lt;/li&gt;
+&lt;li&gt;权力网络：分析世界领导者在社交媒体的互动;&lt;/li&gt;
+&lt;li&gt;时间网络的社区发现挑战;&lt;/li&gt;
+&lt;li&gt;融入与分离：一种非线性版本的共演化投票模型;&lt;/li&gt;
+&lt;li&gt;使用规则等价在基于信任的推荐系统中利用弱关系;&lt;/li&gt;
+&lt;li&gt;具有不断发展的系统风险防护的网络和主体动态;&lt;/li&gt;
+&lt;li&gt;节点警报 - 检测快速演变图中的变化;&lt;/li&gt;
+&lt;li&gt;采用Twitter评估美国人乳头瘤病毒疫苗接种健康行为的决定因素;&lt;/li&gt;
+&lt;li&gt;通过强化学习学习社会网络发现的策略;&lt;/li&gt;
+&lt;li&gt;复杂环境中的群集——集体信息处理中的注意力折衷;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-07-26)</title>
