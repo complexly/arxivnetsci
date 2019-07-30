@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-07-30)</title>
+      <link>https://www.complexly.cn/post/20190730/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190730/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;从社交媒体和用户生成的内容中解锁分析价值;&lt;/li&gt;
+&lt;li&gt;hood2vec：使用移动网络识别类似的城市区域;&lt;/li&gt;
+&lt;li&gt;DynWalks：全局拓扑和考虑最近变化的动态网络嵌入;&lt;/li&gt;
+&lt;li&gt;融合位置和文本功能以进行情绪分类;&lt;/li&gt;
+&lt;li&gt;基于视觉复杂度的动态图的非均匀时间分割;&lt;/li&gt;
+&lt;li&gt;在安全开发中表征和理解软件开发者网络;&lt;/li&gt;
+&lt;li&gt;使用协议相关知识加强流言协议;&lt;/li&gt;
+&lt;li&gt;城市道路网的统计特征与社区分析;&lt;/li&gt;
+&lt;li&gt;超越信息传播的覆盖范围：大规模在线社会网络中重新暴露的分析和经验证据;&lt;/li&gt;
+&lt;li&gt;AI竞赛的安全性和监管建模;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-07-29)</title>
