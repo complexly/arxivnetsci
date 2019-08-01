@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-08-01)</title>
+      <link>https://www.complexly.cn/post/20190801/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190801/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在基于中心的攻击下，Erdos-Renyi网络渗流转换的尺度率;&lt;/li&gt;
+&lt;li&gt;职业选择作为一种扩展的空间演化公共物品博弈;&lt;/li&gt;
+&lt;li&gt;用少量模拟实现影响最大化;&lt;/li&gt;
+&lt;li&gt;VASSL：社交Spambot标签的可视化分析工具包;&lt;/li&gt;
+&lt;li&gt;配置网络中度同配性的大偏差和异常波动尺度;&lt;/li&gt;
+&lt;li&gt;以链接为中心分析移动电话通信模式的人口统计数据变化;&lt;/li&gt;
+&lt;li&gt;多重网络中扩散动力学的自发对称性破缺和不连续相变;&lt;/li&gt;
+&lt;li&gt;流动研究人员的人口统计学：来自Web of Science的高流动学者的证据;&lt;/li&gt;
+&lt;li&gt;优化低收入和中等收入国家的疫苗分销网络;&lt;/li&gt;
+&lt;li&gt;具有选择权的独裁者博弈中社会信息的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-07-31)</title>
