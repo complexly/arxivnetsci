@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-08-02)</title>
+      <link>https://www.complexly.cn/post/20190802/</link>
+      <pubDate>Fri, 02 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190802/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;MIMO干扰信道的最大-最小公平性设计：最小化最大化方法;&lt;/li&gt;
+&lt;li&gt;从媒体事件报告中监督学习全球风险网络激活;&lt;/li&gt;
+&lt;li&gt;跨域网络表示;&lt;/li&gt;
+&lt;li&gt;基于友谊悖论采样的幂律度分布的最大似然估计;&lt;/li&gt;
+&lt;li&gt;网络上的采样：估计不完整图的特征向量中心性;&lt;/li&gt;
+&lt;li&gt;用归一化集聚系数测量网络的集聚强度;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-08-01)</title>
