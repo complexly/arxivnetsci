@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 02 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2019-08-05)</title>
+      <link>https://www.complexly.cn/post/20190805/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190805/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在全球范围内对PKT进行建模：机器学习方法;&lt;/li&gt;
+&lt;li&gt;学习空间不平等：捕捉城市环境中的异质性;&lt;/li&gt;
+&lt;li&gt;在线极化辩论的对比原因检测与聚类;&lt;/li&gt;
+&lt;li&gt;协同推荐中的偏差差异：算法评估和比较;&lt;/li&gt;
+&lt;li&gt;网络上的投票模型划分为两个任意大小的集团;&lt;/li&gt;
+&lt;li&gt;通过心血管疾病死亡率确定关键疾病;&lt;/li&gt;
+&lt;li&gt;短期非特异性免疫可以解释流行病的季节性间隔吗？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-08-02)</title>
