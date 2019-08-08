@@ -7,10 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 07 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要21篇(2019-08-08)</title>
+      <link>https://www.complexly.cn/post/20190808/</link>
+      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190808/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用呼叫详细记录的时间序列分析检测突发灾难后的国内流离失所者;&lt;/li&gt;
+&lt;li&gt;通过使用呼叫详细记录分析国内流离失所者的移动情况，估算对自然灾害的抵御能力;&lt;/li&gt;
+&lt;li&gt;二分网络的模块性和投影;&lt;/li&gt;
+&lt;li&gt;考虑活动的人流显示了城市系统隐藏的功能组织;&lt;/li&gt;
+&lt;li&gt;以数字数据为特征的移民流动;&lt;/li&gt;
+&lt;li&gt;推文可以告诉：使用混合长短期记忆模型进行活动识别;&lt;/li&gt;
+&lt;li&gt;基于嵌入的Silhouette社区检测;&lt;/li&gt;
+&lt;li&gt;下一代高分辨率载体传播疾病风险评估;&lt;/li&gt;
+&lt;li&gt;用于大规模社会推荐的三方异构图传播;&lt;/li&gt;
+&lt;li&gt;基于区域风险与运动模式的犯罪率预测;&lt;/li&gt;
+&lt;li&gt;通过知识图谱嵌入和Twitter将医生与医学研究结果联系起来;&lt;/li&gt;
+&lt;li&gt;多路图匹配的过滤器;&lt;/li&gt;
+&lt;li&gt;通过Bregman散度进行超链接回归;&lt;/li&gt;
+&lt;li&gt;另一种区块建模;&lt;/li&gt;
+&lt;li&gt;单纯复形的高阶度、多组合拉普拉斯算子以及拓扑数据分析在复杂网络中的应用;&lt;/li&gt;
+&lt;li&gt;用于识别相关推文以支持实时态势感知的交互式学习;&lt;/li&gt;
+&lt;li&gt;武器化的虚假信息如何破坏城市的电网;&lt;/li&gt;
+&lt;li&gt;比特币中的反洗钱：利用图卷积网络进行金融取证试验;&lt;/li&gt;
+&lt;li&gt;循环多路网络的分数动态：连续时间随机游走的最佳耦合和远程导航;&lt;/li&gt;
+&lt;li&gt;动态社会网络预测个人心理健康的能力;&lt;/li&gt;
+&lt;li&gt;发现供应链的相变行为以对抗破坏性事件;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要2篇(2019-08-07)</title>
