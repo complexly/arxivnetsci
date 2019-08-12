@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2019-08-12)</title>
+      <link>https://www.complexly.cn/post/20190812/</link>
+      <pubDate>Mon, 12 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190812/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;从信息级联利用贝叶斯推断网络结构;&lt;/li&gt;
+&lt;li&gt;优化相互连接网络中的传播动态;&lt;/li&gt;
+&lt;li&gt;社交媒体中视觉叙事的基准;&lt;/li&gt;
+&lt;li&gt;使用机器学习和城市指标重建通勤者网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-08-09)</title>
