@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 13 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2019-08-14)</title>
+      <link>https://www.complexly.cn/post/20190814/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190814/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;广义营养级和图层次结构;&lt;/li&gt;
+&lt;li&gt;利用多域视觉信息进行假新闻检测;&lt;/li&gt;
+&lt;li&gt;二元节点元数据混合模式的网络约束;&lt;/li&gt;
+&lt;li&gt;使用多层网络上的模块化信念传播检测显著的社区结构;&lt;/li&gt;
+&lt;li&gt;通过递归网络量化混沌吸引子的信息丢失;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2019-08-13)</title>
