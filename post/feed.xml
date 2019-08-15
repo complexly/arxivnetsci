@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2019-08-15)</title>
+      <link>https://www.complexly.cn/post/20190815/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190815/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Twitter Moodifier：向Twitter用户提供情感意识;&lt;/li&gt;
+&lt;li&gt;我应该多久访问一次我的在线社会网络？;&lt;/li&gt;
+&lt;li&gt;隐私保护链路预测与潜在几何网络模型;&lt;/li&gt;
+&lt;li&gt;复杂网络中的社区结构：挑战和机遇;&lt;/li&gt;
+&lt;li&gt;基于角色嵌入的Reddit网络时态分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2019-08-14)</title>
