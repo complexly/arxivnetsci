@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2019-08-17)</title>
+      <link>https://www.complexly.cn/post/20190817/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190817/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用潜在图卷积网络进行复杂多图的端到端学习;&lt;/li&gt;
+&lt;li&gt;当你的朋友成为卖家：社交商务网站北电的实证研究;&lt;/li&gt;
+&lt;li&gt;GitHub生态系统的大规模多主体数据驱动模拟;&lt;/li&gt;
+&lt;li&gt;基于闲言碎语的普适推荐系统信息传播;&lt;/li&gt;
+&lt;li&gt;在世界-地球系统模型中使用深度强化学习发现可持续管理战略;&lt;/li&gt;
+&lt;li&gt;FCNHSMRA_HRS：使用资源分配方法改善电影混合推荐系统的性能;&lt;/li&gt;
+&lt;li&gt;CUPCF：在协同过滤中结合用户首选项以获得更好的推荐;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2019-08-15)</title>
