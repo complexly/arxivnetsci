@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 20 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2019-08-21)</title>
+      <link>https://www.complexly.cn/post/20190821/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190821/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;有向图是不同的：为什么方向性在复杂系统中很重要;&lt;/li&gt;
+&lt;li&gt;发展中国家的小农户的移动社区感知;农作物健康监测的规模试点;&lt;/li&gt;
+&lt;li&gt;随机阈值图的渐近度分布;&lt;/li&gt;
+&lt;li&gt;SilceNDice：挖掘多视图的可疑多属性实体组;&lt;/li&gt;
+&lt;li&gt;面向大型局部树状图的动力系统稳定性谱理论;&lt;/li&gt;
+&lt;li&gt;估计在线视频网络中的注意力流;&lt;/li&gt;
+&lt;li&gt;有多少人可以同时穿过行人空间？复杂流动情况对基本图形状的影响;&lt;/li&gt;
+&lt;li&gt;市场崩盘中关键股票的涌现;&lt;/li&gt;
+&lt;li&gt;板球比赛的随机微分理论;&lt;/li&gt;
+&lt;li&gt;通过节点复制增长的有向随机网络中最短路径长度分布的分析结果;&lt;/li&gt;
+&lt;li&gt;社交媒体的使用揭示了自然灾害后地区如何恢复;&lt;/li&gt;
+&lt;li&gt;区块链技术在农业和食品供应链中的崛起;&lt;/li&gt;
+&lt;li&gt;城市几何如何解释城市规模法则并确定其指数;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-08-20)</title>
