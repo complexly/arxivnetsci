@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2019-08-22)</title>
+      <link>https://www.complexly.cn/post/20190822/</link>
+      <pubDate>Thu, 22 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190822/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过迁移学习防止投毒攻击的鲁棒图神经网络;&lt;/li&gt;
+&lt;li&gt;预测研究人员的发表生产率：分段泊松模型;&lt;/li&gt;
+&lt;li&gt;找到合适的网络规模：通过谱聚类有效识别因果关系;&lt;/li&gt;
+&lt;li&gt;遍历Twitter：基于语言的有效推特账户关注网络采样;&lt;/li&gt;
+&lt;li&gt;图聚类可视化的质量度量;&lt;/li&gt;
+&lt;li&gt;阿拉伯人和无神论：阿拉伯Twitter空间中的宗教讨论;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2019-08-21)</title>

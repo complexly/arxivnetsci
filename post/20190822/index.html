@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要6篇(2019-08-22) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+通过迁移学习防止投毒攻击的鲁棒图神经网络;
+预测研究人员的发表生产率：分段泊松模型;
+找到合适的网络规模：通过谱聚类有效识别因果关系;
+遍历Twitter：基于语言的有效推特账户关注网络采样;
+图聚类可视化的质量度量;
+阿拉伯人和无神论：阿拉伯Twitter空间中的宗教讨论;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要6篇(2019-08-22) - 网络科学研究速递">
+<meta itemprop="description" content="
+通过迁移学习防止投毒攻击的鲁棒图神经网络;
+预测研究人员的发表生产率：分段泊松模型;
+找到合适的网络规模：通过谱聚类有效识别因果关系;
+遍历Twitter：基于语言的有效推特账户关注网络采样;
+图聚类可视化的质量度量;
+阿拉伯人和无神论：阿拉伯Twitter空间中的宗教讨论;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要6篇(2019-08-22) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20190822/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+通过迁移学习防止投毒攻击的鲁棒图神经网络;
+预测研究人员的发表生产率：分段泊松模型;
+找到合适的网络规模：通过谱聚类有效识别因果关系;
+遍历Twitter：基于语言的有效推特账户关注网络采样;
+图聚类可视化的质量度量;
+阿拉伯人和无神论：阿拉伯Twitter空间中的宗教讨论;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20190822/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20190822/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要6篇(2019-08-22)</h1>
+
+                  <p class="post-byline">
+                    2019年08月22日 · 2536 字 ·
+                    阅读时间约6分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>通过迁移学习防止投毒攻击的鲁棒图神经网络;</li>
+<li>预测研究人员的发表生产率：分段泊松模型;</li>
+<li>找到合适的网络规模：通过谱聚类有效识别因果关系;</li>
+<li>遍历Twitter：基于语言的有效推特账户关注网络采样;</li>
+<li>图聚类可视化的质量度量;</li>
+<li>阿拉伯人和无神论：阿拉伯Twitter空间中的宗教讨论;</li>
+</ul>
+
+<p></p>
+
+<h3 id="通过迁移学习防止投毒攻击的鲁棒图神经网络">通过迁移学习防止投毒攻击的鲁棒图神经网络</h3>
+
+<p>原文标题： Robust Graph Neural Network Against Poisoning Attacks via Transfer Learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1908.07558">http://arxiv.org/abs/1908.07558</a></p>
+
+<p>作者： Xianfeng Tang, Yandong Li, Yiwei Sun, Huaxiu Yao, Prasenjit Mitra, Suhang Wang</p>
+
+<p>摘要： 图神经网络（GNN）广泛用于许多应用中。然而，它们对抗对抗性攻击的强大性受到批评。之前的研究表明，在图拓扑或节点特征上使用不明显的修改可以显著降低GNN的性能。设计强大的图神经网络以防止中毒攻击是非常具有挑战性的，并且已经采取了一些措施。现有的工作旨在减少来自对抗边的负面影响，仅使用中毒图，这是次优的，因为它们无法区分对抗边与正常边。另一方面，通常在现实世界中可以获得与目标中毒图相似的域的清晰图。通过扰乱这些干净的图，我们创建了监督知识来训练检测对抗边的能力，从而提高GNN的鲁棒性。然而，现有工作忽略了清洁图的这种潜力。为此，我们通过探索干净的图来研究提高GNNs抵御中毒攻击的鲁棒性的新问题。具体来说，我们提出了PA-GNN，它依赖于惩罚性聚合机制，通过赋予它们较低的注意力系数来直接限制对抗性边的负面影响。为了优化PA-GNN中毒图，我们设计了一种元优化算法，该算法训练PA-GNN使用干净图及其对抗性对应物惩罚扰动，并转移这种能力以提高PA-GNN对中毒图的鲁棒性。四个真实数据集的实验结果证明了PA-GNN对图中毒攻击的鲁棒性。</p>
+
+<h3 id="预测研究人员的发表生产率-分段泊松模型">预测研究人员的发表生产率：分段泊松模型</h3>
+
+<p>原文标题： Predicting publication productivity for researchers: a piecewise Poisson model</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1908.07564">http://arxiv.org/abs/1908.07564</a></p>
+
+<p>作者： Zheng Xie</p>
+
+<p>摘要： 预测研究人员的科学生产力是学术管理者和资助机构的基本任务。这项研究为研究人员的出版动态提供了一个模型，受到研究人员出版物数量分布特征的启发。它是一个分段泊松模型，通过回归分析和预测研究人员的出版生产率。该模型的原理建立在分布特征的解释上，这是由于非均匀泊松过程的结果，可以近似为分段泊松过程。该模型的原理由高质量的dblp数据集验证，其有效性可用于预测大多数研究人员的出版生产率及其出版生产率的演变趋势。还提出了确认或不确认模型的测试。该模型具有以无偏见的方式提供结果的优点;因此，对于通过出版物的定量指数评估大量应用的资助机构非常有用。</p>
+
+<h3 id="找到合适的网络规模-通过谱聚类有效识别因果关系">找到合适的网络规模：通过谱聚类有效识别因果关系</h3>
+
+<p>原文标题： Finding the right scale of a network: Efficient identification of causal emergence through spectral clustering</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1908.07565">http://arxiv.org/abs/1908.07565</a></p>
+
+<p>作者： Ross Griebenow, Brennan Klein, Erik Hoel</p>
+
+<p>摘要： 可以在多个尺度上分析所有网络。较高规模的网络由宏节点组成：已被分组为单个节点的子图。以较高比例重新建立网络可以产生有用的效果，例如减少随机游走者在网络中移动的不确定性，同时还减小网络的大小。然而，找到这样的宏观表示的任务在计算上是困难的，因为网络的所有可能尺度的集合随着节点的数量呈指数增长。在这里，我们比较了各种方法，以找到最具信息量的网络规模，发现基于谱分析的方法优于基于贪婪和梯度下降的方法。然后，我们使用此过程来说明优先附着网络的几个结构属性如何在不同尺度上变化。我们描述了网络的中观和宏观表示如何在其基本微观尺度上具有显著优势，其中包括诸如确定性增加，简并性降低，网络上随机游走者的熵率降低，全球网络效率提高等属性，与微尺度相比，各种中心度量值的值更高。</p>
+
+<h3 id="遍历twitter-基于语言的有效推特账户关注网络采样">遍历Twitter：基于语言的有效推特账户关注网络采样</h3>
+
+<p>原文标题： Walking Through Twitter: Sampling a Language-Based Follow Network of Influential Twitter Accounts</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1908.07788">http://arxiv.org/abs/1908.07788</a></p>
+
+<p>作者： Felix Victor Münch, Ben Thies, Cornelius Puschmann, Axel Bruns</p>
+
+<p>摘要： Twitter通过可公开访问，免费的标准API不断收紧对其数据的访问。这尤其适用于跟随网络。鉴于此，我们成功修改了网络抽样方法，以便与Twitter标准API一起高效工作，以便检索基于语言的Twitter关注网络的最核心和最有影响力的帐户：德国Twittersphere。我们提供的证据表明，该方法能够在活动，跟随者数量，覆盖范围和覆盖范围方面接近德国Twittersphere中有影响力账户的前1％至10％。此外，我们通过展示德国Twittersphere内部主题社区的第一个概述及其网络结构来证明这些数据的有用性。所提出的数据挖掘方法开辟了更多的探究途径，例如收集和比较基于语言的Twitterspheres而不是德国的Twitterspheres，它围绕某些主题或感兴趣的帐户收集关注网络的进一步发展，以及它的应用其他在线社会网络和平台。</p>
+
+<h3 id="图聚类可视化的质量度量">图聚类可视化的质量度量</h3>
+
+<p>原文标题： A Quality Metric for Visualization of Clusters in Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1908.07792">http://arxiv.org/abs/1908.07792</a></p>
+
+<p>作者： Amyra Meidiana, Seok-Hee Hong, Peter Eades, Daniel Keim</p>
+
+<p>摘要： 传统上，图质量指标侧重于可读性，但最近的研究表明，需要更具体的指标来发现图中的模式。聚类分析是图分析中的一项流行任务，但尚未明确量化图绘制表示其聚类结构的程度。我们定义了一个聚类质量度量，它衡量图的节点链接绘制表示图中包含的聚类的程度。通过变形图绘制的实验验证了我们的度量有效地捕获了图绘制的可视化群集质量的变化。然后，我们使用我们的度量来检查不同的图绘制算法在各种图中可视化集群结构的程度。结果表明，一些专门设计用于显示聚类结构的算法比其他算法表现更好。</p>
+
+<h3 id="阿拉伯人和无神论-阿拉伯twitter空间中的宗教讨论">阿拉伯人和无神论：阿拉伯Twitter空间中的宗教讨论</h3>
+
+<p>原文标题： Arabs and Atheism: Religious Discussions in the Arab Twittersphere</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1908.07811">http://arxiv.org/abs/1908.07811</a></p>
+
+<p>作者： Youssef Al Hariri, Walid Magdy, Maria Wolters</p>
+
+<p>摘要： 大多数先前关于无神论在线讨论的研究都集中在基督教背景下的无神论。相比之下，关于阿拉伯世界和伊斯兰背景中的无神论的讨论相对较少。更复杂的是，在一些阿拉伯国家，开放无神论是违法的，这可能会进一步限制社交媒体上的无神论活动。在这项工作中，我们探讨阿拉伯Twittersphere的无神论讨论。我们根据他们发布的内容确定了四个相关类别的Twitter用户：无神论，神论，tanweeri（宗教更新）等。我们描述了这四组用户及其社会网络发布的典型内容，特别关注所讨论的主题及其间的互动。我们的研究结果对于研究社交媒体上的宗教和精神话语具有重要意义，并提供了对相关方面的更好的跨文化理解。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20190822/">https://www.complexly.cn/post/20190822/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20190821/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要13篇(2019-08-21)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
