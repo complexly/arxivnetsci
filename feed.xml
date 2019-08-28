@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 27 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-08-28)</title>
+      <link>https://www.complexly.cn/post/20190828/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190828/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于测量人类流动模式的时间稳定性的统计框架;&lt;/li&gt;
+&lt;li&gt;复杂网络中社区结构的一致性;&lt;/li&gt;
+&lt;li&gt;使用聚合关系数据一致地估计图统计量;&lt;/li&gt;
+&lt;li&gt;符号图的Corona积及其在符号网络建模中的应用;&lt;/li&gt;
+&lt;li&gt;SimBins——一种实时多路网络中链路预测的信息论方法;&lt;/li&gt;
+&lt;li&gt;有损电网和振荡器网络中的多稳态性;&lt;/li&gt;
+&lt;li&gt;动态影响力的网络社区;&lt;/li&gt;
+&lt;li&gt;PubMed MeSH术语之间的分层网络的时间演变;&lt;/li&gt;
+&lt;li&gt;具有图邻居信息的模型选择;&lt;/li&gt;
+&lt;li&gt;行人动力学的广义无碰撞速度模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要20篇(2019-08-27)</title>
