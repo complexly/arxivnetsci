@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2019-08-29)</title>
+      <link>https://www.complexly.cn/post/20190829/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190829/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多问题意见模型中的意识形态动机偏见;&lt;/li&gt;
+&lt;li&gt;桁架分解的流和批处理算法;&lt;/li&gt;
+&lt;li&gt;近似单源个性化PageRank查询的有效算法;&lt;/li&gt;
+&lt;li&gt;贝叶斯嵌入（BEM）：通过集成知识图谱和行为特定网络来细化表示;&lt;/li&gt;
+&lt;li&gt;大学排名的纵向分析;&lt;/li&gt;
+&lt;li&gt;基于中心性的复杂网络重要边的识别;&lt;/li&gt;
+&lt;li&gt;复杂网络稳定性增强的带宽分配与资源调整;&lt;/li&gt;
+&lt;li&gt;在广义的年龄结构空间博弈中的合作;&lt;/li&gt;
+&lt;li&gt;五十年的美国、英国、德国和荷兰音乐排行榜显示文化进程正在加速发展;&lt;/li&gt;
+&lt;li&gt;通过图分区实现有效高效的网络嵌入初始化;&lt;/li&gt;
+&lt;li&gt;数学模拟有中间宿主的新兴人畜共患病的溢出动态;&lt;/li&gt;
+&lt;li&gt;注释的兴起与衰落：2000-2018年ACM CSCW变化的论文长度;&lt;/li&gt;
+&lt;li&gt;社交媒体虚假新闻检测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-08-28)</title>
