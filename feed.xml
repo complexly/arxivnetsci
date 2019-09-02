@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2019-09-02)</title>
+      <link>https://www.complexly.cn/post/20190902/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190902/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;竞争性含时网络中价值与成本权衡的增长动力学;&lt;/li&gt;
+&lt;li&gt;使用重要的环路来理解模型行为;&lt;/li&gt;
+&lt;li&gt;寻找你的脚：一个用于估计板球测试中击球手的能力的高斯过程模型;&lt;/li&gt;
+&lt;li&gt;通过非常稀疏的随机投影实现快速准确的网络嵌入;&lt;/li&gt;
+&lt;li&gt;网络嵌入的对抗训练方法;&lt;/li&gt;
+&lt;li&gt;尺度的层析成像;&lt;/li&gt;
+&lt;li&gt;在线回声室中的递归模式;&lt;/li&gt;
+&lt;li&gt;情绪如何推动意见分化：基于主体的模型;&lt;/li&gt;
+&lt;li&gt;推特上的网络仇恨及其对社交媒体治理策略的启示;&lt;/li&gt;
+&lt;li&gt;加权图中紧密核心群搜索的快速算法;&lt;/li&gt;
+&lt;li&gt;北卡罗来纳州最优立法县聚类;&lt;/li&gt;
+&lt;li&gt;季节性收益变化与社会困境中的合作演变;&lt;/li&gt;
+&lt;li&gt;以太坊区块链结构：复杂网络理论视角;&lt;/li&gt;
+&lt;li&gt;复现流动的场论;&lt;/li&gt;
+&lt;li&gt;让社区表现出对秩序的尊重;&lt;/li&gt;
+&lt;li&gt;含时网络中的有效时间可达性估计;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-08-30)</title>
