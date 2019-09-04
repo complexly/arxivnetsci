@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2019-09-04)</title>
+      <link>https://www.complexly.cn/post/20190904/</link>
+      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190904/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于2跳和3跳的链路预测算法的实验分析;&lt;/li&gt;
+&lt;li&gt;相互依存的共同作者和引用网络的演变;&lt;/li&gt;
+&lt;li&gt;小世界和空间网络中的聚类;&lt;/li&gt;
+&lt;li&gt;发布具有差分隐私保证的社区保留属性社交图;&lt;/li&gt;
+&lt;li&gt;监测Twitter消息中对疫苗接种的立场;&lt;/li&gt;
+&lt;li&gt;错误信息在相关多路网络上的传播;&lt;/li&gt;
+&lt;li&gt;用户可以猜到她的追随者想要什么吗？;&lt;/li&gt;
+&lt;li&gt;社会传染属性的隐私权;&lt;/li&gt;
+&lt;li&gt;针对同步攻击的动态网络安全性分析;&lt;/li&gt;
+&lt;li&gt;网络流行病模型中三角闭环背后的假设理论和数值考虑;&lt;/li&gt;
+&lt;li&gt;比例增长以及类似规律：基于主体的社会经济系统建模应用;&lt;/li&gt;
+&lt;li&gt;收缩网络的战争契约模型;&lt;/li&gt;
+&lt;li&gt;线性流网络中链路故障的集体效应;&lt;/li&gt;
+&lt;li&gt;使用网络分析识别智能制裁背后的层次影响结构;&lt;/li&gt;
+&lt;li&gt;图表示学习：一项综述;&lt;/li&gt;
+&lt;li&gt;空间优度的递归定义，连接可持续性的空间和地点概念;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2019-09-02)</title>
