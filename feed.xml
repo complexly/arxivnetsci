@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 04 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-09-05)</title>
+      <link>https://www.complexly.cn/post/20190905/</link>
+      <pubDate>Thu, 05 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190905/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;地平线上的麻烦：在线对话发展过程中预测脱轨;&lt;/li&gt;
+&lt;li&gt;社会影响对收养行为的影响：在线控制实验评价;&lt;/li&gt;
+&lt;li&gt;基于相似性的链路预测的对抗鲁棒性;&lt;/li&gt;
+&lt;li&gt;小世界有利于网络推理;&lt;/li&gt;
+&lt;li&gt;Facebook上分享的研究有多少是公开的？围绕PLOS ONE论文的公共和私人在线活动比较;&lt;/li&gt;
+&lt;li&gt;利用图卷积通过对抗域自适应进行网络迁移学习;&lt;/li&gt;
+&lt;li&gt;改划选区：行贿者的观点;&lt;/li&gt;
+&lt;li&gt;社会网络作为高等教育机构形象塑造的工具;&lt;/li&gt;
+&lt;li&gt;同一共享的不同吸收：为假新闻检测筛选多任务学习;&lt;/li&gt;
+&lt;li&gt;流动状态：不平等的联盟可以产生权力真空;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2019-09-04)</title>
