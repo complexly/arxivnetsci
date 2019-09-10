@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要18篇(2019-09-10)</title>
+      <link>https://www.complexly.cn/post/20190910/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190910/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;一种基于基于伪差的简单方法，利用GPS数据支持公共汽车温室气体排放的减缓政策;&lt;/li&gt;
+&lt;li&gt;使用功能性MRI和图论建立健康受试者单语和双语语言网络;&lt;/li&gt;
+&lt;li&gt;从拓扑视角测量和缓解图神经网络的过平滑问题;&lt;/li&gt;
+&lt;li&gt;HeteSpaceyWalk：用于异构信息网络嵌入的异构空间随机游走;&lt;/li&gt;
+&lt;li&gt;利用社交媒体评估灾害对公路的影响：飓风哈维的案例研究;&lt;/li&gt;
+&lt;li&gt;多组连接结构及其启示;&lt;/li&gt;
+&lt;li&gt;使用声明性程序转换生成基于ASP的链接分析的解释;&lt;/li&gt;
+&lt;li&gt;核节点嵌入;&lt;/li&gt;
+&lt;li&gt;具有度相关的广义配置模型及其渗流分析;&lt;/li&gt;
+&lt;li&gt;印度有多少研究成果得到社交媒体的关注？;&lt;/li&gt;
+&lt;li&gt;通过对抗性训练生成可靠的朋友以改善社交推荐;&lt;/li&gt;
+&lt;li&gt;社会网络结构多样性的实验研究;&lt;/li&gt;
+&lt;li&gt;通过几乎不耦合的随机游走推进基于项目的协同过滤;&lt;/li&gt;
+&lt;li&gt;使用激光混沌时间序列通过多臂老虎机算法在无线通信中进行动态信道选择;&lt;/li&gt;
+&lt;li&gt;错误信息检测的未来：新的视角和趋势;&lt;/li&gt;
+&lt;li&gt;面向移动应用开发的知识型个性化推荐系统;&lt;/li&gt;
+&lt;li&gt;你真的跟着他们吗？自动检测轻信的Twitter用户;&lt;/li&gt;
+&lt;li&gt;通过Katz和特征向量中心性进行社区检测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-09-09)</title>
