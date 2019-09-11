@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-09-11)</title>
+      <link>https://www.complexly.cn/post/20190911/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190911/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;关注领导者：语义变革前沿的文档获取更多引文;&lt;/li&gt;
+&lt;li&gt;粒子系统的非平衡扩散特性以及与社会系统的对应关系;&lt;/li&gt;
+&lt;li&gt;随机过程中的扩散和记忆效应以及与社会系统中信息传播的对应关系;&lt;/li&gt;
+&lt;li&gt;具有微观和宏观动态的时间网络嵌入;&lt;/li&gt;
+&lt;li&gt;基于深度神经网络的图嵌入实现Lifelog模式分析;&lt;/li&gt;
+&lt;li&gt;具有时变有向图的不确定模型的非贝叶斯社会学习;&lt;/li&gt;
+&lt;li&gt;Van Der Pol振子层级网络的动力学性质;&lt;/li&gt;
+&lt;li&gt;Quora竞争主题命名约定：从数百万主题对中预测适当的主题合并和获胜主题;&lt;/li&gt;
+&lt;li&gt;不均衡下的收入不平等动态：印度案例;&lt;/li&gt;
+&lt;li&gt;使用异构图的局部和全局关系联合嵌入进行谣言检测;&lt;/li&gt;
+&lt;li&gt;可变成本测试的超图测试组：电力系统案例研究;&lt;/li&gt;
+&lt;li&gt;在线社会网络中的用户信誉建模：成本、收益和互惠的作用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2019-09-10)</title>
