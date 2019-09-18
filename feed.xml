@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 17 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2019-09-18)</title>
+      <link>https://www.complexly.cn/post/20190918/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190918/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;发现差分特征：用于信息可信度评价的对抗性学习;&lt;/li&gt;
+&lt;li&gt;用于复杂网络近最优链路预测的堆叠模型;&lt;/li&gt;
+&lt;li&gt;ASSED：一种通过自适应社会感知数据过滤识别物理活动的框架;&lt;/li&gt;
+&lt;li&gt;技术对政治运动的影响;&lt;/li&gt;
+&lt;li&gt;腐败结构的社会网络分析：邻接矩阵支持的分层可视化和量化;&lt;/li&gt;
+&lt;li&gt;表征和预测重复食品消费行为用于即时干预;&lt;/li&gt;
+&lt;li&gt;创意事业的成功与运气;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要22篇(2019-09-17)</title>
