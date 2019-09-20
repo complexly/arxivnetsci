@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2019-09-20)</title>
+      <link>https://www.complexly.cn/post/20190920/</link>
+      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190920/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;合同市场的腐败风险：网络科学视角;&lt;/li&gt;
+&lt;li&gt;再论主特征向量的局部性和网络的中心性;&lt;/li&gt;
+&lt;li&gt;使用强化学习和基于主体建模的隔离动力学研究;&lt;/li&gt;
+&lt;li&gt;WhatsApp是否可以通过限制消息转发对抗不实信息？;&lt;/li&gt;
+&lt;li&gt;通过描述语境危机事件的公共讨论表征集体注意力;&lt;/li&gt;
+&lt;li&gt;DAOC：大型网络的稳定聚类;&lt;/li&gt;
+&lt;li&gt;一种混合引力和路径选择的模型，用于评估大规模路网的矢量交通;&lt;/li&gt;
+&lt;li&gt;定义一个历史悠久的足球队：使用网络科学分析瓜迪奥拉的巴塞罗那足球俱乐部;&lt;/li&gt;
+&lt;li&gt;社会参与的崩溃以及通过地方招募的预防;&lt;/li&gt;
+&lt;li&gt;基于用户重叠的跨越多个社会网络的社区检测;&lt;/li&gt;
+&lt;li&gt;广义网络拆解集成方法;&lt;/li&gt;
+&lt;li&gt;统一随机多重图的矩与固定度序列;&lt;/li&gt;
+&lt;li&gt;从含时的共存网络中检测灵长类动物的社会（不）稳定性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2019-09-19)</title>
