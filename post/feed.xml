@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2019-09-24)</title>
+      <link>https://www.complexly.cn/post/20190924/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190924/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于传染病控制的序列动态资源分配;&lt;/li&gt;
+&lt;li&gt;模块化网络上的疾病传播：宣布流感爆发的恐惧;&lt;/li&gt;
+&lt;li&gt;一个多策略方法克服社区检测评估偏见;&lt;/li&gt;
+&lt;li&gt;多层网络用于数据驱动分析的案例：建模、效率和多功能性;&lt;/li&gt;
+&lt;li&gt;基于Facebook上公司写了什么和写的方式预测消费者参与;&lt;/li&gt;
+&lt;li&gt;从信息披露到隐私助推：考虑隐私的和以用户为中心的个人数据管理框架;&lt;/li&gt;
+&lt;li&gt;增量公平的双边市场平台：公平的更新推荐;&lt;/li&gt;
+&lt;li&gt;用于在线社会网络信任意见估计的概率图模型;&lt;/li&gt;
+&lt;li&gt;信任评估的在线社会网络;&lt;/li&gt;
+&lt;li&gt;集体结果的灵敏度识别了关键组件;&lt;/li&gt;
+&lt;li&gt;基于嵌入性的土耳其极化的定性分析;&lt;/li&gt;
+&lt;li&gt;异构图卷积网络用于含时社区检测;&lt;/li&gt;
+&lt;li&gt;石墨烯科技的辉煌年代：基于期刊和专利文献的引文证据;&lt;/li&gt;
+&lt;li&gt;暗网和公网论坛提取的网络的结构和动态差异;&lt;/li&gt;
+&lt;li&gt;多重网络中的社区发现和改进的探测性;&lt;/li&gt;
+&lt;li&gt;用于复杂网络社区发现的约简网络极值集成学习（RenEEL）方案;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要2篇(2019-09-23)</title>
