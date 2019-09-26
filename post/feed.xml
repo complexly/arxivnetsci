@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-09-26)</title>
+      <link>https://www.complexly.cn/post/20190926/</link>
+      <pubDate>Thu, 26 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190926/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;数学文本语义网络的建构与演进;&lt;/li&gt;
+&lt;li&gt;使用显式扩散动力学进行图上半监督分类;&lt;/li&gt;
+&lt;li&gt;超图上的社会感染模型;&lt;/li&gt;
+&lt;li&gt;在移动中的儿童手机数据：挑战与机遇;&lt;/li&gt;
+&lt;li&gt;构建有Soules矢量的拉普拉斯矩阵：特征值反问题和应用;&lt;/li&gt;
+&lt;li&gt;理解科学引文索引（SCI）期刊的Twitter使用;&lt;/li&gt;
+&lt;li&gt;分布式信任管理：风险分析和信任聚集;&lt;/li&gt;
+&lt;li&gt;挖掘人口流动数据发现地点和习惯;&lt;/li&gt;
+&lt;li&gt;社会网络隔离与城市拓扑的相互作用使得不平等增加;&lt;/li&gt;
+&lt;li&gt;挖掘暗网用户的交互方式，以预测企业网络事故;&lt;/li&gt;
+&lt;li&gt;利用拉普拉斯谱约束的结构化图学习;&lt;/li&gt;
+&lt;li&gt;使用统计场方法分析资本积累;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2019-09-25)</title>
