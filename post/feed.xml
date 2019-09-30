@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-09-30)</title>
+      <link>https://www.complexly.cn/post/20190930/</link>
+      <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20190930/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;追寻结构：图结构和半监督分类联合学习;&lt;/li&gt;
+&lt;li&gt;社会物联网基于海林格的信任管理的矩阵分解模型;&lt;/li&gt;
+&lt;li&gt;通过多路相互作用网络的非线性动力学冲突模型;&lt;/li&gt;
+&lt;li&gt;社区检测的新指标;&lt;/li&gt;
+&lt;li&gt;PowNet：大规模水能耦合研究的电力系统分析模型;&lt;/li&gt;
+&lt;li&gt;一般排序分布的最大熵框架与社会经济应用;&lt;/li&gt;
+&lt;li&gt;意见动力学与记忆：社会怎么被自己的过去塑造;&lt;/li&gt;
+&lt;li&gt;暴政到无政府状态：有向层级图上的组织影响的模式;&lt;/li&gt;
+&lt;li&gt;HateMonitors：社交媒体上语言无关的滥用检测;&lt;/li&gt;
+&lt;li&gt;时间尺度和复现流动模式对流行病扩散的影响;&lt;/li&gt;
+&lt;li&gt;一种新的数据驱动的算法，用于意外高流量非拥挤交通状态的自动化检测;&lt;/li&gt;
+&lt;li&gt;基于文本挖掘技术的股市预测：支持向量机方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-09-27)</title>
