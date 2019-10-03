@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2019-10-03)</title>
+      <link>https://www.complexly.cn/post/20191003/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191003/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;突变传染影响的尺度律;&lt;/li&gt;
+&lt;li&gt;单向流动的社会力模型的解析解;&lt;/li&gt;
+&lt;li&gt;检索图中的大权重三角形;&lt;/li&gt;
+&lt;li&gt;量化网络平台选民偏见：工具变量法;&lt;/li&gt;
+&lt;li&gt;横向网络钓鱼的规模化检测和表征;&lt;/li&gt;
+&lt;li&gt;单篇论文引文动态预测;&lt;/li&gt;
+&lt;li&gt;保持简单：不使用图卷积网络的图自动编码;&lt;/li&gt;
+&lt;li&gt;自然人群聚类大小的截断对数正态分布和尺度律;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2019-10-02)</title>
