@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要20篇(2019-10-04)</title>
+      <link>https://www.complexly.cn/post/20191004/</link>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191004/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;识别假新闻与讽刺的细微差别：使用语义和语言线索;&lt;/li&gt;
+&lt;li&gt;空间强度中心性与空间嵌入对网络架构的影响;&lt;/li&gt;
+&lt;li&gt;图-直方图：利用潜在部件直方图的图分类的进行机器人检测;&lt;/li&gt;
+&lt;li&gt;反面外部来源带来的极化和共识;&lt;/li&gt;
+&lt;li&gt;从无头苍蝇到智慧群体：优化网络的亲社会行为;&lt;/li&gt;
+&lt;li&gt;TexTrolls：从文本角度确定Twitter上的俄罗斯巨魔;&lt;/li&gt;
+&lt;li&gt;探索高时间分辨率下的并发性和可达性;&lt;/li&gt;
+&lt;li&gt;情感分析是否可以揭示无情节小说结构？;&lt;/li&gt;
+&lt;li&gt;布尔组成多路网络的高效社区发现;&lt;/li&gt;
+&lt;li&gt;推荐系统通过伪标签消除偏见;&lt;/li&gt;
+&lt;li&gt;通过点过程视角分析Spotify的前200名;&lt;/li&gt;
+&lt;li&gt;我知道你会回来：可解释的移动社交应用程序新用户聚类和流失预测;&lt;/li&gt;
+&lt;li&gt;通过路径的自动发现建立异构网络相似性模型;&lt;/li&gt;
+&lt;li&gt;CubeNet：多面层级异构网络构建、分析和挖掘;&lt;/li&gt;
+&lt;li&gt;基于D2D-LSTM预测移动社会网络的D2D扩散路径;&lt;/li&gt;
+&lt;li&gt;基于注意力的神经架构用于考虑作者上下文的谣言检测;&lt;/li&gt;
+&lt;li&gt;识别基于GWAP防灾监测众包系统中的恶意玩家;&lt;/li&gt;
+&lt;li&gt;引入多层流图和层中心性;&lt;/li&gt;
+&lt;li&gt;重新划分党派偏见：计算复杂性遇到改划选区的科学;&lt;/li&gt;
+&lt;li&gt;低时间分辨率路线的定位订单恢复;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-10-03)</title>
