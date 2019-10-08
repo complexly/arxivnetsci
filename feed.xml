@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 07 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2019-10-08)</title>
+      <link>https://www.complexly.cn/post/20191008/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191008/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;估计节点的度中心性排名;&lt;/li&gt;
+&lt;li&gt;通过局部信息维度识别复杂网络中的有影响者;&lt;/li&gt;
+&lt;li&gt;多Agent多臂Bandit社会学习;&lt;/li&gt;
+&lt;li&gt;不只是健康战争：迅速扩大和高效的网络叛逆连接了地区和全球的在线不信任人群;&lt;/li&gt;
+&lt;li&gt;浅析城市横向和纵向尺度之间的关系;&lt;/li&gt;
+&lt;li&gt;基于高斯过程的用于文本网络的动态嵌入算法;&lt;/li&gt;
+&lt;li&gt;使用城市级推特地理位置进行实时可视化分析;&lt;/li&gt;
+&lt;li&gt;无固定车位自行车共享系统的不可用自行车：批量策略下的移除、维修和再分配;&lt;/li&gt;
+&lt;li&gt;少量推特检测突发灾害事件;&lt;/li&gt;
+&lt;li&gt;引用网络中心性：科学奖项的预测指标？;&lt;/li&gt;
+&lt;li&gt;城市步行流量动态模式;&lt;/li&gt;
+&lt;li&gt;发现符号网络中的极化社区;&lt;/li&gt;
+&lt;li&gt;人类世地球系统的物理框架：迈向可核算系统;&lt;/li&gt;
+&lt;li&gt;预测研究人员发表生产力：一个潜变量模型;&lt;/li&gt;
+&lt;li&gt;深度超边：一个超图上迁移和归纳学习的框架;&lt;/li&gt;
+&lt;li&gt;地震事件间隔时间和距离记忆的尺度律;&lt;/li&gt;
+&lt;li&gt;社交媒体反应的复杂性：推特统计证据的一维参与信号;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2019-10-07)</title>
