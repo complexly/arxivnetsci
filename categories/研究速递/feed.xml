@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-10-16)</title>
+      <link>https://www.complexly.cn/post/20191016/</link>
+      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191016/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过图注意力网络进行链路预测;&lt;/li&gt;
+&lt;li&gt;评估物理环境空间信息;&lt;/li&gt;
+&lt;li&gt;空间数据科学：人-空间计算-环境闭环;&lt;/li&gt;
+&lt;li&gt;反向效应和意见动态回声室形成;&lt;/li&gt;
+&lt;li&gt;通过自愿提供的地理数据和新的指标理解人口波动：Rakiura，斯图尔特岛，新西兰的经验;&lt;/li&gt;
+&lt;li&gt;RiWalk：利用角色识别的快速结构节点嵌入;&lt;/li&gt;
+&lt;li&gt;FacTweet：假新闻Twitter账户档案;&lt;/li&gt;
+&lt;li&gt;网络推理迭代过程;&lt;/li&gt;
+&lt;li&gt;Eva：属性感知网络分割;&lt;/li&gt;
+&lt;li&gt;不同城市不同时间的悖论性城市尺度律;&lt;/li&gt;
+&lt;li&gt;使用注意力机制卷积神经网络对海量短消息数据集进行语言识别;&lt;/li&gt;
+&lt;li&gt;随机树上接触追踪的精确和近似公式;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要20篇(2019-10-15)</title>
