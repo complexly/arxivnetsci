@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 17 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2019-10-18)</title>
+      <link>https://www.complexly.cn/post/20191018/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191018/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多路网络社区发现;&lt;/li&gt;
+&lt;li&gt;Twitter右翼的德国仇恨言论：分析和自动检测;&lt;/li&gt;
+&lt;li&gt;Twitter趋势主题侧面草根攻击;&lt;/li&gt;
+&lt;li&gt;忽略边分布异质性的最小熵随机块模型;&lt;/li&gt;
+&lt;li&gt;使用迁移学习理解社会网络;&lt;/li&gt;
+&lt;li&gt;自旋玻璃的方法用于2-距离最小支配集问题;&lt;/li&gt;
+&lt;li&gt;世界各地的几个人口众多的城市交通的基于几何景观渗流;&lt;/li&gt;
+&lt;li&gt;DeepFork：GitHub信息扩散的监督预测;&lt;/li&gt;
+&lt;li&gt;不加批判的对立群体：社会网络上将假消息作为事实传播的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-10-17)</title>
