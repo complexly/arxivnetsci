@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 22 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2019-10-24)</title>
+      <link>https://www.complexly.cn/post/20191024/</link>
+      <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191024/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;循环注意力游走半监督分类;&lt;/li&gt;
+&lt;li&gt;USTAR：使用在线多模嵌入建模用户引导的时空活动;&lt;/li&gt;
+&lt;li&gt;Network2Vec基于网络空间映射学习节点表示;&lt;/li&gt;
+&lt;li&gt;级联网络中的通用布尔逻辑;&lt;/li&gt;
+&lt;li&gt;绘制非洲萨赫勒地区牲畜移动;&lt;/li&gt;
+&lt;li&gt;数值和二元网络的直接块模型：不使用二分法的方法;&lt;/li&gt;
+&lt;li&gt;参与政党间雪崩可能会二次增加党派密度;&lt;/li&gt;
+&lt;li&gt;图神经网络的特征选择和提取;&lt;/li&gt;
+&lt;li&gt;无标度网络做得好;&lt;/li&gt;
+&lt;li&gt;内容删除的适度策略：在ChangeMyView社区遵守和其他成果;&lt;/li&gt;
+&lt;li&gt;稀疏网络与核心-边缘结构;&lt;/li&gt;
+&lt;li&gt;延长工作记忆的理论及其在网上交谈动力学中的作用;&lt;/li&gt;
+&lt;li&gt;多尺度演化扰动攻击社区检测;&lt;/li&gt;
+&lt;li&gt;寄生虫感染的社会行为滞后效应;&lt;/li&gt;
+&lt;li&gt;通过保留路径多样性和最小化搜索网络信息实现网络简化;&lt;/li&gt;
+&lt;li&gt;带类别边标签的超图聚类;&lt;/li&gt;
+&lt;li&gt;NLP4IF-2019共享任务的细粒度宣传检测结果;&lt;/li&gt;
+&lt;li&gt;复杂网络的最优老化控制;&lt;/li&gt;
+&lt;li&gt;随机图顺序度量维度;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要22篇(2019-10-22)</title>
