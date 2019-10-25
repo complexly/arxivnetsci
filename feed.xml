@@ -7,13 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Arxiv网络科学论文摘要19篇(2019-10-24)</title>
+      <title>Arxiv网络科学论文摘要6篇(2019-10-25)</title>
+      <link>https://www.complexly.cn/post/20191025/</link>
+      <pubDate>Fri, 25 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191025/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;带模糊的社交联系的异构专业社会网络表示学习;&lt;/li&gt;
+&lt;li&gt;从图信号进行中心性排名的盲推理;&lt;/li&gt;
+&lt;li&gt;社会网络相关主题舆论动态;&lt;/li&gt;
+&lt;li&gt;使用基于MPI的自适应采样将近似介数计算拓展至十亿条边;&lt;/li&gt;
+&lt;li&gt;选举人工智能：2019阿根廷初级和总统选举的案例;&lt;/li&gt;
+&lt;li&gt;使用高斯不确定性模型的非贝叶斯社会学习;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2019-10-23/24)</title>
       <link>https://www.complexly.cn/post/20191024/</link>
       <pubDate>Thu, 24 Oct 2019 00:00:00 +0000</pubDate>
       
