@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 25 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2019-10-28)</title>
+      <link>https://www.complexly.cn/post/20191028/</link>
+      <pubDate>Mon, 28 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191028/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用Chung-Lu随机图模型生成大规模无标度网络;&lt;/li&gt;
+&lt;li&gt;不对称相互依存使得多层系统对连锁故障更稳健;&lt;/li&gt;
+&lt;li&gt;使用弱社会监督检测假新闻;&lt;/li&gt;
+&lt;li&gt;迈向含时网络的流行病阈值：综述和开放性问题;&lt;/li&gt;
+&lt;li&gt;用于新闻推荐的快速准确的考虑知识的文档表示提升;&lt;/li&gt;
+&lt;li&gt;操纵网络中的节点相似性度量;&lt;/li&gt;
+&lt;li&gt;用于网络社区检测的随机游走贝叶斯建模;&lt;/li&gt;
+&lt;li&gt;同意情况下建立社会网络：综述;&lt;/li&gt;
+&lt;li&gt;理性非刻意逆强化学习阐释了YouTube的发表评论行为;&lt;/li&gt;
+&lt;li&gt;使用高分辨率的网络数据进行贝叶斯流行病学建模;&lt;/li&gt;
+&lt;li&gt;使用递归神经网络建模车辆移动模式;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-10-25)</title>
