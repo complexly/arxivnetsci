@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 29 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2019-10-30)</title>
+      <link>https://www.complexly.cn/post/20191030/</link>
+      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191030/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用个性化的PageRank进行大规模块模型图的针对性取样;&lt;/li&gt;
+&lt;li&gt;层级位置神经网络预测Twitter的用户地理位置;&lt;/li&gt;
+&lt;li&gt;通过选择领导者改变社会网络观点;&lt;/li&gt;
+&lt;li&gt;高效近似算法自适应目标利润最大化;&lt;/li&gt;
+&lt;li&gt;符号网络的双曲节点嵌入;&lt;/li&gt;
+&lt;li&gt;用户中心性分析用于家庭位置估计;&lt;/li&gt;
+&lt;li&gt;超密集网络二模欧几里德匹配的SIR元分布;&lt;/li&gt;
+&lt;li&gt;使用属性选择优化实时出价广告;&lt;/li&gt;
+&lt;li&gt;分析比特币交易图中的黑客子网;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要19篇(2019-10-29)</title>
