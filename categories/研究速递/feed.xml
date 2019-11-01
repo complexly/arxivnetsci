@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2019-11-01)</title>
+      <link>https://www.complexly.cn/post/20191101/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191101/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;电子音乐的精英、社区和好处有限的指导;&lt;/li&gt;
+&lt;li&gt;相变用于探测随机图潜在几何;&lt;/li&gt;
+&lt;li&gt;RLINK：深度强化学习用于用户身份连接;&lt;/li&gt;
+&lt;li&gt;从Transformer到假新闻态势检测挑战（FNC-1）任务迁移学习;&lt;/li&gt;
+&lt;li&gt;图扰动的可认证稳健性;&lt;/li&gt;
+&lt;li&gt;机器学习方法通过Facebook墙检测用户的可疑行为;&lt;/li&gt;
+&lt;li&gt;复发平均不平等、意见形成和分布式算法;&lt;/li&gt;
+&lt;li&gt;半监督共同嵌入属性网络;&lt;/li&gt;
+&lt;li&gt;竞争的活动家——政治两极化;&lt;/li&gt;
+&lt;li&gt;提高在线社会网络的稳健性：网络干预的模拟方法;&lt;/li&gt;
+&lt;li&gt;哪些因素会影响Facebook新闻文章参与？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2019-10-31)</title>
