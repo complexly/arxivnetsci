@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2019-11-04)</title>
+      <link>https://www.complexly.cn/post/20191104/</link>
+      <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191104/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会网络影响力最大的K个节点：一个博弈的新视角;&lt;/li&gt;
+&lt;li&gt;DNA：动态社会网络对齐;&lt;/li&gt;
+&lt;li&gt;网络的指标表征：一个唯一性结果;&lt;/li&gt;
+&lt;li&gt;图半监督分类的相变和优化算法：从信念传播到卷积神经网络;&lt;/li&gt;
+&lt;li&gt;短而宽的网络路径;&lt;/li&gt;
+&lt;li&gt;从美国的劳动力流动网络预测城市创新;&lt;/li&gt;
+&lt;li&gt;互动图用于电网的可靠性分析：综述;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2019-11-01)</title>
