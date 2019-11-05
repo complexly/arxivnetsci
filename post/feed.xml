@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 04 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2019-11-05)</title>
+      <link>https://www.complexly.cn/post/20191105/</link>
+      <pubDate>Tue, 05 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191105/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于信誉的假新闻检测;&lt;/li&gt;
+&lt;li&gt;蝴蝶结中心性：有内在节点属性的有向和加权网络新型测度;&lt;/li&gt;
+&lt;li&gt;波兰语Twitter数据的情感分析模型;&lt;/li&gt;
+&lt;li&gt;人类通讯的动态行为全局规律和个体差异;&lt;/li&gt;
+&lt;li&gt;使用阿拉伯语推特了解药品销售行为;&lt;/li&gt;
+&lt;li&gt;通过情绪轨迹分析检查英国钻头音乐;&lt;/li&gt;
+&lt;li&gt;注释超图：模型及应用;&lt;/li&gt;
+&lt;li&gt;在线用户交互的情感行为分析：线上支持组比Twitter更治愈？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2019-11-04)</title>
