@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要14篇(2019-11-06) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+FAIRY：一个理解用户行为及其社交资讯之间关系的框架;
+使用约束谱聚类进行动态社区发现;
+通过LSTM历史跟踪进行动态图嵌入;
+出口的商品构成的恩格尔律;
+复杂网络社区检测的对抗性增强;
+ColluEagle：利用马尔可夫随机场进行串通审查垃圾检测;
+通过强化学习群集;
+基于距离的网络分区;
+网络链接的统计特性：全球运输网络航线调查;
+中国城市空气质量模式和相关;
+乐趣的物理：量化游戏活动人类参与;
+局部统计、半定规划与社区检测;
+传染病突变最小渗流集合;
+迈向人类冲突伤亡分布的统一认识;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要14篇(2019-11-06) - 网络科学研究速递">
+<meta itemprop="description" content="
+FAIRY：一个理解用户行为及其社交资讯之间关系的框架;
+使用约束谱聚类进行动态社区发现;
+通过LSTM历史跟踪进行动态图嵌入;
+出口的商品构成的恩格尔律;
+复杂网络社区检测的对抗性增强;
+ColluEagle：利用马尔可夫随机场进行串通审查垃圾检测;
+通过强化学习群集;
+基于距离的网络分区;
+网络链接的统计特性：全球运输网络航线调查;
+中国城市空气质量模式和相关;
+乐趣的物理：量化游戏活动人类参与;
+局部统计、半定规划与社区检测;
+传染病突变最小渗流集合;
+迈向人类冲突伤亡分布的统一认识;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要14篇(2019-11-06) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20191106/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+FAIRY：一个理解用户行为及其社交资讯之间关系的框架;
+使用约束谱聚类进行动态社区发现;
+通过LSTM历史跟踪进行动态图嵌入;
+出口的商品构成的恩格尔律;
+复杂网络社区检测的对抗性增强;
+ColluEagle：利用马尔可夫随机场进行串通审查垃圾检测;
+通过强化学习群集;
+基于距离的网络分区;
+网络链接的统计特性：全球运输网络航线调查;
+中国城市空气质量模式和相关;
+乐趣的物理：量化游戏活动人类参与;
+局部统计、半定规划与社区检测;
+传染病突变最小渗流集合;
+迈向人类冲突伤亡分布的统一认识;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20191106/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20191106/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要14篇(2019-11-06)</h1>
+
+                  <p class="post-byline">
+                    2019年11月06日 · 6040 字 ·
+                    阅读时间约13分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>FAIRY：一个理解用户行为及其社交资讯之间关系的框架;</li>
+<li>使用约束谱聚类进行动态社区发现;</li>
+<li>通过LSTM历史跟踪进行动态图嵌入;</li>
+<li>出口的商品构成的恩格尔律;</li>
+<li>复杂网络社区检测的对抗性增强;</li>
+<li>ColluEagle：利用马尔可夫随机场进行串通审查垃圾检测;</li>
+<li>通过强化学习群集;</li>
+<li>基于距离的网络分区;</li>
+<li>网络链接的统计特性：全球运输网络航线调查;</li>
+<li>中国城市空气质量模式和相关;</li>
+<li>乐趣的物理：量化游戏活动人类参与;</li>
+<li>局部统计、半定规划与社区检测;</li>
+<li>传染病突变最小渗流集合;</li>
+<li>迈向人类冲突伤亡分布的统一认识;</li>
+</ul>
+
+<p></p>
+
+<h3 id="fairy-一个理解用户行为及其社交资讯之间关系的框架">FAIRY：一个理解用户行为及其社交资讯之间关系的框架</h3>
+
+<p>原文标题： FAIRY: A Framework for Understanding Relationships between Users&rsquo; Actions and their Social Feeds</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1908.03109">http://arxiv.org/abs/1908.03109</a></p>
+
+<p>作者： Azin Ghazimatin, Rishiraj Saha Roy, Gerhard Weikum</p>
+
+<p>摘要： 用户越来越依赖于社交媒体资讯的日常消费信息。在饲料中的项目，如新闻，问题，歌曲等，通常是从一个用户的社交接触，她的兴趣和她在平台上操作的复杂的相互作用的结果。用户自己的行为和接收进的关系常常令人费解，许多用户希望有为什么某些项目被证明他们一个明确的解释。透明度和explainability在认知超载，过滤气泡，用户跟踪和隐私风险的现代世界关键问题。本文礼物仙子，一个框架，系统地发现的，队伍，并解释了他们的社交媒体供稿的用户的行为和物品之间的关系。我们的平台作为一个交互图，单从信息构建异构信息网络的形式，很容易接触到有关用户对用户的本地邻域模型。我们断定，在这个交互图上的路径连接用户和她的饲料项目可为用户相关的解释作用。这些路径拿下学习到等级模型，捕捉相关性和surprisal。在两个社交平台的用户研究表明仙女方法的实际可行性和用户的利益。</p>
+
+<h3 id="使用约束谱聚类进行动态社区发现">使用约束谱聚类进行动态社区发现</h3>
+
+<p>原文标题： Constrained Spectral Clustering for Dynamic Community Detection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01475">http://arxiv.org/abs/1911.01475</a></p>
+
+<p>作者： Abdullah Karaaslanli, Selin Aviyente</p>
+
+<p>摘要： 网络与实体交互，如社会，生物和物理系统中的许多系统用的表现。表征尺度组织，即社会结构，是网络科学的一个重要问题。社区检测目标到网络划分为节点集合被密集地内部连接但稀疏连接到其它稠密集节点。社区检测当前的工作主要集中于静态网络。然而，许多现实世界的网络是动态的，即它们的结构和性能随时间的变化，需要对动态社会的检测方法。在本文中，我们提出了模拟社区成员发展的一个新的随机块模型（SBM）。与现有的SBM，该模型允许每个社区以不同的速度发展。这种新的模式来最大后验估计为社区检测，这可以写成受限谱聚类问题派生。特别地，对于每个社区的转变概率修改在每个时间点的曲线图的邻接矩阵。此配方提供统计网络推断和用于动态网络谱聚类之间的关系。该方法是在两个模拟和实时动态的网络进行评估。</p>
+
+<h3 id="通过lstm历史跟踪进行动态图嵌入">通过LSTM历史跟踪进行动态图嵌入</h3>
+
+<p>原文标题： Dynamic Graph Embedding via LSTM History Tracking</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01551">http://arxiv.org/abs/1911.01551</a></p>
+
+<p>作者： Shima Khoshraftar, Sedigheh Mahdavi, Aijun An, Yonggang Hu, Junfeng Liu</p>
+
+<p>摘要： 许多现实世界的网络是非常大的，随着时间的推移不断变化。这些动态网络在各个领域存在，如社会网络，交通网络和生物相互作用。为了处理在下游应用如链路预测和异常检测大的动态网络中，有必要对这样的网络被转移到低维空间。近来，网络嵌入，一种技术，其容量的图转换成低维表示，已经变得越来越流行，由于其强度在维护一个网络的结构。有效的动态网络嵌入，但是，目前还没有得到充分开发。在本文中，我们提出了一个动态网络嵌入方法，集成节点的历史随着时间的推移到节点的当前状态。我们工作的主要贡献是1）生成动态网络结合动态和静态节点信息2）跟踪使用LSTM 3个节点的邻居史嵌入）使用时间走，而不是训练自动编码LSTM模型显著减少时间和内存邻接矩阵的图表，其是常见的做法。我们评估我们在多个应用程序的方法，如异常检测，链路预测和节点分类，从不同领域的数据集。</p>
+
+<h3 id="出口的商品构成的恩格尔律">出口的商品构成的恩格尔律</h3>
+
+<p>原文标题： Engel&rsquo;s law in the commodity composition of exports</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01568">http://arxiv.org/abs/1911.01568</a></p>
+
+<p>作者： Sung-Gook Choi, Deok-Sun Lee</p>
+
+<p>摘要： 在生产，贸易和消费不同的商品部门的不同股票说明如何资源和资本分配和投资。经济发展一直声称改变通用的方式分配份额由恩格尔定律的家庭开支，并从初级制造和在三个部门模型服务部门的转移例证。搜索这种相关性的大规模量化的证据，我们基于1962年期间的国际贸易标准分类（SITC）的总值，国内生产总值（GDP）和国际贸易数据进行分析，以2000年三大类，十位在SITC ，都发现有它们的出口份额与GDP超过国家和时显著相关;机械类有正，食品和原油材料具有负相关关系。一个国家的商品类别的出口份额由幂与指数表征其出口份额的GDP弹性与它的GDP。在其出口投资组合方面，两国之间的距离进行测量，以确定的国家在1962年和2000年共有类似的投资组合几个簇我们表明，其GDP在期间显著上升有可能过渡到显示大份额集群的国家的机械类。</p>
+
+<h3 id="复杂网络社区检测的对抗性增强">复杂网络社区检测的对抗性增强</h3>
+
+<p>原文标题： Adversarial Enhancement for Community Detection in Complex Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01670">http://arxiv.org/abs/1911.01670</a></p>
+
+<p>作者： Jiajun Zhou, Zhi Chen, Min Du, Lihong Chen, Shanqing Yu, Feifei Li, Guanrong Chen, Qi Xuan</p>
+
+<p>摘要： 社区检测对网络分析一个显著的作用。然而，它也面临着类似的对抗攻击的诸多挑战。如何进一步提高对真实世界的网络性能和社区检测稳健性提出了很大的关注。在本文中，我们提出对抗性增强对社区检测的概念，和目前的两个对立的增强算法：一个被命名为通过遗传算法（AE-GA）对抗性增强，其中，所述模块化和簇的数目被用来设计一个适应度功能，解决了分辨率极限的问题;和另一种是所谓经由顶点相似对抗性增强（AE-VS），集成由不同顶点的相似性，其在大规模网络很好地进行扩展捕获社区结构的多个信息。这两种算法与四个真实世界的网络现有的六个社区检测算法测试一起。综合实验结果表明，与两种传统的增强策略相比，我们的方法帮助六个社区检测算法实现更显著的性能提升。此外，在相应的对抗网络实验表明，我们的方法可以重建被敌对攻击，一定程度上破坏了网络结构，实现对社区检测欺骗防御强。</p>
+
+<h3 id="collueagle-利用马尔可夫随机场进行串通审查垃圾检测">ColluEagle：利用马尔可夫随机场进行串通审查垃圾检测</h3>
+
+<p>原文标题： ColluEagle: Collusive review spammer detection using Markov random fields</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01690">http://arxiv.org/abs/1911.01690</a></p>
+
+<p>作者： Zhuo Wang, Runlong Hu, Qian Chen, Pei Gao, Xiaowei Xu</p>
+
+<p>摘要： 产品评价是网上购物者提供购买决策非常有价值的。通过巨大的利润动机的驱使下，骗子故意编造不实的评论歪曲在线产品的声誉。随着在线评论变得越来越重要，群发送垃圾邮件，即一个团队协同工作，骗子攻击一组目标的产品，成为一种新的时尚。以前的作品使用点评网效应，即审阅，评论和产品之间的关系，及时发现虚假评论或审查垃圾邮件发送者，却忽略了时间的影响，这是表征组垃圾邮件的关键。在本文中，我们提出了一个新颖的马尔可夫随机场（MRF）为基础的方法（ColluEagle）来检测串通审查垃圾邮件发送者，以及检讨的垃圾邮件活动，同时考虑网络效应和时间效应。首先，我们找出共同审查对，这两位评审谁用类似的方法复习常见的产品，然后模型评审和他们的合作，检讨对之间发生的两两-MRF审查的现象，并使用糊涂置信传播评估多疑审稿。我们进一步对ColluEagle，通过审查垃圾邮件发送者群体也可随后确定之前设计出高质量且易于计算节点。实验表明，ColluEagle不仅可以检测垃圾邮件发送者串通高精度，显著超越国家的最先进的基线&mdash; FraudEagle和SpEagle，也确定高度可疑垃圾邮件发送者审查活动。</p>
+
+<h3 id="通过强化学习群集">通过强化学习群集</h3>
+
+<p>原文标题： Learning to flock through reinforcement</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01697">http://arxiv.org/abs/1911.01697</a></p>
+
+<p>作者： Mihir Durve, Fernando Peruani, Antonio Celani</p>
+
+<p>摘要： 鸟群，鱼群，昆虫群是由许多个体的行动油然而生一组协调运动的例子。在这里，我们研究从多主体强化学习的观点群聚行为。在该设置中，一个学习主体试图保持与使用如感觉输入其邻国的速度的组接触。这个目标是由每个学习个体通过施加在其自己的运动方向上的有限的控制追求的。通过标准的强化学习算法的手段，我们表明：1）暴露在一群教师的学习剂，即硬连线群集剂，学会跟随他们，以及ii）在没有老师，一组独立学习主体商向每个主体知道如何聚集的状态演变。在这两种情况下，i）和ii），所述出射策略（或导航策略）对应于公知的Vicsek模型的极性速度对准机构。这些结果表明，A）这样的速度比对可以很自然地演变成一种适应性行为，其目的是最大限度地减少邻居损失率，和b）证明这种排列并不只青睐（本地）极秩序，但它对应于最佳政策/战略，以保持团队凝聚力，当感觉输入被限定在相邻主体的速度。总之，呆在一起，一起转向。</p>
+
+<h3 id="基于距离的网络分区">基于距离的网络分区</h3>
+
+<p>原文标题： Distance-Based Network Partitioning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01775">http://arxiv.org/abs/1911.01775</a></p>
+
+<p>作者： Paulo J. P. de Souza, Cesar H. Comin, Luciano da F. Costa</p>
+
+<p>摘要： 提出了一种用于识别网络社区的新方法。参考节点，使用关于该网络的信息修道院或根据相关节点的测量或者选定，获得以指示推定的社区。每个网络节点和参考节点之间的距离向量然后被用于定义代表在许多不同尺度网络的社区结构的坐标系。对于模块化网络中，节点在这个空间中的分布往往导致良好分离聚集结构，具有对应于社区中每个群集。社区发现了报告的方法的一个有趣的特点是，通过种子定义的坐标系统允许每个节点的状况的直观和直接的解释相对于所考虑的社区。该方法的潜在所示相对于社区检测基准，空间网络模型和城市街道网络。</p>
+
+<h3 id="网络链接的统计特性-全球运输网络航线调查">网络链接的统计特性：全球运输网络航线调查</h3>
+
+<p>原文标题： Statistical Properties of Links of Network: A Survey on the Shipping Lines of Worldwide Marine Transport Network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01834">http://arxiv.org/abs/1911.01834</a></p>
+
+<p>作者： Wenjun Zhang, Weibing Deng, Wei Li</p>
+
+<p>摘要： 节点属性和网络节点的标识重要性已经大大研究在过去的几十年。而在这项工作中，我们采取了全球运输网络（WMTN）为例，即分析链接网络的特性，WMTN的航运公司的统计特性进行了研究在各个方面：首先，我们研究了功能通过定义行饱和度航运线环。研究发现，在饱和度线与线长度的增加呈指数衰减。其次，为了检测航运公司的地域社会结构，标签BP算法与流量（LPAF）的压缩和多维标度（MDS）的方法被采用，其显示相当一致的社区。最后，分析出货不同的海洋公司的线的冗余特性，多层网络由不同的聚合海洋公司的航运线构成。据观察，拓扑数量时，如平均度，平均聚类系数等，顺利地增加时海洋公司随机合并（随机选择两种海洋公司，然后将它们的航运公司合并在一起），而相对熵减小当合并序列由詹森 - 香农距离决定（选择两种海洋公司时，它们之间的距离JS是最低的）。这表明航运船舶不同公司之间线路的冗余度低。</p>
+
+<h3 id="中国城市空气质量模式和相关">中国城市空气质量模式和相关</h3>
+
+<p>原文标题： Chinese cities&rsquo; air quality pattern and correlation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01845">http://arxiv.org/abs/1911.01845</a></p>
+
+<p>作者： Wenjun Zhang, Zhanpeng Guan, Jianyao Li, Zhu Su, Weibing Deng, Wei Li</p>
+
+<p>摘要： 空气质素影响人们的健康和生活，影响到敏感的生态系统，甚至限制一个国家的发展。通过收集并从2015年1月中国加工的363个城市的空气质量指数（AQI）的时间序列数据日至3月2019年，我们致力于通过使用表征的普遍模式，聚类和不同城市的空气质量的相关性复杂网络与时间序列分析的方法。主要研究结果如下：1）中国的空气质量网络（AQNC）通过使用平面最大限度过滤格拉夫（PMFG）方法构成。在不同城市的空气质量相关的地理距离进行了研究，发现百公里的强相关性的临界距离。 2）已检测到AQNC的七个社区，他们的模式已经被考虑到的Hurst指数和气候环境的分析，它表明了七个社区是合理的，而且他们是受气候因素的影响，如季风显著影响，沉淀，地理区域等3）空气质量的时间序列七个社区的主题已经由可视性图的调查，对于一些社区，模体的演化模式都有点稳定，他们有长期的记忆效应。而对于其他人，没有稳定的模式。</p>
+
+<h3 id="乐趣的物理-量化游戏活动人类参与">乐趣的物理：量化游戏活动人类参与</h3>
+
+<p>原文标题： The Physics of Fun: Quantifying Human Engagement into Playful Activities</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01864">http://arxiv.org/abs/1911.01864</a></p>
+
+<p>作者： David Reguera, Pol Colomer-de-Simón, Iván Encinas, Manel Sort, Jan Wedekind, Marián Boguñá</p>
+
+<p>摘要： 嬉戏活动，如演奏乐器，学习一门语言，或者进行运动搞的，是人类生活的基本方面。我们目前的参与力度的定量实证分析到俏皮的活动。我们通过分析数以百万计的休闲视频博弈玩家的行为，这样做，发现管理的啮合动力学标度律。该幂律行为表示乘法的（即``快乐-GET-快乐“”）参与由一组临界指数的机制。我们还发现，取决于关键的指数，有标准的情况下所有个人最终退出活动和另一个阶段时，个人的有限部分不离不弃活动之间的相变。我们在这项工作中已经发现的行为可能不会仅限于与视频博弈人机交互。相反，我们认为它反映的人类常常会如何从事与内在报酬挑战性的活动更普遍而深刻的行为。</p>
+
+<h3 id="局部统计-半定规划与社区检测">局部统计、半定规划与社区检测</h3>
+
+<p>原文标题： Local Statistics, Semidefinite Programming, and Community Detection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01960">http://arxiv.org/abs/1911.01960</a></p>
+
+<p>作者： Jess Banks, Sidhanth Mohanty, Prasad Raghavendra</p>
+
+<p>摘要： 我们提出了推理问题的半定规划松弛，通过加总小平文学pseudocalibration最近的想法启发了新的层次。作为测试的情况下，我们认为社区检测的随机正则图的分布问题，我们将调用度普通块模型，其中顶点被划分为ķ社区，和图表进行采样条件上规定的数量间和社区内的边。  EMPH 检测，在那里我们是高概率的图是否是从该模型或规则图的均匀分布中抽取的决定，存在的问题是推测经历在一个叫Kesten-Stigum（点计算相变KS）阈值，并且我们表明（i）该我们的层次结构可以任意地接近此点进行检测的足够高的恒定水平，（ii）该我们的算法是鲁棒到 O（N）对抗性边扰动，以及（iii） ，下面Kesten-Stigum无级恒定水平可以这样做。在（不规则的）随机块模型的更深入研究的情况下，已知的是，有效的算法存在一路向下到该阈值，尽管没有一个是鲁棒性的图表的对抗性扰动时的平均程度是小的。更重要的是，很少有复杂性理论依据的检测是很难低于Kesten-Stigum。在有两个以上组DRBM，它并没有给我们的知识已经证明，任何算法成功下到KS门槛，更不用说一个可以这样做稳健，且有证据下面这一点硬度类似的缺乏。我们的SDP层次是非常普遍的，适用于范围广泛的假设检验问题。</p>
+
+<h3 id="传染病突变最小渗流集合">传染病突变最小渗流集合</h3>
+
+<p>原文标题： Minimal percolating sets for mutating infectious diseases</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01988">http://arxiv.org/abs/1911.01988</a></p>
+
+<p>作者： Yuyuan Luo, Laura P. Schaposnik</p>
+
+<p>摘要： 本文是专门为动力系统和渗流模型之间的相互作用的研究中，对意见的病毒感染，其发生变异的病毒随着时间的研究。回想一下，R-引导渗透描述了确定性的过程，其中一个图的顶点，一旦它的R邻居被感染被感染。我们通过引入F（t）的-bootstrap渗滤，依赖于时间的过程概括这其中相邻需要被感染在每个时间t要发送由渗滤函数F（t）的所确定的疾病的顶点的数量。学习一些模型的基本特性后，我们认为最小的渗透集和构建一个多项式算法定时上找到某些F（T）-bootstrap渗流模型有限树一个最小最小的渗滤集。</p>
+
+<h3 id="迈向人类冲突伤亡分布的统一认识">迈向人类冲突伤亡分布的统一认识</h3>
+
+<p>原文标题： Toward a Unified Understanding of Casualty Distributions in Human Conflict</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1911.01994">http://arxiv.org/abs/1911.01994</a></p>
+
+<p>作者： Michael Spagat, Stijn van Weezel, Minzhang Zheng, Neil F. Johnson</p>
+
+<p>摘要： 我们能够统一各种不同的要求和结果在文献中，站在统一描述的方式和人类冲突的理解。首先，我们横跨整个战争死亡分布和单一的战争中提供的数字不同的指数值的和解。其次，我们解释了如何忽略的冲突数据集是如何编制的详细信息，可以生成从幂律分布拟合假的否定性评价。第三，我们解释人类冲突的生成论如何能够提供大部分观测到的伤亡分布如何遵循近似幂律的定量解释，他们如何以及为何偏离它。特别是，它提供了在冲突中的动态过程而言，这些幂律偏差的起源统一机械的解释。相结合，我们的研究结果加强，统一框架可以用来理解和定量描述人类冲突的概念。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20191106/">https://www.complexly.cn/post/20191106/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20191105/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要8篇(2019-11-05)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Copyright © 2017. All Rights Reserved. Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

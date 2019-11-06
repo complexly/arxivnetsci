@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2019-11-06)</title>
+      <link>https://www.complexly.cn/post/20191106/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191106/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;FAIRY：一个理解用户行为及其社交资讯之间关系的框架;&lt;/li&gt;
+&lt;li&gt;使用约束谱聚类进行动态社区发现;&lt;/li&gt;
+&lt;li&gt;通过LSTM历史跟踪进行动态图嵌入;&lt;/li&gt;
+&lt;li&gt;出口的商品构成的恩格尔律;&lt;/li&gt;
+&lt;li&gt;复杂网络社区检测的对抗性增强;&lt;/li&gt;
+&lt;li&gt;ColluEagle：利用马尔可夫随机场进行串通审查垃圾检测;&lt;/li&gt;
+&lt;li&gt;通过强化学习群集;&lt;/li&gt;
+&lt;li&gt;基于距离的网络分区;&lt;/li&gt;
+&lt;li&gt;网络链接的统计特性：全球运输网络航线调查;&lt;/li&gt;
+&lt;li&gt;中国城市空气质量模式和相关;&lt;/li&gt;
+&lt;li&gt;乐趣的物理：量化游戏活动人类参与;&lt;/li&gt;
+&lt;li&gt;局部统计、半定规划与社区检测;&lt;/li&gt;
+&lt;li&gt;传染病突变最小渗流集合;&lt;/li&gt;
+&lt;li&gt;迈向人类冲突伤亡分布的统一认识;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2019-11-05)</title>
