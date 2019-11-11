@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 07 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-11-11)</title>
+      <link>https://www.complexly.cn/post/20191111/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191111/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;无线网络传播数据的能源和社会成本最小化：中心式和分布式方法;&lt;/li&gt;
+&lt;li&gt;表征一个社区驱动的讨论平台的行为趋势;&lt;/li&gt;
+&lt;li&gt;瑞甘地震复杂网络的雪崩、虚拟地震仪技术、临界性和地震周期;&lt;/li&gt;
+&lt;li&gt;挖掘含时图的暴增社区;&lt;/li&gt;
+&lt;li&gt;城市理论视角;&lt;/li&gt;
+&lt;li&gt;你的领域向何处发展？机器学习的方法来研究物理学领域的相对运动;&lt;/li&gt;
+&lt;li&gt;网络结构和模体导出成对转移熵;&lt;/li&gt;
+&lt;li&gt;循环服务中的智能公交车：没有上车和等待的策略;&lt;/li&gt;
+&lt;li&gt;有负面影响的新的线性阈值模型的在线学习与优化;&lt;/li&gt;
+&lt;li&gt;探测嵌套多层网络的鲁棒性;&lt;/li&gt;
+&lt;li&gt;用于未来智能电网的区块链：一个综述;&lt;/li&gt;
+&lt;li&gt;大图局部搜索实现群体接近度最大化;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2019-11-07)</title>
