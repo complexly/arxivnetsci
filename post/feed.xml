@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2019-11-18)</title>
+      <link>https://www.complexly.cn/post/20191118/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191118/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过谱方法估计网络社区的数量;&lt;/li&gt;
+&lt;li&gt;捕捉创新理念的产生：在线社会网络试验和“理念地理”可视化;&lt;/li&gt;
+&lt;li&gt;Twitter关注：利用社交媒体监控和预测邻居集体效能;&lt;/li&gt;
+&lt;li&gt;洪涝灾害多发叠加目标性攻击时城市交通网络的网络的弹性;&lt;/li&gt;
+&lt;li&gt;图变换网络;&lt;/li&gt;
+&lt;li&gt;图异/自动变形：分而治之的方法;&lt;/li&gt;
+&lt;li&gt;超图随机游走;&lt;/li&gt;
+&lt;li&gt;可变的二氧化碳排放量目标下，光伏在可持续欧洲能源体系中的作用、传输容量和成本的假设;&lt;/li&gt;
+&lt;li&gt;中心性最大化博弈;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2019-11-15)</title>
