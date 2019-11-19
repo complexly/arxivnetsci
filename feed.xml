@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2019-11-19)</title>
+      <link>https://www.complexly.cn/post/20191119/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191119/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;从研究视角看维基数据——维基数据的系统映射研究;&lt;/li&gt;
+&lt;li&gt;社会网络个人资料的大规模并行匹配;&lt;/li&gt;
+&lt;li&gt;使用图卷积网络进行基于拓扑的分类;&lt;/li&gt;
+&lt;li&gt;社区问答平台答案选择的诱导多关系框架;&lt;/li&gt;
+&lt;li&gt;迈向自动化的性暴力报告跟踪;&lt;/li&gt;
+&lt;li&gt;利用空腔方法研究有向控制集问题：警告传播和人口动态;&lt;/li&gt;
+&lt;li&gt;随机网络SIRS模型自我持续振荡的涌现;&lt;/li&gt;
+&lt;li&gt;小世界网络SIRS模型临界阈值;&lt;/li&gt;
+&lt;li&gt;通过时空交互挖掘大型在线社会网络取关行为;&lt;/li&gt;
+&lt;li&gt;社交媒体谣言检测：数据集、方法和机会;&lt;/li&gt;
+&lt;li&gt;通过基于注意力的多任务跨媒体维度建模理解教学风格;&lt;/li&gt;
+&lt;li&gt;用穿戴式传感器检测拥挤社会场景的F-结构和角色：使用LSTMs结合空间关系学和动力学;&lt;/li&gt;
+&lt;li&gt;通过卷积神经网络学习复杂网络传染病阈值;&lt;/li&gt;
+&lt;li&gt;使用层依赖重要性抽样训练深度大型图卷积网络;&lt;/li&gt;
+&lt;li&gt;二阶模型的麻烦，或如何用一阶模型产生停停走走的交通;&lt;/li&gt;
+&lt;li&gt;随机游走应用于假冒账号检测问题：一种混合方法;&lt;/li&gt;
+&lt;li&gt;当巧合具有意义：通过信息令牌复发网络理解涌现;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2019-11-18)</title>
