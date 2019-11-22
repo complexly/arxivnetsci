@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2019-11-21)</title>
+      <link>https://www.complexly.cn/post/20191121/</link>
+      <pubDate>Thu, 21 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191121/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过众包的用户报告更新邻居基站列表：一个测量时间性能框架;&lt;/li&gt;
+&lt;li&gt;git2net——挖掘大型git仓库共同编辑的含时间戳网络;&lt;/li&gt;
+&lt;li&gt;异构深度图Infomax;&lt;/li&gt;
+&lt;li&gt;国际贸易网多标准社区发现;&lt;/li&gt;
+&lt;li&gt;保证网络特征的可靠蒙特卡洛估计;&lt;/li&gt;
+&lt;li&gt;干扰指数的指标是否度量了他们提出要度量的内容？几个指标变体与人工评判的比较;&lt;/li&gt;
+&lt;li&gt;基于场测量和机器学习新加坡校园空气温度和城市形态参数的经验模型;&lt;/li&gt;
+&lt;li&gt;通用和非通用文本统计：语言识别的聚类系数;&lt;/li&gt;
+&lt;li&gt;作为一种语言现象理解巨魔的写作;&lt;/li&gt;
+&lt;li&gt;社交和公路网络的社区检测算法实证研究;&lt;/li&gt;
+&lt;li&gt;基于最短路径算法的分层优化的推荐系统;&lt;/li&gt;
+&lt;li&gt;自旋玻璃的方法应用于有向2距离最小支配集问题;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-11-20)</title>
