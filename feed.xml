@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2019-12-02)</title>
+      <link>https://www.complexly.cn/post/20191202/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191202/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用贝叶斯逻辑回归评估国内旅客多模式选择行为：中国案例研究;&lt;/li&gt;
+&lt;li&gt;动态适应度模型：优先连接图的普适类证据;&lt;/li&gt;
+&lt;li&gt;人类相分离的集体信息处理;&lt;/li&gt;
+&lt;li&gt;考虑二部图中时间偏差的排名用于重要的节点标识;&lt;/li&gt;
+&lt;li&gt;重温可达性和人口增长之间的耦合;&lt;/li&gt;
+&lt;li&gt;具有重叠社区的随机稀疏图模型中的团和循环频率;&lt;/li&gt;
+&lt;li&gt;哥伦比亚人口流动的性别模式：再次检验移民的雷文斯坦定律;&lt;/li&gt;
+&lt;li&gt;贝叶斯方法用于命名博弈模型;&lt;/li&gt;
+&lt;li&gt;多个多路社会网络的代数分析;&lt;/li&gt;
+&lt;li&gt;对“非零温度结构平衡动力学的平均场解法”的评论;&lt;/li&gt;
+&lt;li&gt;有离群点的随机块模型链路预测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2019-11-28)</title>
