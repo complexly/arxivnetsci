@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2019-12-03)</title>
+      <link>https://www.complexly.cn/post/20191203/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191203/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;广义信誉计算的本体和含时图架构;&lt;/li&gt;
+&lt;li&gt;符号网络结构平衡的可视化;&lt;/li&gt;
+&lt;li&gt;可扩展的图算法;&lt;/li&gt;
+&lt;li&gt;多级联影响力最大化：模型、困难和算法框架;&lt;/li&gt;
+&lt;li&gt;吸引和排斥机制下循环意见的一般共识;&lt;/li&gt;
+&lt;li&gt;狂热者触发的演化博弈临界质量效应;&lt;/li&gt;
+&lt;li&gt;利用社交媒体短文本进行学术表现的一般预测;&lt;/li&gt;
+&lt;li&gt;JNET：联合学习用户交互的网络嵌入和主题嵌入;&lt;/li&gt;
+&lt;li&gt;使用元路径约束的随机游走推断大型异构信息网络;&lt;/li&gt;
+&lt;li&gt;带记忆策略的世界;&lt;/li&gt;
+&lt;li&gt;实际网络演化的自相似性几何起源;&lt;/li&gt;
+&lt;li&gt;使用城市网络可步行程度量化生活质量：布达佩斯案例;&lt;/li&gt;
+&lt;li&gt;疫苗在线信息：信息质量是搜索引擎的道德责任;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2019-12-02)</title>
