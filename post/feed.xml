@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2019-12-06)</title>
+      <link>https://www.complexly.cn/post/20191206/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191206/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;非恐慌撤离情景下行人的集体动态;&lt;/li&gt;
+&lt;li&gt;自动化和连通性对交通流和二氧化碳排放的影响：一项详细的微观仿真研究;&lt;/li&gt;
+&lt;li&gt;HodgeNet：用于边数据的图神经网络;&lt;/li&gt;
+&lt;li&gt;EviDense：基于图的方法寻找独特的基于关键词简洁描述的高影响力事件;&lt;/li&gt;
+&lt;li&gt;不均一的碳价格对简化欧洲电力系统的成本优化设计的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-12-05)</title>
