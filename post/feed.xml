@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2019-12-09)</title>
+      <link>https://www.complexly.cn/post/20191209/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191209/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;利用辅助判别任务的迁移学习进行无监督异常检测;&lt;/li&gt;
+&lt;li&gt;美国西部输电网针对连锁故障的基于弹性的优化;&lt;/li&gt;
+&lt;li&gt;社会网络上重叠社区的自我证伪的分级检测;&lt;/li&gt;
+&lt;li&gt;适应天气：气候变化下的电网基础设施规划;&lt;/li&gt;
+&lt;li&gt;来自社区倡导者和行动者的用于技术审计的算法权益工具包;&lt;/li&gt;
+&lt;li&gt;通过整合网络的扩散和投资者领域偏好为新创业公司推荐投资者;&lt;/li&gt;
+&lt;li&gt;SemEval-2014任务9：Twitter情感分析;&lt;/li&gt;
+&lt;li&gt;人类活动数据的升尺度：生态角度;&lt;/li&gt;
+&lt;li&gt;解释传递性和度同配性：社会网络的二分结构;&lt;/li&gt;
+&lt;li&gt;Cipolla博弈：人类愚蠢规律下的博弈;&lt;/li&gt;
+&lt;li&gt;创新的数学结构;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2019-12-06)</title>
