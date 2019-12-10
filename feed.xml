@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要20篇(2019-12-10)</title>
+      <link>https://www.complexly.cn/post/20191210/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191210/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;熵、比热、磁化率和渗流的Rushbrooke不等式;&lt;/li&gt;
+&lt;li&gt;使用水平能见图网络的跨尺度径流可预测性洞察;&lt;/li&gt;
+&lt;li&gt;社会网络的区分性中心性;&lt;/li&gt;
+&lt;li&gt;潜在客流预测：城市交通发展的新型研究;&lt;/li&gt;
+&lt;li&gt;利用Kronecker积的复合网络结构可观测性/可控性最小充分条件;&lt;/li&gt;
+&lt;li&gt;一个多特征扩散模型：阻止社会网络谣言;&lt;/li&gt;
+&lt;li&gt;重叠社区和多路网络缺失链路预测;&lt;/li&gt;
+&lt;li&gt;从玻尔兹曼到香农和杰恩斯再到齐普夫;&lt;/li&gt;
+&lt;li&gt;带不确定性的动力学模型重建行车速度分布;&lt;/li&gt;
+&lt;li&gt;类型向量的单调次模多样性函数，及其在目标影响最大化的种子的多样化中的应用;&lt;/li&gt;
+&lt;li&gt;确定个体来源相似（DInOS）：用Stylometric特征进行作者二元分类;&lt;/li&gt;
+&lt;li&gt;德国区域化供热需求和能源热转换能力——评估可再生能源集成的开放数据集;&lt;/li&gt;
+&lt;li&gt;使用模型生成替代选择（MGA）的能源情景探索;&lt;/li&gt;
+&lt;li&gt;加权含时事件图;&lt;/li&gt;
+&lt;li&gt;复杂网络的最优破碎;&lt;/li&gt;
+&lt;li&gt;迈向社会化媒体打击仇恨言论和人身攻击;&lt;/li&gt;
+&lt;li&gt;政治选举在（社会）火？Twitter上宣传的分析和检测;&lt;/li&gt;
+&lt;li&gt;属性网络上的多尺度异常检测;&lt;/li&gt;
+&lt;li&gt;有随机行为和顽固主体的意见动力学;&lt;/li&gt;
+&lt;li&gt;Subreddit的R/unpopularopinion板块：针对沉默的螺旋;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2019-12-09)</title>
