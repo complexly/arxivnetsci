@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2019-12-18)</title>
+      <link>https://www.complexly.cn/post/20191218/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191218/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用庞加莱嵌入探索在AML背景下多银行客户间关系;&lt;/li&gt;
+&lt;li&gt;符号网络的社区检测和结构平衡动态;&lt;/li&gt;
+&lt;li&gt;使用异构图模型理解社交媒体用户级情感;&lt;/li&gt;
+&lt;li&gt;老年行人穿过狭窄区实验研究;&lt;/li&gt;
+&lt;li&gt;基于人工神经网络建模直行走廊单双向行人流动;&lt;/li&gt;
+&lt;li&gt;机器学习个性化的程度如何？;&lt;/li&gt;
+&lt;li&gt;与轮椅使用者混合的行人流量通过漏斗形瓶颈的实验研究;&lt;/li&gt;
+&lt;li&gt;老年人和其他年龄组的单文件人流对比研究;&lt;/li&gt;
+&lt;li&gt;适应度景观中的搜索：如何评价一个搜索问题的难度;&lt;/li&gt;
+&lt;li&gt;对歧视性数据扰动具有弹性的监督学习算法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2019-12-17)</title>
