@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2019-12-19)</title>
+      <link>https://www.complexly.cn/post/20191219/</link>
+      <pubDate>Thu, 19 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191219/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;稀疏种子的竞争传染;&lt;/li&gt;
+&lt;li&gt;多通道图卷积网络;&lt;/li&gt;
+&lt;li&gt;通过协同图分区实现可扩展的异构社会网络对齐;&lt;/li&gt;
+&lt;li&gt;比较虚拟实验和实地考察中行人的绕过障碍物的路径选择行为;&lt;/li&gt;
+&lt;li&gt;网络上复现流行病的有影响力传播者;&lt;/li&gt;
+&lt;li&gt;利用Konig-Egervary层-子图的层次分解机制及其在顶点覆盖上的应用;&lt;/li&gt;
+&lt;li&gt;推断期刊引用的因果效应;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2019-12-18)</title>
