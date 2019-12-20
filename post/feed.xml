@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 19 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2019-12-20)</title>
+      <link>https://www.complexly.cn/post/20191220/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191220/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;沟通社区与节点表示：利用社区发现的图嵌入;&lt;/li&gt;
+&lt;li&gt;子图分类、聚类和中心性度不对称的Twitter图案例研究：自杀倾向;&lt;/li&gt;
+&lt;li&gt;基于网络的医疗服务领域的划定：社区检测算法的比较分析;&lt;/li&gt;
+&lt;li&gt;2019葡萄牙议会选举结果实时数据集;&lt;/li&gt;
+&lt;li&gt;带无标度特征的稠密图;&lt;/li&gt;
+&lt;li&gt;社会网络的迭代局部有向传递性模型;&lt;/li&gt;
+&lt;li&gt;BHIN2vec：异构信息网络中的关系类型平衡;&lt;/li&gt;
+&lt;li&gt;Twitter数据谣言检测和分类;&lt;/li&gt;
+&lt;li&gt;利用随机游走映射的双曲多路网络嵌入;&lt;/li&gt;
+&lt;li&gt;研究趋势早期检测;&lt;/li&gt;
+&lt;li&gt;PFaRA：用于当天投递的队列形成和路由算法;&lt;/li&gt;
+&lt;li&gt;多路网络的图基元;&lt;/li&gt;
+&lt;li&gt;交通条件和拼车车道可用性对个体间搭车需求的影响;&lt;/li&gt;
+&lt;li&gt;用一种自适应的相似度量调节基于记忆的协同过滤中信任的影响;&lt;/li&gt;
+&lt;li&gt;完全图的Axelrod模型的Erdos-Renyi相变;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2019-12-19)</title>
