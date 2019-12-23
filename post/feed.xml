@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2019-12-23)</title>
+      <link>https://www.complexly.cn/post/20191223/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191223/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图二元选择博弈的量子反应平衡;&lt;/li&gt;
+&lt;li&gt;闪电网络不平衡度量和主动通道再平衡算法;&lt;/li&gt;
+&lt;li&gt;均一超图的张量熵;&lt;/li&gt;
+&lt;li&gt;过度连接的连接程度如何？网络拓扑结构对复杂经济系统的系统性风险和崩溃的影响;&lt;/li&gt;
+&lt;li&gt;带节点属性的社会网络社区检测：一项综述;&lt;/li&gt;
+&lt;li&gt;元图：通过元学习进行少数案例链路预测;&lt;/li&gt;
+&lt;li&gt;非大规模免疫抑制复杂网络上传播;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2019-12-20)</title>
