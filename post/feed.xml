@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 23 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2019-12-24)</title>
+      <link>https://www.complexly.cn/post/20191224/</link>
+      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20191224/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;挖掘汽车行业：企业定位和技术趋势的网络分析;&lt;/li&gt;
+&lt;li&gt;解剖以太坊区块链分析：我们从以太坊图的拓扑和几何了解了什么;&lt;/li&gt;
+&lt;li&gt;基于Graphon灵敏度的SIS流行病的分析;&lt;/li&gt;
+&lt;li&gt;使用随机点积图进行动态网络链路预测;&lt;/li&gt;
+&lt;li&gt;需要协调的表征系统耐威胁性的概念;&lt;/li&gt;
+&lt;li&gt;网络观测资料的处理分配函数的反事实评价;&lt;/li&gt;
+&lt;li&gt;（错误）信息业务：一个整体性视角;&lt;/li&gt;
+&lt;li&gt;左转还是右转？探索圆形障碍实验的侧偏好行为;&lt;/li&gt;
+&lt;li&gt;网络嵌入的隐私攻击;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2019-12-23)</title>
@@ -18,7 +39,9 @@
       <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.complexly.cn/post/20191223/</guid>
-      <description>&lt;ul&gt;
+      <description>&lt;p&gt;节假日临近，近期更新时间或有调整。&lt;/p&gt;
+
+&lt;ul&gt;
 &lt;li&gt;图二元选择博弈的量子反应平衡;&lt;/li&gt;
 &lt;li&gt;闪电网络不平衡度量和主动通道再平衡算法;&lt;/li&gt;
 &lt;li&gt;均一超图的张量熵;&lt;/li&gt;
