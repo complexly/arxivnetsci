@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2020-01-08)</title>
+      <link>https://www.complexly.cn/post/20200108/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200108/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;四重平衡论：带不均衡三角形的全局最小;&lt;/li&gt;
+&lt;li&gt;时间约束自适应影响力最大化;&lt;/li&gt;
+&lt;li&gt;基于网络分析北美城市公共交通系统;&lt;/li&gt;
+&lt;li&gt;拓扑数据分析的空间应用：城市、雪花、随机结构和蜘蛛受影响的结网;&lt;/li&gt;
+&lt;li&gt;使用机器学习算法理解大萧条;&lt;/li&gt;
+&lt;li&gt;量化Twitter的极化：提名卡瓦诺;&lt;/li&gt;
+&lt;li&gt;谁抛弃了公交？;&lt;/li&gt;
+&lt;li&gt;属性多关系注意力网络用于事实查证网址推荐;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2020-01-07)</title>
