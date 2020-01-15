@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 14 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2020-01-15)</title>
+      <link>https://www.complexly.cn/post/20200115/</link>
+      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200115/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过汇总优步数据估计街道级旅行时间;&lt;/li&gt;
+&lt;li&gt;评估物理环境对办公室舒适度和工作满意度的影响;&lt;/li&gt;
+&lt;li&gt;用于识别有害社交媒体账户的特征驱动的方法;&lt;/li&gt;
+&lt;li&gt;层次化网络的形成博弈;&lt;/li&gt;
+&lt;li&gt;利用高保真度量的行人朝向动态;&lt;/li&gt;
+&lt;li&gt;竞争性平衡理论：建模异构网络利益冲突;&lt;/li&gt;
+&lt;li&gt;通过笛卡尔积恢复复合网络的结构观测性;&lt;/li&gt;
+&lt;li&gt;动态属性网络变化检测;&lt;/li&gt;
+&lt;li&gt;少数人的智慧：从个体行为预测集体成功;&lt;/li&gt;
+&lt;li&gt;EGGS：社会网络垃圾邮件关系建模的灵活方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2020-01-14)</title>
