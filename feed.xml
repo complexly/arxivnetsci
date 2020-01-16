@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 15 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2020-01-16)</title>
+      <link>https://www.complexly.cn/post/20200116/</link>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200116/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;随机指标和混合花图：高根之花;&lt;/li&gt;
+&lt;li&gt;大分流：美国公众极化的驱动力;&lt;/li&gt;
+&lt;li&gt;优先连接：一个多属性增长过程生成不同拓扑结构的无标度网络;&lt;/li&gt;
+&lt;li&gt;有向网络方向性如何？;&lt;/li&gt;
+&lt;li&gt;你粉了多少机器人账号？;&lt;/li&gt;
+&lt;li&gt;利用混合模体挖掘比特币交易网以检测混币服务;&lt;/li&gt;
+&lt;li&gt;以太坊的演化：含时图视角;&lt;/li&gt;
+&lt;li&gt;部分参与的西比尔弹性的社会选择;&lt;/li&gt;
+&lt;li&gt;NEW：一个网络关系强度预测的通用学习模型;&lt;/li&gt;
+&lt;li&gt;管和泡沫——YouTube推荐的拓扑约束;&lt;/li&gt;
+&lt;li&gt;排名指标的无偏评价揭示了科技引文数据的一致性表现;&lt;/li&gt;
+&lt;li&gt;实验数据的溢出效应;&lt;/li&gt;
+&lt;li&gt;什么有助于一个众筹活动成功？GoFundMe数据的证据与分析;&lt;/li&gt;
+&lt;li&gt;谣言插入-消除算法用于多主体Bandit;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2020-01-15)</title>
