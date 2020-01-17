@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 16 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2020-01-17)</title>
+      <link>https://www.complexly.cn/post/20200117/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200117/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;揭示社交媒体的协调网络;&lt;/li&gt;
+&lt;li&gt;变色龙攻击：操纵在线社交媒体内容显示;&lt;/li&gt;
+&lt;li&gt;宏观经济城市动态的哈密顿建模：支持信息;&lt;/li&gt;
+&lt;li&gt;双层随机模型的隐藏社区发现：一个理论视角;&lt;/li&gt;
+&lt;li&gt;单纯复形：高阶谱维度和动力学;&lt;/li&gt;
+&lt;li&gt;在线新闻影响力的一般模式;&lt;/li&gt;
+&lt;li&gt;从基于图的关系时间序列推断个体级因果模型;&lt;/li&gt;
+&lt;li&gt;使用大数据提供的情感分析社会化媒体发现知识（SoMABiT）;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2020-01-16)</title>
