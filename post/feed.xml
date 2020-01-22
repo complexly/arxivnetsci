@@ -7,10 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要29篇(2020-01-22)</title>
+      <link>https://www.complexly.cn/post/20200122/</link>
+      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200122/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;中国古典诗歌用词的演变;&lt;/li&gt;
+&lt;li&gt;EON：网络上流行病的模拟、分析性近似和分析的快速灵活Python包;&lt;/li&gt;
+&lt;li&gt;计算笔记本用于城市道路网络分析;&lt;/li&gt;
+&lt;li&gt;谁投票支持无协议脱欧？英国2019欧洲议会选举的合成模型;&lt;/li&gt;
+&lt;li&gt;少数属性的同质性可以阻碍结构平衡;&lt;/li&gt;
+&lt;li&gt;通过图神经网络从时间序列数据推断网络结构与动态;&lt;/li&gt;
+&lt;li&gt;新模型分析电力和通信系统内和系统间的依赖关系;&lt;/li&gt;
+&lt;li&gt;RCELF：影响最大化问题基于残差的方法;&lt;/li&gt;
+&lt;li&gt;图序：迈向最优学习;&lt;/li&gt;
+&lt;li&gt;深度协同嵌入信息级联预测;&lt;/li&gt;
+&lt;li&gt;社会网络分类器预测电信业流失的比较研究;&lt;/li&gt;
+&lt;li&gt;社会网络分析预测电信业流失：模型建立、评估与网络架构;&lt;/li&gt;
+&lt;li&gt;从不完整网络得到真正的非线性动力学;&lt;/li&gt;
+&lt;li&gt;基于莫兰指数空间自相关函数的解析过程;&lt;/li&gt;
+&lt;li&gt;主轴的幂用于精确团计数;&lt;/li&gt;
+&lt;li&gt;国内和国际多个隶属关系对引文影响力的影响;&lt;/li&gt;
+&lt;li&gt;当思想开放阻碍共识;&lt;/li&gt;
+&lt;li&gt;社交媒体命名实体识别的多模态深度学习方法;&lt;/li&gt;
+&lt;li&gt;使用公司间转账建模经济网络;&lt;/li&gt;
+&lt;li&gt;使用分层超稀疏GraphBLAS矩阵实现750亿流插入/秒;&lt;/li&gt;
+&lt;li&gt;稀疏非负矩阵分解用于多个局部社区检测;&lt;/li&gt;
+&lt;li&gt;多层网络的图元采样：一个受限随机游走方法;&lt;/li&gt;
+&lt;li&gt;Debian GNU/Linux软件网络演进：与基因调控网络类比和差异;&lt;/li&gt;
+&lt;li&gt;现代物理学领域内和领域间的知识演变;&lt;/li&gt;
+&lt;li&gt;采用盈亏平衡的成本确定州级政策的开源能源系统建模：北卡罗莱纳州案例研究;&lt;/li&gt;
+&lt;li&gt;基于随机游走的生成模型用于文档网络分类;&lt;/li&gt;
+&lt;li&gt;扩散图基于序列的快速嵌入;&lt;/li&gt;
+&lt;li&gt;夺宝奇兵：4chan政治上不正确板块的3.5年增强帖子;&lt;/li&gt;
+&lt;li&gt;多图卷积网络预测城市轨道交通短期客流;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2020-01-20)</title>
