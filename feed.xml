@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2020-01-23)</title>
+      <link>https://www.complexly.cn/post/20200123/</link>
+      <pubDate>Thu, 23 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200123/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图生成器：最优结果和开放挑战;&lt;/li&gt;
+&lt;li&gt;针对社区发现的通过隐藏个体的对抗性攻击;&lt;/li&gt;
+&lt;li&gt;带遍历时间依赖参数的预防和反应网络防御动力学是全局吸引的;&lt;/li&gt;
+&lt;li&gt;情绪和情感词典对情感分析应用于书评的影响;&lt;/li&gt;
+&lt;li&gt;中介中心性的简单快速分布式计算;&lt;/li&gt;
+&lt;li&gt;优先连接网络模型的时不变度增长;&lt;/li&gt;
+&lt;li&gt;高效能音频采集系统在智能城市的应用;&lt;/li&gt;
+&lt;li&gt;一种用于道路网络的生成模型;&lt;/li&gt;
+&lt;li&gt;学术期刊的神经嵌入揭示了复杂的组织纪律;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要29篇(2020-01-22)</title>
