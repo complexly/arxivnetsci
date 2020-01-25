@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2020-01-25)</title>
+      <link>https://www.complexly.cn/post/20200125/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200125/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;未知社会网络的影响力最大化：有效图取样学习策略;&lt;/li&gt;
+&lt;li&gt;带互惠偏好邻居的关系主题聚类;&lt;/li&gt;
+&lt;li&gt;Pushshift的Reddit数据集;&lt;/li&gt;
+&lt;li&gt;联合推断真相/谣言及其社会网络源;&lt;/li&gt;
+&lt;li&gt;ExEm：使用深度学习方法的支配集理论专家嵌入;&lt;/li&gt;
+&lt;li&gt;将机理网络模型转化为概率模型的框架;&lt;/li&gt;
+&lt;li&gt;集成基于主体的微观模拟框架检查面向移动性政策的影响;&lt;/li&gt;
+&lt;li&gt;表征复杂网络中的循环结构;&lt;/li&gt;
+&lt;li&gt;考虑线路依赖的输电线失效率的贝叶斯估计;&lt;/li&gt;
+&lt;li&gt;研究机构的异构尺度率;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2020-01-23)</title>
