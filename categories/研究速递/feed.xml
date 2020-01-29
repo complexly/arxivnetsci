@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2020-01-29)</title>
+      <link>https://www.complexly.cn/post/20200129/</link>
+      <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200129/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;一类新的带前瞻规则的非局部交通流模型;&lt;/li&gt;
+&lt;li&gt;挖掘社交媒体数据用于生物医学信号与健康相关行为;&lt;/li&gt;
+&lt;li&gt;高阶相互作用的演化动力学;&lt;/li&gt;
+&lt;li&gt;地理建模：从特征尺度到尺度律;&lt;/li&gt;
+&lt;li&gt;安然语料库：电子邮件正文隐藏何处;&lt;/li&gt;
+&lt;li&gt;图邻居注意力池化;&lt;/li&gt;
+&lt;li&gt;非局部PageRank;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要23篇(2020-01-28)</title>
