@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2020-01-31)</title>
+      <link>https://www.complexly.cn/post/20200131/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200131/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;噪声投票模型的支持相互作用;&lt;/li&gt;
+&lt;li&gt;D2M：网络动态防御和对抗运动建模;&lt;/li&gt;
+&lt;li&gt;探索使用自激发点过程进行信息扩散级联流行预测的不确定性;&lt;/li&gt;
+&lt;li&gt;超越精确性：使用预测估计社会网络同质性;&lt;/li&gt;
+&lt;li&gt;我们需要多少、何时需要超图的高阶信息？超边预测案例研究;&lt;/li&gt;
+&lt;li&gt;疫苗接种和疾病蔓延之间的竞争;&lt;/li&gt;
+&lt;li&gt;哪个方向？考虑方向的属性图嵌入;&lt;/li&gt;
+&lt;li&gt;空间模块化网络的两个相变;&lt;/li&gt;
+&lt;li&gt;回声室存在！ （但都是反对意见）;&lt;/li&gt;
+&lt;li&gt;品牌智能分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2020-01-30)</title>
