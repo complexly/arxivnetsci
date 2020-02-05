@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2020-02-05)</title>
+      <link>https://www.complexly.cn/post/20200205/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200205/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;信息采集能力增强可能加剧组内分歧;&lt;/li&gt;
+&lt;li&gt;利用MANET为灾区强化支付系统安全;&lt;/li&gt;
+&lt;li&gt;地理分析：从基于距离的空间到基于维度的空间;&lt;/li&gt;
+&lt;li&gt;无标度网络的对抗性攻击：测试物理标准的健壮性;&lt;/li&gt;
+&lt;li&gt;提取网络对齐的双网中的密集和连通子图;&lt;/li&gt;
+&lt;li&gt;中世纪历史叙述中的性别网络和沟通能力;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要26篇(2020-02-04)</title>
