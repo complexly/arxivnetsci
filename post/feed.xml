@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2020-02-06)</title>
+      <link>https://www.complexly.cn/post/20200206/</link>
+      <pubDate>Thu, 06 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200206/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;来自合作伙伴和人群的意义概化：分层推理支持网络上惯例的形成;&lt;/li&gt;
+&lt;li&gt;MAGNN：元路径汇总图神经网络用于异构图嵌入;&lt;/li&gt;
+&lt;li&gt;我知道你来自哪里：社交媒体源对人工智能模型性能的影响;&lt;/li&gt;
+&lt;li&gt;利用社交媒体帖子的自动定位类型分类;&lt;/li&gt;
+&lt;li&gt;FastGAE：快速、可扩展和有效的带随机子图解码的图自动编码器;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2020-02-05)</title>
