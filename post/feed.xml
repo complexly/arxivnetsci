@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 06 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2020-02-10)</title>
+      <link>https://www.complexly.cn/post/20200210/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200210/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;有外部源的时间延迟动力系统用于2019-nCoV的局部爆发;&lt;/li&gt;
+&lt;li&gt;用于控制疫情传播的基于自我意识的资源分配策略;&lt;/li&gt;
+&lt;li&gt;客流与频率;&lt;/li&gt;
+&lt;li&gt;高速公路换道的重复博弈模型;&lt;/li&gt;
+&lt;li&gt;区块链系统的稳定性和可扩展性;&lt;/li&gt;
+&lt;li&gt;通过社区检测方法识别基于共享提交的相关Git仓库完整集合;&lt;/li&gt;
+&lt;li&gt;交互网络对于信息寻求口碑效应的动态的影响;&lt;/li&gt;
+&lt;li&gt;漏网：数据科学方法是否能帮助确定清洁烹调政策干预目标？;&lt;/li&gt;
+&lt;li&gt;抑郁的个体在社交媒体上表达更扭曲的思维;&lt;/li&gt;
+&lt;li&gt;闪电网络：迈向比特币经济中心化的第二路径;&lt;/li&gt;
+&lt;li&gt;目标显示广告：优先连接的情况;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2020-02-06)</title>
