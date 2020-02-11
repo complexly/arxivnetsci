@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2020-02-11)</title>
+      <link>https://www.complexly.cn/post/20200211/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200211/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;鲁棒随机方法估计2019-nCoV的传输潜力;&lt;/li&gt;
+&lt;li&gt;超越R0：预测流行病时接触跟踪的重要性;&lt;/li&gt;
+&lt;li&gt;非关联几何框架下的复杂网络;&lt;/li&gt;
+&lt;li&gt;通过深度Q学习快速检测最大公共子图;&lt;/li&gt;
+&lt;li&gt;通用设施集中式动态匹配市场的渐近最优控制;&lt;/li&gt;
+&lt;li&gt;目标隐私保护的社会网络;&lt;/li&gt;
+&lt;li&gt;线超图卷积网络：在超图上应用图卷积;&lt;/li&gt;
+&lt;li&gt;通过随机平滑实现有效抵抗对抗性结构扰动的显著稳健社区检测;&lt;/li&gt;
+&lt;li&gt;疫情在城市公交系统传播的接触网络的尺度性;&lt;/li&gt;
+&lt;li&gt;带连续主体的社交传输模型的事项;&lt;/li&gt;
+&lt;li&gt;小世界是不够的：网络选择和模拟的结论性标准;&lt;/li&gt;
+&lt;li&gt;时隙分配的公平性;&lt;/li&gt;
+&lt;li&gt;合成群体生产的配对：直接概率配对方法;&lt;/li&gt;
+&lt;li&gt;通过社会认知偏差驱动的公共话语和社会网络回声室;&lt;/li&gt;
+&lt;li&gt;图累积量简介：你的社会网络峰度是什么？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-02-10)</title>
