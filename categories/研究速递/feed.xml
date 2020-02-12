@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2020-02-12)</title>
+      <link>https://www.complexly.cn/post/20200212/</link>
+      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200212/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于网络的中国湖北省2019-nCoV疫情爆发预测;&lt;/li&gt;
+&lt;li&gt;建立一个分布式和无基础设施的车辆交通管理系统;&lt;/li&gt;
+&lt;li&gt;LoCEC：基于局部社区的大型在线社会网络边分类;&lt;/li&gt;
+&lt;li&gt;众包工作者和NLP工具在政治性推文命名实体识别和情感分析上的表现比较;&lt;/li&gt;
+&lt;li&gt;图像分析增强的有地理标记的推文流事件检测;&lt;/li&gt;
+&lt;li&gt;HGAT：层次图注意力网络用于假新闻的检测;&lt;/li&gt;
+&lt;li&gt;通过被动WiFi探测和数据挖掘了解社交活动中的人群行为;&lt;/li&gt;
+&lt;li&gt;使用深度卷积神经网络的交通数据插值;&lt;/li&gt;
+&lt;li&gt;层次传递性对齐的图核用于无属性图;&lt;/li&gt;
+&lt;li&gt;一种用于加权网络的边重叠的新推广;&lt;/li&gt;
+&lt;li&gt;基于用户和属性的数据加密;&lt;/li&gt;
+&lt;li&gt;网络上编码数据包的概率转发;&lt;/li&gt;
+&lt;li&gt;通过正则张量分解发现混合多层网络社区;&lt;/li&gt;
+&lt;li&gt;复杂网络的势能：一种新颖的视角;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2020-02-11)</title>
