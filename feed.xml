@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 12 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2020-02-13)</title>
+      <link>https://www.complexly.cn/post/20200213/</link>
+      <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200213/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过综合方法预测2019-nCoV传播的结束;&lt;/li&gt;
+&lt;li&gt;预测流行病在网络上传播的速度;&lt;/li&gt;
+&lt;li&gt;使用SimpleHypergraphs.jl通过超图分析、探索和可视化复杂网络;&lt;/li&gt;
+&lt;li&gt;带噪声阈值的q-投票模型成对近似;&lt;/li&gt;
+&lt;li&gt;图通用对抗性攻击：少数坏角色破坏图学习模型;&lt;/li&gt;
+&lt;li&gt;从社会互动学习图影响力;&lt;/li&gt;
+&lt;li&gt;社会信息流模型中没有社会强化的复杂传播特征;&lt;/li&gt;
+&lt;li&gt;自愿社会困境中一种导向循环主导地位的新途径;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2020-02-12)</title>
