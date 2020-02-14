@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 13 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2020-02-14)</title>
+      <link>https://www.complexly.cn/post/20200214/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200214/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用Newcomb-Benford定律检验中国2019冠状病毒的测试案例数;&lt;/li&gt;
+&lt;li&gt;使用PageRank和持续同调的图相似度;&lt;/li&gt;
+&lt;li&gt;多动力系统轨迹时序近似。互联网流量的预测和控制;&lt;/li&gt;
+&lt;li&gt;互联网平台用户声音动态的非混沌模型和可预测性;&lt;/li&gt;
+&lt;li&gt;复杂网络的最低​​度分解;&lt;/li&gt;
+&lt;li&gt;意见的形成和蔓延：行为和信息流的随机性是否重要？;&lt;/li&gt;
+&lt;li&gt;图傅立叶变换的神经网络逼近用于网络流量动态的稀疏采样;&lt;/li&gt;
+&lt;li&gt;使用MFD和有限交通数据估算城市交通状态;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2020-02-13)</title>
