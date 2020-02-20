@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 19 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2020-02-20)</title>
+      <link>https://www.complexly.cn/post/20200220/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200220/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Gillespie算法用于非马尔可夫随机过程;&lt;/li&gt;
+&lt;li&gt;高阶标签同质性和图传播;&lt;/li&gt;
+&lt;li&gt;TIES：时间互动嵌入改进Facebook社交媒体的完整性;&lt;/li&gt;
+&lt;li&gt;互联网级别图的实时无索引单源SimRank处理;&lt;/li&gt;
+&lt;li&gt;BB_Evac：位置敏感的基于行为的建筑物快速疏散;&lt;/li&gt;
+&lt;li&gt;量化科学演化中的扩展适应;&lt;/li&gt;
+&lt;li&gt;使用地理空间移动代表性特征（ReFGeM）区分人口空间行为;&lt;/li&gt;
+&lt;li&gt;BatchLayout：共享存储的批并行力导向图布局算法;&lt;/li&gt;
+&lt;li&gt;块内嵌套性的分辨率极限缺失;&lt;/li&gt;
+&lt;li&gt;ITeM：使用独立含时模体总结和比较含时网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要25篇(2020-02-19)</title>
