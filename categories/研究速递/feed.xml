@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2020-02-21)</title>
+      <link>https://www.complexly.cn/post/20200221/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200221/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;深度图映射：通过神经网络视角观察图;&lt;/li&gt;
+&lt;li&gt;建筑特征的机器学习和城市指标的幂律恢复;&lt;/li&gt;
+&lt;li&gt;非线性网络动态与共识-分歧的分叉;&lt;/li&gt;
+&lt;li&gt;特征值问题迭代方法的Entrywise收敛;&lt;/li&gt;
+&lt;li&gt;基于连续影响的社会网络社团划分;&lt;/li&gt;
+&lt;li&gt;公路交通电气化的经济活力和基础设施要求;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2020-02-20)</title>
