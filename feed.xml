@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2020-02-24)</title>
+      <link>https://www.complexly.cn/post/20200224/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200224/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;COVID-19扩散的尺度特征;&lt;/li&gt;
+&lt;li&gt;利用异步更新的演化博弈进行网络重构;&lt;/li&gt;
+&lt;li&gt;通过不可观测链接的随机抽样进行链路预测的快速评估;&lt;/li&gt;
+&lt;li&gt;社交媒体资料策展;&lt;/li&gt;
+&lt;li&gt;基于资产交换模型的区域不平等模拟;&lt;/li&gt;
+&lt;li&gt;复杂网络舆论动态的迟滞和无序诱发的连续动力学类型有序;&lt;/li&gt;
+&lt;li&gt;基于局部流的超图聚类;&lt;/li&gt;
+&lt;li&gt;参数化目标和算法聚类二部图和超图;&lt;/li&gt;
+&lt;li&gt;聚类用于临床领域的分类多关系数据知识表示嵌入评价;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2020-02-21)</title>
