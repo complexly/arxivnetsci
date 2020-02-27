@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2020-02-27)</title>
+      <link>https://www.complexly.cn/post/20200227/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200227/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在线领域的贝叶斯社会影响;&lt;/li&gt;
+&lt;li&gt;比较特征提取方法和收入推断的预测用变量;&lt;/li&gt;
+&lt;li&gt;谁是电影宇宙的中心？使用Python和NetworkX解读影星社会网络;&lt;/li&gt;
+&lt;li&gt;Twitter上谣言传播的信息扩散途径和识别;&lt;/li&gt;
+&lt;li&gt;计算批发及零售业数据交易市场的时空数据价值;&lt;/li&gt;
+&lt;li&gt;MGA：网络的动量梯度攻击;&lt;/li&gt;
+&lt;li&gt;优化跨区医院分布减少结核病死亡;&lt;/li&gt;
+&lt;li&gt;社会困境中远离坏选择比接近好选择的结果更好;&lt;/li&gt;
+&lt;li&gt;展示社会物联网对社会方面影响的仿真模型;&lt;/li&gt;
+&lt;li&gt;网络表示学习用于链路预测：相比简捷启发式方法我们是否有改进？;&lt;/li&gt;
+&lt;li&gt;在线劳动力交易市场的公平团队构成算法;&lt;/li&gt;
+&lt;li&gt;用手机数据衡量城市移动性的空间子分割;&lt;/li&gt;
+&lt;li&gt;使用Facebook广告作为测量城乡差距的人口统计工具;&lt;/li&gt;
+&lt;li&gt;贪婪的限制：重新考虑无向网络的影响力最大化：;&lt;/li&gt;
+&lt;li&gt;区域边际价格的大幅波动;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2020-02-26)</title>
