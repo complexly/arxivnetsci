@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2020-02-28)</title>
+      <link>https://www.complexly.cn/post/20200228/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200228/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;模拟基本在中国多层交通网络上的传播：不仅仅是武汉冠状病毒;&lt;/li&gt;
+&lt;li&gt;带非回溯特征值的节点免疫;&lt;/li&gt;
+&lt;li&gt;统一网络上的易感-感染-恢复过程;&lt;/li&gt;
+&lt;li&gt;移动性即服务（MaaS）时代的共享出行：一个基于活动的多模和模间方法;&lt;/li&gt;
+&lt;li&gt;伯努利随机图叠加的同配性和二元度分布;&lt;/li&gt;
+&lt;li&gt;复杂网络临界雪崩动态类;&lt;/li&gt;
+&lt;li&gt;DSSLP：分布式半监督链路预测框架;&lt;/li&gt;
+&lt;li&gt;2019年英国大选期间的垃圾新闻和信息共享;&lt;/li&gt;
+&lt;li&gt;建模作者对物理学期刊引用动态影响力的多层网络方法;&lt;/li&gt;
+&lt;li&gt;边corona积用于建模复杂单形网络;&lt;/li&gt;
+&lt;li&gt;自适应社会网络信息传播动力学;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2020-02-27)</title>
