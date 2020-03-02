@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2020-03-02)</title>
+      <link>https://www.complexly.cn/post/20200302/</link>
+      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200302/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;经济流行病学博弈中的疾病状态自发发散;&lt;/li&gt;
+&lt;li&gt;社会网络操纵选举：选种子、移除边、添加边;&lt;/li&gt;
+&lt;li&gt;延迟耦合群集的不稳定振荡​​和双稳态;&lt;/li&gt;
+&lt;li&gt;为谁“做正确的事”？组内舞弊、小组分选和道义劝告的实验研究;&lt;/li&gt;
+&lt;li&gt;学习大规模多元霍克斯过程;&lt;/li&gt;
+&lt;li&gt;一种检测Twitter虚假内容的多层方法;&lt;/li&gt;
+&lt;li&gt;RP-DNN：基于推特水平传播上下文的深层神经网络检测社交媒体早期谣言;&lt;/li&gt;
+&lt;li&gt;差分隐私广义β模型增加参数的渐近理论;&lt;/li&gt;
+&lt;li&gt;可能成为的城市：人工生命与城市系统;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-02-28)</title>
