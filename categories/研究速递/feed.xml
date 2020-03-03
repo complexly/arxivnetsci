@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2020-03-03)</title>
+      <link>https://www.complexly.cn/post/20200303/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200303/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;冠状病毒扩散宏观增长规律的数据分析;&lt;/li&gt;
+&lt;li&gt;COVID-19的控制效率;&lt;/li&gt;
+&lt;li&gt;使用数值分析多路网络上谣言传播的动态模型;&lt;/li&gt;
+&lt;li&gt;软件团队的库使用动态;&lt;/li&gt;
+&lt;li&gt;模块性三角：一个复杂网络的半全局中心性度量;&lt;/li&gt;
+&lt;li&gt;2019年智利社会动荡的解剖;&lt;/li&gt;
+&lt;li&gt;基于自我熵度量的结构表示;&lt;/li&gt;
+&lt;li&gt;使用技术相互依赖性预测创新力度;&lt;/li&gt;
+&lt;li&gt;UFTR：一个统一的工单路由框架;&lt;/li&gt;
+&lt;li&gt;可扩展网络生成的新进展;&lt;/li&gt;
+&lt;li&gt;好科学的自然选择;&lt;/li&gt;
+&lt;li&gt;探索临近的可能性解释了社会网络的出现和演化;&lt;/li&gt;
+&lt;li&gt;如何选择最合适的中心性度量？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2020-03-02)</title>
