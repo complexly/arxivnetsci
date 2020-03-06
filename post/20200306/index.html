@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要12篇(2020-03-06) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+从稀疏数据半监督学习因子化图表示;
+知识图谱;
+全球供应链网络的蝴蝶结结构和社区识别;
+推导齐普夫定律——最省力原则VS最高效率;
+AGL：一个可扩展的系统用于工业用途的图机器学习;
+谱聚类面对具有重叠结构网络的脆弱性;
+Hadath：从社交媒体地图到多分辨率事件扩展地图;
+基于图的去中心化方法用于人类语言时的相变;
+用主方程建模推特主题标签的流行;
+Erdos-Renyi图的性质;
+EPINE：增强邻近信息网络嵌入;
+使用广义主导树解释图的多粒度性;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要12篇(2020-03-06) - 网络科学研究速递">
+<meta itemprop="description" content="
+从稀疏数据半监督学习因子化图表示;
+知识图谱;
+全球供应链网络的蝴蝶结结构和社区识别;
+推导齐普夫定律——最省力原则VS最高效率;
+AGL：一个可扩展的系统用于工业用途的图机器学习;
+谱聚类面对具有重叠结构网络的脆弱性;
+Hadath：从社交媒体地图到多分辨率事件扩展地图;
+基于图的去中心化方法用于人类语言时的相变;
+用主方程建模推特主题标签的流行;
+Erdos-Renyi图的性质;
+EPINE：增强邻近信息网络嵌入;
+使用广义主导树解释图的多粒度性;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要12篇(2020-03-06) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20200306/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+从稀疏数据半监督学习因子化图表示;
+知识图谱;
+全球供应链网络的蝴蝶结结构和社区识别;
+推导齐普夫定律——最省力原则VS最高效率;
+AGL：一个可扩展的系统用于工业用途的图机器学习;
+谱聚类面对具有重叠结构网络的脆弱性;
+Hadath：从社交媒体地图到多分辨率事件扩展地图;
+基于图的去中心化方法用于人类语言时的相变;
+用主方程建模推特主题标签的流行;
+Erdos-Renyi图的性质;
+EPINE：增强邻近信息网络嵌入;
+使用广义主导树解释图的多粒度性;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20200306/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20200306/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要12篇(2020-03-06)</h1>
+
+                  <p class="post-byline">
+                    2020年03月06日 · 4597 字 ·
+                    阅读时间约10分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>从稀疏数据半监督学习因子化图表示;</li>
+<li>知识图谱;</li>
+<li>全球供应链网络的蝴蝶结结构和社区识别;</li>
+<li>推导齐普夫定律——最省力原则VS最高效率;</li>
+<li>AGL：一个可扩展的系统用于工业用途的图机器学习;</li>
+<li>谱聚类面对具有重叠结构网络的脆弱性;</li>
+<li>Hadath：从社交媒体地图到多分辨率事件扩展地图;</li>
+<li>基于图的去中心化方法用于人类语言时的相变;</li>
+<li>用主方程建模推特主题标签的流行;</li>
+<li>Erdos-Renyi图的性质;</li>
+<li>EPINE：增强邻近信息网络嵌入;</li>
+<li>使用广义主导树解释图的多粒度性;</li>
+</ul>
+
+<p></p>
+
+<h3 id="从稀疏数据半监督学习因子化图表示">从稀疏数据半监督学习因子化图表示</h3>
+
+<p>原文标题： Factorized Graph Representations for Semi-Supervised Learning from Sparse Data</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2003.02829">http://arxiv.org/abs/2003.02829</a></p>
+
+<p>作者： Krishna Kumar P., Paul Langton, Wolfgang Gatterbauer</p>
+
+<p>摘要： 节点分类是图数据管理的一个重要问题。它通常来自那些反复从几个标记种子节点启动各种标签繁殖方法解决。用于与类之间的任意相容性的曲线图，这些方法关键取决于知道必须由领域专家或启发式来提供兼容性矩阵。我们能不能，而不是直接估计正确的兼容性在一个有原则的和可扩展的方式稀疏标号图？我们肯定回答这个问题，建议你采用一种遥远的兼容性估计方法的作品即使在极其稀少标记图（例如，1万个节点被标注）在它的后面需要标注剩余节点的一小部分时间。我们的方法首先创建多个因式分解图表表示（具有独立的曲线图的大小），然后对这些较小的图草图估计。我们定义代数放大作为利用一种算法的更新方程的代数性质来放大稀疏信号的更普遍的想法。我们证明了我们的估计是数量级比另一种方法，并且最终到终端的分类精度与使用金标准的兼容性更快。这使得它的任何现有的标签传播方法的便宜的预处理步骤，并删除启发式当前依赖性。</p>
+
+<h3 id="知识图谱">知识图谱</h3>
+
+<p>原文标题： Knowledge Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2003.02320">http://arxiv.org/abs/2003.02320</a></p>
+
+<p>作者： Aidan Hogan, Eva Blomqvist, Michael Cochez, Claudia d&rsquo;Amato, Gerard de Melo, Claudio Gutierrez, José Emilio Labra Gayo, Sabrina Kirrane, Sebastian Neumaier, Axel Polleres, Roberto Navigli, Axel-Cyrille Ngonga Ngomo, Sabbir M. Rashid, Anisa Rula, Lukas Schmelzeisen, Juan Sequeda, Steffen Staab, Antoine Zimmermann</p>
+
+<p>摘要： 在本文中，我们提供了知识图谱全面的介绍，，最近已在要求实施数据的多样化，动态化，规模化的集合场景囊括显著的注意力从工业界和学术界。一般的介绍后，我们鼓励和对比的是用于知识图各种基于图的数据模型和查询语言。我们讨论架构，身份和背景知识图的角色。我们讲解知识如何表示和使用的演绎和归纳技术的组合提取。我们总结的创建，丰富，质量评估，细化，并出版知识图的方法。我们提供突出开放的知识图表和企业知识图，其应用程序的概述，以及他们如何使用上述技术。我们的结论与高水平的未来研究方向为知识图。</p>
+
+<h3 id="全球供应链网络的蝴蝶结结构和社区识别">全球供应链网络的蝴蝶结结构和社区识别</h3>
+
+<p>原文标题： Bow-tie structure and community identification of global supply chain network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2003.02343">http://arxiv.org/abs/2003.02343</a></p>
+
+<p>作者： Abhijit Chakraborty, Yuichi Ikeda</p>
+
+<p>摘要： 我们在度分布，层次结构，以及全球供应链网络中的度相关性方面的全球供应链网络的拓扑性质研究。全球供应链的数据是由标准普尔Capital IQ的平台的网站，收集各种数据公司2018年建造的入点和出度分布与度指数为2.42和OUT-特征的幂律度指数= 2.11。聚类系数衰变作为幂律指数= 0.46。节点度的相关度指示不存在相配的。 GWCC的蝴蝶结结构显示，OUT分量是最大的，它由总公司的41.1％。所述参比组分包含总公司16.4％。我们观察到，在上游或下游侧的企业大多分布在参比仅几步之遥。此外，我们发现网络的群落结构和表征他们根据自己的定位和行业分类。我们观察到的最大的社区主要由总部设在美国消费品板块的。这些企业属于在全球供应链网络的蝴蝶结结构的OUT分量。最后，我们确认命题S1（路径长度短），S2（幂律度分布），S3（高集聚系数），S4（“装修变得更富”增长机制），S5有效性的电源 - （截断全球供应链网络中的法律学位分配），并与重叠边界S7（群落结构）。</p>
+
+<h3 id="推导齐普夫定律-最省力原则vs最高效率">推导齐普夫定律——最省力原则VS最高效率</h3>
+
+<p>原文标题： Deriving Zipf law &ndash; principle of least effort vs maximum efficiency</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2003.02376">http://arxiv.org/abs/2003.02376</a></p>
+
+<p>作者： Qiuping A. Wang</p>
+
+<p>摘要： 这项工作提供了一个数学工具直接从理念得到齐普夫帕累托定律，生活系统始终遵循他们的活动最省力的规则。为了实现这个想法在考虑到工作的输出以及一般的方式，我们引入了功能效率，而不是努力。该效率与最大的大量的该输出工作的主体的所有的系综的总产量的同时最大化。该齐普夫帕累托定律自然地从这个演算变化出来。这种效率提供了性能的可能措施。</p>
+
+<h3 id="agl-一个可扩展的系统用于工业用途的图机器学习">AGL：一个可扩展的系统用于工业用途的图机器学习</h3>
+
+<p>原文标题： AGL: a Scalable System for Industrial-purpose Graph Machine Learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2003.02454">http://arxiv.org/abs/2003.02454</a></p>
+
+<p>作者： Dalong Zhang, Xin Huang, Ziqi Liu, Zhiyang Hu, Xianzheng Song, Zhibang Ge, Zhiqiang Zhang, Lin Wang, Jun Zhou, Yuan Qi</p>
+
+<p>摘要： 机器学习曲线上已经逐渐成为强大的学习工具，图数据。但是，它是具有挑战性的工业社区充分利用技术，如图表神经网络（GNNS），解决因为在图表中固有的数据依赖于规模的现实问题。因此，我们不能简单地训练GNN与经典的学习系统，该假设数据并行实例参数服务器。现有系统中的图数据或者在单个机器或图表存储从远程存储在内存中的快速访问。主要缺点是在三倍。首先，他们不能，因为内存的容量，或图商店和工人之间的带宽上的限制规模。其次，他们需要图门店额外的开发没有很好利用成熟的基础设施，如MapReduce的是保证良好的系统属性。第三，重点培养，但忽视了推理图的优化，从而使他们的非集成系统。在本文中，我们设计AGL，一个可扩展的，容错性和集成系统，与GNNS全功能训练和推理。我们的系统设计遵循消息传递方案GNNS的计算基础。我们设计生成ķ -hop附近，对每个节点的信息完全子图，以及通过从边邻居合并值，并通过MapReduce的传播值，出边的邻居做了简单的推论。此外，ķ -hop附近包含每个节点的信息，完整的子图，所以我们简单地做参数服务器上的训练，由于数据的独立性。我们的系统AGL，成熟的基础设施来实现，可以在数十亿节点和千亿边在14个小时完成图的2层图注意网络的训练，并完成推理1.2小时。</p>
+
+<h3 id="谱聚类面对具有重叠结构网络的脆弱性">谱聚类面对具有重叠结构网络的脆弱性</h3>
+
+<p>原文标题： Fragility of spectral clustering for networks with an overlapping structure</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2003.02463">http://arxiv.org/abs/2003.02463</a></p>
+
+<p>作者： Chihiro Noguchi, Tatsuro Kawamoto</p>
+
+<p>摘要： 团体或社区，在真实世界的网络通常重叠。这是发展社区重叠检测方法的动机，因为对于非重叠社区的方法可能不执行。然而，用于非重叠社区检测方法劣化机理很少被理论研究。在这里，我们分析谱聚类，不考虑重叠结构，通过使用复制法从统计物理性能。我们上重叠随机块模型分析揭示了如何将结构信息是从领先的特征向量丢失，因为重叠的结构。</p>
+
+<h3 id="hadath-从社交媒体地图到多分辨率事件扩展地图">Hadath：从社交媒体地图到多分辨率事件扩展地图</h3>
+
+<p>原文标题： Hadath: From Social Media Mapping to Multi-Resolution Event-Enriched Maps</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2003.02615">http://arxiv.org/abs/2003.02615</a></p>
+
+<p>作者： Faizan Ur Rehman, Imad Afyouni, Ahmed Lbath, Saleh Basalamah</p>
+
+<p>摘要： 公开数据正在迅速增加，并会继续与技术，传感器，智能手机的发展和物联网的成长。来自多个来源的数据可以提高覆盖范围，并提供有关周边利益的事件和多点相关知识。数据的一个源的强度可以通过提供补充信息补偿另一个源的缺点。地图也越来越受欢迎一天按一天，人们用它来顺利，高效地实现他们的日常任务。从空白开始映射一百多年前，多类型的地图都可以与兴趣，实时交通更新或社交媒体显示微博的点。在本文中，我们介绍Hadath，一个系统，从各种可用数据源的兴趣显示多分辨率的现场活动。该系统已被设计成能够通过封装传入非结构化数据到通用数据分组来处理多个类型的输入。系统提取从通用数据包感兴趣的地方活动，并确定它们的时空范围，在地图上显示这样的事件，使当用户改变尺度级别，只显示适当的范围内活动。这使我们能够显示对应于规模来看现场活动 - 在城市规模观看时，我们看到的高影响力的事件，而在一个邻里变焦，更为地方利益的事件突出显示。最终的输出创造了一个独特和动态的地图浏览体验。最后，为了验证我们提出的系统中，我们进行了社交媒体数据的实验。</p>
+
+<h3 id="基于图的去中心化方法用于人类语言时的相变">基于图的去中心化方法用于人类语言时的相变</h3>
+
+<p>原文标题： Phase transitions in a decentralized graph-based approach to human language</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2003.02639">http://arxiv.org/abs/2003.02639</a></p>
+
+<p>作者： Javier Vera, Felipe Urbina, Wenceslao Palma</p>
+
+<p>摘要： 齐普夫定律建立了大型语料库字频率尺度行为。在人类语言Zipfian性质的出现为演讲者和听众的利益的最优化问题事先说明。在另一方面，类似人类的词汇可以被看作是二部图。本文的目的是双重：二分，图法对人的词汇中，提出了Zipfian特性的形成分散的语言博弈模式。要做到这一点，我们定义了一个语言博弈，其中人工坐席的群体参与理想化的语言互动。数值仿真表明的相变的从初始的无序状态的外观以三种可能的相对于语言的形成。我们的研究结果表明，在语言Zipfian性质似乎从赋有二分词意映射主体之间的分散化语言的交互部分出现。</p>
+
+<h3 id="用主方程建模推特主题标签的流行">用主方程建模推特主题标签的流行</h3>
+
+<p>原文标题： Modeling the Popularity of Twitter Hashtags with Master Equations</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2003.02672">http://arxiv.org/abs/2003.02672</a></p>
+
+<p>作者： Oscar Fontanelli, Ricardo Mansilla</p>
+
+<p>摘要： 在这项工作中，我们介绍了基于主方程来描述主题和主题标签的Twitter的社会网络的普及时间演化的模型。具体来说，我们建模某一主题标记出现在网络作为时间的函数的上的次数。在我们的模型中，这个量的行为取决于网络的度分布和外在的利益得到了社会各界的主题或主题标签。从主方程，我们能够得到的均值和方差明确的解决方案。我们提出了一个伽马内核函数的话题人气，这是很简单的，并产生合理的结果建模。最后，我们通过分析通过公共API获得的实际Twitter的数据验证模型的合理性。</p>
+
+<h3 id="erdos-renyi图的性质">Erdos-Renyi图的性质</h3>
+
+<p>原文标题： Properties of Erdos-Renyi Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2003.02673">http://arxiv.org/abs/2003.02673</a></p>
+
+<p>作者： Hang Chen, Vahan Hurovan, Stephen Kobourov</p>
+
+<p>摘要： 我们研究图属性，如直径，密度和集聚系数，而这些图属性之间的关系。而对于小个顶点的图，我们可以精确地计算出平均值，范围为每个感兴趣的财产，这成为不可行的大图。因此，我们分析图表的属性和使用的Erd ħö S-R &lsquo;恩义图表，其中模型以及底层的图空间的属性之间的关系。具体而言，我们专注于在图论和图挖掘利息13种性质。我们的数值研究这些性质的行为，为顶点数量的增加，对于艾尔德 ^ h ØS-R &lsquo;恩义模型，并与已知的理论界，在适用的情况比较结果。我们还使用线性和非线性模型基础上，其他属性来预测一个特定的属性。</p>
+
+<h3 id="epine-增强邻近信息网络嵌入">EPINE：增强邻近信息网络嵌入</h3>
+
+<p>原文标题： EPINE: Enhanced Proximity Information Network Embedding</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2003.02689">http://arxiv.org/abs/2003.02689</a></p>
+
+<p>作者： Luoyi Zhang, Ming Xu</p>
+
+<p>摘要： 无监督同质网络嵌入（NE）表示网络的每个顶点到低维向量，同时保持了网络信息。邻接矩阵保留大部分的网络信息，并直接charactrize一阶接近度。在这项工作中，我们致力于在更深层次的邻接矩阵挖掘有价值的信息。在相同的目的，许多NE方法计算由邻接矩阵，这是不准确的和精心设计的足够的功率高次接近。相反，我们建议重新界定高阶接近以更直观的方式。此外，我们设计了一个计算新算法，这减轻了精确计算高阶接近领域的可扩展性问题。现实世界的网络数据集综合性实验证明下游机器学习任务，如网络改造，链路预测和节点分类我们方法的有效性。</p>
+
+<h3 id="使用广义主导树解释图的多粒度性">使用广义主导树解释图的多粒度性</h3>
+
+<p>原文标题： The Multi-granularity in Graph Revealed by a Generalized Leading Tree</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2003.02708">http://arxiv.org/abs/2003.02708</a></p>
+
+<p>作者： Shun Fu, Ji Xu</p>
+
+<p>摘要： 有网络分层的特点，以及如何有效地揭示了网络中的分层特性是网络结构的研究问题。如果一个节点被分配给它所属的社区，如何将社区分配给社会，它属于是一个问题的一个更高的水平。在本文中，数据点的密度基于聚类任务的影响。通过形成的数据点的密度，数据点的分层差异的构造。与数据点之间的距离的组合，基于密度的领先树可以构造。但是，在一个图结构，它是建立领先树显示图上的节点的层次关系的问题。基于树的形成基于密度的方法中，本文延伸导致树图中的节点的分层结构的模型，论述图节点的重要性，并形成主导树，可以揭示图节点和所述的层次结构社区的依赖。实验是在真实数据组进行的，并且在实验中形成的树结构。该图领先树能很好地揭示图结构的层次关系。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20200306/">https://www.complexly.cn/post/20200306/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20200305/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要9篇(2020-03-05)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

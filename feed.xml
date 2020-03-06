@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2020-03-06)</title>
+      <link>https://www.complexly.cn/post/20200306/</link>
+      <pubDate>Fri, 06 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200306/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;从稀疏数据半监督学习因子化图表示;&lt;/li&gt;
+&lt;li&gt;知识图谱;&lt;/li&gt;
+&lt;li&gt;全球供应链网络的蝴蝶结结构和社区识别;&lt;/li&gt;
+&lt;li&gt;推导齐普夫定律——最省力原则VS最高效率;&lt;/li&gt;
+&lt;li&gt;AGL：一个可扩展的系统用于工业用途的图机器学习;&lt;/li&gt;
+&lt;li&gt;谱聚类面对具有重叠结构网络的脆弱性;&lt;/li&gt;
+&lt;li&gt;Hadath：从社交媒体地图到多分辨率事件扩展地图;&lt;/li&gt;
+&lt;li&gt;基于图的去中心化方法用于人类语言时的相变;&lt;/li&gt;
+&lt;li&gt;用主方程建模推特主题标签的流行;&lt;/li&gt;
+&lt;li&gt;Erdos-Renyi图的性质;&lt;/li&gt;
+&lt;li&gt;EPINE：增强邻近信息网络嵌入;&lt;/li&gt;
+&lt;li&gt;使用广义主导树解释图的多粒度性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2020-03-05)</title>
