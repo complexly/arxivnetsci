@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 10 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2020-03-11)</title>
+      <link>https://www.complexly.cn/post/20200311/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200311/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;全球制药业的药物流程多层网络分析;&lt;/li&gt;
+&lt;li&gt;从树中选择替代历史;&lt;/li&gt;
+&lt;li&gt;基于邻居信息的网络分解概率算法;&lt;/li&gt;
+&lt;li&gt;使用图神经网络进行主数据管理链路预测;&lt;/li&gt;
+&lt;li&gt;功能连接模型中分层网络组织的持久性和涌现的拓扑;&lt;/li&gt;
+&lt;li&gt;使用内容和活动特点基于机器学习方法检测Twitter抑郁症;&lt;/li&gt;
+&lt;li&gt;一个开源的面向API的无监督图学习Python框架;&lt;/li&gt;
+&lt;li&gt;网络上的采样：估计谱中心性的度量及其对评估其他相关网络度量的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要20篇(2020-03-10)</title>
