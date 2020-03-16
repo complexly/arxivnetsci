@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2020-03-16)</title>
+      <link>https://www.complexly.cn/post/20200316/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200316/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多层网络移动性影响下的SIS流行病模型;&lt;/li&gt;
+&lt;li&gt;学习有限标记数据的图嵌入：一种有效的采样方法;&lt;/li&gt;
+&lt;li&gt;NesTPP：在线讨论论坛中的线程动态建模;&lt;/li&gt;
+&lt;li&gt;比特币交易网络的快照采样和加密货币增长分析;&lt;/li&gt;
+&lt;li&gt;错误的社会信息对人类集体智慧的影响;&lt;/li&gt;
+&lt;li&gt;使用词嵌入来改善共现文本网络的可分辨性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2020-03-13)</title>
