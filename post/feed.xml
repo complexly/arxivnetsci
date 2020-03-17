@@ -7,10 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要25篇(2020-03-17)</title>
+      <link>https://www.complexly.cn/post/20200317/</link>
+      <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200317/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;COVID-19疫情是否可以根据每日数据进行管理？;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行演变中的症状前传播;&lt;/li&gt;
+&lt;li&gt;Covid-19传播：在欧几里得网络上使用SIR模型进行数据再现和预测;&lt;/li&gt;
+&lt;li&gt;数据驱动的接触结构：从均匀混合到多层网络;&lt;/li&gt;
+&lt;li&gt;城市间移动对中国人口空间分布的影响;&lt;/li&gt;
+&lt;li&gt;市场状态：新的认识;&lt;/li&gt;
+&lt;li&gt;复杂动态网络上的有效通信：矩阵非正规性的作用;&lt;/li&gt;
+&lt;li&gt;使用一跳线性模型的简单有效图自动编码器;&lt;/li&gt;
+&lt;li&gt;互补驱动网络的潜在几何;&lt;/li&gt;
+&lt;li&gt;基于边的有效方法促进SIR模型的传播;&lt;/li&gt;
+&lt;li&gt;交通流多发性紊乱;&lt;/li&gt;
+&lt;li&gt;交流少量意见胜过分享大量人群汇总的意见;&lt;/li&gt;
+&lt;li&gt;自私的徒劳——自私路由对无协调和优化的运输网络的影响;&lt;/li&gt;
+&lt;li&gt;名人能刺破你的泡沫吗？;&lt;/li&gt;
+&lt;li&gt;消除人群的偏见：选择性地交换社会信息可改善集体决策;&lt;/li&gt;
+&lt;li&gt;多阶段流程的对抗编码器-多任务-解码器;&lt;/li&gt;
+&lt;li&gt;替代程度：家用光伏电池续用量对公用事业发电和存储的影响;&lt;/li&gt;
+&lt;li&gt;网络中意见动态的对抗性扰动;&lt;/li&gt;
+&lt;li&gt;用于推荐系统的深度神经网络审阅文本交互;&lt;/li&gt;
+&lt;li&gt;合并-拆分的马尔可夫链蒙特卡洛方法用于社区检测;&lt;/li&gt;
+&lt;li&gt;使用无网络数据的人口行为快照对大型社会网络进行推断和影响;&lt;/li&gt;
+&lt;li&gt;SocialGrid：TCN增强的在线讨论预测方法;&lt;/li&gt;
+&lt;li&gt;人类移动网络的流描述符;&lt;/li&gt;
+&lt;li&gt;集体风险困境中的时间不确定性鼓励团体互惠和极化;&lt;/li&gt;
+&lt;li&gt;通过在超词袋图上基于通用偏误交换的扩散来调整共现网络中的排名;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2020-03-16)</title>
