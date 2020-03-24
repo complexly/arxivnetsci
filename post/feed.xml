@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2020-03-24)</title>
+      <link>https://www.complexly.cn/post/20200324/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200324/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;采取缓解措施来防止芝加哥ICU因COVID-19容量溢出的机会窗口;&lt;/li&gt;
+&lt;li&gt;快速多次流行病干预措施用于封城后适应：简单Covid-19模型的启示;&lt;/li&gt;
+&lt;li&gt;COVID-19传播的网络结构和印度测试策略的缺陷;&lt;/li&gt;
+&lt;li&gt;通过挖掘多语言Twitter数据集了解对COVID-19政策的感知;&lt;/li&gt;
+&lt;li&gt;COVID-19攻击率随城市规模增加;&lt;/li&gt;
+&lt;li&gt;Moran过程中具有不同连接图的突变体和居民;&lt;/li&gt;
+&lt;li&gt;简单复形的高阶谱：重整化群方法;&lt;/li&gt;
+&lt;li&gt;在线社会网络中实现时间感知上下文感知深度信任预测;&lt;/li&gt;
+&lt;li&gt;尺度的变化：Twitter数据采样下的测量保真度;&lt;/li&gt;
+&lt;li&gt;高阶同步稳定性的多阶Laplacian框架;&lt;/li&gt;
+&lt;li&gt;智能停车：使用AI识别温哥华的停车效率低下;&lt;/li&gt;
+&lt;li&gt;人类驾驶的博弈模型及其在任意车道变更中的应用;&lt;/li&gt;
+&lt;li&gt;影响力最大化的解分布：三种算法方法的高级实验研究;&lt;/li&gt;
+&lt;li&gt;节点边协同演化的深度多属性图转换;&lt;/li&gt;
+&lt;li&gt;电力需求预测中的知识映射：科学计量学的见解;&lt;/li&gt;
+&lt;li&gt;基于arXiv概念网络中科学创新的嵌入技术和网络分析;&lt;/li&gt;
+&lt;li&gt;不对称的党派投票博弈;&lt;/li&gt;
+&lt;li&gt;熵量度里约热内卢都会区吸引力和社会经济复杂性;&lt;/li&gt;
+&lt;li&gt;全局思考，局部行动：关于非次模影响力最大化的最佳种子;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2020-03-23)</title>
