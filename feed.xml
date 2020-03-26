@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 25 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要18篇(2020-03-26)</title>
+      <link>https://www.complexly.cn/post/20200326/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200326/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;针对COVID-19的人工智能应用全景;&lt;/li&gt;
+&lt;li&gt;基于对中国四个疫情最严重地区和意大利五个疫情最严重地区的研究，冠状病毒疾病传播（COVID-19）与环境因素之间的关系的统计调查;&lt;/li&gt;
+&lt;li&gt;SEIR模型中COVID 19社区传播的管理策略;&lt;/li&gt;
+&lt;li&gt;关于意大利COVID-19流行病的一些数值观察;&lt;/li&gt;
+&lt;li&gt;哥伦比亚波哥大的人们发表了什么冠状病毒相关症状的帖子？;&lt;/li&gt;
+&lt;li&gt;交通网络中的流量优化过程;&lt;/li&gt;
+&lt;li&gt;惩罚背叛者和奖励合作者：人们是否区分性别？;&lt;/li&gt;
+&lt;li&gt;新度量显示图社区对脑电图假阳性的鲁棒性;&lt;/li&gt;
+&lt;li&gt;Covid-19英语推文：性别差异;&lt;/li&gt;
+&lt;li&gt;大规模网络分析显示了受害和观察的作弊传播;&lt;/li&gt;
+&lt;li&gt;复杂系统的隐藏脆弱性——变化的后果，变化中的后果;&lt;/li&gt;
+&lt;li&gt;量化实际网络流量中的有效信息交换;&lt;/li&gt;
+&lt;li&gt;扩散作为病毒感染传播的第一个模型;&lt;/li&gt;
+&lt;li&gt;BaitWatcher：一个轻量级的Web界面，用于检测不一致的新闻标题;&lt;/li&gt;
+&lt;li&gt;废弃核电厂环境影响的时空贝叶斯分析;&lt;/li&gt;
+&lt;li&gt;人类财富演变：趋势与波动;&lt;/li&gt;
+&lt;li&gt;利用深度学习识别Twitter数据中的毒品使用;&lt;/li&gt;
+&lt;li&gt;社交物联网系统的自动服务发现;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-03-25)</title>
