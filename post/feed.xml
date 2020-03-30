@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2020-03-30)</title>
+      <link>https://www.complexly.cn/post/20200330/</link>
+      <pubDate>Mon, 30 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200330/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;宏观规律如何描述复杂动力学：无症状人群和CoviD-19传播;&lt;/li&gt;
+&lt;li&gt;α-Satellite：一个AI驱动的系统和基准数据集，用于社区分层风险评估，以帮助应对COVID-19;&lt;/li&gt;
+&lt;li&gt;COVID-19传输的温度依赖性;&lt;/li&gt;
+&lt;li&gt;自我隔离与边境封锁：什么能更好地阻止流行病传播？;&lt;/li&gt;
+&lt;li&gt;社交媒体上的冠状病毒：分析Twitter对话中的不实信息;&lt;/li&gt;
+&lt;li&gt;巴西COVID-19演变的数据分析和建模;&lt;/li&gt;
+&lt;li&gt;转发还是不转发：使用恶意软件引起误解以秘密操纵Twitter疫苗辩论;&lt;/li&gt;
+&lt;li&gt;社会技术惯例的网络动态;&lt;/li&gt;
+&lt;li&gt;整合众包和主动学习对推文的工作生活事件分类;&lt;/li&gt;
+&lt;li&gt;复杂网络中的最短路径：结构和优化;&lt;/li&gt;
+&lt;li&gt;复杂网络数据驱动控制;&lt;/li&gt;
+&lt;li&gt;模块化在生物网络自组织动力学中的作用;&lt;/li&gt;
+&lt;li&gt;最小直径的无标度图的结构特性和平均捕获时间;&lt;/li&gt;
+&lt;li&gt;西班牙第一个殖民地小镇的城市规划：拉古纳的圣克里斯托瓦尔城历史悠久的教堂的方向;&lt;/li&gt;
+&lt;li&gt;重访科学精英：生产力，协作，作者和影响的模式;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2020-03-27)</title>
