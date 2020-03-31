@@ -7,10 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要23篇(2020-03-31)</title>
+      <link>https://www.complexly.cn/post/20200331/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200331/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;流行病传播的可求解延迟模型：以意大利Covid-19为例;&lt;/li&gt;
+&lt;li&gt;依赖距离连通性的空间网络上的流行病传播;&lt;/li&gt;
+&lt;li&gt;全球集体注意力如何关注大流行：Twitter上COVID-19相关的24种语言1-gram时间序列;&lt;/li&gt;
+&lt;li&gt;关于意大利Covid-19的演变：后续说明;&lt;/li&gt;
+&lt;li&gt;基于主体的动态洪水-人互动模拟器;&lt;/li&gt;
+&lt;li&gt;化身工作：使用化身机器人“ OriHime-D”及其验证让无法出门的残疾人远程工作;&lt;/li&gt;
+&lt;li&gt;低秩表示法不适用于三角形丰富的复杂网络;&lt;/li&gt;
+&lt;li&gt;拓扑和内容协同图卷积学习;&lt;/li&gt;
+&lt;li&gt;使用稀疏控制输入的Erdos-Renyi图中网络意见的可控性;&lt;/li&gt;
+&lt;li&gt;时间序列中的时间相关性，反问题和球形模型之间的对应关系;&lt;/li&gt;
+&lt;li&gt;带有非对角线收益扰动的两难博弈中的策略均衡;&lt;/li&gt;
+&lt;li&gt;使用多种分类技术的标题钓鱼检测;&lt;/li&gt;
+&lt;li&gt;基于Roy适应模型的文献计量研究分析：对护理的贡献;&lt;/li&gt;
+&lt;li&gt;两层动态多路网络上的囚徒困境对称性破缺;&lt;/li&gt;
+&lt;li&gt;海事网络科学中的模块化网关连接性和结构性核心组织;&lt;/li&gt;
+&lt;li&gt;图博弈与分解;&lt;/li&gt;
+&lt;li&gt;可分离博弈;&lt;/li&gt;
+&lt;li&gt;基于信任的协同过滤图嵌入的经验比较;&lt;/li&gt;
+&lt;li&gt;基于空间句法和神经网络的旅游景点道路拥挤评价模型研究——以厦门鼓浪屿为例;&lt;/li&gt;
+&lt;li&gt;使用新闻文章和财务数据来预测破产的可能性;&lt;/li&gt;
+&lt;li&gt;足球传球网络的致命弱点;&lt;/li&gt;
+&lt;li&gt;基于新的中心性指标和新的模块性函数的复杂网络社区检测;&lt;/li&gt;
+&lt;li&gt;通过习惯的力量：动态效用地形中的自我陷阱;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2020-03-30)</title>
