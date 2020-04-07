@@ -7,10 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要23篇(2020-04-07)</title>
+      <link>https://www.complexly.cn/post/20200407/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200407/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;城市间移动网络的健壮性分析：将市、州和联邦行动建模为失效和攻击;&lt;/li&gt;
+&lt;li&gt;神经网络辅助全球Covid-19传播的隔离控制模型估计;&lt;/li&gt;
+&lt;li&gt;基于iSEIR模型的中国COVID-19传播暴发关键转折期的预测框架;&lt;/li&gt;
+&lt;li&gt;纽约州各县COVID 19爆发时间表的分析;&lt;/li&gt;
+&lt;li&gt;Twitter社会移动指数：根据带地理位置推文衡量社会隔离实践;&lt;/li&gt;
+&lt;li&gt;疾病大流行的民粹主义：替代新闻媒体的Facebook页面和冠状病毒危机——计算内容分析;&lt;/li&gt;
+&lt;li&gt;路易斯安那州COVID-19的发展预测;&lt;/li&gt;
+&lt;li&gt;流行病风险评估的新方法：意大利COVID-19疫情爆发案例;&lt;/li&gt;
+&lt;li&gt;COVID-19：非均匀随机社会网络上的传染分析;&lt;/li&gt;
+&lt;li&gt;用于COVID-19社会科学研究的开放获取机构和新闻媒体推特数据集;&lt;/li&gt;
+&lt;li&gt;量化社交媒体上的谣言传播;&lt;/li&gt;
+&lt;li&gt;利用多源弱社会监督及早发现虚假新闻;&lt;/li&gt;
+&lt;li&gt;侵略性、重复性、故意性、可见性和不平衡性：完善网络欺凌分类的表示形式;&lt;/li&gt;
+&lt;li&gt;关于人群拥挤程度的一些考虑;&lt;/li&gt;
+&lt;li&gt;中国股市崩盘的流动性不足网络;&lt;/li&gt;
+&lt;li&gt;命名博弈动力学全景：从特质竞争到贝叶斯推理;&lt;/li&gt;
+&lt;li&gt;从数据推断网络结构;&lt;/li&gt;
+&lt;li&gt;隐私阴影：随着时间的推移测量节点的可预测性和隐私;&lt;/li&gt;
+&lt;li&gt;设计和连接检查来自用户-项目评分数据的隐式社会网络;&lt;/li&gt;
+&lt;li&gt;网页爬取中的变化率估计和最佳新鲜度;&lt;/li&gt;
+&lt;li&gt;通过对抗图卷积网络增强社会推荐;&lt;/li&gt;
+&lt;li&gt;eBay的移动指标检测和预警系统;&lt;/li&gt;
+&lt;li&gt;复杂网络上的二元动力学：随机成对逼近和超越;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2020-04-06)</title>
