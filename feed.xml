@@ -7,10 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要25篇(2020-04-10)</title>
+      <link>https://www.complexly.cn/post/20200410/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200410/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用时变相遇网络模拟公共交通中的流行病传播;&lt;/li&gt;
+&lt;li&gt;集中式和分布式隔离策略及其对COVID-19大流行动态的影响;&lt;/li&gt;
+&lt;li&gt;地理学和人口统计学之间：Covid-19的关键相互依赖性和退出机制;&lt;/li&gt;
+&lt;li&gt;英国COVID-19流行病的通用概率模型和非均质性问题;&lt;/li&gt;
+&lt;li&gt;流行病的传播与GDP有关吗？可视化COVID-19在中国大陆的分布;&lt;/li&gt;
+&lt;li&gt;测量COVID-19现实世界忧虑数据集的情绪;&lt;/li&gt;
+&lt;li&gt;用逆流行病学评估预防性检疫的影响;&lt;/li&gt;
+&lt;li&gt;通过测量时间依赖的加倍时间评估Covid-19遏制的效率;&lt;/li&gt;
+&lt;li&gt;全球COVID-19传播的非药物干预措施的情景分析;&lt;/li&gt;
+&lt;li&gt;绘制应对COVID-19的美国县级流动模式变化;&lt;/li&gt;
+&lt;li&gt;CovidSens：基于可靠社会感知的COVID-19传播风险预警系统的愿景;&lt;/li&gt;
+&lt;li&gt;信息寻求对本地COVID-19病例新闻响应：来自Internet搜索数据的证据;&lt;/li&gt;
+&lt;li&gt;短事件间隔时间控制着含时网络上的流行病传播;&lt;/li&gt;
+&lt;li&gt;COVID-19上的大型阿拉伯语Twitter数据集;&lt;/li&gt;
+&lt;li&gt;能源政策法案生效后，由于夏令时造成的交通事故增加一倍;&lt;/li&gt;
+&lt;li&gt;通过自然语言处理和机器学习增强分布式同行评审;&lt;/li&gt;
+&lt;li&gt;极端主义意识形态是一个复杂的传染病：极右翼激进主义在美国2005-2017年间的蔓延;&lt;/li&gt;
+&lt;li&gt;超高层建筑疏散性能决定因素的实验研究;&lt;/li&gt;
+&lt;li&gt;在不同个体的功能性大脑网络中检测动态社区结构：多层方法;&lt;/li&gt;
+&lt;li&gt;对亚洲移民态度的网络分析;&lt;/li&gt;
+&lt;li&gt;使用社区的马尔可夫分配推断随机块模型;&lt;/li&gt;
+&lt;li&gt;可观察性会增强对道德框架的敏感性吗？评估基于声誉的道德偏好账户;&lt;/li&gt;
+&lt;li&gt;PANDORA对话：Reddit上的个性和人口统计;&lt;/li&gt;
+&lt;li&gt;暴力音乐与暴力和音乐：伦敦的说唱和暴力犯罪;&lt;/li&gt;
+&lt;li&gt;多重网络的启发式链路预测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2020-04-09)</title>
