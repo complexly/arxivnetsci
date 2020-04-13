@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2020-04-13)</title>
+      <link>https://www.complexly.cn/post/20200413/</link>
+      <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200413/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Covid-19透明预测;&lt;/li&gt;
+&lt;li&gt;基于深度学习的框架，用于处理DGA，电子邮件和URL数据分析中的不平衡;&lt;/li&gt;
+&lt;li&gt;外来冲击导致在线讨论中的响应增强和情感弹性变化;&lt;/li&gt;
+&lt;li&gt;Friend或Faux：基于图的社会网络上虚假帐户的早期检测;&lt;/li&gt;
+&lt;li&gt;从航空影像推断的城市格局的社会经济相关性：解释卷积神经网络的激活图;&lt;/li&gt;
+&lt;li&gt;社会文化变量对网上讽刺交流的影响;&lt;/li&gt;
+&lt;li&gt;心理健康平台上的点对点互动参与模式;&lt;/li&gt;
+&lt;li&gt;石头剪刀布模型最简单泛化为四个物种时弱物种的表现;&lt;/li&gt;
+&lt;li&gt;具有可变自旋/主体强度的Ising模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要25篇(2020-04-10)</title>
