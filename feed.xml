@@ -7,10 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要23篇(2020-04-14)</title>
+      <link>https://www.complexly.cn/post/20200414/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200414/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;COVID-19流行期间因流动限制而造成经济隔离的证据;&lt;/li&gt;
+&lt;li&gt;理解COVID-19早期的美国社会经济扰动;&lt;/li&gt;
+&lt;li&gt;基于物理过程的参数化模型用于研究COVID-19流行病的传播;&lt;/li&gt;
+&lt;li&gt;流行病到达时间；理论，讨论与局限;&lt;/li&gt;
+&lt;li&gt;舆论传播动力学的最新进展：2020年综述;&lt;/li&gt;
+&lt;li&gt;WES：实际基础架构基于主体的用户交互模拟;&lt;/li&gt;
+&lt;li&gt;使用复杂网络分析提取地震时间序列中的相关性;&lt;/li&gt;
+&lt;li&gt;具有指定度数和维数序列的超图的构造和随机生成;&lt;/li&gt;
+&lt;li&gt;迈向B-TAMBiT：带单词和双语测试调节器的反向翻译;&lt;/li&gt;
+&lt;li&gt;城市街道网络的多重分形标度分析：以中国十二个特大城市为例;&lt;/li&gt;
+&lt;li&gt;连续利润最大化：无约束Dr-次模最大化的研究;&lt;/li&gt;
+&lt;li&gt;探索基于随机游走的小批量选择策略对知识图谱补全的影响;&lt;/li&gt;
+&lt;li&gt;谁是政治高音喇叭？，政治高音喇叭与非政治性人物高音喇叭的人口比较;&lt;/li&gt;
+&lt;li&gt;在线社区违反规范-Stack Overflow评论研究;&lt;/li&gt;
+&lt;li&gt;行为变化及其对知名度提升的影响：微博从精英到大众;&lt;/li&gt;
+&lt;li&gt;深度地震全球序列的长期相关性研究;&lt;/li&gt;
+&lt;li&gt;离散主体人口信息网络中的社区结构;&lt;/li&gt;
+&lt;li&gt;具有间接传输链接和有限联系信息的动态网络上的疫苗接种策略;&lt;/li&gt;
+&lt;li&gt;在线产品评论中检测和鉴定极端主义评论者组;&lt;/li&gt;
+&lt;li&gt;通过延迟优化含时图中的可达性集;&lt;/li&gt;
+&lt;li&gt;回归基础：使用结构信息对科学文献进行聚类;&lt;/li&gt;
+&lt;li&gt;paper2repo：学术论文的GitHub存储库推荐;&lt;/li&gt;
+&lt;li&gt;mFLICA：从时间序列推断协调领导力的R包;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2020-04-13)</title>
