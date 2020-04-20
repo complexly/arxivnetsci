@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要18篇(2020-04-20)</title>
+      <link>https://www.complexly.cn/post/20200420/</link>
+      <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200420/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;自适应活动驱动网络上流行病的主动和非主动隔离;&lt;/li&gt;
+&lt;li&gt;冠状病毒病（COVID-19）大流行的社会经济决定因素;&lt;/li&gt;
+&lt;li&gt;女人担心家庭，男人担心经济：对COVID-19的情感反应中的性别差异;&lt;/li&gt;
+&lt;li&gt;Covid-19流行病演变的模拟：隔室模型真的具有预测性吗？;&lt;/li&gt;
+&lt;li&gt;控制COVID-19流行病接触率：一种平衡的观点;&lt;/li&gt;
+&lt;li&gt;COVID-19：爆发较大时R0较低;&lt;/li&gt;
+&lt;li&gt;Barabasi-Albert网络上的扩散流行过程;&lt;/li&gt;
+&lt;li&gt;NAIST COVID：多语言COVID-19 Twitter和微博数据集;&lt;/li&gt;
+&lt;li&gt;SIR流行病模型的精确闭式解;&lt;/li&gt;
+&lt;li&gt;r-K平面中的网络重连;&lt;/li&gt;
+&lt;li&gt;服务的共同生产：使用Hawkes过程建模联系中心服务时间;&lt;/li&gt;
+&lt;li&gt;量子素养对未来教育和跨学科问题解决的挑战和机遇;&lt;/li&gt;
+&lt;li&gt;使用深度学习和图分析方法的推荐系统;&lt;/li&gt;
+&lt;li&gt;以太坊区块链上的ERC20交易：网络分析和预测;&lt;/li&gt;
+&lt;li&gt;用金融新闻模拟机构信用风险;&lt;/li&gt;
+&lt;li&gt;现代社会网络中的修饰的大规模分析;&lt;/li&gt;
+&lt;li&gt;利用定位技术平台的移动流测试大城市的犯罪模式理论;&lt;/li&gt;
+&lt;li&gt;加权二部图最大覆盖范围的置信度传播及其在文本摘要中的应用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-04-17)</title>
@@ -29,7 +59,7 @@
 &lt;li&gt;可持续食谱。一种食品食谱采购和推荐系统以最大程度地减少食品运输里程;&lt;/li&gt;
 &lt;li&gt;使用大规模基于主体的模型解释城市住房市场周期性价格动态中的羊群效应和波动性;&lt;/li&gt;
 &lt;li&gt;可信网络空间的在线社交欺骗及其对策：一项综述;&lt;/li&gt;
-&lt;li&gt;总线频率优化：等待时间在用户满意度中很重要;&lt;/li&gt;
+&lt;li&gt;公交频率优化：等待时间在用户满意度中很重要;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
