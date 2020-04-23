@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2020-04-23)</title>
+      <link>https://www.complexly.cn/post/20200423/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200423/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会隔离下的疾病传播：无序多重网络中的预防策略;&lt;/li&gt;
+&lt;li&gt;高阶网络传染动力学中观局部化的主方程分析;&lt;/li&gt;
+&lt;li&gt;在旁观者眼中：对社交媒体使用COVID-19的中性和争议性术语的情感和主题分析;&lt;/li&gt;
+&lt;li&gt;具有自训练功能的域引导任务分解，用于检测社交媒体中的个人事件;&lt;/li&gt;
+&lt;li&gt;活动的爆发：在线心理健康论坛中寻求帮助和支持的时间模式;&lt;/li&gt;
+&lt;li&gt;通过排序汇总缓解推荐偏差;&lt;/li&gt;
+&lt;li&gt;愤怒使假新闻在线传播;&lt;/li&gt;
+&lt;li&gt;从不完整网络和非线性动力学推断度;&lt;/li&gt;
+&lt;li&gt;社交媒体数据在城市规划中的潜力：巴西库里提巴啤酒街的发现;&lt;/li&gt;
+&lt;li&gt;ktrain：增强型机器学习的低代码库;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要23篇(2020-04-22)</title>
