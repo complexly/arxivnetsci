@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2020-04-24)</title>
+      <link>https://www.complexly.cn/post/20200424/</link>
+      <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200424/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;针对意大利COVID-19传染病的手机数据分析：国家封锁期间的流动多样性和本地就业市场;&lt;/li&gt;
+&lt;li&gt;接触追踪：COVID-19时代的大数博弈;&lt;/li&gt;
+&lt;li&gt;COVID-19传播动力学的数学建模——以武汉市为例;&lt;/li&gt;
+&lt;li&gt;基于网络特征提取的团队绩效评估模型;&lt;/li&gt;
+&lt;li&gt;使用人类流动性数据量化极端冲击对企业的经济影响：贝叶斯因果推断方法;&lt;/li&gt;
+&lt;li&gt;群组级别的选择避免了公地悲剧;&lt;/li&gt;
+&lt;li&gt;利用通用二阶模型估算道路网络上的排放;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2020-04-23)</title>
