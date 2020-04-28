@@ -7,10 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要33篇(2020-04-28)</title>
+      <link>https://www.complexly.cn/post/20200428/</link>
+      <pubDate>Tue, 28 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200428/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;COVID-19大流行期间共享自行车使用的时空分析：以北京为例;&lt;/li&gt;
+&lt;li&gt;决策与疾病：大流行病中合作的演变;&lt;/li&gt;
+&lt;li&gt;如何恢复正常：通过使用移动设备的接近感应快速而全面地跟踪COVID-19的接触;&lt;/li&gt;
+&lt;li&gt;如何重启？基于主体的模拟模型，用于定义公共建筑中COVID-19“第二阶段”的策略;&lt;/li&gt;
+&lt;li&gt;加总COVID-19增长率的系统偏差;&lt;/li&gt;
+&lt;li&gt;具有城际网络耦合效应的COVID-19分数阶SEIHDR模型;&lt;/li&gt;
+&lt;li&gt;论COVID-19案例分布的幂律涌现;&lt;/li&gt;
+&lt;li&gt;使用基于主体的社会模拟分析冠状病毒大流行对健康、社会和经济的综合影响;&lt;/li&gt;
+&lt;li&gt;预测COVID-19的SUIR模型全局动力学;&lt;/li&gt;
+&lt;li&gt;互动热点的动力学-I;&lt;/li&gt;
+&lt;li&gt;互动热点的动力学-II;&lt;/li&gt;
+&lt;li&gt;COVID-19的感染率估算和初始感染个体的预测;&lt;/li&gt;
+&lt;li&gt;分数SIS流行病模型及其解;&lt;/li&gt;
+&lt;li&gt;第一个COVID-19的Instagram数据集;&lt;/li&gt;
+&lt;li&gt;主体级大流行模拟（ALPS），用于分析锁定措施的效果;&lt;/li&gt;
+&lt;li&gt;为什么要封城：SARS-CoV-2在印度传播的网络方法;&lt;/li&gt;
+&lt;li&gt;使用Google趋势评估冠状病毒锁定对不快乐、孤独和无聊的影响;&lt;/li&gt;
+&lt;li&gt;HIV传播的SICA模型;&lt;/li&gt;
+&lt;li&gt;带累积过采样的快速汤普森采样算法：预算影响最大化的应用;&lt;/li&gt;
+&lt;li&gt;使用块模型的社会困境决策的最优预测和模型选择;&lt;/li&gt;
+&lt;li&gt;DAN-SNR：用于考虑社交关系的下一个兴趣点推荐的深度注意力网络;&lt;/li&gt;
+&lt;li&gt;大规模有向网络的随机谱共聚;&lt;/li&gt;
+&lt;li&gt;一种基于命名实体的食谱建模方法;&lt;/li&gt;
+&lt;li&gt;互联网人类基础设施：从哈瓦那StreetNet学到的;&lt;/li&gt;
+&lt;li&gt;引用级联与主题相关性的演变;&lt;/li&gt;
+&lt;li&gt;世界美食的分层聚类;&lt;/li&gt;
+&lt;li&gt;烹饪食谱中的营养成分估算;&lt;/li&gt;
+&lt;li&gt;计算法律文件相似性的方法：比较研究;&lt;/li&gt;
+&lt;li&gt;级联LSTM：使用深度神经网络预测信息级联;&lt;/li&gt;
+&lt;li&gt;关于Instagram上的多模式受欢迎程度预测的局限性-新的稳健、有效和可解释的基准;&lt;/li&gt;
+&lt;li&gt;Twitter上主题标签的尺度律和动态;&lt;/li&gt;
+&lt;li&gt;时间网络中的记忆形状;&lt;/li&gt;
+&lt;li&gt;多重马尔可夫链;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2020-04-27)</title>
