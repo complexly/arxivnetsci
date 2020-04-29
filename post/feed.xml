@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 28 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要20篇(2020-04-29)</title>
+      <link>https://www.complexly.cn/post/20200429/</link>
+      <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200429/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;COVID-19大流行而导致的全球CO2排放量减少;&lt;/li&gt;
+&lt;li&gt;传染病传播下的财富分配;&lt;/li&gt;
+&lt;li&gt;减少COVID-19测试数量同时最大化收益;&lt;/li&gt;
+&lt;li&gt;基于移动性的大流行病SIR模型-以COVID-19为例;&lt;/li&gt;
+&lt;li&gt;反馈SIR（fSIR）模型突出了基于感染的社会距离的优势和局限性;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行中普及口罩迫在眉睫：基于SEIR和主体的模型、经验验证、政策建议;&lt;/li&gt;
+&lt;li&gt;调查印度封城后COVID-19大流行的动态;&lt;/li&gt;
+&lt;li&gt;针对COVID19供应链危机的低技术解决方案;&lt;/li&gt;
+&lt;li&gt;意大利COVID-19：基于省份进行分析的应用程序;&lt;/li&gt;
+&lt;li&gt;基于主体的实证模型对公交拥堵干预策略的分析与仿真;&lt;/li&gt;
+&lt;li&gt;同配性对异质主体共识形成的影响;&lt;/li&gt;
+&lt;li&gt;在Twitter叙事中量化潜在的道德基础：叙利亚白盔不实信息的案例;&lt;/li&gt;
+&lt;li&gt;具有非线性动力学的复杂网络中弹性的不确定性;&lt;/li&gt;
+&lt;li&gt;DTCA：基于决策树的可解释声明验证共同注意网络;&lt;/li&gt;
+&lt;li&gt;模拟退火用于现实网络的树分解;&lt;/li&gt;
+&lt;li&gt;将耦合的时间序列映射到复杂网络;&lt;/li&gt;
+&lt;li&gt;相关随机增长图;&lt;/li&gt;
+&lt;li&gt;问的越多，得到越少：协作超载对表现的负面影响;&lt;/li&gt;
+&lt;li&gt;健康相关的数学模型中可能包含临床概念;&lt;/li&gt;
+&lt;li&gt;不要误会我：比较在线讨论中的意图和看法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要33篇(2020-04-28)</title>
