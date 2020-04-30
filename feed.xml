@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2020-04-30)</title>
+      <link>https://www.complexly.cn/post/20200430/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200430/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;美国人口与发展的空间网络连通性及其对疾病传播的影响;&lt;/li&gt;
+&lt;li&gt;让航运系统进入睡眠状态：通过乘客生成的数据衡量的乘客视角;&lt;/li&gt;
+&lt;li&gt;COVID-19应该受到混合约束的抑制——来自约束无标度网络的仿真;&lt;/li&gt;
+&lt;li&gt;CoronaVis：实时COVID-19 Tweets分析器;&lt;/li&gt;
+&lt;li&gt;利用分形思想对城市形态指标进行归一化和分类;&lt;/li&gt;
+&lt;li&gt;Twitter主页上的隐私保护推荐系统挑战;&lt;/li&gt;
+&lt;li&gt;在复杂的供应网络中，个体水平的演化体现了群体水平的尺度律;&lt;/li&gt;
+&lt;li&gt;所有技术的技术进步率估算：专利数据的使用和扩展域说明;&lt;/li&gt;
+&lt;li&gt;基于一体化政治经济体系的预测模型：以美国总统大选为例;&lt;/li&gt;
+&lt;li&gt;衡量文献社会网络中的信息传播;&lt;/li&gt;
+&lt;li&gt;1922年的等待时间悖论;&lt;/li&gt;
+&lt;li&gt;武装冲突雪崩的尺度理论;&lt;/li&gt;
+&lt;li&gt;一种使用拓扑数据分析评估网络演进的方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要20篇(2020-04-29)</title>
