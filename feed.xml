@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2020-05-04)</title>
+      <link>https://www.complexly.cn/post/20200504/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200504/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;COVID-19传播中的异质性接触网络：社会剥夺的作用;&lt;/li&gt;
+&lt;li&gt;多组SEIR模型中的异质性社交互动和COVID-19锁定后果;&lt;/li&gt;
+&lt;li&gt;量化美国社会疏远政策对COVID-19结果的预期影响;&lt;/li&gt;
+&lt;li&gt;利用地震噪声捕获中国和意大利的COVID-19社会反应;&lt;/li&gt;
+&lt;li&gt;使用Twitter数据进行主动控制危机的早期爆发检测：COVID-19，在美国的案例研究;&lt;/li&gt;
+&lt;li&gt;社区检测的多尺度演化扰动攻击;&lt;/li&gt;
+&lt;li&gt;最大拟群的可规模化挖掘：一种算法-系统协同设计方法;&lt;/li&gt;
+&lt;li&gt;比特币交易网络：近期结果概述;&lt;/li&gt;
+&lt;li&gt;创新过程中的泰勒定律;&lt;/li&gt;
+&lt;li&gt;马尔可夫链和网络块模型中的状态聚集;&lt;/li&gt;
+&lt;li&gt;金融网络的双曲几何;&lt;/li&gt;
+&lt;li&gt;工作组映射：协作文化的可视化分析;&lt;/li&gt;
+&lt;li&gt;从网络特征值中找到电阻距离和特征向量中心性;&lt;/li&gt;
+&lt;li&gt;具有链接隐私的安全网络发布;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2020-05-01)</title>
