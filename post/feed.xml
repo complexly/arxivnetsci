@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2020-05-06)</title>
+      <link>https://www.complexly.cn/post/20200506/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200506/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;异构网络中联系人跟踪的有效性;&lt;/li&gt;
+&lt;li&gt;如何管理大流行后的开放？Pontryagin最大原理方法;&lt;/li&gt;
+&lt;li&gt;使用后验预测分布分析流行病模型：墨西哥城的COVID-19;&lt;/li&gt;
+&lt;li&gt;使用新型时间衰减模型进行选举预测：预测美国总统大选;&lt;/li&gt;
+&lt;li&gt;社会平衡对社会分化的影响;&lt;/li&gt;
+&lt;li&gt;金融数据中的细粒度意见挖掘：综述与研究议程;&lt;/li&gt;
+&lt;li&gt;弱势关系加剧了社交媒体中的愤怒情绪蔓延;&lt;/li&gt;
+&lt;li&gt;基于首次通过概率的社区检测;&lt;/li&gt;
+&lt;li&gt;在没有群体间歧视的情况下是否会造成性别不平等？;&lt;/li&gt;
+&lt;li&gt;特朗普主义的根源：Reddit上对唐纳德·特朗普支持的同质性和社会反馈;&lt;/li&gt;
+&lt;li&gt;不确定条件下的公平运输网络设计;&lt;/li&gt;
+&lt;li&gt;引导式基于链接遍历的查询处理;&lt;/li&gt;
+&lt;li&gt;用空间熵模拟城市增长和形式;&lt;/li&gt;
+&lt;li&gt;具有无限大策略空间实验中的启发式;&lt;/li&gt;
+&lt;li&gt;通过Gumbel Softmax聚类图数据集;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要21篇(2020-05-05)</title>
