@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要18篇(2020-05-08) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+使用人类移动数据量化COVID-19在中国大陆的经济影响;
+在COVID-19大流行期间抑制群体混合，趋平和延缓流行病学曲线，同时允许经济和社会生活处于可接受的水平;
+社交距离对社会网络中流行病的影响;
+使用主题模型，UMAP和DiGraph对Covid-19推文进行探索性分析;
+Covid-19的疾病诱导的群体免疫水平大大低于经典群体免疫水平;
+抑制和缓解措施在管理COVID-19爆发中的重要性;
+布面罩在控制呼吸中喷射的实用性;
+基于LSTM的COVID-19病例拟合与预测的改进方法。;
+通过建模和模拟案例研究理解当前Covid19的状况并提出量身定制的放开策略：摩洛哥卡萨布兰卡;
+COVID19限制真的值得吗？比较COVID19和经济衰退对澳大利亚估计死亡率的影响;
+Lifshitz尺度和大流行情景下的扩散过程;
+COVID-19爆发的鲁棒和最佳预测控制;
+COVID-19联系人跟踪应用程序：全球部署和挑战综述;
+复杂社会网络中社区发现的演化多目标优化算法;
+面对面人际互动的时间网络中的因果路径;
+最佳氢供应链：整合可再生能源的共同利益;
+用于微运输服务评估的随机用户-运营商分配博弈：卢森堡Kussbus案例研究;
+虚假用户和虚假新闻：Twitter传播的真实案例研究;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要18篇(2020-05-08) - 网络科学研究速递">
+<meta itemprop="description" content="
+使用人类移动数据量化COVID-19在中国大陆的经济影响;
+在COVID-19大流行期间抑制群体混合，趋平和延缓流行病学曲线，同时允许经济和社会生活处于可接受的水平;
+社交距离对社会网络中流行病的影响;
+使用主题模型，UMAP和DiGraph对Covid-19推文进行探索性分析;
+Covid-19的疾病诱导的群体免疫水平大大低于经典群体免疫水平;
+抑制和缓解措施在管理COVID-19爆发中的重要性;
+布面罩在控制呼吸中喷射的实用性;
+基于LSTM的COVID-19病例拟合与预测的改进方法。;
+通过建模和模拟案例研究理解当前Covid19的状况并提出量身定制的放开策略：摩洛哥卡萨布兰卡;
+COVID19限制真的值得吗？比较COVID19和经济衰退对澳大利亚估计死亡率的影响;
+Lifshitz尺度和大流行情景下的扩散过程;
+COVID-19爆发的鲁棒和最佳预测控制;
+COVID-19联系人跟踪应用程序：全球部署和挑战综述;
+复杂社会网络中社区发现的演化多目标优化算法;
+面对面人际互动的时间网络中的因果路径;
+最佳氢供应链：整合可再生能源的共同利益;
+用于微运输服务评估的随机用户-运营商分配博弈：卢森堡Kussbus案例研究;
+虚假用户和虚假新闻：Twitter传播的真实案例研究;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要18篇(2020-05-08) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20200508/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+使用人类移动数据量化COVID-19在中国大陆的经济影响;
+在COVID-19大流行期间抑制群体混合，趋平和延缓流行病学曲线，同时允许经济和社会生活处于可接受的水平;
+社交距离对社会网络中流行病的影响;
+使用主题模型，UMAP和DiGraph对Covid-19推文进行探索性分析;
+Covid-19的疾病诱导的群体免疫水平大大低于经典群体免疫水平;
+抑制和缓解措施在管理COVID-19爆发中的重要性;
+布面罩在控制呼吸中喷射的实用性;
+基于LSTM的COVID-19病例拟合与预测的改进方法。;
+通过建模和模拟案例研究理解当前Covid19的状况并提出量身定制的放开策略：摩洛哥卡萨布兰卡;
+COVID19限制真的值得吗？比较COVID19和经济衰退对澳大利亚估计死亡率的影响;
+Lifshitz尺度和大流行情景下的扩散过程;
+COVID-19爆发的鲁棒和最佳预测控制;
+COVID-19联系人跟踪应用程序：全球部署和挑战综述;
+复杂社会网络中社区发现的演化多目标优化算法;
+面对面人际互动的时间网络中的因果路径;
+最佳氢供应链：整合可再生能源的共同利益;
+用于微运输服务评估的随机用户-运营商分配博弈：卢森堡Kussbus案例研究;
+虚假用户和虚假新闻：Twitter传播的真实案例研究;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20200508/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20200508/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要18篇(2020-05-08)</h1>
+
+                  <p class="post-byline">
+                    2020年05月08日 · 8067 字 ·
+                    阅读时间约17分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>使用人类移动数据量化COVID-19在中国大陆的经济影响;</li>
+<li>在COVID-19大流行期间抑制群体混合，趋平和延缓流行病学曲线，同时允许经济和社会生活处于可接受的水平;</li>
+<li>社交距离对社会网络中流行病的影响;</li>
+<li>使用主题模型，UMAP和DiGraph对Covid-19推文进行探索性分析;</li>
+<li>Covid-19的疾病诱导的群体免疫水平大大低于经典群体免疫水平;</li>
+<li>抑制和缓解措施在管理COVID-19爆发中的重要性;</li>
+<li>布面罩在控制呼吸中喷射的实用性;</li>
+<li>基于LSTM的COVID-19病例拟合与预测的改进方法。;</li>
+<li>通过建模和模拟案例研究理解当前Covid19的状况并提出量身定制的放开策略：摩洛哥卡萨布兰卡;</li>
+<li>COVID19限制真的值得吗？比较COVID19和经济衰退对澳大利亚估计死亡率的影响;</li>
+<li>Lifshitz尺度和大流行情景下的扩散过程;</li>
+<li>COVID-19爆发的鲁棒和最佳预测控制;</li>
+<li>COVID-19联系人跟踪应用程序：全球部署和挑战综述;</li>
+<li>复杂社会网络中社区发现的演化多目标优化算法;</li>
+<li>面对面人际互动的时间网络中的因果路径;</li>
+<li>最佳氢供应链：整合可再生能源的共同利益;</li>
+<li>用于微运输服务评估的随机用户-运营商分配博弈：卢森堡Kussbus案例研究;</li>
+<li>虚假用户和虚假新闻：Twitter传播的真实案例研究;</li>
+</ul>
+
+<p></p>
+
+<h3 id="使用人类移动数据量化covid-19在中国大陆的经济影响">使用人类移动数据量化COVID-19在中国大陆的经济影响</h3>
+
+<p>原文标题： Quantifying the Economic Impact of COVID-19 in Mainland China Using Human Mobility Data</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03010">http://arxiv.org/abs/2005.03010</a></p>
+
+<p>作者： Jizhou Huang, Haifeng Wang, Haoyi Xiong, Miao Fan, An Zhuo, Ying Li, Dejing Dou</p>
+
+<p>摘要： 为遏制中国大陆冠状病毒大流行（COVID-19），当局已采取了一系列措施，包括隔离，隔离社交，限制旅行。尽管这些策略有效地解决了疫情的严重问题，但大流行和流动性控制相结合却减缓了中国的经济增长速度，导致自1992年开始计算GDP以来国内生产总值（GDP）首次出现季度下降。为了描述国内经济的潜在萎缩，从流动性的角度出发，我们提出了两个新的经济指标：新创建的场所（NVC）和参观场所的数量（V ^ 3），作为对国内投资的补充措施消费活动，使用百度地图数据。这两项指标的历史记录显示与过去的中国GDP数据密切相关，而由于大流行，今年的现状发生了巨大变化。在此，我们使用NVC和V ^ 3的最新趋势提出了定量分析，以预测大流行对经济的影响。我们发现受影响最大的行业将是依赖旅行的企业，例如酒店，教育机构和公共交通；而对人类生活至关重要的行业，例如工作场所，住宅区，饭店和购物场所，迅速恢复。省一级的分析表明，具有内部供应，生产和消费的自给自足，经济自给自足的经济区的恢复速度快于依赖全球供应链的地区。</p>
+
+<h3 id="在covid-19大流行期间抑制群体混合-趋平和延缓流行病学曲线-同时允许经济和社会生活处于可接受的水平">在COVID-19大流行期间抑制群体混合，趋平和延缓流行病学曲线，同时允许经济和社会生活处于可接受的水平</h3>
+
+<p>原文标题： Suppression of Groups Intermingling as Appealing Option For Flattening and Delaying the Epidemiologic Curve While Allowing Economic and Social Life at Bearable Level During COVID-19 Pandemic</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03054">http://arxiv.org/abs/2005.03054</a></p>
+
+<p>作者： Ioan Baldea</p>
+
+<p>摘要： 在这项工作中，我们在以群体网络为模型的人群中模拟了COVID-19大流行动态，其中感染可以通过组内和组间相互作用传播。我们的结果强调了在显著扁平化和延缓流行病学曲线并同时减轻灾难性经济和社会后果的努力中，减少群体间感染的重要性。以一个有限的例子为例，将人群分为m个（例如5或10个）非相互作用组，同时保持组内相互作用不变，会产生一条拉伸的流行病学曲线，其每日感染的最大数量会减少并在同一时间延迟到同一时间。 m （5或10）。更广泛地说，我们的研究提出了一种有效的方法来对抗SARS-CoV-2病毒传播，该方法基于将人群分为几类并最大程度地减少它们之间的混杂。可以通过大型后勤单位（例如，大型生产网络，工厂，企业，仓库，学校，（季节性）收获工作）中不同级别的活动的大规模基础设施重组来实施该策略。重要的是，与完全锁定策略不同的是，与使所有人远离任何人相比，所提出的方法可以防止经济崩溃，并使社会生活保持在更可承受的水平。</p>
+
+<h3 id="社交距离对社会网络中流行病的影响">社交距离对社会网络中流行病的影响</h3>
+
+<p>原文标题： The Effect of Social Distancing on the Reach of an Epidemic in Social Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03067">http://arxiv.org/abs/2005.03067</a></p>
+
+<p>作者： Gregory Gutin, Tomohiro Hirano, Sung-Ha Hwang, Philip R. Neary, Alexis Akira Toda</p>
+
+<p>摘要： 社会距离如何影响流行病在社会网络中的传播？我们在网络上展示了易感性感染去除（SIR）模型的蒙特卡罗模拟结果，该网络中个人可以与之互动的其他人的数量受到限制。虽然日益增加的社会距离总会减少传染病的传播，但其幅度根据社会网络的拓扑结构而有很大差异。我们的结果还揭示了在全球范围内进行协调的重要性。尤其是，如果与某个群体（例如，一个国家）保持社会隔离，则该群体与外部群体之间的联系仍可能被彻底废除。</p>
+
+<h3 id="使用主题模型-umap和digraph对covid-19推文进行探索性分析">使用主题模型，UMAP和DiGraph对Covid-19推文进行探索性分析</h3>
+
+<p>原文标题： Exploratory Analysis of Covid-19 Tweets using Topic Modeling, UMAP, and DiGraphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03082">http://arxiv.org/abs/2005.03082</a></p>
+
+<p>作者： Catherine Ordun, Sanjay Purushotham, Edward Raff</p>
+
+<p>摘要： 本文介绍了五种不同的技术来评估Covid19推文的主题，关键术语和功能，信息传播的速度以及网络行为的独特性。首先，我们使用模式匹配，其次，通过潜在狄利克雷分配（LDA）进行主题建模，以生成二十个不同的主题，讨论病例传播，医护人员和个人防护设备（PPE）。在白宫冠状病毒特别工作组举行现场情况通报会后，一个针对美国案件的话题将立即开始上升，这意味着许多Twitter用户正在关注政府的公告。我们提供Covid19 Twitter文献中以前未曾报道过的机器学习方法。这包括我们的第三种方法，统一流形逼近和投影（UMAP），该方法可识别不同主题的独特聚类行为，以增进我们对语料库中重要主题的理解并帮助评估所生成主题的质量。第四，我们计算了转发时间，以了解有关Covid19的信息在Twitter上传播的速度。我们的分析表明，到2020年3月，Covid19样本语料库的平均转发时间为2.87小时，比2013年3月从中国社交媒体上发布有关H7N9的信息大约快50分钟。的用户数量从快速转发到缓慢转发。随着转推时间的增加，在我们样本中的地方，连接的密度也增加了，我们发现不同的用户主导着Covid19转推器的注意力。该分析最简单的亮点之一是，早期描述性方法（例如正则表达式）可以成功地识别出高级主题，这些主题在随后的所有分析中都得到了一致的验证。</p>
+
+<h3 id="covid-19的疾病诱导的群体免疫水平大大低于经典群体免疫水平">Covid-19的疾病诱导的群体免疫水平大大低于经典群体免疫水平</h3>
+
+<p>原文标题： The disease-induced herd immunity level for Covid-19 is substantially lower than the classical herd immunity level</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03085">http://arxiv.org/abs/2005.03085</a></p>
+
+<p>作者： Tom Britton, Frank Ball, Pieter Trapman</p>
+
+<p>摘要： 尽管采取了不同程度的预防措施，但大多数国家仍在遭受持续的covid-19大流行之害。一个常见的问题是一个国家或地区是否以及何时达到群体免疫 h 。经典的群体免疫水平 h_C 被定义为 h_C = 1-1 / R_0 ，其中 R_0 是基本繁殖数，对于covid-19，根据国家和地区，其估计值在2.2-3.5范围内。在此表明，在采取了一系列预防措施的国家/地区爆发了疾病之后，疾病引起的群体免疫力水平 h_D 实际上远远小于 h_C 。作为说明，我们表明，如果在具有年龄混合结构的年龄结构化的社区中 R_0 = 2.5 适用于社交活动研究，并且还将个人分为三类：低活跃度，平均活跃度和高活跃度，以及预防措施影响所有人群的情况混合比例成比例，则疾病引起的畜群免疫水平为 h_D = 43 ％，而不是 h_C = 1-1 / 2.5 = 60 ％。因此，需要较低的感染分数才能显示出群免疫力。根本原因是，当疾病传播诱导免疫力时，高接触率组的感染率要高于低接触率组的感染率。因此，疾病诱导的免疫力要比经典群体免疫力水平下免疫力在社区中均匀分布时要强。</p>
+
+<h3 id="抑制和缓解措施在管理covid-19爆发中的重要性">抑制和缓解措施在管理COVID-19爆发中的重要性</h3>
+
+<p>原文标题： Importance of suppression and mitigation measures in managing COVID-19 outbreaks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03323">http://arxiv.org/abs/2005.03323</a></p>
+
+<p>作者： Michael E. Hochberg</p>
+
+<p>摘要： 我使用了一个简单的流行过程数学模型来评估四个基本数量如何：繁殖数量（R），敏感数量（S）和传染性个体（I）以及社区总数（N）对控制COVID的策略有何影响-19。数值模拟表明，在流行病开始时采取严格的抑制措施可以产生低传染率，此后可以通过更长时期内的缓解措施来使流行曲线趋于平坦来进行管理。抑制措施越强，它就越快地实现少量感染，这有利于后续管理。我们讨论了这种分析的预测，以及它如何适合长期的测量序列，包括使用群体免疫概念来利用获得性免疫。</p>
+
+<h3 id="布面罩在控制呼吸中喷射的实用性">布面罩在控制呼吸中喷射的实用性</h3>
+
+<p>原文标题： On the utility of cloth facemasks for controlling ejecta during respiratory events</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03444">http://arxiv.org/abs/2005.03444</a></p>
+
+<p>作者： Vivek Kumar, Sravankumar Nallamothu, Sourabh Shrivastava, Harshrajsinh Jadeja, Pravin Nakod, Prem Andrade, Pankaj Doshi, Guruswamy Kumaraswamy</p>
+
+<p>摘要： 使用计算流体动力学模拟分析了佩戴简单的布口罩的效用。我们模拟了通过面罩的空气动力流动以及由于咳嗽或打喷嚏等呼吸事件导致的液滴喷射的空间扩散。如果没有面罩，则会形成湍流射流，并且会喷射出粒径分布较宽的液滴。大液滴（直径大于约125μm）在约2m内掉落到地面，而湍流则在很小的距离（〜5m）内传送了雾化的小液滴的雾气，这与已报道的实验结果一致。松散安装的简单棉布口罩（孔径约4微米）从质量上改变了高速射流的传播，并在很大程度上消除了口罩下游的湍流云。考虑到脸部和面罩之间的周围只有1毫米的均匀间隙，大约12％的气流从面罩侧面泄漏。喷射的散布也改变了，大多数大的液滴被困在了掩模表面。我们介绍了空气中的病毒载量并沉积在人周围，并表明即使被感染的人咳嗽或打喷嚏时，即使戴着简单的布口罩也能显著减少病毒颗粒的空间扩散程度。</p>
+
+<h3 id="基于lstm的covid-19病例拟合与预测的改进方法">基于LSTM的COVID-19病例拟合与预测的改进方法。</h3>
+
+<p>原文标题： An Improved Method of COVID-19 Case Fitting and Prediction Based on LSTM</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03446">http://arxiv.org/abs/2005.03446</a></p>
+
+<p>作者： Bingjie Yan, Xiangyan Tang, Boyi Liu, Jun Wang, Yize Zhou, Guopeng Zheng, Qi Zou, Yao Lu, Wenxuan Tu</p>
+
+<p>摘要： 新的冠状病毒病（COVID-19）已构成全球性大流行，并已蔓延到世界上大多数国家和地区。通过了解区域流行病的发展趋势，可以使用发展政策控制流行病。常见的传统数学微分方程和总体预测模型在时间序列总体预测方面存在局限性，甚至存在较大的估计误差。为了解决这个问题，我们提出了一种基于LSTM（长期记忆）神经网络的预测确诊病例的改进方法。这项工作比较了改进的LSTM预测模型和数字预测模型（例如Logistic和Hill方程）的实验结果与实际数据之间的偏差。并且这项工作利用了拟合优度来评估改进的拟合效果。实验表明，该方法具有较小的预测偏差和较好的拟合效果。与以前的预测方法相比，我们提出的改进方法的贡献主要体现在以下几个方面：1）我们充分考虑了数据的时空特征，而不是单一的标准化数据； 2）改进的参数设置和评估指标对于拟合和预测更加准确。 3）我们考虑流行阶段的影响，并针对不同阶段进行合理的数据处理。</p>
+
+<h3 id="通过建模和模拟案例研究理解当前covid19的状况并提出量身定制的放开策略-摩洛哥卡萨布兰卡">通过建模和模拟案例研究理解当前Covid19的状况并提出量身定制的放开策略：摩洛哥卡萨布兰卡</h3>
+
+<p>原文标题： Making Sense of the Current Covid 19 Situation and Suggesting a tailored Release Strategy through Modeling And Simulation Case Study: Casablanca, Morocco</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03477">http://arxiv.org/abs/2005.03477</a></p>
+
+<p>作者： Mohamed Amine Chadi, Hajar Mousannif</p>
+
+<p>摘要： 自从宣布Covid 19成为全球大流行的第一天以来，来自不同背景和组织（包括国家政府和世界卫生组织（WHO））的世界各地的研究人员就开始广泛使用建模和仿真（M＆S）技术来确定最佳选择减轻Covid-19的公共健康和经济影响的策略。在本文中，我们介绍了通过在摩洛哥卡萨布兰卡市应用M＆S得出的结果，以理解（i）：这种大流行如何渗透到研究区域（国家，城市，地区等）相对容易或困难。 ）。 （ii）：它如何在该区域内相对快速或缓慢地传播。最后，（iii）：在保持经济尽可能接近正常水平的同时，遏制和减轻疾病传播的最佳策略是什么？</p>
+
+<h3 id="covid19限制真的值得吗-比较covid19和经济衰退对澳大利亚估计死亡率的影响">COVID19限制真的值得吗？比较COVID19和经济衰退对澳大利亚估计死亡率的影响</h3>
+
+<p>原文标题： Are the COVID19 restrictions really worth the cost? A comparison of estimated mortality in Australia from COVID19 and economic recession</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03491">http://arxiv.org/abs/2005.03491</a></p>
+
+<p>作者： Neil W Bailey, Daniel West</p>
+
+<p>摘要： 关于当前COVID19限制的经济影响是否值得付出代价，已经有相当多的公众辩论。尽管已对COVID19的潜在影响进行了广泛的建模，但在有关潜在经济影响的讨论中，很少提出任何数字。为了很好地回答这个问题-限制是否会像COVID19一样造成伤害？ -需要可靠的基于证据的估计，而不是简单的花言巧语。在这里，我们提供了一些初步的估计，以比较当前限制与病毒的直接影响的影响。由于大多数国家/地区目前正在采取减少COVID19死亡人数的方法，因此我们提供的COVID19死亡估计数是故意从传染病死亡率估计值的低端得出的，而经济衰退造成的死亡估计数是故意的从严重经济衰退的置信区间上限的两倍计算得出。这确保了对当前限制的现状提出足够的挑战。我们的分析表明，根除病毒的严格限制可能导致的总死亡人数比立即恢复工作情景至少少八倍。</p>
+
+<h3 id="lifshitz尺度和大流行情景下的扩散过程">Lifshitz尺度和大流行情景下的扩散过程</h3>
+
+<p>原文标题： Diffusive process under Lifshitz scaling and pandemic scenarios</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03506">http://arxiv.org/abs/2005.03506</a></p>
+
+<p>作者： M.A. Anacleto, F.A. Brito, A.R. de Queiroz, E. Passos, J.R.L. Santos</p>
+
+<p>摘要： 我们在此建议使用基于动态扩散系数的Lifshitz尺度下基于修正扩散方程的连续有效模型，对来自COVID-19的有效病例数据进行建模。提议的模型足够丰富，可以捕获人类最近面临的复杂病毒传播的不同方面。模型是连续的，势必需要解析和/或数值求解。因此，我们研究了两个可能的模型，其中与污染物的可能类型相关的扩散系数由某些特定的分布图捕获。这里导出的活动案例曲线能够成功描述德国和西班牙的大流行行为。此外，我们还预测了巴西COVID-19演化的一些情况。这些场景揭示了锁定措施如何使污染曲线平坦。我们可以找到最适合大流行实际数据的扩散系数分布图。</p>
+
+<h3 id="covid-19爆发的鲁棒和最佳预测控制">COVID-19爆发的鲁棒和最佳预测控制</h3>
+
+<p>原文标题： Robust and optimal predictive control of the COVID-19 outbreak</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03580">http://arxiv.org/abs/2005.03580</a></p>
+
+<p>作者： J. Köhler, L. Schwenkel, A. Koch, J. Berberich, P. Pauli, F. Allgöwer</p>
+
+<p>摘要： 我们以德国为例，研究了通过社会疏远措施稳健且最佳地控制COVID-19大流行的适应性策略。我们的目标是在两年内尽量减少死亡人数，而不会引起过多的社会成本。我们考虑德国COVID-19疫情的量身定制模型，其中包含不同的参数集，以设计和验证我们的方法。我们的分析表明，在精确模型知识的假设下，与简单策略相比，开环最优控制策略可以显著减少死亡人数。在不确定的数据和模型不匹配的更现实的情况下，使用模型预测控制（MPC）每周更新策略的反馈策略即使在应用于具有异常参数的验证模型时也可以实现可靠的性能。最重要的是，我们提出了一种基于可靠的，基于MPC的反馈策略，该策略使用间隔算法谨慎，安全地适应了社会疏远措施，因此即使测量结果不正确且感染率无法由社会准确确定，也可以将死亡人数降到最低疏远。我们的理论发现支持以下各项最新研究，这些研究表明：1）需要采用自适应反馈策略来可靠地遏制COVID-19爆发； 2）与简单的策略相比，精心设计的策略可以显著减少死亡人数，同时保持与社会保持距离在同等水平上采取措施，并且3）从长远来看，尽早实施更强的社会隔离措施比过早开放并在以后恢复更严格的措施更为有效和廉价。</p>
+
+<h3 id="covid-19联系人跟踪应用程序-全球部署和挑战综述">COVID-19联系人跟踪应用程序：全球部署和挑战综述</h3>
+
+<p>原文标题： COVID-19 Contact-tracing Apps: A Survey on the Global Deployment and Challenges</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03599">http://arxiv.org/abs/2005.03599</a></p>
+
+<p>作者： Jinfeng Li, Xinyi Guo</p>
+
+<p>摘要： 为了应对冠状病毒疾病（COVID-19）的爆发，越来越多的国家政府推出了接触追踪应用程序以帮助控制病毒。应用程序所面临的第一个有争议的问题是部署框架，即集中式或分散式。基于此，辩论会扩展到支持这些架构的相应技术，即GPS，QR码和蓝牙。这项工作对上述情况进行了开创性的回顾，并为当前部署提供了地理位置映射。确定了漏洞和研究方向，并特别关注基于蓝牙的分散方案。</p>
+
+<h3 id="复杂社会网络中社区发现的演化多目标优化算法">复杂社会网络中社区发现的演化多目标优化算法</h3>
+
+<p>原文标题： Evolutionary Multi Objective Optimization Algorithm for Community Detection in Complex Social Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03181">http://arxiv.org/abs/2005.03181</a></p>
+
+<p>作者： Shaik Tanveer ul Huq, Vadlamani Ravi, Kalyanmoy Deb</p>
+
+<p>摘要： 大多数基于优化的社区检测方法都会在一个或两个目标的框架中解决问题。在本文中，我们使用自定义的非支配排序遗传算法III（NSGA-III）提出了三目标公式的两个变体，以查找网络中的社区结构。在第一个变体NSGA-III-KRM中，我们将内核k均值，比率削减和模块化作为三个目标，而在第二个变体NSGA-III-CCM中，则考虑了社区得分，社区适应度和模块化，作为三个目标函数。实验是在四个基准网络数据集上进行的。与最新方法以及基于分解的多目标演化算法变体（MOEA / D-KRM和MOEA / D-CCM）的比较表明，所提出的变体产生了可比或更好的结果。这一点特别重要，因为添加第三个目标不会使其他两个目标的结果恶化。我们还提出了一种简单的方法来对Pareto解进行排名，方法是通过提出一种新的度量方法来获得，即超体积与反向世代距离（IGD）之比。该比率越高，帕累托集越好。在多目标框架中目标数量超过两个的多目标框架中，如果没有经验获得功能，则此策略特别有用。</p>
+
+<h3 id="面对面人际互动的时间网络中的因果路径">面对面人际互动的时间网络中的因果路径</h3>
+
+<p>原文标题： Causal Paths in Temporal Networks of Face-to-Face Human Interactions</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03333">http://arxiv.org/abs/2005.03333</a></p>
+
+<p>作者： Agostino Funel</p>
+
+<p>摘要： 在时间网络中，因果路径的特征在于从源到目标的链接必须遵守时间顺序。在本文中，我们研究了在不同社会背景下人类面对面互动的时间网络中的因果路径结构。在静态网络中，路径是可传递的，即存在从 a 到 b 以及从 b 到 c 的链接意味着存在从 a 到 c 到 c 的路径。在时间网络中，按时间顺序的约束会引入时间相关性，从而影响传递性。基于高阶马尔可夫链的概率模型表明，仅当连续事件之间的时间间隔大于平均值且在该值以下可忽略不计时，才会出现使传递性无效的相关性。时间和静态可访问性矩阵的密度之间的比较表明，可以很好地近似使用静态表示。此外，我们量化了网络上因果联系区域的范围。</p>
+
+<h3 id="最佳氢供应链-整合可再生能源的共同利益">最佳氢供应链：整合可再生能源的共同利益</h3>
+
+<p>原文标题： Optimal hydrogen supply chains: co-benefits for integrating renewable energy sources</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03464">http://arxiv.org/abs/2005.03464</a></p>
+
+<p>作者： Fabian Stöckl, Wolf-Peter Schill, Alexander Zerrahn</p>
+
+<p>摘要： 绿氢可以使运输过程中的碳减少，但如果其生产在时间上足够灵活，则还有助于整合可变的可再生能源。使用电力部门的开放源协同优化模型和加油站的四个氢供应链，我们发现了能效和时间灵活性之间的权衡：对于可再生能源和氢的份额较低，能源效率更高的分散电解是最佳的。对于更高份额的可再生能源和/或氢气，更灵活的集中式氢气供应链变得越来越重要，因为它们可以使氢气生产与需求通过存储脱节。液态氢特别有益，随后是液态有机氢载体和气态氢。集中式氢供应链可以主要通过减少可再生盈余发电来提供可观的电力部门共同收益。能源建模人员和系统规划人员在评估绿色氢在未来能源过渡方案中的作用时，应更详细地考虑氢供应链的灵活性特征。</p>
+
+<h3 id="用于微运输服务评估的随机用户-运营商分配博弈-卢森堡kussbus案例研究">用于微运输服务评估的随机用户-运营商分配博弈：卢森堡Kussbus案例研究</h3>
+
+<p>原文标题： A stochastic user-operator assignment game for microtransit service evaluation: A case study of Kussbus in Luxembourg</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03465">http://arxiv.org/abs/2005.03465</a></p>
+
+<p>作者： Tai-Yu Ma, Joseph Y.J. Chow, Sylvain Klein, Ziyi Ma</p>
+
+<p>摘要： 本文从Rasulkhani和Chow [1]中提出了一种稳定匹配模型的随机变体，该模型允许微型公交运营商评估其运营策略和资源分配。所提出的模型考虑了用户对旅行效用感知的随机性，从而在设计机票价格和乘客量预测时产生了概率稳定的运营成本分配结果。我们将该模型用于卢森堡及其边境地区的微运输服务的运营政策评估。开发了用于模型参数估计和校准的方法。结果为运营商和政府提供了有益的见解，以改善服务的乘客量。</p>
+
+<h3 id="虚假用户和虚假新闻-twitter传播的真实案例研究">虚假用户和虚假新闻：Twitter传播的真实案例研究</h3>
+
+<p>原文标题： Credulous Users and Fake News: a Real Case Study on the Propagation in Twitter</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.03550">http://arxiv.org/abs/2005.03550</a></p>
+
+<p>作者： Alessandro Balestrucci, Rocco De Nicola</p>
+
+<p>摘要： 最近的研究证实，使用在线社交媒体作为喜爱的信息平台，而以传统大众媒体为代价的趋势正在增长，尤其是在年轻人中间。确实，他们可以轻松快速地达到广泛的受众；但是正因为如此，它们才是通过所谓的虚假新闻影响公众舆论的首选媒体。此外，人们普遍同意，假新闻的主要载体是自动与人类用户互动的恶意软件机器人（机器人）。在以前的工作中，我们曾考虑过将在线社会网络中的人类用户标记为轻信用户的问题。具体来说，与社交朋友总数相比，我们考虑过挑剔那些拥有相对较多的机器人朋友的用户。我们认为这组用户值得关注，因为他们可能会更容易遭受恶意活动，并且可能会通过共享可疑内容来促进伪造信息的传播。在这项工作中，我们从虚假新闻的数据集开始，研究了虚假新闻传播的行为和轻信用户的参与程度。该研究旨在：（i）通过考虑由轻信用户传播的内容来打击假新闻； （ii）突出可信用户与虚假新闻传播之间的关系； （iii）通过重点分析更容易受到机器人恶意活动影响的特定帐户来针对假新闻检测。我们的第一个结果表明，轻信用户大力参与虚假新闻传播。这一发现要求使用能够通过对可信的用户操作执行数据流传输的工具，从而使我们能够执行有针对性的事实检查。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20200508/">https://www.complexly.cn/post/20200508/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20200507/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要16篇(2020-05-07)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

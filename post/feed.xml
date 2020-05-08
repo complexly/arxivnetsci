@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要18篇(2020-05-08)</title>
+      <link>https://www.complexly.cn/post/20200508/</link>
+      <pubDate>Fri, 08 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200508/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用人类移动数据量化COVID-19在中国大陆的经济影响;&lt;/li&gt;
+&lt;li&gt;在COVID-19大流行期间抑制群体混合，趋平和延缓流行病学曲线，同时允许经济和社会生活处于可接受的水平;&lt;/li&gt;
+&lt;li&gt;社交距离对社会网络中流行病的影响;&lt;/li&gt;
+&lt;li&gt;使用主题模型，UMAP和DiGraph对Covid-19推文进行探索性分析;&lt;/li&gt;
+&lt;li&gt;Covid-19的疾病诱导的群体免疫水平大大低于经典群体免疫水平;&lt;/li&gt;
+&lt;li&gt;抑制和缓解措施在管理COVID-19爆发中的重要性;&lt;/li&gt;
+&lt;li&gt;布面罩在控制呼吸中喷射的实用性;&lt;/li&gt;
+&lt;li&gt;基于LSTM的COVID-19病例拟合与预测的改进方法。;&lt;/li&gt;
+&lt;li&gt;通过建模和模拟案例研究理解当前Covid19的状况并提出量身定制的放开策略：摩洛哥卡萨布兰卡;&lt;/li&gt;
+&lt;li&gt;COVID19限制真的值得吗？比较COVID19和经济衰退对澳大利亚估计死亡率的影响;&lt;/li&gt;
+&lt;li&gt;Lifshitz尺度和大流行情景下的扩散过程;&lt;/li&gt;
+&lt;li&gt;COVID-19爆发的鲁棒和最佳预测控制;&lt;/li&gt;
+&lt;li&gt;COVID-19联系人跟踪应用程序：全球部署和挑战综述;&lt;/li&gt;
+&lt;li&gt;复杂社会网络中社区发现的演化多目标优化算法;&lt;/li&gt;
+&lt;li&gt;面对面人际互动的时间网络中的因果路径;&lt;/li&gt;
+&lt;li&gt;最佳氢供应链：整合可再生能源的共同利益;&lt;/li&gt;
+&lt;li&gt;用于微运输服务评估的随机用户-运营商分配博弈：卢森堡Kussbus案例研究;&lt;/li&gt;
+&lt;li&gt;虚假用户和虚假新闻：Twitter传播的真实案例研究;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2020-05-07)</title>
