@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2020-05-13)</title>
+      <link>https://www.complexly.cn/post/20200513/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200513/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;居家令对SARS-CoV-2传播影响的因果估计;&lt;/li&gt;
+&lt;li&gt;通过具有异质扩散的空间分辨易感暴露-感染-恢复-死亡（SEIRD）模型模拟​​COVID-19的传播;&lt;/li&gt;
+&lt;li&gt;信息和性别对戴口罩以减慢COVID-19传播意图的影响;&lt;/li&gt;
+&lt;li&gt;通过跟踪感染轨迹来跟踪COVID-19;&lt;/li&gt;
+&lt;li&gt;COVID-19信息疫情期间印度国家公报和Twitter之间的情绪分析和情绪耦合;&lt;/li&gt;
+&lt;li&gt;Twitter上COVID-19错误信息的探索性研究;&lt;/li&gt;
+&lt;li&gt;被COVID-19挑战的经验教训;&lt;/li&gt;
+&lt;li&gt;当拉近转为推离：意见动态的数学模型;&lt;/li&gt;
+&lt;li&gt;假主体的观察性学习;&lt;/li&gt;
+&lt;li&gt;GoGNN：用于预测结构化实体交互的图神经网络图;&lt;/li&gt;
+&lt;li&gt;未知世界中的网络：委内瑞拉难民危机中的公共WhatsApp组;&lt;/li&gt;
+&lt;li&gt;仇恨言论和辱骂性语言数据集的交叉偏见;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要32篇(2020-05-12)</title>
