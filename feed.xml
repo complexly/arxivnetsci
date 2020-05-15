@@ -7,10 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要25篇(2020-05-15)</title>
+      <link>https://www.complexly.cn/post/20200515/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200515/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;带社会疏远的SIR模型的平均场博弈分析;&lt;/li&gt;
+&lt;li&gt;流行病期间异质性疾病行为信息动态建模;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行数据中涌现的多项式增长趋势及其与基于隔室模型的调和;&lt;/li&gt;
+&lt;li&gt;干预措施对于第二高峰的高度贡献并不相等;&lt;/li&gt;
+&lt;li&gt;使用简单的流行病学模型对COVID-19大流行进行全局分析;&lt;/li&gt;
+&lt;li&gt;分组测试作为COVID-19流行病学监测的策略;&lt;/li&gt;
+&lt;li&gt;受限于社交疏远的公共场所人群控制;&lt;/li&gt;
+&lt;li&gt;关于COVID-19建模;&lt;/li&gt;
+&lt;li&gt;控制COVID-19大流行：在ICU可持续性下平衡检测策略和锁定干预措施;&lt;/li&gt;
+&lt;li&gt;有日常循环的结构化社会中的传染病传播动态;&lt;/li&gt;
+&lt;li&gt;CrisisBERT：用于危机分类和上下文危机嵌入的鲁棒Transformer;&lt;/li&gt;
+&lt;li&gt;使用数字跟踪对人类动力学和生活方式建模;&lt;/li&gt;
+&lt;li&gt;中立可能会很重要：巴西和美国的Airbnb、Booking和Couchsurfing评论的情感分析;&lt;/li&gt;
+&lt;li&gt;了解和检测社交媒体中的危险言论;&lt;/li&gt;
+&lt;li&gt;ImpactCite：基于XLNet的引文影响分析方法;&lt;/li&gt;
+&lt;li&gt;具有公平约束的网络欺凌检测;&lt;/li&gt;
+&lt;li&gt;通过特定领域的预处理和BERT集成检测Twitter上的不良药物反应;&lt;/li&gt;
+&lt;li&gt;图同构对于图神经网络有多难？;&lt;/li&gt;
+&lt;li&gt;单车道道路上的交通信号灯引起的相变;&lt;/li&gt;
+&lt;li&gt;印度社会分层结构内职业流动性的决定因素;&lt;/li&gt;
+&lt;li&gt;模拟社会身份识别驱动的共识形成的自适应网络模型;&lt;/li&gt;
+&lt;li&gt;音乐流媒体平台上跳过行为的普遍性;&lt;/li&gt;
+&lt;li&gt;共同发展的信息生态系统的恢复力和弹性;&lt;/li&gt;
+&lt;li&gt;评论“针对聚类，分类和社区检测的改进的互信息度量”;&lt;/li&gt;
+&lt;li&gt;使用机器学习技术在Twitter上获取有关自然灾害响应的公众意见;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2020-05-14)</title>
@@ -19,7 +56,7 @@
       
       <guid>https://www.complexly.cn/post/20200514/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Kav-Meier型COVID-19生存曲线：基于健康数据的决策工具;&lt;/li&gt;
+&lt;li&gt;Kaplan-Meier型COVID-19生存曲线：基于健康数据的决策工具;&lt;/li&gt;
 &lt;li&gt;Mega-COV：COVID-19的65种语言的十亿规模数据集;&lt;/li&gt;
 &lt;li&gt;印度COVID-19大流行的动态;&lt;/li&gt;
 &lt;li&gt;使用SEIR模型对阿根廷COVID-19流行病的数值模拟;&lt;/li&gt;

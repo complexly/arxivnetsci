@@ -1,0 +1,695 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要25篇(2020-05-15) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+带社会疏远的SIR模型的平均场博弈分析;
+流行病期间异质性疾病行为信息动态建模;
+COVID-19大流行数据中涌现的多项式增长趋势及其与基于隔室模型的调和;
+干预措施对于第二高峰的高度贡献并不相等;
+使用简单的流行病学模型对COVID-19大流行进行全局分析;
+分组测试作为COVID-19流行病学监测的策略;
+受限于社交疏远的公共场所人群控制;
+关于COVID-19建模;
+控制COVID-19大流行：在ICU可持续性下平衡检测策略和锁定干预措施;
+有日常循环的结构化社会中的传染病传播动态;
+CrisisBERT：用于危机分类和上下文危机嵌入的鲁棒Transformer;
+使用数字跟踪对人类动力学和生活方式建模;
+中立可能会很重要：巴西和美国的Airbnb、Booking和Couchsurfing评论的情感分析;
+了解和检测社交媒体中的危险言论;
+ImpactCite：基于XLNet的引文影响分析方法;
+具有公平约束的网络欺凌检测;
+通过特定领域的预处理和BERT集成检测Twitter上的不良药物反应;
+图同构对于图神经网络有多难？;
+单车道道路上的交通信号灯引起的相变;
+印度社会分层结构内职业流动性的决定因素;
+模拟社会身份识别驱动的共识形成的自适应网络模型;
+音乐流媒体平台上跳过行为的普遍性;
+共同发展的信息生态系统的恢复力和弹性;
+评论“针对聚类，分类和社区检测的改进的互信息度量”;
+使用机器学习技术在Twitter上获取有关自然灾害响应的公众意见;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要25篇(2020-05-15) - 网络科学研究速递">
+<meta itemprop="description" content="
+带社会疏远的SIR模型的平均场博弈分析;
+流行病期间异质性疾病行为信息动态建模;
+COVID-19大流行数据中涌现的多项式增长趋势及其与基于隔室模型的调和;
+干预措施对于第二高峰的高度贡献并不相等;
+使用简单的流行病学模型对COVID-19大流行进行全局分析;
+分组测试作为COVID-19流行病学监测的策略;
+受限于社交疏远的公共场所人群控制;
+关于COVID-19建模;
+控制COVID-19大流行：在ICU可持续性下平衡检测策略和锁定干预措施;
+有日常循环的结构化社会中的传染病传播动态;
+CrisisBERT：用于危机分类和上下文危机嵌入的鲁棒Transformer;
+使用数字跟踪对人类动力学和生活方式建模;
+中立可能会很重要：巴西和美国的Airbnb、Booking和Couchsurfing评论的情感分析;
+了解和检测社交媒体中的危险言论;
+ImpactCite：基于XLNet的引文影响分析方法;
+具有公平约束的网络欺凌检测;
+通过特定领域的预处理和BERT集成检测Twitter上的不良药物反应;
+图同构对于图神经网络有多难？;
+单车道道路上的交通信号灯引起的相变;
+印度社会分层结构内职业流动性的决定因素;
+模拟社会身份识别驱动的共识形成的自适应网络模型;
+音乐流媒体平台上跳过行为的普遍性;
+共同发展的信息生态系统的恢复力和弹性;
+评论“针对聚类，分类和社区检测的改进的互信息度量”;
+使用机器学习技术在Twitter上获取有关自然灾害响应的公众意见;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要25篇(2020-05-15) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20200515/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+带社会疏远的SIR模型的平均场博弈分析;
+流行病期间异质性疾病行为信息动态建模;
+COVID-19大流行数据中涌现的多项式增长趋势及其与基于隔室模型的调和;
+干预措施对于第二高峰的高度贡献并不相等;
+使用简单的流行病学模型对COVID-19大流行进行全局分析;
+分组测试作为COVID-19流行病学监测的策略;
+受限于社交疏远的公共场所人群控制;
+关于COVID-19建模;
+控制COVID-19大流行：在ICU可持续性下平衡检测策略和锁定干预措施;
+有日常循环的结构化社会中的传染病传播动态;
+CrisisBERT：用于危机分类和上下文危机嵌入的鲁棒Transformer;
+使用数字跟踪对人类动力学和生活方式建模;
+中立可能会很重要：巴西和美国的Airbnb、Booking和Couchsurfing评论的情感分析;
+了解和检测社交媒体中的危险言论;
+ImpactCite：基于XLNet的引文影响分析方法;
+具有公平约束的网络欺凌检测;
+通过特定领域的预处理和BERT集成检测Twitter上的不良药物反应;
+图同构对于图神经网络有多难？;
+单车道道路上的交通信号灯引起的相变;
+印度社会分层结构内职业流动性的决定因素;
+模拟社会身份识别驱动的共识形成的自适应网络模型;
+音乐流媒体平台上跳过行为的普遍性;
+共同发展的信息生态系统的恢复力和弹性;
+评论“针对聚类，分类和社区检测的改进的互信息度量”;
+使用机器学习技术在Twitter上获取有关自然灾害响应的公众意见;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20200515/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20200515/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要25篇(2020-05-15)</h1>
+
+                  <p class="post-byline">
+                    2020年05月15日 · 10089 字 ·
+                    阅读时间约21分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>带社会疏远的SIR模型的平均场博弈分析;</li>
+<li>流行病期间异质性疾病行为信息动态建模;</li>
+<li>COVID-19大流行数据中涌现的多项式增长趋势及其与基于隔室模型的调和;</li>
+<li>干预措施对于第二高峰的高度贡献并不相等;</li>
+<li>使用简单的流行病学模型对COVID-19大流行进行全局分析;</li>
+<li>分组测试作为COVID-19流行病学监测的策略;</li>
+<li>受限于社交疏远的公共场所人群控制;</li>
+<li>关于COVID-19建模;</li>
+<li>控制COVID-19大流行：在ICU可持续性下平衡检测策略和锁定干预措施;</li>
+<li>有日常循环的结构化社会中的传染病传播动态;</li>
+<li>CrisisBERT：用于危机分类和上下文危机嵌入的鲁棒Transformer;</li>
+<li>使用数字跟踪对人类动力学和生活方式建模;</li>
+<li>中立可能会很重要：巴西和美国的Airbnb、Booking和Couchsurfing评论的情感分析;</li>
+<li>了解和检测社交媒体中的危险言论;</li>
+<li>ImpactCite：基于XLNet的引文影响分析方法;</li>
+<li>具有公平约束的网络欺凌检测;</li>
+<li>通过特定领域的预处理和BERT集成检测Twitter上的不良药物反应;</li>
+<li>图同构对于图神经网络有多难？;</li>
+<li>单车道道路上的交通信号灯引起的相变;</li>
+<li>印度社会分层结构内职业流动性的决定因素;</li>
+<li>模拟社会身份识别驱动的共识形成的自适应网络模型;</li>
+<li>音乐流媒体平台上跳过行为的普遍性;</li>
+<li>共同发展的信息生态系统的恢复力和弹性;</li>
+<li>评论“针对聚类，分类和社区检测的改进的互信息度量”;</li>
+<li>使用机器学习技术在Twitter上获取有关自然灾害响应的公众意见;</li>
+</ul>
+
+<p></p>
+
+<h3 id="带社会疏远的sir模型的平均场博弈分析">带社会疏远的SIR模型的平均场博弈分析</h3>
+
+<p>原文标题： Mean-Field Game Analysis of SIR Model with Social Distancing</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06758">http://arxiv.org/abs/2005.06758</a></p>
+
+<p>作者： Samuel Cho</p>
+
+<p>摘要： 正如当前的COVID-19疫情表明的那样，疾病的流行是一个复杂的问题，必须通过正确的公共政策加以解决。决策者的主要工具之一是控制人群之间的接触率，通常被称为社会疏远，以减少疾病的传播。我们提出了一个均场博弈模型，该模型的每个人都选择一种动态的联系策略，既要权衡联系的效用，又要考虑接触带来的感染风险。我们计算并比较平均场均衡（MFE）策略，该策略假设个人为了最大程度地发挥自己的效用而自私行事，并与社会最优策略（即使总体总效用最大化的策略）进行比较。我们证明，被感染者总是想与社会上最理想的接触水平进行更多接触，这增加了减少被感染者接触的需求（例如，隔离，病假）。此外，考虑到激励人们改变自私策略的成本，我们还计算了社会最优策略。我们发现，如果我们施加有限的资源，那么在流行病的高峰期过去之后，遏制感染者的接触就变得更加重要。最后，我们计算该系统的无政府状态的价格，以了解在什么条件下MFE和社会最优策略之间会出现较大差异，这是公共政策最有效的时候。</p>
+
+<h3 id="流行病期间异质性疾病行为信息动态建模">流行病期间异质性疾病行为信息动态建模</h3>
+
+<p>原文标题： Modeling the heterogeneous disease-behavior-information dynamics during epidemics</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.07012">http://arxiv.org/abs/2005.07012</a></p>
+
+<p>作者： Yang Ye, Qingpeng Zhang, Zhongyuan Ruan, Zhidong Cao, Qi Xuan, Daniel Dajun Zeng</p>
+
+<p>摘要： 传染病的传播取决于人们之间的社会网络以及人们在暴露于该疾病之前所采取的保护措施。大众媒体在使公众意识到这种疾病及其传播性和严重性方面发挥着关键作用。出于对人群对传染病暴发的反应中异质风险感知的重要性的启发，我们提出了一种异质三层网络模型，即易感暴露-传染病-恢复未意识到-保护（SEIR-UAP）模型，其中人们对疾病的脆弱性受意识信息传播，预防行为改变和传染病传播过程的影响。我们发现（a）对疾病的了解在预防疾病暴发中起着核心作用； （b）我们需要合理比例的“反应过度”以有效控制疾病暴发； （c）潜伏期更长，恢复率更高的疾病更容易控制，因为信息传播和行为改变的过程可以帮助人们为即将暴露的疾病做好准备； （d）在无症状的情况下控制疾病更加困难。结果提供了证据，表明大众媒体不应淡化疾病的传播性和严重性，以使公众能够尽快意识到这种疾病。</p>
+
+<h3 id="covid-19大流行数据中涌现的多项式增长趋势及其与基于隔室模型的调和">COVID-19大流行数据中涌现的多项式增长趋势及其与基于隔室模型的调和</h3>
+
+<p>原文标题： Emerging Polynomial Growth Trends in COVID-19 Pandemic Data and Their Reconciliation with Compartment Based Models</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06933">http://arxiv.org/abs/2005.06933</a></p>
+
+<p>作者： Katarina Bodova, Richard Kollar</p>
+
+<p>摘要： 我们研究了2020年1月-2020年5月在119个国家/地区爆发的COVID-19大流行的报道数据。我们观察到，各个国家的活跃病例的时间序列（确诊感染总数与报告的死亡人数和治愈病例总数的总和之差）与多项式增长有很强的一致性，在流行后期具有多项式增长和指数衰减的组合。我们的结果也根据流行病的隔间类型数学模型制定。在这些模型中，表征晚期流行病态的普遍标度可以解释为相对繁殖数 R_0 的代数衰减为 T_M / t ，其中 T_M 是常数， t 是流行病爆发的持续时间。我们展示了我们的发现如何可用于改善对已报告的大流行数据的预测并估计一些流行病参数。请注意，尽管该模型与报告的数据显示出很好的一致性，但我们并未对大流行的实际规模做出任何声明，因为所观察到的报告数据与人群中感染总数之间的关系仍然未知。</p>
+
+<h3 id="干预措施对于第二高峰的高度贡献并不相等">干预措施对于第二高峰的高度贡献并不相等</h3>
+
+<p>原文标题： Not all interventions are equal for the height of the second peak</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06880">http://arxiv.org/abs/2005.06880</a></p>
+
+<p>作者： Tim Hulshof, Joost Jorritsma, Júlia Komjáthy</p>
+
+<p>摘要： 在本文中，我们对有限空间和非空间网络模型上具有临时免疫力的COVID-19等流行病的传播进行了模拟研究。特别是，我们假设该流行病在无标度网络上随机传播，并且该网络中的每个受感染个体在其感染期结束后都将获得临时免疫。临时免疫期结束后，该个体再次变得容易感染该病毒。当基本的联系网络嵌入欧氏几何时，我们对旨在控制流行病传播的三种不同干预策略进行建模：社交距离，旅行限制和每个节点的最大社交联系数量限制。我们的第一个发现是，在有限网络上，足够长的平均免疫周期会导致在第一个高峰期后大流行病的灭绝，类似于“群免疫”的概念。对于每个模型，都有一个临界的平均抗扰长度 L_c ，在该长度以上会发生这种情况。我们的第二个发现是，所有三种干预措施均能使第一个高峰（旅行限制最有效）变平，并降低临界免疫力长度 L_c ，但会延长疫情。但是，当平均抗干扰长度 L 短于 L_c 时，平坦的第一个峰的价格通常会高出第二个峰：为了限制最大接触数，第二个峰可能高达1/3是第一个峰值的两倍，是没有干预时的两倍。第三，干预将振荡引入系统中，并且几乎在所有情况下，达到平衡的时间都更长。我们得出结论，基于网络的流行病模型可以显示出连续隔间模型无法捕获的各种行为。</p>
+
+<h3 id="使用简单的流行病学模型对covid-19大流行进行全局分析">使用简单的流行病学模型对COVID-19大流行进行全局分析</h3>
+
+<p>原文标题： Global analysis of the COVID-19 pandemic using simple epidemiological models</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06742">http://arxiv.org/abs/2005.06742</a></p>
+
+<p>作者： J.E. Amaro, J. Dudouet, J.N. Orce</p>
+
+<p>摘要： 在这项工作中使用了几种分析模型来描述冠状病毒（COVID-19）引起的死亡病例的演变。死亡或“ D”模型是SIR（易感感染恢复）模型的简化版本，该模型假定随着时间的推移没有恢复，并允许对传输动力学方程进行解析求解。可以扩展D模型来描述各种感染点，这可以解释最初的大流行（D1），封锁（D2）和其他影响（Dn）。在一些国家（中国，西班牙，意大利，法国，英国，伊朗，美国和德国），COVID-19大流行的演变显示出与D模型趋势相一致的行为，其特征是死亡病例迅速增加缓慢下降，这受锁定效果的早期性和效率影响。这些结果与使用带参数化解决方案的扩展SIR模型和更复杂的蒙特卡洛网格模拟所得出的更准确的计算结果相一致，这些模拟预测了相似的趋势，并表明了具有通用参数的大流行的共同演变。</p>
+
+<h3 id="分组测试作为covid-19流行病学监测的策略">分组测试作为COVID-19流行病学监测的策略</h3>
+
+<p>原文标题： Group testing as a strategy for the epidemiologic monitoring of COVID-19</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06776">http://arxiv.org/abs/2005.06776</a></p>
+
+<p>作者： Vincent Brault, Bastien Mallein, Jean-Francois Rupprecht</p>
+
+<p>摘要： 我们建议用于RT-qPCR诊断的样本池在COVID-19流行病学研究中的应用。考虑到稀释单个样本所产生的假阴性，我们的论点表明，分组检测可以准确估算出该疾病在人群中的流行程度，并能在相连社区中及早发现流行病，同时保留了用于进一步大规模检测的检测。人口。</p>
+
+<h3 id="受限于社交疏远的公共场所人群控制">受限于社交疏远的公共场所人群控制</h3>
+
+<p>原文标题： Crowd Control in Plazas Constrained to Social Distancing</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.07038">http://arxiv.org/abs/2005.07038</a></p>
+
+<p>作者： Álvaro González García, James L. Martín R., Alessio Caciagli</p>
+
+<p>摘要： 我们根据WHO推荐的COVID-19大流行爆发后的措施，提出了一种简单而通用的方法来计算受限于社交疏远的公共场所的最大容量。该方法假定人与人之间的最小距离为两米，并在四个实际场所中进行了测试。此外，如果发生公共事件（例如市场或音乐会），我们估计公共空间的容量。我们认为，我们的方法将直接为所谓的“新常态”中的人群控制提供指导，这是未来更准确发展的第一步。</p>
+
+<h3 id="关于covid-19建模">关于COVID-19建模</h3>
+
+<p>原文标题： On COVID-19 Modelling</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.07004">http://arxiv.org/abs/2005.07004</a></p>
+
+<p>作者： Robert Schaback</p>
+
+<p>摘要： 这一贡献通过相对简单的数学和数值方法分析了COVID-19爆发。最终目标是使用可靠的技术预测每个国家的疫情暴发高峰。这是由标准SIR模型激发并与约翰·霍普金斯大学提供的标准数据保持一致的算法完成的。为了为未注册的感染者重建数据，该算法使用感染死亡率的当前值以及特定形式的恢复率的数据驱动估计。其他所有要素也都是数据驱动的。提供了预测的各种示例以用于说明。</p>
+
+<h3 id="控制covid-19大流行-在icu可持续性下平衡检测策略和锁定干预措施">控制COVID-19大流行：在ICU可持续性下平衡检测策略和锁定干预措施</h3>
+
+<p>原文标题： COVID-19 pandemic control: balancing detection policy and lockdown intervention under ICU sustainability</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06526">http://arxiv.org/abs/2005.06526</a></p>
+
+<p>作者： Arthur Charpentier, Romuald Elie, Mathieu Laurière, Viet Chi Tran</p>
+
+<p>摘要： 在这里，我们考虑一个扩展的SIR模型，其中包括最近发生的COVID-19暴发的几个特征：特别是可以检测到（+）或未检测到（-）的感染者和康复者，并且我们还整合了重症监护室的功能。我们的模型可以使用锁定和检测干预杠杆对流行病控制的最佳策略进行易于量化的定量分析。通过基于COVID-19文献​​的参数规范，我们考虑了大流行的卫生和经济成本之间的微妙权衡以及ICU的有限容量水平，研究了各种数量对最佳策略的敏感性。我们将最佳锁定策略确定为连续四个阶段构成的干预措施：首先是快速而强大的锁定干预措施，以阻止传染病的指数增长；第二个短暂的过渡阶段，以减少病毒的流行；第三，长期使用，具有足够的ICU容量和稳定的病毒流行率；最终随着病毒的消失恢复了正常的社交互动。我们还提供增加ICU能力的最佳干预措施，并优化检测感染性和免疫性个体的工作量。</p>
+
+<h3 id="有日常循环的结构化社会中的传染病传播动态">有日常循环的结构化社会中的传染病传播动态</h3>
+
+<p>原文标题： Spreading dynamics of infectious diseases on structured society with daily cycles</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06658">http://arxiv.org/abs/2005.06658</a></p>
+
+<p>作者： Kenichi Nakazato, Masanori Takano</p>
+
+<p>摘要： 我们面临着一个共同的严重问题，即传染病，并试图抑制感染的扩散。我们需要减少相互接触以减少感染的机会，但这也意味着经济活动的损失。在我们的社会中，这种折衷是不可避免的，因为到目前为止，我们仍然需要直接的沟通和通勤。本文的重点是我们直接接触的社会结构。我们使用人工社会模型研究传播过程，其中每个主体商每天都有一个周期，然后每天上班回家。同时，感染沿着SIR模型传播。我们显示，通过某些结构，可以同时实现慢速感染和短途通勤，反之亦然。实现这些特征的最有效因素是社会的模块化。在高度模块化的社会中，特工住在指定的办公室周围，但在非模块化的社会中，特工通勤到他们的办公室很长一段距离，并且会很快被感染。第一个感染点是特征的另一个因素。如果第一次感染发生在办公室附近，则感染的传播速度会变慢。相反，如果第一个发生在远离办公室的地方，感染可能会很快。我们展示了一种设计原则，高度模块化和稀疏分布的办公室，以实现良好社会，并讨论了我们所居住的现实社会中可能的解决方案。</p>
+
+<h3 id="crisisbert-用于危机分类和上下文危机嵌入的鲁棒transformer">CrisisBERT：用于危机分类和上下文危机嵌入的鲁棒Transformer</h3>
+
+<p>原文标题： CrisisBERT: Robust Transformer for Crisis Classification and Contextual Crisis Embedding</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06627">http://arxiv.org/abs/2005.06627</a></p>
+
+<p>作者： Junhua Liu, Trisha Singhal Lucienne T.M. Blessing, Kristin L. Wood, Kwan Hui Lim</p>
+
+<p>摘要： 对自然灾害，恐怖袭击和流行病等危机事件进行分类是至关重要的任务，它可以产生早期信号，并通知有关各方采取自发行动以减少总体损失。尽管专业机构可以预测自然灾害等危机，但某些事件首先是平民发出的信号，例如最近发生的COVID-19大流行。诸如Twitter之类的社交媒体平台经常通过大量信息交换来公开此类危机的第一手信号，每天发布的推文超过十亿条。先前的工作提出了使用常规机器学习和神经网络模型进行的各种危机嵌入和分类。但是，没有作品使用基于注意力的最先进的深度神经网络模型（例如，变形金刚和文档级上下文嵌入）来执行危机嵌入和分类。这项工作提出了CrisisBERT，这是一个基于端到端基于变压器的模型，用于两个危机分类任务，即危机检测和危机识别，该模型在准确性和f1分数上显示出可喜的结果。所提出的模型还展示了优于基准的鲁棒性，因为它显示了边际性能的折衷，同时从6个事件扩展到36个事件，仅增加了51.4％的数据点。我们还提出了Crisis2Vec，这是一种用于危机嵌入的基于注意力的文档级上下文嵌入体系结构，与传统的危机嵌入方法（如Word2Vec和GloVe）相比，其性能更高。据我们所知，我们的工作是首先提出在文献中使用基于变压器的危机分类和文档级上下文危机嵌入技术。</p>
+
+<h3 id="使用数字跟踪对人类动力学和生活方式建模">使用数字跟踪对人类动力学和生活方式建模</h3>
+
+<p>原文标题： Modeling Human Dynamics and Lifestyle Using Digital Traces</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06542">http://arxiv.org/abs/2005.06542</a></p>
+
+<p>作者： Sharon Xu, Steven Morse, Marta C. González</p>
+
+<p>摘要： 人类行为驱动着一系列复杂的社会，城市和经济系统，但是在个人层面上了解其结构和动态仍然是一个悬而未决的问题。从信用卡交易到通信数据，人的行为似乎表现出由任务优先级和周期性驱动的活动爆发，但是，当前的研究并未提供捕获这些机制的生成模型。我们提出了一个多元的周期性霍克斯过程（MPHP）模型，该模型在个人层面上捕获了人类活动的时间集群，不同活动的相互依存结构和共同激励以及每周节律的周期性影响。我们还为使用最大后验期望最大化的模型提供了可扩展的参数估计技术，该技术还提供了潜在变量的估计，揭示了个人行为模式的分支结构。我们将该模型应用于信用卡交易的大型数据集，并证明了MPHP在非均质的Poisson模型和LDA方面在事件间时间分布和活动预测任务的统计拟合方面均胜过非均质模型。</p>
+
+<h3 id="中立可能会很重要-巴西和美国的airbnb-booking和couchsurfing评论的情感分析">中立可能会很重要：巴西和美国的Airbnb、Booking和Couchsurfing评论的情感分析</h3>
+
+<p>原文标题： Neutrality May Matter: Sentiment Analysis in Reviews of Airbnb, Booking, and Couchsurfing in Brazil and USA</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06591">http://arxiv.org/abs/2005.06591</a></p>
+
+<p>作者： Gustavo Santos, Vinicius F. S. Mota, Fabricio Benevenuto, Thiago H. Silva</p>
+
+<p>摘要： 信息和通信技术推动了名为共享经济的现象的兴起，这种现象代表人们之间的活动，并通过在线平台进行协调，以获取，提供或共享对商品和服务的访问。在共享经济的托管服务中，主机和来宾之间通常会进行私人联系，这可能会影响用户做出负面评论的决定，因为负面评论会损害所提供的服务。为了评估此问题，我们收集了来自两个共享经济平台Airbnb和Couchsurfing的评论，以及一个针对巴西和美国一些城市的，主要与酒店（传统经济）合作的平台Booking.com的评论。通过情感分析，我们发现共享经济中的评论往往比传统经济中的评论更为积极。正如在这项研究中对志愿者进行的实验所暗示的那样，这可能代表了那些系统中的问题。此外，我们讨论了如何利用获得的结果来帮助改善用户的决策。</p>
+
+<h3 id="了解和检测社交媒体中的危险言论">了解和检测社交媒体中的危险言论</h3>
+
+<p>原文标题： Understanding and Detecting Dangerous Speech in Social Media</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06608">http://arxiv.org/abs/2005.06608</a></p>
+
+<p>作者： Ali Alshehri, El Moatez Billah Nagoudi, Muhammad Abdul-Mageed</p>
+
+<p>摘要： 社交媒体传播已成为现代社会日常活动的重要组成部分。因此，确保社交媒体平台的安全性是必要的。在线环境中使用诸如物理威胁之类的危险语言虽然很少见，但仍然非常重要。尽管已在检测攻击性和仇恨性语言的相关问题上进行了几项工作，但以前从未以任何重要方式处理过危险的言论。基于这些观察，我们报告了我们为建立危险语音标记数据集所做的努力。我们还利用我们的数据集来开发高效模型来检测危险内容。我们的最佳模型在宏观F1上的表现为59.60％，明显优于竞争基准。</p>
+
+<h3 id="impactcite-基于xlnet的引文影响分析方法">ImpactCite：基于XLNet的引文影响分析方法</h3>
+
+<p>原文标题： ImpactCite: An XLNet-based method for Citation Impact Analysis</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06611">http://arxiv.org/abs/2005.06611</a></p>
+
+<p>作者： Dominique Mercier, Syed Tahseen Raza Rizvi, Vikas Rajashekar, Andreas Dengel, Sheraz Ahmed</p>
+
+<p>摘要： 引文在理解科学文献的影响方面起着至关重要的作用。通常，对引文进行定量分析，而对引文进行定性分析可以揭示对科学人工制品在社区中产生的影响的更深刻见解。因此，引文影响分析（包括情感和意图分类）使我们能够量化引文的质量，最终可以帮助我们估算排名和影响。本文的贡献是双重的。首先，我们对诸如BERT和ALBERT之类的著名语言模型以及几种流行的网络进行基准测试，以完成情感和意图分类任务。其次，我们提供ImpactCite，这是基于XLNet的引文影响分析方法。所有评估均在一组公开可用的引文分析数据集上进行。评估结果表明，ImpactCite在引用意图和情感分类方面均达到了最新水平，在F1评分中的表现优于现有方法，分别为3.44％和1.33％。因此，对于这两个任务，我们都强调ImpactCite（基于XLNet的解决方案），以更好地理解引用的影响。为了做出CSC-Clean语料库，已经进行了更多的努力，CSC-Clean语料库是一种用于引用情绪分类的干净可靠的数据集。</p>
+
+<h3 id="具有公平约束的网络欺凌检测">具有公平约束的网络欺凌检测</h3>
+
+<p>原文标题： Cyberbullying Detection with Fairness Constraints</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06625">http://arxiv.org/abs/2005.06625</a></p>
+
+<p>作者： Oguzhan Gencoglu</p>
+
+<p>摘要： 网络欺凌是当今数字社会中在线社交互动中普遍存在的不利现象。尽管许多计算研究都集中在增强机器学习算法的网络欺凌检测性能上，但提出的模型往往会承载并加强意想不到的社会偏见。在本研究中，我们尝试回答“是否可以通过指导公平性约束下的模型训练来减轻网络欺凌检测模型的意外偏见？”的研究问题。为此，我们提出了一种模型训练方案，该方案可以采用公平约束，并使用不同的数据集来验证我们的方法。我们证明，可以在不损害模型质量的情况下成功缓解各种类型的意外偏差。我们相信，我们的工作有助于为网络社会健康寻求公正，透明和符合道德的机器学习解决方案。</p>
+
+<h3 id="通过特定领域的预处理和bert集成检测twitter上的不良药物反应">通过特定领域的预处理和BERT集成检测Twitter上的不良药物反应</h3>
+
+<p>原文标题： Detecting Adverse Drug Reactions from Twitter through Domain-Specific Preprocessing and BERT Ensembling</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06634">http://arxiv.org/abs/2005.06634</a></p>
+
+<p>作者： Amy Breden, Lee Moore</p>
+
+<p>摘要： 社交媒体中不良药物反应（ADR）检测的自动化将彻底改变药物警戒的做法，支持药物监管者，制药行业和公众确保日常实践中规定的药物安全。继2019年8月健康社交媒体挖掘（SMM4H）应用研讨会和共享任务的已出版议事日程之后，我们旨在开发一种深度学习模型来对包含药物提及的Twitter推文中的ADR进行分类。我们的方法涉及微调 BERT_ LARGE 和两个特定于域的BERT实现，即 BioBERT 和 Bio + ClinicalBERT ，应用特定于域的预处理器，并开发最大预测集合方法。我们的最终模型在 F_1 得分（0.6681）和召回率（0.7700）上均表现出一流的性能，胜过了SMM4H 2019和迄今为止的评估后提交的所有模型。</p>
+
+<h3 id="图同构对于图神经网络有多难">图同构对于图神经网络有多难？</h3>
+
+<p>原文标题： How hard is graph isomorphism for graph neural networks?</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06649">http://arxiv.org/abs/2005.06649</a></p>
+
+<p>作者： Andreas Loukas</p>
+
+<p>摘要： 图神经网络的特点是它们能够区分输入的同构类。这项研究得出了消息传递模型（MPNN）中图同构的第一个硬度结果。 MPNN涵盖了当今使用的大多数图神经网络，并且当节点具有独特功能时，它在极限方面是通用的。该分析依赖于引入的通信容量度量。容量衡量网络节点在前向传递期间可以交换多少信息，并取决于体系结构的深度，消息大小，全局状态和宽度。结果表明，MPNN的容量需要随着节点数量的增加而线性增长，以便网络可以区分树，而对于一般的连通图则可以平方地区分树。至关重要的是，导出的边界不仅适用于最坏情况，而且适用于所有输入的一部分。一项涉及12个不同难度任务和420个网络的实证研究表明，实际性能与理论预测之间具有很强的一致性。</p>
+
+<h3 id="单车道道路上的交通信号灯引起的相变">单车道道路上的交通信号灯引起的相变</h3>
+
+<p>原文标题： Phase transition induced by traffic lights on a single lane road</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06679">http://arxiv.org/abs/2005.06679</a></p>
+
+<p>作者： A. Chacoma, M. N. Kuperman, G. Abramson</p>
+
+<p>摘要： 在这项工作中，我们通过提出一个基于蜂窝自动机的交通模型来研究交通灯系统对单车道道路流量的影响，该模型还包括行为方面的考虑。通过研究车辆密度的变化和卡纸的发生，我们专注于系统的宏观表征。在这种情况下，我们观察并描述了自由流动和阻塞状态之间的相变。这种过渡是由停在交通信号灯处的车辆引起的不稳定性引起的。此外，我们分析了这些不稳定性对发生临界转变的车辆临界密度的影响，该临界密度取决于两个参数：（i）车辆流入，（ii）驾驶员的行为。对于后者，我们观察到关于驾驶员行为的交通灯扰动反馈可以将系统引导至不同的场景，对此也进行了分析。</p>
+
+<h3 id="印度社会分层结构内职业流动性的决定因素">印度社会分层结构内职业流动性的决定因素</h3>
+
+<p>原文标题： Determinants of occupational mobility within the social stratification structure in India</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06802">http://arxiv.org/abs/2005.06802</a></p>
+
+<p>作者： Vinay Reddy Venumuddala</p>
+
+<p>摘要： 在这项研究中，我们利用经验观察到的职业分层模式，以识别教育与个人的社会流动性之间的关系-后者通过个人职业与家庭传统利基职业之间的社会距离来近似。我们的研究借鉴了Lambert等人（2018）提出的一种新颖的职业网络建设，并进行了少许调整，以使用印度背景下的横断面家庭调查从经验上确定社会分层模式。为了研究的目的，我们使用IHDS-2数据集。</p>
+
+<h3 id="模拟社会身份识别驱动的共识形成的自适应网络模型">模拟社会身份识别驱动的共识形成的自适应网络模型</h3>
+
+<p>原文标题： An Adaptive Networks Model to Simulate Consensus Formation Driven by Social Identity Recognition</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06887">http://arxiv.org/abs/2005.06887</a></p>
+
+<p>作者： Kaiqi Zhang, Zinan Lv, Haifeng Du, Honghu Zou</p>
+
+<p>摘要： 社会系统中个体状态的共识模型已经成为物理学文献中最近研究的主题。我们在社会认同理论的框架下研究网络结构如何与个体状态协同发展。并且我们提出了一种自适应网络模型，通过评估个体之间的同质性来实现个体的状态共识或局部结构调整。具体来说，相似性阈值在不同初始条件下会显著影响网络的演化，因此会出现明显的群落结构和两极分化。更重要的是，存在着一个过渡阶段的关键点，网络可能会演变成一个重要的社区结构和状态一致的群体。</p>
+
+<h3 id="音乐流媒体平台上跳过行为的普遍性">音乐流媒体平台上跳过行为的普遍性</h3>
+
+<p>原文标题： The universality of skipping behaviours on music streaming platforms</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.06987">http://arxiv.org/abs/2005.06987</a></p>
+
+<p>作者： Jonathan Donier</p>
+
+<p>摘要： 最近在音乐流媒体平台上对跳跃行为的研究表明，给定歌曲的跳跃特征（即，作为歌曲中时间的函数的跳跃率的度量）可以被视为歌曲的某些固有特征。 ，就时间和地理区域而言，它既非常具体又非常稳定。在本文中，我们通过引入一个简单的跳跃行为模型使这一分析更进一步，在该模型中，给定歌曲的跳跃特征被视为对其中发生的少量事件的响应。特别是，它使我们能够准确识别触发跳过响应的事件的时间，以及跳过每个这些事件而跳过的用户比例。引人注目的是，由单个事件触发的响应似乎遵循在歌曲，体裁，设备和收听上下文之间一致的时间特征，这表明人们以普遍的方式对音乐惊喜做出反应。</p>
+
+<h3 id="共同发展的信息生态系统的恢复力和弹性">共同发展的信息生态系统的恢复力和弹性</h3>
+
+<p>原文标题： Resilience and elasticity of co-evolving information ecosystems</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.07005">http://arxiv.org/abs/2005.07005</a></p>
+
+<p>作者： María J. Palazzi, Albert Solé-Ribalta, Violeta Calleja-Solanas, S andro Meloni, Carlos A. Plata, Samir Suweis, Javier Borge-Holthoefer</p>
+
+<p>摘要： 人类的感知和认知能力是有限的资源。如今，在信息便宜的时代（廉价生产，操纵，传播），这种认知瓶颈转化为竞争者（个人，机构等）可见度的过度竞争。相同的社交交流动机（可见性）也促使演员与特定的模因相互互动，以寻求信息的病毒性。反过来，内容是由选择性压力驱动的，即持久和广泛传播的机会紧密地受到通信环境变化的影响。尽管存在所有这些复杂性，但我们在这里显示出，信息生态系统中用户-模因交互的底层体系结构，显然是混乱且嘈杂的，实际上是向新兴模式演变的，让人联想到自然生态系统中的模式。具体而言，我们通过对大量数据流的经验分析表明，通信网络在结构上具有弹性，即响应于环境扰动（例如异常事件）而从模块化架构变为嵌套式架构变化。然后，我们提出了一个以生态学为灵感的建模框架，揭示了引起观察到的动态重组的精确机制。最后，通过数值模拟，该模型可以预测-并且数据证实-用户为获得可见性而进行的奋斗促使网络重新平衡为一个非常受限制的组织：自相似嵌套安排的出现。</p>
+
+<h3 id="评论-针对聚类-分类和社区检测的改进的互信息度量">评论“针对聚类，分类和社区检测的改进的互信息度量”</h3>
+
+<p>原文标题： Comment on &ldquo;Improved mutual information measure for clustering, classification, and community detection&rdquo;</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.07007">http://arxiv.org/abs/2005.07007</a></p>
+
+<p>作者： Zhong-Yuan Zhang</p>
+
+<p>摘要： 最近的一篇文章提出减少相互信息，以评估聚类，分类和社区检测。这样做的动机是，在某些情况下，尤其是当所考虑的两个部门之间的集群数量不同时，标准归一化互信息（NMI）可能会给出与直觉相反的答案。动机是有道理的。但是，本文中给出的示例并不准确，此注释讨论了原因。此外，该评论还凭经验表明减少的互信息无法解决NMI的困难，甚至带来更多的困难。此评论还通过经验证明了Kappa的必要性。</p>
+
+<h3 id="使用机器学习技术在twitter上获取有关自然灾害响应的公众意见">使用机器学习技术在Twitter上获取有关自然灾害响应的公众意见</h3>
+
+<p>原文标题： Mining Public Opinion on Twitter about Natural Disaster Response Using Machine Learning Techniques</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2005.07019">http://arxiv.org/abs/2005.07019</a></p>
+
+<p>作者： Lingyu Meng, Zhijie Sasha Dong, Lauren Christenson, Lawrence Fulton</p>
+
+<p>摘要： 随着Internet的发展，社交媒体已成为发布灾难相关信息的重要渠道。分析文本中隐藏的态度，即所谓的情感分析，对于政府或救济机构提高灾难响应效率至关重要，但尚未引起足够的重视。本文旨在通过重点调查公众对灾难响应的态度并分析在救灾过程中有针对性的救灾物资来填补这一空白。研究包括四个步骤。首先，本文在抓取Twitter数据时实现了Python，然后，我们通过这些有意见的文本对公共感知器进行了定量评估，这些文本包含诸如对有向救灾物资的需求，对灾难响应的满意度以及对公众的恐惧之类的信息。创建了带有情感标签的自然灾害数据集，其中包含有关美国自然灾害的49,816个Twitter数据。其次，本文提出了用于情感预测的八个机器学习模型，这是用于分类问题的最受欢迎的模型。第三，通过各种指标对这些模型进行比较，本文还从模型参数和输入数据结构的角度讨论了这些模型的优化方法。最后，从分析不同自然灾害期间的舆论变化以及理解相同灾害与时间序列之间的关系的角度研究了一组现实世界的实例。本文的结果证明了所提出的研究方法的可行性和有效性，并为救济机构提供了更好的灾难响应见解。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，由本人进行翻译整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20200515/">https://www.complexly.cn/post/20200515/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20200514/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要12篇(2020-05-14)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
