@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要18篇(2020-05-18)</title>
+      <link>https://www.complexly.cn/post/20200518/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200518/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于深度Q学习/遗传算法的应对Covid-19大流行政府行动优化新方法;&lt;/li&gt;
+&lt;li&gt;考虑地理的流行病模型;&lt;/li&gt;
+&lt;li&gt;间歇但协调一致的区域策略可以缓解COVID-19流行：意大利案例的网络模型;&lt;/li&gt;
+&lt;li&gt;有缺失数据的网络中的免疫策略;&lt;/li&gt;
+&lt;li&gt;COVID-Twitter-BERT：一种自然语言处理模型，用于分析Twitter上的COVID-19内容;&lt;/li&gt;
+&lt;li&gt;黎巴嫩COVID-19传播动力学;&lt;/li&gt;
+&lt;li&gt;COVID-19危机期间Twitter中的信息领导者特征;&lt;/li&gt;
+&lt;li&gt;利用用户信任和移动性的电子健康敏感数据分发;&lt;/li&gt;
+&lt;li&gt;改造中国的燃煤电厂带来的汞有关的健康收益;&lt;/li&gt;
+&lt;li&gt;创新事业的成功与产品质量的关系不大;&lt;/li&gt;
+&lt;li&gt;动态图异常检测的结构含时图神经网络;&lt;/li&gt;
+&lt;li&gt;预测精神障碍在线社区中的用户情绪;&lt;/li&gt;
+&lt;li&gt;使用动态图神经网络的动态网络基础和建模：一项综述;&lt;/li&gt;
+&lt;li&gt;语言变化不是中性的空间证据;&lt;/li&gt;
+&lt;li&gt;能源和交通领域的共同转型的三个阶段;&lt;/li&gt;
+&lt;li&gt;基于真实数据的Facebook Prophet算法在成功销售预测中的应用;&lt;/li&gt;
+&lt;li&gt;复杂社会与法律的增长;&lt;/li&gt;
+&lt;li&gt;分析Twitter上流行词与城市词典活动之间的时间关系;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要25篇(2020-05-15)</title>
