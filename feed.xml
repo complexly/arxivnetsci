@@ -7,10 +7,60 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要38篇(2020-05-19)</title>
+      <link>https://www.complexly.cn/post/20200519/</link>
+      <pubDate>Tue, 19 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200519/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;COVID-19流行病的城市尺度律;&lt;/li&gt;
+&lt;li&gt;COVID-19期间Twitter活动的因果模型;&lt;/li&gt;
+&lt;li&gt;在部分封锁下维持经济：以大流行为中心的方法;&lt;/li&gt;
+&lt;li&gt;可持续发展的环境如何减少2019冠状病毒的传播：COVID-19感染扩散、污染工业化、风能（可再生）之间的相互作用;&lt;/li&gt;
+&lt;li&gt;精细时间分辨率的流行病学动态;&lt;/li&gt;
+&lt;li&gt;何时解除锁定？使用隔室高斯过程的全球COVID-19情景规划和政策效果;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行：依赖流动性的SEIR模型，考虑意大利、欧洲和美国未发现的病例;&lt;/li&gt;
+&lt;li&gt;针对高接触人群停止SARS-CoV-2传播;&lt;/li&gt;
+&lt;li&gt;印度COVID-19的动力学建模和分析;&lt;/li&gt;
+&lt;li&gt;在Twitter上表征COVID-19意识;&lt;/li&gt;
+&lt;li&gt;逃脱流行病：通过少数者博弈优化运动;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行的现象动力学：调整参数的综合分析;&lt;/li&gt;
+&lt;li&gt;关于预测COVID-19流行过程的数据驱动模型的说明;&lt;/li&gt;
+&lt;li&gt;使用SIR模型的修订版对Covid19在意大利的扩散进行建模;&lt;/li&gt;
+&lt;li&gt;全国性措施对COVID-19大流行的影响研究：隔室模型和机器学习;&lt;/li&gt;
+&lt;li&gt;使用NLP分析伊朗COVID-19大流行期间波斯/波斯推文的内容;&lt;/li&gt;
+&lt;li&gt;印度几个地区的COVID-19流行病参数;&lt;/li&gt;
+&lt;li&gt;仅根据社会距离来控制流行病;&lt;/li&gt;
+&lt;li&gt;巴西COVID-19动态流行病模型中复杂网络的社交互动层;&lt;/li&gt;
+&lt;li&gt;COVID-19传播的流行病学模型：南非案例研究;&lt;/li&gt;
+&lt;li&gt;迈向流行病传播的超计量建模;&lt;/li&gt;
+&lt;li&gt;图上的特征函数：见微知著，从统计描述量到参数模型;&lt;/li&gt;
+&lt;li&gt;神经随机块模型和可扩展的基于社区的图学习;&lt;/li&gt;
+&lt;li&gt;市区交通疏散流程模拟及应急交通管理政策的改进;&lt;/li&gt;
+&lt;li&gt;年轻人的优秀学业成绩与睡眠时间少和就寝时间晚有关;&lt;/li&gt;
+&lt;li&gt;为文字生成图片！大数据分析中的文本可视化;&lt;/li&gt;
+&lt;li&gt;测量和表征新闻网站上的仇恨言论;&lt;/li&gt;
+&lt;li&gt;关于巴西总统制的稳定性：统计分析;&lt;/li&gt;
+&lt;li&gt;基于图划分和图神经网络的层次图匹配的图相似度计算;&lt;/li&gt;
+&lt;li&gt;先探索低度节点加速了网络探索;&lt;/li&gt;
+&lt;li&gt;自适应影响最大化：如果影响节点不愿意成为种子;&lt;/li&gt;
+&lt;li&gt;Facebook用户数量偏差如何？比较Facebook用户的人口统计数据与人口普查数据以生成校正因子;&lt;/li&gt;
+&lt;li&gt;多重网络中特征向量非局部化的普遍性和SIS相变的性质;&lt;/li&gt;
+&lt;li&gt;中性机器人揭示社交媒体上的政治偏见;&lt;/li&gt;
+&lt;li&gt;深度学习用于社区发现：进步，挑战与机遇;&lt;/li&gt;
+&lt;li&gt;优化了在地理位置分散的参与者的共同地点开会的旅行;&lt;/li&gt;
+&lt;li&gt;带外生输入（NARX）神经网络非线性自回归在宏观经济预测、国家目标设定和全球竞争力评估中的应用;&lt;/li&gt;
+&lt;li&gt;具有记忆的时变网络中的随机游走;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2020-05-18)</title>
