@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要24篇(2020-05-21)</title>
+      <link>https://www.complexly.cn/post/20200521/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200521/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有离散年龄结构的人群中COVID-19大流行的最佳隔离策略;&lt;/li&gt;
+&lt;li&gt;空间异质性可能导致COVID-19时机和严重性发生较大的局部变化;&lt;/li&gt;
+&lt;li&gt;对流行病，社会动荡和其他集体行为的传播进行建模;&lt;/li&gt;
+&lt;li&gt;小世界网络上SARS-CoV-2的相变和社会疏远控制措施;&lt;/li&gt;
+&lt;li&gt;PeopleTraffic：协调隐私和流行病风险的通用框架;&lt;/li&gt;
+&lt;li&gt;控制COVID-19的隐藏增长;&lt;/li&gt;
+&lt;li&gt;对COVID-19近期工作的关键评估;&lt;/li&gt;
+&lt;li&gt;使用智能手机方法来管理COVID-19锁定和经济危机;&lt;/li&gt;
+&lt;li&gt;控制论城市：设计和控制适应性强的城市系统;&lt;/li&gt;
+&lt;li&gt;探测量子网络几何结构的谱维数;&lt;/li&gt;
+&lt;li&gt;静态和时间网络中的主题发现算法综述;&lt;/li&gt;
+&lt;li&gt;自激伊辛博弈;&lt;/li&gt;
+&lt;li&gt;在图上使用谱偏向随机游走的表示学习;&lt;/li&gt;
+&lt;li&gt;政治团体中的图像和错误信息：来自印度WhatsApp的证据;&lt;/li&gt;
+&lt;li&gt;p-范数扩散用于局部图聚类;&lt;/li&gt;
+&lt;li&gt;平衡的多重面孔：符号有向社会网络的多层次结构评估;&lt;/li&gt;
+&lt;li&gt;社会影响模型中的异质敏感性;&lt;/li&gt;
+&lt;li&gt;在Twitter上宣传网络的特征：一个案例研究;&lt;/li&gt;
+&lt;li&gt;通过城市科学增强城市治理：全球城市系统的多尺度动态;&lt;/li&gt;
+&lt;li&gt;随机性对节点嵌入稳定性的影响;&lt;/li&gt;
+&lt;li&gt;个性化的聊天机器人可信度等级;&lt;/li&gt;
+&lt;li&gt;基于GCN的用户表示学习，用于统一鲁棒推荐和欺诈者检测;&lt;/li&gt;
+&lt;li&gt;网络核心边缘结构的类型分辨;&lt;/li&gt;
+&lt;li&gt;鲁棒图神经网络的图结构学习;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2020-05-20)</title>
