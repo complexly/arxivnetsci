@@ -7,10 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要21篇(2020-05-25)</title>
+      <link>https://www.complexly.cn/post/20200525/</link>
+      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200525/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GeoCoV19：具有位置信息的数以亿计的多语言COVID-19推文的数据集;&lt;/li&gt;
+&lt;li&gt;贫困水平、社会和个人异质性解释了SARS-CoV-2流行病在拉丁美洲的增长;&lt;/li&gt;
+&lt;li&gt;随机检测数据中COVID-19的感染和病例识别;&lt;/li&gt;
+&lt;li&gt;方向性，异质性和相关性在流行病风险和传播中的作用;&lt;/li&gt;
+&lt;li&gt;接触式跟踪应用程序的易失性;&lt;/li&gt;
+&lt;li&gt;为什么大多数COVID-19感染曲线呈线性？;&lt;/li&gt;
+&lt;li&gt;通过Twitter对大数据进行机器学习以了解公众对COVID-19的反应;&lt;/li&gt;
+&lt;li&gt;感觉现在该重新开放了吗？基于重新开放情绪分析的COVID-19新常态情景;&lt;/li&gt;
+&lt;li&gt;当前NHSx联系人跟踪应用程序的风险评分计算;&lt;/li&gt;
+&lt;li&gt;COVID-19：简单模型出人意料的有效性;&lt;/li&gt;
+&lt;li&gt;预防COVID-19：气溶胶指南;&lt;/li&gt;
+&lt;li&gt;冠状病毒在固体表面沉积的呼吸液滴中存活的可能性;&lt;/li&gt;
+&lt;li&gt;COVID-19公众情绪见解和推特分类的机器学习;&lt;/li&gt;
+&lt;li&gt;自动检测信息网络中有影响力的参与者;&lt;/li&gt;
+&lt;li&gt;超图上动力学过程的相变和稳定性;&lt;/li&gt;
+&lt;li&gt;信息级联分析概述：模型、预测和最新进展;&lt;/li&gt;
+&lt;li&gt;图随机神经网络;&lt;/li&gt;
+&lt;li&gt;使用基于探针的数据评估信号化主干道性能的大规模可并行化方法;&lt;/li&gt;
+&lt;li&gt;图的度异质性促进随机游走更快地相遇;&lt;/li&gt;
+&lt;li&gt;具有数千万个节点的大规模复杂网络的多重分形分析的高效计算沙箱算法;&lt;/li&gt;
+&lt;li&gt;识别区域经济中的关键部门：使用投入产出数据的网络分析方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2020-05-22)</title>
