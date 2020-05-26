@@ -7,10 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要21篇(2020-05-26)</title>
+      <link>https://www.complexly.cn/post/20200526/</link>
+      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200526/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;量化COVID-19大流行对科学家的直接影响;&lt;/li&gt;
+&lt;li&gt;基于时间序列热门新词挖掘的COVID-19公众观点和情感监测系统;&lt;/li&gt;
+&lt;li&gt;Covid-19：对扩展SEIR模型的分析以及不同干预策略的比较;&lt;/li&gt;
+&lt;li&gt;COVID-19流行传播模型;&lt;/li&gt;
+&lt;li&gt;使用调整后的时变SIRD模型对意大利省级Covid-19的流行病数据进行建模;&lt;/li&gt;
+&lt;li&gt;COVID-19：使用有偏案例检测数据实时预测再生因子;&lt;/li&gt;
+&lt;li&gt;通过广义SEIR模型分析巴西的COVID-19流行病;&lt;/li&gt;
+&lt;li&gt;利用元胞自动机实现海德平衡;&lt;/li&gt;
+&lt;li&gt;同质树上k窒的Maki-Thompson谣言模型;&lt;/li&gt;
+&lt;li&gt;学术期刊中的令牌管理注册：区块链遇到无形大学;&lt;/li&gt;
+&lt;li&gt;人工多层社会合作狩猎的演变;&lt;/li&gt;
+&lt;li&gt;基于Zipf尺度指数探索城市化水平;&lt;/li&gt;
+&lt;li&gt;基于约束满意主体的宏观经济模型;&lt;/li&gt;
+&lt;li&gt;时滞预算影响最大化的近似边际扩展计算方法;&lt;/li&gt;
+&lt;li&gt;时空网络模体：模型、局限性、评估方法;&lt;/li&gt;
+&lt;li&gt;英国2017年和2019年大选民意测验的随机微分方程方法;&lt;/li&gt;
+&lt;li&gt;代理竞争社会中的自我诱导的阶级分层：存在嫉妒时的纳什稳定性;&lt;/li&gt;
+&lt;li&gt;随机矩阵在软谱中的应用;&lt;/li&gt;
+&lt;li&gt;1992-2015年人工夜间灯光的时空网络演变;&lt;/li&gt;
+&lt;li&gt;推荐评论有用吗？批评评论和可能的改进;&lt;/li&gt;
+&lt;li&gt;ERC20上的用户行为和代币采用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要21篇(2020-05-25)</title>
