@@ -7,10 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要21篇(2020-05-27)</title>
+      <link>https://www.complexly.cn/post/20200527/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200527/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;澳大利亚、韩国和意大利城市疫区大气环境与COVID-19之间的短期季节性分析;&lt;/li&gt;
+&lt;li&gt;使用LSTM和动态行为模型预测控制场景下Covid-19的传播;&lt;/li&gt;
+&lt;li&gt;我们可以从斯洛文尼亚COVID-19流行病的时间演变中学到什么？;&lt;/li&gt;
+&lt;li&gt;种族主义是一种病毒：在COVID-19危机期间社交媒体上的反亚裔仇恨和反仇恨;&lt;/li&gt;
+&lt;li&gt;COVID-19与社会隔离悖论：危险与解决方案;&lt;/li&gt;
+&lt;li&gt;社会互联世界中的社会距离作为一种网络人口博弈;&lt;/li&gt;
+&lt;li&gt;针对COVID-19的旅游城市可持续弹性策略：一种基于主体的方法;&lt;/li&gt;
+&lt;li&gt;通过室内模拟与SARS-CoV-2传播相关的数值模拟对气溶胶输运和病毒暴露进行建模;&lt;/li&gt;
+&lt;li&gt;卡塔尔Covid-19爆发的SEIRD模型：案例研究;&lt;/li&gt;
+&lt;li&gt;国际学生在COVID-19危机中的孤独、沮丧和压力水平。社交媒体和所在大学的作用;&lt;/li&gt;
+&lt;li&gt;Twitter关于COVID-19大流行的讨论和担忧：使用机器学习方法进行Twitter数据分析;&lt;/li&gt;
+&lt;li&gt;对澳大利亚COVID-19人口动态建模的概率分析;&lt;/li&gt;
+&lt;li&gt;人群可以客观地识别错误信息吗？判断尺度和评估者背景的影响;&lt;/li&gt;
+&lt;li&gt;环、网络、社区和城市中的Penney博弈和随机游走的非传递性;&lt;/li&gt;
+&lt;li&gt;个性化Pagerank算法用于多层网络中的信用风险演变;&lt;/li&gt;
+&lt;li&gt;可解释的网络对比学习;&lt;/li&gt;
+&lt;li&gt;塞内加尔农村地区电气化的社会经济影响;&lt;/li&gt;
+&lt;li&gt;一种衡量投票弹性和竞争力的计算方法;&lt;/li&gt;
+&lt;li&gt;嵌套区域的数学：以阿拉斯加为例;&lt;/li&gt;
+&lt;li&gt;基准图数据管理和处理系统综述;&lt;/li&gt;
+&lt;li&gt;城市交通拥堵中的多个突变阶段;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要21篇(2020-05-26)</title>
