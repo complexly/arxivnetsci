@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2020-05-28)</title>
+      <link>https://www.complexly.cn/post/20200528/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200528/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;估计COVID-19大流行中的感染病例数;&lt;/li&gt;
+&lt;li&gt;在斯洛文尼亚社会网络上模拟COVID-19大流行：估计预测内生不确定性;&lt;/li&gt;
+&lt;li&gt;疫情新闻：主流新闻媒体的Facebook专题页面和冠状病毒危机-计算内容分析;&lt;/li&gt;
+&lt;li&gt;瑞典SARS-CoV-2感染者的比例估计;&lt;/li&gt;
+&lt;li&gt;大规模去偏候选生成的对比学习;&lt;/li&gt;
+&lt;li&gt;无缝统一属性和项目：冷启动用户的会话建议;&lt;/li&gt;
+&lt;li&gt;可解释的高效异构图卷积网络;&lt;/li&gt;
+&lt;li&gt;人类邻近网络的双曲映射;&lt;/li&gt;
+&lt;li&gt;不断演化的科学网络的结构动力学;&lt;/li&gt;
+&lt;li&gt;复杂网络的几何同余和有效贪婪可导航性;&lt;/li&gt;
+&lt;li&gt;网络分析法检测虚假信息活动;&lt;/li&gt;
+&lt;li&gt;用于Twitter上的舆论预测的神经时态舆论建模;&lt;/li&gt;
+&lt;li&gt;含时科学作者网络中的性别和协作模式;&lt;/li&gt;
+&lt;li&gt;NARMADA：灾难和逆境的需求和可用资源管理助理;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要21篇(2020-05-27)</title>
