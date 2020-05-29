@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2020-05-29)</title>
+      <link>https://www.complexly.cn/post/20200529/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200529/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;SARS-CoV-2传播动力学中的随机性和异质性;&lt;/li&gt;
+&lt;li&gt;应对COVID-19信息疫情的挑战——数据、工具和道德规范;&lt;/li&gt;
+&lt;li&gt;用于探索COVID-19锁定退出策略的定量框架;&lt;/li&gt;
+&lt;li&gt;COVID-19与全球经济增长：采用大流行病的新古典主义增长模型进行政策模拟;&lt;/li&gt;
+&lt;li&gt;使用IBM SEIR模型在无标度网络上量化隔离的影响;&lt;/li&gt;
+&lt;li&gt;桥节点在流行病传播中的作用：不同的制度和交叉;&lt;/li&gt;
+&lt;li&gt;从医疗急救电话中预测Covid-19流行病的本地进展：以巴黎地区为例;&lt;/li&gt;
+&lt;li&gt;巴西的城市规模和COVID-19的传播;&lt;/li&gt;
+&lt;li&gt;LoopX：可视化并了解动态模型行为的起源;&lt;/li&gt;
+&lt;li&gt;用于一致性大量新闻流事件检测的复杂网络;&lt;/li&gt;
+&lt;li&gt;在不知道连接的情况下评估中心性;&lt;/li&gt;
+&lt;li&gt;揭示网络分区之间的共识和分歧;&lt;/li&gt;
+&lt;li&gt;全球恐怖主义数据的高阶时间分析;&lt;/li&gt;
+&lt;li&gt;Darkweb：社会网络异常;&lt;/li&gt;
+&lt;li&gt;POLUSA数据集：90万个考虑时间和网点人气影响的政治新闻文章;&lt;/li&gt;
+&lt;li&gt;保护社交平台撤回帖子的欺骗性删除;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2020-05-28)</title>
