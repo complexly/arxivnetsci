@@ -7,10 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 02 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要22篇(2020-06-03)</title>
+      <link>https://www.complexly.cn/post/20200603/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200603/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过平均场博弈控制流行病的传播;&lt;/li&gt;
+&lt;li&gt;SARS-CoV-2缓解措施的财政和死亡率影响平衡;&lt;/li&gt;
+&lt;li&gt;在危机事件期间发现需求并确定需求优先级的经验方法;&lt;/li&gt;
+&lt;li&gt;监测、建模、预测和控制Covid-19大流行的数据驱动方法：利用数据科学、流行病学和控制理论;&lt;/li&gt;
+&lt;li&gt;资源不确定的数据驱动型传染病控制;&lt;/li&gt;
+&lt;li&gt;针对SARS-CoV-2大流行的南非封城制度的量化及其所需的免疫力水平;&lt;/li&gt;
+&lt;li&gt;金融系统中的网络评估;&lt;/li&gt;
+&lt;li&gt;SSumM：大规模图的稀疏汇总;&lt;/li&gt;
+&lt;li&gt;大规模消息数据中的词-表情符号嵌入反映了表示符号的真实世界语义关联;&lt;/li&gt;
+&lt;li&gt;在消极协调下进行平均场博弈的薛定谔方法;&lt;/li&gt;
+&lt;li&gt;用于对话式社交媒体文本中的披露和支持建模的基于BERT的集成方法;&lt;/li&gt;
+&lt;li&gt;超图上的动力系统;&lt;/li&gt;
+&lt;li&gt;具有分层继承关系的信息网络的可扩展Top-k查询;&lt;/li&gt;
+&lt;li&gt;图展开网络：用于图信号降噪的可解释神经网络;&lt;/li&gt;
+&lt;li&gt;在LinkedIn中识别虚假档案文件;&lt;/li&gt;
+&lt;li&gt;一次一步：渐进主义能建立协调吗？;&lt;/li&gt;
+&lt;li&gt;Twitter数据采样如何影响美国选民行为特征;&lt;/li&gt;
+&lt;li&gt;社会网络的统计物理学;&lt;/li&gt;
+&lt;li&gt;分解多余的通勤：蒙特卡洛模拟方法;&lt;/li&gt;
+&lt;li&gt;从社交轨迹中学习意见动态;&lt;/li&gt;
+&lt;li&gt;超越成对交互之外的网络：结构和动力学;&lt;/li&gt;
+&lt;li&gt;电网频率数据库;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要20篇(2020-06-02)</title>
