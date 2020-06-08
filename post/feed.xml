@@ -7,10 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 05 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要22篇(2020-06-08)</title>
+      <link>https://www.complexly.cn/post/20200608/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200608/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;意大利COVID-19流行期间的人员流动性与病毒传播能力之间的关系;&lt;/li&gt;
+&lt;li&gt;COVID-19实时跟踪器和分析报告;&lt;/li&gt;
+&lt;li&gt;广义SEIR模型的分析和元胞自动机方法用于在拥挤的开放空间中传播的感染;&lt;/li&gt;
+&lt;li&gt;在大学环境中模拟COVID-19;&lt;/li&gt;
+&lt;li&gt;跨语言迁移学习，以应对COVID-19疫情;&lt;/li&gt;
+&lt;li&gt;考虑分类的神经网络主题模型及其在新型COVID-19虚假语料库中的应用;&lt;/li&gt;
+&lt;li&gt;Covid-19传输的空间约束同质聚类的识别;&lt;/li&gt;
+&lt;li&gt;COVID-19流行病研究II：孟买封锁期间的阶段性出现;&lt;/li&gt;
+&lt;li&gt;异构网络上流行模型的类型复制数;&lt;/li&gt;
+&lt;li&gt;个人行为如何导致在线社区规模不平等：基于主体的模拟;&lt;/li&gt;
+&lt;li&gt;算法标记对公平性的影响：来自维基百科的准实验证据;&lt;/li&gt;
+&lt;li&gt;行人和骑自行车者的危险路口在哪里：基于共现的方法;&lt;/li&gt;
+&lt;li&gt;网络异质性和图灵机制驱动的语言演化;&lt;/li&gt;
+&lt;li&gt;真实网络中分层主干的几何检测;&lt;/li&gt;
+&lt;li&gt;社会网络中的自适应多特征预算利润最大化;&lt;/li&gt;
+&lt;li&gt;“设定目标还是不设目标”：使用分类器组合识别和分析辱骂性文字;&lt;/li&gt;
+&lt;li&gt;Gandhipedia：一站式支持AI的门户，用于浏览Gandhian文学，生活事件及其社会网络;&lt;/li&gt;
+&lt;li&gt;从出行数据中提取公共交通的时空需求;&lt;/li&gt;
+&lt;li&gt;提取城市交通网络的多模式指纹;&lt;/li&gt;
+&lt;li&gt;总统比例：Twitter上与奥巴马和特朗普的公众互动探索;&lt;/li&gt;
+&lt;li&gt;使用可解释的机器学习方法研究国际移民的驱动力;&lt;/li&gt;
+&lt;li&gt;量化科学出版物的高阶影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要22篇(2020-06-05)</title>
