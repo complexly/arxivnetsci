@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2020-06-09)</title>
+      <link>https://www.complexly.cn/post/20200609/</link>
+      <pubDate>Tue, 09 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200609/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;预测和比较主要经济体COVID-19的非药物干预措施;&lt;/li&gt;
+&lt;li&gt;基于相互作用数据的SARS-CoV-2个体感染概率的持续学习与推断;&lt;/li&gt;
+&lt;li&gt;使用移动定位数据解释COVID-19的初始传播：一个案例研究;&lt;/li&gt;
+&lt;li&gt;使用数据驱动的SEIRD模型预测Covid-19在印度的传播情况;&lt;/li&gt;
+&lt;li&gt;COVID-19期间的学校教学计划;&lt;/li&gt;
+&lt;li&gt;隔离疲劳：COVID-19大流行爆发后，美国重新开放之前，社会隔离措施的首次减少;&lt;/li&gt;
+&lt;li&gt;社交媒体上的立场检测：最新动态和趋势;&lt;/li&gt;
+&lt;li&gt;过往的生产约束当前的能源需求：全球能源消耗的持续增长以及对缓解气候变化的影响;&lt;/li&gt;
+&lt;li&gt;GroupIM：神经群推荐的互信息最大化框架;&lt;/li&gt;
+&lt;li&gt;含时一致网络的链路预测;&lt;/li&gt;
+&lt;li&gt;高阶交互作用下合作的演化：从网络到超图;&lt;/li&gt;
+&lt;li&gt;在线广告安全性：问题、分类和未来方向;&lt;/li&gt;
+&lt;li&gt;谱聚类的平均灵敏度;&lt;/li&gt;
+&lt;li&gt;不匹配模型下信息级联脆弱性的敏锐阈值;&lt;/li&gt;
+&lt;li&gt;使用大型GPS轨迹集生成路线选择集的实验;&lt;/li&gt;
+&lt;li&gt;使用蚁群启发方法将粪便从家畜农场转移到农田中作为肥料;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要22篇(2020-06-08)</title>
