@@ -7,10 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 09 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要30篇(2020-06-11)</title>
+      <link>https://www.complexly.cn/post/20200611/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200611/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;CRISP：基于联系数据的个人级COVID-19感染风险估计的概率模型;&lt;/li&gt;
+&lt;li&gt;基于Moyal分布的SARS-Cov-II流行曲线的形态和数值特征;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行期间南美的社会距离和流动性测度：必要和充分条件;&lt;/li&gt;
+&lt;li&gt;使用感染源评估未诊断的COVID-19感染数量;&lt;/li&gt;
+&lt;li&gt;复杂网络上的随机传染动力学的深度学习;&lt;/li&gt;
+&lt;li&gt;使用纽约和新泽西州的COVID-19数据拟合基于时间的耦合SIR模型;&lt;/li&gt;
+&lt;li&gt;COVID-19距离措施时代，地铁服务的最佳频率设置;&lt;/li&gt;
+&lt;li&gt;通过社交距离进行的SIR流行病模型最佳免疫控制;&lt;/li&gt;
+&lt;li&gt;双稳态传染动力学的衰老和松弛;&lt;/li&gt;
+&lt;li&gt;Covid-19传播预测模型应用于美国六个州;&lt;/li&gt;
+&lt;li&gt;COVID-19全球数据科学项目摘要报告;&lt;/li&gt;
+&lt;li&gt;社交媒体和COVID-19：能否在不衡量人类活动的情况下量化社会距离？;&lt;/li&gt;
+&lt;li&gt;关于流动性和住院能力之间的相互作用：SEIRHUD模型;&lt;/li&gt;
+&lt;li&gt;通过随机SEIR模型模拟法国和意大利的第二波COVID-19感染;&lt;/li&gt;
+&lt;li&gt;两个社区的故事：通过/r/China_Flu和/r/Coronavirus表征Reddit对COVID-19的响应;&lt;/li&gt;
+&lt;li&gt;有寄生虫感染的社会行为的滞后效应;&lt;/li&gt;
+&lt;li&gt;通过图粗粒化和匹配进行分层大规模图相似度计算;&lt;/li&gt;
+&lt;li&gt;广义组合网络的标量解和向量解之间的差距;&lt;/li&gt;
+&lt;li&gt;网络上的node2vec随机游走分析;&lt;/li&gt;
+&lt;li&gt;Persona2vec：图的灵活多角色表示学习框架;&lt;/li&gt;
+&lt;li&gt;Pyvis和VisJS的网络可视化;&lt;/li&gt;
+&lt;li&gt;Facebook上美国大学网络的结构;&lt;/li&gt;
+&lt;li&gt;全间隔12音行的旅行者指南;&lt;/li&gt;
+&lt;li&gt;非线性游走和拥塞网络的有效探索;&lt;/li&gt;
+&lt;li&gt;DyHGCN：动态异构图卷积网络，用于学习用户的信息扩散预测动态偏好;&lt;/li&gt;
+&lt;li&gt;通过对比子图可解释的脑网络分类;&lt;/li&gt;
+&lt;li&gt;重新评估音素频率;&lt;/li&gt;
+&lt;li&gt;通过深度学习检测时间序列中的结构扰动;&lt;/li&gt;
+&lt;li&gt;电影中的镜头：初步分析;&lt;/li&gt;
+&lt;li&gt;针对多样和经验丰富的群体的公平聚类;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2020-06-09)</title>
