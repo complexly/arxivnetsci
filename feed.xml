@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2020-06-18)</title>
+      <link>https://www.complexly.cn/post/20200618/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200618/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;包含公众行为和政府行为的COVID-19流行病学模型的非线性动态分析;&lt;/li&gt;
+&lt;li&gt;SEIR流行病模型的渐近近似解析解;&lt;/li&gt;
+&lt;li&gt;锁定是否达到了目的？;&lt;/li&gt;
+&lt;li&gt;通过神经网络平均场动力学进行网络扩散;&lt;/li&gt;
+&lt;li&gt;具有综合住户调整方法的人口微观模拟模型;&lt;/li&gt;
+&lt;li&gt;等距图神经网络;&lt;/li&gt;
+&lt;li&gt;具有时变功能的网络的宏观和微观特征，用于评估应对外部扰动的恢复力;&lt;/li&gt;
+&lt;li&gt;在社交媒体上调节算法过滤;&lt;/li&gt;
+&lt;li&gt;利用预测的力量：针对延迟敏感的移动边计算的预测服务放置;&lt;/li&gt;
+&lt;li&gt;基于推文的数据集用于公司级股票收益预测;&lt;/li&gt;
+&lt;li&gt;NNC：图上动力系统的神经网络控制;&lt;/li&gt;
+&lt;li&gt;多样的策略身份在演化博弈中诱发动力学状态;&lt;/li&gt;
+&lt;li&gt;聚类扩散重排;&lt;/li&gt;
+&lt;li&gt;STAD：交通时差的时空估计的时空调整;&lt;/li&gt;
+&lt;li&gt;增量无损图汇总;&lt;/li&gt;
+&lt;li&gt;国家赞助的巨魔是否塑造了美国总统选举的讨论？量化Twitter的影响;&lt;/li&gt;
+&lt;li&gt;GCC：用于图神经网络预训练的图对比编码;&lt;/li&gt;
+&lt;li&gt;关系社会数据的比例选择模型;&lt;/li&gt;
+&lt;li&gt;基于移动设备位置数据的数据驱动出行方式份额估计框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2020-06-17)</title>
