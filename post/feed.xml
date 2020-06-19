@@ -7,10 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要22篇(2020-06-19)</title>
+      <link>https://www.complexly.cn/post/20200619/</link>
+      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200619/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;病毒传播分析：随机流行病学模型的转变模型表示;&lt;/li&gt;
+&lt;li&gt;天气影响中国大陆COVID-19的爆发;&lt;/li&gt;
+&lt;li&gt;随机图上的感染传播：COVID-19的渗流模型;&lt;/li&gt;
+&lt;li&gt;改进流行病学模型以了解COVID-19对弱势个体的不均衡影响以及帮助他们摆脱锁定状态所需的方法;&lt;/li&gt;
+&lt;li&gt;COSRE：COVID-19大流行的社区暴露风险估算;&lt;/li&gt;
+&lt;li&gt;适应性出行政策对城市环境中COVID-19传播的影响：韩国首尔的干预分析;&lt;/li&gt;
+&lt;li&gt;COVID-ABS：基于主体的COVID-19流行病模型，用于模拟社交距离干预的健康和经济影响;&lt;/li&gt;
+&lt;li&gt;SIR模型假设用于COVID-19在不同社区的传播;&lt;/li&gt;
+&lt;li&gt;在COVID-19大流行期间模拟室内水平的非药物干预措施：基于行人动力学的微观模拟方法;&lt;/li&gt;
+&lt;li&gt;COVID-19期间的非洲冲突：社会疏远、粮食脆弱性和福利响应;&lt;/li&gt;
+&lt;li&gt;在社交媒体平台中识别抱怨推文的迭代方法;&lt;/li&gt;
+&lt;li&gt;当场捉住他们：社交媒体上的实时攻击检测;&lt;/li&gt;
+&lt;li&gt;使用情感信息抢先检测在线会话中的有毒评论;&lt;/li&gt;
+&lt;li&gt;子图神经网络;&lt;/li&gt;
+&lt;li&gt;专家对物理学论文进行了里程碑式的分配，衡量破坏性的几种指标的收敛效度;&lt;/li&gt;
+&lt;li&gt;基于命名行为建模的多视图方法，用于跨多个网络对齐中文用户帐户;&lt;/li&gt;
+&lt;li&gt;通过Twitter评估美国城市公园的幸福感;&lt;/li&gt;
+&lt;li&gt;模拟包装和开裂;&lt;/li&gt;
+&lt;li&gt;未来美国电网的异功能图弹性;&lt;/li&gt;
+&lt;li&gt;通过QUBO和数字退火进行市场图聚类;&lt;/li&gt;
+&lt;li&gt;社会网络等价性的统一框架;&lt;/li&gt;
+&lt;li&gt;科学和算法的（非）中立性：基础物理学与社会之间的机器学习;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要19篇(2020-06-18)</title>
