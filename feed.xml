@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2020-06-22)</title>
+      <link>https://www.complexly.cn/post/20200622/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200622/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;英国COVID-19封锁：对空气污染有什么影响;&lt;/li&gt;
+&lt;li&gt;计算疫情期间的风险增量以做出决策;&lt;/li&gt;
+&lt;li&gt;使用概率元胞自动机的COVID-19大流行计算模型;&lt;/li&gt;
+&lt;li&gt;启动推理增加了戴面罩以减慢COVID-19传播的意图;&lt;/li&gt;
+&lt;li&gt;遗传算法编程探视计划方案可以减少严格的COVID-19大流行人群锁定;&lt;/li&gt;
+&lt;li&gt;SenWave：在COVID-19大流行中监测全球情绪;&lt;/li&gt;
+&lt;li&gt;COVID-19期间奥地利社交媒体中的情绪仪表板;&lt;/li&gt;
+&lt;li&gt;几何、推理、复杂性和民主;&lt;/li&gt;
+&lt;li&gt;社会信任网络中的意见最大化;&lt;/li&gt;
+&lt;li&gt;HPRA：使用资源分配的超边预测;&lt;/li&gt;
+&lt;li&gt;测量青少年的幸福感：朴素的数字痕迹与调查数据的对应;&lt;/li&gt;
+&lt;li&gt;自适应扩散下具有多个观测的谣言源检测;&lt;/li&gt;
+&lt;li&gt;局部谱图滤波器框架：统一框架、设计注意事项调查和数值比较;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要22篇(2020-06-19)</title>
