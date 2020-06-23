@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要20篇(2020-06-23)</title>
+      <link>https://www.complexly.cn/post/20200623/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200623/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;EPIC30M：超过3000万条相关推文的流行病语料库;&lt;/li&gt;
+&lt;li&gt;FakeCovid-用于COVID-19的多语言跨域事实检查新闻数据集;&lt;/li&gt;
+&lt;li&gt;寻找零号患者：使用图神经网络学习传染源;&lt;/li&gt;
+&lt;li&gt;封锁是否抑制了印度的COVID-19感染率？一项数据驱动的分析;&lt;/li&gt;
+&lt;li&gt;监测政府干预对遏制COVID-19的影响：一种定量方法;&lt;/li&gt;
+&lt;li&gt;美国、亚洲和欧洲的COVID-19流行病时间数据表明，SARS-CoV-2 Spike D614G变种的选择性;&lt;/li&gt;
+&lt;li&gt;墨西哥的COVID-19：流行病网络;&lt;/li&gt;
+&lt;li&gt;基于邻近性的感染扩散的蒙特卡洛模拟研究;&lt;/li&gt;
+&lt;li&gt;使用双层变化模型分析国家锁定对某些欧洲国家和美国的COVID-19死亡的影响;&lt;/li&gt;
+&lt;li&gt;时间相关和时间独立的SIR模型用于阿根廷、巴西、哥伦比亚、墨西哥和南非的COVID-19暴发;&lt;/li&gt;
+&lt;li&gt;简单地量化通风以减轻病毒传播的必要性;&lt;/li&gt;
+&lt;li&gt;簇群内部和簇群之间的耦合平衡对非线性网络系统性能的影响;&lt;/li&gt;
+&lt;li&gt;高效的运输物流，奥地利城市货运的一种方法;&lt;/li&gt;
+&lt;li&gt;通过双边链接追踪抽样来衡量跨国社会领域;&lt;/li&gt;
+&lt;li&gt;Empirica：用于高通量宏观水平实验的虚拟实验室;&lt;/li&gt;
+&lt;li&gt;隐性众包用于识别在线社会网络中的虐待行为;&lt;/li&gt;
+&lt;li&gt;照片和标签：一种评估隐私行为的方法;&lt;/li&gt;
+&lt;li&gt;在根有向图上同步脉冲耦合振荡的可扩展复位算法;&lt;/li&gt;
+&lt;li&gt;自动查询优化以检索交通推文;&lt;/li&gt;
+&lt;li&gt;毁林与世界人口可持续性：定量分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2020-06-22)</title>
