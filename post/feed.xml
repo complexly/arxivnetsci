@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2020-06-24)</title>
+      <link>https://www.complexly.cn/post/20200624/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200624/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;县级自适应COVID-19预测模型：分析和改进;&lt;/li&gt;
+&lt;li&gt;使用图论和社交媒体数据评估沿海地区的文化生态系统服务：方法开发和应用;&lt;/li&gt;
+&lt;li&gt;具有策略见解和不结盟的观点扩散软件;&lt;/li&gt;
+&lt;li&gt;具有近似特征值轨迹的谱演化用于链路预测;&lt;/li&gt;
+&lt;li&gt;图原型网络用于属性网络的少量学习;&lt;/li&gt;
+&lt;li&gt;Lumos：用于诊断Web规模应用程序中度量回归的库;&lt;/li&gt;
+&lt;li&gt;增长的无标度单纯形;&lt;/li&gt;
+&lt;li&gt;使用多日行程单数据描绘乘车机动性：以中国北京为例;&lt;/li&gt;
+&lt;li&gt;连续时间基于事件的时间网络的Hawkes边分块模型;&lt;/li&gt;
+&lt;li&gt;多路和相互依赖系统的扩散几何;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要20篇(2020-06-23)</title>
