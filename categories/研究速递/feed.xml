@@ -7,10 +7,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要34篇(2020-06-30)</title>
+      <link>https://www.complexly.cn/post/20200630/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200630/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;C19-TraNet：SARS-CoV-2的实证全球索引案例传输网络;&lt;/li&gt;
+&lt;li&gt;使用位置数据发现COVID-19大流行期间移动减少反映的社会经济差距;&lt;/li&gt;
+&lt;li&gt;巴西的COVID-19（SARS-CoV-2）不确定性三角：对基于模型的大量低估预测进行的评估;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行期间美国空气质量和人员流动的变化;&lt;/li&gt;
+&lt;li&gt;传染病传播的时空预测建模框架;&lt;/li&gt;
+&lt;li&gt;为新COVID-19大流行传播建立模型方法及其欧洲国家实现;&lt;/li&gt;
+&lt;li&gt;您可以感染多少人？简单（幼稚）的估计再生数的方法;&lt;/li&gt;
+&lt;li&gt;封锁对城市间流动性的异质影响;&lt;/li&gt;
+&lt;li&gt;基于腔主方程的流行病模型动力学;&lt;/li&gt;
+&lt;li&gt;一种用于流行病遏制的隐私保护测试优化算法;&lt;/li&gt;
+&lt;li&gt;模型失败的案例研究？纽约州的COVID-19每日死亡人数和ICU床位使用预测;&lt;/li&gt;
+&lt;li&gt;留在社区中：集群之间的桥梁触发COVID-19的扩展;&lt;/li&gt;
+&lt;li&gt;英国COVID-19大流行的最佳锁定策略设计中使用流动性数据;&lt;/li&gt;
+&lt;li&gt;模拟类似Covid-19流行病中的过度死亡率;
+-用于网络元人口流行病的分布式链路删除策略，及其在控制COVID-19大流行中的应用;&lt;/li&gt;
+&lt;li&gt;网络上SIR流行病推断、预测和控制的闭环框架;&lt;/li&gt;
+&lt;li&gt;普通人群戴口罩可能会减弱COVID-19爆发;&lt;/li&gt;
+&lt;li&gt;异质性对超图传播模型的影响;&lt;/li&gt;
+&lt;li&gt;知识图谱上考虑公平的可解释推荐;&lt;/li&gt;
+&lt;li&gt;Axelrod模型的新型解析公式;&lt;/li&gt;
+&lt;li&gt;考虑社区结构的网络中节点的嵌入;&lt;/li&gt;
+&lt;li&gt;充分采纳反馈下影响力最大化的适应差距的更好界限;&lt;/li&gt;
+&lt;li&gt;跨学科研究与技术影响;&lt;/li&gt;
+&lt;li&gt;您不应该通过：避免在多维复杂网络中以最短路径为中心的虚假路径;&lt;/li&gt;
+&lt;li&gt;在不断演化的网络中挖掘持久性活动;&lt;/li&gt;
+&lt;li&gt;GPT-GNN：图神经网络的生成式预训练;&lt;/li&gt;
+&lt;li&gt;社会互动的网络结构动力学模型;&lt;/li&gt;
+&lt;li&gt;用于符号网络中社区检测的非回溯操作;&lt;/li&gt;
+&lt;li&gt;在几何设定中进行社区检测和信息渗流;&lt;/li&gt;
+&lt;li&gt;预测魔兽世界中的客户流失;&lt;/li&gt;
+&lt;li&gt;局部网络统计的中心极限定理;&lt;/li&gt;
+&lt;li&gt;CanaryTrap：检测在线社会网络上第三方应用程序的数据滥用;&lt;/li&gt;
+&lt;li&gt;分布式共识及其对社会网络中隐私和可观察性的影响;&lt;/li&gt;
+&lt;li&gt;彩色噪声时间序列是人工演化系统中环境变化的适当模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2020-06-29)</title>
