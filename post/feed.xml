@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要20篇(2020-07-01)</title>
+      <link>https://www.complexly.cn/post/20200701/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200701/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在Google迁移数据中使用偏微分方程对亚利桑那州的COVID-19进行建模;&lt;/li&gt;
+&lt;li&gt;轻度社会隔离背景下COVID-19期间的人员流动性：对技术干预的启示;&lt;/li&gt;
+&lt;li&gt;带有保护隐私的联系人跟踪功能的Social Distancing 2.0避免了第二波COVID-19;&lt;/li&gt;
+&lt;li&gt;用于遏制COVID-19传播的优化锁定策略：南非案例研究;&lt;/li&gt;
+&lt;li&gt;COVID-19的宏观经济SIR模型;&lt;/li&gt;
+&lt;li&gt;污染因素对塞内加尔COVID-19演化的影响;&lt;/li&gt;
+&lt;li&gt;对抗学习用于知识图谱嵌入去偏;&lt;/li&gt;
+&lt;li&gt;基于聚集和拓扑特征的有监督机器学习链路预测;&lt;/li&gt;
+&lt;li&gt;使用节点嵌入和机器学习来近似网络中心性度量;&lt;/li&gt;
+&lt;li&gt;基于主体的跨学科相互作用的模型;&lt;/li&gt;
+&lt;li&gt;在线动态网络嵌入;&lt;/li&gt;
+&lt;li&gt;混合Logit模型和网络形成;&lt;/li&gt;
+&lt;li&gt;在拥挤而复杂的环境中重新构想运输;&lt;/li&gt;
+&lt;li&gt;量子决策理论中的演化过程;&lt;/li&gt;
+&lt;li&gt;管理拥挤的博物馆：游客流量的度量、分析、建模和优化;&lt;/li&gt;
+&lt;li&gt;我称之为BS：众筹活动中的欺诈检测;&lt;/li&gt;
+&lt;li&gt;移动链路预测：知识图谱的自动创建和基于人群的验证;&lt;/li&gt;
+&lt;li&gt;现实高压电网中发电波动下的主要控制努力;&lt;/li&gt;
+&lt;li&gt;图神经网络用于图聚类;&lt;/li&gt;
+&lt;li&gt;逆势而上：管理影响博客吸引力的主体视角;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要34篇(2020-06-30)</title>
