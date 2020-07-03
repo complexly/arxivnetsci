@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2020-07-03)</title>
+      <link>https://www.complexly.cn/post/20200703/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200703/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于聚类的多元时间序列双演化：分析COVID-19;&lt;/li&gt;
+&lt;li&gt;Covid-19对大城市空气质量的影响;&lt;/li&gt;
+&lt;li&gt;支持实时COVID-19医疗管理决策：转移矩阵模型方法;&lt;/li&gt;
+&lt;li&gt;Twitter、人员流动和COVID-19;&lt;/li&gt;
+&lt;li&gt;网络上随机SIS流行病的PDE极限;&lt;/li&gt;
+&lt;li&gt;缺乏免疫力的隔室模型：Covid-19的分析和参数估计;&lt;/li&gt;
+&lt;li&gt;网络中聚类的简单二部图投影模型;&lt;/li&gt;
+&lt;li&gt;共享出行服务对于城市交通拥堵的低效;&lt;/li&gt;
+&lt;li&gt;多主体系统中的异构结果建模;&lt;/li&gt;
+&lt;li&gt;异构复杂社会主体的简单特征的涌现;&lt;/li&gt;
+&lt;li&gt;美国和欧洲的光污染：好，坏和丑;&lt;/li&gt;
+&lt;li&gt;双峰Kuramoto模型的有界置信度聚类和相图;&lt;/li&gt;
+&lt;li&gt;动态图的拉普拉斯变点检测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2020-07-02)</title>
