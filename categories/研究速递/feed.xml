@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2020-07-06)</title>
+      <link>https://www.complexly.cn/post/20200706/</link>
+      <pubDate>Mon, 06 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200706/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;COVID-19锁定引发移动网络的结构变化——对减缓疾病动态的启示;&lt;/li&gt;
+&lt;li&gt;使用最佳步长模型的社交距离;&lt;/li&gt;
+&lt;li&gt;从恐惧到仇恨：Covid-19大流行如何在美国引发种族歧视;&lt;/li&gt;
+&lt;li&gt;实时监测疫情演变的方法;&lt;/li&gt;
+&lt;li&gt;COVID-19第一波大流行期间的住院动态：SIR模型与比利时、法国、意大利、瑞士和纽约市的数据对比;&lt;/li&gt;
+&lt;li&gt;actSIS流行病动态中的主动控制和持续振荡;&lt;/li&gt;
+&lt;li&gt;带增长和优先连接的网络：建模和应用;&lt;/li&gt;
+&lt;li&gt;在图表示学习中最大化凝聚和分离：一种考虑距离的负采样方法;&lt;/li&gt;
+&lt;li&gt;多主体低维线性bandit;&lt;/li&gt;
+&lt;li&gt;受到竞争对手干扰时，对收益影响的总体评估;&lt;/li&gt;
+&lt;li&gt;查找最密的k连通子图;&lt;/li&gt;
+&lt;li&gt;用近似PageRank增加图神经网络规模;&lt;/li&gt;
+&lt;li&gt;映射二模网络中的流;&lt;/li&gt;
+&lt;li&gt;AWS上的WordPress：通信框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2020-07-03)</title>
