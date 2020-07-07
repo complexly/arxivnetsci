@@ -7,10 +7,47 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要25篇(2020-07-07)</title>
+      <link>https://www.complexly.cn/post/20200707/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200707/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;COVID-19后世界航空网络的情景;&lt;/li&gt;
+&lt;li&gt;美国COVID-19期间的州际旅行分析;&lt;/li&gt;
+&lt;li&gt;COVID-19和收入概况：不同收入群体的人们如何应对疾病暴发，美国案例研究;&lt;/li&gt;
+&lt;li&gt;基于模型的动态跟踪以预测COVID-19大流行的蔓延;&lt;/li&gt;
+&lt;li&gt;2020年上半年世界和感染人数最多的国家/地区用于模拟COVID-19流行病的叠加;&lt;/li&gt;
+&lt;li&gt;时间尺度在不对称相互作用疾病传播中的作用;&lt;/li&gt;
+&lt;li&gt;使用累计死亡数的有效COVID-19流行病模型;&lt;/li&gt;
+&lt;li&gt;使用社交媒体检测COVID-19大流行的主题和情感动态;&lt;/li&gt;
+&lt;li&gt;检测澳大利亚因COVID-19大流行而引起的社区抑郁动态;&lt;/li&gt;
+&lt;li&gt;探索性分析北美COVID-19相关推文以告知公共卫生机构;&lt;/li&gt;
+&lt;li&gt;空间迭代囚徒困境作为转换半群;&lt;/li&gt;
+&lt;li&gt;限制光污染对人类健康、环境和星空可见度的影响;&lt;/li&gt;
+&lt;li&gt;一个构建大型名​​称消岐数据集的框架：算法、可视化和人工协作;&lt;/li&gt;
+&lt;li&gt;识别含时网络中重要节点的含时引力模型;&lt;/li&gt;
+&lt;li&gt;被结构平衡的天堂驱逐;&lt;/li&gt;
+&lt;li&gt;高熵合金作为社会物理学的新隐喻;&lt;/li&gt;
+&lt;li&gt;刻画在线故意破坏行为：理性选择的视角;&lt;/li&gt;
+&lt;li&gt;AM-GCN：自适应多通道图卷积网络;&lt;/li&gt;
+&lt;li&gt;考虑空间、时间和社会维度的人员流动模型;&lt;/li&gt;
+&lt;li&gt;改划选区的（同调）持久性;&lt;/li&gt;
+&lt;li&gt;发起人对自由软件社区的组织结构的影响;&lt;/li&gt;
+&lt;li&gt;了解电子商务推荐系统中的回声室;&lt;/li&gt;
+&lt;li&gt;基于15世纪意大利战争的社区发现和社会网络分析;&lt;/li&gt;
+&lt;li&gt;通过隐式利用注意力和元路径来实现HIN的GCN;&lt;/li&gt;
+&lt;li&gt;党派排序导致气候政治两极分化：来自芬兰推文的证据;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2020-07-06)</title>
