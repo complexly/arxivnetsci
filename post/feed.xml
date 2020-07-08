@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要20篇(2020-07-08)</title>
+      <link>https://www.complexly.cn/post/20200708/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200708/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用时空图神经网络检验COVID-19预测;&lt;/li&gt;
+&lt;li&gt;流行病的统计物理网络预测SARS-CoV-2参数;&lt;/li&gt;
+&lt;li&gt;流感大流行封锁后同龄人透明对安全工作场所运营的好处;&lt;/li&gt;
+&lt;li&gt;乘用车内部的气流及其对空气传播疾病的影响;&lt;/li&gt;
+&lt;li&gt;集群网络上竞争的两病原体模型;&lt;/li&gt;
+&lt;li&gt;经济活动人工化学模型中税收对财富不平等的影响;&lt;/li&gt;
+&lt;li&gt;将图像映射到顺序网络;&lt;/li&gt;
+&lt;li&gt;平衡图分割的优先重排算法;&lt;/li&gt;
+&lt;li&gt;Hier-SPCNet：基于法律法规层次结构的异构网络，用于计算法律案件文档相似度;&lt;/li&gt;
+&lt;li&gt;具有连续学习功能的图神经网络从社交媒体中检测虚假新闻;&lt;/li&gt;
+&lt;li&gt;2018年FIFA世界杯资格赛的模拟分析;&lt;/li&gt;
+&lt;li&gt;文化融合：深入了解Twitter上的错误信息网络的行为;&lt;/li&gt;
+&lt;li&gt;通过磁性拉普拉斯算子谱表征和比较大型有向图;&lt;/li&gt;
+&lt;li&gt;具有完全不平衡标签的网络嵌入;&lt;/li&gt;
+&lt;li&gt;社交机器人检测的十年;&lt;/li&gt;
+&lt;li&gt;后真相世界中的P值;&lt;/li&gt;
+&lt;li&gt;大都市尺度的敏捷交通规划网络交通分配（MANTA）的微观仿真分析;&lt;/li&gt;
+&lt;li&gt;使用手机环境传感器的基于智能手机的健康评估;&lt;/li&gt;
+&lt;li&gt;PinnerSage：Pinterest推荐的多模式用户嵌入框架;&lt;/li&gt;
+&lt;li&gt;从具有部分连通性信息的固定流图信号流进行在线拓扑推断;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要25篇(2020-07-07)</title>
