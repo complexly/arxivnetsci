@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2020-07-09)</title>
+      <link>https://www.complexly.cn/post/20200709/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200709/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络上流行病传播的双曲模型：动力学描述和数值方法;&lt;/li&gt;
+&lt;li&gt;COVID-19爆发中的熵动态;&lt;/li&gt;
+&lt;li&gt;用于预测Covid-19大流行扩散的分数阶区室模型;&lt;/li&gt;
+&lt;li&gt;非裔美国人COVID-19发生率过高与动态隔离有关;&lt;/li&gt;
+&lt;li&gt;基于主体的行人动力学模拟，用于流行病风险评估中的暴露时间估计;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行对基础物理研究的影响;&lt;/li&gt;
+&lt;li&gt;异构网络中的大流行风险和均衡社会隔离;&lt;/li&gt;
+&lt;li&gt;印度封锁是否避免了死亡？;&lt;/li&gt;
+&lt;li&gt;通过演化逻辑电路研究开放适应性景观;&lt;/li&gt;
+&lt;li&gt;文化距离的网络结构;&lt;/li&gt;
+&lt;li&gt;稳健的多主体多臂Bandits;&lt;/li&gt;
+&lt;li&gt;使用AnambraDecides2017推文从情绪分析角度分析政党/候选人对选举结果的影响;&lt;/li&gt;
+&lt;li&gt;操纵经济中的博弈;&lt;/li&gt;
+&lt;li&gt;基于图神经网络的社交物联网聚类;&lt;/li&gt;
+&lt;li&gt;社交物联网中用于边缘计算的计算资源分配;&lt;/li&gt;
+&lt;li&gt;过滤气泡、回声室和强化：在选举数据中追踪民粹主义;&lt;/li&gt;
+&lt;li&gt;数据科学与建模艺术;&lt;/li&gt;
+&lt;li&gt;基于社交的实时交通检测研究;&lt;/li&gt;
+&lt;li&gt;社交媒体的自我品牌塑造和成功：来自模型竞赛的定量证据;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要20篇(2020-07-08)</title>
