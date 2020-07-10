@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 09 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2020-07-10)</title>
+      <link>https://www.complexly.cn/post/20200710/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200710/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;优化测试策略以检测COVID-19爆发;&lt;/li&gt;
+&lt;li&gt;将社会舆论纳入流行病传播的过程;&lt;/li&gt;
+&lt;li&gt;COVID-19感染曲线的时间序列分析：变化点视角;&lt;/li&gt;
+&lt;li&gt;种族对纽约市因COVID-19引起的感染和死亡的影响;&lt;/li&gt;
+&lt;li&gt;动态贝叶斯稳定演化的犯罪合作网络模型;&lt;/li&gt;
+&lt;li&gt;枚举最大(Δ,γ)团时间网络的队列的有效更新方法;&lt;/li&gt;
+&lt;li&gt;网络背书动态中层次结构的涌现;&lt;/li&gt;
+&lt;li&gt;对比多元对应分析（cMCA）：应用对比学习方法识别政治群体;&lt;/li&gt;
+&lt;li&gt;客户网络：用于预测新客户的交互式模型;&lt;/li&gt;
+&lt;li&gt;真实含时网络的可预测性;&lt;/li&gt;
+&lt;li&gt;Gintropy：基于基尼系数的熵概括;&lt;/li&gt;
+&lt;li&gt;具有个性化信息的投票模型出现两极分化;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要19篇(2020-07-09)</title>
