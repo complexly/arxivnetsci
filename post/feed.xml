@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2020-07-13)</title>
+      <link>https://www.complexly.cn/post/20200713/</link>
+      <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200713/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;固定时间的描述统计量低估了流行曲线组合的极端值;&lt;/li&gt;
+&lt;li&gt;流行期间的社会隔离博弈：局部与统计信息;&lt;/li&gt;
+&lt;li&gt;使用应用程序的消息传递方法进行流行病追踪和缓解;&lt;/li&gt;
+&lt;li&gt;Covid-19锁定改善了摩洛哥的空气质量;&lt;/li&gt;
+&lt;li&gt;疾病侦探：使用数学预测传染病的传播;&lt;/li&gt;
+&lt;li&gt;响应COVID-19：流行病传播的配置模型;&lt;/li&gt;
+&lt;li&gt;使用SIkJ alpha 模型快速准确地预测COVID-19死亡;&lt;/li&gt;
+&lt;li&gt;使用自旋系统预测选举民意测验;&lt;/li&gt;
+&lt;li&gt;使用含时图属性检测无权限区块链中的恶意帐户;&lt;/li&gt;
+&lt;li&gt;通过sybil子图混淆防止对社交图的主动重新识别攻击;&lt;/li&gt;
+&lt;li&gt;学习热扩散以进行网络对齐;&lt;/li&gt;
+&lt;li&gt;渗流框架揭示了阴谋、暗网和区块链网络中隐私的极限;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2020-07-10)</title>
