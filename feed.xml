@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 17 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2020-07-20)</title>
+      <link>https://www.complexly.cn/post/20200720/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200720/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;隔离反疫苗者是个好主意吗？;&lt;/li&gt;
+&lt;li&gt;渐进演化图的社区检测算法评估;&lt;/li&gt;
+&lt;li&gt;“统计独立性”与“逻辑不确定性”的比较，两种通过耦合生成聚类标准的方法：图模块化中的应用;&lt;/li&gt;
+&lt;li&gt;共享出行车辆服务的城市交通动态和最佳控制;&lt;/li&gt;
+&lt;li&gt;解构城市可达性和设施分布规律;&lt;/li&gt;
+&lt;li&gt;Twitter上信息级联的分支过程描述;&lt;/li&gt;
+&lt;li&gt;带有子图中心性的顶点区分：Estrada猜想的证明和一些推广;&lt;/li&gt;
+&lt;li&gt;图卷积网络的简化：基于矩阵分解的观点;&lt;/li&gt;
+&lt;li&gt;通过简单贪婪策略的自适应影响最大化的改进近似因子;&lt;/li&gt;
+&lt;li&gt;飓风“玛丽亚”过后，波多黎各人最关注当地信息资源;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2020-07-17)</title>
