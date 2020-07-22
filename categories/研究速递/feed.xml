@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2020-07-22)</title>
+      <link>https://www.complexly.cn/post/20200722/</link>
+      <pubDate>Wed, 22 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200722/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;COVID-19大流行对美国不同年龄层次的社区人员流动行为的影响;&lt;/li&gt;
+&lt;li&gt;SARS-CoV-2大流行事件的几何特征;&lt;/li&gt;
+&lt;li&gt;巴西南里奥格兰德州SARS-CoV-2爆发的分析;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行中反社会行为的分析;&lt;/li&gt;
+&lt;li&gt;建模墨西哥，芬兰和冰岛的Covid-19流行;&lt;/li&gt;
+&lt;li&gt;来自非洲国家的COVID-19数据研究;&lt;/li&gt;
+&lt;li&gt;在线方式从新闻文章自动构建故事;&lt;/li&gt;
+&lt;li&gt;CheckThat 2020的Check_square：通过Transformer和语法特征融合在社交媒体中进行版权声明检测;&lt;/li&gt;
+&lt;li&gt;从推文推断政治偏好;&lt;/li&gt;
+&lt;li&gt;用于空间敏感性分析的Scala库;&lt;/li&gt;
+&lt;li&gt;使用最优传输方法将COVID-19动力学与人类移动性联系在一起的聚类模式;&lt;/li&gt;
+&lt;li&gt;美国低偏见高分辨率剥夺指数的数学构造;&lt;/li&gt;
+&lt;li&gt;扩展的谢林模型中的粗糙度和雪崩：对城市士绅化的解释;&lt;/li&gt;
+&lt;li&gt;带有子图注意力的鲁棒层次图分类;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要21篇(2020-07-21)</title>
