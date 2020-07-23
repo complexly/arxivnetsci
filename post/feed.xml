@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2020-07-23)</title>
+      <link>https://www.complexly.cn/post/20200723/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200723/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;缓解疫情代价的最佳政策;&lt;/li&gt;
+&lt;li&gt;将大流行作为时间依赖的SIR模型的重整化群方法;&lt;/li&gt;
+&lt;li&gt;回测COVID-19的可预测性;&lt;/li&gt;
+&lt;li&gt;在线分析感染率可变的流行病;&lt;/li&gt;
+&lt;li&gt;基于SEAIR模型推断COVID-19的潜伏期分布;&lt;/li&gt;
+&lt;li&gt;COVID-19信息流行病期间意大利Facebook上的信息异常;&lt;/li&gt;
+&lt;li&gt;奥卡姆剃刀用于COVID-19模型拟合法国数据;&lt;/li&gt;
+&lt;li&gt;大图学习的无耦合训练架构;&lt;/li&gt;
+&lt;li&gt;使用特征间和特征内注意力网络的可解释谣言检测;&lt;/li&gt;
+&lt;li&gt;复杂网络中的级联故障;&lt;/li&gt;
+&lt;li&gt;稀疏图的快速图元变换;&lt;/li&gt;
+&lt;li&gt;异构网络中用于链路预测的上下文嵌入的自监督学习;&lt;/li&gt;
+&lt;li&gt;大规模异构网络表示学习的多语义元路径模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2020-07-22)</title>
