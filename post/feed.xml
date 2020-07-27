@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 24 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2020-07-27)</title>
+      <link>https://www.complexly.cn/post/20200727/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200727/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;信息疫情：呼吁跨学科研究的行动;&lt;/li&gt;
+&lt;li&gt;基于WiFi的人群监控和工作区规划以实现COVID-19恢复;&lt;/li&gt;
+&lt;li&gt;欧洲社会联系决定因素的在线附录和其他结果;&lt;/li&gt;
+&lt;li&gt;防止虚假新闻检测中过度信任的机器学习说明;&lt;/li&gt;
+&lt;li&gt;手机网络中位置的贝叶斯估计;&lt;/li&gt;
+&lt;li&gt;不相关网络上的度排序渗流;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2020-07-24)</title>
