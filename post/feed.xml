@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要18篇(2020-07-28)</title>
+      <link>https://www.complexly.cn/post/20200728/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200728/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;从气候变化到流行病：决策科学可以帮助科学家产生影响;&lt;/li&gt;
+&lt;li&gt;流行病心理学如何在社交媒体上起作用：对COVID-19大流行的反应的演变;&lt;/li&gt;
+&lt;li&gt;CoV-ABM：基于随机离散事件主体的框架，用于模拟COVID-19的时空动态;&lt;/li&gt;
+&lt;li&gt;机器学习辅助的全球诊断和比较工具来评估Covid-19传播中隔离控制的效果;&lt;/li&gt;
+&lt;li&gt;从ab-initio SEIR模型分析SARS-CoV-2的主要传输模式;&lt;/li&gt;
+&lt;li&gt;欧洲第二波COVID-19大流行：时间手册;&lt;/li&gt;
+&lt;li&gt;罗马尼亚Covid19分析和预测的模式转换;&lt;/li&gt;
+&lt;li&gt;COVID-19和印度：下一步做什么？;&lt;/li&gt;
+&lt;li&gt;COVID-19的SIQR模型的确切性质;&lt;/li&gt;
+&lt;li&gt;电磁辐射与冠状病毒粒子的最大相互作用;&lt;/li&gt;
+&lt;li&gt;检测在线仇恨言论：使用弱监督和网络嵌入模型的方法;&lt;/li&gt;
+&lt;li&gt;检测含时网络的动态状态;&lt;/li&gt;
+&lt;li&gt;讲故事的人：使用Twitter大规模探索社会语言、文化、社会经济和政治的时间线;&lt;/li&gt;
+&lt;li&gt;我们可以“感觉”到知识的温度吗？通过热力学对科学流行动力学进行建模;&lt;/li&gt;
+&lt;li&gt;DCDIR：针对保险领域冷启动用户的深层跨域推荐系统;&lt;/li&gt;
+&lt;li&gt;使用标签一致的图神经网络进行半监督节点分类;&lt;/li&gt;
+&lt;li&gt;走向多语言食谱的个性化和推荐;&lt;/li&gt;
+&lt;li&gt;特征向量在有向随机图中的局部化和通用性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2020-07-27)</title>
