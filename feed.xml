@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2020-07-29)</title>
+      <link>https://www.complexly.cn/post/20200729/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200729/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;SARS-CoV-2社会疏离的统计动态作为一种差分博弈;&lt;/li&gt;
+&lt;li&gt;通过社会成本优化控制COVID-19感染率;&lt;/li&gt;
+&lt;li&gt;放松锁定时间的简化模型;&lt;/li&gt;
+&lt;li&gt;使用全因死亡率稳健地估算意大利北部的COVID19流行曲线;&lt;/li&gt;
+&lt;li&gt;含时网络上SIR模型的快速且基于原理的仿真;&lt;/li&gt;
+&lt;li&gt;预测莫桑比克的COVID-19大流行并估计可能的情况;&lt;/li&gt;
+&lt;li&gt;日本的COVID-19发病率和死亡率与当地人口密度，温度和绝对湿度有关;&lt;/li&gt;
+&lt;li&gt;无服务器计算用于基于云的电网应急发电调度;&lt;/li&gt;
+&lt;li&gt;通过决策森林进行鲁棒的相似性和距离学习;&lt;/li&gt;
+&lt;li&gt;校准Google趋势的时间序列;&lt;/li&gt;
+&lt;li&gt;使用点过程提取的时间特征进行假新闻检测;&lt;/li&gt;
+&lt;li&gt;用于近似含时模体计数的有效采样算法（扩展版）;&lt;/li&gt;
+&lt;li&gt;大型企业帐户中攻击者活动的大规模分析;&lt;/li&gt;
+&lt;li&gt;建模和预测假新闻在Twitter上的传播;&lt;/li&gt;
+&lt;li&gt;网络上的Deffuant意见动力学模型的广义平均场逼近;&lt;/li&gt;
+&lt;li&gt;超越沟通强度来估计社会网络中的联系强度;&lt;/li&gt;
+&lt;li&gt;利用图论对社交媒体上沿海地区文化生态系统服务进行大规模评估;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2020-07-28)</title>
