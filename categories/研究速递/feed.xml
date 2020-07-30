@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2020-07-30)</title>
+      <link>https://www.complexly.cn/post/20200730/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200730/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络弹性;&lt;/li&gt;
+&lt;li&gt;稳定社区结构和社会排斥;&lt;/li&gt;
+&lt;li&gt;在引用图中找到科学共同体：收敛聚类;&lt;/li&gt;
+&lt;li&gt;推荐系统中使用基于频率的双哈希减少模型尺寸;&lt;/li&gt;
+&lt;li&gt;墨西哥城市联系网络;&lt;/li&gt;
+&lt;li&gt;多车道多类流量混合系统的平均场极限;&lt;/li&gt;
+&lt;li&gt;CommuNety：预测凝聚性社交社区的深度学习系统;&lt;/li&gt;
+&lt;li&gt;灾难调查：了解超级旋风孤儿的后遗症和社交媒体的帮助;&lt;/li&gt;
+&lt;li&gt;霍曼斯社会交往理论的一种计算方法;&lt;/li&gt;
+&lt;li&gt;针对Covid-19的印度特定隔室模型：通过整合地理、基础设施和响应异质性的预测和干预策略;&lt;/li&gt;
+&lt;li&gt;度相关网络上的可解流行病模型;&lt;/li&gt;
+&lt;li&gt;流行病对物理疏远策略的反应及其对爆发风险的影响;&lt;/li&gt;
+&lt;li&gt;SHIR模型：COVID-19案例数的现实拟合;&lt;/li&gt;
+&lt;li&gt;超级传播事件表明SARS-CoV-2的气溶胶传播是通过在封闭空间中的积累;&lt;/li&gt;
+&lt;li&gt;通过节点采样的流行病阈值的可扩展估计;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2020-07-29)</title>
