@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2020-07-31)</title>
+      <link>https://www.complexly.cn/post/20200731/</link>
+      <pubDate>Fri, 31 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200731/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;城市结构对COVID-19传播的影响;&lt;/li&gt;
+&lt;li&gt;建模复杂系统中随时间变化的交互：分数驱动动力学Ising模型;&lt;/li&gt;
+&lt;li&gt;稠密随机网络的谱密度和维格纳定律的分解;&lt;/li&gt;
+&lt;li&gt;复杂网络中物理流的伪达尔文演化;&lt;/li&gt;
+&lt;li&gt;作为引文聚类的主题链接到高被引文献：以国际关系研究为例;&lt;/li&gt;
+&lt;li&gt;公共采购活动的尺度行为;&lt;/li&gt;
+&lt;li&gt;基于异构信息网络的冷启动用户跨域保险推荐系统;&lt;/li&gt;
+&lt;li&gt;句法依存距离的最优性;&lt;/li&gt;
+&lt;li&gt;演化的考虑用户和上下文的推荐系统;&lt;/li&gt;
+&lt;li&gt;流行病控制的智能测试和选择性隔离;&lt;/li&gt;
+&lt;li&gt;社会影响力对人群智慧的模糊作用：一种分析方法;&lt;/li&gt;
+&lt;li&gt;深入的行为理解和使用：行为信息学方法;&lt;/li&gt;
+&lt;li&gt;为微型出行共享系统开发新颖的众包业务模型：方法和初步结果;&lt;/li&gt;
+&lt;li&gt;具有非平凡初始条件的临界SIR动力学中的流行病高原;&lt;/li&gt;
+&lt;li&gt;抑郁，滥用药物或提供信息：COVID-19爆发期间新闻曝光的知识感知研究;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2020-07-30)</title>
