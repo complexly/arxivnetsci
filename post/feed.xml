@@ -7,10 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要22篇(2020-08-04)</title>
+      <link>https://www.complexly.cn/post/20200804/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200804/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;校正社会人口统计学选择偏差，以从社交媒体准确预测人口;&lt;/li&gt;
+&lt;li&gt;TA-Dash：用于时空交通分析的交互式仪表板——演示论文;&lt;/li&gt;
+&lt;li&gt;使用起步和引导来缓解逆火效应;&lt;/li&gt;
+&lt;li&gt;从值机、犯罪和事件响应数据联合学习的用于巡逻高风险区域的多警察巡逻路线;&lt;/li&gt;
+&lt;li&gt;用于对比网络分析的可视化分析框架;&lt;/li&gt;
+&lt;li&gt;100,000,000,000个网络数据包的多时相分析和尺度关系;&lt;/li&gt;
+&lt;li&gt;Facebook100网络的基于学习的链路预测分析;&lt;/li&gt;
+&lt;li&gt;极端叶状态和树的内部状态;&lt;/li&gt;
+&lt;li&gt;兴趣聚类系数：针对Twitter等有向网络的新指标;&lt;/li&gt;
+&lt;li&gt;有效的自我修复网络，可应对资源分配控制中的攻击或灾难;&lt;/li&gt;
+&lt;li&gt;公司董事会互锁网络中社区成员身份的一致性;&lt;/li&gt;
+&lt;li&gt;流行的最初增长率无法预测其传播范围：大规模恶意软件传播分析的教训;&lt;/li&gt;
+&lt;li&gt;COVID-19期间推文的大规模语言无关的话语分类;&lt;/li&gt;
+&lt;li&gt;幂律人口异质性控制流行病波动;&lt;/li&gt;
+&lt;li&gt;具有无症状携带者的时态网络的广义SIS流行病模型和衰减率注释;&lt;/li&gt;
+&lt;li&gt;COVID-19爆发的模型：疫苗的有效性，以意大利为例;&lt;/li&gt;
+&lt;li&gt;为什么即使在疫情无法控制的情况下也能观察到平稳期？巴西Covid-19的n个不同种群相互作用的SEIR模型;&lt;/li&gt;
+&lt;li&gt;COVID-19空气传播（CAT）不等式：估算COVID-19空气传播的简单数学框架;&lt;/li&gt;
+&lt;li&gt;用于刻画加拿大COVID-19死亡率的广义加性模型;&lt;/li&gt;
+&lt;li&gt;巴西南里奥格兰德州COVID-19大流行演变的谱聚类方法;&lt;/li&gt;
+&lt;li&gt;具有主动决策策略的马尔可夫和非马尔可夫过程，用于解决COVID-19流行病;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行的分数模型：应用于意大利数据;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2020-08-03)</title>
