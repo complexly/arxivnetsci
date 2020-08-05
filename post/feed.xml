@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2020-08-05)</title>
+      <link>https://www.complexly.cn/post/20200805/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200805/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;COVID-19限制对二氧化氮和臭氧的大气浓度的全球影响;&lt;/li&gt;
+&lt;li&gt;通过多视图聚类表征2020年COVID-19大流行期间Twitter上的标签使用社团;&lt;/li&gt;
+&lt;li&gt;电网中停电的分布以及Motter和Lai模型;&lt;/li&gt;
+&lt;li&gt;将图像纳入社交媒体的消息准确性评估;&lt;/li&gt;
+&lt;li&gt;随机几何图的Ollivier-Ricci曲率收敛;&lt;/li&gt;
+&lt;li&gt;相互作用的非线性强化随机过程：同步和非同步;&lt;/li&gt;
+&lt;li&gt;伪造新闻和虚假信息的加权准确性算法;&lt;/li&gt;
+&lt;li&gt;COVID-19在线影子经济;&lt;/li&gt;
+&lt;li&gt;COVID-19感染风险中的暴露密度和邻里差异：使用大规模地理位置数据来了解弱势社区的负担;&lt;/li&gt;
+&lt;li&gt;一种用于建模城市土地利用中停车时间的机器学习方法;&lt;/li&gt;
+&lt;li&gt;日本COVID-19流行病的成核和生长模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要22篇(2020-08-04)</title>
