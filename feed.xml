@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2020-08-06)</title>
+      <link>https://www.complexly.cn/post/20200806/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200806/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Polya传染网络的初始化和固化策略;&lt;/li&gt;
+&lt;li&gt;理解社交距离政策、交通量、空气质量与城市街区COVID-19结果发生率之间的关系;&lt;/li&gt;
+&lt;li&gt;自利行为作为一种社会规范;&lt;/li&gt;
+&lt;li&gt;GloDyNE：保留全局拓扑的动态网络嵌入;&lt;/li&gt;
+&lt;li&gt;模拟集体决策下的流行病动态;&lt;/li&gt;
+&lt;li&gt;美国的COVID-19：轨迹和第二次高峰行为;&lt;/li&gt;
+&lt;li&gt;通过在线社会网络确定广告活动的k最佳目标;&lt;/li&gt;
+&lt;li&gt;挖掘Google和Apple的移动性数据：针对COVID-19的二十一类欧洲社交疏远措施;&lt;/li&gt;
+&lt;li&gt;真实复杂加权网络的新节点攻击策略;&lt;/li&gt;
+&lt;li&gt;大流行病建模和重整化群方程：接触矩阵、不动点和非特异性疫苗的影响减弱;&lt;/li&gt;
+&lt;li&gt;广义词移图：一种可视化和解释文本之间成对比较的方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-08-05)</title>
