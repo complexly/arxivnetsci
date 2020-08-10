@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2020-08-10)</title>
+      <link>https://www.complexly.cn/post/20200810/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200810/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;从幂律到极值混合分布;&lt;/li&gt;
+&lt;li&gt;晶体管：基于网络科学的历史视角;&lt;/li&gt;
+&lt;li&gt;使用新Twitter数据集表征COVID-19错误信息社区;&lt;/li&gt;
+&lt;li&gt;NewsTweet：在线新闻的社交媒体嵌入数据集;&lt;/li&gt;
+&lt;li&gt;调查高知名度Twitter帐户的“社交”协调目标;&lt;/li&gt;
+&lt;li&gt;优先选择模型的一般解;&lt;/li&gt;
+&lt;li&gt;在访问兴趣点的时间序列中检测预警信号，以检查人口对COVID-19大流行的反应;&lt;/li&gt;
+&lt;li&gt;智能手机共现可以检测到友谊吗？这取决于您如何建模;&lt;/li&gt;
+&lt;li&gt;论区域流动性、社会联系性和COVID-19在德国的传播;&lt;/li&gt;
+&lt;li&gt;通过融合和向量化为无向网络提升并行影响力最大化的核;&lt;/li&gt;
+&lt;li&gt;俄罗斯的人才流失和获得：使用Scopus文献计量数据1996-2020按学科分析研究人员的国际迁移;&lt;/li&gt;
+&lt;li&gt;建模COVID-19的演变;&lt;/li&gt;
+&lt;li&gt;生成嵌入社会网络中的异性二模网络;&lt;/li&gt;
+&lt;li&gt;具有因变量感染率的COVID-19大流行动态的数学模型：在韩国的应用;&lt;/li&gt;
+&lt;li&gt;COVID、BLM和美国政客在Twitter上的两极分化;&lt;/li&gt;
+&lt;li&gt;黎巴嫩冠状病毒（COVID-19）传播的建模与模拟;&lt;/li&gt;
+&lt;li&gt;COVID-19：如果免疫力减弱了怎么办？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-08-07)</title>
