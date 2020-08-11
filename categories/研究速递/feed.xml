@@ -7,10 +7,46 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要24篇(2020-08-11)</title>
+      <link>https://www.complexly.cn/post/20200811/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200811/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于不可靠数据的网络结构鲁棒贝叶斯推断;&lt;/li&gt;
+&lt;li&gt;加权模块化复杂网络中的主干提取;&lt;/li&gt;
+&lt;li&gt;从扩散模型的混合中推断网络以解决假新闻;&lt;/li&gt;
+&lt;li&gt;古典量化金融的倒抛物线世界：非均衡和非扰动金融视角;&lt;/li&gt;
+&lt;li&gt;MODEL：用于链路预测的基于Motif的深度特征学习;&lt;/li&gt;
+&lt;li&gt;大型网络：综述;&lt;/li&gt;
+&lt;li&gt;随机游走：算法与应用综述;&lt;/li&gt;
+&lt;li&gt;科学学中的预测方法及其应用：一项综述;&lt;/li&gt;
+&lt;li&gt;社会网络中的多元关系聚合学习;&lt;/li&gt;
+&lt;li&gt;对抗有向图嵌入;&lt;/li&gt;
+&lt;li&gt;分析网络的网络;&lt;/li&gt;
+&lt;li&gt;基于多种人口统计学特征的多样群体形成;&lt;/li&gt;
+&lt;li&gt;有向网络中社区检测的谱算法;&lt;/li&gt;
+&lt;li&gt;具有任意实际或理论度分布的随机增长模型;&lt;/li&gt;
+&lt;li&gt;流行病学监测与防范之间的差距;&lt;/li&gt;
+&lt;li&gt;联系人跟踪在缓解Covid-19传播方面的效率如何？数学建模方法;&lt;/li&gt;
+&lt;li&gt;通过基于社交媒体的交互对COVID-19进行机构级风险和响应交流的数据驱动推断;&lt;/li&gt;
+&lt;li&gt;墨尔本和悉尼的多中心动态：郊区的吸引力在房屋所有权层面划分了一个城市;&lt;/li&gt;
+&lt;li&gt;波斯Instagram用户检测机器人的行为建模;&lt;/li&gt;
+&lt;li&gt;ISTD-GCN：用于交通速度预测的迭代时空扩散图卷积网络;&lt;/li&gt;
+&lt;li&gt;集成和开放的COVID-19数据;&lt;/li&gt;
+&lt;li&gt;探索二部图中具有顶点参与度和连接强度的内聚子图;&lt;/li&gt;
+&lt;li&gt;故事情节可视化与无所不在的演员;&lt;/li&gt;
+&lt;li&gt;STAN：使用真实世界证据进行大流行预测的时空注意网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2020-08-10)</title>
