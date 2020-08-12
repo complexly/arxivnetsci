@@ -7,10 +7,48 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要26篇(2020-08-12)</title>
+      <link>https://www.complexly.cn/post/20200812/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200812/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;COVID-19大流行期间中国社交媒体新浪微博上的注意力动态;&lt;/li&gt;
+&lt;li&gt;小毛球：用于图采样的Python库;&lt;/li&gt;
+&lt;li&gt;用于网络情境意识的有向拉普拉斯中心性;&lt;/li&gt;
+&lt;li&gt;网络可控性的分层攻击框架;&lt;/li&gt;
+&lt;li&gt;用于隐蔽网络分析的综合网络生成器;&lt;/li&gt;
+&lt;li&gt;档案馆藏的全面性：一种现代的基于AI的方法来建立全面的共享文化遗产;&lt;/li&gt;
+&lt;li&gt;DREAM：用于社交推荐的动态关系感知模型;&lt;/li&gt;
+&lt;li&gt;使用网络嵌入来改善网络对齐;&lt;/li&gt;
+&lt;li&gt;委内瑞拉天文研究的衰落;&lt;/li&gt;
+&lt;li&gt;临时社会网络生成方法;&lt;/li&gt;
+&lt;li&gt;通过机构-引文网络衡量机构和论文的影响力;&lt;/li&gt;
+&lt;li&gt;作者影响力：评估、预测和挑战;&lt;/li&gt;
+&lt;li&gt;量化科学成功：概述;&lt;/li&gt;
+&lt;li&gt;非合作无线中继网络中以人为中心的通信研究;&lt;/li&gt;
+&lt;li&gt;科学文章推荐：利用共同作者关系和历史偏好;&lt;/li&gt;
+&lt;li&gt;具有个性特征的考虑社交的会议参与者推荐;&lt;/li&gt;
+&lt;li&gt;PIS：用于社会网络的多维路由协议;&lt;/li&gt;
+&lt;li&gt;流行病的形状：使用功能数据分析来表征意大利的COVID-19;&lt;/li&gt;
+&lt;li&gt;建立更现实的引文模型：研究团队规模的关键作用;&lt;/li&gt;
+&lt;li&gt;从众包数字路由选择支持中分离出流量;&lt;/li&gt;
+&lt;li&gt;经过验证的多主体模拟测试台，可以按时段在纽约市评估人群细分的拥堵定价策略;&lt;/li&gt;
+&lt;li&gt;社会距离信念和人类流动性：来自Twitter的证据;&lt;/li&gt;
+&lt;li&gt;在COVID-19流行情况下用于非药物干预研究的的基于城市尺度主体的模拟器;&lt;/li&gt;
+&lt;li&gt;计算COVID-19的成本：对Miles等人的评论;&lt;/li&gt;
+&lt;li&gt;图绘制算法的图灵测试;&lt;/li&gt;
+&lt;li&gt;自然灾害对消费者行为的影响：秘鲁2017年厄尔尼诺现象的案例;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要24篇(2020-08-11)</title>
