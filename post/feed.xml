@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2020-08-13)</title>
+      <link>https://www.complexly.cn/post/20200813/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200813/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;从网络数据重建超图;&lt;/li&gt;
+&lt;li&gt;使用Gompertz函数模拟COVID-19死亡和感染的蒙特卡洛方法;&lt;/li&gt;
+&lt;li&gt;预测学术论文的引文;&lt;/li&gt;
+&lt;li&gt;Sifter：基于主题的大规模视频管理的混合工作流;&lt;/li&gt;
+&lt;li&gt;基于危险食品阿拉伯文本的深度学习事件提取;&lt;/li&gt;
+&lt;li&gt;线程的智慧和说服力;&lt;/li&gt;
+&lt;li&gt;基于嵌入向量之间多种一致性的多元社会网络层间链路预测;&lt;/li&gt;
+&lt;li&gt;美国COVID危机期间的社交媒体和健康错误信息;&lt;/li&gt;
+&lt;li&gt;使用社交连通性核推断普遍的社会规模和隔离措施;&lt;/li&gt;
+&lt;li&gt;揭示多尺度网络纠缠对经验系统解耦的影响;&lt;/li&gt;
+&lt;li&gt;在Ad-Hoc社会网络中可靠传输热门数据包的开销控制;&lt;/li&gt;
+&lt;li&gt;Ad hoc社会网络中基于用户流行度的分组调度以进行拥塞控制;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要26篇(2020-08-12)</title>
