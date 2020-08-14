@@ -7,10 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 13 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要23篇(2020-08-14)</title>
+      <link>https://www.complexly.cn/post/20200814/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200814/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;针对目标扩散优化图结构;&lt;/li&gt;
+&lt;li&gt;机会网络中的人员流动性：特征、模型和预测方法;&lt;/li&gt;
+&lt;li&gt;交通系统时间相关性中的准平稳状态：以科隆轨道高速公路为例;&lt;/li&gt;
+&lt;li&gt;合适的工作工具：空间科学工具构建的案例;&lt;/li&gt;
+&lt;li&gt;非马尔可夫多数投票模型;&lt;/li&gt;
+&lt;li&gt;为什么美国各方如此两极化？ “满意吗？”动态模型;&lt;/li&gt;
+&lt;li&gt;具有节约倾向效应的财富分配简单有效动力学模型：基于格气自动机;&lt;/li&gt;
+&lt;li&gt;Reddit上COVID-19话语中性别差异的探索;&lt;/li&gt;
+&lt;li&gt;锁定措施控制COVID-19扩散的有效性研究;&lt;/li&gt;
+&lt;li&gt;有不确定性时正确分配的预期概率建模;&lt;/li&gt;
+&lt;li&gt;弹出式自行车道对欧洲城市骑行的影响;&lt;/li&gt;
+&lt;li&gt;p-创新生态系统模型;&lt;/li&gt;
+&lt;li&gt;网络特性对网络重构的影响;&lt;/li&gt;
+&lt;li&gt;城市尺度的动态拼车服务中平衡出租车分配：基于需求学习的混合解决方案;&lt;/li&gt;
+&lt;li&gt;躲避和生存：模拟躲避球的掠夺性;&lt;/li&gt;
+&lt;li&gt;通过模仿发展出的同质网络;&lt;/li&gt;
+&lt;li&gt;大区域Twitter上COVID-19信息的探索性研究;&lt;/li&gt;
+&lt;li&gt;自行车纵向运动建模;&lt;/li&gt;
+&lt;li&gt;逻辑方程和COVID-19;&lt;/li&gt;
+&lt;li&gt;常规方式不可能：DARPA红气球挑战赛已过去十年;&lt;/li&gt;
+&lt;li&gt;由演化博弈动力学控制的自愿隔离策略的流行病模型;&lt;/li&gt;
+&lt;li&gt;冠状病毒传播的拓扑数据分析模型;&lt;/li&gt;
+&lt;li&gt;在COVID-19传播中利用社交距离对感染和沮丧的恐惧进行建模的动态框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2020-08-13)</title>
