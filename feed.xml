@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2020-08-17)</title>
+      <link>https://www.complexly.cn/post/20200817/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200817/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;传输网络上的空间随机SIR模型及其在中国COVID-19疫情中的应用;&lt;/li&gt;
+&lt;li&gt;以貌取人：面部感知对社会网络中心性的影响;&lt;/li&gt;
+&lt;li&gt;使用移动数据对COVID-19暴发进行风险绘图;&lt;/li&gt;
+&lt;li&gt;基于大规模出行数据集的乘船旅行深度分析;&lt;/li&gt;
+&lt;li&gt;宿主间空气传播的多相流问题用于基于科学的社会距离准则;&lt;/li&gt;
+&lt;li&gt;一种标准不完全适合：Stack Overflow的徽章行为研究;&lt;/li&gt;
+&lt;li&gt;建模坚不可摧的恶意软件的第一步;&lt;/li&gt;
+&lt;li&gt;通过考虑社交的推荐来提高智能会议的参与度;&lt;/li&gt;
+&lt;li&gt;DINE：深度不完全网络嵌入的框架;&lt;/li&gt;
+&lt;li&gt;Exo-SIR：一种流行病学模型，用于分析印度COVID-19的外源性感染的影响;&lt;/li&gt;
+&lt;li&gt;考虑锁定政策和社会行为的COVID-19流行病学预测：玻利维亚;&lt;/li&gt;
+&lt;li&gt;Covid-19在人群中传播动力学的经验模型;&lt;/li&gt;
+&lt;li&gt;链上参与者的海德平衡取决于相互作用范围和热噪声;&lt;/li&gt;
+&lt;li&gt;基于BERT模型的社交媒体中的仇恨言论检测和种族偏见缓解;&lt;/li&gt;
+&lt;li&gt;ALONE：Twitter上青少年有害行为数据集;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要23篇(2020-08-14)</title>
