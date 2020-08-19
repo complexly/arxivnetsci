@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 18 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2020-08-19)</title>
+      <link>https://www.complexly.cn/post/20200819/</link>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200819/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;ReCOVery：COVID-19新闻可信度研究的多模式库;&lt;/li&gt;
+&lt;li&gt;使用隐马尔可夫模型对COVID-19大流行进行监控;&lt;/li&gt;
+&lt;li&gt;SF-GRASS：无求解器的图谱稀疏化;&lt;/li&gt;
+&lt;li&gt;具有环境反馈的生态演化动力：不断变化的世界中的合作;&lt;/li&gt;
+&lt;li&gt;在线极端主义中的隐藏秩序及通过推动集体化学而被破坏;&lt;/li&gt;
+&lt;li&gt;动态图绘制的新质量指标;&lt;/li&gt;
+&lt;li&gt;二次平均场博弈的松散联系和守恒数量;&lt;/li&gt;
+&lt;li&gt;活跃人群与COVID-19感染率的关系;&lt;/li&gt;
+&lt;li&gt;DRGraph：通过降维处理大型图的高效图布局算法;&lt;/li&gt;
+&lt;li&gt;Voronoi覆盖上基于AoI的开销最小多播路由;&lt;/li&gt;
+&lt;li&gt;L距离最小控制集问题的统计力学;&lt;/li&gt;
+&lt;li&gt;FANG：利用图表示通过社交环境进行假新闻检测;&lt;/li&gt;
+&lt;li&gt;从节点邻居挖掘具有质量保证的大型准团;&lt;/li&gt;
+&lt;li&gt;解构去中心化的三元困境;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2020-08-18)</title>
