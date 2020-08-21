@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2020-08-21)</title>
+      <link>https://www.complexly.cn/post/20200821/</link>
+      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200821/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;种族隔离模式的复杂性;&lt;/li&gt;
+&lt;li&gt;增强基于图神经网络的欺诈检测器以对抗伪装欺诈者;&lt;/li&gt;
+&lt;li&gt;通过学术数据分析理解导师-学生的关系;&lt;/li&gt;
+&lt;li&gt;累积投票的位置加权聚类方法;&lt;/li&gt;
+&lt;li&gt;VAIM：可视化分析以实现影响力最大化;&lt;/li&gt;
+&lt;li&gt;共享知识的诅咒：信息不完善的协调博弈中的递归信念推理;&lt;/li&gt;
+&lt;li&gt;基于相似度和基于GNN的链路预测方法的比较研究;&lt;/li&gt;
+&lt;li&gt;用于理解广告主意图和满意度的深度预测网络;&lt;/li&gt;
+&lt;li&gt;PRINCIPIA：去中心化的同行评审生态系统;&lt;/li&gt;
+&lt;li&gt;图同构网络中的训练敏感性;&lt;/li&gt;
+&lt;li&gt;我们如何应对COVID-19大流行？通过Twitter视角分析印度人不断变化的情绪;&lt;/li&gt;
+&lt;li&gt;针对COVID-19开发AI解决方案时的注意事项、良好实践、风险和陷阱;&lt;/li&gt;
+&lt;li&gt;建模亲社会意识对COVID-19动态的影响：哥伦比亚的案例研究;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2020-08-20)</title>
