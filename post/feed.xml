@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2020-08-24)</title>
+      <link>https://www.complexly.cn/post/20200824/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200824/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图上分布的方差和协方差;&lt;/li&gt;
+&lt;li&gt;空间相关功能数据的空间同质性学习及其在COVID-19增长率曲线中的应用;&lt;/li&gt;
+&lt;li&gt;导航复杂网络中的差异结构;&lt;/li&gt;
+&lt;li&gt;在美国COVID期间平衡自由、权利和责任：反限制和亲限制话语研究;&lt;/li&gt;
+&lt;li&gt;隔离期间生产率的悖论：基于主体的模拟;&lt;/li&gt;
+&lt;li&gt;使用去趋势反卷积外汇网络识别货币状态;&lt;/li&gt;
+&lt;li&gt;寻找零病患：医院病原体传播途径的可视化分析;&lt;/li&gt;
+&lt;li&gt;适用于恶劣环境的鲁棒高效的群体通信拓扑;&lt;/li&gt;
+&lt;li&gt;小型学院中COVID-19传播建模;&lt;/li&gt;
+&lt;li&gt;跨在线社会网络的个人资料匹配;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2020-08-21)</title>
