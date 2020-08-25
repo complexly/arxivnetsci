@@ -7,10 +7,54 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要32篇(2020-08-25)</title>
+      <link>https://www.complexly.cn/post/20200825/</link>
+      <pubDate>Tue, 25 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200825/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GraphReach：使用可达性估计的考虑位置的图神经网络;&lt;/li&gt;
+&lt;li&gt;密度函数涨落理论预测邻里尺度人口隔离分布动态;&lt;/li&gt;
+&lt;li&gt;通过集成层次聚类和关系度量学习的考虑树结构的图表示学习;&lt;/li&gt;
+&lt;li&gt;复杂网络的任意未知潜在几何的拓扑估计;&lt;/li&gt;
+&lt;li&gt;原子子图和网络的统计机制;&lt;/li&gt;
+&lt;li&gt;大流行控制政策不一致的意外后果;&lt;/li&gt;
+&lt;li&gt;SIR流行病模型中的精确和近似解析解;&lt;/li&gt;
+&lt;li&gt;基于区块链交易图的机器学习方法进行比特币价格预测;&lt;/li&gt;
+&lt;li&gt;分配和评估：在协作团队中实现最佳绩效;&lt;/li&gt;
+&lt;li&gt;无症状传播的流行病：递归接触追踪的亚临界阶段;&lt;/li&gt;
+&lt;li&gt;用于发现阴谋和阴谋论叙事框架的自动化管道：Bridgegate、Pizzagate和网上讲故事;&lt;/li&gt;
+&lt;li&gt;从科学中检测信号：研究社区和先验知识的结构改善了基因调控实验的预测;&lt;/li&gt;
+&lt;li&gt;投票模型中的狂热和影响力最大化：何时瞄准狂热者？;&lt;/li&gt;
+&lt;li&gt;TSAM：基于自注意力机制的有向网络中的时间链路预测;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行：使用社交媒体和自然语言处理识别关键问题;&lt;/li&gt;
+&lt;li&gt;基于情感分析和深度学习的跨文化极性和情感检测-以COVID-19为例;&lt;/li&gt;
+&lt;li&gt;使用时变图分析年度招聘趋势的可视化探索系统;&lt;/li&gt;
+&lt;li&gt;在COVID-19大流行期间使用移动电话数据观察到的全国移动性变化;&lt;/li&gt;
+&lt;li&gt;从平滑信号进行基于核的图学习：一个功能性视角;&lt;/li&gt;
+&lt;li&gt;社会网络安全第13章：COVID-19大流行的案例研究;&lt;/li&gt;
+&lt;li&gt;时变逆SEIR模型在保加利亚的COVID-19传输动力学的数学和计算机建模;&lt;/li&gt;
+&lt;li&gt;随机梯度下降确实可以很好地使应力最小化;&lt;/li&gt;
+&lt;li&gt;KCoreMotif：利用k核分解和模体的大型网络高效图聚类算法;&lt;/li&gt;
+&lt;li&gt;社会网络分析中的同质性原则;&lt;/li&gt;
+&lt;li&gt;大规模测试和主动性会影响流行病的传播;&lt;/li&gt;
+&lt;li&gt;增强或扭曲了人群的智慧？社会影响下基于主体的意见形成模型;&lt;/li&gt;
+&lt;li&gt;动态时间序列预测对机构影响的隐式多特征学习;&lt;/li&gt;
+&lt;li&gt;临时社会网络中具有避免冲突的具有社交相似性的TCP;&lt;/li&gt;
+&lt;li&gt;在社会网络中使用兴趣树进行数据分发;&lt;/li&gt;
+&lt;li&gt;机器学习对印度COVID-19病例的分析：干预研究;&lt;/li&gt;
+&lt;li&gt;具有度-度相关性的网络是边染色随机图的特例;&lt;/li&gt;
+&lt;li&gt;像COVID-19这样的可控制流行病的新数学模型：人工智能实现的预测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2020-08-24)</title>
