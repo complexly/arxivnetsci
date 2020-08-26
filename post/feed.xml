@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 25 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2020-08-26)</title>
+      <link>https://www.complexly.cn/post/20200826/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200826/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;有向随机网络谱的空间比表征;&lt;/li&gt;
+&lt;li&gt;建模饮酒行为的演变：统计物理学视角;&lt;/li&gt;
+&lt;li&gt;复杂的社会网络以更好地讲故事：对中国历史文本和小说的实证研究;&lt;/li&gt;
+&lt;li&gt;预期的COVID-19疫苗接种的最佳计划：以纽约州为例;&lt;/li&gt;
+&lt;li&gt;遏制疾病的互动区域政策;&lt;/li&gt;
+&lt;li&gt;在Twitter上使用文本挖掘和图机器学习来预测变化的个体;&lt;/li&gt;
+&lt;li&gt;度差异：表征复杂网络中结构异质性的简单方法;&lt;/li&gt;
+&lt;li&gt;驾驶员学习城市规模的动态平衡;&lt;/li&gt;
+&lt;li&gt;中国大气臭氧对COVID-19锁定的不同反应;&lt;/li&gt;
+&lt;li&gt;考虑局部和全局信息传播，建模带适应性行为的疾病传播;&lt;/li&gt;
+&lt;li&gt;探索将时变跨网络信息用于个性化建议;&lt;/li&gt;
+&lt;li&gt;通过信息熵发现加权网络中的隐藏依赖性;&lt;/li&gt;
+&lt;li&gt;激励驱动的不连续过渡到高乘车共享采用;&lt;/li&gt;
+&lt;li&gt;出行链过度通勤的建模与分析;&lt;/li&gt;
+&lt;li&gt;高分辨率的人员流动数据揭示了灾难疏散模式中的种族和财富差距;&lt;/li&gt;
+&lt;li&gt;在现实世界网络中使用基于社区的方法进行多团队组建;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要32篇(2020-08-25)</title>
