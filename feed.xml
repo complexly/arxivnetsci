@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2020-08-27)</title>
+      <link>https://www.complexly.cn/post/20200827/</link>
+      <pubDate>Thu, 27 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200827/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;块近似指数随机图;&lt;/li&gt;
+&lt;li&gt;特征向量中心性排名的盲推论;&lt;/li&gt;
+&lt;li&gt;Spotify网络中的流行性和中心性：特征向量中心性的临界转变;&lt;/li&gt;
+&lt;li&gt;使用属性网络量化社会网络辩论争议的框架：有偏随机游走（BRW）;&lt;/li&gt;
+&lt;li&gt;来自Twitter的长期单词频率动态被破坏：一种定制的方法来检测和消除时间序列集合中的病态部分;&lt;/li&gt;
+&lt;li&gt;识别虚假宣传活动中的协调帐户;&lt;/li&gt;
+&lt;li&gt;“我的朋友想谈论它，而我没有谈论”：了解社交平台中删除隐私的感知;&lt;/li&gt;
+&lt;li&gt;网络活动和物理环境的联合建模可改善对访客行为的预测;&lt;/li&gt;
+&lt;li&gt;MetaMetaZipf：对城市规模分布的分析有何共同点？;&lt;/li&gt;
+&lt;li&gt;协调的容量扩展问题中的近似能流和传输损耗;&lt;/li&gt;
+&lt;li&gt;转换模型中消失的错误;&lt;/li&gt;
+&lt;li&gt;新浪微博上多任务深度学习用户抑郁检测方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2020-08-26)</title>
@@ -19,7 +43,7 @@
       
       <guid>https://www.complexly.cn/post/20200826/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;有向随机网络谱的空间比表征;&lt;/li&gt;
+&lt;li&gt;有向随机网络谱的间距比表征;&lt;/li&gt;
 &lt;li&gt;建模饮酒行为的演变：统计物理学视角;&lt;/li&gt;
 &lt;li&gt;复杂的社会网络以更好地讲故事：对中国历史文本和小说的实证研究;&lt;/li&gt;
 &lt;li&gt;预期的COVID-19疫苗接种的最佳计划：以纽约州为例;&lt;/li&gt;
