@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2020-08-28)</title>
+      <link>https://www.complexly.cn/post/20200828/</link>
+      <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200828/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;神经网络的图结构;&lt;/li&gt;
+&lt;li&gt;路径同源性和含时网络;&lt;/li&gt;
+&lt;li&gt;通过Openstreetmap数据探索城市形态：可视化介绍;&lt;/li&gt;
+&lt;li&gt;随机主体网络中信誉驱动的决策;&lt;/li&gt;
+&lt;li&gt;Argo Lite：浏览器中的开源交互图探索和可视化;&lt;/li&gt;
+&lt;li&gt;波哥大爆发COVID-19期间流动性和社会经济状况的变化;&lt;/li&gt;
+&lt;li&gt;模拟渐进式社会意识、封锁和人为迁移对流行病动态的影响;&lt;/li&gt;
+&lt;li&gt;OFFER：网络表示学习的模体维度框架;&lt;/li&gt;
+&lt;li&gt;基于顺序遗传算法概率元胞自动机的数据驱动COVID-19动力学的理解;&lt;/li&gt;
+&lt;li&gt;来自多导联心电图数据的多重递归网络;&lt;/li&gt;
+&lt;li&gt;使用动态传播结构增强社交媒体中的谣言检测;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行期间欧洲Twitter消息的跨语言情感分析;&lt;/li&gt;
+&lt;li&gt;隐私智能：在线社会网络上的图像共享综述;&lt;/li&gt;
+&lt;li&gt;随机图中的谱种植和反驳难度、可着色性和社区;&lt;/li&gt;
+&lt;li&gt;在COVID-19流行期间的美国多尺度动态人员流动数据集;&lt;/li&gt;
+&lt;li&gt;Twitter互动分析3月至7月Covid-19在非洲加纳的影响;&lt;/li&gt;
+&lt;li&gt;在大流行中寄予希望：在冠状病毒仍在激增的同时，南美的心理困扰正在缓解吗？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2020-08-27)</title>
