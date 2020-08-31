@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 28 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2020-08-31)</title>
+      <link>https://www.complexly.cn/post/20200831/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200831/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;数据驱动的计算社会科学：综述;&lt;/li&gt;
+&lt;li&gt;调查纽约市的出租车和Uber竞争：通过强化学习进行多主体建模;&lt;/li&gt;
+&lt;li&gt;符号有向网络的解耦变分嵌入;&lt;/li&gt;
+&lt;li&gt;追踪SARS-CoV-2流行病期间的再生数和锁定效应的时间过程：非参数估计;&lt;/li&gt;
+&lt;li&gt;主题、情感和影响分析：COVID19在社交媒体上的信息搜索;&lt;/li&gt;
+&lt;li&gt;用于经济犯罪的复杂性科学方法;&lt;/li&gt;
+&lt;li&gt;错误推文检测：使用小数据集的CNN建模;&lt;/li&gt;
+&lt;li&gt;使用机器学习技术在基于区块链的社交媒体平台上发布机器人检测;&lt;/li&gt;
+&lt;li&gt;从优化参与度到衡量价值;&lt;/li&gt;
+&lt;li&gt;使用防火墙遏制COVID-19爆发;&lt;/li&gt;
+&lt;li&gt;自组织映射辅助的深度自动编码高斯混合模型用于入侵检测;&lt;/li&gt;
+&lt;li&gt;COVID-19锁定后墨西哥城的模块化重新激活;&lt;/li&gt;
+&lt;li&gt;CD-SEIZ：Twitter上信息级联预测的认知驱动SEIZ区间模型;&lt;/li&gt;
+&lt;li&gt;现实世界超图的演变：没有Oracle的模式和模型;&lt;/li&gt;
+&lt;li&gt;交互式可视化技术在大型显示器上动态图的时间导航中的有效性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2020-08-28)</title>
