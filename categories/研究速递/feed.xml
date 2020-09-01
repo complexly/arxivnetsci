@@ -7,10 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要21篇(2020-09-01)</title>
+      <link>https://www.complexly.cn/post/20200901/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200901/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;再探随机冲浪：泛化PageRank的远程传输模型;&lt;/li&gt;
+&lt;li&gt;信任与可靠的演化;&lt;/li&gt;
+&lt;li&gt;大规模异构学术网络中名称消歧的成对学习;&lt;/li&gt;
+&lt;li&gt;离散数据的高效鲁棒性证书：用于图、图像等对象的考虑稀疏的随机平滑;&lt;/li&gt;
+&lt;li&gt;在Altmetrics大型数据中利用推特情感;&lt;/li&gt;
+&lt;li&gt;节点和边上事件间时间的同时重尾分布的生成模型;&lt;/li&gt;
+&lt;li&gt;通过随意互连最大化多层网络中的代数连通性;&lt;/li&gt;
+&lt;li&gt;Twitter网上气候变化话语中的情感极化;&lt;/li&gt;
+&lt;li&gt;关于气候变化的两极化推文;&lt;/li&gt;
+&lt;li&gt;概率湍流散度：一种用于比较重尾类别分布的可调同概念工具;&lt;/li&gt;
+&lt;li&gt;黑市驱动的在线媒体冲突：一项综述;&lt;/li&gt;
+&lt;li&gt;COVID-19传播的分析、建模和表示：以印度为例;&lt;/li&gt;
+&lt;li&gt;社交媒体上的时间心理健康动态;&lt;/li&gt;
+&lt;li&gt;CheckThat 2020的QMUL-SDS：使用带有数字表达式的增强型CT-BERT确定COVID-19 Tweet检查的准确性;&lt;/li&gt;
+&lt;li&gt;城市形态发生简单模型的比较;&lt;/li&gt;
+&lt;li&gt;Match4Rec：一种基于双向编码器匹配任务的新型推荐算法;&lt;/li&gt;
+&lt;li&gt;碳约束的未来能源系统中的氢渗透和燃料电池汽车的部署;&lt;/li&gt;
+&lt;li&gt;南非数据不足是否可以解释其早期SARS-CoV-2高峰？;&lt;/li&gt;
+&lt;li&gt;偏见动态：当魔鬼在细节中;&lt;/li&gt;
+&lt;li&gt;COVID-19期间与网络欺凌相关的Twitter讨论的变更点分析;&lt;/li&gt;
+&lt;li&gt;破坏城市交通;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2020-08-31)</title>
