@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2020-09-03)</title>
+      <link>https://www.complexly.cn/post/20200903/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200903/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;VeRNAl：用于挖掘RNA中模糊网络模体的工具;&lt;/li&gt;
+&lt;li&gt;在网络中查找信息源：带预算的查询;&lt;/li&gt;
+&lt;li&gt;异构图神经网络推荐;&lt;/li&gt;
+&lt;li&gt;社会等级促进合作主导;&lt;/li&gt;
+&lt;li&gt;将属性网络嵌入扩展至大型图;&lt;/li&gt;
+&lt;li&gt;感性的LIAR：伪造索赔分类的扩展语料库和深度学习模型;&lt;/li&gt;
+&lt;li&gt;社会接触和传染病的传播;&lt;/li&gt;
+&lt;li&gt;k社区高斯混合模型中社区检测的精确恢复;&lt;/li&gt;
+&lt;li&gt;关于Twitter上关于羟氯喹治疗COVID-19功效的极化对话立场数据集;&lt;/li&gt;
+&lt;li&gt;在线游戏中技能的识别：范特西足球经理的案例;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行的最佳控制：葡萄牙的卫生控制措施;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2020-09-02)</title>
