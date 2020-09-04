@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 03 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2020-09-04)</title>
+      <link>https://www.complexly.cn/post/20200904/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200904/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;CAGNN：用于无监督图表示学习的考虑聚类的图神经网络;&lt;/li&gt;
+&lt;li&gt;危机时期城市移动性模拟的自适应强化学习模型;&lt;/li&gt;
+&lt;li&gt;人工智能创新的步伐：速度、才智和反复试验;&lt;/li&gt;
+&lt;li&gt;具有随机异步规则的有界置信观点动力学的拟同步;&lt;/li&gt;
+&lt;li&gt;平等的合作伙伴在防守联盟中表现更好;&lt;/li&gt;
+&lt;li&gt;Twitter如何影响公众舆论：两个案例研究;&lt;/li&gt;
+&lt;li&gt;网络上事件流的在线社区检测;&lt;/li&gt;
+&lt;li&gt;应用SIR感染理论的有效感染机会人群（EIOP）假设;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-09-03)</title>
