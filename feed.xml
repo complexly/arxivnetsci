@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要18篇(2020-09-08)</title>
+      <link>https://www.complexly.cn/post/20200908/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200908/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;好友网络作为守门员：微信用户对朋友创建内容消费的研究;&lt;/li&gt;
+&lt;li&gt;HAP-SAP：使用潜在时空时空Hawks过程的LBSN中的语义注释;&lt;/li&gt;
+&lt;li&gt;基于K核的动态图含时图卷积网络;&lt;/li&gt;
+&lt;li&gt;在连续含时图中量化COVID-19大流行的建模误差;&lt;/li&gt;
+&lt;li&gt;评估美国亚利桑那州人员流动性变化对COVID-19动态的影响：纳入Google社区流动性报告的模型研究;&lt;/li&gt;
+&lt;li&gt;在图抽样中​​保留少数结构;&lt;/li&gt;
+&lt;li&gt;尼泊尔城市屋顶网格连接的太阳能潜力评估，以加德满都，博克拉和比拉德纳格尔市的住宅建筑为例;&lt;/li&gt;
+&lt;li&gt;保留Friedkin-Johnsen系统中影响结构的隐私;&lt;/li&gt;
+&lt;li&gt;利用引文网络结构预测引文计数：一种深度学习方法;&lt;/li&gt;
+&lt;li&gt;WNUT-2020任务2的BANANA系统：通过结合深度学习和迁移学习模型来识别Twitter上的COVID-19信息;&lt;/li&gt;
+&lt;li&gt;空间模块化网络中的流行病传播控制策略;&lt;/li&gt;
+&lt;li&gt;网络收缩过程中向Erdos-Renyi图结构的收敛;&lt;/li&gt;
+&lt;li&gt;抑制故障在复杂网络中传播;&lt;/li&gt;
+&lt;li&gt;CLEF CheckThat 2020的Alex团队：使用Transformer模型识别值得一看的推文;&lt;/li&gt;
+&lt;li&gt;分析Twitter语义网络：2018年意大利大选案例;&lt;/li&gt;
+&lt;li&gt;定期就诊空间的空气传播感染R值：COVID-19案例研究;&lt;/li&gt;
+&lt;li&gt;锁定干预措施对印度控制COVID-19流行的影响;&lt;/li&gt;
+&lt;li&gt;可视化功能网络连接的分辨率矩阵;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2020-09-07)</title>
