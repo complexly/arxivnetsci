@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2020-09-10)</title>
+      <link>https://www.complexly.cn/post/20200910/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200910/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;组织间专利异议网络：公司如何建立对抗性关系;&lt;/li&gt;
+&lt;li&gt;扩散式重安置：封闭系统中不可逆转的城市转型;&lt;/li&gt;
+&lt;li&gt;使用相对熵分析收缩随机网络度分布向Poisson分布的收敛性;&lt;/li&gt;
+&lt;li&gt;模块度会影响基于介数和度的节点攻击下的无标度模型和现实世界社会网络的健壮性;&lt;/li&gt;
+&lt;li&gt;具有可调灵敏度的意见动力学的通用模型;&lt;/li&gt;
+&lt;li&gt;使用动态复杂性热图和网络可视化对团队互动进行社会分析;&lt;/li&gt;
+&lt;li&gt;Dirichlet网络分布的非对角混合，用于分析股权网络;&lt;/li&gt;
+&lt;li&gt;超越观察到的连接：链接注入;&lt;/li&gt;
+&lt;li&gt;量化COVID-19对心理健康支持论坛的影响;&lt;/li&gt;
+&lt;li&gt;通过行人模拟表征社会距离;&lt;/li&gt;
+&lt;li&gt;发声响度对室内空间中COVID-19传播的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2020-09-09)</title>
