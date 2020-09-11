@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2020-09-11)</title>
+      <link>https://www.complexly.cn/post/20200911/</link>
+      <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200911/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复杂网络的交联双曲嵌入的优化;&lt;/li&gt;
+&lt;li&gt;理解大图嵌入的粗粒化;&lt;/li&gt;
+&lt;li&gt;是什么使人们加入阴谋论社区？社会因素在阴谋论参与中的作用;&lt;/li&gt;
+&lt;li&gt;制度相似性推动在线社区之间的文化相似性;&lt;/li&gt;
+&lt;li&gt;COVID-19在美国的传播情况如何？使用交通和天气数据进行分析;&lt;/li&gt;
+&lt;li&gt;墨西哥蒙特雷凶杀案演变八年：网络方法;&lt;/li&gt;
+&lt;li&gt;顺序种子时态网络中的有效影响传播;&lt;/li&gt;
+&lt;li&gt;一种推荐系统中有偏随机游走的评分预测的信任游走：H指数中心性、项目和好友相似性的影响;&lt;/li&gt;
+&lt;li&gt;疫苗不良事件检测的多实例域自适应;&lt;/li&gt;
+&lt;li&gt;GoCoronaGo：尊重隐私跟踪的COVID-19管理;&lt;/li&gt;
+&lt;li&gt;2020年斯特吉斯摩托车拉力赛和COVID-19;&lt;/li&gt;
+&lt;li&gt;复杂地球系统的统计物理学方法;&lt;/li&gt;
+&lt;li&gt;美国的社会经济差距和COVID-19;&lt;/li&gt;
+&lt;li&gt;基于动态图的流行病学模型用于COVID-19接触者追踪数据分析和最佳测试处方;&lt;/li&gt;
+&lt;li&gt;在COVID-19危机中使用语义网络分析预测金融市场;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-09-10)</title>
