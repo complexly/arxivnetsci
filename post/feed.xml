@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2020-09-14)</title>
+      <link>https://www.complexly.cn/post/20200914/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200914/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用开源工具和数据集评估德国的区域需求响应潜力;&lt;/li&gt;
+&lt;li&gt;CasGCN：基于信息扩散图预测未来的级联增长;&lt;/li&gt;
+&lt;li&gt;超越局部图神经网络：属性模体正则化框架;&lt;/li&gt;
+&lt;li&gt;政治选举中的信息流动：随机视角;&lt;/li&gt;
+&lt;li&gt;使用图嵌入的网络社区检测;&lt;/li&gt;
+&lt;li&gt;自然状态认知能力：人群尺度的基于博弈的认知评估;&lt;/li&gt;
+&lt;li&gt;Covid-19的感染动力学：锁定是有效的遏制工具吗？;&lt;/li&gt;
+&lt;li&gt;COVID-19高峰爆发的时间分析;&lt;/li&gt;
+&lt;li&gt;流行病信息和风险意识对传染的耦合影响;&lt;/li&gt;
+&lt;li&gt;多层网络中的顺序播种;&lt;/li&gt;
+&lt;li&gt;隔离的出现：从可观察的标记到特定于群体的规范;&lt;/li&gt;
+&lt;li&gt;SemEval-2020任务12的WOLI：不同Twitter数据集上的阿拉伯语冒犯性语言识别;&lt;/li&gt;
+&lt;li&gt;评估和预测锁定策略对COVID-19案例影响的深度学习模型;&lt;/li&gt;
+&lt;li&gt;建模城市企业网络的增长;&lt;/li&gt;
+&lt;li&gt;叙述与需求：使用Twitter话语分析“旋风孤儿”的经历;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2020-09-11)</title>
