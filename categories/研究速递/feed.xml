@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 14 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2020-09-15)</title>
+      <link>https://www.complexly.cn/post/20200915/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200915/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在社交媒体网络中发现有趣的子图;&lt;/li&gt;
+&lt;li&gt;多维网络中的一种算法信息失真;&lt;/li&gt;
+&lt;li&gt;COMONet：社区移动网络;&lt;/li&gt;
+&lt;li&gt;复杂的投入产出组织中的普遍排名;&lt;/li&gt;
+&lt;li&gt;加权网络的稀疏性：度量和应用;&lt;/li&gt;
+&lt;li&gt;不求逆的Leontief逆：来自部分信息的投入产出分析中的统计规律;&lt;/li&gt;
+&lt;li&gt;使用修改后的SEIRD和LSTM模型对印度及受其影响最严重的五个州传播的COVID-19的预测;&lt;/li&gt;
+&lt;li&gt;使用复杂网络和文本挖掘在COVID-19大流行期间表征Twitter互动;&lt;/li&gt;
+&lt;li&gt;利用图片分析爆炸：Trinity和贝鲁特;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行中的国家形象：以中国为例;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2020-09-14)</title>
