@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 16 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2020-09-17)</title>
+      <link>https://www.complexly.cn/post/20200917/</link>
+      <pubDate>Thu, 17 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200917/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;链路预测是否有助于检测软件产品线（SPL）中的功能交互？;&lt;/li&gt;
+&lt;li&gt;世界贸易分析的潜在狄利克雷分配模型;&lt;/li&gt;
+&lt;li&gt;Scikit-network：Python中的图分析;&lt;/li&gt;
+&lt;li&gt;用于可扩展知识图谱分析的语义属性图;&lt;/li&gt;
+&lt;li&gt;网络中层级社区的可检测性;&lt;/li&gt;
+&lt;li&gt;帮助用户应对社交媒体上的算法威胁：多媒体研究议程;&lt;/li&gt;
+&lt;li&gt;美国县级COVID-19活动的高分辨率时空模型;&lt;/li&gt;
+&lt;li&gt;探索Web挖掘的COVID-19会话Vlog语音提示;&lt;/li&gt;
+&lt;li&gt;Twitter的新长度限制的采用：280字限制会是新的140字？;&lt;/li&gt;
+&lt;li&gt;通过挫折云表征态度网络图;&lt;/li&gt;
+&lt;li&gt;协作行为启发式选择的动力学;&lt;/li&gt;
+&lt;li&gt;人体测量估计中的人为偏见;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2020-09-16)</title>
