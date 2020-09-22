@@ -7,10 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 21 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要22篇(2020-09-22)</title>
+      <link>https://www.complexly.cn/post/20200922/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200922/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于车辆类型、速度和道路几何的驾驶员行为识别和分类;&lt;/li&gt;
+&lt;li&gt;超越社交媒体分析：使用自结构增量机器学习了解人类行为和深层情感;&lt;/li&gt;
+&lt;li&gt;检测期刊网络中的引用联盟;&lt;/li&gt;
+&lt;li&gt;世界上每个城市的街道网络模型和指标;&lt;/li&gt;
+&lt;li&gt;人群易感性变化及其对传染动力学的影响;&lt;/li&gt;
+&lt;li&gt;使用非负张量因子分解理解Covid-19的时空主题动态：一个案例研究;&lt;/li&gt;
+&lt;li&gt;通往白宫之路：分析美国总统初选期间主流媒体与社交媒体之间的关系;&lt;/li&gt;
+&lt;li&gt;网络和站点级自行车共享系统的预测：旧金山湾区案例研究;&lt;/li&gt;
+&lt;li&gt;欧洲宗教和民族主义的因果关系建模;&lt;/li&gt;
+&lt;li&gt;使用人口活动的数字跟踪数据的COVID-19传播风险早期指标;&lt;/li&gt;
+&lt;li&gt;div2vec：强调多样性的节点嵌入;&lt;/li&gt;
+&lt;li&gt;领导者和障碍提升了文化界限;&lt;/li&gt;
+&lt;li&gt;使用全球流动性数据测量COVID-19大流行期间非药物干预（NPI）对流动性的影响;&lt;/li&gt;
+&lt;li&gt;SIR模型与广义Logistic分布之间的关系及其在SARS和COVID-19中的应用;&lt;/li&gt;
+&lt;li&gt;核技术的社会许可证;&lt;/li&gt;
+&lt;li&gt;循环相互作用驱动的模式形成：对近期进展的简要回顾;&lt;/li&gt;
+&lt;li&gt;一种基于非负矩阵分解的方法，用于使用手机数据量化活动、睡眠节奏和时间型;&lt;/li&gt;
+&lt;li&gt;COVID-19与季节性流感之间的耦合导致其动态同步;&lt;/li&gt;
+&lt;li&gt;欧洲专利局（EPO）专利网络中全球化的涌现;&lt;/li&gt;
+&lt;li&gt;社会网络中邻居的隐私和唯一性;&lt;/li&gt;
+&lt;li&gt;超级球队还是公平联盟？强有力的监管机构采取的平价政策不会阻止这种问题;&lt;/li&gt;
+&lt;li&gt;数据驱动不同阶段大流行应对建模;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2020-09-21)</title>
