@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2020-09-23)</title>
+      <link>https://www.complexly.cn/post/20200923/</link>
+      <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200923/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;流网络中弹性和故障扩散的拓扑理论;&lt;/li&gt;
+&lt;li&gt;用于学习图表示的可解释、稳定和可扩展的图卷积网络;&lt;/li&gt;
+&lt;li&gt;适应随着时间变化的用户偏好的上下文bandit;&lt;/li&gt;
+&lt;li&gt;评论“具有Glauber动力学的社会平衡网络模型中的相变”;&lt;/li&gt;
+&lt;li&gt;通过多面Rasch测量和多任务深度学习构造区间变量：仇恨语音应用;&lt;/li&gt;
+&lt;li&gt;维护在线社会网络的完整性;&lt;/li&gt;
+&lt;li&gt;在COVID危机期间，美国各城市的在线地理本地化情感：普遍性、政策应对以及与本地流动性的联系;&lt;/li&gt;
+&lt;li&gt;从蚂蚁到渔船：有限资源的放牧和开发的简单模型;&lt;/li&gt;
+&lt;li&gt;GraphCrop：用于图分类的子图裁剪;&lt;/li&gt;
+&lt;li&gt;当深度强化学习遇到联合学习：5G超密集网络中用于多路访问边缘计算的智能多时标资源管理;&lt;/li&gt;
+&lt;li&gt;通过具有顽固节点的投票模型预测选举结果;&lt;/li&gt;
+&lt;li&gt;通过稀疏谱分解检测网络中的重叠社区;&lt;/li&gt;
+&lt;li&gt;Google的COVID-19社区移动性报告：来自多标准决策的见解;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要22篇(2020-09-22)</title>
