@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2020-09-25)</title>
+      <link>https://www.complexly.cn/post/20200925/</link>
+      <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200925/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;识别针对连续攻击的网络系统临界点预警指标;&lt;/li&gt;
+&lt;li&gt;几何图的高阶谱聚类;&lt;/li&gt;
+&lt;li&gt;用于网络可视化的在线非均匀分时方法;&lt;/li&gt;
+&lt;li&gt;EPNE：保留演化模式的网络嵌入;&lt;/li&gt;
+&lt;li&gt;管理数据注释项目的最佳实践;&lt;/li&gt;
+&lt;li&gt;COVID-19的人力和财务成本;&lt;/li&gt;
+&lt;li&gt;利用生成对抗网络的图稀疏化;&lt;/li&gt;
+&lt;li&gt;揭露大型工程项目网络的脆弱性;&lt;/li&gt;
+&lt;li&gt;演化网络中基于草图的社区检测;&lt;/li&gt;
+&lt;li&gt;气候变化对天文观测的影响;&lt;/li&gt;
+&lt;li&gt;天文研究所对应对气候危机挑战的看法;&lt;/li&gt;
+&lt;li&gt;大型天文学会议的碳足迹;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-09-24)</title>
