@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 25 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2020-09-28)</title>
+      <link>https://www.complexly.cn/post/20200928/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200928/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;知识与社会相关性塑造了研究组合的多样化;&lt;/li&gt;
+&lt;li&gt;资助CRISPR：了解政府和私营部门参与者在变革性创新系统中的作用;&lt;/li&gt;
+&lt;li&gt;含时网络上的流行病建模系统框架;&lt;/li&gt;
+&lt;li&gt;城市化与经济复杂性;&lt;/li&gt;
+&lt;li&gt;时间成本异质性机制促进雪堆博弈合作;&lt;/li&gt;
+&lt;li&gt;黎曼投影近邻梯度法的社区检测;&lt;/li&gt;
+&lt;li&gt;角色抽取问题的邻域模式相似度度量分析;&lt;/li&gt;
+&lt;li&gt;在真实的城市环境中评估出行方式与SARS-CoV-2爆发之间的相互作用;&lt;/li&gt;
+&lt;li&gt;使用时间序列预测模型进行COVID-19大流行预测;&lt;/li&gt;
+&lt;li&gt;网络博弈中来自简单局部规则的复杂数据的涌现;&lt;/li&gt;
+&lt;li&gt;COVID-19型病毒的年龄结构修正SIR模型;&lt;/li&gt;
+&lt;li&gt;带有循环的网络上概率模型的消息传递;&lt;/li&gt;
+&lt;li&gt;在多元时间序列上使用双向LSTM预测COVID-19病例;&lt;/li&gt;
+&lt;li&gt;网络结构和市场不稳定性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2020-09-25)</title>
