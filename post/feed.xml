@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2020-09-30)</title>
+      <link>https://www.complexly.cn/post/20200930/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20200930/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有异质性的图神经网络;&lt;/li&gt;
+&lt;li&gt;网络上的非线性意见形成模式;&lt;/li&gt;
+&lt;li&gt;科技知识网络中高阶结构的涌现;&lt;/li&gt;
+&lt;li&gt;2016年总统大选推文的网络分析;&lt;/li&gt;
+&lt;li&gt;无限随机游走系统：赢家和输家;&lt;/li&gt;
+&lt;li&gt;针对COVID-19的疫苗接种策略和反疫苗意见的传播;&lt;/li&gt;
+&lt;li&gt;驾驶员行为对交通僵局的影响;&lt;/li&gt;
+&lt;li&gt;基于GCNN的新型半监督节点分类架构;&lt;/li&gt;
+&lt;li&gt;从Twitter到交通预测器：使用社交媒体数据进行次日早晨交通预测;&lt;/li&gt;
+&lt;li&gt;社会经济相关性的信息论网络方法;&lt;/li&gt;
+&lt;li&gt;基于路径相似性和信用分配的网络检索专业知识的方法;&lt;/li&gt;
+&lt;li&gt;发展中国家公共机构的电动汽车迁移框架;&lt;/li&gt;
+&lt;li&gt;迈向“新常态”：出租车/计程车的飞速发展，新的体积模式和最新趋势;&lt;/li&gt;
+&lt;li&gt;纽约市复苏概览：公共汽车和微型交通的兴起;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2020-09-29)</title>
