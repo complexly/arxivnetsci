@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2020-10-02)</title>
+      <link>https://www.complexly.cn/post/20201002/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201002/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;混合网络中的信息传播模型;&lt;/li&gt;
+&lt;li&gt;分布式系统设计中逻辑和物理架构的相互作用;&lt;/li&gt;
+&lt;li&gt;联系衰减网络中的意见动态;&lt;/li&gt;
+&lt;li&gt;谁是“沉默的传播者”？：时空记忆模型中的联系追踪;&lt;/li&gt;
+&lt;li&gt;NodeSig：用于可扩展图嵌入的随机游走扩散和Hashing;&lt;/li&gt;
+&lt;li&gt;大流行控制过程中的经济不可逆：分析得出的一般结果;&lt;/li&gt;
+&lt;li&gt;将基于网络的蛋白质复合物发现整合到自动化模型构建中;&lt;/li&gt;
+&lt;li&gt;具有时延的流行病网络的中心性：流行病控制的决策支持框架;&lt;/li&gt;
+&lt;li&gt;有弹性的城市住房市场：震荡与基本面;&lt;/li&gt;
+&lt;li&gt;社区检测、模式识别和基于超图的学习：使用度量几何和持久同源性的方法;&lt;/li&gt;
+&lt;li&gt;有限记忆相互作用的Polya传染网络及其近似动力系统;&lt;/li&gt;
+&lt;li&gt;根据可视化心理开发有效的社区网络分析工具;&lt;/li&gt;
+&lt;li&gt;AMUSED：多模社交媒体数据的注释框架;&lt;/li&gt;
+&lt;li&gt;社区嵌入揭示了在线平台的大规模文化组织;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2020-10-01)</title>
