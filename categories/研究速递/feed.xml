@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2020-10-05)</title>
+      <link>https://www.complexly.cn/post/20201005/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201005/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;超图中超边的局部几何及其在社会网络中的应用;&lt;/li&gt;
+&lt;li&gt;揭穿网络谣言;&lt;/li&gt;
+&lt;li&gt;广义中心性汇总和排他式中心性;&lt;/li&gt;
+&lt;li&gt;Election2020：有关2020年美国总统大选的第一个公开Twitter数据集;&lt;/li&gt;
+&lt;li&gt;基于电报社交网络人格特质分析的推荐系统;&lt;/li&gt;
+&lt;li&gt;通过加权Tweet的特征在Twitter中进行事件检测;&lt;/li&gt;
+&lt;li&gt;DIETERpy：具有内生可再生能源的调度和投资评估工具的Python框架;&lt;/li&gt;
+&lt;li&gt;在流行病中保护弱势群体：一种数值方法;&lt;/li&gt;
+&lt;li&gt;遏制大流行：非药物干预和“第二波”;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2020-10-02)</title>
