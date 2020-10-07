@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 06 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2020-10-07)</title>
+      <link>https://www.complexly.cn/post/20201007/</link>
+      <pubDate>Wed, 07 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201007/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;有向图网络;&lt;/li&gt;
+&lt;li&gt;考虑用户位置隐私的编码的近似最近邻搜索，以识别模拟流行病中的易感感染;&lt;/li&gt;
+&lt;li&gt;复杂网络上运行的具有相变到吸收态的流行病模型综述;&lt;/li&gt;
+&lt;li&gt;高保真社会学习的演化;&lt;/li&gt;
+&lt;li&gt;基于解耦的连续图表示学习;&lt;/li&gt;
+&lt;li&gt;COVID-19：关于短暂访问高风险地区后的隔离时间;&lt;/li&gt;
+&lt;li&gt;中国大陆COVID-19大流行空间扩散模式的多重分形尺度分析;&lt;/li&gt;
+&lt;li&gt;使用因子图表示法的带注释图的谱聚类;&lt;/li&gt;
+&lt;li&gt;完全可解的SIR模型，其扩展及其在敏感大流行预测中的应用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2020-10-06)</title>
