@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2020-10-12)</title>
+      <link>https://www.complexly.cn/post/20201012/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201012/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GitEvolve：预测GitHub存储库的演化;&lt;/li&gt;
+&lt;li&gt;大规模随机实验揭示了机器学习可以帮助人们更有效地学习和记忆;&lt;/li&gt;
+&lt;li&gt;动态模式分解用于电网负荷数据的预测和分析;&lt;/li&gt;
+&lt;li&gt;comp-syn：带有颜色的可感知接地词嵌入;&lt;/li&gt;
+&lt;li&gt;仇恨是新的信息流行病：Twitter上仇恨言论扩散的主题感知建模;&lt;/li&gt;
+&lt;li&gt;可持续发展的社会提示过程：分析框架;&lt;/li&gt;
+&lt;li&gt;有效电阻不止是距离：拉普拉斯矩阵、单纯形和舒尔补;&lt;/li&gt;
+&lt;li&gt;巴西葡萄牙语社交媒体中的有毒语言检测：新数据集和多语言分析;&lt;/li&gt;
+&lt;li&gt;带节点边协同演化的异构图上的元图注意力;&lt;/li&gt;
+&lt;li&gt;新的COVID-19波动的风险-以及它如何取决于R0 ，当前的免疫度和当前的限制;&lt;/li&gt;
+&lt;li&gt;HENIN：学习异构神经交互网络以解释社交媒体上的网络欺凌;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2020-10-09)</title>
