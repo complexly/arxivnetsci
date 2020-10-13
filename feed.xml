@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2020-10-13)</title>
+      <link>https://www.complexly.cn/post/20201013/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201013/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图神经网络实用指南;&lt;/li&gt;
+&lt;li&gt;离网&amp;hellip;然后再次返回？美国街道网络规划设计的最新发展;&lt;/li&gt;
+&lt;li&gt;意见动态模型的新自由度：尺度的任意性;&lt;/li&gt;
+&lt;li&gt;使用图模态障碍的聚类间传输控制;&lt;/li&gt;
+&lt;li&gt;大流行病的教训：基于主体的计算模型方法，用于评估实现必要的社会行为改变的下游和上游措施;&lt;/li&gt;
+&lt;li&gt;使用Twitter分析围绕秘鲁指责的用户反应;&lt;/li&gt;
+&lt;li&gt;分支过程模型中的联系人跟踪和超级传播者;&lt;/li&gt;
+&lt;li&gt;SIR等平均场理论在讨论COVID-19的非均值问题上的应用和扩展;&lt;/li&gt;
+&lt;li&gt;城市形态和增长的基于分形的模型与空间分析-以中国深圳为例;&lt;/li&gt;
+&lt;li&gt;资源有限的Covid-19疫苗接种策略-基于社会网络图的模型;&lt;/li&gt;
+&lt;li&gt;配置模型中的联系人跟踪;&lt;/li&gt;
+&lt;li&gt;第二波感染的前兆：德国目前COVID-19死亡人数的分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-10-12)</title>
