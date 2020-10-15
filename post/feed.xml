@@ -7,10 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要21篇(2020-10-15)</title>
+      <link>https://www.complexly.cn/post/20201015/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201015/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;数据压缩以选择适当的动态网络表示;&lt;/li&gt;
+&lt;li&gt;分形结构的合作组织;&lt;/li&gt;
+&lt;li&gt;众包音乐知识管理中的专业知识和动态：以Genius平台为例;&lt;/li&gt;
+&lt;li&gt;交通干预重塑纽约通勤：评估共享出行和曼哈顿拥堵附加费影响的概率模拟框架;&lt;/li&gt;
+&lt;li&gt;语言网络：一种实用的方法;&lt;/li&gt;
+&lt;li&gt;TriNE：三元异构网络的网络表示学习;&lt;/li&gt;
+&lt;li&gt;细化相似性矩阵以准确聚类属性网络;&lt;/li&gt;
+&lt;li&gt;迈向交通运输互联网：概念，架构和要求;&lt;/li&gt;
+&lt;li&gt;请不要造谣！COVID伪推文检测的多指标语言方法;&lt;/li&gt;
+&lt;li&gt;城市社区规模分布;&lt;/li&gt;
+&lt;li&gt;印度贫困转变的长期动态;&lt;/li&gt;
+&lt;li&gt;Covid-19在发展中国家的城市社区和贫民窟中的传播;&lt;/li&gt;
+&lt;li&gt;NwQM：维基百科的神经网络质量评估框架;&lt;/li&gt;
+&lt;li&gt;理解基于点击率的Twitter参与度;&lt;/li&gt;
+&lt;li&gt;InstantEmbedding：高效的本地节点表示;&lt;/li&gt;
+&lt;li&gt;SIR流行病模型的分析参数估计在COVID-19大流行中的应用;&lt;/li&gt;
+&lt;li&gt;STP-UDGAT：下一个POI推荐的时空偏好用户维图注意网络;&lt;/li&gt;
+&lt;li&gt;基于知识图谱中动态个人感知的影响力最大化;&lt;/li&gt;
+&lt;li&gt;K隔离模式下的Covid-19流行：网络方法;&lt;/li&gt;
+&lt;li&gt;对抗他人！在社交媒体网络中检测道德暴行;&lt;/li&gt;
+&lt;li&gt;解耦的动态图深度生成;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2020-10-14)</title>
