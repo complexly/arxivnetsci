@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 15 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2020-10-16)</title>
+      <link>https://www.complexly.cn/post/20201016/</link>
+      <pubDate>Fri, 16 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201016/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络科学中的深度生成建模及其在公共政策研究中的应用;&lt;/li&gt;
+&lt;li&gt;在线社会网络中检测自动管理的帐户：图嵌入方法;&lt;/li&gt;
+&lt;li&gt;竞争和意见网络中平衡的着色和分叉;&lt;/li&gt;
+&lt;li&gt;不健康对话的六个属性;&lt;/li&gt;
+&lt;li&gt;海平面上升和持续适应：残余损害的上升速度快于保护成本;&lt;/li&gt;
+&lt;li&gt;大流行期间的食物语言：有关Covid-19饮食效果的提示;&lt;/li&gt;
+&lt;li&gt;基于最优测试套件的异构复杂网络中流行病传播干预策略;&lt;/li&gt;
+&lt;li&gt;城市空间格局的梯度模型;&lt;/li&gt;
+&lt;li&gt;环境条件与人类活动息息相关。意大利北部在COVID-19锁定期间的案子;&lt;/li&gt;
+&lt;li&gt;传染病传播的马尔可夫随机游走模型;&lt;/li&gt;
+&lt;li&gt;通过分析链上交易来表征以太坊中主要矿工之间的关系;&lt;/li&gt;
+&lt;li&gt;使用大规模社交媒体数据了解COVID-19大流行期间的囤积行为;&lt;/li&gt;
+&lt;li&gt;使用基于主体的模型对超市中的COVID-19传播进行建模;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要21篇(2020-10-15)</title>
