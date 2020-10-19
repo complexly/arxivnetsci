@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2020-10-19)</title>
+      <link>https://www.complexly.cn/post/20201019/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201019/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复杂网络的节点嵌入和精确的低秩表示;&lt;/li&gt;
+&lt;li&gt;衡量高铁对中国城市互动的动态影响;&lt;/li&gt;
+&lt;li&gt;从矩阵多项式联合推断多个图;&lt;/li&gt;
+&lt;li&gt;COVID-19的自组织波浪感染曲线;&lt;/li&gt;
+&lt;li&gt;谁在帮派中？在社交媒体中揭示协调社区;&lt;/li&gt;
+&lt;li&gt;Twitter和YouTube上的2020美国大选分析;&lt;/li&gt;
+&lt;li&gt;使用复杂网络方法对斯诺克职业球员进行排名;&lt;/li&gt;
+&lt;li&gt;欧洲各城市随着时间的推移人工土地利用的变化：重归一化的径向视角;&lt;/li&gt;
+&lt;li&gt;社交媒体上的模拟：识别原创内容的一种深度神经方法;&lt;/li&gt;
+&lt;li&gt;离散意见动力学模型中粗粒化的块大小依赖性：在美国总统选举中的应用;&lt;/li&gt;
+&lt;li&gt;PageRank的公理化特征;&lt;/li&gt;
+&lt;li&gt;意见动态的Ising通用类动力学交换模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2020-10-16)</title>
