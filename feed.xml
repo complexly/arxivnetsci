@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2020-10-21)</title>
+      <link>https://www.complexly.cn/post/20201021/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201021/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;考虑拓扑的图池化网络;&lt;/li&gt;
+&lt;li&gt;因果网络模体：识别A/B测试中的异构溢出效应;&lt;/li&gt;
+&lt;li&gt;关系事件模型与逆强化学习之间的联系，用于表征群体互动序列;&lt;/li&gt;
+&lt;li&gt;不能通过外表来判断用户：了解社交媒体研究中多模式处理中的危害;&lt;/li&gt;
+&lt;li&gt;气候讨论中推文的传播;&lt;/li&gt;
+&lt;li&gt;目标路网中断导致的级联故障;&lt;/li&gt;
+&lt;li&gt;通过基于订阅的频道嵌入来理解YouTube社区;&lt;/li&gt;
+&lt;li&gt;鲁棒的异步和独立于网络的合作学习;&lt;/li&gt;
+&lt;li&gt;通过学习和预测行为进行早期异常检测;&lt;/li&gt;
+&lt;li&gt;Heider与协同演化平衡：从离散到连续相变;&lt;/li&gt;
+&lt;li&gt;这是脓肿吗？在COVID-19电报群聊中分析公众意见和错误信息;&lt;/li&gt;
+&lt;li&gt;按需乘车服务用户的时空流动模式;&lt;/li&gt;
+&lt;li&gt;一种用于COVID-19大流行趋势分析和预测的计算工具;&lt;/li&gt;
+&lt;li&gt;通过随机游走量化城市中的种族隔离;&lt;/li&gt;
+&lt;li&gt;在COVID-19危机期间，行为性别差异得到了加强;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2020-10-20)</title>
