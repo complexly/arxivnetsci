@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2020-10-23)</title>
+      <link>https://www.complexly.cn/post/20201023/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201023/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络中随机游走的大偏差揭示了广义最优路径和权重分布;&lt;/li&gt;
+&lt;li&gt;图的半监督分类中节点属性和邻近度的联合使用;&lt;/li&gt;
+&lt;li&gt;状态图核的密度;&lt;/li&gt;
+&lt;li&gt;使用RoBERTa检测COVID-19信息性推文;&lt;/li&gt;
+&lt;li&gt;评估社会网络结构对冠状病毒疾病（COVID-19）扩散的影响：广义空间SEIRD模型;&lt;/li&gt;
+&lt;li&gt;社会泡沫和超级传播者：超树上传染过程的来源识别;&lt;/li&gt;
+&lt;li&gt;TeX-Graph：耦合张量矩阵知识图嵌入，用于COVID-19药物再利用;&lt;/li&gt;
+&lt;li&gt;属性社会网络中系统性边不确定性及其对少数节点排名的影响;&lt;/li&gt;
+&lt;li&gt;税收与​​逃税：动态模型;&lt;/li&gt;
+&lt;li&gt;YouTube上的伪科学内容：评估观看历史记录对推荐算法的影响;&lt;/li&gt;
+&lt;li&gt;通过模型增强强化学习优化出租车机队的随机路线;&lt;/li&gt;
+&lt;li&gt;尖刺采样：通过不均匀的滤波扩散来探索大型网络;&lt;/li&gt;
+&lt;li&gt;学习新技能是否有回报？揭示交叉技能的经济利益;&lt;/li&gt;
+&lt;li&gt;通过文本的判别建模进行霍克斯过程分类;&lt;/li&gt;
+&lt;li&gt;扩散反应流行病学模型的自适应网格细化和粗化;&lt;/li&gt;
+&lt;li&gt;通过随机投影快速近似CoSimRanks;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-10-22)</title>
