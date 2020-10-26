@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2020-10-26)</title>
+      <link>https://www.complexly.cn/post/20201026/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201026/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过全球班轮运输网络估算国家的国际贸易状况;&lt;/li&gt;
+&lt;li&gt;超图的可控性;&lt;/li&gt;
+&lt;li&gt;使用卷积神经网络和模拟研究基本图中的文化方面;&lt;/li&gt;
+&lt;li&gt;用于社交视觉问答的表征数据集和新的TinySocial数据集;&lt;/li&gt;
+&lt;li&gt;可公开获得的新闻和信息转移到金融市场的影响;&lt;/li&gt;
+&lt;li&gt;不断演化的共同作者复形中的同质渗流转变;&lt;/li&gt;
+&lt;li&gt;d+1维的随机双曲图;&lt;/li&gt;
+&lt;li&gt;爱你的邻居？印度社区和私人对COVID-19规范的遵守;&lt;/li&gt;
+&lt;li&gt;复杂世界中意见形成的脆弱性;&lt;/li&gt;
+&lt;li&gt;TweetEval：Tweet分类的统一基准和比较评估;&lt;/li&gt;
+&lt;li&gt;噪声和拓扑结构对社会网络中意见动态的影响;&lt;/li&gt;
+&lt;li&gt;预测感染性以进行主动接触者追踪;&lt;/li&gt;
+&lt;li&gt;众包排名算法不稳定性的起源;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2020-10-23)</title>
