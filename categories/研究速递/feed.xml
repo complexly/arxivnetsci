@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2020-10-27)</title>
+      <link>https://www.complexly.cn/post/20201027/</link>
+      <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201027/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于半监督学习和局部图聚类的强局部p范数切算法;&lt;/li&gt;
+&lt;li&gt;如何阻止流行病：通过强化学习和图神经网络控制图动态;&lt;/li&gt;
+&lt;li&gt;带有动态Bethe-Hessian的稀疏时间演化图中的社区检测;&lt;/li&gt;
+&lt;li&gt;通过网络中的信息访问进行聚类;&lt;/li&gt;
+&lt;li&gt;行人动态中的社会距离及其对疾病传播的影响;&lt;/li&gt;
+&lt;li&gt;用于神经消息传递的路径发现网络;&lt;/li&gt;
+&lt;li&gt;大流行稳定的最佳锁定;&lt;/li&gt;
+&lt;li&gt;使用Web搜索查询中高风险用户的移动性对COVID-19热点进行预警;&lt;/li&gt;
+&lt;li&gt;扩散耦合社会-生态资源开发网络中耦合和全球崩溃的优化;&lt;/li&gt;
+&lt;li&gt;追踪价格：优化能源系统基于流量的成本分配;&lt;/li&gt;
+&lt;li&gt;使用SEIR模型分析印度的COVID19暴发;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2020-10-26)</title>
