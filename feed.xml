@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 27 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2020-10-28)</title>
+      <link>https://www.complexly.cn/post/20201028/</link>
+      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201028/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;标签传播与简单模型的结合胜过了图神经网络;&lt;/li&gt;
+&lt;li&gt;用户冷启动推荐的项目选择问题;&lt;/li&gt;
+&lt;li&gt;通过对演化过程进行建模来嵌入动态属性网络;&lt;/li&gt;
+&lt;li&gt;异构图元;&lt;/li&gt;
+&lt;li&gt;图标签转变实现在线社会网络的抗扰动;&lt;/li&gt;
+&lt;li&gt;使用移动性数据分析第一波COVID-19浪潮之后的遏制策略;&lt;/li&gt;
+&lt;li&gt;随着时间的流逝，COVID-19推文的全球情绪分析;&lt;/li&gt;
+&lt;li&gt;超图中的随机游走和社区检测;&lt;/li&gt;
+&lt;li&gt;网络上多商品路由的最优传输;&lt;/li&gt;
+&lt;li&gt;全部都在（副）标题中了吗？扩展众筹研究中的信号评估;&lt;/li&gt;
+&lt;li&gt;大流行控制经济效果的启发式评估;&lt;/li&gt;
+&lt;li&gt;基于网络的意大利COVID-19流行预测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-10-27)</title>
