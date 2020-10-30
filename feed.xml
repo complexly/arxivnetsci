@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2020-10-30)</title>
+      <link>https://www.complexly.cn/post/20201030/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201030/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络的几何抽样;&lt;/li&gt;
+&lt;li&gt;智慧城市中的微观移动性：通过社交大数据深入研究无桩共享电单车;&lt;/li&gt;
+&lt;li&gt;使用ICON R软件包探索复杂的网络;&lt;/li&gt;
+&lt;li&gt;Twitter机器人的发现和分类;&lt;/li&gt;
+&lt;li&gt;PeopleXploit-一种收集公共数据的混合工具;&lt;/li&gt;
+&lt;li&gt;分析COVID-19的社会影响：大流行初期的一项研究;&lt;/li&gt;
+&lt;li&gt;行为和信息流的随机性对组织中的意见形成重要吗？;&lt;/li&gt;
+&lt;li&gt;深入机器人漏洞：通过对Twitter上的机器人活动进行为期1年的分析得出的可行见解;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2020-10-29)</title>
