@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要18篇(2020-11-03)</title>
+      <link>https://www.complexly.cn/post/20201103/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201103/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;有戴口罩个体的社会网络中的流行病传播;&lt;/li&gt;
+&lt;li&gt;您推荐，我购买：人们如何以及为何参与基于即时消息的社交商务;&lt;/li&gt;
+&lt;li&gt;在COVID-19期间建立低风险跨区旅行走廊的定量框架;&lt;/li&gt;
+&lt;li&gt;网格化的企业数据集可替代中国的经济活动;&lt;/li&gt;
+&lt;li&gt;面对面：关于在COVID-19大流行期间使用个人口罩的两极化舆论;&lt;/li&gt;
+&lt;li&gt;迈向友好的在线社区：冒犯文字的无监督风格转换框架;&lt;/li&gt;
+&lt;li&gt;基于图的聚类算法用于COVID-19社交社区传播预测;&lt;/li&gt;
+&lt;li&gt;加权网络中节点中心性的极值分析;&lt;/li&gt;
+&lt;li&gt;博弈论激活对动态网络上流行病传播的影响;&lt;/li&gt;
+&lt;li&gt;AutoAudit：挖掘会计和时间演变图;&lt;/li&gt;
+&lt;li&gt;通过用户交互改善网络欺凌检测;&lt;/li&gt;
+&lt;li&gt;筛查传染病是一个随机控制问题;&lt;/li&gt;
+&lt;li&gt;AnyMOD.jl：用于创建能源系统模型的Julia软件包;&lt;/li&gt;
+&lt;li&gt;耦合拓扑信号的高阶单纯形同步;&lt;/li&gt;
+&lt;li&gt;多重网络中方向性引起的独特超级扩散;&lt;/li&gt;
+&lt;li&gt;多组SEIR框架中最佳流行病防护的见解;&lt;/li&gt;
+&lt;li&gt;使用分区策略为多路网络中的部分锁定建模;&lt;/li&gt;
+&lt;li&gt;动态社区检测用于野火事件分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2020-11-02)</title>
