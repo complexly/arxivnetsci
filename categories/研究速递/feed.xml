@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2020-11-04)</title>
+      <link>https://www.complexly.cn/post/20201104/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201104/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于图神经网络的图信号采样与恢复;&lt;/li&gt;
+&lt;li&gt;GAGE：几何保留属性图嵌入;&lt;/li&gt;
+&lt;li&gt;基于内容的TikTok和抖音文化差异分析;&lt;/li&gt;
+&lt;li&gt;社会网络致密化的转换机制;&lt;/li&gt;
+&lt;li&gt;控制COVID-19需要多少测试和社交距离？基于年龄区分的隔室模型的一些见解;&lt;/li&gt;
+&lt;li&gt;欺骗与影响策略;&lt;/li&gt;
+&lt;li&gt;阻止社会网络中的对抗性影响;&lt;/li&gt;
+&lt;li&gt;将节点结构角色身份嵌入双曲空间;&lt;/li&gt;
+&lt;li&gt;数字产业服务信任管理模型。迈向电子商务4.0;&lt;/li&gt;
+&lt;li&gt;自发性与交互性驱动的人类动力学突发性：以Wikipedia编辑历史为例;&lt;/li&gt;
+&lt;li&gt;合并用户评论图以进行假新闻检测;&lt;/li&gt;
+&lt;li&gt;中心性度量：一种识别社会网络中主要参与者的工具;&lt;/li&gt;
+&lt;li&gt;基于二次优化的团扩展用于重叠社区检测;&lt;/li&gt;
+&lt;li&gt;惩罚制度的演变;&lt;/li&gt;
+&lt;li&gt;网络HHD：量化竞赛性格表现模型中的循环竞赛;&lt;/li&gt;
+&lt;li&gt;电子商务用户的上下文;&lt;/li&gt;
+&lt;li&gt;在线学生评估中性别偏见的多方面分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2020-11-03)</title>
