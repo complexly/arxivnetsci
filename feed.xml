@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 04 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2020-11-05)</title>
+      <link>https://www.complexly.cn/post/20201105/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201105/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Facebook上美国大学网络形成的动态;&lt;/li&gt;
+&lt;li&gt;比较银行业的集体行为;&lt;/li&gt;
+&lt;li&gt;社交联系网络中爆发检测和跟踪的自适应测试分配;&lt;/li&gt;
+&lt;li&gt;调色板图：一个用于可视化集体分类数据的Python包;&lt;/li&gt;
+&lt;li&gt;高PV渗透率对区域电网的影响;&lt;/li&gt;
+&lt;li&gt;在复杂网络上建模交互性触发元素的非线性动力学：PyCascades程序包;&lt;/li&gt;
+&lt;li&gt;孟买的COVID-19流行病：预测，全面的经济开放，以及隔离区与接触者追踪和测试的比较：更新;&lt;/li&gt;
+&lt;li&gt;时间，天气和Google趋势在理解和预测网络调查响应中的作用;&lt;/li&gt;
+&lt;li&gt;接触者追踪调查：最新进展和挑战;&lt;/li&gt;
+&lt;li&gt;投票权、马尔可夫链和短爆发优化;&lt;/li&gt;
+&lt;li&gt;评估COVID-19下的道路交通安全：不平等、不规则和严重程度;&lt;/li&gt;
+&lt;li&gt;Covid-19预防措施如何与可持续发展目标互动？;&lt;/li&gt;
+&lt;li&gt;应用程序支持隔离措施以控制COVID-19流行病的有效性：一种参数化方法;&lt;/li&gt;
+&lt;li&gt;具有涌现集体记忆的舆论动态：长而多样的新闻历史的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2020-11-04)</title>
