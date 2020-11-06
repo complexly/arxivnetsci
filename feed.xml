@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2020-11-06)</title>
+      <link>https://www.complexly.cn/post/20201106/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201106/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过非凸局部搜索具有可变易感性的意见动态;&lt;/li&gt;
+&lt;li&gt;无序三元交互作用下的Heider平衡;&lt;/li&gt;
+&lt;li&gt;文本网络的对抗性上下文感知网络嵌入;&lt;/li&gt;
+&lt;li&gt;网络上非对称博弈的Ising模型;&lt;/li&gt;
+&lt;li&gt;Logistic增长模型和社区案例传播因素建模;&lt;/li&gt;
+&lt;li&gt;科学学中的语义和关系空间：文章向量化的深度学习模型;&lt;/li&gt;
+&lt;li&gt;流行病死亡人数分布的尾部;&lt;/li&gt;
+&lt;li&gt;社交媒体和政治贡献：新技术对政治竞争的影响;&lt;/li&gt;
+&lt;li&gt;带噪声投票模型的非线性变换中的反常扩散;&lt;/li&gt;
+&lt;li&gt;迈向地下论坛中的黑话解释;&lt;/li&gt;
+&lt;li&gt;量化语言亲密关系;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2020-11-05)</title>
