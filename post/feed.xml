@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2020-11-09)</title>
+      <link>https://www.complexly.cn/post/20201109/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201109/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于组建阶段活动分析GitHub团队的生产力;&lt;/li&gt;
+&lt;li&gt;使用重叠的社区和网络结构来识别应激反应基因的约化组;&lt;/li&gt;
+&lt;li&gt;个体变异和再感染下的群体免疫;&lt;/li&gt;
+&lt;li&gt;对抗信息病：COVID-19假新闻数据集;&lt;/li&gt;
+&lt;li&gt;COVID-19高原：适应性预防策略下的流行病发展现象;&lt;/li&gt;
+&lt;li&gt;在不同地理范围内传播的流行病波动中的暴发多样性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-11-06)</title>
