@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 10 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2020-11-11)</title>
+      <link>https://www.complexly.cn/post/20201111/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201111/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;主成分聚类方法进行社区检测;&lt;/li&gt;
+&lt;li&gt;F-FADE：频率分解用于边流中异常检测;&lt;/li&gt;
+&lt;li&gt;COVID-19模型中的数据预测及其在美国、韩国、巴西、印度、俄罗斯和意大利的应用;&lt;/li&gt;
+&lt;li&gt;存在强烈用户偏见的竞争性影响力传播和虚假新闻缓解;&lt;/li&gt;
+&lt;li&gt;在GitHub中获得人气;&lt;/li&gt;
+&lt;li&gt;GitHub问题评论的对话行为分类的迁移学习方法;&lt;/li&gt;
+&lt;li&gt;基于历史拥堵图和共识日识别的交通拥堵和出行时间预测;&lt;/li&gt;
+&lt;li&gt;多重性和多样性：分析完全符号图上相关聚类问题的最优解空间;&lt;/li&gt;
+&lt;li&gt;非个性化推荐中的两面公平;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2020-11-10)</title>
