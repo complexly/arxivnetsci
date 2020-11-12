@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要20篇(2020-11-12)</title>
+      <link>https://www.complexly.cn/post/20201112/</link>
+      <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201112/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;动态网络中的自适应社区搜索;&lt;/li&gt;
+&lt;li&gt;用低资源语言检测社交媒体操纵;&lt;/li&gt;
+&lt;li&gt;衡量欧洲和美国COVID-19死亡率的巨大突然变化;&lt;/li&gt;
+&lt;li&gt;描述在线社会网络中用户动态的基本方程的闭式解;&lt;/li&gt;
+&lt;li&gt;基于自发对称破缺概念的在线社会网络极化模型;&lt;/li&gt;
+&lt;li&gt;考虑外部刺激共鸣的在线社会网络中火红现象的新模型;&lt;/li&gt;
+&lt;li&gt;通过社交媒体进行实时知识聚合，在快速流行信息传播中面临的挑战和机遇;&lt;/li&gt;
+&lt;li&gt;使用贝叶斯信息融合技术从众包Waze数据中检测紧急事件;&lt;/li&gt;
+&lt;li&gt;Intentonomy：一个数据集和对人类意图理解的研究;&lt;/li&gt;
+&lt;li&gt;UTLDR：基于主体的框架，用于对传染病和公共干预进行建模;&lt;/li&gt;
+&lt;li&gt;迈向以边为中心的网络嵌入;&lt;/li&gt;
+&lt;li&gt;解读芝加哥COVID-19大流行期间犯罪趋势中社区层面的变化;&lt;/li&gt;
+&lt;li&gt;科学期刊中出版物数量的重尾分布;&lt;/li&gt;
+&lt;li&gt;在Instagram上表征和检测赞助的网红文章;&lt;/li&gt;
+&lt;li&gt;人群在反制错误信息中的作用：以COVID-19信息流行病为例;&lt;/li&gt;
+&lt;li&gt;在不理解网络微观结构的情况下影响社会网络的动态;&lt;/li&gt;
+&lt;li&gt;平衡选民模型中保守和破坏性的增长;&lt;/li&gt;
+&lt;li&gt;小调查事件检测;&lt;/li&gt;
+&lt;li&gt;将OpenStreetMap与知识图谱链接-对与模式无关的自愿性地理信息的链接发现;&lt;/li&gt;
+&lt;li&gt;Twitter情绪曲线模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2020-11-11)</title>
