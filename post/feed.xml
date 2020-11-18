@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2020-11-18)</title>
+      <link>https://www.complexly.cn/post/20201118/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201118/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图神经网络的设计空间;&lt;/li&gt;
+&lt;li&gt;通过向量标签传播算法进行社区检测;&lt;/li&gt;
+&lt;li&gt;基于辐射模型的城市公路货运多样性;&lt;/li&gt;
+&lt;li&gt;Covid-19在线讨论中的政治党派和反科学态度;&lt;/li&gt;
+&lt;li&gt;社会网络上双寡头的营销资源分配;&lt;/li&gt;
+&lt;li&gt;计算莱茵兰-普法尔茨北部的局部COVID-19再生数;&lt;/li&gt;
+&lt;li&gt;病毒式营销的时空预算分配策略设计;&lt;/li&gt;
+&lt;li&gt;基于XTR公钥系统的新的（k，l，m）可验证的多密共享方案;&lt;/li&gt;
+&lt;li&gt;估计、监测和预测Covid-19流行病：应用于纽约市数据的时空方法;&lt;/li&gt;
+&lt;li&gt;COVID-19的新型区室流行病学模型，以葡萄牙为例;&lt;/li&gt;
+&lt;li&gt;当想法传播时——两阶段传播模型中的复杂分叉;&lt;/li&gt;
+&lt;li&gt;使用张量的Kronecker积结构解决高阶图匹配中的计算瓶颈;&lt;/li&gt;
+&lt;li&gt;中国社交媒体上COVID-19起源的阴谋和揭穿叙事：它是如何开始的以及应归咎于谁;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2020-11-17)</title>
