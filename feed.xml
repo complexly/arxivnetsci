@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 19 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2020-11-20)</title>
+      <link>https://www.complexly.cn/post/20201120/</link>
+      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201120/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;上下文随机块模型：临界阈值和连续性;&lt;/li&gt;
+&lt;li&gt;通过矩阵分解进行图嵌入用于链路预测：平滑还是截断负数？;&lt;/li&gt;
+&lt;li&gt;一般社会网络中的分布式保护隐私的学习动态;&lt;/li&gt;
+&lt;li&gt;选举期间政治舆论格局的演变;&lt;/li&gt;
+&lt;li&gt;图上种子集扩展的确定性击中时间矩方法;&lt;/li&gt;
+&lt;li&gt;迈向5G及更高版本中的mmWave V2X，以支持自动驾驶;&lt;/li&gt;
+&lt;li&gt;寻找道路：网络上的最短路径;&lt;/li&gt;
+&lt;li&gt;具有动态和无症状种群的COVID-19的广义流行病学模型;&lt;/li&gt;
+&lt;li&gt;一种提高Web内容品牌一致性的集成方法：建模，分析和建议;&lt;/li&gt;
+&lt;li&gt;多网络相控振荡器的对抗决策策略：蓝绿红的仓本-坂口模型;&lt;/li&gt;
+&lt;li&gt;时间序列快照网络作为OSS中角色推荐的新模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2020-11-19)</title>
