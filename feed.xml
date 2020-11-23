@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 20 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2020-11-23)</title>
+      <link>https://www.complexly.cn/post/20201123/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201123/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用受限玻尔兹曼机的图信号恢复;&lt;/li&gt;
+&lt;li&gt;COVID-19对流动性和电动汽车充电负荷的影响;&lt;/li&gt;
+&lt;li&gt;使用数据科学工具探索一个国家的政治脉动;&lt;/li&gt;
+&lt;li&gt;最快检测出COVID-19大流行的开始;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-11-20)</title>
