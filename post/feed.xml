@@ -7,10 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要23篇(2020-11-24)</title>
+      <link>https://www.complexly.cn/post/20201124/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201124/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GNNVis：图神经网络预测误差诊断的可视化分析方法;&lt;/li&gt;
+&lt;li&gt;剖析网络上动态过程的局部化现象;&lt;/li&gt;
+&lt;li&gt;网络特性和流行病参数如何影响无标度随机网络上的随机SIR动态;&lt;/li&gt;
+&lt;li&gt;连接基于物理和数据驱动的建模用于学习动力系统;&lt;/li&gt;
+&lt;li&gt;不确定模型的分布式推理的通用框架;&lt;/li&gt;
+&lt;li&gt;基于波谱分形尺度的空间信号分析：以城市街道网络为例;&lt;/li&gt;
+&lt;li&gt;测量复杂网络中的四边形形成;&lt;/li&gt;
+&lt;li&gt;使用归纳表示学习检测社会网络中的虚假新闻传播者;&lt;/li&gt;
+&lt;li&gt;希腊罗马实践作为亚美尼亚和东方罗马装饰艺术的先驱者的作用;&lt;/li&gt;
+&lt;li&gt;挖掘Twitter活动中有影响力者及其Bot活动;&lt;/li&gt;
+&lt;li&gt;在COVID-19大流行期间跟踪社交媒体上危机过程和心理健康的演变;&lt;/li&gt;
+&lt;li&gt;SIR流行模型中用于最小化传播的边删除算法;&lt;/li&gt;
+&lt;li&gt;使用集成分析研究网络拓扑对城市路网性能的影响;&lt;/li&gt;
+&lt;li&gt;控制复杂网络的对称性和集群动力学;&lt;/li&gt;
+&lt;li&gt;热转化引起的空气污染对COVID-19的影响;&lt;/li&gt;
+&lt;li&gt;乘车对过境乘客的影响：芝加哥案例研究;&lt;/li&gt;
+&lt;li&gt;在德国肉类和家禽加工厂COVID-19超级传播暴发事件的调查：一项横断面研究;&lt;/li&gt;
+&lt;li&gt;基于宏观和微观模型的数据驱动的双泊车区域影响综合评估;&lt;/li&gt;
+&lt;li&gt;锦标赛种子悖论;&lt;/li&gt;
+&lt;li&gt;AutoGraph：自动图神经网络;&lt;/li&gt;
+&lt;li&gt;在计算机模拟中控制COVID-19感染的因素的基本效应分析表明，进行社交距离和使用口罩很重要;&lt;/li&gt;
+&lt;li&gt;采用流量模拟和手机数据的现实的基于主体的COVID-19模拟模型;&lt;/li&gt;
+&lt;li&gt;最快检测COVID-19关键阶段：何时应采取限制措施？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2020-11-23)</title>

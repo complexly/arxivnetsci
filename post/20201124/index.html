@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要23篇(2020-11-24) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+GNNVis：图神经网络预测误差诊断的可视化分析方法;
+剖析网络上动态过程的局部化现象;
+网络特性和流行病参数如何影响无标度随机网络上的随机SIR动态;
+连接基于物理和数据驱动的建模用于学习动力系统;
+不确定模型的分布式推理的通用框架;
+基于波谱分形尺度的空间信号分析：以城市街道网络为例;
+测量复杂网络中的四边形形成;
+使用归纳表示学习检测社会网络中的虚假新闻传播者;
+希腊罗马实践作为亚美尼亚和东方罗马装饰艺术的先驱者的作用;
+挖掘Twitter活动中有影响力者及其Bot活动;
+在COVID-19大流行期间跟踪社交媒体上危机过程和心理健康的演变;
+SIR流行模型中用于最小化传播的边删除算法;
+使用集成分析研究网络拓扑对城市路网性能的影响;
+控制复杂网络的对称性和集群动力学;
+热转化引起的空气污染对COVID-19的影响;
+乘车对过境乘客的影响：芝加哥案例研究;
+在德国肉类和家禽加工厂COVID-19超级传播暴发事件的调查：一项横断面研究;
+基于宏观和微观模型的数据驱动的双泊车区域影响综合评估;
+锦标赛种子悖论;
+AutoGraph：自动图神经网络;
+在计算机模拟中控制COVID-19感染的因素的基本效应分析表明，进行社交距离和使用口罩很重要;
+采用流量模拟和手机数据的现实的基于主体的COVID-19模拟模型;
+最快检测COVID-19关键阶段：何时应采取限制措施？;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要23篇(2020-11-24) - 网络科学研究速递">
+<meta itemprop="description" content="
+GNNVis：图神经网络预测误差诊断的可视化分析方法;
+剖析网络上动态过程的局部化现象;
+网络特性和流行病参数如何影响无标度随机网络上的随机SIR动态;
+连接基于物理和数据驱动的建模用于学习动力系统;
+不确定模型的分布式推理的通用框架;
+基于波谱分形尺度的空间信号分析：以城市街道网络为例;
+测量复杂网络中的四边形形成;
+使用归纳表示学习检测社会网络中的虚假新闻传播者;
+希腊罗马实践作为亚美尼亚和东方罗马装饰艺术的先驱者的作用;
+挖掘Twitter活动中有影响力者及其Bot活动;
+在COVID-19大流行期间跟踪社交媒体上危机过程和心理健康的演变;
+SIR流行模型中用于最小化传播的边删除算法;
+使用集成分析研究网络拓扑对城市路网性能的影响;
+控制复杂网络的对称性和集群动力学;
+热转化引起的空气污染对COVID-19的影响;
+乘车对过境乘客的影响：芝加哥案例研究;
+在德国肉类和家禽加工厂COVID-19超级传播暴发事件的调查：一项横断面研究;
+基于宏观和微观模型的数据驱动的双泊车区域影响综合评估;
+锦标赛种子悖论;
+AutoGraph：自动图神经网络;
+在计算机模拟中控制COVID-19感染的因素的基本效应分析表明，进行社交距离和使用口罩很重要;
+采用流量模拟和手机数据的现实的基于主体的COVID-19模拟模型;
+最快检测COVID-19关键阶段：何时应采取限制措施？;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要23篇(2020-11-24) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20201124/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+GNNVis：图神经网络预测误差诊断的可视化分析方法;
+剖析网络上动态过程的局部化现象;
+网络特性和流行病参数如何影响无标度随机网络上的随机SIR动态;
+连接基于物理和数据驱动的建模用于学习动力系统;
+不确定模型的分布式推理的通用框架;
+基于波谱分形尺度的空间信号分析：以城市街道网络为例;
+测量复杂网络中的四边形形成;
+使用归纳表示学习检测社会网络中的虚假新闻传播者;
+希腊罗马实践作为亚美尼亚和东方罗马装饰艺术的先驱者的作用;
+挖掘Twitter活动中有影响力者及其Bot活动;
+在COVID-19大流行期间跟踪社交媒体上危机过程和心理健康的演变;
+SIR流行模型中用于最小化传播的边删除算法;
+使用集成分析研究网络拓扑对城市路网性能的影响;
+控制复杂网络的对称性和集群动力学;
+热转化引起的空气污染对COVID-19的影响;
+乘车对过境乘客的影响：芝加哥案例研究;
+在德国肉类和家禽加工厂COVID-19超级传播暴发事件的调查：一项横断面研究;
+基于宏观和微观模型的数据驱动的双泊车区域影响综合评估;
+锦标赛种子悖论;
+AutoGraph：自动图神经网络;
+在计算机模拟中控制COVID-19感染的因素的基本效应分析表明，进行社交距离和使用口罩很重要;
+采用流量模拟和手机数据的现实的基于主体的COVID-19模拟模型;
+最快检测COVID-19关键阶段：何时应采取限制措施？;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20201124/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20201124/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要23篇(2020-11-24)</h1>
+
+                  <p class="post-byline">
+                    2020年11月24日 · 9973 字 ·
+                    阅读时间约20分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>GNNVis：图神经网络预测误差诊断的可视化分析方法;</li>
+<li>剖析网络上动态过程的局部化现象;</li>
+<li>网络特性和流行病参数如何影响无标度随机网络上的随机SIR动态;</li>
+<li>连接基于物理和数据驱动的建模用于学习动力系统;</li>
+<li>不确定模型的分布式推理的通用框架;</li>
+<li>基于波谱分形尺度的空间信号分析：以城市街道网络为例;</li>
+<li>测量复杂网络中的四边形形成;</li>
+<li>使用归纳表示学习检测社会网络中的虚假新闻传播者;</li>
+<li>希腊罗马实践作为亚美尼亚和东方罗马装饰艺术的先驱者的作用;</li>
+<li>挖掘Twitter活动中有影响力者及其Bot活动;</li>
+<li>在COVID-19大流行期间跟踪社交媒体上危机过程和心理健康的演变;</li>
+<li>SIR流行模型中用于最小化传播的边删除算法;</li>
+<li>使用集成分析研究网络拓扑对城市路网性能的影响;</li>
+<li>控制复杂网络的对称性和集群动力学;</li>
+<li>热转化引起的空气污染对COVID-19的影响;</li>
+<li>乘车对过境乘客的影响：芝加哥案例研究;</li>
+<li>在德国肉类和家禽加工厂COVID-19超级传播暴发事件的调查：一项横断面研究;</li>
+<li>基于宏观和微观模型的数据驱动的双泊车区域影响综合评估;</li>
+<li>锦标赛种子悖论;</li>
+<li>AutoGraph：自动图神经网络;</li>
+<li>在计算机模拟中控制COVID-19感染的因素的基本效应分析表明，进行社交距离和使用口罩很重要;</li>
+<li>采用流量模拟和手机数据的现实的基于主体的COVID-19模拟模型;</li>
+<li>最快检测COVID-19关键阶段：何时应采取限制措施？;</li>
+</ul>
+
+<p></p>
+
+<h3 id="gnnvis-图神经网络预测误差诊断的可视化分析方法">GNNVis：图神经网络预测误差诊断的可视化分析方法</h3>
+
+<p>原文标题： GNNVis: A Visual Analytics Approach for Prediction Error Diagnosis of Graph Neural Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11048">http://arxiv.org/abs/2011.11048</a></p>
+
+<p>作者： Zhihua Jin, Yong Wang, Qianwen Wang, Yao Ming, Tengfei Ma, Huamin Qu</p>
+
+<p>摘要： 图神经网络（GNN）旨在将深度学习技术扩展到图数据，并且近年来在图分析任务（例如节点分类）方面取得了重大进展。但是，类似于卷积神经网络（CNN）和递归神经网络（RNN）等其他深度神经网络，GNN的行为就像黑匣子，其详细信息对模型开发人员和用户而言是隐藏的。因此，很难诊断出GNN的可能错误。尽管已对CNN和RNN进行了许多视觉分析研究，但很少有研究解决GNN的挑战。本文使用交互式视觉分析工具GNNVis填补了研究空白，以帮助模型开发人员和用户理解和分析GNN。具体来说，“并行集视图”和“投影视图”使用户能够快速识别和验证错误预测集中的错误模式。图视图和特征矩阵视图提供了对各个节点的详细分析，以帮助用户形成有关错误模式的假设。由于GNN共同对图结构和节点特征进行建模，因此我们通过比较三种模型的预测来揭示两种信息的相对影响：GNN，多层感知器（MLP）和不使用特征的GNN（GNNWUF）。通过两个案例研究以及与领域专家的访谈，证明了GNNVis在促进对GNN模型及其错误的理解方面的有效性。</p>
+
+<h3 id="剖析网络上动态过程的局部化现象">剖析网络上动态过程的局部化现象</h3>
+
+<p>原文标题： Dissecting localization phenomena of dynamical processes on networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.10918">http://arxiv.org/abs/2011.10918</a></p>
+
+<p>作者： Diogo H. Silva, Silvio C. Ferreira</p>
+
+<p>摘要： 局部化现象渗透到物理学的许多分支中，这些分支在异构网络上演化的动力学过程中起着基本作用。这些定位分析经常基于例如邻接或非回溯矩阵的特征向量，这些特征向量出现在动态过程的理论中，该过程接近于有活动到无活动的过渡。我们在测量节点活动这一问题上进行了进展，以量化网络上动态过程中的局部化，无论它们是否接近过渡。该方法是通用的，适用于理论，随机模拟和真实数据。我们在分析和数值上研究了广泛网络上的传播过程，表明节点活动可以根据网络结构呈现复杂的模式。使用退火网络，我们表明过渡时的局部状态和正上方的地方性阶段不是扩散过程的不兼容特征。我们还报告说，即使对反向参与率的分析表明存在本地化活动，接近过渡期的流行程度也由网络的非本地化组件决定。同样，可以通过相同的定位模式描述具有不同关键指数的动力学过程。转向淬灭网络，观察并讨论了更复杂的图景，具体取决于激活的类型和指数范围。我们的工作为调查网络中传播和其他过程中的本地活动铺平了一条重要的道路。</p>
+
+<h3 id="网络特性和流行病参数如何影响无标度随机网络上的随机sir动态">网络特性和流行病参数如何影响无标度随机网络上的随机SIR动态</h3>
+
+<p>原文标题： How network properties and epidemic parameters influence stochastic SIR dynamics on scale-free random networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.10595">http://arxiv.org/abs/2011.10595</a></p>
+
+<p>作者： Sara Sottile, Ozan Kahramanoğulları, Mattia Sensi</p>
+
+<p>摘要： 在以幂律分布描述社会互动的前提下，我们研究了通过配置模型生成的静态无标度随机网络上的SIR随机动态。我们就确定性考虑因素验证了我们的模型，并提供了该疾病灭绝可能性的理论结果。基于此校准，我们通过随机模拟探索疾病传播的变异性。特别是，我们证明了流行指数如何随疾病的传染性和网络的连通性而变化。我们的结果量化了起始节点度在确定这些指标（通常用于描述流行病传播）中的作用。</p>
+
+<h3 id="连接基于物理和数据驱动的建模用于学习动力系统">连接基于物理和数据驱动的建模用于学习动力系统</h3>
+
+<p>原文标题： Bridging Physics-based and Data-driven modeling for Learning Dynamical Systems</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.10616">http://arxiv.org/abs/2011.10616</a></p>
+
+<p>作者： Rui Wang, Danielle Maddix, Christos Faloutsos, Yuyang Wang, Rose Yu</p>
+
+<p>摘要： 当一些变量未被观察时，我们如何学习动态系统进行预测？例如，在COVID-19中，我们希望预测感染和死亡病例的数量，但我们不知道易感人群和暴露人群的数量。尽管机舱模型在流行病模型中被广泛使用，但数据驱动的模型正在用于疾病预测。作为案例研究，我们比较了这两种COVID-19预测模型，并注意到基于物理学的模型明显优于深度学习模型。我们提出了一种混合方法AutoODE-COVID，它结合了新颖的隔离模型和自动区分功能。与最好的深度学习竞争对手相比，我们的方法比COVID-19提前7天预测的平均绝对误差降低了57.4％。为了理解深度学习的劣等表现，我们研究了预测中的泛化问题。通过系统的实验，我们发现深度学习模型无法在数据域或参数域的变化分布下进行预测。这引起人们对重新思考泛化的关注，特别是对于学习动力学系统。</p>
+
+<h3 id="不确定模型的分布式推理的通用框架">不确定模型的分布式推理的通用框架</h3>
+
+<p>原文标题： A General Framework for Distributed Inference with Uncertain Models</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.10669">http://arxiv.org/abs/2011.10669</a></p>
+
+<p>作者： James Z. Hare, Cesar A. Uribe, Lance Kaplan, Ali Jadbabaie</p>
+
+<p>摘要： 本文研究了异构主体网络的分布式分类问题。主体试图共同识别最能描述观察序列的潜在目标类别。首先将问题抽象到假设检验框架，在该假设框架中，我们假设主体人寻求就与观察分布最匹配的假设（目标类别）达成共识。非贝叶斯社会学习理论提供了一种框架，该框架通过允许主体通过网络顺序地交流和更新其对每种假设的信念，从而以有效的方式解决了这一问题。大多数现有方法都假定主体人可以访问每种假设的精确统计模型。但是，在许多实际应用中，主体基于有限的数据学习似然模型，这会导致似然函数参数的不确定性。在这项工作中，我们基于不确定性模型的概念，通过确定一组广泛的参数分布，使主体商的信念收敛到与集中式方法相同的结果，从而将主体商的不确定性纳入可能性。此外，我们根据经验探索对非参数模型的扩展，以提供非贝叶斯社会学习中不确定模型的通用框架。</p>
+
+<h3 id="基于波谱分形尺度的空间信号分析-以城市街道网络为例">基于波谱分形尺度的空间信号分析：以城市街道网络为例</h3>
+
+<p>原文标题： Spatial Signal Analysis based on Wave-Spectral Fractal Scaling: A Case of Urban Street Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.10711">http://arxiv.org/abs/2011.10711</a></p>
+
+<p>作者： Yanguang Chen, Yuqing Long</p>
+
+<p>摘要： 长期以来，人们开发了许多方法来基于时间序列进行时间信号分析。但是，对于地理系统，空间信号分析与时间信号分析一样重要。非平稳的空间和时间过程与非线性相关联，并且不能通过常规分析方法进行有效分析。分形理论为探索复杂性提供了有力的工具，并有助于进行时空信号分析。本文致力于通过波谱尺度研究地理系统的空间信号。以中国10个城市的交通网络为例进行实证研究。快速傅里叶变换和最小二乘回归分析用于计算谱指数。结果表明，所有这些城市交通网络的波谱密度分布均遵循比例定律，并且谱比例指数可以转换为分形维数。使用分形参数，我们可以对地理信号进行空间分析。可以将分析过程推广到时间信号分析。波谱尺度方法可以应用于地理世界中的自相似分形信号和自仿射分形信号。</p>
+
+<h3 id="测量复杂网络中的四边形形成">测量复杂网络中的四边形形成</h3>
+
+<p>原文标题： Measuring Quadrangle Formation in Complex Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.10763">http://arxiv.org/abs/2011.10763</a></p>
+
+<p>作者： Mingshan Jia, Bogdan Gabrys, Katarzyna Musial</p>
+
+<p>摘要： 经典聚类系数和最近提出的闭合系数从两个不同的角度量化了三角形的形成，焦点节点分别位于空心三叉戟的中心或末端。由于许多网络自然都富含三角形，因此它们成为描述和分析网络的标准指标。但是，应用它们的优势可能会限制在三角形相对较少但富含四边形的网络中，例如蛋白质-蛋白质相互作用网络，神经网络和食物网。这产生了其他方法，这些方法将在我们的旅程中利用四边形来更好地理解本地结构及其在不同类型网络中的含义。这里我们提出两个四边形系数，即i-quad系数和o-quad系数，以量化网络中的四边形形成，并将它们进一步扩展到加权网络。通过对来自六个不同域的16个网络的实验，我们首先揭示了两个四边形系数的密度分布，然后分析了它们与节点度的相关性。最后，我们证明，在网络级别，将平均i-quad系数和平均o-quad系数相加会显著改善网络分类，而在节点级别，i-quad和o-quad系数是有用的功能改善链路预测。</p>
+
+<h3 id="使用归纳表示学习检测社会网络中的虚假新闻传播者">使用归纳表示学习检测社会网络中的虚假新闻传播者</h3>
+
+<p>原文标题： Detecting Fake News Spreaders in Social Networks using Inductive Representation Learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.10817">http://arxiv.org/abs/2011.10817</a></p>
+
+<p>作者： Bhavtosh Rath, Aadesh Salecha, Jaideep Srivastava</p>
+
+<p>摘要： 防止虚假新闻传播的一个重要方面是主动检测其传播的可能性。从网络分析的角度出发，对伪造新闻传播器检测领域的研究尚未进行过多的研究。在本文中，我们提出了一种基于图神经网络的方法来识别可能成为错误信息传播者的节点。使用社区健康评估模型和人际信任，我们提出了一种归纳表示学习框架，以预测紧密连接的社区结构中最有可能传播假新闻的节点，从而使整个社区容易受到感染。使用真实的Twitter网络中节点的基于拓扑和交互的信任属性，我们能够以90％以上的准确性预测虚假信息传播者。</p>
+
+<h3 id="希腊罗马实践作为亚美尼亚和东方罗马装饰艺术的先驱者的作用">希腊罗马实践作为亚美尼亚和东方罗马装饰艺术的先驱者的作用</h3>
+
+<p>原文标题： The Role of the Greco-Roman Practice as a Progenitor of the Armenian and Eastern Roman Ornamental Art</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.10973">http://arxiv.org/abs/2011.10973</a></p>
+
+<p>作者： Mehmet Erbudak, Selim Onat</p>
+
+<p>摘要： 我们调查了在土耳其小亚细亚不同地区发现的晚期希腊化时期（在共同时期之前的几个世纪）和早期罗马时期（共同时期）的二维周期性装饰品，并将它们分类为基于数学的墙纸组它们的对称性原始资料来自伊兹密尔以弗所的联排别墅，来自祖格玛（Zeugma），现在在加济安泰普的祖格玛博物馆，以及最近发布的安塔利亚Gazipa  c s a附近的安提阿奇亚ad Cragum的游泳池。首先使用伪像确定每个对称组的出现。然后，我们将该分布与中东中世纪文化的分布进行比较，即亚美尼亚，拜占庭，阿拉伯和塞尔柱克土耳其人，成对计算墙纸分布的欧几里得距离。随后对结果进行的多维尺度和层次聚类分析证实，亚美尼亚和拜占庭的艺术作品深受古典杰作的启发，阿拉伯人的塞尔柱克创作也是如此。</p>
+
+<h3 id="挖掘twitter活动中有影响力者及其bot活动">挖掘Twitter活动中有影响力者及其Bot活动</h3>
+
+<p>原文标题： Mining Influentials and their Bot Activities on Twitter Campaigns</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11010">http://arxiv.org/abs/2011.11010</a></p>
+
+<p>作者： Shanika Karunasekera, Kwan Hui Lim, Aaron Harwood</p>
+
+<p>摘要： Twitter越来越多地用于政治，广告和营销活动，其主要目的是影响用户以支持特定的原因，个人或团体。我们提出了一种用于挖掘和分析Twitter活动的新颖方法，其中包括：（i）收集推文并检测与活动有关的主题； （ii）使用科学计量学方法挖掘重要的竞选主题； （iii）使用主题标签和主题熵对用户兴趣进行建模； （iv）使用改编的PageRank分数来识别有影响力的用户； （v）用于识别类似机器人行为的各种指标和可视化技术。尽管此方法可以推广到多种竞选类型，但我们在2017年德国联邦大选中证明了其有效性。</p>
+
+<h3 id="在covid-19大流行期间跟踪社交媒体上危机过程和心理健康的演变">在COVID-19大流行期间跟踪社交媒体上危机过程和心理健康的演变</h3>
+
+<p>原文标题： Tracking the evolution of crisis processes and mental health on social media during the COVID-19 pandemic</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11024">http://arxiv.org/abs/2011.11024</a></p>
+
+<p>作者： Antonela Tommasel, Daniela Godoy, Juan Manuel Rodriguez</p>
+
+<p>摘要： COVID-19大流行已影响到社会的各个方面，不仅带来健康危害，而且对公共秩序，政府和精神健康构成挑战。此外，这是有史以来世界上第一位使用社交媒体大量表达其思想和关切的人。这项研究的目的是通过对心理学阶段的一种众所周知的危机阶段模型进行操作，从心理语言分析的角度来研究作为社会学问题的危机应对和恢复阶段。基于2020年3月至2020年8月在阿根廷收集的大量Twitter数据，我们对社交媒体帖子中使用的语言差异进行了主题分析，并研究了揭示危机不同阶段及其国家应对措施的指标。该分析与整个时间范围内心理健康对话的时间流行性研究相结合。除了阿根廷的案例研究之外，所提出的方法和分析还可以应用于任何公共的大规模数据。这种方法可以为旨在监测并最终在危机的不同阶段进行干预的公共卫生政治设计提供见识，从而改善对人口的不良心理健康影响。</p>
+
+<h3 id="sir流行模型中用于最小化传播的边删除算法">SIR流行模型中用于最小化传播的边删除算法</h3>
+
+<p>原文标题： Edge Deletion Algorithms for Minimizing Spread in SIR Epidemic Models</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11087">http://arxiv.org/abs/2011.11087</a></p>
+
+<p>作者： Yuhao Yi, Liren Shan, Philip E. Paré, Karl H. Johansson</p>
+
+<p>摘要： 本文研究了有效减少易感感染恢复（SIR）流行病模型中感染数量的算法策略。我们在确定性SIR（D-SIR）模型和独立级联SIR（IC-SIR）模型中考虑了Markov链SIR模型及其两个实例。我们研究通过在现实的约束下限制接触来最大限度地减少感染数量的问题。在对繁殖数进行适度假设的情况下，我们证明了对于大型随机网络，D-SIR模型和IC-SIR模型中的感染数受超模函数的限制。我们提出了带有近似保证的有效算法，以最大程度地减少感染。理论结果通过数值模拟说明。</p>
+
+<h3 id="使用集成分析研究网络拓扑对城市路网性能的影响">使用集成分析研究网络拓扑对城市路网性能的影响</h3>
+
+<p>原文标题： Using Ensemble Analysis to study the effects of Network Topology on Performance in Urban Road Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11121">http://arxiv.org/abs/2011.11121</a></p>
+
+<p>作者： Steven J O&rsquo;Hare, Richard D Connors, David P Watling</p>
+
+<p>摘要： 迄今为止，对网络结构对性能的影响的研究仅限于检查由网络科学文献中的规范模型生成的合成网络的集合，这些集合不能合理地代表真实的道路网络。此外，经常使用需求和供应结构的不同参数设置范围，因此很难将一项研究与另一项研究进行比较。为理解决这些不足，本文提出了一个用于进行数字调查设计的实验框架，以研究网络性能相对于城市道路网络的结构特性如何变化。该实验框架中的关键步骤是生成一系列综合网络，这些综合网络在网络结构的单个方面方面有所不同，并且遵守合理性约束，以确保与真实城市道路网络的相关性。然后，本文演示了该实验框架在调查两个性能指标如何方面的应用。平均链接的容量/容量比和无政府状态的价格随旅行需求的密度以及网络基础结构的大小，密度和连通性而变化。这样，就实验的计算负担以及对网络结构某些重要方面（例如容量分布）的经验数据的需求，确定了此类调查的几个关键挑战。</p>
+
+<h3 id="控制复杂网络的对称性和集群动力学">控制复杂网络的对称性和集群动力学</h3>
+
+<p>原文标题： Controlling symmetries and clustered dynamics of complex networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11122">http://arxiv.org/abs/2011.11122</a></p>
+
+<p>作者： L. V. Gambuzza, M. Frasca, F. Sorrentino, L. M. Pecora, S. Boccaletti</p>
+
+<p>摘要： 对称性是复杂网络的基本特征，因为它们调节图的集体动力学如何组织成簇状态。我们在这里展示了如何控制网络对称性，以及如何以期望的方式与群集的节点一起实施同步模式化状态。我们的方法包括通过添加新边或添加/删除链接以及修改其权重来干扰原始网络连接。通过解决合适的优化问题，我们进一步保证对现有拓扑所做的更改最小。对于一般情况，得出了强制模式的稳定性的条件，并通过范例说明了该方法的性能。我们的结果与可能需要将网络系统协调为不同组的所有实际情况相关，例如，机器人团队，无人驾驶自动驾驶汽车，电网和中央模式生成器。</p>
+
+<h3 id="热转化引起的空气污染对covid-19的影响">热转化引起的空气污染对COVID-19的影响</h3>
+
+<p>原文标题： Effects of thermal inversion induced air pollution on COVID-19</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11127">http://arxiv.org/abs/2011.11127</a></p>
+
+<p>作者： Hannah Klauber, Nicolas Koch, Sebastian Kraus</p>
+
+<p>摘要： 空气污染是对人类健康的威胁，特别是因为它加剧了呼吸系统疾病。在中国武汉和意大利伦巴第的早期COVID-19暴发发生时，空气污染水平很高，引起人们对颗粒物和其他污染物在感染中的潜在作用以及新肺病更严重后果的关注。空气污染和COVID-19结果均受人类流动性和经济活动的驱动，从而导致回归估计中存在虚假的相关性。我们使用来自比利时，巴西，德国，意大利，英国和美国的地区面板数据来估计空气污染水平每天变化对COVID-19感染和死亡的影响。利用热转化产生的空气污染的随机变化，我们排除了流动性和经济活动的变化正在驱动结果。我们发现，在前三周中，空气污染水平增加了1％，导致每周病例增加1.5％。在四个星期内，空气污染增加1％，导致COVID-19死亡人数增加5.1％。这些结果表明，减少空气污染的短期措施可以帮助减轻病毒对健康的损害。</p>
+
+<h3 id="乘车对过境乘客的影响-芝加哥案例研究">乘车对过境乘客的影响：芝加哥案例研究</h3>
+
+<p>原文标题： Ride-hailing Impacts on Transit Ridership: Chicago Case Study</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11130">http://arxiv.org/abs/2011.11130</a></p>
+
+<p>作者： Helena Breuer, Jianhe Du, Hesham A. Rakha</p>
+
+<p>摘要： 现有的有关叫车（RH）与公交服务之间关系的文献仅限于缺乏实时空间背景的实证研究。为了填补这一空白，我们采用了一种新颖的实时地理空间分析方法。利用伊利诺伊州芝加哥的乘车旅行的源数据，我们计算了2019年6月所有7,949,902次乘车旅行的实时等同于实时的旅行;我们样本的绝对规模与现有文献中研究的样本无法比拟。现有的多项式嵌套Logit模型用于确定乘车人选择为特定O-D对P（Transit | CTA）服务的公交替代方案的可能性。我们发现31％的乘车旅行是可替代的，而61％的旅行是不可替代的。剩余的8％位于缓冲区内。我们使用参数敏感性分析测量了这种可能性的鲁棒性，并进行了两尾t检验。我们的结果表明，在四个敏感性参数中，概率对公交旅行的总旅行时间最为敏感。我们研究的主要贡献是我们的透彻研究方法和一系列经过微调的实时时空分析，可分析公共交通乘车出行的可替代性。结果和讨论旨在提供从实际旅行中得出的观点，并且我们期望本文将证明与乘车数据的记录和发布相关的研究益处。</p>
+
+<h3 id="在德国肉类和家禽加工厂covid-19超级传播暴发事件的调查-一项横断面研究">在德国肉类和家禽加工厂COVID-19超级传播暴发事件的调查：一项横断面研究</h3>
+
+<p>原文标题： Investigation of superspreading COVID-19 outbreaks events in meat and poultry processing plants in Germany: A cross-sectional study</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11153">http://arxiv.org/abs/2011.11153</a></p>
+
+<p>作者： Roman Pokora, Susan Kutschbach, Matthias Weigl, Detlef Braun, Annegret Epple, Eva Lorenz, Stefan Grund, Juergen Hecht, Helmut Hollich, Peter Rietschel, Frank Schneider, Roland Sohmen, Katherine Taylor, Isabel Dienstbuehl</p>
+
+<p>摘要： 自2020年5月以来，尽管采取了各种保护措施，德国肉类行业还是发生了几次COVID-19暴发，而且温度和通风条件被认为是可能的高风险因素。这项横断面研究检查了肉类和家禽类植物，以检查可能的危险因素。公司完成了一份关于工作环境和为预防SARS-CoV-2感染而采取的保护措施的自我管理调查表。进行多变量logistic回归分析，对距离至少1.5米的可能性，中断规则和就业状况进行了调整，以识别与COVID-19病例相关的危险因素。拥有19,072名员工的22家肉类和家禽工厂参加了会议。在超过10例的七家工厂中，COVID-19的患病率为12.1％，在去骨和切肉区域最高，为16.1％。进行了一个子样本分析，其中可以获得每位员工的最大通气率信息，显示出通气率的影响（调整后的优势比（AOR）为0.996，95％CI为0.993-0.999）。当在工作区域中将温度作为相互作用项时，通风速率的影响不会改变。升高室温会降低获得阳性COVID-19测试结果的机会（AOR 0.90 95％CI 0.82-0.99），而对于交互作用项而言，获得COVID-19测试阳性的机会则增加0.1％（AOR 1.001，95 ％CI 1.000-1.003）。我们的结果进一步表明，气候条件和低室外空气流量是可以促进SARS-CoV-2气溶胶传播的因素。在工业工作场所中，大流行缓解策略的可能要求是提高通风率。</p>
+
+<h3 id="基于宏观和微观模型的数据驱动的双泊车区域影响综合评估">基于宏观和微观模型的数据驱动的双泊车区域影响综合评估</h3>
+
+<p>原文标题： A Data-Driven and Integrated Evaluation of Area-wide Impacts of Double Parking Using Macroscopic and Microscopic Models</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11238">http://arxiv.org/abs/2011.11238</a></p>
+
+<p>作者： Jingqin Gao, Kaan Ozbay, Michael Marsico</p>
+
+<p>摘要： 在城市街道上，经常对交通运营和安全产生负面影响的双重停车并不是一种新现象。这项研究提出了一种新的数据驱动的集成框架，用于估算双重停车的实际频率，以便在双重停车的情况下，微观和宏观模型均可用于量化区域范围的影响。这项研究的结果可以为运输机构提供有用的见解，以帮助他们确定哪些地方将消除有问题的双重停车，从而获得最大的收益。结果，可以更有效地计划各种停车执法和管理策略。</p>
+
+<h3 id="锦标赛种子悖论">锦标赛种子悖论</h3>
+
+<p>原文标题： A paradox of tournament seeding</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11277">http://arxiv.org/abs/2011.11277</a></p>
+
+<p>作者： László Csató</p>
+
+<p>摘要： 对体育比赛的播种数学模型进行了分析，其中，资格赛是基于循环竞赛的。发现策略上的限制条件非常严格：如果每个团队都采用自己的系数（衡量其过去表现），则每次循环竞赛中只有一个或所有资格。因此，标准抽奖制度会激励坦克出战，以便分配给更强的底池，因为每支球队都希望在系数较低的球队中出线。大型足球比赛显示出受此问题困扰。通过为每个团队赋予在循环赛中排名较低的所有团队中最高的系数，可以确保策略性。 2020/21赛季欧洲冠军联赛对此提案进行了说明。</p>
+
+<h3 id="autograph-自动图神经网络">AutoGraph：自动图神经网络</h3>
+
+<p>原文标题： AutoGraph: Automated Graph Neural Network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11288">http://arxiv.org/abs/2011.11288</a></p>
+
+<p>作者： Yaoman Li, Irwin King</p>
+
+<p>摘要： 图在许多应用程序中起着重要作用。最近，图神经网络（GNN）在图分析任务中取得了可喜的成果。已经提出了一些最新的GNN模型，例如图卷积网络（GCN），图注意力网络（GAT）等。尽管取得了这些成功，但是大多数GNN的结构都很浅。这导致了GNN的低表达能力。为了充分利用深度神经网络的功能，最近提出了一些深度GNN。但是，深层GNN的设计需要大量的架构工程。在这项工作中，我们提出了一种自动化深度GNN设计的方法。在我们提出的方法中，我们向GNN搜索空间添加了一种新型的跳过连接，以鼓励特征重用并缓解消失的梯度问题。我们还允许我们的演化算法在演化过程中增加GNN的层以生成更深的网络。我们在图节点分类任务中评估我们的方法。实验表明，通过我们的方法生成的GNN可以在Cora，Citeseer，Pubmed和PPI数据集中获得最新的结果。</p>
+
+<h3 id="在计算机模拟中控制covid-19感染的因素的基本效应分析表明-进行社交距离和使用口罩很重要">在计算机模拟中控制COVID-19感染的因素的基本效应分析表明，进行社交距离和使用口罩很重要</h3>
+
+<p>原文标题： Elementary Effects Analysis of factors controlling COVID-19 infections in computational simulation reveals the importance of Social Distancing and Mask Usage</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11381">http://arxiv.org/abs/2011.11381</a></p>
+
+<p>作者： Kelvin K.F. Li, Stephen A. Jarvis, Fayyaz Minhas</p>
+
+<p>摘要： 2020年3月11日，COVID-19被世界卫生组织（WHO）宣布为大流行病。由于这种流行病，截至4月，全球一半的国家处于封锁状态，监视和理解病毒的传播和感染率以及如何这些与行为和社会参数有关的因素对于有效的决策至关重要。本文旨在研究口罩，社会隔离，锁定和自我隔离对减少SARS-CoV-2感染传播的有效性。我们基于基于主体的仿真模型的发现表明，尽管人们普遍认为执行锁定是快速减少感染人数的最有效方法，但与社交场所隔离和使用外科口罩的实践可能比强制执行锁定更有效。我们使用莫里斯基本效应方法对模拟结果进行的多变量分析表明，如果有足够比例的人戴着手术口罩并遵循社会疏远规定，则可以控制SARS-CoV-2感染而无需强制锁定。</p>
+
+<h3 id="采用流量模拟和手机数据的现实的基于主体的covid-19模拟模型">采用流量模拟和手机数据的现实的基于主体的COVID-19模拟模型</h3>
+
+<p>原文标题： A realistic agent-based simulation model for COVID-19 based on a traffic simulation and mobile phone data</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11453">http://arxiv.org/abs/2011.11453</a></p>
+
+<p>作者： Sebastian A. Müller, Michael Balmer, William Charlton, Ricardo Ewert, Andreas Neumann, Christian Rakow, Tilmann Schlenther, Kai Nagel</p>
+
+<p>摘要： 流行病学模拟作为一种方法可用于更好地理解和预测传染病（例如COVID-19）的传播。本文提出了一种方法，该方法将以人为中心的数据驱动的人员流动模型与机械感染模型和以人为中心的疾病进展模型相结合。该模型包括疾病输入，随时间变化的活动参与率（来自移动性数据），面罩，室内与室外休闲活动以及接触者追踪的后果。结果表明，该模型能够可靠地跟踪柏林（德国）的感染动态。该模型可用于理解不同活动类型随时间推移对感染动态的影响。该模型清楚地显示了秋季减少接触减少，学校关闭/休假或将休闲活动从室外转移到室内的影响。敏感性测试表明，模型的所有成分对于跟踪当前的感染动态都是必不可少的。流动性数据的一个有趣结果是，人口的行为变化大多发生在政府发起的所谓接触禁令生效之前。同样，在政府正式减少接触禁令之前，人们开始逐渐恢复正常的活动方式。我们的工作表明，可以相对快速地从微观流动性模型构建详细的流行病学模拟。它们可用于调查动力学的机械方面，例如从政治决策通过人类行为到感染的传播，不同锁定措施的后果，在某些情况下戴口罩的后果或联系人追踪。</p>
+
+<h3 id="最快检测covid-19关键阶段-何时应采取限制措施">最快检测COVID-19关键阶段：何时应采取限制措施？</h3>
+
+<p>原文标题： Quickest Detection of Critical COVID-19 Phases: When Should Restrictive Measures Be Taken?</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2011.11540">http://arxiv.org/abs/2011.11540</a></p>
+
+<p>作者： Paolo Braca, Domenico Gaglione, Stefano Marano, Leonardo M. Millefiori, Peter Willett, Krishna Pattipati</p>
+
+<p>摘要： 在流行期间，当局面临的最具挑战性的任务之一是决定采取何种限制性措施以及何时实施这些限制性措施。为了以完全合理的方式做出明智的决定，必须尽快确定以传染病呈指数增长为特征的关键政权的发作。提供严格的定量工具以检测此类事件是科学界积极支持政治决策者的重要贡献。在本文中，利用最快的检测理论，我们提出了COVID-19大流行演变的数学模型，并开发了决策工具来快速检测从受控制度到关键制度的转变。介绍了一种新的顺序测试-称为MAST（均值顺序测试），并在来自不同国家的公开可用的COVID-19感染数据上进行了演示。然后，针对第二次大流行病浪研究了MAST的性能，结果显示了平均决策延迟  Delta 和风险 R 之间的有效折衷，其中 R 与宣布需要进行决策的时间成反比。采取不必要的限制性措施。我们发现，就最快的检测而言，所有国家/地区都具有相同的行为，尤其是风险随延迟呈指数增长，即 R  sim  exp （- omega  Delta） ，其中  omega 取决于具体的国家。对于一个相对较小的风险水平，例如，一万种可能性（即，平均每27年无动机实施对策的可能性），所提出的算法会延迟几天到三周的时间来检测关键机制的发作，比出现指数式增长要早得多。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20201124/">https://www.complexly.cn/post/20201124/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20201123/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要4篇(2020-11-23)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
