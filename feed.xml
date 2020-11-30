@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2020-11-30)</title>
+      <link>https://www.complexly.cn/post/20201130/</link>
+      <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201130/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;APAN：用于实时含时图嵌入的异步传播注意网络;&lt;/li&gt;
+&lt;li&gt;使用Hawkes模型探究左右尾极端事件的非对称激励：金融收益应用;&lt;/li&gt;
+&lt;li&gt;ODT流浏览器：提取、查询和可视化人员流动;&lt;/li&gt;
+&lt;li&gt;采用双管齐下的方法快速、准确地检测动态图中的异常;&lt;/li&gt;
+&lt;li&gt;在SemEval-2019任务5上实现对Twitter中针对移民和妇女的仇恨言论的可解释性多语言检测;&lt;/li&gt;
+&lt;li&gt;使用R语言分析社交媒体网络数据：用户、评论和交流模式的半自动筛选;&lt;/li&gt;
+&lt;li&gt;社交距离困境中的振荡动力学;&lt;/li&gt;
+&lt;li&gt;脆弱但具有弹性：公司协作网络中的适应性下降;&lt;/li&gt;
+&lt;li&gt;基于自发对称破缺概念的在线回声室效应建模;&lt;/li&gt;
+&lt;li&gt;迈向实时人口估计：在县一级引入Twitter的居民和非居民每日估计;&lt;/li&gt;
+&lt;li&gt;通过深度强化学习在时变图中进行有效的信息扩散;&lt;/li&gt;
+&lt;li&gt;揭示澳大利亚和美国现代城市演变中的结构吸引子;&lt;/li&gt;
+&lt;li&gt;医疗众筹如何帮助人们？水滴筹大型案例研究;&lt;/li&gt;
+&lt;li&gt;城市Twitter网络和社区：以雅典微博为例;&lt;/li&gt;
+&lt;li&gt;发布或推文：来自Facebook和Twitter使用情况研究的经验教训;&lt;/li&gt;
+&lt;li&gt;两个相对大众媒体的噪声舆论形成模型;&lt;/li&gt;
+&lt;li&gt;流行病的路径依赖过程：两阶段隔离是否比一阶段好？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2020-11-26)</title>
