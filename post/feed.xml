@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2020-12-02)</title>
+      <link>https://www.complexly.cn/post/20201202/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201202/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;异构图嵌入综述：方法、技术、应用和源代码;&lt;/li&gt;
+&lt;li&gt;机器学习时空流行病学模型评估德国县级COVID-19风险;&lt;/li&gt;
+&lt;li&gt;技术知识的累积程度如何？;&lt;/li&gt;
+&lt;li&gt;Twitch上的观众和流媒体的大规模参与;&lt;/li&gt;
+&lt;li&gt;振荡模型基本方程对代数表示的独立性：社交媒体回声室效应;&lt;/li&gt;
+&lt;li&gt;从社交媒体帖子中识别与大流行相关的压力因素——对学生和年轻人的影响;&lt;/li&gt;
+&lt;li&gt;高阶网络影响框架之间的等价性：通用阈值、超图触发和逻辑触发模型;&lt;/li&gt;
+&lt;li&gt;更少但更好：带有异常值的社区搜索;&lt;/li&gt;
+&lt;li&gt;使用基于迁移的流行病学模型预测已确诊的COVID-19大流行病例;&lt;/li&gt;
+&lt;li&gt;缺乏实际可识别性可能会妨碍COVID-19流行病模型的可靠预测;&lt;/li&gt;
+&lt;li&gt;性能波动在实际项目网络中的传播;&lt;/li&gt;
+&lt;li&gt;深度引力：利用深度神经网络和地理信息增强流动性的产生;&lt;/li&gt;
+&lt;li&gt;流行病学的k统计方法;&lt;/li&gt;
+&lt;li&gt;土耳其安那托利亚东南部2019年和2020年的种植方式变化;&lt;/li&gt;
+&lt;li&gt;数据驱动的COVID-19 SEIR模型的最优控制;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2020-12-01)</title>
