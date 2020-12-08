@@ -7,10 +7,44 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 07 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要22篇(2020-12-08)</title>
+      <link>https://www.complexly.cn/post/20201208/</link>
+      <pubDate>Tue, 08 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201208/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;深度学习用于人类流动：数据和模型调查;&lt;/li&gt;
+&lt;li&gt;最大化影响力：分析激活概率计算方法;&lt;/li&gt;
+&lt;li&gt;回溯降权游走理论;&lt;/li&gt;
+&lt;li&gt;带有攻击的分支过程：竞争激烈的市场;&lt;/li&gt;
+&lt;li&gt;Covid-19大流行期间Twitter上的公众风险感知和情绪;&lt;/li&gt;
+&lt;li&gt;阿根廷马德普拉塔市COVID-19传播的流行模型：交替检疫和大规模检测策略的探索;&lt;/li&gt;
+&lt;li&gt;在COVID-19大流行期间，自行车共享是否应该继续运行？来自中国南京的经验发现;&lt;/li&gt;
+&lt;li&gt;使用Twitter理解有关COVID-19的公众情绪，观点和主题;&lt;/li&gt;
+&lt;li&gt;城市热岛：通过多模态空间分析击败热浪;&lt;/li&gt;
+&lt;li&gt;杭州市城市发展和社会空间动态模型：1964-2000年;&lt;/li&gt;
+&lt;li&gt;使用社交媒体进行城市人群感知：基于Transformer和递归神经网络的实证研究;&lt;/li&gt;
+&lt;li&gt;从嘈杂的观察推论社会系统;&lt;/li&gt;
+&lt;li&gt;社会网络中的多数意见扩散：一种对抗方法;&lt;/li&gt;
+&lt;li&gt;根据观察到的骨干网构建替代性时态网络数据;&lt;/li&gt;
+&lt;li&gt;使用移动性模式制定COVID-19锁定策略;&lt;/li&gt;
+&lt;li&gt;竞争扩散模型中的社会福利最大化;&lt;/li&gt;
+&lt;li&gt;行人网络的流量分配问题;&lt;/li&gt;
+&lt;li&gt;基于图神经网络的半监督土壤水分预测;&lt;/li&gt;
+&lt;li&gt;STSIR：具有流动性数据的时空流行模型;&lt;/li&gt;
+&lt;li&gt;推断干预措施对COVID-19传输网络的影响;&lt;/li&gt;
+&lt;li&gt;印度COVID-19大流行期间消除不良空气质量的空间观测;&lt;/li&gt;
+&lt;li&gt;用格兰杰因果关系检测气候遥相关;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-12-07)</title>
