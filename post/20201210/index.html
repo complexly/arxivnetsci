@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要16篇(2020-12-10) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+选择和实现用于社会网络分析的参考模型的指南;
+多层网络中的零模型和社区检测;
+多层网络通过自适应层聚合进行谱聚类;
+使用超市零售记录预测季节性流感;
+马太福音、马可福音、路加福音、约翰福音和使徒行传中的圣经名字之间的关系;
+现代软件生态系统的细粒度网络分析;
+环中的混沌半快速公交;
+一种改进的谱聚类混合成员社区检测方法;
+基于社交探索注意力的内容分发平台推荐;
+设置直接禁止阴影记录;
+近似网络对称;
+对具有大量可再生能源的电力系统动力学和控制进行建模;
+先睹为快：PowerDynamics.jl-=一个开放源代码库，用于分析具有大量可再生能源的电网的动态稳定性;
+有效繁殖数 R_t 的倍增关系及其对意大利COVID-19数据的应用的简化估计;
+一致性：节点属性网络的路径感知同质性度量;
+提取本征密集加权网络的带符号主干;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要16篇(2020-12-10) - 网络科学研究速递">
+<meta itemprop="description" content="
+选择和实现用于社会网络分析的参考模型的指南;
+多层网络中的零模型和社区检测;
+多层网络通过自适应层聚合进行谱聚类;
+使用超市零售记录预测季节性流感;
+马太福音、马可福音、路加福音、约翰福音和使徒行传中的圣经名字之间的关系;
+现代软件生态系统的细粒度网络分析;
+环中的混沌半快速公交;
+一种改进的谱聚类混合成员社区检测方法;
+基于社交探索注意力的内容分发平台推荐;
+设置直接禁止阴影记录;
+近似网络对称;
+对具有大量可再生能源的电力系统动力学和控制进行建模;
+先睹为快：PowerDynamics.jl-=一个开放源代码库，用于分析具有大量可再生能源的电网的动态稳定性;
+有效繁殖数 R_t 的倍增关系及其对意大利COVID-19数据的应用的简化估计;
+一致性：节点属性网络的路径感知同质性度量;
+提取本征密集加权网络的带符号主干;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要16篇(2020-12-10) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20201210/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+选择和实现用于社会网络分析的参考模型的指南;
+多层网络中的零模型和社区检测;
+多层网络通过自适应层聚合进行谱聚类;
+使用超市零售记录预测季节性流感;
+马太福音、马可福音、路加福音、约翰福音和使徒行传中的圣经名字之间的关系;
+现代软件生态系统的细粒度网络分析;
+环中的混沌半快速公交;
+一种改进的谱聚类混合成员社区检测方法;
+基于社交探索注意力的内容分发平台推荐;
+设置直接禁止阴影记录;
+近似网络对称;
+对具有大量可再生能源的电力系统动力学和控制进行建模;
+先睹为快：PowerDynamics.jl-=一个开放源代码库，用于分析具有大量可再生能源的电网的动态稳定性;
+有效繁殖数 R_t 的倍增关系及其对意大利COVID-19数据的应用的简化估计;
+一致性：节点属性网络的路径感知同质性度量;
+提取本征密集加权网络的带符号主干;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20201210/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20201210/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要16篇(2020-12-10)</h1>
+
+                  <p class="post-byline">
+                    2020年12月10日 · 6499 字 ·
+                    阅读时间约13分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>选择和实现用于社会网络分析的参考模型的指南;</li>
+<li>多层网络中的零模型和社区检测;</li>
+<li>多层网络通过自适应层聚合进行谱聚类;</li>
+<li>使用超市零售记录预测季节性流感;</li>
+<li>马太福音、马可福音、路加福音、约翰福音和使徒行传中的圣经名字之间的关系;</li>
+<li>现代软件生态系统的细粒度网络分析;</li>
+<li>环中的混沌半快速公交;</li>
+<li>一种改进的谱聚类混合成员社区检测方法;</li>
+<li>基于社交探索注意力的内容分发平台推荐;</li>
+<li>设置直接禁止阴影记录;</li>
+<li>近似网络对称;</li>
+<li>对具有大量可再生能源的电力系统动力学和控制进行建模;</li>
+<li>先睹为快：PowerDynamics.jl-=一个开放源代码库，用于分析具有大量可再生能源的电网的动态稳定性;</li>
+<li>有效繁殖数 R_t 的倍增关系及其对意大利COVID-19数据的应用的简化估计;</li>
+<li>一致性：节点属性网络的路径感知同质性度量;</li>
+<li>提取本征密集加权网络的带符号主干;</li>
+</ul>
+
+<p></p>
+
+<h3 id="选择和实现用于社会网络分析的参考模型的指南">选择和实现用于社会网络分析的参考模型的指南</h3>
+
+<p>原文标题： A guide to choosing and implementing reference models for social network analysis</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.04720">http://arxiv.org/abs/2012.04720</a></p>
+
+<p>作者： Elizabeth A. Hobson, Matthew J. Silk, Nina H. Fefferman, Daniel B. Larremore, Puck Rombach, Saray Shai, Noa Pinter-Wollman</p>
+
+<p>摘要： 分析社会网络具有挑战性。关系数据的关键特征要求使用非标准的统计方法，例如开发特定于系统的null模型或参考模型，这些模型将观察数据的一个或多个组成部分随机化。在这里，我们回顾了各种随机程序，这些程序生成了用于社会网络分析的参考模型。参考模型为分析网络数据时进行假设检验提供了期望。我们概述了生成有效参考模型的关键阶段，并详细介绍了生成参考分布的四种方法：排列，重采样，从分布采样和生成模型。我们重点介绍每种方法何时合适，并指出研究人员应避免的潜在陷阱。在整个过程中，我们以模拟的社会系统中的示例来说明我们的观点。我们的目的是让社会网络研究人员对分析方法有更深入的理解，从而在为特定研究问题定制参考模型时增强他们的信心。</p>
+
+<h3 id="多层网络中的零模型和社区检测">多层网络中的零模型和社区检测</h3>
+
+<p>原文标题： Null Models and Community Detection in Multi-Layer Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1608.00623">http://arxiv.org/abs/1608.00623</a></p>
+
+<p>作者： Subhadeep Paul, Yuguo Chen</p>
+
+<p>摘要： 多层网络是一组实体（节点）上的网络，它们之间具有多种类型的关系（边），其中每种类型的关系/交互都表示为网络层。与单层网络一样，社区检测是多层网络中的重要任务。网络中大量流行的社区检测方法都是基于优化称为模块化评分的质量函数，该评分是对网络中模块或社区存在的一种度量。因此，社区检测的第一步是定义适合于所讨论网络的适当模块化评分。在这里，我们根据来自不同应用领域的网络中的经验观察结果，介绍了在网络的不同空模型下的几种多层网络模块化度量。特别是，我们将多层配置模型，多层期望度模型及其各种修改形式定义为用于多层网络的空模型，以得出不同的模块性。提议的模块分为两类。第一类基于程度校正的多层随机块模型，将多层期望程度模型作为其空模型。第二类基于Newman-Girvan模块化的多层扩展，将多层配置模型作为其空模型。然后优化这些措施以检测节点的最佳社区分配。我们比较了模拟网络中社区检测中措施的有效性，然后将其应用于四个真实网络。</p>
+
+<h3 id="多层网络通过自适应层聚合进行谱聚类">多层网络通过自适应层聚合进行谱聚类</h3>
+
+<p>原文标题： Spectral clustering via adaptive layer aggregation for multi-layer networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.04646">http://arxiv.org/abs/2012.04646</a></p>
+
+<p>作者： Sihan Huang, Haolei Weng, Yang Feng</p>
+
+<p>摘要： 网络分析中的基本问题之一是检测多层网络中的社区结构，其中的每一层代表节点之间的一种边信息。我们提出了基于有效凸层聚合的综合谱聚类方法。我们的聚合方法受到加权邻接矩阵的谱嵌入和下游 k  -means聚类的精细渐近分析的强烈推动，而这是一个充满挑战的方案，无法实现社区检测的一致性。实际上，已显示出这些方法可估计最佳凸聚合，这可以在某些特殊的多层网络模型下最大程度地减少误聚类误差。我们的分析进一步表明，使用高斯混合模型进行聚类通常优于谱聚类中常用的 k  -means。大量的数值研究表明，与几种常用方法相比，我们的自适应聚合技术以及高斯混合模型聚类使新的谱聚类具有显著的竞争力。</p>
+
+<h3 id="使用超市零售记录预测季节性流感">使用超市零售记录预测季节性流感</h3>
+
+<p>原文标题： Predicting seasonal influenza using supermarket retail records</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.04651">http://arxiv.org/abs/2012.04651</a></p>
+
+<p>作者： Ioanna Miliou, Xinyue Xiong, Salvatore Rinzivillo, Qian Zhang, Giulio Rossetti, Fosca Giannotti, Dino Pedreschi, Alessandro Vespignani</p>
+
+<p>摘要： 流行病学数据的可用性增加，新颖的数字数据流以及功能强大的机器学习方法的兴起，引起了对实时流行病预报系统的大量研究活动。在本文中，我们建议使用一种新颖的数据源，即零售市场数据来改善季节性流感的预测。具体而言，我们通过识别前哨篮子（即由特定客户群一起购买的产品），将超市零售数据视为流感的主体信号。我们建立了一个临近预报和预测框架，可以在未来4周内提供意大利流感发病率的估计值。我们利用支持向量回归（SVR）模型来预测季节性流感的发病率。我们的预测优于基线自回归模型和基于产品购买的第二基线。结果定量显示了将零售市场数据纳入预测模型的价值，可作为可用于流行病实时分析的主体。</p>
+
+<h3 id="马太福音-马可福音-路加福音-约翰福音和使徒行传中的圣经名字之间的关系">马太福音、马可福音、路加福音、约翰福音和使徒行传中的圣经名字之间的关系</h3>
+
+<p>原文标题： Biblical names&rsquo; relationships in the Gospel of Matthew, Mark, Luke, John and Acts of Apostles</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.04753">http://arxiv.org/abs/2012.04753</a></p>
+
+<p>作者： Roberto Rondinelli, Stefano Marmani, Valerio Ficcadenti</p>
+
+<p>摘要： 在本文中，我们通过使用基于文本挖掘网络的方法来推断有关圣经的字符，位置及其相互关系的信息。我们研究了5本书的WEB版本的叙述结构：马修福音，马可福音，路加福音，约翰福音和使徒行传。主要关注点是主角的名称相互关系采用一种分析方式，即使用各种基于网络的方法和描述符。处理该语料库以创建网络：我们从Wikipedia的圣经名称列表中下载人和地点的名称，然后在每节经文中查找它们的共现词，并且在此过程结束时，我们获得N并发词名称。两个名称之间链接的强度定义为它们在所有经文中一起出现的时间之和，这样，我们就获得了N个N对名字对的5个邻接矩阵（每本书一个）。在此预处理阶段之后，对于五本分析的书中的每本书，我们都会计算主要的网络集中度度量（经典度，加权度，中间度和紧密度），网络脆弱性，并运行社区检测算法以强调弥赛亚在内部的作用整个网络及其团队（社区）。我们发现，提出的方法适合于突出显示名称共现的结构。找到的框架的结构对于从结构的角度解释角色的情节很有用。</p>
+
+<h3 id="现代软件生态系统的细粒度网络分析">现代软件生态系统的细粒度网络分析</h3>
+
+<p>原文标题： Fine-Grained Network Analysis for Modern Software Ecosystems</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.04760">http://arxiv.org/abs/2012.04760</a></p>
+
+<p>作者： Paolo Boldi, Georgios Gousios</p>
+
+<p>摘要： 现代软件开发越来越依赖于第三方供应商或开源供应商提供的组件，库和框架，这些组件，库和框架可通过多种平台（或伪造）获得。这种编写软件的方式强调重用和组合，使现代应用程序所需的服务商品化。另一方面，生活在一个这样的生态系统中的单个库中的错误和漏洞可能直接或通过可传递性影响大量其他库和应用程序。当前，仅使用有关库依赖项的产品级信息来包含这种危险，但是这种知识通常表明自身太不精确，以致于无法制定有效的（并且可能是自动化的）处理策略。我们将讨论细粒度的功能级依赖关系如何极大地提高可靠性并减少漏洞对整个软件生态系统的影响。</p>
+
+<h3 id="环中的混沌半快速公交">环中的混沌半快速公交</h3>
+
+<p>原文标题： Chaotic semi-express buses in a loop</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.04865">http://arxiv.org/abs/2012.04865</a></p>
+
+<p>作者： Vee-Liem Saw, Luca Vismara, Lock Yue Chew</p>
+
+<p>摘要： 城市交通涉及许多相互作用的部分：公共汽车，汽车，通勤者，行人，火车等，使之成为一个非常复杂的研究系统。甚至在循环服务中负责将通勤者从始发地运送到目的地的公共汽车系统，也已经表现出非常复杂的动态。在这里，我们研究了这种简化的总线回路系统的动态特性，该系统由两个为三个公共汽车站服务的公共汽车组成。具体来说，我们考虑将一辆公交车配置为普通公交车的配置，该公交车从公交车站 A 和 B 接载乘客，然后将他们送至公交车站 C ，而第二辆公交车则作为快速公交，仅从巴士站 B 接载乘客，然后将他们送至巴士站 C 。这两辆公交车就像是不对称主体，耦合到公交车站 B 一样，它们通过从该公共公交车站接载乘客进行互动。有趣的是，与两个普通总线的配置或两个快速总线的配置相比，此 emph semi-express总线配置效率更高，并且平均总线等待时间更短。我们认为效率是由半快车系统中表现出的混沌动力学产生的，与两个正常公交车的常规集束行为或两个非正常公交车的独立周期性行为相反，其反聚集趋势大于聚集趋势。 -互动高速巴士。</p>
+
+<h3 id="一种改进的谱聚类混合成员社区检测方法">一种改进的谱聚类混合成员社区检测方法</h3>
+
+<p>原文标题： An improved spectral clustering method for mixed membership community detection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.04867">http://arxiv.org/abs/2012.04867</a></p>
+
+<p>作者： Huan Qing, Jingli Wang</p>
+
+<p>摘要： 近年来，对社区检测的研究非常深入，但是更现实的混合成员社区检测案例仍然是一个挑战。在这里，我们开发了一种有效的谱算法，将基于K个以上特征向量的K个特征向量用于聚类，从而在度校正后的混合成员资格（DCMM）模型下估计社区成员身份。我们证明了该算法是渐近一致的。在模拟网络和许多经验网络上的数值实验表明，与许多混合成员社区检测的基准方法相比，混合ISC的性能良好。特别是，混合ISC在弱信号网络上提供令人满意的性能。</p>
+
+<h3 id="基于社交探索注意力的内容分发平台推荐">基于社交探索注意力的内容分发平台推荐</h3>
+
+<p>原文标题： Social Explorative Attention based Recommendation for Content Distribution Platforms</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.04945">http://arxiv.org/abs/2012.04945</a></p>
+
+<p>作者： Wenyi Xiao, Huan Zhao, Haojie Pan, Yangqiu Song, Vincent W. Zheng, Qiang Yang</p>
+
+<p>摘要： 在现代社交媒体平台上，有效的内容推荐应该使创作者和消费者真正受益，从而使他们获得真正有趣的内容。为理解决现有社会推荐方法的局限性，我们提出了社会探索关注网络（SEAN），这是一种社会推荐框架，它使用个性化内容推荐模型来鼓励个人兴趣驱动的推荐。 SEAN有两个版本：（1）SEAN-END2END允许用户的注意力向量将他们的个性化兴趣点加入文档中。 （2）SEAN-KEYWORD从用户的历史阅读中提取关键字，以刻画他们的长期兴趣。它比第一个版本快得多，更适合实际使用，而SEAN-END2END则更有效。两种版本均允许个性化因素在社会网络上与用户的高阶朋友互动，以提高推荐结果的准确性和多样性。从流行的分散式内容分发平台Steemit用两种语言（英语和西班牙语）构建两个数据集，我们将SEAN模型与最新的协作过滤（CF）和基于内容的推荐方法进行了比较。实验结果证明了SEAN在建议均等性的基尼系数和建议准确性的F1分数方面均有效。</p>
+
+<h3 id="设置直接禁止阴影记录">设置直接禁止阴影记录</h3>
+
+<p>原文标题： Setting the Record Straighter on Shadow Banning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05101">http://arxiv.org/abs/2012.05101</a></p>
+
+<p>作者： Erwan Le Merrer, Benoit Morgan, Gilles Trédan</p>
+
+<p>摘要： 阴影禁止功能是在线社会网络的一项功能，它限制了某些用户的可见度，而他们并未意识到这一点。 Twitter宣布它不使用这种做法，有时会争论是否出现“错误”来证明对某些用户的限制。本文是第一个通过采用统计和图拓扑方法来解决主要在线平台上阴影禁止的合理性的问题。我们首先进行了广泛的数据收集和分析活动，收集了用户配置文件中可见性限制的发生（我们抓取了超过250万个）。在这样的黑匣子观察设置中，我们突出显示了可以解释禁止行为的显著用户配置文件功能（使用机器学习预测器）。然后，我们对这种现象提出两个假设：i）限制是bug，正如Twitter所声称的那样； ii）阴影禁止传播是用户互动自我图上的流行病。我们表明，就我们收集的数据而言，假设i）在统计上不太可能。然后，我们显示了与假设ii）的一些有趣的相关性，这表明交互拓扑是该服务上影子禁止用户组的良好指示。</p>
+
+<h3 id="近似网络对称">近似网络对称</h3>
+
+<p>原文标题： Approximate Network Symmetry</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05129">http://arxiv.org/abs/2012.05129</a></p>
+
+<p>作者： Yanchen Liu</p>
+
+<p>摘要： 我们定义了一种新的网络对称性度量，它可以刻画网络的近似全局对称性。我们将此措施应用于从几个经典网络模型以及几个实际网络中采样的不同网络。我们发现在我们检查过的网络模型中，Erd “ os-R &lsquo;enyi网络具有最小的对称性，而随机几何图可能具有较高的对称性。我们发现我们的网络对称性度量可以刻画网络结构的特性，并帮助我们深入理解实际网络的结构；此外，我们的网络对称性度量能够刻画不完美的网络对称性，如果仅考虑完美对称性，则无法检测到。</p>
+
+<h3 id="对具有大量可再生能源的电力系统动力学和控制进行建模">对具有大量可再生能源的电力系统动力学和控制进行建模</h3>
+
+<p>原文标题： Modeling the dynamics and control of power systems with high share of renewable energies</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05164">http://arxiv.org/abs/2012.05164</a></p>
+
+<p>作者： Sabine Auer, Tim Kittel</p>
+
+<p>摘要： 可再生和混合动力系统的挑战是可再生能源（RES）的动态稳定集成。本文专门研究了间歇性RES和电力电子资源的测量延迟对频率稳定性的影响。此外，它还提供了一个开放源代码框架来进行动态RES建模。首先，对于有损配电网中的局部间歇性波动，我发现动态和拓扑属性之间存在显著且微妙但强大的相互作用，而无损网则基本上不存在这种相互作用。其次，我展示了延迟如何引发共振灾难，以及关键延迟的存在如何为测量时间设置了上限。此外，我研究了针对不同电网拓扑的集中式发电与分散式发电是否会改变这种行为。第三，用于产生上述结果的代码正在作为一种名为PowerDynamics.jl的开源软件框架发布，该框架以编程语言Julia进行开发。它将涵盖由RES与微分代数（DAE），延迟微分（DDE）和随机微分代数方程（SDAE）的集成引起的丰富的新颖动力学。总之，本文研究了未来电网的稳定性，这些电网正在朝着整合可再生能源动力学的更多方面发展，并为RES整合研究提供了一个适当的建模框架。</p>
+
+<h3 id="先睹为快-powerdynamics-jl-一个开放源代码库-用于分析具有大量可再生能源的电网的动态稳定性">先睹为快：PowerDynamics.jl-=一个开放源代码库，用于分析具有大量可再生能源的电网的动态稳定性</h3>
+
+<p>原文标题： Sneak Preview: PowerDynamics.jl -= An Open-Source library for analyzing dynamic stability in power grids with high shares of renewable energy</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05175">http://arxiv.org/abs/2012.05175</a></p>
+
+<p>作者： Tim Kittel, Sabine Auer, Christina Horn</p>
+
+<p>摘要： PowerDynamics.jl是一个动态库模型的开放源代码库，它使用最新的科学编程语言Julia构建。它提供了分析具有高份额可再生能源的电网动态稳定性所需的所有工具。与传统工具相比，它充分利用了Julia与高度优化的即时编译代码相结合的简单性和通用性。此外，其生态系统还提供了DifferentialEquations.jl，这是一个高性能库，用于使用内置求解器和与Sundials等工业级求解器的接口来求解微分方程。 PowerDynamics.jl为不同的节点/总线类型提供了多种动态特性，例如旋转质量，逆变器中的下垂控制，并且能够显式建模逆变器的时间延迟。此外，它包括可再生能源波动的现实模型。在本文中，我们演示了如何将PowerDynamics.jl用于IEEE 14总线配电网格馈线。</p>
+
+<h3 id="有效繁殖数-r-t-的倍增关系及其对意大利covid-19数据的应用的简化估计">有效繁殖数 R_t 的倍增关系及其对意大利COVID-19数据的应用的简化估计</h3>
+
+<p>原文标题： A simplified estimate of the Effective Reproduction Number $R_t$ using its relation with the doubling time and application to Italian COVID-19 data</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05194">http://arxiv.org/abs/2012.05194</a></p>
+
+<p>作者： Gianluca Bonifazi, Luca Lista, Dario Menasce, Mauro Mezzetto, Daniele Pedrini, Roberto Spighi, Antonio Zoccoli</p>
+
+<p>摘要： 提出了一种计算 R_t （有效繁殖数）的简化方法。该方法将Rt的值与使用局部指数拟合执行的倍增时间的估计相关。条件 R_t = 1 对应于等于0或等效的无限倍增时间的增长率。考虑了关于生成时间的概率分布的不同假设。如果生成时间遵循伽马分布，则提供了一种简单的分析解决方案。</p>
+
+<h3 id="一致性-节点属性网络的路径感知同质性度量">一致性：节点属性网络的路径感知同质性度量</h3>
+
+<p>原文标题： Conformity: A Path-Aware Homophily Measure for Node-Attributed Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05195">http://arxiv.org/abs/2012.05195</a></p>
+
+<p>作者： Giulio Rossetti, Salvatore Citraro, Letizia Milli</p>
+
+<p>摘要： 在社会网络分析中，揭露表征复杂网络布线模式的同质/异相行为是一项重要任务，通常是研究节点属性的分类混合。最近的工作强调，对节点同质性进行量化的全局度量必然提供了现实的部分，通常是欺骗性的图景。从此类文献出发，在这项工作中，我们提出了一种新的措施，即Conformity，旨在通过提供以节点为中心的各种混合模式来克服这种限制。与迄今为止提出的措施不同，“一致性”被设计为具有路径意识，因此可以更详细地评估不同分隔程度的节点对目标同质嵌入的影响。对合成数据和真实数据进行的实验分析使我们可以观察到，一致性可以揭示节点属性图中的宝贵见解。</p>
+
+<h3 id="提取本征密集加权网络的带符号主干">提取本征密集加权网络的带符号主干</h3>
+
+<p>原文标题： Extracting the signed backbone of intrinsically dense weighted networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05216">http://arxiv.org/abs/2012.05216</a></p>
+
+<p>作者： Furkan Gursoy, Bertan Badur</p>
+
+<p>摘要： 网络为分析自然，社会和技术领域的各种复杂系统提供了有用的工具。越来越多的数据和各种数据（例如，更多的节点和链接以及相关的权重，方向和标志）可以提供附件信息。另一方面，链路和权重丰富会导致网络更密集，并带有嘈杂的，无关紧要的数据或其他冗余数据。此外，典型的网络分析和可视化技术以稀疏为前提，不适用于密集和加权网络。作为一种补救措施，网络主干提取方法旨在仅保留重要链接，同时保留原始网络的有用和说明性结构，以进行进一步分析。在这里，我们提供了从本质上密集的未签名加权网络中提取符号网络主干的第一种方法。利用基于统计技术的零模型，所提出的有效度过滤器和活力过滤器允许推断边符号。对迁移，投票，时间相互作用和物种相似性网络的经验分析表明，所提出的过滤器在保留网络的多尺度性质的同时，提取了有意义且稀疏的签名主干。生成的主干网通常具有与符号网络相关的特征，例如互惠性，结构平衡和社区结构。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20201210/">https://www.complexly.cn/post/20201210/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20201209/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要11篇(2020-12-09)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

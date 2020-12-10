@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2020-12-10)</title>
+      <link>https://www.complexly.cn/post/20201210/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201210/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;选择和实现用于社会网络分析的参考模型的指南;&lt;/li&gt;
+&lt;li&gt;多层网络中的零模型和社区检测;&lt;/li&gt;
+&lt;li&gt;多层网络通过自适应层聚合进行谱聚类;&lt;/li&gt;
+&lt;li&gt;使用超市零售记录预测季节性流感;&lt;/li&gt;
+&lt;li&gt;马太福音、马可福音、路加福音、约翰福音和使徒行传中的圣经名字之间的关系;&lt;/li&gt;
+&lt;li&gt;现代软件生态系统的细粒度网络分析;&lt;/li&gt;
+&lt;li&gt;环中的混沌半快速公交;&lt;/li&gt;
+&lt;li&gt;一种改进的谱聚类混合成员社区检测方法;&lt;/li&gt;
+&lt;li&gt;基于社交探索注意力的内容分发平台推荐;&lt;/li&gt;
+&lt;li&gt;设置直接禁止阴影记录;&lt;/li&gt;
+&lt;li&gt;近似网络对称;&lt;/li&gt;
+&lt;li&gt;对具有大量可再生能源的电力系统动力学和控制进行建模;&lt;/li&gt;
+&lt;li&gt;先睹为快：PowerDynamics.jl-=一个开放源代码库，用于分析具有大量可再生能源的电网的动态稳定性;&lt;/li&gt;
+&lt;li&gt;有效繁殖数 R_t 的倍增关系及其对意大利COVID-19数据的应用的简化估计;&lt;/li&gt;
+&lt;li&gt;一致性：节点属性网络的路径感知同质性度量;&lt;/li&gt;
+&lt;li&gt;提取本征密集加权网络的带符号主干;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2020-12-09)</title>
