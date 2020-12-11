@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要6篇(2020-12-11) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+通过互信息最大化进行二部图嵌入;
+伪新闻检测的事件相关过滤方法;
+可解释的链路预测，用于保护隐私的联系人跟踪;
+通过结构化的Gromov-Wasserstein重心学习石墨烯;
+关于COVID-19的推文中的用户问题：探索性研究;
+社交媒体警报可以改善，但不能替代洪水预报的水文模型;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要6篇(2020-12-11) - 网络科学研究速递">
+<meta itemprop="description" content="
+通过互信息最大化进行二部图嵌入;
+伪新闻检测的事件相关过滤方法;
+可解释的链路预测，用于保护隐私的联系人跟踪;
+通过结构化的Gromov-Wasserstein重心学习石墨烯;
+关于COVID-19的推文中的用户问题：探索性研究;
+社交媒体警报可以改善，但不能替代洪水预报的水文模型;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要6篇(2020-12-11) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20201211/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+通过互信息最大化进行二部图嵌入;
+伪新闻检测的事件相关过滤方法;
+可解释的链路预测，用于保护隐私的联系人跟踪;
+通过结构化的Gromov-Wasserstein重心学习石墨烯;
+关于COVID-19的推文中的用户问题：探索性研究;
+社交媒体警报可以改善，但不能替代洪水预报的水文模型;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20201211/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20201211/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要6篇(2020-12-11)</h1>
+
+                  <p class="post-byline">
+                    2020年12月11日 · 2590 字 ·
+                    阅读时间约6分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>通过互信息最大化进行二部图嵌入;</li>
+<li>伪新闻检测的事件相关过滤方法;</li>
+<li>可解释的链路预测，用于保护隐私的联系人跟踪;</li>
+<li>通过结构化的Gromov-Wasserstein重心学习石墨烯;</li>
+<li>关于COVID-19的推文中的用户问题：探索性研究;</li>
+<li>社交媒体警报可以改善，但不能替代洪水预报的水文模型;</li>
+</ul>
+
+<p></p>
+
+<h3 id="通过互信息最大化进行二部图嵌入">通过互信息最大化进行二部图嵌入</h3>
+
+<p>原文标题： Bipartite Graph Embedding via Mutual Information Maximization</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05442">http://arxiv.org/abs/2012.05442</a></p>
+
+<p>作者： Jiangxia Cao, Xixun Lin, Shu Guo, Luchen Liu, Tingwen Liu, Bin Wang</p>
+
+<p>摘要： 由于二部图已在各种应用领域中广泛使用，因此二部图嵌入最近引起了很多关注。多数先前的方法采用基于随机游动或基于重建的目标，通常可以有效地学习局部图结构。但是，二部图的全局属性，包括同质节点的社区结构和异质节点的长期依赖关系，并未得到很好的保留。在本文中，我们提出了一种称为BiGI的二部图嵌入方法，以通过引入新颖的局部全局infomax目标来刻画此类全局属性。具体来说，BiGI首先生成由两个原型表示形式组成的全局表示形式。然后，BiGI通过提议的子图级注意机制将采样的边编码为局部表示。通过最大化局部和全局表示之间的相互信息，BiGI使二部图中的节点具有全局相关性。我们的模型在各种基准数据集上进行了评估，以评估top-K推荐和链路预测的任务。大量的实验表明，BiGI在最先进的基准上取得了一致且显著的进步。详细的分析证明了对二部图的全局特性建模的高效性。</p>
+
+<h3 id="伪新闻检测的事件相关过滤方法">伪新闻检测的事件相关过滤方法</h3>
+
+<p>原文标题： An Event Correlation Filtering Method for Fake News Detection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05491">http://arxiv.org/abs/2012.05491</a></p>
+
+<p>作者： Hao Li (1), Huan Wang (1), Guanghua Liu (2) ((1) College of Informatics, Huazhong Agricultural University, (2) Department of Computer Science and Engineering, University at Buffalo, The State University of New York)</p>
+
+<p>摘要： 如今，社会网络平台已经成为人们体验新闻和事件的主要来源，因为他们具有迅速传播信息的能力，这不可避免地为传播假新闻提供了沃土。因此，检测假新闻非常重要，否则可能引起公众误导和恐慌。现有的深度学习模型在解决虚假新闻检测问题上取得了长足的进步。但是，训练有效的深度学习模型通常需要大量标记新闻，而在实际应用中提供足够的标记新闻既昂贵又耗时。为了提高对假新闻的检测性能，我们利用新闻的事件相关性，提出了一种用于假新闻检测的事件相关过滤方法（ECFM），主要由新闻特征符，伪标签注释器，事件可信度更新器，和新闻熵选择器新闻表征器负责从新闻中提取文本特征，该新闻特征与伪标签注释器协作，通过充分利用新闻的事件相关性为未标记的新闻分配伪标签。另外，事件可信度更新器采用自适应卡尔曼滤波器来减弱事件的可信度波动。为了进一步提高检测性能，新闻熵选择器通过量化新闻标签的新闻熵来自动从伪标签新闻中发现高质量样本。最后，提出了以事件相关过滤的方式将ECFM进行集成以检测假新闻。大量实验证明，新闻事件相关性的可解释性引入有利于提高假新闻的检测性能。</p>
+
+<h3 id="可解释的链路预测-用于保护隐私的联系人跟踪">可解释的链路预测，用于保护隐私的联系人跟踪</h3>
+
+<p>原文标题： Explainable Link Prediction for Privacy-Preserving Contact Tracing</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05516">http://arxiv.org/abs/2012.05516</a></p>
+
+<p>作者： Balaji Ganesan, Hima Patel, Sameep Mehta</p>
+
+<p>摘要： 使用“联系追踪”来识别与SARS-Cov2冠状病毒感染者非常接近的人。已经引入了许多数字合同跟踪应用程序，以促进或补充物理联系人跟踪。但是，在合同跟踪应用程序的实现中存在许多隐私问题，这使人们不愿意在这些应用程序上安装或更新其感染状态。在此概念文件中，我们提出了来自Graph Neural Networks和可解释性的想法，这些想法可以增进对这些应用程序的信任，并鼓励人们采用。</p>
+
+<h3 id="通过结构化的gromov-wasserstein重心学习石墨烯">通过结构化的Gromov-Wasserstein重心学习石墨烯</h3>
+
+<p>原文标题： Learning Graphons via Structured Gromov-Wasserstein Barycenters</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05644">http://arxiv.org/abs/2012.05644</a></p>
+
+<p>作者： Hongteng Xu, Dixin Luo, Lawrence Carin, Hongyuan Zha</p>
+
+<p>摘要： 我们提出了一种新颖且有原则的方法来学习称为graphon的非参数图模型，该模型在无限维空间中定义并表示任意大小的图。基于来自石墨烯理论的弱规律性引理，我们利用阶跃函数逼近一个石墨烯。我们表明，石墨烯的切割距离可以放宽到其阶跃函数的Gromov-Wasserstein距离。因此，给定一组由底层石墨烯生成的图，我们将学习相应的阶跃函数作为给定图的Gromov-Wasserstein重心。此外，我们对基本算法 e.g. 进行了一些增强和扩展，以保证学习的笔素的连续性以及平滑的Gromov-Wasserstein重心以及用于学习多个结构化石墨烯的混合Gromov-Wasserstein重心。所提出的方法克服了现有技术的缺点，并且在综合数据和真实数据上均胜过它们。该代码位于<a href="https://github.com/HongtengXu/SGWB-Graphon。">https://github.com/HongtengXu/SGWB-Graphon。</a></p>
+
+<h3 id="关于covid-19的推文中的用户问题-探索性研究">关于COVID-19的推文中的用户问题：探索性研究</h3>
+
+<p>原文标题： User Questions from Tweets on COVID-19: An Exploratory Study</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05836">http://arxiv.org/abs/2012.05836</a></p>
+
+<p>作者： Tiago de Melo</p>
+
+<p>摘要： 诸如Twitter之类的社交媒体平台为关注健康问题的用户（人员或患者）提供了合适的渠道，以彼此讨论和共享信息。 2019年12月，中国首次报告了几例冠状病毒疾病病例。不久之后，由于该病毒在世界其他地区的迅速传播，世界卫生组织（WHO）宣布进入紧急状态。在这项工作中，我们使用了Twitter的COVID-19讨论的自动提取以及基于主题建模的自然语言处理（NLP）方法，以从推文中发现与COVID-19相关的主要问题。此外，我们创建了命名实体识别（NER）模型，以识别四种不同类别的主要实体：疾病，毒品，人员和组织。我们的发现可以帮助政策制定者和医疗保健组织理解COVID-19上的人员问题，并可以用来适当地解决他们。</p>
+
+<h3 id="社交媒体警报可以改善-但不能替代洪水预报的水文模型">社交媒体警报可以改善，但不能替代洪水预报的水文模型</h3>
+
+<p>原文标题： Social Media Alerts can Improve, but not Replace Hydrological Models for Forecasting Floods</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.05852">http://arxiv.org/abs/2012.05852</a></p>
+
+<p>作者： Valerio Lorini, Carlos Castillo, Domenico Nappo, Francesco Dottori, Peter Salamon</p>
+
+<p>摘要： 社交媒体可用于减少灾害风险，作为对传统信息源的补充，文献已经提出了许多方法来实现这一目标。例如，在洪水的情况下，严酷的天气预报和/或洪水预报可能会触发从社交媒体收集数据。相比之下，在本文中，我们探索了拥有完全独立于洪水的监控系统的可能性，该系统完全基于社交媒体，并且可以完全自我激活。这种独立性和自我激活将带来增强的鲁棒性，因为该系统将不依赖于其他预测机制。我们观察到，社交媒体确实可以帮助及早发现某些洪灾事件，否则这些洪灾事件要等到后来才被发现，尽管这会带来许多误报。总体而言，我们的实验表明，社交媒体信号仅应用于补充现有的监控系统，并且我们提供了各种解释来支持这一观点。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20201211/">https://www.complexly.cn/post/20201211/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20201210/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要16篇(2020-12-10)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
