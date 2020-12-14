@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 11 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2020-12-14)</title>
+      <link>https://www.complexly.cn/post/20201214/</link>
+      <pubDate>Mon, 14 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201214/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会网络的自私创造;&lt;/li&gt;
+&lt;li&gt;通过可视化使用情况数据指导整个软件生态系统的开发工作;&lt;/li&gt;
+&lt;li&gt;I-GCN：利用影响力机制的鲁棒图卷积网络;&lt;/li&gt;
+&lt;li&gt;配对视图无监督图表示学习;&lt;/li&gt;
+&lt;li&gt;大规模物联网网络的可观察性和可控制性：通过链路添加减少不匹配节点的数量;&lt;/li&gt;
+&lt;li&gt;符号有向复杂网络中的模体动力学;&lt;/li&gt;
+&lt;li&gt;问题质量如何驱动社区问题解答站点中的Web性能;&lt;/li&gt;
+&lt;li&gt;COVID-19基本再生数的空间变异：系统综述;&lt;/li&gt;
+&lt;li&gt;体育数据中基于PageRank的排名方法的局限性;&lt;/li&gt;
+&lt;li&gt;复杂网络上的交互发现过程;&lt;/li&gt;
+&lt;li&gt;表征西班牙Covid-19第一波期间Twitter用户的行为;&lt;/li&gt;
+&lt;li&gt;对以下问题的评论和更正：存在越来越大的协议压力的舆论动态;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2020-12-11)</title>
