@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 14 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2020-12-15)</title>
+      <link>https://www.complexly.cn/post/20201215/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201215/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;城市社会网络模型;&lt;/li&gt;
+&lt;li&gt;带Motif特征的扩散模型的评估和比较;&lt;/li&gt;
+&lt;li&gt;表征城市环境中人们的日常活动模式：具有地理上下文感知Twitter数据的移动网络方法;&lt;/li&gt;
+&lt;li&gt;从物质使用失调中恢复的情况下，比较通用众包和社区众包进行数据验证;&lt;/li&gt;
+&lt;li&gt;通过二次抽样估算基于接触的传染病在人群中的传播;&lt;/li&gt;
+&lt;li&gt;主动学习的节点分类：来自未标记节点的额外学习能力;&lt;/li&gt;
+&lt;li&gt;从Jobsearch到Mask：通过溢出效应改善COVID-19级联预测;&lt;/li&gt;
+&lt;li&gt;多层网络中的经典和量子随机游走中心性度量;&lt;/li&gt;
+&lt;li&gt;引入针对COVID-19疾病的疫苗的统计力学研究;&lt;/li&gt;
+&lt;li&gt;COVID-19预警系统的基于期望的网络扫描统计信息;&lt;/li&gt;
+&lt;li&gt;大众传媒会影响中国吗？深度学习在《纽约时报》上的定量证据;&lt;/li&gt;
+&lt;li&gt;基于位置的联系人跟踪的案例;&lt;/li&gt;
+&lt;li&gt;一种用于多尺度行人动力学的通用且密度敏感的方法;&lt;/li&gt;
+&lt;li&gt;一报还一报策略是重复博弈中变形的零决定因素策略;&lt;/li&gt;
+&lt;li&gt;现代科学的增长率：一种潜在的分段增长曲线方法，用于建立和建立新的文献数据库中的出版物数量;&lt;/li&gt;
+&lt;li&gt;一站式流行控制的经济学;&lt;/li&gt;
+&lt;li&gt;存在Holling III型饱和治疗的COVID-19年龄结构建模的最优控制研究;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2020-12-14)</title>
