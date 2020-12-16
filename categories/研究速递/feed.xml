@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2020-12-16)</title>
+      <link>https://www.complexly.cn/post/20201216/</link>
+      <pubDate>Wed, 16 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201216/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于动力学和演化的加权复杂网络演化模型研究;&lt;/li&gt;
+&lt;li&gt;理解图嵌入方法及其应用;&lt;/li&gt;
+&lt;li&gt;学习平衡索引影响最大化的参数;&lt;/li&gt;
+&lt;li&gt;带有情感传染的二维人群动力学的动力学理论方法;&lt;/li&gt;
+&lt;li&gt;时变网络上的分布式资源分配的快速收敛动力学;&lt;/li&gt;
+&lt;li&gt;网络中互惠和社区发现的生成模型;&lt;/li&gt;
+&lt;li&gt;国家尺度粮食系统可持续性的数学模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2020-12-15)</title>
