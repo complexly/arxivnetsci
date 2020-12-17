@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2020-12-17)</title>
+      <link>https://www.complexly.cn/post/20201217/</link>
+      <pubDate>Thu, 17 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201217/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;大规模网络实验;&lt;/li&gt;
+&lt;li&gt;分层图胶囊网络;&lt;/li&gt;
+&lt;li&gt;递归图神经网络的动态图上可解释的聚类;&lt;/li&gt;
+&lt;li&gt;拥有垄断社会网络的数据交易：结果主要是隐私福利的破坏;&lt;/li&gt;
+&lt;li&gt;虚假信息研究议程;&lt;/li&gt;
+&lt;li&gt;复杂大流行的简单控制;&lt;/li&gt;
+&lt;li&gt;武汉市医护人员SARS-CoV-2感染的时空特征及影响因素分析;&lt;/li&gt;
+&lt;li&gt;潜在因子解缠的信息扩散预测;&lt;/li&gt;
+&lt;li&gt;探索叙事经济学：一种基于主体的建模平台，该平台将自动交易员与意见动态集成在一起;&lt;/li&gt;
+&lt;li&gt;疾病动量：在存在超传播的情况下估计再生数;&lt;/li&gt;
+&lt;li&gt;情绪的类型和强度如何影响谣言传播;&lt;/li&gt;
+&lt;li&gt;购买前先尝试：适用于现实世界数据市场的实用数据购买算法;&lt;/li&gt;
+&lt;li&gt;ReINTEL：用于社交网站上负责任信息识别的多模式数据挑战;&lt;/li&gt;
+&lt;li&gt;分析行为的社会传播：将复杂的传染整合到基于网络的传播中;&lt;/li&gt;
+&lt;li&gt;在无限制人群中评估病毒传播的风险;&lt;/li&gt;
+&lt;li&gt;对抗性排列指导节点表示以进行链路预测;&lt;/li&gt;
+&lt;li&gt;超越成对网络相似性：探索网络之间的中介与抑制;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2020-12-16)</title>
