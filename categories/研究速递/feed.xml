@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2020-12-22)</title>
+      <link>https://www.complexly.cn/post/20201222/</link>
+      <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201222/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过曲率分析识别网络模型的潜在空间几何;&lt;/li&gt;
+&lt;li&gt;Achlioptas过程中增长网络中的渗流转变：解析解;&lt;/li&gt;
+&lt;li&gt;AdnFM：用于CTR预测的基于注意力DenseNet的因子分解机;&lt;/li&gt;
+&lt;li&gt;通过动态异构图神经网络进行可疑的大规模注册检测;&lt;/li&gt;
+&lt;li&gt;法国的人称地名：圣人流行度，像是群集相变;&lt;/li&gt;
+&lt;li&gt;在意见动态中建模确认偏差和同伴压力;&lt;/li&gt;
+&lt;li&gt;分布式超图模型，用于在dblp中对协作进行全面模拟;&lt;/li&gt;
+&lt;li&gt;通过COVID-19一般增长特征理解在强有力的控制措施下的感染进展;&lt;/li&gt;
+&lt;li&gt;使用可穿戴式接近传感器来表征马拉维农村村庄的社会联系方式;&lt;/li&gt;
+&lt;li&gt;COVID-19时代的虚假新闻议程：通过事实检查内容确定趋势;&lt;/li&gt;
+&lt;li&gt;中央管理的国有企业参与中国公私合营关系：社会网络分析;&lt;/li&gt;
+&lt;li&gt;从人口规模的家谱图绘制亲子迁移的时间趋势;&lt;/li&gt;
+&lt;li&gt;社交媒体COVID-19误报干预措施受到正面评价，但影响有限;&lt;/li&gt;
+&lt;li&gt;具有同质性和社会平衡的社会中的平衡和分散相;&lt;/li&gt;
+&lt;li&gt;洛伦兹几何学和降低飞机登机变异性：慢速乘客先登机胜过随机登机;&lt;/li&gt;
+&lt;li&gt;基于Ising的Louvain方法：使用专用硬件对大型图进行聚类;&lt;/li&gt;
+&lt;li&gt;从调查数据中识别基于意见的群体：二模网络方法;&lt;/li&gt;
+&lt;li&gt;比较来自临床和社交媒体数据的自杀风险见解;&lt;/li&gt;
+&lt;li&gt;通过模体统一同质性和异质性网络转换;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2020-12-21)</title>
