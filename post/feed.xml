@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2020-12-24)</title>
+      <link>https://www.complexly.cn/post/20201224/</link>
+      <pubDate>Thu, 24 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20201224/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于通用阈值的非次模模型下的影响最大化;&lt;/li&gt;
+&lt;li&gt;通过分层图汇总在MMORPG图中查找关键结构;&lt;/li&gt;
+&lt;li&gt;GAHNE：图聚合异构网络嵌入;&lt;/li&gt;
+&lt;li&gt;巴西计算机科学研究生课程中的共同作者网络分析;&lt;/li&gt;
+&lt;li&gt;社交媒体上的注意力和错误信息分享;&lt;/li&gt;
+&lt;li&gt;NetworkDynamics.jl-在Julia中构建和模拟复杂的网络;&lt;/li&gt;
+&lt;li&gt;金融网络中的系统性风险：一项综述;&lt;/li&gt;
+&lt;li&gt;金融网络中的信用冻结、多重均衡和最佳救助;&lt;/li&gt;
+&lt;li&gt;从图像中进行原则性的网络提取;&lt;/li&gt;
+&lt;li&gt;拓扑数据分析和儿童基金会多指标类集调查;&lt;/li&gt;
+&lt;li&gt;对特殊核材料进行快速成像，以实现核不扩散和防止恐怖主义;&lt;/li&gt;
+&lt;li&gt;利用对流-扩散-反应方程模拟室内空间中COVID-19的空气传播;&lt;/li&gt;
+&lt;li&gt;COVID-19和其他病毒：通过大规模测试阻止其扩展;&lt;/li&gt;
+&lt;li&gt;深度脱碳和超级电网，中欧之间的电力传输前景;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2020-12-23)</title>
