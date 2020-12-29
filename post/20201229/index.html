@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要20篇(2020-12-29) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+科学影响力的早期指标：使用Altmetrics预测引文;
+基于Grueblers方程扩展的复杂网络影响评估;
+社会网络中的回声室和隔离：马尔可夫桥模型和估计;
+负面票使政治两极化;
+社交媒体数据揭示了公众消费者认知的信号;
+一种通过意外确定网络社区结构的算法;
+描述COVID-19大流行自由传播的SEIR模型的解析解;
+通过累积相对频率分布改进意见垃圾邮件检测;
+湖北省COVID-19的引力和自回归分析空间扩散;
+资源优化和ICU接纳政策对COVID-19死亡率影响的定量评估;
+评估大学影响力：维基百科方法;
+关键字指标，用于理解每个类别中的“转发”和“喜欢”之间的区别;
+新闻应用中与用户兴趣相关的短停留时间分析;
+具有依赖于感知的重连的自适应多路网络上的传染动力学;
+基于网络的COVID-19大流行数字接触追踪和测试策略建模;
+国内外成功-应对城市可持续发展目标行动的国际溢出;
+符号图扩散网络;
+在希腊雅典大都会地区第一次流行波期间估计SARS-CoV-2感染的有效再生数;
+深色与条纹：衣物对体重感知的影响;
+通过具有恒定时间延迟和合适的阳性率的广义SIR模型预测COVID-19智利的第二次暴发;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要20篇(2020-12-29) - 网络科学研究速递">
+<meta itemprop="description" content="
+科学影响力的早期指标：使用Altmetrics预测引文;
+基于Grueblers方程扩展的复杂网络影响评估;
+社会网络中的回声室和隔离：马尔可夫桥模型和估计;
+负面票使政治两极化;
+社交媒体数据揭示了公众消费者认知的信号;
+一种通过意外确定网络社区结构的算法;
+描述COVID-19大流行自由传播的SEIR模型的解析解;
+通过累积相对频率分布改进意见垃圾邮件检测;
+湖北省COVID-19的引力和自回归分析空间扩散;
+资源优化和ICU接纳政策对COVID-19死亡率影响的定量评估;
+评估大学影响力：维基百科方法;
+关键字指标，用于理解每个类别中的“转发”和“喜欢”之间的区别;
+新闻应用中与用户兴趣相关的短停留时间分析;
+具有依赖于感知的重连的自适应多路网络上的传染动力学;
+基于网络的COVID-19大流行数字接触追踪和测试策略建模;
+国内外成功-应对城市可持续发展目标行动的国际溢出;
+符号图扩散网络;
+在希腊雅典大都会地区第一次流行波期间估计SARS-CoV-2感染的有效再生数;
+深色与条纹：衣物对体重感知的影响;
+通过具有恒定时间延迟和合适的阳性率的广义SIR模型预测COVID-19智利的第二次暴发;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要20篇(2020-12-29) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20201229/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+科学影响力的早期指标：使用Altmetrics预测引文;
+基于Grueblers方程扩展的复杂网络影响评估;
+社会网络中的回声室和隔离：马尔可夫桥模型和估计;
+负面票使政治两极化;
+社交媒体数据揭示了公众消费者认知的信号;
+一种通过意外确定网络社区结构的算法;
+描述COVID-19大流行自由传播的SEIR模型的解析解;
+通过累积相对频率分布改进意见垃圾邮件检测;
+湖北省COVID-19的引力和自回归分析空间扩散;
+资源优化和ICU接纳政策对COVID-19死亡率影响的定量评估;
+评估大学影响力：维基百科方法;
+关键字指标，用于理解每个类别中的“转发”和“喜欢”之间的区别;
+新闻应用中与用户兴趣相关的短停留时间分析;
+具有依赖于感知的重连的自适应多路网络上的传染动力学;
+基于网络的COVID-19大流行数字接触追踪和测试策略建模;
+国内外成功-应对城市可持续发展目标行动的国际溢出;
+符号图扩散网络;
+在希腊雅典大都会地区第一次流行波期间估计SARS-CoV-2感染的有效再生数;
+深色与条纹：衣物对体重感知的影响;
+通过具有恒定时间延迟和合适的阳性率的广义SIR模型预测COVID-19智利的第二次暴发;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20201229/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20201229/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要20篇(2020-12-29)</h1>
+
+                  <p class="post-byline">
+                    2020年12月29日 · 8260 字 ·
+                    阅读时间约17分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>科学影响力的早期指标：使用Altmetrics预测引文;</li>
+<li>基于Grueblers方程扩展的复杂网络影响评估;</li>
+<li>社会网络中的回声室和隔离：马尔可夫桥模型和估计;</li>
+<li>负面票使政治两极化;</li>
+<li>社交媒体数据揭示了公众消费者认知的信号;</li>
+<li>一种通过意外确定网络社区结构的算法;</li>
+<li>描述COVID-19大流行自由传播的SEIR模型的解析解;</li>
+<li>通过累积相对频率分布改进意见垃圾邮件检测;</li>
+<li>湖北省COVID-19的引力和自回归分析空间扩散;</li>
+<li>资源优化和ICU接纳政策对COVID-19死亡率影响的定量评估;</li>
+<li>评估大学影响力：维基百科方法;</li>
+<li>关键字指标，用于理解每个类别中的“转发”和“喜欢”之间的区别;</li>
+<li>新闻应用中与用户兴趣相关的短停留时间分析;</li>
+<li>具有依赖于感知的重连的自适应多路网络上的传染动力学;</li>
+<li>基于网络的COVID-19大流行数字接触追踪和测试策略建模;</li>
+<li>国内外成功-应对城市可持续发展目标行动的国际溢出;</li>
+<li>符号图扩散网络;</li>
+<li>在希腊雅典大都会地区第一次流行波期间估计SARS-CoV-2感染的有效再生数;</li>
+<li>深色与条纹：衣物对体重感知的影响;</li>
+<li>通过具有恒定时间延迟和合适的阳性率的广义SIR模型预测COVID-19智利的第二次暴发;</li>
+</ul>
+
+<p></p>
+
+<h3 id="科学影响力的早期指标-使用altmetrics预测引文">科学影响力的早期指标：使用Altmetrics预测引文</h3>
+
+<p>原文标题： Early Indicators of Scientific Impact: Predicting Citations with Altmetrics</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13599">http://arxiv.org/abs/2012.13599</a></p>
+
+<p>作者： Akhil Pandey Akella, Hamed Alhoori, Pavan Ravikanth Kondamudi, Cole Freeman, Haiming Zhou</p>
+
+<p>摘要： 尽早识别重要的学术文献对于学术研究界和其他利益相关者（例如技术公司和政府机构）至关重要。由于发表的研究数量之多，以及跨学科领域的发展，研究人员需要一种有效的方法来识别重要的学术著作。为此目的，已经使用了给定研究出版物所产生的引用次数，但是这些引用要花一些时间，而且要积累更多时间。在本文中，我们使用高度度量法来预测学术出版物可以收到的短期和长期引用。我们建立各种分类和回归模型并评估其性能，找到神经网络和集成模型以最佳地完成这些任务。我们还发现，门德利的读者人数是预测早期引用率的最重要因素，其次是其他因素，例如读者的学业状况（例如，学生，博士后，教授），Twitter上的关注者，在线帖子时长，作者人数，以及Twitter，Wikipedia和其他国家/地区的提及次数。</p>
+
+<h3 id="基于grueblers方程扩展的复杂网络影响评估">基于Grueblers方程扩展的复杂网络影响评估</h3>
+
+<p>原文标题： Complex Network Influence Evaluation based on extension of Grueblers Equation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13617">http://arxiv.org/abs/2012.13617</a></p>
+
+<p>作者： Auwal Tijjani Amshi, Jian Shu</p>
+
+<p>摘要： 这对于评估复杂网络中节点的影响力排名非常重要。多年来，许多研究人员提出了量化网络内节点互连性的不同方法。因此，本文引入一种称为Tr-centrality的中心度度量，该度量集中于使用节点三角结构和节点邻域信息来定义节点的强度，该度量被定义为节点的一跳三角形邻域的Grueblers方程的总和。子图中所有边的数量。此外，我们在社会上将其视为节点的本地信任。为了验证Tr-centrality的有效性，我们将其应用于四个具有不同密度和形状的真实世界网络，事实证明Tr-centrality可以产生更好的结果。</p>
+
+<h3 id="社会网络中的回声室和隔离-马尔可夫桥模型和估计">社会网络中的回声室和隔离：马尔可夫桥模型和估计</h3>
+
+<p>原文标题： Echo Chambers and Segregation in Social Networks: Markov Bridge Models and Estimation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13643">http://arxiv.org/abs/2012.13643</a></p>
+
+<p>作者： Rui Luo, Buddhika Nettasinghe, Vikram Krishnamurthy</p>
+
+<p>摘要： 本文研究了社会网络中称为回声室和隔离的社会现象的建模和估计。具体来说，我们提出了一个新颖的基于社区的图模型，该模型代表了作为马尔可夫桥过程的分离回波腔的出现。马尔可夫桥是一维马尔可夫随机场，有助于在确定的时间对社区的形成和解除关联进行建模，这在具有已知定时事件的社会网络中很重要。我们用六个真实的例子来证明所提出的模型的合理性，并在最近的Twitter数据集上检查其性能。我们提供了基于最大似然的模型参数估计算法，以及一种贝叶斯滤波算法，用于使用从网络中获取的噪声样本来递归估计偏析水平。数值结果表明，所提出的滤波算法在均方误差方面优于传统的隐马尔可夫建模。所提出的过滤方法在计算社会科学中很有用，在该领域中，需要以数据为依据的方法来估计来自嘈杂数据的隔离程度。</p>
+
+<h3 id="负面票使政治两极化">负面票使政治两极化</h3>
+
+<p>原文标题： Negative votes to depolarize politics</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13657">http://arxiv.org/abs/2012.13657</a></p>
+
+<p>作者： Karthik H. Shankar</p>
+
+<p>摘要： 围绕2020年美国总统大选的争议无疑使当前投票系统在代表人民意愿方面的效率受到严重关注。天真的多元投票是否适合在极端两极分化的政治环境中进行？替代投票方案正逐渐获得公众支持，其中选民对他们的选择进行排名，而不仅仅是为他们的第一选择投票。但是，它们并未反映出选民偏好的某些关键方面，例如对候选人的反对和否定。我认为这些未表述的消极情绪是政治两极分化的主要根源。我提出了一个明确表达这些负面偏好的投票方案，以便我们可以同时解读每个候选人的知名度和极性。在最受欢迎和最不偏不倚的候选人之间进行最佳权衡，选出获胜者。通过对候选人的两极分化进行惩罚，我们可以阻止分歧性的竞选言论，并为潜在的第三方候选人铺平道路。</p>
+
+<h3 id="社交媒体数据揭示了公众消费者认知的信号">社交媒体数据揭示了公众消费者认知的信号</h3>
+
+<p>原文标题： Social media data reveals signal for public consumer perceptions</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13675">http://arxiv.org/abs/2012.13675</a></p>
+
+<p>作者： Neeti Pokhriyal, Abenezer Dara, Benjamin Valentino, Soroush Vosoughi</p>
+
+<p>摘要： 研究人员已使用社交媒体数据来估算有关公共行为的各种宏观经济指标，这主要是为了降低调查成本。被广泛引用的经济指标之一是消费者信心指数（CCI）。过去，许多研究都集中在使用社交媒体（尤其是Twitter数据）来预测CCI。然而，根据最近的一项综合调查，当使用较新的数据对这些模型进行测试时，强相关性消失了。在这项工作中，我们通过提出基于高斯过程回归的健壮的非参数贝叶斯建模框架（该评估提供了估计和与之相关的不确定性），重新审视了评估使用社交媒体数据衡量CCI的真正潜力的问题。 。与我们的框架集成在一起的是一种原理性实验方法，该方法论证了如何利用数字数据来减少调查的频率，因此仅需要定期轮询来校准我们的模型。通过广泛的实验，我们展示了如何选择不同的微决策，例如平滑间隔，各种类型的滞后等，对结果产生重要影响。通过使用Reddit的年代际数据（2008-2019），我们显示CCI的每月和每日估算确实可以提前至少几个月可靠地估算，并且我们的模型估算远远优于现有估算得出的估算方法。</p>
+
+<h3 id="一种通过意外确定网络社区结构的算法">一种通过意外确定网络社区结构的算法</h3>
+
+<p>原文标题： An algorithm for network community structure determination by surprise</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13780">http://arxiv.org/abs/2012.13780</a></p>
+
+<p>作者： Daniel Gamermann, José Antônio Pellizaro</p>
+
+<p>摘要： 代表现实世界系统的图可以从其底层社区结构中进行研究。网络中的社区是一个直观的想法，对其客观的数学定义尚无共识。尽管在文献中已经注意到该参数的许多缺点，但用于检测社区的最常用指标是模块化。在这项工作中，我们提出了一种基于不同指标的新方法：惊喜。此外，还对各种社区检测算法和基准网络的偏见进行了深入研究，确定和评论。</p>
+
+<h3 id="描述covid-19大流行自由传播的seir模型的解析解">描述COVID-19大流行自由传播的SEIR模型的解析解</h3>
+
+<p>原文标题： Analytical solution of SEIR model describing the free spread of the COVID-19 pandemic</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13792">http://arxiv.org/abs/2012.13792</a></p>
+
+<p>作者： Nicola Piovella</p>
+
+<p>摘要： 我们分析研究SEIR（易感性传染病去除）流行模型。目的是为受COVID-19大流行影响的人群的峰值和渐进值及其特征时间提供简单的分析表达式。</p>
+
+<h3 id="通过累积相对频率分布改进意见垃圾邮件检测">通过累积相对频率分布改进意见垃圾邮件检测</h3>
+
+<p>原文标题： Improving Opinion Spam Detection by Cumulative Relative Frequency Distribution</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13905">http://arxiv.org/abs/2012.13905</a></p>
+
+<p>作者： Michela Fazzolari, Francesco Buccafurri, Gianluca Lax, Marinella Petrocchi</p>
+
+<p>摘要： 在过去的几年中，在线评论变得非常重要，因为它们会影响消费者的购买决定和企业声誉，因此，撰写虚假评论的做法会对客户和服务提供商造成严重后果。已经提出了各种方法来检测在线评论中的垃圾邮件，尤其是基于监督分类器。在此贡献中，我们从用于分类垃圾邮件的一组有效功能开始，并通过考虑每个功能的累积相对频率分布对它们进行了重新设计。通过对来自Yelp.com的真实数据进行的实验评估，我们表明，使用分布特征可以提高分类器的性能。</p>
+
+<h3 id="湖北省covid-19的引力和自回归分析空间扩散">湖北省COVID-19的引力和自回归分析空间扩散</h3>
+
+<p>原文标题： Gravitational and Autoregressive Analysis Spatial Diffusion of COVID-19 in Hubei Province, China</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13948">http://arxiv.org/abs/2012.13948</a></p>
+
+<p>作者： Yanguang Chen, Yajing Li, Yuqing Long, Shuo Feng</p>
+
+<p>摘要： 流行病的空间扩散遵循地理上的距离衰减定律，但是在不同的时空条件下，可以通过不同的数学函数对不同的扩散过程进行建模。本文致力于模拟从武汉市到湖北省的COVID-19的空间扩散模式。这些方法包括重力和空间自回归分析。局部引力模型是从异度尺度比例和全局引力模型得到的，然后通过观测数据和线性回归估计局部引力模型的参数。主要结果如下。基于幂律衰减的局部引力模型可以有效地描述湖北省COVID-19的扩散模式和过程，基于负指数衰减的引力模型对观测数据的拟合度不令人满意。此外，模型对数据的拟合优度随着时间的流逝越来越好，尺寸弹性系数先增大然后减小，距离衰减指数先减小然后增大。而且，该模型中空间自回归系数的意义很低，置信度小于80％。得出的结论如下。 （1）湖北省COVID-19的空间扩散具有长期影响，城市规模和城市到武汉的距离影响确诊病例总数。 （2）武汉市直接传播是湖北省COVID-19早期空间扩散的主要过程，区域间水平传播不显著。 （3）中国政府采取的空间隔离措施对COVID-19的传播是明显的。这项研究表明，应考虑重力的作用，以预防和控制流行病。</p>
+
+<h3 id="资源优化和icu接纳政策对covid-19死亡率影响的定量评估">资源优化和ICU接纳政策对COVID-19死亡率影响的定量评估</h3>
+
+<p>原文标题： Quantitative assessment of the effects of resource optimization and ICU admission policy on COVID-19 mortalities</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13953">http://arxiv.org/abs/2012.13953</a></p>
+
+<p>作者： Ying-Qi Zeng, Lang Zeng, Ming Tang, Ying Liu, Zong-Hua Liu, Ying-Cheng Lai</p>
+
+<p>摘要： 显然，提高重症监护病房（ICU）的能力并优先收治和治疗年轻患者将减少COVID-19死亡人数，但对这些措施的定量评估仍然不足。我们开发了一个全面的非马尔可夫状态转移模型，该模型通过准确预测两个震中的每日死亡人数进行了验证：中国武汉和意大利伦巴第。该模型可以预测各种情况下的COVID-19死亡。例如，如果优先考虑年轻患者，那么武汉和伦巴第的死亡人数将分别减少10.4％和6.7％。该策略取决于流行病的规模，在人口结构年轻的国家中更有效。来自中国，韩国，意大利和西班牙的数据分析表明，人均加护病房医疗资源较少的国家应在大流行的早期阶段实施这一战略，以减少死亡率。</p>
+
+<h3 id="评估大学影响力-维基百科方法">评估大学影响力：维基百科方法</h3>
+
+<p>原文标题： Measuring University Impact: Wikipedia approach</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13980">http://arxiv.org/abs/2012.13980</a></p>
+
+<p>作者： Tatiana Kozitsina (Babkina), Viacheslav Goiko, Roman Palkin, Valentin Khomutenko, Yulia Mundrievskaya, Maria Sukhareva, Isak Froumin, Mikhail Myagkov</p>
+
+<p>摘要： 大学对社会，经济和政治格局的影响是当代教育评估的关键方向之一。在本文中，我们讨论了一种新的方法论技术，该技术根据其在Wikipedia上的校友页面的受欢迎程度（页面浏览量）来评估大学的影响。它可以揭示校友的流行动态并跟踪其状态。初步分析表明，当代人的页面浏览量更高，证明了这种方法的观点。然后，根据方法对大学进行排名，并将其与仅基于校友规模的国际著名大学排名ARWU和QS进行比较：对于排名前10的大学，存在两所大学的交集（哥伦比亚大学，斯坦福大学）。本文提供了不同大学排名之间的相关系数。最后，将基于校友受欢迎程度的排名与基于其在Wikipedia上的网页受欢迎程度的大学排名进行了比较：这些指标之间有很强的联系。</p>
+
+<h3 id="关键字指标-用于理解每个类别中的-转发-和-喜欢-之间的区别">关键字指标，用于理解每个类别中的“转发”和“喜欢”之间的区别</h3>
+
+<p>原文标题： The metrics of keywords to understand the difference between Retweet and Like in each category</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13990">http://arxiv.org/abs/2012.13990</a></p>
+
+<p>作者： Kenshin Sekimoto, Yoshifumi Seki, Mitsuo Yoshida, Kyoji Umemura</p>
+
+<p>摘要： 这项研究的目的是弄清什么样的新闻容易被转发以及什么样的新闻容易被喜欢。我们相信这些操作（转发和喜欢）对用户而言具有不同的含义。理解这种差异对于理解人们对Twitter的兴趣很重要。为了详细分析推特（RT）和Twitter上的“喜欢”之间的区别，我们重点研究新闻标题中的单词外观。首先，我们计算基本统计数据并确认包含新闻URL的推文与其他推文相比具有不同的RT和Like趋势。接下来，我们比较了每个类别的RT和Likes，并确认类别的趋势有所不同。因此，为了提出针对该主题的分析，我们提出了度量标准，以澄清在 chi 平方检验中使用的每个类别的每个操作的差异。拟议的度量标准比简单计数和TF-IDF更为有用，它可以提取有意义的单词来理解RT和Likes之间的差异。我们使用建议的指标分析了每个类别，并定量确认了根据类别，内容中出现了转发和喜欢角色的差异。此外，通过按时间顺序汇总推文，结果以单词列表的形式显示了RT和Like的趋势，并阐明了每周的特色单词与时事转推和喜欢时如何相关。</p>
+
+<h3 id="新闻应用中与用户兴趣相关的短停留时间分析">新闻应用中与用户兴趣相关的短停留时间分析</h3>
+
+<p>原文标题： Analysis of Short Dwell Time in Relation to User Interest in a News Application</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.13992">http://arxiv.org/abs/2012.13992</a></p>
+
+<p>作者： Ryosuke Homma, Yoshifumi Seki, Mitsuo Yoshida, Kyoji Umemura</p>
+
+<p>摘要： 停留时间已广泛用于各个领域，以评估内容质量和用户参与度。尽管许多研究表明，停留时间长的内容质量好，但停留时间短的内容尚未详细讨论。我们假设停留时间短的内容并不总是质量低劣，也不总是具有较低的用户参与度，而是与用户兴趣有关。这项研究的目的是阐明移动新闻应用程序中短停留时间浏览的含义。首先，我们使用来自移动新闻应用程序的大规模用户行为日志来分析短停留时间与用户兴趣之间的关系。此分析是根据用户点击历史记录在向量空间上进行的，然后将用户和文章映射到同一空间。停留时间短的用户集中在此空间中的特定位置；因此，停留时间的长短与他们的兴趣有关。此外，我们还将停留时间短的浏览特征从点击历史中排除，从而分析了这些停留时间。出乎意料的是，除了短停留时间点击历史记录外，发现短停留时间点击历史记录在30.87％的用户集群发生变化的实例中包括了用户兴趣的某些方面。这些发现表明，较短的停留时间并不总是表明用户参与度较低，而是用户兴趣度较高。</p>
+
+<h3 id="具有依赖于感知的重连的自适应多路网络上的传染动力学">具有依赖于感知的重连的自适应多路网络上的传染动力学</h3>
+
+<p>原文标题： Contagion dynamics on adaptive multiplex networks with awareness-dependent rewiring</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.14073">http://arxiv.org/abs/2012.14073</a></p>
+
+<p>作者： Xiao-Long Peng, Yi-Dan Zhang</p>
+
+<p>摘要： 在本文中，我们开发了一种高度集成的有效度方法，用于对复用网络上的流行和意识传播过程进行建模，并结合依赖于意识的自适应重连。这种方法跟踪一个人在每个状态下最近邻居的数量。因此，它允许将本地联系人的更改集成到多路网络模型中。我们推导了传染病爆发阈值条件的公式；另外，我们为阈值参数提供了下限，以指示自适应重连的效果。阈值分析通过广泛的模拟得到证实。我们的结果表明，依赖于感知的链接重连在提高传播阈值以及降低流行率方面起着重要作用。而且，揭示了增强的意识传播以及增强的链路重连对疾病的预防和控制做出了更大的贡献。另外，在流行阈值对意识扩散率的依赖性中观察到严重现象，支持先前文献中报道的亚临界点。这项工作可能有助于理解流行病动态与适应网络上的社会传染之间的相互作用。</p>
+
+<h3 id="基于网络的covid-19大流行数字接触追踪和测试策略建模">基于网络的COVID-19大流行数字接触追踪和测试策略建模</h3>
+
+<p>原文标题： Modeling of Network Based Digital Contact Tracing and Testing Strategies for the COVID-19 Pandemic</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.14077">http://arxiv.org/abs/2012.14077</a></p>
+
+<p>作者： Daniel Xu</p>
+
+<p>摘要： 由于COVID-19死亡人数超过170万，因此，确定预防COVID-19的有效措施是当务之急。我们开发了一个数学模型，通过数字接触跟踪和测试策略来模拟COVID-19大流行。该模型使用由180位学生的高分辨率联系人数据集生成的真实世界社会网络。该模型包含传染性变化，测试敏感性，潜伏期和无症状病例。我们提出了一种扩展加权时态社会网络的方法，并在5000名学生的网络上提出了模拟。这项工作的目的是研究使用数字联系人跟踪的最佳隔离规则和测试策略。结果表明，在没有充分测试的情况下，隔离直接接触者的传统策略将感染减少了不到20％。每2周进行一次定期测试，无需进行接触追踪，可将感染率降低3％以下。讨论了各种策略，包括测试二级和三级联系人以及暴露前通知系统，该系统充当社交雷达警告用户，警告他们与COVID-19的距离。在这项工作中讨论的最有效的策略是将暴露前通知系统与测试二级和三级接触者相结合。当30％的人口使用该应用程序时，此策略可将感染减少18.3％； 50％的人口使用该应用程序时，可以将感染减少45.2％； 70％的人口使用该应用程序时，可以将感染减少72.1％； 95％的人口使用该应用程序时，可以将感染减少86.8％使用该应用程序。在由5000名学生组成的扩展网络上模拟该模型时，结果与联系人跟踪应用程序相似，可将感染减少多达79％。</p>
+
+<h3 id="国内外成功-应对城市可持续发展目标行动的国际溢出">国内外成功-应对城市可持续发展目标行动的国际溢出</h3>
+
+<p>原文标题： Succeeding at home and abroad &ndash; Accounting for the international spillovers of cities&rsquo; SDG actions</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.14153">http://arxiv.org/abs/2012.14153</a></p>
+
+<p>作者： Rebecka Ericsdotter Engstrom, David Collste, Sarah E. Cornell, Francis X Johnson, Henrik Carlsen, Fernando Jaramillo, Goran Finnveden, Georgia Destouni, Mark Howells, Nina Weitz, Viveka Palm, Francesco Fuso-Nerini</p>
+
+<p>摘要： 要实现2030年议程，必须采取地方性的SDG行动，但是在一个地方实现SDG的不同战略可能会导致同一和其他SDG在地方和国家边界之外产生不同的“溢出效应”。我们呼吁进行研究，以增强地方当局在当地采取行动时的“全球责任”。</p>
+
+<h3 id="符号图扩散网络">符号图扩散网络</h3>
+
+<p>原文标题： Signed Graph Diffusion Network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.14191">http://arxiv.org/abs/2012.14191</a></p>
+
+<p>作者： Jinhong Jung, Jaemin Yoo, U Kang</p>
+
+<p>摘要： 给定一个签名的社交图，我们如何学习适当的节点表示以推断出缺失边的迹象？签名的社交图谱已对模型信任关系引起了极大的关注。学习节点表示对于有效分析图数据至关重要，并且已经提出了各种技术（例如网络嵌入和图卷积网络（GCN））来学习带符号图。但是，传统的网络嵌入方法并不是针对特定任务（例如链路符号预测）的端到端，并且基于GCN的方法在深度增加时会遇到性能下降的问题。在本文中，我们提出了签名图扩散网络（SGDNet），这是一种新颖的图神经网络，可实现端到端节点表示学习，以在签名社交图中预测链接符号。我们提出了一种专门为有符号图设计的随机游走技术，以便SGDNet有效地扩散隐藏节点的特征。通过广泛的实验，我们证明了SGDNet在链路符号预测准确性方面优于最新模型。</p>
+
+<h3 id="在希腊雅典大都会地区第一次流行波期间估计sars-cov-2感染的有效再生数">在希腊雅典大都会地区第一次流行波期间估计SARS-CoV-2感染的有效再生数</h3>
+
+<p>原文标题： Estimation of the effective reproduction number for SARS-CoV-2 infection during the first epidemic wave in the metropolitan area of Athens, Greece</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.14192">http://arxiv.org/abs/2012.14192</a></p>
+
+<p>作者： Konstantinos Kaloudis, George A. Kevrekidis, Helena C. Maltezou, Cleo Anastassopoulou, Athanasios Tsakris, Lucia Russo</p>
+
+<p>摘要： 在此，我们提供了对第一波大流行（2020年2月26日至5月15日）希腊雅典大都市地区有效繁殖数量 R_e 的估计。对于我们的计算，我们以比较方法实施了Wallinga和Teunis以及Cori等人使用的两种最广泛的 R_e 估计方法。从希腊的SARS-CoV-2感染国家数据库中检索数据。我们的分析表明，在3月10日全国各级教育机构暂停运营以及所有零售活动（咖啡馆，酒吧，博物馆，购物中心）关闭后不久，Re的期望值在3月15日左右下降到1以下，体育设施和餐厅）于3月13日开始。在5月4日，即开始逐步放宽严格锁定的日期之后， R_e 的期望值略低于1，但是由于受限，不确定性相对较高在此期间已通知的案例数。最后，我们讨论了用于估算 R_e 的方法的局限性和陷阱，着重指出，此类分析的结果仅应视为决策者的指示。</p>
+
+<h3 id="深色与条纹-衣物对体重感知的影响">深色与条纹：衣物对体重感知的影响</h3>
+
+<p>原文标题： Darks and Stripes: Effects of Clothing on Weight Perception</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.14274">http://arxiv.org/abs/2012.14274</a></p>
+
+<p>作者： Kirill Martynov, Kiran Garimella, Robert West</p>
+
+<p>摘要： 在许多社会中，苗条的身材被认为具有吸引力。时装界一直在尝试通过设计可增强苗条外观的服装来迎合这一趋势。在时尚界很普遍的两个轶事规则是：（1）选择深色衣服；（2）避免出现水平条纹，以便显得苗条。迄今为止，经验证据还不能确定性地确定这些规则的有效性，因此，关于颜色和模体对体重视觉感知的影响存在很多争议。在本文中，我们旨在通过提出一系列调查上述两个主张的大规模众包研究的结果来缩小这一差距。我们收集了一个数据集，其中包含来自网络的约1000张人物图像，他们的地面重量和身高以及有关颜色和模体的服装属性。为了引起颜色和模体的影响，我们要求人群工作者估计每幅图像的重量。为了进行分析，我们通过成对匹配图像来控制潜在的混淆，其中两个图像在颜色或模体方面有所不同，但在其他相关方面却相似。我们以两种方式创建图像对：第一，从观察角度，即从两个真实图像开始；其次，通过照片编辑，通过实验来处理真实图像中衣服的颜色或模体。根据我们的分析，我们得出的结论是：（1）深色衣服的确确实减轻了重量，但在统计学上显著降低；（2）与纯色浅色衣服相比，水平条纹没有明显的影响。这些结果有助于推动围绕特定服装颜色和模体效果的争论，从而为日常的时尚决策提供经验依据。此外，我们的工作展望了在现代时尚行业中使用众包的巨大机会。</p>
+
+<h3 id="通过具有恒定时间延迟和合适的阳性率的广义sir模型预测covid-19智利的第二次暴发">通过具有恒定时间延迟和合适的阳性率的广义SIR模型预测COVID-19智利的第二次暴发</h3>
+
+<p>原文标题： Forecasting COVID-19 Chile&rsquo;s second outbreak by a generalized SIR model with constant time delays and a fitted positivity rate</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2012.14319">http://arxiv.org/abs/2012.14319</a></p>
+
+<p>作者： Patricio Cumsille, Oscar Rojas-Díaz, Pablo Moisset de Espanés</p>
+
+<p>摘要： COVID-19病已迫使各国在科学家和政府之间做出相当大的合作，以提供指标以适当跟踪大流行的后果。数学建模在量化描述流行病各个方面的指标方面起着至关重要的作用。因此，这项工作旨在开发一种清晰，有效且可重现的参数优化方法，该方法的实现使用来自智利三个代表性地区的数据和合适的广义SIR模型以及拟合的阳性率进行说明。我们的结果再现了感染曲线的总体趋势，区分了报告病例和实际病例。最后，我们的方法是可靠的，它使我们能够根据报告的死亡病例定性地预测第二次COVID-19爆发和COVID-19的感染死亡率。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20201229/">https://www.complexly.cn/post/20201229/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20201225/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要10篇(2020-12-25)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
