@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要12篇(2021-01-06) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+社区检测方法概述：从统计模型到深度学习;
+Het-node2vec：用于异构多​​图嵌入的二阶随机游走采样;
+时间元路径引导的可解释推荐;
+什么驱动了激情？人格特质互动和工作环境对工作热情影响的实证研究;
+多重网络上多源的相互确认的非对称交互动力学;
+通过存档检测被劫持的日志网络;
+使用症状病例追踪COVID-19大流行病发展的可能优点的研究;
+识别非对称交互多重网络中的影响力传播者;
+揭示COVID-19的传播动力学： R_t 估计的贝叶斯框架;
+数学表明可以采用一种HIV风格的策略来管理冠状病毒;
+封锁需要地理协调，因为经济影响会通过供应链传播;
+社交媒体在COVID-19期间说了什么：范围回顾;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要12篇(2021-01-06) - 网络科学研究速递">
+<meta itemprop="description" content="
+社区检测方法概述：从统计模型到深度学习;
+Het-node2vec：用于异构多​​图嵌入的二阶随机游走采样;
+时间元路径引导的可解释推荐;
+什么驱动了激情？人格特质互动和工作环境对工作热情影响的实证研究;
+多重网络上多源的相互确认的非对称交互动力学;
+通过存档检测被劫持的日志网络;
+使用症状病例追踪COVID-19大流行病发展的可能优点的研究;
+识别非对称交互多重网络中的影响力传播者;
+揭示COVID-19的传播动力学： R_t 估计的贝叶斯框架;
+数学表明可以采用一种HIV风格的策略来管理冠状病毒;
+封锁需要地理协调，因为经济影响会通过供应链传播;
+社交媒体在COVID-19期间说了什么：范围回顾;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要12篇(2021-01-06) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20210106/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+社区检测方法概述：从统计模型到深度学习;
+Het-node2vec：用于异构多​​图嵌入的二阶随机游走采样;
+时间元路径引导的可解释推荐;
+什么驱动了激情？人格特质互动和工作环境对工作热情影响的实证研究;
+多重网络上多源的相互确认的非对称交互动力学;
+通过存档检测被劫持的日志网络;
+使用症状病例追踪COVID-19大流行病发展的可能优点的研究;
+识别非对称交互多重网络中的影响力传播者;
+揭示COVID-19的传播动力学： R_t 估计的贝叶斯框架;
+数学表明可以采用一种HIV风格的策略来管理冠状病毒;
+封锁需要地理协调，因为经济影响会通过供应链传播;
+社交媒体在COVID-19期间说了什么：范围回顾;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20210106/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20210106/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要12篇(2021-01-06)</h1>
+
+                  <p class="post-byline">
+                    2021年01月06日 · 4561 字 ·
+                    阅读时间约10分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>社区检测方法概述：从统计模型到深度学习;</li>
+<li>Het-node2vec：用于异构多​​图嵌入的二阶随机游走采样;</li>
+<li>时间元路径引导的可解释推荐;</li>
+<li>什么驱动了激情？人格特质互动和工作环境对工作热情影响的实证研究;</li>
+<li>多重网络上多源的相互确认的非对称交互动力学;</li>
+<li>通过存档检测被劫持的日志网络;</li>
+<li>使用症状病例追踪COVID-19大流行病发展的可能优点的研究;</li>
+<li>识别非对称交互多重网络中的影响力传播者;</li>
+<li>揭示COVID-19的传播动力学： R_t 估计的贝叶斯框架;</li>
+<li>数学表明可以采用一种HIV风格的策略来管理冠状病毒;</li>
+<li>封锁需要地理协调，因为经济影响会通过供应链传播;</li>
+<li>社交媒体在COVID-19期间说了什么：范围回顾;</li>
+</ul>
+
+<p></p>
+
+<h3 id="社区检测方法概述-从统计模型到深度学习">社区检测方法概述：从统计模型到深度学习</h3>
+
+<p>原文标题： A Survey of Community Detection Approaches: From Statistical Modeling to Deep Learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.01669">http://arxiv.org/abs/2101.01669</a></p>
+
+<p>作者： Di Jin, Zhizhi Yu, Pengfei Jiao, Shirui Pan, Philip S. Yu, Weixiong Zhang</p>
+
+<p>摘要： 社区检测是网络分析的基本任务，旨在将网络划分为多个子结构，以帮助揭示其潜在功能。社区检测已在许多现实世界的网络问题中得到了广泛的研究，并被广泛应用。社区检测的经典方法通常利用概率图模型，并采用各种先验知识来推断社区结构。随着网络方法试图解决的问题以及要分析的网络数据变得越来越复杂，还提出了新的方法，特别是利用深度学习并将网络数据转换为低维表示的方法。尽管最近取得了所有进步，但对于社区检测的理论和方法基础仍然缺乏深入的理解，这对于网络分析领域的未来发展至关重要。在本文中，我们开发并提出了一个统一的网络社区发现方法体系结构，以表征社区检测领域的最新技术。具体来说，我们对现有的社区检测方法进行了全面回顾，并介绍了一种新的分类法，该分类法将现有方法分为两类，即概率图模型和深度学习。然后，我们详细讨论两种类别中每种方法背后的主要思想。此外，为了促进社区检测的未来发展，我们从多个问题域中发布了一些基准数据集，并重点介绍了它们在各种网络分析任务中的应用。最后，我们讨论了该领域的挑战，并提出了未来研究的可能方向的建议。</p>
+
+<h3 id="het-node2vec-用于异构多-图嵌入的二阶随机游走采样">Het-node2vec：用于异构多​​图嵌入的二阶随机游走采样</h3>
+
+<p>原文标题： Het-node2vec: second order random walk sampling for heterogeneous multigraphs embedding</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.01425">http://arxiv.org/abs/2101.01425</a></p>
+
+<p>作者： Giorgio Valentini, Elena Casiraghi, Luca Cappelletti, Vida Ravanmehr, Tommaso Fontana, Justin Reese, Peter Robinson</p>
+
+<p>摘要： 我们介绍了一组算法（Het-node2vec），它们将原始的node2vec节点邻域采样方法扩展到了异构多图，即以多种类型的节点和边为特征的网络。所得的随机游走样本同时刻画了图的结构特征和不同类型的节点和边的语义。所提出的算法可以将注意力集中在特定的节点或边类型上，从而允许对表示不足的节点/边类型进行精确表示，这对于正在研究的预测问题很重要。这些丰富且重点突出的表示形式可以促进异构图上无监督和有监督的学习。</p>
+
+<h3 id="时间元路径引导的可解释推荐">时间元路径引导的可解释推荐</h3>
+
+<p>原文标题： Temporal Meta-path Guided Explainable Recommendation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.01433">http://arxiv.org/abs/2101.01433</a></p>
+
+<p>作者： Hongxu Chen, Yicong Li, Xiangguo Sun, Guandong Xu, Hongzhi Yin</p>
+
+<p>摘要： 本文利用精心设计的连续项目之间的项目-项目路径建模和注意机制，对动态知识图上的动态用户-项目演进进行顺序建模，以提出可解释的建议。与使用重型递归神经网络对时间信息进行建模的现有工作相比，我们提出了一种简单而有效的神经网络来刻画用户的历史物品特征和基于路径的上下文来表征下一个购买的物品。在三个实际基准数据集上对TMER的广泛评估显示，与最近的强基准相比，它具有最先进的性能。</p>
+
+<h3 id="什么驱动了激情-人格特质互动和工作环境对工作热情影响的实证研究">什么驱动了激情？人格特质互动和工作环境对工作热情影响的实证研究</h3>
+
+<p>原文标题： What drives passion? An empirical examination on the impact of personality trait interactions and job environments on work passion</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.01270">http://arxiv.org/abs/2101.01270</a></p>
+
+<p>作者： Annika Kreil, Andranik Tumasjan, Taha Yasseri, Isabell Welpe</p>
+
+<p>摘要： 充满激情的员工对于组织的成功至关重要，因为他们可以提高绩效，降低人员流动或缺勤。尽管大量研究调查了激情的后果，但我们对其激情的前因理解​​甚少。将特质互动理论与特质激活理论相结合，本文研究了人格特质，即自信心，乐于助人和神经质，如何影响不同岗位的工作热情。激情已被概念化为二维结构，包括和谐的工作激情（HWP）和强迫性工作激情（OWP）。我们的研究基于myPersonality项目的N = 824名参与者的样本。在积极进取的环境中，我们发现神经质与OWP之间存在正相关关系。此外，在预测OWP时，我们发现尽责性，可取性和进取环境之间存在三方面的相互作用。我们的发现表明，人格配置对不同形式的激情的影响取决于工作环境。而且，根据自我调节理论，研究结果表明，尽职调查与工作热情之间的关系是“冷静的影响者”，而神经质则是“热门的影响者”。我们对组织如何在组织中培养工作热情，特别是HWP产生了实际的启示。</p>
+
+<h3 id="多重网络上多源的相互确认的非对称交互动力学">多重网络上多源的相互确认的非对称交互动力学</h3>
+
+<p>原文标题： Asymmetrically interacting dynamics with mutual confirmation from multi-source on multiplex networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.01340">http://arxiv.org/abs/2101.01340</a></p>
+
+<p>作者： Jiaxing Chen, Ying Liu, Ming Tang, Jing Yue</p>
+
+<p>摘要： 在流行病的早期，个人决定采取保护措施以降低感染风险并抑制疾病传播的决心，可能由于多种信息来源，并且由于缺乏准确的信息而相互确认。在这里，我们将层间相互确认机制引入到复用网络上的信息-疾病交互动力学中。在我们的模型中，一个人一旦从多层邻居的状态中确认了新闻的真实性和疾病的严重性，就可以提高信息的传输率和采取保护措施的意愿。通过使用微观马尔可夫链方法，我们可以计算出稳态下的流行阈值，认知度和感染密度，与模拟结果吻合良好。我们发现，在确认通信层上的有意识邻居时，流行阈值的增加量大于接触层的增加量。相反，从接触层确认邻居的意识和感染导致比通信层更低的最终感染密度和更高的感知密度。结果表明，个人将其感染和意识状态明确暴露给邻居，尤其是那些有真正接触者的邻居，有助于抑制流行病的传播。</p>
+
+<h3 id="通过存档检测被劫持的日志网络">通过存档检测被劫持的日志网络</h3>
+
+<p>原文标题： Detecting a network of hijacked journals by its archive</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.01224">http://arxiv.org/abs/2101.01224</a></p>
+
+<p>作者： Anna Abalkina</p>
+
+<p>摘要： 这项研究描述了一种基于对克隆日志存档的分析来检测被劫持日志的方法。这种方法对于发现具有相同组织者的被劫持日志网络最为有效。通过分析克隆期刊的档案，可以检测出61个被劫持期刊的URL。它还提供了在两个克隆网站投入运营之前预测它们的可能性。这项研究表明，大多数检测到的被劫持日志代表由一个或几个欺诈者组织的克隆日志网络。九种合法期刊的信息和内容在国际和国家科学计量数据库中均受到损害。</p>
+
+<h3 id="使用症状病例追踪covid-19大流行病发展的可能优点的研究">使用症状病例追踪COVID-19大流行病发展的可能优点的研究</h3>
+
+<p>原文标题： A study on the possible merits of using symptomatic cases to trace the development of the COVID-19 pandemic</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.01414">http://arxiv.org/abs/2101.01414</a></p>
+
+<p>作者： Gianluca Bonifazi, Luca Lista, Dario Menasce, Mauro Mezzetto, Daniele Pedrini, Roberto Spighi, Antonio Zoccoli</p>
+
+<p>摘要： 在最近的工作中[1]，我们介绍了一种计算 R_t 的新颖方法，并将其用于描述意大利COVID-19疫情的发展。这项研究是基于意大利Protezione Civile分部报告的每日阳性拭子数量。最近，意大利高级卫生研究所提供了有关症状病例的数据，其中报告日期是症状开始的日期，而不是阳性拭子的报告日期。在本文中，我们将讨论此数据的优缺点，定量比较使用两个样本计算的大流行指标的质量。</p>
+
+<h3 id="识别非对称交互多重网络中的影响力传播者">识别非对称交互多重网络中的影响力传播者</h3>
+
+<p>原文标题： Identify Influential Spreaders in Asymmetrically Interacting Multiplex Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.01457">http://arxiv.org/abs/2101.01457</a></p>
+
+<p>作者： Qi Zeng, Ying Liu, Liming Pan, Ming Tang</p>
+
+<p>摘要： 找出最具影响力的传播者对于理解和控制网络中的传播过程很重要。由于许多现实世界中的复杂系统可以建模为多层网络，因此在多层网络中标识重要节点的问题已引起广泛关注。现有研究集中在多层网络结构上，而忽略了多层的结构和动态耦合如何影响网络中节点的动态重要性。在这里，我们在一个信息疾病耦合的多重网络上的扩散动力学中研究这个问题。首先，我们明确揭示了三个层间耦合因子，即两层相对扩展速度，层间耦合强度和两层程度相关性，显著影响节点在接触层上的扩展影响。信息层的抑制作用使得接触层的结构中心无法预测多路网络中节点的扩展影响。然后，通过将共同演化的传播动力学映射到渗滤过程中，并使用消息传递方法，我们提出了一种从单个种子节点计算疾病暴发规模的方法，该方法可用于估计节点在共同演化中的传播影响动力学。我们的工作提供了关于多路网络中节点重要性的见解，并提供了一个可行的框架来研究非对称协同演化动力学中的影响力扩散器。</p>
+
+<h3 id="揭示covid-19的传播动力学-r-t-估计的贝叶斯框架">揭示COVID-19的传播动力学： R_t 估计的贝叶斯框架</h3>
+
+<p>原文标题： Revealing the Transmission Dynamics of COVID-19: A Bayesian Framework for R_t Estimation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.01532">http://arxiv.org/abs/2101.01532</a></p>
+
+<p>作者： Xian Yang, Shuo Wang, Yuting Xing, Ling Li, Richard Yi Da Xu, Karl J. Friston, Yike Guo</p>
+
+<p>摘要： 在流行病学建模中，瞬时繁殖数 R_t 对于理解传染病的传播动态很重要。当前的 R_t 估算值经常会遇到滞后，平均和不确定性等问题，从而降低 R_t 的实用性。为理解决这些问题，我们在顺序贝叶斯推理的框架中提出了一种新方法，其中采用数据同化方法进行 R_t 估计，从而产生了用于 R_t的最先进的“ DAR  _t ”系统估算。对于DAR  _t ，通过将观察延迟纳入感染和 R_t 的联合推断中，可以解决由于观察滞后而导致的时间不对齐问题。通过对新观测值进行即时更新和模型选择机制来刻画平均水平的缺点，该模型选择机制可以刻画由干预导致的突然变化；通过使用贝叶斯平滑来量化和减少不确定性。我们通过仿真验证了DAR  _t 的性能，并展示了其在揭示COVID-19传输动力学方面的能力。</p>
+
+<h3 id="数学表明可以采用一种hiv风格的策略来管理冠状病毒">数学表明可以采用一种HIV风格的策略来管理冠状病毒</h3>
+
+<p>原文标题： Mathematics Indicates That an HIV-Style Strategy Could Be Applied to Manage the Coronavirus</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.01557">http://arxiv.org/abs/2101.01557</a></p>
+
+<p>作者： Julie Rowlett</p>
+
+<p>摘要： 我们已经学会了与许多可能致命的病毒一起生活，这些病毒没有疫苗，没有免疫力也没有治愈方法。我们并不是一直对这些病毒感到恐惧，相反，我们已经学会了如何使它们聪明，并减少它们造成的危害。一个新的数学模型将不赋予免疫力的疾病的传播与人类行为的发展结合在一起，表明我们可以使用与艾滋病毒等病毒相同的策略来对抗新疾病。</p>
+
+<h3 id="封锁需要地理协调-因为经济影响会通过供应链传播">封锁需要地理协调，因为经济影响会通过供应链传播</h3>
+
+<p>原文标题： Lockdowns need geographic coordination because of propagation of economic effects through supply chains</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.01679">http://arxiv.org/abs/2101.01679</a></p>
+
+<p>作者： Hiroyasu Inoue, Yohsuke Murase, Yasuyuki Todo</p>
+
+<p>摘要： 各国政府要求区域或国家封锁，以防止COVID-19的扩散，因为封锁的下降会通过供应链扩散到其他地区，从而导致广泛地区的经济停滞。这项研究使用日本160万家公司的供应链数据，研究了政府在有义务实施锁定措施时如何减轻经济损失。我们通过对两个区域锁定的所有组合进行测试，发现协调锁定（即同时锁定）的GDP损失比非协调锁定要少。此外，我们测试了在三个月内对47个地区实施封锁的实际情况，发现如果协调全国范围的封锁，GDP损失将小于不协调的封锁。</p>
+
+<h3 id="社交媒体在covid-19期间说了什么-范围回顾">社交媒体在COVID-19期间说了什么：范围回顾</h3>
+
+<p>原文标题： What social media told about us in the time of COVID-19: a scoping review</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.01688">http://arxiv.org/abs/2101.01688</a></p>
+
+<p>作者： Shu-Feng Tsao, Helen Chen, Therese Tisseverasinghe, Yang Yang, Lianghua Li, Zahid A. Butt</p>
+
+<p>摘要： 随着COVID-19大流行的开始，社交媒体已迅速成为信息生成，传播和消费的重要沟通工具。在此范围界定的审查中，我们选择并审查了从2019年11月开始至2020年5月的第一次暴发期间与COVID-19和社交媒体相关的经同行评审的经验研究。通过对81项研究的分析，我们确定了有关该主题的五个总体公共卫生主题在线社交平台和COVID-19的角色。这些主题的重点是：（i）调查公众态度；（ii）识别信息传播疾病；（iii）评估心理健康；（iv）检测或预测COVID-19病例；（v）分析政府对大流行的反应，以及（vi）在预防教育视频中评估健康信息的质量。此外，我们的评论强调了关于机器学习在与COVID-19相关的社交媒体数据上的应用的研究很少，并且缺乏研究记录关于COVID-19的社交媒体数据进行的实时监控的研究。对于COVID-19，社交媒体可以在传播健康信息以及解决信息传播和错误信息方面发挥关键作用。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20210106/">https://www.complexly.cn/post/20210106/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20210105/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要24篇(2021-01-05)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
