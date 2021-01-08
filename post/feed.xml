@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 07 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2021-01-08)</title>
+      <link>https://www.complexly.cn/post/20210108/</link>
+      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210108/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;双曲网络的固有社区结构;&lt;/li&gt;
+&lt;li&gt;二部混合成员随机块模型;&lt;/li&gt;
+&lt;li&gt;相互依赖和互连的多路网络上的k核渗透;&lt;/li&gt;
+&lt;li&gt;紧急疏散中帮助行为的博弈论建模;&lt;/li&gt;
+&lt;li&gt;在线广告中的用户响应预测;&lt;/li&gt;
+&lt;li&gt;SDGNN：学习符号有向网络的节点表示;&lt;/li&gt;
+&lt;li&gt;复杂系统中的机器学习拆卸和瓦解预警信号;&lt;/li&gt;
+&lt;li&gt;解耦同质性、社区结构和网络中的三角闭合;&lt;/li&gt;
+&lt;li&gt;在印度COVID19锁定期间分析电视转播的响应;&lt;/li&gt;
+&lt;li&gt;众筹真的能促进创新吗？来自棋盘游戏行业的证据;&lt;/li&gt;
+&lt;li&gt;性别不平衡和公民科学项目贡献的时空模式：人畜共患病的案例;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2021-01-07)</title>
