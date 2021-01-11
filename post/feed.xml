@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2021-01-11)</title>
+      <link>https://www.complexly.cn/post/20210111/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210111/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;最大后验估计的多层网络层重构和缺失链路预测;&lt;/li&gt;
+&lt;li&gt;通过自我修复抵御攻击以节省资源，从而更宽容地重构网络;&lt;/li&gt;
+&lt;li&gt;图嵌入用于辱骂性语言检测;&lt;/li&gt;
+&lt;li&gt;使用在线社交媒体研究危机时期领导者-COVID案例研究;&lt;/li&gt;
+&lt;li&gt;危机时期科学输出在公开辩论中的作用：以COVID19大流行期间学校重新开放为例;&lt;/li&gt;
+&lt;li&gt;人口分布与城市GDP规模之间的关联;&lt;/li&gt;
+&lt;li&gt;Twitch玩家：评估邻近度保留和基于结构角色的节点嵌入的数据集;&lt;/li&gt;
+&lt;li&gt;数据驱动的马尔可夫过程和异构模拟对COVID-19的感染预测和干预效果评估;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2021-01-08)</title>
