@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2021-01-19)</title>
+      <link>https://www.complexly.cn/post/20210119/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210119/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于社会推荐的自监督多通道超图卷积网络;&lt;/li&gt;
+&lt;li&gt;超网络：从偏序集到几何;&lt;/li&gt;
+&lt;li&gt;区块链社会网络中的社区检测;&lt;/li&gt;
+&lt;li&gt;缓解COVID-19大流行影响的最佳干预策略;&lt;/li&gt;
+&lt;li&gt;关于COVID-19疫苗的典型论述：Reddit版本的大流行故事;&lt;/li&gt;
+&lt;li&gt;尽管COVID反复发作，但运输中的CO  _2 排放仍然很高;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行期间疾病事件的时间聚类;&lt;/li&gt;
+&lt;li&gt;通过强化学习将公交车最佳地分配到公交车站;&lt;/li&gt;
+&lt;li&gt;人工智能在COVID-19社交隔离期间的情绪-语义趋势和人的情绪检测;&lt;/li&gt;
+&lt;li&gt;剖析模因魔术：理解图像模因中的病毒性指标;&lt;/li&gt;
+&lt;li&gt;用于社区检测的多层聚类技术;&lt;/li&gt;
+&lt;li&gt;从Z世代，千禧一代到婴儿潮一代：COVID-19大流行期间在家工作的形象;&lt;/li&gt;
+&lt;li&gt;ExpFinder：集成N-gram向量空间模型和mu CO-HITS的集成专家查找模型;&lt;/li&gt;
+&lt;li&gt;国会大厦暴动：Twitter和Parler的比较研究;&lt;/li&gt;
+&lt;li&gt;社会凝聚力与任务凝聚力：演化博弈论研究;&lt;/li&gt;
+&lt;li&gt;从噪声中分离争议：结构极化度量的比较和归一化;&lt;/li&gt;
+&lt;li&gt;难民营中太阳能-柴油混合动力微型电网的潜力：以卢旺达Nyabiheke难民营为例;&lt;/li&gt;
+&lt;li&gt;最高法院引证的生成动态：使用新的统计网络模型进行分析;&lt;/li&gt;
+&lt;li&gt;高阶网络上的突发暴露会导致非线性感染核;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2021-01-18)</title>
