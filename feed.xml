@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2021-01-21)</title>
+      <link>https://www.complexly.cn/post/20210121/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210121/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图学习算法的统一生成模型：标签传播、图卷积及其组合;&lt;/li&gt;
+&lt;li&gt;NEMR：关系度量网络嵌入;&lt;/li&gt;
+&lt;li&gt;社会网络时代的反疫苗运动和流行病：非单调效应、双稳态和网络隔离;&lt;/li&gt;
+&lt;li&gt;这张照片已被更改：测试新闻图像可信度上图像取证标签的有效性;&lt;/li&gt;
+&lt;li&gt;未定主体人对意见形成模型的影响;&lt;/li&gt;
+&lt;li&gt;快速评估意见动态的相关量;&lt;/li&gt;
+&lt;li&gt;道德偏好的数学基础;&lt;/li&gt;
+&lt;li&gt;VoterFraud2020：Twitter上选举欺诈主张的多模式数据集;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-01-20)</title>
