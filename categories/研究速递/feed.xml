@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2021-01-22)</title>
+      <link>https://www.complexly.cn/post/20210122/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210122/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;先提升后卷积：梯度提升遇到图神经网络;&lt;/li&gt;
+&lt;li&gt;基于密度的社会网络聚类;&lt;/li&gt;
+&lt;li&gt;噪声二阶无标度共识网络的相干尺度;&lt;/li&gt;
+&lt;li&gt;代际流动动力学模型中的机会分配;&lt;/li&gt;
+&lt;li&gt;Synwalk-通过随机游走建模进行社区检测;&lt;/li&gt;
+&lt;li&gt;通过递归延迟方法研究Covid-19的过程;&lt;/li&gt;
+&lt;li&gt;用于欧洲能源系统分析的可再生发电数据;&lt;/li&gt;
+&lt;li&gt;Q的福音：从规范信息的角度理解QAnon阴谋;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2021-01-21)</title>

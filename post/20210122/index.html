@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要8篇(2021-01-22) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+先提升后卷积：梯度提升遇到图神经网络;
+基于密度的社会网络聚类;
+噪声二阶无标度共识网络的相干尺度;
+代际流动动力学模型中的机会分配;
+Synwalk-通过随机游走建模进行社区检测;
+通过递归延迟方法研究Covid-19的过程;
+用于欧洲能源系统分析的可再生发电数据;
+Q的福音：从规范信息的角度理解QAnon阴谋;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要8篇(2021-01-22) - 网络科学研究速递">
+<meta itemprop="description" content="
+先提升后卷积：梯度提升遇到图神经网络;
+基于密度的社会网络聚类;
+噪声二阶无标度共识网络的相干尺度;
+代际流动动力学模型中的机会分配;
+Synwalk-通过随机游走建模进行社区检测;
+通过递归延迟方法研究Covid-19的过程;
+用于欧洲能源系统分析的可再生发电数据;
+Q的福音：从规范信息的角度理解QAnon阴谋;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要8篇(2021-01-22) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20210122/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+先提升后卷积：梯度提升遇到图神经网络;
+基于密度的社会网络聚类;
+噪声二阶无标度共识网络的相干尺度;
+代际流动动力学模型中的机会分配;
+Synwalk-通过随机游走建模进行社区检测;
+通过递归延迟方法研究Covid-19的过程;
+用于欧洲能源系统分析的可再生发电数据;
+Q的福音：从规范信息的角度理解QAnon阴谋;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20210122/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20210122/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要8篇(2021-01-22)</h1>
+
+                  <p class="post-byline">
+                    2021年01月22日 · 3627 字 ·
+                    阅读时间约8分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>先提升后卷积：梯度提升遇到图神经网络;</li>
+<li>基于密度的社会网络聚类;</li>
+<li>噪声二阶无标度共识网络的相干尺度;</li>
+<li>代际流动动力学模型中的机会分配;</li>
+<li>Synwalk-通过随机游走建模进行社区检测;</li>
+<li>通过递归延迟方法研究Covid-19的过程;</li>
+<li>用于欧洲能源系统分析的可再生发电数据;</li>
+<li>Q的福音：从规范信息的角度理解QAnon阴谋;</li>
+</ul>
+
+<p></p>
+
+<h3 id="先提升后卷积-梯度提升遇到图神经网络">先提升后卷积：梯度提升遇到图神经网络</h3>
+
+<p>原文标题： Boost then Convolve: Gradient Boosting Meets Graph Neural Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.08543">http://arxiv.org/abs/2101.08543</a></p>
+
+<p>作者： Sergei Ivanov, Liudmila Prokhorenkova</p>
+
+<p>摘要： 图神经网络（GNN）是功能强大的模型，已在各种图表示学习任务中取得了成功。面对异构表格数据时，梯度提升决策树（GBDT）通常优于其他机器学习方法。但是，对于具有表格节点特征的图，应该使用哪种方法？先前的GNN模型主要集中在具有同质稀疏特征的网络上，并且如我们所示，在异构环境中次优。在这项工作中，我们提出了一种新颖的体系结构，该体系结构可以联合训练GBDT和GNN以获得两者的最佳效果：GBDT模型处理异构特征，而GNN负责图结构。通过允许新树适合GNN的梯度更新，我们的模型受益于端到端优化。通过与领先的GBDT和GNN模型进行广泛的实验比较，我们证明了具有表格特征的各种图的性能均得到了显著提高。该代码可用：https：//github.com/nd7141/bgnn。</p>
+
+<h3 id="基于密度的社会网络聚类">基于密度的社会网络聚类</h3>
+
+<p>原文标题： Density-based clustering of social networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.08334">http://arxiv.org/abs/2101.08334</a></p>
+
+<p>作者： Giovanna Menardi, Domenico De Stefano</p>
+
+<p>摘要： 基于密度的聚类的模态表述的基础思想是将组与数据基础的概率密度函数的模式周围的区域相关联。本文利用样本空间中群集和密集区域之间的这种对应关系来讨论此方法对社会网络分析的扩展。这种扩展似乎特别吸引人：从概念上讲，高密度集群的概念非常适合网络中的社区之一，被视为社区中具有紧密本地联系的个人的集合。网络中缺乏概率密度的概念变成了所提出方法的主要优势，其中可以使用量化行为者角色和位置的节点方式来得出不同的社区配置。该方法允许识别群集的分层结构，这可以刻画群集结构的不同程度的分辨率。此功能非常适合社会网络的性质，可以消除个体在社交聚合中的不同参与。</p>
+
+<h3 id="噪声二阶无标度共识网络的相干尺度">噪声二阶无标度共识网络的相干尺度</h3>
+
+<p>原文标题： Coherence Scaling of Noisy Second-Order Scale-Free Consensus Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.08403">http://arxiv.org/abs/2101.08403</a></p>
+
+<p>作者： Wanyue Xu, Bin Wu, Zuobai Zhang, Zhongzhi Zhang, Haibin Kan, Guanrong Chen</p>
+
+<p>摘要： 网络科学领域的一个惊人发现是，大多数实际的网络系统都具有某些通用的结构特性。通常，它们同时是稀疏的，无比例的，小世界的和有环的。在本文中，我们研究了具有此类通用结构且在顶点处遭受白噪声的动态网络的二阶共识。我们关注网络相干性 H _  rm SO ，以顶点系统的 mathcal H _2 -范数为特征，该度量测量顶点状态与其平均值的平均偏差。我们首先从数值上研究一些代表性的现实世界网络的一致性。我们发现它们的相干性 H _  rm SO 与顶点数 N 次线性关系。然后，我们针对一类迭代增长的网络-伪分形无标度网络（PSFW）进行分析研究 H _  rm SO ，并获得 H _  rm SO 的精确解，该精确解也随 N ，其指数远小于1。为理解释这种亚线性行为的原因，我们最终研究了Sierpin &lsquo;ski垫片的 H _  rm SO ，为此增长了 H _  rm SO 以 N 超线性表示，功率指数比1大得多。Sierpin&rsquo;ski垫片的顶点和边数量与PSFW相同，但不显示无标度和小世界特性。因此，我们得出的结论是，无标度，小世界和环状拓扑共同负责观察到的 H _  rm SO 的亚线性标度。</p>
+
+<h3 id="代际流动动力学模型中的机会分配">代际流动动力学模型中的机会分配</h3>
+
+<p>原文标题： Allocating Opportunities in a Dynamic Model of Intergenerational Mobility</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.08451">http://arxiv.org/abs/2101.08451</a></p>
+
+<p>作者： Hoda Heidari, Jon Kleinberg</p>
+
+<p>摘要： 高等教育等机会可以促进代际流动，导致个人的社会经济地位高于父母。我们开发了一个动态模型，用于在存在行动瓶颈的社会中分配此类机会；最佳分配问题反映了当代人机会所带来的利益与提高接受者的社会经济地位的潜力之间的权衡，从而以可以从机会中进一步受益的方式来塑造子孙后代的构成。我们展示了模型中的最优分配是如何作为多代人持续优化问题的解决方案而出现的，并且总的来说，我们发现这些最优解决方案相对于社会经济地位较高，绩效稍高的人更倾向于低社会经济地位的接受者。我们的模型中的社会在追求纯收益最大化目标时发现的社会经济平权行动。我们描述了模型的结构如何导致暂时性或持久性平权行动的特征，并且我们考虑通过更复杂的过程来扩展模型，以调节不同社会经济地位之间的移动。</p>
+
+<h3 id="synwalk-通过随机游走建模进行社区检测">Synwalk-通过随机游走建模进行社区检测</h3>
+
+<p>原文标题： Synwalk &ndash; Community Detection via Random Walk Modelling</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.08623">http://arxiv.org/abs/2101.08623</a></p>
+
+<p>作者： Christian Toth, Denis Helic, Bernhard C. Geiger</p>
+
+<p>摘要： 抽象表示为网络的复杂系统在日常生活中无处不在。分析和理解这些系统需要社区检测工具等。由于不可能存在单一的最佳社区检测算法，因此希望在各种问题设置中都具有鲁棒性。在这项工作中，我们提出了Synwalk，一种基于随机行走的社区检测方法。 Synwalk建立在扎实的理论基础上，并通过从一类候选随机游走中综合由给定网络诱发的随机游走来检测社区。我们分别在综合和经验网络上彻底验证了我们的方法的有效性，并将Synwalk的性能与Infomap和Walktrap的性能进行了比较。我们的结果表明，Synwalk在具有变化混合参数和度分布的网络上表现强劲。在具有高混合参数的网络上，我们优于Infomap，而在具有许多小社区和低平均程度的网络上，我们的表现优于Infomap和Walktrap。我们的工作有可能通过随机走动的综合来激发社区检测的进一步发展，并且为将来的研究提供具体思路。</p>
+
+<h3 id="通过递归延迟方法研究covid-19的过程">通过递归延迟方法研究Covid-19的过程</h3>
+
+<p>原文标题： Studying the course of Covid-19 by a recursive delay approach</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.08660">http://arxiv.org/abs/2101.08660</a></p>
+
+<p>作者： Matthias Kreck, Erhard Scholz</p>
+
+<p>摘要： 在较早的论文中，我们提出了一种流行病的递归模型。在本文中，我们对该模型进行了概括，以包括无症状或未记录的有症状的人，我们称它们为“  em暗人”（暗区）。我们称其为SEPAR  _d 模型。添加了模型的延迟微分方程版本；它可以更好地与其他模型进行比较。我们将其与经典SIR模型进行比较，并说明为什么我们相信SEPAR  _d 模型对Covid-19可能比其他方法更好。在本文的第二部分中，我们说明了如何处理JHU提供的数据，尤其是说明了如何从数据中导出中心模型参数。其他参数，例如暗区的大小，较难获得，并且只能通过代表性血清学研究的结果进行更粗略的估计，但是只有少数国家可以使用。我们从可获得此类数据的瑞士开始进行国别研究。然后，我们将该模型应用于其他国家/地区的集合中，其中三个是欧洲国家（德国，法国，瑞典），另外三个国家（美国，巴西，印度）受灾最严重的三个国家/地区也是如此。最后，我们证明，即使是汇总的世界数据也可以用我们的方法很好地表示。在本文的最后，我们讨论了模型的使用。也许最引人注目的应用是它允许定量分析人们被送往隔离区或医院之前的时间影响。这表明，缩短时间的强加手段是拉平曲线的强大工具</p>
+
+<h3 id="用于欧洲能源系统分析的可再生发电数据">用于欧洲能源系统分析的可再生发电数据</h3>
+
+<p>原文标题： Renewable Generation Data for European Energy System Analysis</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.08741">http://arxiv.org/abs/2101.08741</a></p>
+
+<p>作者： Alexander Kies, Bruno U. Schyska, Mariia Bilousova, Omar El Sayed, Jakub Jurasz, Horst Stöcker</p>
+
+<p>摘要： 在脱碳过程中，全球能源结构正从化石燃料转向可再生能源。为了研究脱碳途径，利用了大规模的能源系统模型。这些模型需要准确的可再生能源数据，以发挥其全部潜力。使用不同的数据可能导致结果和政策建议相抵触。在这项工作中，我们比较了通常用于研究向高度可再生的欧洲电力系统过渡的几个数据集。我们发现这些数据集之间存在显著差异，大约10％的成本差异导致了不同的能源组合。我们得出结论，必须更加注意输入数据的巨大不确定性。</p>
+
+<h3 id="q的福音-从规范信息的角度理解qanon阴谋">Q的福音：从规范信息的角度理解QAnon阴谋</h3>
+
+<p>原文标题： The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.08750">http://arxiv.org/abs/2101.08750</a></p>
+
+<p>作者： Max Aliapoulios, Antonis Papasavva, Cameron Ballard, Emiliano De Cristofaro, Gianluca Stringhini, Savvas Zannettou, Jeremy Blackburn</p>
+
+<p>摘要： QAnon阴谋论认为，一群（从字面上）嗜血的政治家和媒体人物参与了一场破坏社会的战争。通过解释来自一个匿名内部人士的神秘信息滴，称其为Q，阴谋论的拥护者认为，他们是唐纳德·特朗普（Donald Trump）领导的，积极反对这一阴谋。由于QAnon的拥护者参与了多种暴力行为，包括2021年1月6日对美国国会大厦的强攻，该媒体已被媒体广泛报道。但是，对于该理论是如何发展和在网络上传播以及如何在多个平台中发挥作用的，我们仍然知之甚少。为理解决这一差距，本文从“ Q”本身的角度研究QAnon。具体来说，我们建立了一个数据集，该数据集是从六个“聚合站点”收集到的4,949个规范Q滴的，将其从原始发布到匿名和临时图像板进行整理和存档。我们发现这些位点的一致性相对较低（总体），因此至少应将某些Q下降视为伪晶。然后，我们分析Q丢弃本身的内容，确定讨论的主题，并找到统计学上显著的迹象表明该丢弃不是由单个人撰写的。最后，我们看一下Reddit上的帖子如何用于将Q drop传播给更多的受众。我们发现，传播（最初）仅限于少数几个子社区，并且尽管内容繁琐的内容审核决定减少了总体问题，但Q的“福音”仍然存在于Web社区中。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20210122/">https://www.complexly.cn/post/20210122/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20210121/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要8篇(2021-01-21)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
