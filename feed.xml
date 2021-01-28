@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2021-01-28)</title>
+      <link>https://www.complexly.cn/post/20210128/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210128/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;音调和声与动态乐谱网络拓扑;&lt;/li&gt;
+&lt;li&gt;紧密协作网络模型;&lt;/li&gt;
+&lt;li&gt;REFORM：更换子团队的快速，自适应解决方案;&lt;/li&gt;
+&lt;li&gt;探索用于社交媒体中仇恨言语和攻击性言语识别的transformer模型的多任务多语言学习;&lt;/li&gt;
+&lt;li&gt;小世界网络：综述和属性分析;&lt;/li&gt;
+&lt;li&gt;基于对抗主动学习的异构图神经网络伪造新闻检测;&lt;/li&gt;
+&lt;li&gt;模拟意见领袖在创新传播中的作用;&lt;/li&gt;
+&lt;li&gt;随时间测量法律：网络分析框架及其在美国和德国的法规的应用;&lt;/li&gt;
+&lt;li&gt;社会网络中的启动器和目标;&lt;/li&gt;
+&lt;li&gt;赞助搜索拍卖的三角拍卖词生成;&lt;/li&gt;
+&lt;li&gt;为什么民意调查无法预测选举;&lt;/li&gt;
+&lt;li&gt;流行病学的场论基础;&lt;/li&gt;
+&lt;li&gt;粒子群优化器中的个人和社会行为;&lt;/li&gt;
+&lt;li&gt;从社交媒体获取旅行者行为信息：以Twitter为例的曼哈顿案例研究;&lt;/li&gt;
+&lt;li&gt;在Twitter上调查科学知识的传播：阿片类药物出版物的主题网络研究;&lt;/li&gt;
+&lt;li&gt;公平的平衡：在功能函数形式的博弈中利用物理进行公平分配;&lt;/li&gt;
+&lt;li&gt;邻域图摘要;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2021-01-27)</title>
