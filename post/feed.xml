@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2021-02-02)</title>
+      <link>https://www.complexly.cn/post/20210202/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210202/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;动态复杂网络中重叠社区检测的博弈论方法;&lt;/li&gt;
+&lt;li&gt;指导人类多任务导航决策的信息论法则;&lt;/li&gt;
+&lt;li&gt;以网络为中心的全球金融指标脆弱性指标;&lt;/li&gt;
+&lt;li&gt;建模社会网络算法如何影响意见分化;&lt;/li&gt;
+&lt;li&gt;SteemOps：在基于Steemit区块链的社交媒体平台中提取和分析关键操作;&lt;/li&gt;
+&lt;li&gt;互动博弈中通往合作的新兴途径：动态互惠;&lt;/li&gt;
+&lt;li&gt;互动博弈中的动态互惠性：数值结果和机理分析;&lt;/li&gt;
+&lt;li&gt;TruthBot：用于意向学习，策划的信息呈现和虚假新闻警报的自动对话工具;&lt;/li&gt;
+&lt;li&gt;量化非国家武装团体（NAG）的全球支持网络;&lt;/li&gt;
+&lt;li&gt;城市人口密度与流动性之间的相互作用决定流行病的传播;&lt;/li&gt;
+&lt;li&gt;基于信息传播的互联和无人车辆的基于激励的分布式路由;&lt;/li&gt;
+&lt;li&gt;大城市共享交通的过渡； Covid 19锁定后的挑战赛;&lt;/li&gt;
+&lt;li&gt;大型网络系统的降序建模;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2021-02-01)</title>
