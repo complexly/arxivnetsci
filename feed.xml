@@ -7,10 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要21篇(2021-02-09)</title>
+      <link>https://www.complexly.cn/post/20210209/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210209/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;探索知识图中少样本链路预测的局限性;&lt;/li&gt;
+&lt;li&gt;大规模属性图的有效可扩展聚类;&lt;/li&gt;
+&lt;li&gt;大规模网络上的异步半匿名动力学;&lt;/li&gt;
+&lt;li&gt;基于网络的哥伦比亚二十世纪民粹主义表征方法;&lt;/li&gt;
+&lt;li&gt;通过Lovasz扩展探索子图的密度-尺寸折衷;&lt;/li&gt;
+&lt;li&gt;克服社区检测评估中的偏见;&lt;/li&gt;
+&lt;li&gt;结合了高阶交互的意见动态;&lt;/li&gt;
+&lt;li&gt;从居家到重返工作的政策：意大利的COVID-19死亡率，出行和休假计划;&lt;/li&gt;
+&lt;li&gt;COVIDHunter：一个准确，灵活且考虑环境的开源COVID-19爆发模拟模型;&lt;/li&gt;
+&lt;li&gt;“简短是从恐惧通往仇恨的道路”：在印度WhatsApp小组中的恐惧演讲;&lt;/li&gt;
+&lt;li&gt;晶格外人群的社会困境;&lt;/li&gt;
+&lt;li&gt;用于COVID-19控制的智能测试和重症监护床共享;&lt;/li&gt;
+&lt;li&gt;Meme生态系统中的竞争动态;&lt;/li&gt;
+&lt;li&gt;Stencil多元化云架构中的迁移;&lt;/li&gt;
+&lt;li&gt;使用大型社交媒体数据衡量地点的连通性;&lt;/li&gt;
+&lt;li&gt;蕾哈娜（Rihanna）与宝莱坞（Bollywood）：推特网红和印度农民的抗议;&lt;/li&gt;
+&lt;li&gt;BASALT：在非常大，非常开放的网络中，流行病共识算法的坚实基础;&lt;/li&gt;
+&lt;li&gt;Belle II的多样性和包容性活动;&lt;/li&gt;
+&lt;li&gt;动物物种间的社会互动尺度律;&lt;/li&gt;
+&lt;li&gt;使用基于k-shell的HookeRank算法识别加权网络中的影响节点;&lt;/li&gt;
+&lt;li&gt;影响者网络中的相干共振;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-02-08)</title>
