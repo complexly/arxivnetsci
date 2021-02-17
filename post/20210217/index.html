@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要15篇(2021-02-17) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+链路预测的隐藏挑战：要检查哪些对？;
+分子特性预测的少样本图学习;
+局部超流扩散;
+最佳vs全部：标准化考试成绩报告的公平性和准确性;
+从网站截图中识别错误信息;
+在路由博弈中遵循常规的领导者路线通往混沌;
+图采样算法的经验表征;
+异构网络上的无元路径表示学习;
+动态虚拟图重要性网络预测流感;
+通过基于主体的方法探索移动限制对COVID-19传播的影响;
+基于内容和结构分析的对政治事件的社会舆论分化;
+衡量印度尼西亚金融科技行业客户关系绩效的努力;
+Instagram上奥运金牌得主的用户特征：Rio2016的定量分析;
+评估复杂网络的节点嵌入;
+对话顺利进行：在线对话中量化和预测亲社会成果;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要15篇(2021-02-17) - 网络科学研究速递">
+<meta itemprop="description" content="
+链路预测的隐藏挑战：要检查哪些对？;
+分子特性预测的少样本图学习;
+局部超流扩散;
+最佳vs全部：标准化考试成绩报告的公平性和准确性;
+从网站截图中识别错误信息;
+在路由博弈中遵循常规的领导者路线通往混沌;
+图采样算法的经验表征;
+异构网络上的无元路径表示学习;
+动态虚拟图重要性网络预测流感;
+通过基于主体的方法探索移动限制对COVID-19传播的影响;
+基于内容和结构分析的对政治事件的社会舆论分化;
+衡量印度尼西亚金融科技行业客户关系绩效的努力;
+Instagram上奥运金牌得主的用户特征：Rio2016的定量分析;
+评估复杂网络的节点嵌入;
+对话顺利进行：在线对话中量化和预测亲社会成果;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要15篇(2021-02-17) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20210217/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+链路预测的隐藏挑战：要检查哪些对？;
+分子特性预测的少样本图学习;
+局部超流扩散;
+最佳vs全部：标准化考试成绩报告的公平性和准确性;
+从网站截图中识别错误信息;
+在路由博弈中遵循常规的领导者路线通往混沌;
+图采样算法的经验表征;
+异构网络上的无元路径表示学习;
+动态虚拟图重要性网络预测流感;
+通过基于主体的方法探索移动限制对COVID-19传播的影响;
+基于内容和结构分析的对政治事件的社会舆论分化;
+衡量印度尼西亚金融科技行业客户关系绩效的努力;
+Instagram上奥运金牌得主的用户特征：Rio2016的定量分析;
+评估复杂网络的节点嵌入;
+对话顺利进行：在线对话中量化和预测亲社会成果;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20210217/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20210217/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要15篇(2021-02-17)</h1>
+
+                  <p class="post-byline">
+                    2021年02月17日 · 6676 字 ·
+                    阅读时间约14分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>链路预测的隐藏挑战：要检查哪些对？;</li>
+<li>分子特性预测的少样本图学习;</li>
+<li>局部超流扩散;</li>
+<li>最佳vs全部：标准化考试成绩报告的公平性和准确性;</li>
+<li>从网站截图中识别错误信息;</li>
+<li>在路由博弈中遵循常规的领导者路线通往混沌;</li>
+<li>图采样算法的经验表征;</li>
+<li>异构网络上的无元路径表示学习;</li>
+<li>动态虚拟图重要性网络预测流感;</li>
+<li>通过基于主体的方法探索移动限制对COVID-19传播的影响;</li>
+<li>基于内容和结构分析的对政治事件的社会舆论分化;</li>
+<li>衡量印度尼西亚金融科技行业客户关系绩效的努力;</li>
+<li>Instagram上奥运金牌得主的用户特征：Rio2016的定量分析;</li>
+<li>评估复杂网络的节点嵌入;</li>
+<li>对话顺利进行：在线对话中量化和预测亲社会成果;</li>
+</ul>
+
+<p></p>
+
+<h3 id="链路预测的隐藏挑战-要检查哪些对">链路预测的隐藏挑战：要检查哪些对？</h3>
+
+<p>原文标题： A Hidden Challenge of Link Prediction: Which Pairs to Check?</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.07878">http://arxiv.org/abs/2102.07878</a></p>
+
+<p>作者： Caleb Belth, Alican Büyükçakır, Danai Koutra</p>
+
+<p>摘要： 网络中链路预测的传统设置假定通常具有平衡的节点对测试集可用于预测链路的存在。但是，在实践中，没有测试集：地面真相是未知的，因此用于预测过度的可能对的数量在图中的节点数量中是平方的。此外，由于图稀疏，因此大多数可能的对将不是链接。因此，通常依赖于保留邻近性的嵌入或节点相似性的启发式概念的链路预测方法面临着巨大的搜索空间，其中许多对非常接近，但不应链接。为了缓解此问题，我们引入了LinkWaldo，这是一个用于从节点对的二次方，偏斜的搜索空间中进行选择的框架，该简洁的候选对集合除了紧密接近之外，在结构上还类似于观察到的边。这使它可以忽略一些高相似度但低相似度的对，也可以识别高相似度，较低相似度的对。我们的框架建立在一个模型上，该模型在理论上将随机块模型（SBM）与节点邻近模型结合在一起。 SBM的块结构可以映射出搜索空间中新链接的预期位置，并且邻近性使用位置敏感的哈希值避免昂贵的穷举搜索，从而确定这些块中最合理的链接。 LinkWaldo可以使用任何节点表示学习或接近式的启发式定义，并且可以为任何链路预测方法生成候选对，从而可以在实践中实现当前和将来方法的表示能力。我们评估了跨域的13个网络上的LinkWaldo，并显示平均而言，它返回的候选集比基于嵌入的基准集和启发式基线集的候选集多7-33％。</p>
+
+<h3 id="分子特性预测的少样本图学习">分子特性预测的少样本图学习</h3>
+
+<p>原文标题： Few-Shot Graph Learning for Molecular Property Prediction</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.07916">http://arxiv.org/abs/2102.07916</a></p>
+
+<p>作者： Zhichun Guo, Chuxu Zhang, Wenhao Yu, John Herr, Olaf Wiest, Meng Jiang, Nitesh V. Chawla</p>
+
+<p>摘要： 图神经网络最近的成功极大地促进了分子特性的预测，推进了诸如药物发现之类的活动。现有的深层神经网络方法通常需要针对每个属性的大型训练数据集，从而在有限的实验数据（实际情况中很常见）的情况下（尤其是对于新的分子特性）会削弱其性能。为此，我们提出了Meta-MGNN，这是一种用于预测少量分子性质的新型模型。 Meta-MGNN应用分子图神经网络来学习分子表示，并建立用于模型优化的元学习框架。为了利用未标记的分子信息并解决不同分子属性的任务异质性，Meta-MGNN进一步将分子结构，基于属性的自我监督模块和自我专注的任务权重纳入了前一个框架，从而强化了整个学习模型。在两个公共多属性数据集上的大量实验表明，Meta-MGNN的性能优于各种最新方法。</p>
+
+<h3 id="局部超流扩散">局部超流扩散</h3>
+
+<p>原文标题： Local Hyper-flow Diffusion</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.07945">http://arxiv.org/abs/2102.07945</a></p>
+
+<p>作者： Kimon Fountoulakis, Pan Li, Shenghao Yang</p>
+
+<p>摘要： 大量现实问题需要利用超图和扩散算法。示例包括推荐系统，食品网络中的节点排名以及社会网络中的社区检测等。由于实际超图的大小和复杂性增加，因此需要适用于最复杂的超图的局部且精确的扩散算法。我们提出了第一个局部扩散方法，该方法仅在亚模量假设下适用于高阶关系。我们的方法基于原始对偶优化公式，其中原始问题具有自然的网络流解释，而对偶问题具有基于割的解释，使用一般子模块削减成本的  ell_2 -范数惩罚。我们证明，对于局部超图聚类问题，提出的公式实现了二次逼近误差。我们证明，对于局部超图聚类和节点排序问题，在一系列实际数据集上，新技术明显优于最新技术。</p>
+
+<h3 id="最佳vs全部-标准化考试成绩报告的公平性和准确性">最佳vs全部：标准化考试成绩报告的公平性和准确性</h3>
+
+<p>原文标题： Best vs. All: Equity and Accuracy of Standardized Test Score Reporting</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.07809">http://arxiv.org/abs/2102.07809</a></p>
+
+<p>作者： Sampath Kannan, Mingzi Niu, Aaron Roth, Rakesh Vohra</p>
+
+<p>摘要： 我们研究了大学入学标准化测试的博弈理论模型。学生有两种类型；高和低。有一所大学想招收高级学生。学生参加可能会花费高昂的标准化考试，从而提供此类噪音信号。学生来自两个人群，他们的才华相同（即类型分布相同），但是他们对资源的访问方式有所不同：资源丰富的人群可以选择多次参加考试，而资源较少的人群可以参加考试。只参加一次考试。我们研究了两种分数报告模型，它们刻画了大学使用的现有政策。第一项政策（有时称为“超级得分”）允许学生报告他们所获得的最大分数。另一项政策要求报告所有分数。我们在模型中发现，无论是从大学角度（录取规则更准确）还是从跨群体平等的角度来看，要求所有分数均需报告才能取得优异的均衡结果：学生的录取概率为与人口无关，取决于其类型。特别是，在这种情况下，在资源丰富和资源匮乏的学生群体中，假阳性率和假阴性率是相同的。尽管事实是情况如此，但资源丰富的学生可以-根据他们的选择-报告更准确的类型信号，或根据此政策与资源较少的人群集中。</p>
+
+<h3 id="从网站截图中识别错误信息">从网站截图中识别错误信息</h3>
+
+<p>原文标题： Identifying Misinformation from Website Screenshots</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.07849">http://arxiv.org/abs/2102.07849</a></p>
+
+<p>作者： Sara Abdali, Rutuja Gurav, Siddharth Menon, Daniel Fonseca, Negin Entezari, Neil Shah, Evangelos E. Papalexakis</p>
+
+<p>摘要： 网站的外观和感觉能否提供有关文章可信赖性的信息？在本文中，我们建议在检测错误信息时使用一个有希望但被忽略的方面：域网页的整体外观。为了刻画总体外观，我们对错误消息或值得信赖的Web域提供的新闻文章进行屏幕截图，并利用基于张量分解的半监督分类技术。所提出的方法，即VizFake对许多图像转换不敏感，例如将图像转换为灰度，矢量化图像以及丢失屏幕截图的某些部分。 VizFake利用很少的已知标签，反映了现实和实际情况，其中标签（尤其是已知的误导性文章）稀缺且很快就过时了。仅使用5％的地面真相标签，在500多个新闻报道的50k屏幕截图的数据集上，VizFake的F1分数约为85％。此外，以无监督方式获得的VizFake的张量表示形式允许对数据进行探索性分析，从而为问题提供有价值的见解。最后，我们将VizFake与深度转移学习进行了比较，因为它是非常流行的用于图像分类的黑盒方法，也是众所周知的基于文本文本的方法。 VizFake通过深度转移学习模型实现了竞争性准确性，同时速度提高了两个数量级，并且不需要费力的超参数调整。</p>
+
+<h3 id="在路由博弈中遵循常规的领导者路线通往混沌">在路由博弈中遵循常规的领导者路线通往混沌</h3>
+
+<p>原文标题： Follow-the-Regularizer-Leader Routes to Chaos in Routing Games</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.07974">http://arxiv.org/abs/2102.07974</a></p>
+
+<p>作者： Jakub Bielawski, Thiparat Chotibut, Fryderyk Falniowski, Grzegorz Kosiorowski, Michał Misiurewicz, Georgios Piliouras</p>
+
+<p>摘要： 我们研究了在博弈中遵循常规化领导者（FoReL）动力学的混沌行为的出现。我们关注于拥挤博弈中增加人口规模或成本规模的影响，并在乘性权重更新动态中将关于不稳定，混乱行为的最新结果推广到更大的FoReL动态中。我们确定，即使在具有两个平行链接且具有固定学习率的简单线性非原子拥塞博弈中，除非该博弈是完全对称的，否则增加人口规模或成本规模也会导致学习动力变得不稳定，最终变得混乱。 Li-Yorke的感觉和正拓扑熵。此外，我们证明了在同一博弈中存在新颖的非标准现象，例如稳定的纳什均衡和混沌并存。我们还观察到同时产生了一个混沌吸引子，因为另一个混沌吸引子被破坏了。最后，尽管FoReL动力学可能很奇怪且不平衡，但我们证明，对于任何选择的学习率和成本规模，时间平均仍会收敛到精确的平衡。</p>
+
+<h3 id="图采样算法的经验表征">图采样算法的经验表征</h3>
+
+<p>原文标题： Empirical Characterization of Graph Sampling Algorithms</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.07980">http://arxiv.org/abs/2102.07980</a></p>
+
+<p>作者： Muhammad Irfan Yousuf, Izza Anwer, Raheel Anwar</p>
+
+<p>摘要： 图采样允许从大图中挖掘出小的代表性子图。采样算法采用不同的策略在采样图中复制给定图的属性。在这项研究中，我们针对图的六个属性（包括度，聚类系数，路径长度，全局聚类系数，分类性和模块性）提供了五种图采样算法的全面经验表征。我们从15个图表中抽取样本，这些图表分为五个类别，包括协作，社交，引文，技术和合成图。我们提供定性和定量结果。我们发现，就这项工作中测试的属性而言，没有一种方法可以从给定图中提取真实样本。我们的结果表明，积极探索采样节点附近区域的采样算法的性能优于其他算法。</p>
+
+<h3 id="异构网络上的无元路径表示学习">异构网络上的无元路径表示学习</h3>
+
+<p>原文标题： Meta-Path-Free Representation Learning on Heterogeneous Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.08120">http://arxiv.org/abs/2102.08120</a></p>
+
+<p>作者： Jie Zhang, Jinru Ding, Suyuan Liu, Hongyan Wu</p>
+
+<p>摘要： 现实世界的网络和知识图通常是异构网络。异构网络上的表示学习不仅是一个流行的领域，也是一个务实的研究领域。主要挑战来自异构性-节点和边的不同类型。此外，对于HIN中的给定节点，邻居节点的重要性不仅取决于结构距离，还取决于语义。如何有效地刻画结构和语义关系是另一个挑战。当前最先进的方法基于元路径算法，因此存在严重的缺点-性能取决于元路径的任意选择。然而，元路径的选择是基于经验的并且耗时的。在这项工作中，我们提出了一种在异构网络即异构图卷积网络（HCN）上的新颖的无元路径表示学习方法。提出的方法融合了异构性，并开发了一种 k  -strata算法（ k 是整数）来刻画异构网络中的 k  -hop结构和语义信息。据我们所知，这是首次突破元路径的限制，用于异构网络上的表示学习。我们在三个现实世界的异构网络上进行了广泛的实验。实验结果表明，在各种分析任务中，所提出的方法明显优于当前的最新方法。</p>
+
+<h3 id="动态虚拟图重要性网络预测流感">动态虚拟图重要性网络预测流感</h3>
+
+<p>原文标题： Dynamic Virtual Graph Significance Networks for Predicting Influenza</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.08122">http://arxiv.org/abs/2102.08122</a></p>
+
+<p>作者： Jie Zhang, Pengfei Zhou, Hongyan Wu</p>
+
+<p>摘要： 图结构化数据及其相关算法已在许多领域引起了广泛关注，例如公共卫生中的流感预测。但是，可变的流感季节性，偶尔的大流行和领域知识给构建合适的图带来了巨大挑战，这可能会削弱当前流行的基于图的算法进行数据分析的强度。在这项研究中，我们开发了一种新颖的方法，动态虚拟图重要性网络（DVGSN），该方法可以在历史时间点上监督并动态地从类似的“感染情况”中学习。动态虚拟图上的表示学习可以解决各种季节性和流行病，从而提高性能。对现实世界流感数据的广泛实验表明，DVGSN明显优于当前的最新方法。据我们所知，这是为时间序列预测任务监督学习动态虚拟图的首次尝试。此外，所提出的方法需要较少的领域知识来预先构建图，并且具有丰富的可解释性，这使得该方法在公共卫生，生命科学等领域中更加容易被接受。</p>
+
+<h3 id="通过基于主体的方法探索移动限制对covid-19传播的影响">通过基于主体的方法探索移动限制对COVID-19传播的影响</h3>
+
+<p>原文标题： Exploring the impact of mobility restrictions on the COVID-19 spreading through an agent-based approach</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.08226">http://arxiv.org/abs/2102.08226</a></p>
+
+<p>作者： Martina Fazio, Alessandro Pluchino, Giuseppe Inturri, Michela Le Pira, Nadia Giuffrida, Matteo Ignaccolo</p>
+
+<p>摘要： 限制移动被认为是遏制COVID-10传播的主要策略之一。但是，有多种方法可以通过不同的限制来降低移动性，并且很难预测对病毒传播的实际影响。这对于需要采取有效及时措施的决策者来说是一个限制。尽管数据分析在理解这种现象中起着重要作用，但拥有能够预测不同情况影响的通用模型也很重要。此外，他们应该能够以分解的方式模拟场景，从而理解目标策略的可能影响，例如在地理范围内或与与潜在感染风险相关的其他变量有关。本文提出了一种基于主体的模型（ABM），该模型能够动态模拟在不同移动性限制情况下的COVID-19扩散。该模型使用意大利的案例研究及其20个行政区域，并考虑了可归因于病毒的扩散和致死率（基于病毒传播风险模型）和人口迁移模式的参数。该模型已用实际数据进行了校准，并根据静态和动态参数的组合，再现了不同的流动性限制可能对大流行扩散产生的影响。结果表明，如果在第一波大流行期间在意大利实施基于先验风险参数的差异性流动限制策略而不是国家封锁，则病毒的传播将是相似的。提议的模型可以为决策者在战略层面解决流行病和病毒传播提供有益的建议。</p>
+
+<h3 id="基于内容和结构分析的对政治事件的社会舆论分化">基于内容和结构分析的对政治事件的社会舆论分化</h3>
+
+<p>原文标题： Deciphering Social Opinion Polarization Towards Political Event Based on Content and Structural Analysis</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.08249">http://arxiv.org/abs/2102.08249</a></p>
+
+<p>作者： Andry Alamsyah, Wachda Yuniar Rochmah, Arina Nahya Nurnafia</p>
+
+<p>摘要： 有一些证据表明，社会舆论两极分化导致了这种关系的破裂，有些是在小社区规模内，而另一些则可以使大型组织甚至一个国家分裂。回答社会舆论两极分化根源的传统方法通常使用随机抽样或基于问卷的方法，这种方法在时间和金钱上都非常昂贵。相反，利用社交媒体数据采用大数据方法的机会为调查以下问题提供了丰富的资源，例如：社会意见分化是如何形成的，在时间窗观察过程中动态的社会网络机制，主要参与者和社区的识别。大数据方法的强大之处在于分析的数据数量，在此过程中涉及的数据越多，描述人口状况的准确性就越高。如今，计算能力已不再成为处理大规模数据的障碍，因此观察社会舆论两极化过程成为可能。</p>
+
+<h3 id="衡量印度尼西亚金融科技行业客户关系绩效的努力">衡量印度尼西亚金融科技行业客户关系绩效的努力</h3>
+
+<p>原文标题： An Effort to Measure Customer Relationship Performance in Indonesia&rsquo;s Fintech Industry</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.08262">http://arxiv.org/abs/2102.08262</a></p>
+
+<p>作者： Alisya Putri Rabbani, Andry Alamsyah, Sri Widiyanesti</p>
+
+<p>摘要： 社交媒体的可用性简化了公司与客户的关系。使用社交媒体使客户参与对话网络的工作被称为社交客户关系管理（SCRM）。社会网络分析有助于理解网络特征以及对话网络在社交媒体上的活跃程度。计算其网络属性对于衡量客户关系绩效很有帮助。金融技术是一个提供基于数字的金融服务的新兴行业，它利用社交媒体与客户互动。为了保持竞争力，需要衡量SCRM绩效。因此，我们旨在探索印度尼西亚金融科技公司的SCRM绩效。在发现对话网络中的市场多数思想方面，我们通过分类正面和负面观点来进行情感分析。作为案例研究，我们将在2019年10月1日至11月1日的观察期内调查有关GoPay，OVO，Dana和LinkAja的Twitter对话。这项研究的结果对于商业智能目的特别是在管理与客户的关系方面是有益的。</p>
+
+<h3 id="instagram上奥运金牌得主的用户特征-rio2016的定量分析">Instagram上奥运金牌得主的用户特征：Rio2016的定量分析</h3>
+
+<p>原文标题： User Characteristics of Olympic Gold Medallists on Instagram: A Quantitative Analysis of Rio2016</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.08271">http://arxiv.org/abs/2102.08271</a></p>
+
+<p>作者： Amirhosein Bodaghi (Federal University of Rio de Janeiro)</p>
+
+<p>摘要： 这项研究的目的是在Instagram上检查奥运冠军的特征，以首先理解男女运动员之间是否存在差异，然后找出这些特征之间的可能关联。我们使用内容分析方法来分析奥运金牌得主在Instagram上的照片。通过这种方式，我们从Instagram网页上获取了公开获得其帐户的所有2016年里约奥运会金牌得主的数据。数据分析显示，男性金牌获得者的跟随/跟随者比率与参与与追随者比率之间存在正单调关系，而男性和男性的年龄与自我呈现职位比率之间存在强烈的负单调关系。女子金牌得主，甚至对男子采用线性形式。这些与相关理论和文献相符的发现可能有助于运动员在社交媒体上管理和扩展其个人品牌。</p>
+
+<h3 id="评估复杂网络的节点嵌入">评估复杂网络的节点嵌入</h3>
+
+<p>原文标题： Evaluating Node Embeddings of Complex Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.08275">http://arxiv.org/abs/2102.08275</a></p>
+
+<p>作者： Arash Dehghan-Kooshkghazi, Bogumił Kamiński, Łukasz Kraiński, Paweł Prałat, François Théberge</p>
+
+<p>摘要： 图嵌入是图的节点到一组向量的转换。良好的嵌入应刻画图拓扑，节点到节点的关系以及有关图，其子图和节点的其他相关信息。如果实现了这些目标，则嵌入是网络的有意义的，可理解的压缩表示形式，可用于其他机器学习工具，例如节点分类，社区检测或链路预测。主要挑战在于，需要确保嵌入能够很好地描述图的属性。结果，选择最佳的嵌入是一项艰巨的任务，并且通常需要领域专家。在本文中，我们对选定的图嵌入算法进行了一系列广泛的实验，无论是在实际网络还是人工生成的网络上。基于这些实验，我们得出两个一般性结论。首先，如果需要在运行实验之前选择一种嵌入算法，则node2vec是最佳选择，因为它在我们的测试中表现最佳。话虽这么说，在所有测试中都没有赢家，而且，大多数嵌入算法的超参数都应该调整并随机化。因此，如果可能，我们对从业人员的主要建议是为眼前的问题生成多个嵌入，然后使用一个通用框架，该框架为无监督的图嵌入比较提供工具。这个框架（最近在文献中引入并且可以在GitHub存储库中轻松获得）将差异分数分配给嵌入，以帮助区分好和坏。</p>
+
+<h3 id="对话顺利进行-在线对话中量化和预测亲社会成果">对话顺利进行：在线对话中量化和预测亲社会成果</h3>
+
+<p>原文标题： Conversations Gone Alright: Quantifying and Predicting Prosocial Outcomes in Online Conversations</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2102.08368">http://arxiv.org/abs/2102.08368</a></p>
+
+<p>作者： Jiajun Bao, Junjie Wu, Yiming Zhang, Eshwar Chandrasekharan, David Jurgens</p>
+
+<p>摘要： 在线对话可以朝多个方向发展：一些反社会行为的结果很差，而另一些则为所有人的利益带来积极的结果。改善在线空间的研究主要集中于发现和减少反社会行为。但是，我们对在线对话中的积极结果以及如何增加这些结果知之甚少-亲社会的结果仅仅是缺乏反社会行为还是更多？在这里，我们研究了在线讨论中对话功能如何导致亲社会的结果。我们引入了一系列新的理论启发性指标来定义亲社会成果，例如指导和尊重感。使用2千6百万Reddit对话的语料库，我们显示可以从在线对话的初始评论中预测这些结果，而最佳模型在对预测结果进行对话时将人类预测性能提高了24％。我们的结果表明，平台可以在早期对话的算法排名中使用这些早期线索来优先考虑更好的结果。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20210217/">https://www.complexly.cn/post/20210217/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20210216/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要12篇(2021-02-16)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
