@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2021-02-19)</title>
+      <link>https://www.complexly.cn/post/20210219/</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210219/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;推荐系统的链路预测方法;&lt;/li&gt;
+&lt;li&gt;高阶循环渗流的精确公式;&lt;/li&gt;
+&lt;li&gt;复杂社会系统中意见动态和集体决策共同演化的两层模型;&lt;/li&gt;
+&lt;li&gt;面对COVID-19大流行，激励路线选择以实现安全高效的运输;&lt;/li&gt;
+&lt;li&gt;通过在线和代表性调查中重建的联系矩阵，监测大流行期间的行为反应;&lt;/li&gt;
+&lt;li&gt;在社交媒体中发现有趣子图的查询驱动系统;&lt;/li&gt;
+&lt;li&gt;具有先验信念和市场反馈的有限理性决策的最大熵模型;&lt;/li&gt;
+&lt;li&gt;多语言，含时和情感上的城市事件远距离解读;&lt;/li&gt;
+&lt;li&gt;隐网络模型中的相关复制;&lt;/li&gt;
+&lt;li&gt;快速响应COVID-19文本分类的正则表达式;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2021-02-18)</title>
