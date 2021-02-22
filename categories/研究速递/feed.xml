@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 19 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2021-02-22)</title>
+      <link>https://www.complexly.cn/post/20210222/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210222/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多层网络数据的潜空间模型;&lt;/li&gt;
+&lt;li&gt;文本分类的隐私保护图卷积网络;&lt;/li&gt;
+&lt;li&gt;关联度的二星模型的解析解;&lt;/li&gt;
+&lt;li&gt;带抹消的随机游走：在社交和信息网络上多样化个性化建议;&lt;/li&gt;
+&lt;li&gt;冯·诺伊曼图熵与结构信息之间的相似性：解释，计算和应用;&lt;/li&gt;
+&lt;li&gt;减少COVID-19负担的最佳疫苗接种和治疗策略;&lt;/li&gt;
+&lt;li&gt;在存在调整成本的情况下加快Covid-19疫苗生产的激励措施;&lt;/li&gt;
+&lt;li&gt;R包生态系统的实证分析;&lt;/li&gt;
+&lt;li&gt;通过针对拓扑的社交距离来转移流行的临界点;&lt;/li&gt;
+&lt;li&gt;社会网络分析：从图论到Python应用;&lt;/li&gt;
+&lt;li&gt;主单形神经网络用于轨迹预测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-02-19)</title>
