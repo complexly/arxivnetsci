@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2021-02-24)</title>
+      <link>https://www.complexly.cn/post/20210224/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210224/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过基于电导的节点约束产生新的层次结构;&lt;/li&gt;
+&lt;li&gt;MultiWalk：一种基于游走集合方法的生成节点嵌入的框架;&lt;/li&gt;
+&lt;li&gt;昂贵机构中合作的演变;&lt;/li&gt;
+&lt;li&gt;社会网络中的稳健朴素学习;&lt;/li&gt;
+&lt;li&gt;SliceNStitch：稀疏张量流的连续CP分解;&lt;/li&gt;
+&lt;li&gt;意大利COVID-19大流行高峰期间的在线错误信息流;&lt;/li&gt;
+&lt;li&gt;大流行各个阶段流行病学数据的比较可视化;&lt;/li&gt;
+&lt;li&gt;在线社会网络中错误信息的本体分析;&lt;/li&gt;
+&lt;li&gt;流行过程中与度有关的传播概率;&lt;/li&gt;
+&lt;li&gt;对Simon随机复制中性模型的记忆认知概括;&lt;/li&gt;
+&lt;li&gt;从亚临界行为到谣言模型中难以捉摸的相变;&lt;/li&gt;
+&lt;li&gt;张量积公式的精确流行病模型;&lt;/li&gt;
+&lt;li&gt;在一个具有竞争性相互作用的稀释的Ising模型中实现的社会中的逃税研究;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2021-02-23)</title>
