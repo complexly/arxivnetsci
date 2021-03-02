@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要20篇(2021-03-02)</title>
+      <link>https://www.complexly.cn/post/20210302/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210302/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在动态网络中发现稠密相关子图;&lt;/li&gt;
+&lt;li&gt;估计并提高网络的结构鲁棒性;&lt;/li&gt;
+&lt;li&gt;ISHNE：用于异构网络嵌入的影响自注意力;&lt;/li&gt;
+&lt;li&gt;扩散者事件和投影网络的局限性，以刻画多模网络上的动态;&lt;/li&gt;
+&lt;li&gt;在线平台上检测辱骂性语言：一项批判性分析;&lt;/li&gt;
+&lt;li&gt;流行病的分析，预测和控制：从标量到动态网络模型的调查;&lt;/li&gt;
+&lt;li&gt;姿态检测的错误信息和虚假信息识别研究;&lt;/li&gt;
+&lt;li&gt;通过信息提取自动生成组织间灾难响应网络;&lt;/li&gt;
+&lt;li&gt;在热力学极限中某些社会困境博弈的纳什均衡映射，哈密顿动力学与达尔文演化;&lt;/li&gt;
+&lt;li&gt;通过图距离分析丢失数据场景中的犯罪网络;&lt;/li&gt;
+&lt;li&gt;基于实时更新的动态社会网络的COVID-19最佳疫苗接种策略;&lt;/li&gt;
+&lt;li&gt;具有环境噪声的加权多层网络中的社区检测;&lt;/li&gt;
+&lt;li&gt;来自全局和局部有影响力节点的网络增长;&lt;/li&gt;
+&lt;li&gt;狂热分子在自适应投票模型中的作用;&lt;/li&gt;
+&lt;li&gt;同质性对数字邻近跟踪的影响;&lt;/li&gt;
+&lt;li&gt;考虑人口行为和疫苗接种的美国COVID-19的建模和预测;&lt;/li&gt;
+&lt;li&gt;两层网络上的多路引起的触发点;&lt;/li&gt;
+&lt;li&gt;隔离区域和复杂网络系统的粗粒化;&lt;/li&gt;
+&lt;li&gt;基于特征向量的复杂网络集群同步分析;&lt;/li&gt;
+&lt;li&gt;时滞微分方程用于流行病的空间分辨模拟，具体应用于COVID-19;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2021-03-01)</title>
