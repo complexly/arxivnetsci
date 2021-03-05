@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 04 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2021-03-05)</title>
+      <link>https://www.complexly.cn/post/20210305/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210305/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;提取图神经网络知识并超越它：一个有效的知识提取框架;&lt;/li&gt;
+&lt;li&gt;理解微信用户首选项和“哇”扩散;&lt;/li&gt;
+&lt;li&gt;用于稳健表示的深度图结构学习：综述;&lt;/li&gt;
+&lt;li&gt;亚线性主导和核心边缘网络;&lt;/li&gt;
+&lt;li&gt;多尺度动态网络中的渗流和连接时间;&lt;/li&gt;
+&lt;li&gt;在社交媒体上检测和建模信息的真实渗流和相变;&lt;/li&gt;
+&lt;li&gt;使用ReCom抽样方法量化区域紧凑度的第一步;&lt;/li&gt;
+&lt;li&gt;探索本地出行方式，社会经济状况和锁定政策在塑造COVID-19传播方式中的作用;&lt;/li&gt;
+&lt;li&gt;基于Agent的模型中关键路径的统计分析;&lt;/li&gt;
+&lt;li&gt;关于社交云的批判笔记;&lt;/li&gt;
+&lt;li&gt;Weisfeiler和Lehman进入拓扑：通过简单网络传递消息;&lt;/li&gt;
+&lt;li&gt;基于Agent的人才流失建模方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-03-04)</title>
