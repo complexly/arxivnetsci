@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2021-03-08)</title>
+      <link>https://www.complexly.cn/post/20210308/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210308/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;新颖、破坏性和科学影响力的演化;&lt;/li&gt;
+&lt;li&gt;从高技能劳动力流网络的角度揭示高科技产业集聚中的空间溢出效应;&lt;/li&gt;
+&lt;li&gt;有向和标签网络中的模体驱动的稠密子图发现;&lt;/li&gt;
+&lt;li&gt;网络拓扑对信用网络通量的影响;&lt;/li&gt;
+&lt;li&gt;时间粒度对基础设施和业务网络的系统仿真中的扰动传播影响;&lt;/li&gt;
+&lt;li&gt;通过推断交互链接在社交媒体中找到高度协调的社区的一般方法;&lt;/li&gt;
+&lt;li&gt;探索流式社交媒体数据变化对社会网络分析的影响;&lt;/li&gt;
+&lt;li&gt;单纯复形上的演化博弈;&lt;/li&gt;
+&lt;li&gt;差分隐私模型下的中心性度量分析;&lt;/li&gt;
+&lt;li&gt;网络社区政治新闻讨论与共享的多平台分析;&lt;/li&gt;
+&lt;li&gt;高阶结构上的社会传染;&lt;/li&gt;
+&lt;li&gt;表征Twitter用户的不同社区：移民和本地人;&lt;/li&gt;
+&lt;li&gt;使用卷积神经网络归类新闻媒体中的自杀;&lt;/li&gt;
+&lt;li&gt;使用双网分析器从双网中提取社区;&lt;/li&gt;
+&lt;li&gt;匹配算法：基本原理，应用和挑战;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2021-03-05)</title>
