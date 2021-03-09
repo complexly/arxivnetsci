@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要6篇(2021-03-09) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+网络表示学习：从传统特征学习到深度学习;
+图力学习;
+自动拟团合并算法（AQCM）;
+多数规则的分歧与共识;
+近似大型网络中的非回溯中心性和局部化现象;
+城市交通拥挤动态中空间过渡的涌现;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要6篇(2021-03-09) - 网络科学研究速递">
+<meta itemprop="description" content="
+网络表示学习：从传统特征学习到深度学习;
+图力学习;
+自动拟团合并算法（AQCM）;
+多数规则的分歧与共识;
+近似大型网络中的非回溯中心性和局部化现象;
+城市交通拥挤动态中空间过渡的涌现;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要6篇(2021-03-09) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20210309/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+网络表示学习：从传统特征学习到深度学习;
+图力学习;
+自动拟团合并算法（AQCM）;
+多数规则的分歧与共识;
+近似大型网络中的非回溯中心性和局部化现象;
+城市交通拥挤动态中空间过渡的涌现;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20210309/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20210309/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要6篇(2021-03-09)</h1>
+
+                  <p class="post-byline">
+                    2021年03月09日 · 2432 字 ·
+                    阅读时间约5分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>网络表示学习：从传统特征学习到深度学习;</li>
+<li>图力学习;</li>
+<li>自动拟团合并算法（AQCM）;</li>
+<li>多数规则的分歧与共识;</li>
+<li>近似大型网络中的非回溯中心性和局部化现象;</li>
+<li>城市交通拥挤动态中空间过渡的涌现;</li>
+</ul>
+
+<p></p>
+
+<h3 id="网络表示学习-从传统特征学习到深度学习">网络表示学习：从传统特征学习到深度学习</h3>
+
+<p>原文标题： Network Representation Learning: From Traditional Feature Learning to Deep Learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2103.04339">http://arxiv.org/abs/2103.04339</a></p>
+
+<p>作者： Ke Sun, Lei Wang, Bo Xu, Wenhong Zhao, Shyh Wei Teng, Feng Xia</p>
+
+<p>摘要： 网络表示学习（NRL）是一种有效的图分析技术，可促进用户深入理解图数据的隐藏特征。它已成功应用于与网络科学相关的许多实际任务中，例如社会网络数据处理，生物信息处理和推荐系统。深度学习是学习数据功能的强大工具。但是，将深度学习推广到图结构数据并非易事，因为它不同于常规数据，例如具有空间信息的图片和具有时间信息的声音。最近，研究人员在NRL领域提出了许多基于深度学习的方法。在这项调查中，我们研究了从传统特征学习方法到基于深度学习的模型的经典NRL，分析了它们之间的关系，并总结了最新进展。最后，我们讨论了考虑NRL的未解决问题，并指出了该领域的未来方向。</p>
+
+<h3 id="图力学习">图力学习</h3>
+
+<p>原文标题： Graph Force Learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2103.04344">http://arxiv.org/abs/2103.04344</a></p>
+
+<p>作者： Ke Sun, Jiaying Liu, Shuo Yu, Bo Xu, Feng Xia</p>
+
+<p>摘要： 功能表示利用了网络分析任务中的强大功能。但是，大多数功能是离散的，这对有效使用提出了巨大的挑战。最近，人们越来越关注网络特征学习，它可以将离散的特征映射到连续的空间。不幸的是，由于训练期间的随机负采样策略，当前的研究未能在特征空间中完全保留结构信息。为理解决这个问题，我们研究了特征学习和新颖性的问题，提出了一个受力弹簧模型启发的基于力的图学习模型GForce。 GForce假定节点处于吸引力和排斥力中，因此在特征学习中会得到与原始结构信息相同的表示。在基准数据集上进行的综合实验证明了所提出框架的有效性。此外，GForce还提供了使用物理模型为图学习进行节点交互建模的机会。</p>
+
+<h3 id="自动拟团合并算法-aqcm">自动拟团合并算法（AQCM）</h3>
+
+<p>原文标题： The Automatic Quasi-clique Merger algorithm (AQCM)</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2103.04186">http://arxiv.org/abs/2103.04186</a></p>
+
+<p>作者： Scott Payne, Edgar Fuller, George Spirou, Cun-Quan Zhang</p>
+
+<p>摘要： 自动拟团合并算法是一种新的算法，它是根据早期工作改编的，名称为QCM（拟团合并）[Ou2006，Ou2007，Zhao2011，Qi2014]。 AQCM算法在任何数据集中执行分层聚类，对于这些数据集，存在相关联的相似性度量来量化任何数据i和数据j的相似性。重要的是，该方法具有两个有价值的性能属性：1）根据数据的固有属性而不是根据参数自动返回较大或较小数目的聚类的能力2）返回大量相对较小的聚类的能力如果在数据集中合理定义了这样的集群，则会自动生成小型集群。在这项工作中，我们介绍了准团集聚方法的一般概念，提供了AQCM算法的数学步骤的完整细节，并解释了新方法背后的一些动机。新方法的主要成就是，凝聚过程现在可以根据给定数据集特有的固有结构来自适应地展开，而这种情况无需驱动先前的QCM算法的耗时的参数调整即可实现。因此，我们将新算法称为 emph automatic。我们在22,900个节点的社交媒体网络中的社区检测任务中提供了算法性能的演示。</p>
+
+<h3 id="多数规则的分歧与共识">多数规则的分歧与共识</h3>
+
+<p>原文标题： Divergence and Consensus in Majority Rule</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2103.04248">http://arxiv.org/abs/2103.04248</a></p>
+
+<p>作者： P. L. Krapivsky, S. Redner</p>
+
+<p>摘要： 我们调查具有两个类别的人的种群中的多数规则动态，每个类别具有两个意见状态  pm 1 ，并且不同类别的人之间具有可调的交互作用。在更新中，如果所有组成员都属于同一类别，则随机选择的组将采用多数意见；如果不是，则以概率  epsilon 应用多数规则。如果  epsilon  geq  epsilon_c =  frac 1 9 ，则可以在与人口规模成对数比例的时间内达成共识。对于  epsilon &lt; epsilon_c ，种群可能会陷入两极分化状态，其中一个类别更喜欢 + 1 状态，而另一类更喜欢 -1 。摆脱这种两极分化状态并达成共识的时间随人口规模呈指数增长。</p>
+
+<h3 id="近似大型网络中的非回溯中心性和局部化现象">近似大型网络中的非回溯中心性和局部化现象</h3>
+
+<p>原文标题： Approximating nonbacktracking centrality and localization phenomena in large networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2103.04655">http://arxiv.org/abs/2103.04655</a></p>
+
+<p>作者： G. Timár, R. A. da Costa, S. N. Dorogovtsev, J. F. F. Mendes</p>
+
+<p>摘要： 事实证明，消息传递理论是研究渗透，非经常性流行病和类似动态过程的宝贵工具。消息传递方法的核心是非回溯矩阵，该矩阵的最大特征值，相应的特征向量和紧密相关的非回溯中心性在确定给定动力学模型的行为方面起着核心作用。在这里，我们提出了一种基于度数类的方法，该方法使用与相邻节点的联合度数分布相关的较小矩阵来近似这些量。我们的发现表明，在大多数网络中，距离最近邻居的程度-程度相关性实际上并不强，并且我们的一阶描述已经得出了相当准确的估计值。我们表明，通过我们的方案也可以很好地刻画非回溯中心性的本地化，尤其是在大型网络中。我们的方法提供了一种替代方法，可以在非常大的网络中使用完整的非回溯矩阵，由于内存限制，这可能无法实现。我们的结果对于设计基于群体的接种策略以控制流行病也可能有用。</p>
+
+<h3 id="城市交通拥挤动态中空间过渡的涌现">城市交通拥挤动态中空间过渡的涌现</h3>
+
+<p>原文标题： Emergence of spatial transitions in urban congestion dynamics</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2103.04833">http://arxiv.org/abs/2103.04833</a></p>
+
+<p>作者： Aniello Lampo, Javier Borge-Holthoefer, Sergio Gómez, Albert Solé-Ribalta</p>
+
+<p>摘要： 交通动力学的定量研究对于确保城市交通网络的效率至关重要。当前的工作是调查交通拥堵的空间特性，即我们旨在表征交通瓶颈发生的城市地区。对先前工作中大量真实道路网络的分析表明，拥堵点会经历空间突变，即随着合并较大的城市区域，它们会从市中心移开。造成这种影响的基本因素是中央公路和主干路的相互缠绕，这些公路和道路被分散在不同的地理区域中。在本文中，我们扩展了对导致拥塞位置突然转变的条件的分析。首先，我们研究一种更加现实的情况，在这种情况下，主干道和中央道路而不是位于明显分开的区域，而是出现了空间重叠。结果导致这影响了瓶颈的位置，并引入了新的可能的拥塞区域。其次，我们特别注意边分布所起的作用，证明它可以平滑过渡轮廓，从而控制拥塞位移。最后，我们表明，在具有均匀连通性的域中，由于节点密度的不连续性，上述现象也可能得到恢复。我们的结果为城市道路网络的设计和优化以及日常交通管理提供了有用的见识。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20210309/">https://www.complexly.cn/post/20210309/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20210308/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要15篇(2021-03-08)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
