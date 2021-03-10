@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 09 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2021-03-10)</title>
+      <link>https://www.complexly.cn/post/20210310/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210310/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在经典思想和新数据的推动下，高阶网络分析开始兴起;&lt;/li&gt;
+&lt;li&gt;金融网络的物理学;&lt;/li&gt;
+&lt;li&gt;人工复杂网络中节点和边中心性度量的相关性分析;&lt;/li&gt;
+&lt;li&gt;邻居对生物多样性循环模型的影响;&lt;/li&gt;
+&lt;li&gt;中国城市的城市流行病危险指数：为什么小城市成为流行病热点？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2021-03-09)</title>
