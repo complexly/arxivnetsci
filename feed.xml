@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 25 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2021-03-26)</title>
+      <link>https://www.complexly.cn/post/20210326/</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210326/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;含时网络方法图;&lt;/li&gt;
+&lt;li&gt;含时网络作为建模框架;&lt;/li&gt;
+&lt;li&gt;Watts级联模型的含时网络版本;&lt;/li&gt;
+&lt;li&gt;具有混合自主权的交通网络的匿名收费;&lt;/li&gt;
+&lt;li&gt;量化育儿服务对妇女就业的效力;&lt;/li&gt;
+&lt;li&gt;压缩梯度跟踪用于线性收敛的分布式优化;&lt;/li&gt;
+&lt;li&gt;加权节点相似度下基于复杂网络的时间序列预测;&lt;/li&gt;
+&lt;li&gt;COVID-19爆发对意大利国家声誉和股市表现的影响：一种情绪分析方法;&lt;/li&gt;
+&lt;li&gt;在2017年哈维飓风期间检查流动性数据的公正性;&lt;/li&gt;
+&lt;li&gt;局部网络相似性度量的比较分析：在作者引用网络中的应用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-03-25)</title>
