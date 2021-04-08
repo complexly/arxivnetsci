@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2021-04-08)</title>
+      <link>https://www.complexly.cn/post/20210408/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210408/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;加权有向网络的PageRank中心性和算法及其在全球投入产出表中的应用;&lt;/li&gt;
+&lt;li&gt;使用稀疏偏最小二乘进行粗噪声图对齐;&lt;/li&gt;
+&lt;li&gt;为城市规模的主动交通仿真模型构建路网;&lt;/li&gt;
+&lt;li&gt;量化激励的（不）兼容性：体育方面的案例研究;&lt;/li&gt;
+&lt;li&gt;HumAID：来自Twitter的人类注释灾难事件数据;&lt;/li&gt;
+&lt;li&gt;为电力系统的故障后定位、动态状态估计和最佳测量放置选择哪种神经网络？;&lt;/li&gt;
+&lt;li&gt;联合嵌入模型分析Twitter用户的生活方式选择;&lt;/li&gt;
+&lt;li&gt;瑜伽会让你快乐吗？使用文本和时间信息分析Twitter用户的幸福感;&lt;/li&gt;
+&lt;li&gt;你做瑜伽吗？使用社交和文本信息理解Twitter用户的类型和动机;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2021-04-07)</title>
