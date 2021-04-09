@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要14篇(2021-04-09) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+QD-GCN：查询驱动的属性社区搜索图卷积网络;
+远程学习模型中的教育过程组织：问题和特征;
+GKD：用于图无关推理的半监督图知识蒸馏;
+代表性简单博弈中投票权的计算与贿赂;
+媒体云：开放网络上的全球新闻的大规模开源收藏;
+AB随机几何图中的度分布;
+PATHATTACK：攻击复杂网络中的最短路径;
+使用深度学习进行复杂网络预测;
+MGN-Net：用于整合异构生物网络种群的多视图图归一化器;
+社会大数据：概述和应用;
+使用混合方法寻找社交媒体数据专家;
+隐喻如何影响政治话语：使用神经隐喻检测的大规模主题不可知研究;
+评估绘制研究空间的最新技术：巴西案例研究;
+中心性加权的意见动态：分歧和社会网络划分;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要14篇(2021-04-09) - 网络科学研究速递">
+<meta itemprop="description" content="
+QD-GCN：查询驱动的属性社区搜索图卷积网络;
+远程学习模型中的教育过程组织：问题和特征;
+GKD：用于图无关推理的半监督图知识蒸馏;
+代表性简单博弈中投票权的计算与贿赂;
+媒体云：开放网络上的全球新闻的大规模开源收藏;
+AB随机几何图中的度分布;
+PATHATTACK：攻击复杂网络中的最短路径;
+使用深度学习进行复杂网络预测;
+MGN-Net：用于整合异构生物网络种群的多视图图归一化器;
+社会大数据：概述和应用;
+使用混合方法寻找社交媒体数据专家;
+隐喻如何影响政治话语：使用神经隐喻检测的大规模主题不可知研究;
+评估绘制研究空间的最新技术：巴西案例研究;
+中心性加权的意见动态：分歧和社会网络划分;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要14篇(2021-04-09) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20210409/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+QD-GCN：查询驱动的属性社区搜索图卷积网络;
+远程学习模型中的教育过程组织：问题和特征;
+GKD：用于图无关推理的半监督图知识蒸馏;
+代表性简单博弈中投票权的计算与贿赂;
+媒体云：开放网络上的全球新闻的大规模开源收藏;
+AB随机几何图中的度分布;
+PATHATTACK：攻击复杂网络中的最短路径;
+使用深度学习进行复杂网络预测;
+MGN-Net：用于整合异构生物网络种群的多视图图归一化器;
+社会大数据：概述和应用;
+使用混合方法寻找社交媒体数据专家;
+隐喻如何影响政治话语：使用神经隐喻检测的大规模主题不可知研究;
+评估绘制研究空间的最新技术：巴西案例研究;
+中心性加权的意见动态：分歧和社会网络划分;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20210409/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20210409/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要14篇(2021-04-09)</h1>
+
+                  <p class="post-byline">
+                    2021年04月09日 · 6242 字 ·
+                    阅读时间约13分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>QD-GCN：查询驱动的属性社区搜索图卷积网络;</li>
+<li>远程学习模型中的教育过程组织：问题和特征;</li>
+<li>GKD：用于图无关推理的半监督图知识蒸馏;</li>
+<li>代表性简单博弈中投票权的计算与贿赂;</li>
+<li>媒体云：开放网络上的全球新闻的大规模开源收藏;</li>
+<li>AB随机几何图中的度分布;</li>
+<li>PATHATTACK：攻击复杂网络中的最短路径;</li>
+<li>使用深度学习进行复杂网络预测;</li>
+<li>MGN-Net：用于整合异构生物网络种群的多视图图归一化器;</li>
+<li>社会大数据：概述和应用;</li>
+<li>使用混合方法寻找社交媒体数据专家;</li>
+<li>隐喻如何影响政治话语：使用神经隐喻检测的大规模主题不可知研究;</li>
+<li>评估绘制研究空间的最新技术：巴西案例研究;</li>
+<li>中心性加权的意见动态：分歧和社会网络划分;</li>
+</ul>
+
+<p></p>
+
+<h3 id="qd-gcn-查询驱动的属性社区搜索图卷积网络">QD-GCN：查询驱动的属性社区搜索图卷积网络</h3>
+
+<p>原文标题： QD-GCN: Query-Driven Graph Convolutional Networks for Attributed Community Search</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03583">http://arxiv.org/abs/2104.03583</a></p>
+
+<p>作者： Yuli Jiang, Yu Rong, Hong Cheng, Xin Huang, Kangfei Zhao, Junzhou Huang</p>
+
+<p>摘要： 最近，归因社区搜索是与社区检测和图聚类相关但又不同的问题，已在文献中得到了广泛研究。与从图中找到所有现有静态社区的社区检测相比，归因社区搜索（ACS）更具挑战性，因为它旨在在给定任意查询的情况下查找具有内聚结构和同质节点属性的动态社区。为理解决ACS问题，最流行的范例是将问题简化为两个子问题，即结构匹配和属性过滤并将它们分开处理。但是，在现实世界的图中，社区结构和节点属性实际上是相互关联的。因此，当前的研究无法捕捉到这些对ACS问题至关重要的相关性。在本文中，我们提出了查询驱动图卷积网络（QD-GCN），这是一个统一社区结构和节点属性以解决ACS问题的端到端框架。特别是，QD-GCN利用图卷积网络（它是同时对图拓扑和节点属性进行编码的强大工具）作为骨干从原始图中提取与查询相关的社区信息的骨架。通过利用这种依赖于查询的社区信息，QD-GCN能够在给定任何查询的情况下预测目标社区。在具有真实社区的现实世界图上进行的实验表明，QD-GCN在效率和有效性方面都优于现有的归因社区搜索算法。</p>
+
+<h3 id="远程学习模型中的教育过程组织-问题和特征">远程学习模型中的教育过程组织：问题和特征</h3>
+
+<p>原文标题： The educational process organization in the distance learning model: problems and features</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03590">http://arxiv.org/abs/2104.03590</a></p>
+
+<p>作者： M.Y. Raitina, A.O. Pustovarova, E.M. Pokrovskaya</p>
+
+<p>摘要： 本文以托木斯克州立控制系统与无线电电子大学（TUSUR）为例，讨论了以远程格式提供教育过程的当前问题。在进行研究的基础上，确定并分析了远程学习的问题和特点。结论是，在不断监测提供远程学习的有效性的基础上，有必要使教育现代化，同时要考虑到教育过程中所有参与者的意见。</p>
+
+<h3 id="gkd-用于图无关推理的半监督图知识蒸馏">GKD：用于图无关推理的半监督图知识蒸馏</h3>
+
+<p>原文标题： GKD: Semi-supervised Graph Knowledge Distillation for Graph-Independent Inference</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03597">http://arxiv.org/abs/2104.03597</a></p>
+
+<p>作者： Mahsa Ghorbani, Mojtaba Bahrami, Anees Kazi, Mahdieh SoleymaniBaghshah, Hamid R. Rabiee, Nassir Navab</p>
+
+<p>摘要： 越来越多的多模式医学数据为同时处理各种模式（例如成像和非成像数据）提供了机会，以全面理解疾病预测领域。使用图卷积网络（GCN）的最新研究提供了新颖的半监督方法，用于整合异质性方式，同时调查患者的疾病预测关联。但是，当在推论时没有用于图构造的元数据时（例如，来自不同的总体），常规方法表现出较差的性能。为理解决这个问题，我们提出了一种基于知识提炼的名为GKD的新型半监督方法。我们训练一个教师组件，该组件除了深度神经网络外还采用标签传播算法，仅在训练阶段才能从图和非图模态中受益。教师组件将所有可用信息嵌入到软伪标签中。然后，使用软伪标签来训练一个深层的学生网络，以对无法使用图式的看不见的测试数据进行疾病预测。我们在两个用于诊断自闭症谱系障碍和阿尔茨海默氏病的公共数据集上进行了实验，并对合成的多模态数据集进行了全面分析。根据这些实验，就准确度，AUC和宏F1而言，GKD优于以前的基于图的深度学习方法。</p>
+
+<h3 id="代表性简单博弈中投票权的计算与贿赂">代表性简单博弈中投票权的计算与贿赂</h3>
+
+<p>原文标题： Computation and Bribery of Voting Power in Delegative Simple Games</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03692">http://arxiv.org/abs/2104.03692</a></p>
+
+<p>作者： Gianlorenzo D&rsquo;Angelo, Esmaeil Delfaraz, Hugo Gilbert</p>
+
+<p>摘要： 加权投票博弈是合作博弈中最重要的类别之一。最近，Zhang和Grossi [53]提出了该类的变体，称为委托简单博弈，非常适合分析每个选民在流动民主选举中的相对重要性。此外，他们定义了一个权能指数，称为Delagative Banzhaf指数，用于基于以下两个关键参数来计算授权图中每个主体人（即，选民和代表）的重要性：她积累的总投票权重和支持结构她收到了代表们的来信。我们获得了一些与委托简单博弈有关的结果。我们首先提出一种伪多项式时间算法来计算代表简单博弈中的代表Banzhaf和Shapley-Shubik值。然后，我们调查一个贿赂问题，其目标是通过最多更改固定数量的代表来最大化/最小化代表图中给定选民的投票权/权重。我们表明，最小化/最大化选民的权力指数值的问题在很大程度上是NP问题。此外，我们证明不可能有比 1-1 / e 更好的逼近保证来最大化选民的投票权重，除非 P = NP ，然后我们为此问题提供了一些参数化的复杂度结果。最后，我们表明，找到具有给定数量的专家的委托图来最大化主体可以具有的最小功率指标值是一个计算难题。</p>
+
+<h3 id="媒体云-开放网络上的全球新闻的大规模开源收藏">媒体云：开放网络上的全球新闻的大规模开源收藏</h3>
+
+<p>原文标题： Media Cloud: Massive Open Source Collection of Global News on the Open Web</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03702">http://arxiv.org/abs/2104.03702</a></p>
+
+<p>作者： Hal Roberts, Rahul Bhargava, Linas Valiukas, Dennis Jen, Momin M. Malik, Cindy Bishop, Emily Ndulue, Aashka Dave, Justin Clark, Bruce Etling, Rob Faris, Anushka Shah, Jasmin Rubinowitz, Alexis Hope, Catherine D&rsquo;Ignazio, Fernando Bermejo, Yochai Benkler, Ethan Zuckerman</p>
+
+<p>摘要： 我们将对Media Cloud进行首次完整描述，Media Cloud是一个基于爬网超链接结构的开放源代码平台，该平台已运行了10多年，它对于许多用途而言都是收集数据以研究开放Web上的媒体生态系统的最佳方式。我们记录了Media Cloud收集和存储哪些数据，如何处理和组织这些数据以及开放API访问以及面向用户的工具背后的关键选择。与相关替代方案相比，我们还强调了媒体云收集策略的优势和局限性。我们概述了使用Media Cloud生成的两个示例数据集，并讨论了研究人员如何使用该平台创建自己的数据集。</p>
+
+<h3 id="ab随机几何图中的度分布">AB随机几何图中的度分布</h3>
+
+<p>原文标题： Degree distributions in AB random geometric graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03711">http://arxiv.org/abs/2104.03711</a></p>
+
+<p>作者： Clara Stegehuis, Lotte Weedage</p>
+
+<p>摘要： 在本文中，我们提供了 AB 随机几何图的度分布，其中 A 类型的点连接到最接近 B 类型的 k 点。得出这种程度分布的动机示例是在具有多连接性的5G无线网络中，用户可以连接到其最近的 k 基站。重要的是要知道一个特定的基站服务多少个用户，这给出了该基站的程度。为了获得这些度数分布，我们研究了 B 点的 k-  th阶Voronoi单元的面积大小分布。假设 A 点是Poisson分布的，我们调查连接到某个 B 点的用户数量，该数量等于该点的程度。在 B 点放置在六边形网格中的简单情况下，我们证明了所有 k 阶Voronoi面积都相等，因此所有度数都遵循泊松分布。但是，对于Poisson分布的 B -点，此观察结果不成立，为此，我们证明在一维情况下，度数分布遵循复合Poisson-Erlang分布。然后，我们使用复合Poisson-Gamma度分布来近似二维情况下的度分布，并表明此一参数拟合对于 k 的不同值表现良好。此外，我们表明，随着k美元的增加，这些度分布变得更加集中在均值附近。这意味着连接 k 的 AB 随机图会随着 k 的增加更均匀地平衡 B 类型节点的负载。最后，我们提供了有关基站实际数据的案例研究。我们表明，在用户和基站之间的距离几乎没有阴影的情况下，泊松分布不会刻画这些数据的度分布，尤其是对于 k&gt; 1 。但是，在强阴影下，即使对于这些非泊松位置数据，我们的度逼近效果也很好。</p>
+
+<h3 id="pathattack-攻击复杂网络中的最短路径">PATHATTACK：攻击复杂网络中的最短路径</h3>
+
+<p>原文标题： PATHATTACK: Attacking Shortest Paths in Complex Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03761">http://arxiv.org/abs/2104.03761</a></p>
+
+<p>作者： Benjamin A. Miller, Zohair Shafi, Wheeler Ruml, Yevgeniy Vorobeychik, Tina Eliassi-Rad, Scott Alfeld</p>
+
+<p>摘要： 复杂网络中的最短路径在许多应用程序中起着关键作用。示例包括在计算机网络中路由数据包，在运输网络中路由流量以及在万维网上推断概念之间的语义距离。具有扰动图能力的对手可能会使两个节点之间的最短路径通过图的有利部分（例如，他拥有的收费公路）来路由流量。在本文中，我们介绍了“强制路径剪切”问题，在该问题中，对手希望通过删除图中最小数量的边来提升特定的路径。我们证明了“力路径切割”是NP完全的，但是它也可以作为“加权集覆盖率”问题的一个实例进行重铸，从而可以使用近似算法。集合覆盖问题的Universe大小可能是节点数的因数。为了克服这一障碍，我们提出了PATHATTACK算法，该算法通过约束生成仅考虑路径的一小部分-在我们的99％的实验中，最多不超过边数量的5％。在各种各样的合成和真实网络中，加权设置覆盖的线性编程公式可在98％以上的情况下提供最佳解决方案。我们还演示了使用两种近似算法和贪婪基线方法进行时间/成本折衷的情况。这项工作为解决类似问题提供了基础，并扩展了对抗性图挖掘的领域，超出了有关节点分类和嵌入的最新工作。</p>
+
+<h3 id="使用深度学习进行复杂网络预测">使用深度学习进行复杂网络预测</h3>
+
+<p>原文标题： Complex network prediction using deep learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03871">http://arxiv.org/abs/2104.03871</a></p>
+
+<p>作者： Yoshihisa Tanaka, Ryosuke Kojima, Shoichi Ishida, Fumiyoshi Yamashita, Yasushi Okuno</p>
+
+<p>摘要： 发生在各个领域中的多个对象之间的系统关系可以表示为网络。现实世界的网络通常表现出复杂的拓扑，其结构属性是表征和进一步探索网络本身的关键因素。不确定性，建模程序和测量困难常常给充分表征大多数已知的现实世界网络带来难以克服的挑战。因此，有必要从当前可用的有限数据中预测其未知元素，以估计可能的未来关系和/或揭露无法衡量的关系。在这项工作中，我们提出了一种基于图卷积网络的深度学习方法，用于预测网络并同时保留其原始结构特性。研究表明，这种方法可以在预测复杂网络的未知部分时保留其无标度和小世界特性，而这是最新常规方法所缺乏的。通过在生物网络上测试该方法而实现的外部验证证实了最初从人工数据获得的结果。而且，该过程提供了对网络结构属性在网络预测中的可保留性的新见解。我们期望我们的工作也可以启发其他研究领域的类似方法，在这些领域中，需要通过结合基于机器的方法和基于实验的方法来揭示复杂系统背后的未知机制。</p>
+
+<h3 id="mgn-net-用于整合异构生物网络种群的多视图图归一化器">MGN-Net：用于整合异构生物网络种群的多视图图归一化器</h3>
+
+<p>原文标题： MGN-Net: a multi-view graph normalizer for integrating heterogeneous biological network populations</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03895">http://arxiv.org/abs/2104.03895</a></p>
+
+<p>作者： Islem Rekik, Mustafa Burak Gurbuz</p>
+
+<p>摘要： 随着最近的技术进步，通常由相互作用的实体的网络（即，图）表示的生物数据集以前所未有的复杂性和异质性扩散。尽管现代网络科学为分析此类数据集中的连通性模式开辟了新的领域，但我们仍然缺乏数据驱动的方法来提取多视图图人口的整体联系指纹，更不用说将典型样本与人口样本的非典型变异区分开了。我们提出了多视图图归一化器网络（MGN-Net;<a href="https://github.com/basiralab/MGN-Net），这是一种基于图神经网络的方法，用于将一组多视图生物网络标准化并将其集成到单个方法中中心，代表性和拓扑合理的连接模板。我们通过发现包括阿尔茨海默氏病和自闭症谱系障碍患者在内的健康和神经系统紊乱的大脑网络人群的连接指纹，证明了MGN-Net的使用。此外，通过比较学习到的健康人群和无序人群的模板，我们发现MGN-Net在产生最居中的模板，概括人群的独特特征以及保留复杂的生物学拓扑方面，在性能和性能上均明显优于常规网络集成方法。网络。我们的评估表明，MGN-Net具有强大的通用性，并且在设计上很容易适应不同的基于图的问题，例如相关连接的标识，规范化和集成。">https://github.com/basiralab/MGN-Net），这是一种基于图神经网络的方法，用于将一组多视图生物网络标准化并将其集成到单个方法中中心，代表性和拓扑合理的连接模板。我们通过发现包括阿尔茨海默氏病和自闭症谱系障碍患者在内的健康和神经系统紊乱的大脑网络人群的连接指纹，证明了MGN-Net的使用。此外，通过比较学习到的健康人群和无序人群的模板，我们发现MGN-Net在产生最居中的模板，概括人群的独特特征以及保留复杂的生物学拓扑方面，在性能和性能上均明显优于常规网络集成方法。网络。我们的评估表明，MGN-Net具有强大的通用性，并且在设计上很容易适应不同的基于图的问题，例如相关连接的标识，规范化和集成。</a></p>
+
+<h3 id="社会大数据-概述和应用">社会大数据：概述和应用</h3>
+
+<p>原文标题： Social Big Data: An Overview and Applications</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03904">http://arxiv.org/abs/2104.03904</a></p>
+
+<p>作者： Bilal Abu-Salih, Pornpit Wongthongtham, Dengya Zhu, Kit Yan Chan, Amit Rudra</p>
+
+<p>摘要： 在线社交媒体服务的出现带来了质的飞跃，并给人类，文化，知识和社会生活的各个方面带来了深刻的变化。这些重要的大数据支流通过在企业及其客户之间建立聚合和透明的对话，进一步改变了企业流程。因此，分析社交数据内容的流量对于增强业务实践，增强品牌知名度，开发对目标市场的洞察力，检测和识别正面和负面的客户情绪等非常必要，从而实现了希望的目标价值。本章概述了社会大数据的术语和定义。本章还为本书中广泛讨论的几种应用程序和分析奠定了基础。</p>
+
+<h3 id="使用混合方法寻找社交媒体数据专家">使用混合方法寻找社交媒体数据专家</h3>
+
+<p>原文标题： Finding Experts in Social Media Data using a Hybrid Approach</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03920">http://arxiv.org/abs/2104.03920</a></p>
+
+<p>作者： Simon James (Seamus) Brady</p>
+
+<p>摘要： 在计算机科学研究中已经出现了几种解决专家发现问题的方法。在这项工作中，研究了其中三种方法-内容分析，社交图分析和语义Web技术的使用。然后，开发出一套综合的系统需求，该需求在一种混合方法中使用了所有三种方法。为了展示这种混合方法的实用性，使用现代的功能编程语言（Clojure）开发了一种可用的原型专家查找系统，称为ExpertQuest，以查询社交媒体数据和链接数据。对该系统进行了评估和讨论。最后，提出了讨论和结论，描述了混合方法和这项工作中使用的技术的优点和缺点。</p>
+
+<h3 id="隐喻如何影响政治话语-使用神经隐喻检测的大规模主题不可知研究">隐喻如何影响政治话语：使用神经隐喻检测的大规模主题不可知研究</h3>
+
+<p>原文标题： How Metaphors Impact Political Discourse: A Large-Scale Topic-Agnostic Study Using Neural Metaphor Detection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03928">http://arxiv.org/abs/2104.03928</a></p>
+
+<p>作者： Vinodkumar Prabhakaran, Marek Rei, Ekaterina Shutova</p>
+
+<p>摘要： 隐喻在政治修辞学中被广泛用作一种有效的框架工具。虽然以前已经证明了特定隐喻的有效性，例如战争隐喻在政治话语中的有效性，但是这些研究通常依赖少量的手工编码隐喻用法实例。需要进行大规模的与主题无关的研究，以确立隐喻作为一种装置的总体说服力，并阐明指导其说服力的更广泛模式。在本文中，我们对政治话语中的隐喻进行了大规模的数据驱动研究。截止到2017年2月，我们对412名美国政治人物在其Facebook公开页面上发布的超过8.5万个帖子的公开数据集进行了这项研究。我们的贡献是三方面的：我们显示出证据表明，隐喻的使用与意识形态倾向相关，并依赖于复杂的方式。并发的政治事件，例如赢得或失败的选举；我们显示，即使在控制了各种社会政治因素（例如性别和政党归属）之后，带有隐喻的帖子也能引起受众整体上的更多参与；最后，我们通过对7万个帖子中513个单词的隐喻和文字用法的细粒度语言分析，证明了隐喻确实是增加帖子参与度的原因。</p>
+
+<h3 id="评估绘制研究空间的最新技术-巴西案例研究">评估绘制研究空间的最新技术：巴西案例研究</h3>
+
+<p>原文标题： Evaluating the state-of-the-art in mapping research spaces: a Brazilian case study</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03338">http://arxiv.org/abs/2104.03338</a></p>
+
+<p>作者： Francisco Galuppo Azevedo, Fabricio Murai</p>
+
+<p>摘要： 科学知识不能被视为一组孤立的领域，而可以看作是一个高度连接的网络。理解研究领域之间的联系方式对于充分分配资金和人力资源至关重要（例如，组建团队以解决多学科问题）。学科之间的关系可以从单个科学家的轨迹数据中得出，因为研究人员经常在一小部分相互关联的领域中做出贡献。最近的两项工作提出了根据科学家的公开记录创建研究图的方法：通过使用常识性方法创建转移概率矩阵；并通过学习嵌入（矢量表示）。令人惊讶的是，这些模型是在不同的数据集上进行评估的，从未在文献中进行过比较。在这项工作中，我们使用来自巴西研究人员的大量出版物记录，以系统的方式比较了这两种模型。我们评估这些模型预测给定实体（科学家，机构或地区）是否将进入w.r.t的新领域的能力。 ROC曲线下的面积。此外，我们分析了每种方法对出版物数量和与一个实体相关联的字段数量的敏感程度。最后，我们进行了一个案例研究，以展示如何使用这些模型来描述巴西背景下的科学动态。</p>
+
+<h3 id="中心性加权的意见动态-分歧和社会网络划分">中心性加权的意见动态：分歧和社会网络划分</h3>
+
+<p>原文标题： Centrality-Weighted Opinion Dynamics: Disagreement and Social Network Partition</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2104.03485">http://arxiv.org/abs/2104.03485</a></p>
+
+<p>作者： Shuang Gao</p>
+
+<p>摘要： 本文提出了一种基于社会网络结构和网络中心性的舆论动态网络模型。该模型在概念上的新颖性在于，每个人的观点都通过关联的网络中心度来加权，以表征在社会网络上传播的观点。遵循度中心加权的意见动态模型，我们提供了一种基于意见分歧将任意图的节点划分为两个和多个聚类的算法。此外，该划分算法已应用于包括Zachary空手道俱乐部网络[1]和南方女性网络[2]在内的现实世界社会网络，并且这些应用示例间接地证明了以度为中心的意见动态模型的有效性。最后，建立了一般中心性加权舆论动力学模型的性质。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20210409/">https://www.complexly.cn/post/20210409/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20210408/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要9篇(2021-04-08)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
