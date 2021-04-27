@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 26 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2021-04-27)</title>
+      <link>https://www.complexly.cn/post/20210427/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210427/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于子图的网络形成模型;&lt;/li&gt;
+&lt;li&gt;Regshock：金融网络中系统风险的交互式可视化分析;&lt;/li&gt;
+&lt;li&gt;隐私作为一种计划的行为：情境因素对隐私感知和计划的影响;&lt;/li&gt;
+&lt;li&gt;疫苗分发的平均场控制问题;&lt;/li&gt;
+&lt;li&gt;基于病毒载量的空间网络上流行病传播模型;&lt;/li&gt;
+&lt;li&gt;Transformers模型与COVID-19信息疫情对抗;&lt;/li&gt;
+&lt;li&gt;考虑用户偏好的假新闻检测;&lt;/li&gt;
+&lt;li&gt;在时态网络模型中检测新的边类型;&lt;/li&gt;
+&lt;li&gt;使用基于名字的方法在推断种族时避免偏见;&lt;/li&gt;
+&lt;li&gt;COVID-19爆发后，合并症患者的医疗保健习惯是否已更改；大数据公众情绪分析;&lt;/li&gt;
+&lt;li&gt;通过不完全合适的口罩空气传播病毒的统计模型;&lt;/li&gt;
+&lt;li&gt;利用传递性约束进行知识图谱中的实体匹配;&lt;/li&gt;
+&lt;li&gt;拉丁美洲背景下的公共秩序和交通网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-04-26)</title>
