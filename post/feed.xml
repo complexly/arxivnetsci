@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2021-05-11)</title>
+      <link>https://www.complexly.cn/post/20210511/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210511/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多传感器数据融合可实现准确的行车速度和出行时间重构;&lt;/li&gt;
+&lt;li&gt;自行车基础设施的路段优先排序方法;&lt;/li&gt;
+&lt;li&gt;用于描述特征频率变化的在线用户动力学基本方程的摄动展开;&lt;/li&gt;
+&lt;li&gt;行人动力学的瓶颈模拟中的长时间堵塞;&lt;/li&gt;
+&lt;li&gt;基于计数不同的草图的快速且自适应错误的影响最大化;&lt;/li&gt;
+&lt;li&gt;科学知识的新地图;&lt;/li&gt;
+&lt;li&gt;稀疏图数据集的近似Frechet平均值;&lt;/li&gt;
+&lt;li&gt;运用L1-预算改变说服敏感性的观点动力学优化的难点;&lt;/li&gt;
+&lt;li&gt;网络可控性中的通信协调;&lt;/li&gt;
+&lt;li&gt;排序导致模拟人群的集体逃逸中的多个快速通道;&lt;/li&gt;
+&lt;li&gt;超图中基于流的社区检测;&lt;/li&gt;
+&lt;li&gt;全局层次结构与局部结构：无标度网络中的虚假自我反馈;&lt;/li&gt;
+&lt;li&gt;h含时高阶网络中的简单传染;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2021-05-10)</title>
