@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2021-05-12)</title>
+      <link>https://www.complexly.cn/post/20210512/</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210512/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于图神经网络的可扩展框架，用于识别复杂网络中的关键节点和链接;&lt;/li&gt;
+&lt;li&gt;复杂网络的距离骨架;&lt;/li&gt;
+&lt;li&gt;网络的代表性社区划分;&lt;/li&gt;
+&lt;li&gt;增量图计算：动态社会网络中的锚节点跟踪;&lt;/li&gt;
+&lt;li&gt;改善分布式随机梯度方法的瞬态时间;&lt;/li&gt;
+&lt;li&gt;会话动力学的可视化分析;&lt;/li&gt;
+&lt;li&gt;通过在线新闻的语义网络分析探索消费者信心的前提;&lt;/li&gt;
+&lt;li&gt;用图神经网络估计流行病的传播状态;&lt;/li&gt;
+&lt;li&gt;信息不完整对异构主体网络形成的影响;&lt;/li&gt;
+&lt;li&gt;社交媒体上对COVID-19疫苗的犹豫不决：反疫苗内容、疫苗错误信息和阴谋论的公共Twitter数据集;&lt;/li&gt;
+&lt;li&gt;特征因子;&lt;/li&gt;
+&lt;li&gt;电力系统的谱表示及其在自适应电网划分和级联故障定位中的应用;&lt;/li&gt;
+&lt;li&gt;QAnon的崛起：回声室中善恶行为的心理模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2021-05-11)</title>
