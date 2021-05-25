@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 24 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2021-05-25)</title>
+      <link>https://www.complexly.cn/post/20210525/</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210525/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;职业隔离的社会网络分析;&lt;/li&gt;
+&lt;li&gt;社会网络中的同时分布式估计和攻击检测/隔离：结构可观察性、Kronecker积网络和卡方检测;&lt;/li&gt;
+&lt;li&gt;系统图中的收缩分析：在状态估计中的应用;&lt;/li&gt;
+&lt;li&gt;对抗图嵌入的鲁棒通用框架;&lt;/li&gt;
+&lt;li&gt;在社会网络中检测处理效应修饰;&lt;/li&gt;
+&lt;li&gt;SOK：假新闻大爆发2021：我们可以制止病毒传播吗？;&lt;/li&gt;
+&lt;li&gt;通过API抓取Twitter数据：技术/法律观点;&lt;/li&gt;
+&lt;li&gt;他们如何发推文？沙特阿拉伯Twitter的深入分析;&lt;/li&gt;
+&lt;li&gt;Sockpuppet检测：电报案例研究;&lt;/li&gt;
+&lt;li&gt;DepressionNet：社交媒体上用于抑郁检测的新型摘要增强深度框架;&lt;/li&gt;
+&lt;li&gt;在Wikipedia上建模集体预期和响应;&lt;/li&gt;
+&lt;li&gt;基于渗流理论的避免疾病传播的移动策略：COVID-19;&lt;/li&gt;
+&lt;li&gt;按照劳森准则衡量的融合能源收支平衡和增益方面的进展;&lt;/li&gt;
+&lt;li&gt;考虑关系的异构图表示学习;&lt;/li&gt;
+&lt;li&gt;发现扩散过程背后时间演变的社区状态的动态霍克斯过程;&lt;/li&gt;
+&lt;li&gt;编辑介绍：文字和网络的力量;&lt;/li&gt;
+&lt;li&gt;挫折感在多主体符号网络上集体决策动态过程中的作用;&lt;/li&gt;
+&lt;li&gt;从基础数据到知识发现-生命周期方法-使用多层网络;&lt;/li&gt;
+&lt;li&gt;延迟意识和疲劳对流行病控制中自我隔离功效的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2021-05-24)</title>
