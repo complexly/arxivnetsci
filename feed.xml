@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2021-05-26)</title>
+      <link>https://www.complexly.cn/post/20210526/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210526/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于图神经网络的风险投资成功预测;&lt;/li&gt;
+&lt;li&gt;互惠知识共享关系对创业成功的影响;&lt;/li&gt;
+&lt;li&gt;跨地理区域和年龄段的自适应和优化的COVID-19疫苗接种策略;&lt;/li&gt;
+&lt;li&gt;具有非对称认知偏差的舆论演化动力学;&lt;/li&gt;
+&lt;li&gt;Twitter上有毒对话的结构;&lt;/li&gt;
+&lt;li&gt;HIN-RNN：无手工特征的欺诈群检测的图表示学习神经网络;&lt;/li&gt;
+&lt;li&gt;二元决策动力学中的相变和级联崩溃;&lt;/li&gt;
+&lt;li&gt;COVID-19传输的数学模型;&lt;/li&gt;
+&lt;li&gt;基于保守网络的有影响力股票动态分析;&lt;/li&gt;
+&lt;li&gt;具有三元闭合的配置模型;&lt;/li&gt;
+&lt;li&gt;通过拓扑变换进行自监督图表示学习;&lt;/li&gt;
+&lt;li&gt;看看里面。通过分析企业内部网社会网络和使用单词共现网络来预测股票价格;&lt;/li&gt;
+&lt;li&gt;模糊数字路由选择信息可防止延迟引起的拥塞;&lt;/li&gt;
+&lt;li&gt;人群中COVID-19检测的统计模型：抽样偏差和检测误差的影响;&lt;/li&gt;
+&lt;li&gt;incel词典：解读全球女性厌恶社区的新兴密码;&lt;/li&gt;
+&lt;li&gt;大数据和大价值：公司需要重新思考的时候;&lt;/li&gt;
+&lt;li&gt;沟通效率导致词汇学习偏见的出现和下降;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要19篇(2021-05-25)</title>
