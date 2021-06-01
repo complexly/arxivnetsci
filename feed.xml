@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要18篇(2021-06-01)</title>
+      <link>https://www.complexly.cn/post/20210601/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210601/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;学习用于生成图建模的Graphon自动编码器;&lt;/li&gt;
+&lt;li&gt;具有不确定数据的网络上的流行病的双曲分隔模型：在意大利Covid-19的出现中的应用;&lt;/li&gt;
+&lt;li&gt;数据采集​​中的隐私悖论和最佳偏差-方差权衡;&lt;/li&gt;
+&lt;li&gt;哈希加速图神经网络的链路预测;&lt;/li&gt;
+&lt;li&gt;加权无向多层网络中的聚类系数;&lt;/li&gt;
+&lt;li&gt;GINA：来自独立快照的神经关系推断;&lt;/li&gt;
+&lt;li&gt;图相似性描述：这些图如何相似？;&lt;/li&gt;
+&lt;li&gt;难民动态安置;&lt;/li&gt;
+&lt;li&gt;稀疏图的样本Frechet平均值是稀疏的;&lt;/li&gt;
+&lt;li&gt;与期限相关的优先级排队模型的数值研究;&lt;/li&gt;
+&lt;li&gt;重新审视长期科学影响;&lt;/li&gt;
+&lt;li&gt;基于SEIR模型的印度第二波COVID-19浪潮分析;&lt;/li&gt;
+&lt;li&gt;荷兰CoronaMelder App进行接触者追踪的流行病学模型;&lt;/li&gt;
+&lt;li&gt;基于交通和运输网络的印度传染病危害地图;&lt;/li&gt;
+&lt;li&gt;社会交往波动对流行病传播的影响;&lt;/li&gt;
+&lt;li&gt;通过新闻生态系统中的供求动态评估虚假信息;&lt;/li&gt;
+&lt;li&gt;COVID-19大流行期间人员流动性的优化策略：综述;&lt;/li&gt;
+&lt;li&gt;基于从查询到报价转换的报价建议与解释;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2021-05-31)</title>
