@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2021-06-02)</title>
+      <link>https://www.complexly.cn/post/20210602/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210602/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;推断标签网络中的社区特征;&lt;/li&gt;
+&lt;li&gt;x指数：一种新的基于引文距离的指数，用于衡量学术影响力;&lt;/li&gt;
+&lt;li&gt;双语者在贝叶斯命名博弈中的作用;&lt;/li&gt;
+&lt;li&gt;社会保障福利的最佳索取;&lt;/li&gt;
+&lt;li&gt;Parlermonium：Parler平台的数据驱动UX设计评估;&lt;/li&gt;
+&lt;li&gt;具有规定度序列的单纯复形的构造;&lt;/li&gt;
+&lt;li&gt;主体心理模型和贝叶斯规则作为创建意见动态模型的工具;&lt;/li&gt;
+&lt;li&gt;周末宵禁对流行病的影响：蒙特卡罗模拟;&lt;/li&gt;
+&lt;li&gt;使用由GPS数据构建的时间网络优化旅行路线;&lt;/li&gt;
+&lt;li&gt;网络中的动态扰动传播;&lt;/li&gt;
+&lt;li&gt;CoRank：一种用于提取摘要的聚类和图排序方法;&lt;/li&gt;
+&lt;li&gt;绘制NFT革命：市场趋势、交易网络和视觉特征;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2021-06-01)</title>
