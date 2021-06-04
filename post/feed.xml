@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2021-06-04)</title>
+      <link>https://www.complexly.cn/post/20210604/</link>
+      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210604/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;大型动态图上的子集节点表示学习;&lt;/li&gt;
+&lt;li&gt;使用聚合扩散机制在动态图上学习表示;&lt;/li&gt;
+&lt;li&gt;熵测度揭示了世界贸易网络中的国家竞争力和产品专业化;&lt;/li&gt;
+&lt;li&gt;揭开面纱：支持社交平台信息素养的设计;&lt;/li&gt;
+&lt;li&gt;人们对自动驾驶汽车和公交一体化的态度：小城市地区的案例研究;&lt;/li&gt;
+&lt;li&gt;人工智能科学生态系统中的性别特定模式;&lt;/li&gt;
+&lt;li&gt;在 Twitter 上量化围绕心理健康的语言变化;&lt;/li&gt;
+&lt;li&gt;企业核心价值观和社会责任：对谁真正重要;&lt;/li&gt;
+&lt;li&gt;EmoDNN：通过深度神经网络集成理解短文本中的情感;&lt;/li&gt;
+&lt;li&gt;在社会网络中建模影响者营销活动;&lt;/li&gt;
+&lt;li&gt;非晶格May&amp;ndash;Leonard模型中的环境驱动振荡;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2021-06-03)</title>
