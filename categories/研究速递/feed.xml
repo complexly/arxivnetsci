@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2021-06-09)</title>
+      <link>https://www.complexly.cn/post/20210609/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210609/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;新闻消费和社交媒体监管政策;&lt;/li&gt;
+&lt;li&gt;测量碳足迹的非平衡热力学：分解投入产出核算中的结构和人工因素;&lt;/li&gt;
+&lt;li&gt;创新生命周期中的城市等级和空间扩散;&lt;/li&gt;
+&lt;li&gt;Graph-MLP：在图中没有消息传递的节点分类;&lt;/li&gt;
+&lt;li&gt;NLP 分析的见解：社交媒体上的 COVID-19 疫苗情绪;&lt;/li&gt;
+&lt;li&gt;具有社区结构的网络回归模型的推理;&lt;/li&gt;
+&lt;li&gt;具有结构谱特征和神经网络的原理性超边预测;&lt;/li&gt;
+&lt;li&gt;Deffuant 模型对测量误差的敏感性;&lt;/li&gt;
+&lt;li&gt;空间种群中双人与多人社交博弈的合作与竞争;&lt;/li&gt;
+&lt;li&gt;基于深度神经网络的孟加拉语社交媒体评论的网络欺凌检测;&lt;/li&gt;
+&lt;li&gt;为多样性视角设计有毒成分分类;&lt;/li&gt;
+&lt;li&gt;使用图卷积网络识别关联的欺诈活动;&lt;/li&gt;
+&lt;li&gt;使用社交媒体监测 COVID-19 大流行：北卡罗来纳州的 Reddit 研究;&lt;/li&gt;
+&lt;li&gt;足球热图：事件与跟踪数据集;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2021-06-08)</title>
