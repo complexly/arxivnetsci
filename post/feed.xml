@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2021-06-15)</title>
+      <link>https://www.complexly.cn/post/20210615/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210615/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过局部混合模式改进图的同配性来打破图神经网络的限制;&lt;/li&gt;
+&lt;li&gt;在社交媒体中检测COVID-19健康相关错误信息的案例研究;&lt;/li&gt;
+&lt;li&gt;外生和内生价格上涨属于不同的动态类别;&lt;/li&gt;
+&lt;li&gt;多层网络中的最优传输;&lt;/li&gt;
+&lt;li&gt;复杂共生网络中的稳定性和选择性灭绝;&lt;/li&gt;
+&lt;li&gt;使用不确定的多尺度动力学传输方程分析意大利爆发 COVID-19 的空间传播;&lt;/li&gt;
+&lt;li&gt;单纯复形上的信号处理;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2021-06-14)</title>
