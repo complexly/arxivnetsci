@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2021-06-16)</title>
+      <link>https://www.complexly.cn/post/20210616/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210616/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;不确定图挖掘与分析综述;&lt;/li&gt;
+&lt;li&gt;评估财务状况对流动性习惯的影响;&lt;/li&gt;
+&lt;li&gt;一种用于建模和估计 Covid-19 传播的随机元种群状态空间方法;&lt;/li&gt;
+&lt;li&gt;随机图中几何诱导的拓扑相变;&lt;/li&gt;
+&lt;li&gt;完整的比特币区块链数据变得容易;&lt;/li&gt;
+&lt;li&gt;使用node2vec移动性的元种群网络的流行动态;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2021-06-15)</title>
