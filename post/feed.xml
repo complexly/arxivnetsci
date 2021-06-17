@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2021-06-17)</title>
+      <link>https://www.complexly.cn/post/20210617/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210617/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;区块链共识的随机建模;&lt;/li&gt;
+&lt;li&gt;基于半监督分类的图卷积网络的数据增强;&lt;/li&gt;
+&lt;li&gt;用于脑网络可解释分类的反事实图;&lt;/li&gt;
+&lt;li&gt;复杂层次网络系统的信息与评价模型;&lt;/li&gt;
+&lt;li&gt;揭示社区规模人类活动特征对洪水影响快速评估的时间重要性;&lt;/li&gt;
+&lt;li&gt;COVID-19 疫苗：在 Twitter 上描述错误信息宣传活动和疫苗犹豫;&lt;/li&gt;
+&lt;li&gt;COVID-19类型流行病管理测试中的质量-数量权衡;&lt;/li&gt;
+&lt;li&gt;Youtube 上的信息流行病：COVID-19 上内容和回声室的可靠性;&lt;/li&gt;
+&lt;li&gt;多模态推文情绪分析方法的公平和全面比较;&lt;/li&gt;
+&lt;li&gt;空间天气导致的关键国家基础设施故障的经济影响;&lt;/li&gt;
+&lt;li&gt;社会压力推动了 COVID-19 爆发的多波动态;&lt;/li&gt;
+&lt;li&gt;流行病中的群体行为：一种动态耦合的演化博弈方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2021-06-16)</title>
