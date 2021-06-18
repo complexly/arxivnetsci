@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 17 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2021-06-18)</title>
+      <link>https://www.complexly.cn/post/20210618/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210618/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;训练1000层的图神经网络;&lt;/li&gt;
+&lt;li&gt;CoANE：为属性网络嵌入建模上下文共现;&lt;/li&gt;
+&lt;li&gt;DeepInsight：可解释性辅助检测图上的对抗样本;&lt;/li&gt;
+&lt;li&gt;假新闻的流行和传播;&lt;/li&gt;
+&lt;li&gt;无向网络的吸引-排斥分解;&lt;/li&gt;
+&lt;li&gt;完整和部分网络数据的谱拟合优度测试;&lt;/li&gt;
+&lt;li&gt;网络科学、同质性和Linux内核中的评审关系;&lt;/li&gt;
+&lt;li&gt;从社交媒体中提取真实的社交互动：墨西哥 COVID-19 政策辩论;&lt;/li&gt;
+&lt;li&gt;日本 COVID-19 有争议的子主题回顾性分析;&lt;/li&gt;
+&lt;li&gt;使用二氧化碳测量值对室内外 SARS-CoV-2 长距离和短距离空气传播的风险评估;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2021-06-17)</title>
