@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2021-06-23)</title>
+      <link>https://www.complexly.cn/post/20210623/</link>
+      <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210623/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;道德和其他相关主体的博弈论模型（扩展摘要）;&lt;/li&gt;
+&lt;li&gt;关于集体记忆出现的推理;&lt;/li&gt;
+&lt;li&gt;混合动力和群体不平衡导致面对面互动中的程度不平等;&lt;/li&gt;
+&lt;li&gt;细粒度到粗粒度错误信息的分类：对 COVID-19 信息流行病的实证研究;&lt;/li&gt;
+&lt;li&gt;一种评估 COVID-19 疫苗犹豫影响的行为建模方法;&lt;/li&gt;
+&lt;li&gt;使用用户档案和发布模式跨社交网站识别用户;&lt;/li&gt;
+&lt;li&gt;HDMI：高阶深度多路Infomax;&lt;/li&gt;
+&lt;li&gt;NetFense：针对图数据的神经网络隐私攻击的对抗性防御;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要20篇(2021-06-22)</title>
