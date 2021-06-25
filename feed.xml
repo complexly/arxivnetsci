@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2021-06-25)</title>
+      <link>https://www.complexly.cn/post/20210625/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210625/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多层网络中的图元;&lt;/li&gt;
+&lt;li&gt;Fea2Fea：通过图神经网络探索结构特征相关性;&lt;/li&gt;
+&lt;li&gt;TwiBot-20：全面的Twitter机器人检测基准;&lt;/li&gt;
+&lt;li&gt;SATAR：推特账号表征学习的自监督方法及其在机器人检测中的应用;&lt;/li&gt;
+&lt;li&gt;BotRGCN：使用关系图卷积网络进行Twitter机器人检测;&lt;/li&gt;
+&lt;li&gt;地理标记社交媒体上的实时时空事件检测;&lt;/li&gt;
+&lt;li&gt;非对称耦合优化互连共识系统;&lt;/li&gt;
+&lt;li&gt;玻尔兹曼的现实概念;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2021-06-24)</title>
