@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 25 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2021-06-28)</title>
+      <link>https://www.complexly.cn/post/20210628/</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210628/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于多层网络中社区检测的类Louvain方法;&lt;/li&gt;
+&lt;li&gt;基于边的随机块模型统计推断;&lt;/li&gt;
+&lt;li&gt;通过边概率顺序推理选择图模型;&lt;/li&gt;
+&lt;li&gt;图空间：同时使用几何和概率结构来评估统计图模型;&lt;/li&gt;
+&lt;li&gt;链接重叠影响多重网络上的意见动态：自旋模型方法;&lt;/li&gt;
+&lt;li&gt;通过网络拓扑暴露个体差异;&lt;/li&gt;
+&lt;li&gt;世界线和社会网络;&lt;/li&gt;
+&lt;li&gt;为什么事后同行评审鼓励高风险研究，而事前评审则不鼓励高风险研究;&lt;/li&gt;
+&lt;li&gt;科学影响的随机建模;&lt;/li&gt;
+&lt;li&gt;用于选择集生成和选择建模中备选方案的隐式感知的变分自编码器方法;&lt;/li&gt;
+&lt;li&gt;寻找星际文明对人类生存和旅行速度的先前估计的影响;&lt;/li&gt;
+&lt;li&gt;趋势、政治、情绪和错误信息：理解人们在 COVID-19 早期的反应;&lt;/li&gt;
+&lt;li&gt;人机协作推文的细粒度地理位置预测;&lt;/li&gt;
+&lt;li&gt;带有缺失邻居生成的子图联合学习;&lt;/li&gt;
+&lt;li&gt;通过蒙特卡罗马尔可夫链算法统一建模流行病耦合动力学;&lt;/li&gt;
+&lt;li&gt;具有环路的配水网络的增长模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2021-06-25)</title>
