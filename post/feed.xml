@@ -7,10 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要23篇(2021-06-30)</title>
+      <link>https://www.complexly.cn/post/20210630/</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210630/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;病毒变异的流行病学理论;&lt;/li&gt;
+&lt;li&gt;基于双向推测和双层关联的位置预测;&lt;/li&gt;
+&lt;li&gt;贪婪出版对学术界的干扰;&lt;/li&gt;
+&lt;li&gt;揭示通勤网络中的结构多样性：全局和局部熵;&lt;/li&gt;
+&lt;li&gt;按需拼车系统的规模分析以及与公共交通的比较;&lt;/li&gt;
+&lt;li&gt;科学的第三次转变：超越牛顿和量子力学——涌现的统计力学;&lt;/li&gt;
+&lt;li&gt;美国致命警察枪击案分析与预测;&lt;/li&gt;
+&lt;li&gt;细胞是行动者：使用经典机器学习进行 SOTA 组织学图像分类的社会网络分析;&lt;/li&gt;
+&lt;li&gt;用于基于行人尺度网络的城市分析的Python包cityseer;&lt;/li&gt;
+&lt;li&gt;估计订阅服务中内容发布的增量获取;&lt;/li&gt;
+&lt;li&gt;检测易手在线审查帐户;&lt;/li&gt;
+&lt;li&gt;COVID-19 推文的文本挖掘和情感分析;&lt;/li&gt;
+&lt;li&gt;解开城市数据特征：用于在行人尺度上检测城市原型的无监督机器学习方法;&lt;/li&gt;
+&lt;li&gt;通过将领域专业知识与机器学习方法相结合，在行人尺度上预测“人工”城市原型;&lt;/li&gt;
+&lt;li&gt;通过Mastodon的视角理解Fediverse的成长;&lt;/li&gt;
+&lt;li&gt;日常地理学的交叉方法;&lt;/li&gt;
+&lt;li&gt;GraphAnoGAN：从属性图中检测异常快照;&lt;/li&gt;
+&lt;li&gt;什么是意识？人工智能、真实智能、量子思维和品质;&lt;/li&gt;
+&lt;li&gt;评估能源系统分析的现状和未来挑战的专家调查;&lt;/li&gt;
+&lt;li&gt;反堕胎法令和出生分布扰动的时间滞后证据。本福德定律方法;&lt;/li&gt;
+&lt;li&gt;创新过程中的阻尼效应：来自 Twitter 的案例研究;&lt;/li&gt;
+&lt;li&gt;当标准网络指标无法对期刊进行排名时：理论和实证分析;&lt;/li&gt;
+&lt;li&gt;BOTTER：分析 Twitter 中社交机器人的框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要20篇(2021-06-29)</title>
