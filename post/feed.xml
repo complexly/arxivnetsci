@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 30 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2021-07-01)</title>
+      <link>https://www.complexly.cn/post/20210701/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210701/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于多数据类型文本分析的多层网络;&lt;/li&gt;
+&lt;li&gt;宏观经济新闻中的情绪及其对欧洲债券市场的影响;&lt;/li&gt;
+&lt;li&gt;链路预测的边提议集;&lt;/li&gt;
+&lt;li&gt;同质性如何塑造动态网络的拓扑结构？;&lt;/li&gt;
+&lt;li&gt;民粹主义的兴起与德国政治空间的重构;&lt;/li&gt;
+&lt;li&gt;从大流行中学习：HEP 及其他会议的未来;&lt;/li&gt;
+&lt;li&gt;跟车交通动态宏观极限的统计力学方法;&lt;/li&gt;
+&lt;li&gt;使用纵向旅行数据揭示个人移动模式的空间特性;&lt;/li&gt;
+&lt;li&gt;再感染和低交叉免疫是高血清阳性率下流行病死灰复燃的驱动因素：一种适用于巴西亚马逊的基于模型的方法;&lt;/li&gt;
+&lt;li&gt;论虚伪在逃避公地悲剧中的作用;&lt;/li&gt;
+&lt;li&gt;虚假信息对社交媒体上有争议的辩论的影响;&lt;/li&gt;
+&lt;li&gt;几何网络上流行病种子引起的切换现象;&lt;/li&gt;
+&lt;li&gt;当回声室破碎时：审查社区特定语言的使用后 Subreddit 禁令;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要23篇(2021-06-30)</title>
