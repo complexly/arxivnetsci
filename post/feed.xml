@@ -7,10 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要18篇(2021-07-06)</title>
+      <link>https://www.complexly.cn/post/20210706/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210706/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复杂系统中关键转变的预警信号;&lt;/li&gt;
+&lt;li&gt;成为更好的自己：研究方向的变化与科学绩效变化的相关性;&lt;/li&gt;
+&lt;li&gt;DiSH-trend：考虑趋势影响的干预建模模拟器;&lt;/li&gt;
+&lt;li&gt;孤独的人以特殊的方式处理世界;&lt;/li&gt;
+&lt;li&gt;量化主体对社交互动中接触序列的影响;&lt;/li&gt;
+&lt;li&gt;非属性图上的图神经网络的位置和结构节点特征;&lt;/li&gt;
+&lt;li&gt;含时网络中的有向渗流;&lt;/li&gt;
+&lt;li&gt;传播漏洞对拓扑复杂度的隐性依赖;&lt;/li&gt;
+&lt;li&gt;疾病传播与竞争意见协同演化的多层网络模型;&lt;/li&gt;
+&lt;li&gt;高维数据可视化近期趋势分析调查;&lt;/li&gt;
+&lt;li&gt;按影响力对在线社交用户进行排名;&lt;/li&gt;
+&lt;li&gt;用于链路预测的概率网络嵌入的对抗性鲁棒性;&lt;/li&gt;
+&lt;li&gt;分块和编码：学习如何压缩图;&lt;/li&gt;
+&lt;li&gt;基于模板的图聚类;&lt;/li&gt;
+&lt;li&gt;平均收益对合作演化的自组织影响;&lt;/li&gt;
+&lt;li&gt;在足球联赛中进行预测的基于物理的算法;&lt;/li&gt;
+&lt;li&gt;使用空间模型推断语言变化的驱动因素;&lt;/li&gt;
+&lt;li&gt;通过实证分析和非线性 Kesten 过程研究英国家庭财富;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2021-07-02)</title>
