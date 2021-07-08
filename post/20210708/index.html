@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://www.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要12篇(2021-07-08) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+认知传染：如何模拟（并可能反击）假新闻的传播;
+网络元分析和随机游走;
+从零到英雄：面向人群的协作式市场感知推荐系统;
+有向网络拉普拉斯算子和随机图模型;
+开源软件的地理分布：来自 GitHub 的证据;
+其他项作为图很重要：在可解释的基于图的推荐中利用各种意见和评级;
+通过针对严重污染者改善车辆减排政策;
+生态系统显示出恢复力丧失的症状;
+社交媒体上的气候变化阴谋论;
+预测网络上早期流行病传播的多样性;
+q-voter 模型中的不连续相变，在随机图上具有广义反一致性;
+攻击最短路径的最佳边权重扰动;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要12篇(2021-07-08) - 网络科学研究速递">
+<meta itemprop="description" content="
+认知传染：如何模拟（并可能反击）假新闻的传播;
+网络元分析和随机游走;
+从零到英雄：面向人群的协作式市场感知推荐系统;
+有向网络拉普拉斯算子和随机图模型;
+开源软件的地理分布：来自 GitHub 的证据;
+其他项作为图很重要：在可解释的基于图的推荐中利用各种意见和评级;
+通过针对严重污染者改善车辆减排政策;
+生态系统显示出恢复力丧失的症状;
+社交媒体上的气候变化阴谋论;
+预测网络上早期流行病传播的多样性;
+q-voter 模型中的不连续相变，在随机图上具有广义反一致性;
+攻击最短路径的最佳边权重扰动;
+
+
+">
+<meta itemprop="image" content="https://www.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要12篇(2021-07-08) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.complexly.cn/post/20210708/" />
+<meta property="og:image" content="https://www.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+认知传染：如何模拟（并可能反击）假新闻的传播;
+网络元分析和随机游走;
+从零到英雄：面向人群的协作式市场感知推荐系统;
+有向网络拉普拉斯算子和随机图模型;
+开源软件的地理分布：来自 GitHub 的证据;
+其他项作为图很重要：在可解释的基于图的推荐中利用各种意见和评级;
+通过针对严重污染者改善车辆减排政策;
+生态系统显示出恢复力丧失的症状;
+社交媒体上的气候变化阴谋论;
+预测网络上早期流行病传播的多样性;
+q-voter 模型中的不连续相变，在随机图上具有广义反一致性;
+攻击最短路径的最佳边权重扰动;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://www.complexly.cn/post/20210708/">
+  <link rel='shortlink' href="https://www.complexly.cn/post/20210708/"/>
+  <link rel="shortcut icon" href="https://www.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="assets/js/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://www.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/post/">历史文章</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://www.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要12篇(2021-07-08)</h1>
+
+                  <p class="post-byline">
+                    2021年07月08日 · 4986 字 ·
+                    阅读时间约10分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>认知传染：如何模拟（并可能反击）假新闻的传播;</li>
+<li>网络元分析和随机游走;</li>
+<li>从零到英雄：面向人群的协作式市场感知推荐系统;</li>
+<li>有向网络拉普拉斯算子和随机图模型;</li>
+<li>开源软件的地理分布：来自 GitHub 的证据;</li>
+<li>其他项作为图很重要：在可解释的基于图的推荐中利用各种意见和评级;</li>
+<li>通过针对严重污染者改善车辆减排政策;</li>
+<li>生态系统显示出恢复力丧失的症状;</li>
+<li>社交媒体上的气候变化阴谋论;</li>
+<li>预测网络上早期流行病传播的多样性;</li>
+<li>q-voter 模型中的不连续相变，在随机图上具有广义反一致性;</li>
+<li>攻击最短路径的最佳边权重扰动;</li>
+</ul>
+
+<p></p>
+
+<h3 id="认知传染-如何模拟-并可能反击-假新闻的传播">认知传染：如何模拟（并可能反击）假新闻的传播</h3>
+
+<p>原文标题： Cognitive Contagion: How to model (and potentially counter) the spread of fake news</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2107.02828">http://arxiv.org/abs/2107.02828</a></p>
+
+<p>作者： Nicholas Rabb, Lenore Cowen, Jan P. de Ruiter, Matthias Scheutz</p>
+
+<p>摘要： 理解错误或危险的信念——所谓的错误/虚假信息——在人群中的传播对许多人来说从未如此紧迫。网络科学研究人员经常从流行病学家那里学习，并将错误信念的传播建模为类似于疾病如何通过社会网络传播。然而，这些受疾病启发的模型中缺少个人当前信念集的内部模型，其中认知科学越来越多地记录了心智模型与传入信息之间的相互作用如何对其采用或拒绝至关重要。我们引入了一种认知传染模型，该模型将网络科学方法与个体主体的内部认知模型相结合，影响他们的信念和传递的内容。我们表明，即使使用非常离散和简单的信念函数来捕捉认知失调，该模型也增加了对现有基于疾病的传染模型的表达能力，并定性地展示了个体层面上适当的信念更新现象。此外，我们将我们的认知传染模型置于一个更大的舆论传播模型中，该模型试图捕捉机构或媒体来源在信仰传播中的作用——这是经常被遗漏的东西。我们使用我们简单的认知失调敏感更新功能对 POD 模型进行分析，这些更新功能跨各种图拓扑和机构消息传递模式。我们证明，该模型的人口级别汇总结果与 COVID 错误信息民意调查中报告的内容定性匹配。整体模型建立了一个初步框架，社会科学错误信息研究人员和计算意见扩散建模人员可以通过该框架联合起来理解并希望学习如何最好地应对错误信息和“替代事实”的传播。</p>
+
+<h3 id="网络元分析和随机游走">网络元分析和随机游走</h3>
+
+<p>原文标题： Network meta-analysis and random walks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2107.02886">http://arxiv.org/abs/2107.02886</a></p>
+
+<p>作者： Annabel L. Davies, Theodoros Papakonstantinou, Adriani Nikolakopoulou, Gerta Rücker, Tobias Galla</p>
+
+<p>摘要： 网络荟萃分析 (NMA) 是临床研究中证据合成的核心工具。 NMA 的结果在很大程度上取决于汇集的证据质量。因此，在评估 NMA 的有效性时，理解每个直接处理比较对每个网络处理效果的贡献比例非常重要。比例贡献的构建基于以下观察：帽子矩阵的每一行都代表每个处理比较的所谓“证据流网络”。然而，根据路径的选择，用于计算这些值的现有算法与歧义相关联。在这项工作中，我们提出了 NMA 和随机游走之间的新颖类比。我们使用这个类比来推导出比例贡献的封闭式表达式。图上的随机游走是一个随机过程，它描述了由边连接的顶点之间的一系列随机“跳跃”。边的权重与步行者沿该边移动的概率有关。我们使用 NMA 的图表示来构建证据网络上随机游走的转移矩阵。我们表明，步行者穿过网络每条边的净次数与证据流网络有关。然后通过在有向证据流网络上定义随机游走，我们分析得出比例贡献矩阵。随机游走方法除了计算效率更高之外，没有现有算法的相关歧义。</p>
+
+<h3 id="从零到英雄-面向人群的协作式市场感知推荐系统">从零到英雄：面向人群的协作式市场感知推荐系统</h3>
+
+<p>原文标题： From Zero to The Hero: A Collaborative Market Aware Recommendation System for Crowd Workers</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2107.02890">http://arxiv.org/abs/2107.02890</a></p>
+
+<p>作者： Hamid Shamszare, Razieh Saremi, Sanam Jena</p>
+
+<p>摘要： 软件众包的成功取决于活跃且值得信赖的工人供应池。人群工作人员行为的不确定性使得预测工作人员的成功和相应的计划变得具有挑战性。在竞争激烈的众包市场中，对共享任务的成功竞争为众包工作者的决策过程增加了另一层不确定性。对软件工作者行为的初步分析显示，82.9% 的任务丢弃率令人震惊。这些因素导致需要为 CSD 工作人员提供自动推荐系统，以提高他们在竞争中取得成功的可见性和可预测性。为此，本文为众包工作者提出了一个协作推荐系统。所提出的推荐系统方法使用五个输入指标，这些指标基于池中工作人员的协作历史、工作人员在金钱奖励和持续时间方面的任务偏好、工作人员的专业和工作人员的熟练程度。然后，所提出的方法根据工人在任务中成功的概率为工人推荐最适合的任务。对 260 名活跃人群的实验结果表明，只需按照任务推荐的前三名成功概率，工作人员就可以获得高达 86% 的成功率</p>
+
+<h3 id="有向网络拉普拉斯算子和随机图模型">有向网络拉普拉斯算子和随机图模型</h3>
+
+<p>原文标题： Directed Network Laplacians and Random Graph Models</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2107.03026">http://arxiv.org/abs/2107.03026</a></p>
+
+<p>作者： Xue Gong, Desmond John Higham, Konstantinos Zygalakis</p>
+
+<p>摘要： 我们考虑揭示有向网络中隐藏结构的谱方法。我们开发了一个通用框架，允许我们将基于优化公式的方法与随机图上的最大似然问题相关联。我们专注于两种现有的谱方法，它们通过最小化挫折和营养不连贯来构建和分析拉普拉斯式矩阵。这些算法旨在分别揭示有向周期性和线性层次结构。我们表明，使用这两种算法重新排序节点，或将它们映射到指定的格子上，与新的有向随机图模型类别相关联。使用这种随机图设置，我们能够在给定的网络上比较两种算法并量化哪个结构更可能存在。我们说明了合成网络和真实网络的方法，并讨论了实际的实现问题。</p>
+
+<h3 id="开源软件的地理分布-来自-github-的证据">开源软件的地理分布：来自 GitHub 的证据</h3>
+
+<p>原文标题： The Geography of Open Source Software: Evidence from GitHub</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2107.03200">http://arxiv.org/abs/2107.03200</a></p>
+
+<p>作者： Johannes Wachs, Mariusz Nitecki, William Schueller, Axel Polleres</p>
+
+<p>摘要： 开源软件在数字经济中扮演着重要的角色。然而，尽管软件生产适合远程协作并且其最终产品很容易跨距离共享，但软件开发似乎在地理上聚集在硅谷、伦敦或柏林等地。虽然最近的工作表明开源软件生产的积极影响通过知识溢出和信息效应在本地产生，但关于活跃开源开发人员地理分布的最新数据仍然有限。在这里，我们分析了 2021 年初 GitHub 超过 50 万活跃贡献者在不同空间尺度上的地理分布。将我们的数据与 2010 年之前的结果进行比较，我们发现亚洲、拉丁美洲和东欧的开发人员的相对份额显著增加，表明全球 OSS 开发人员的分布更加均匀。然而，在国家内部，我们发现区域集中度很高，在一定程度上超过了高科技领域工人的集中度。我们使用多元回归框架将 OSS 活动与两个尺度上的许多社会和技术指标联系起来。尽管 OSS 作为一种分布式协作工作模式具有潜力，但数据表明 OSS 活动仍然高度本地化。</p>
+
+<h3 id="其他项作为图很重要-在可解释的基于图的推荐中利用各种意见和评级">其他项作为图很重要：在可解释的基于图的推荐中利用各种意见和评级</h3>
+
+<p>原文标题： Graphing else matters: exploiting aspect opinions and ratings in explainable graph-based recommendations</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2107.03226">http://arxiv.org/abs/2107.03226</a></p>
+
+<p>作者： Iván Cantador, Andrés Carvallo, Fernando Diez, Denis Parra</p>
+
+<p>摘要： 神经网络嵌入的成功使人们重新对将知识图用于各种机器学习和信息检索任务产生了兴趣。特别是，当前基于图嵌入的推荐方法已显示出最先进的性能。这些方法通常对潜在评级模式和内容特征进行编码。与之前的工作不同，在本文中，我们建议利用从图表中提取的嵌入，这些嵌入结合了文本评论中表达的评级和基于方面的意见的信息。然后，我们在六个域的 Amazon 和 Yelp 评论生成的图上调整和评估最先进的图嵌入技术，其性能优于基准推荐。我们的方法具有提供解释的优势，这些解释利用了用户对推荐项目给出的基于方面的意见。此外，我们还提供了使用方面意见作为可视化仪表板中解释的建议适用性的示例，这允许获取有关从输入图的嵌入中获得的相似用户的最喜欢和最不喜欢的方面的信息。</p>
+
+<h3 id="通过针对严重污染者改善车辆减排政策">通过针对严重污染者改善车辆减排政策</h3>
+
+<p>原文标题： Improving vehicles&rsquo; emissions reduction policies by targeting gross polluters</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2107.03282">http://arxiv.org/abs/2107.03282</a></p>
+
+<p>作者： Matteo Böhm, Mirco Nanni, Luca Pappalardo</p>
+
+<p>摘要： 车辆排放在城市空气污染中占很大比例，对环境和人类健康产生重大影响。传统的排放估算方法使用遥感站、缺失车辆的完整行驶周期或集中在少数车辆上。本研究使用 GPS 轨迹和微观模型来分析欧洲三个城市数千辆汽车的四种空气污染物排放情况。我们发现存在严重污染者、排放量最大的车辆和排放量最大的严重污染道路。我们的模拟表明，针对严重污染者的减排政策比基于不知情选择车辆的限制流通的政策更有效。我们的研究适用于任何城市，并可能有助于形成关于如何使用数字数据测量排放的讨论。</p>
+
+<h3 id="生态系统显示出恢复力丧失的症状">生态系统显示出恢复力丧失的症状</h3>
+
+<p>原文标题： Ecosystems are showing symptoms of resilience loss</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2107.03307">http://arxiv.org/abs/2107.03307</a></p>
+
+<p>作者： Juan C. Rocha</p>
+
+<p>摘要： 由于不断增加的人为压力和气候变化，世界各地的生态系统都面临着重大转变的风险。然而，目前还不清楚哪里风险更高，或者世界上哪里的生态系统更脆弱。在这里，我衡量了全球海洋和陆地生态系统初级生产力指标的恢复力。多达 29% 的全球陆地生态系统和 24% 的海洋生态系统显示出恢复力丧失的症状。这些症状出现在所有生物群落中，但受大型北极苔原和北方森林以及印度洋和东太平洋的影响最大。尽管结果可能被低估，但它们能够识别风险区域以及某些转变的潜在同步性。绘制生态系统可能经历关键转变或长期瞬变的区域的地图可以帮助优先考虑管理干预和保护的区域。这些结果为建立生态复原力观测站铺平了道路。</p>
+
+<h3 id="社交媒体上的气候变化阴谋论">社交媒体上的气候变化阴谋论</h3>
+
+<p>原文标题： Climate Change Conspiracy Theories on Social Media</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2107.03318">http://arxiv.org/abs/2107.03318</a></p>
+
+<p>作者： Aman Tyagi, Kathleen M. Carley</p>
+
+<p>摘要： 气候变化传播中新出现的关键挑战之一是阴谋论的盛行。本文讨论了在大型 Twitter 语料库中发现的一些与气候变化相关的主要阴谋论。我们使用最先进的立场检测方法来确定阴谋论在气候变化的不信者还是信徒中更受欢迎。然后我们分析哪种阴谋论比其他阴谋论更受欢迎，以及受欢迎程度如何随气候变化信念而变化。我们发现气候变化的不信者对分享与阴谋论相关的关键词的信息负有压倒性的责任，而且并非所有的阴谋论都被平等地分享。最后，我们讨论了我们的发现对气候变化交流的影响。</p>
+
+<h3 id="预测网络上早期流行病传播的多样性">预测网络上早期流行病传播的多样性</h3>
+
+<p>原文标题： Predicting the diversity of early epidemic spread on networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2107.03334">http://arxiv.org/abs/2107.03334</a></p>
+
+<p>作者： Andrea J. Allen, Mariah C. Boudreau, Nicholas J. Roberts, Antoine Allard, Laurent Hébert-Dufresne</p>
+
+<p>摘要： 流行病的过程表现出由病原体和种群特征决定的平均生长动态，但也具有反映疾病传播随机性的显著可变性。生物、社会、结构和随机因素的相互作用使疾病预测变得异常复杂。在这项工作中，我们根据概率生成函数重新构建随机分支过程分析，并将其与网络上的连续时间流行病模拟进行比较。在这样做时，我们预测了同构和异构网络上新兴流行病课程的多样性。我们展示了推断流行病早期过程的挑战如何更多地取决于疾病传播的随机性，而不是接触模式的异质性。我们提供的分析有助于实时量化流行病变得超临界或相反地随机死亡的概率。如果基本繁殖数或 R0 大于 1，则通常假设这些概率分别为 1 和 0，忽略疾病传播固有的异质性和随机性。该框架可以通过对标准确定性模型进行加权，从而更深入地理解早期流行病传播，该模型有可能通过概率预测为大流行准备提供信息。</p>
+
+<h3 id="q-voter-模型中的不连续相变-在随机图上具有广义反一致性">q-voter 模型中的不连续相变，在随机图上具有广义反一致性</h3>
+
+<p>原文标题： Discontinuous phase transitions in the q-voter model with generalized anticonformity on random graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2107.03338">http://arxiv.org/abs/2107.03338</a></p>
+
+<p>作者： Angelika Abramiuk-Szurlej, Arkadiusz Lipiecki, Jakub Pawłowski, Katarzyna Sznajd-Weron</p>
+
+<p>摘要： 我们研究了在随机 ErdHos-R&rsquo;enyi 图上具有广义反一致性的二元 q-voter 模型。在这样的模型中，两种类型的社会反应，从众和反从众，以互补的概率发生，并且在从众的情况下，影响源的大小 q_c 独立于在以下情况下的影响源的大小 q_a反规范。对于 q_c=q_a=q，模型简化为具有反一致性的原始 q-voter 模型。以前，这种广义模型仅在完整图上进行研究，这对应于平均场方法。结果表明，它可以显示 q_c ge q_a + Delta q 的不连续相变，其中 Delta q=4 for q_a le 3 和 Delta q=3 for q_a &gt; 3 .在本文中，我们提出了一个问题，如果在社会网络中经验观察到的平均节点度为 langle krangle le 150 的随机图上不连续相变仍然存在。使用对近似以及蒙特卡洛模拟，我们表明即使对于相对较小的 langle krangle 值，不连续相变确实可以继续存在。此外，我们表明对于 q_a &lt; q_c - 1 对近似结果与蒙特卡罗结果重叠。另一方面，对于 q_a ge q_c - 1 对近似给出了定性错误的结果，表明在模拟和平均场方法中都没有观察到不连续的相变。最后，我们报告了一个有趣的结果，表明在对近似和平均场方法中获得的临界点之间的差异遵循关于 lange krangle 的幂律，只要对近似正确地表明相变的类型。</p>
+
+<h3 id="攻击最短路径的最佳边权重扰动">攻击最短路径的最佳边权重扰动</h3>
+
+<p>原文标题： Optimal Edge Weight Perturbations to Attack Shortest Paths</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2107.03347">http://arxiv.org/abs/2107.03347</a></p>
+
+<p>作者： Benjamin A. Miller, Zohair Shafi, Wheeler Ruml, Yevgeniy Vorobeychik, Tina Eliassi-Rad, Scott Alfeld</p>
+
+<p>摘要： 在给定的网络（例如，计算机网络或道路网络）中寻找最短路径是一项经过充分研究的任务，有许多应用程序。我们在对手存在的情况下考虑这项任务，对手可以通过扰动网络的边权重来操纵网络以获得优于其他人的优势。具体来说，我们介绍力路径问题如下。给定一个网络，对手的目标是通过向网络中的边添加权重来使特定路径最短。这个问题的对手可以切割边的版本是 NP 完全的。然而，我们表明力路径可以在多项式时间内在任意数值精度内求解。我们提出了 PATHPERTURB 算法，该算法使用约束生成来构建一组约束，这些约束要求对手目标以外的路径足够长。在一组高度多样化的合成和真实网络中，我们表明与贪婪基线方法相比，最佳解决方案通常将所需的扰动预算减少了大约一半。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://www.complexly.cn">https://www.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="http://www.complexly.cn/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://www.complexly.cn/post/20210708/">https://www.complexly.cn/post/20210708/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://www.complexly.cn/post/20210707/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要12篇(2021-07-07)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
