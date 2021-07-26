@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 23 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2021-07-26)</title>
+      <link>https://www.complexly.cn/post/20210726/</link>
+      <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210726/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;CogDL：图深度学习工具包;&lt;/li&gt;
+&lt;li&gt;SNAC：一种评估拓扑识别网络对齐能力的无偏度量;&lt;/li&gt;
+&lt;li&gt;Structack：对图神经网络的基于结构的对抗性攻击;&lt;/li&gt;
+&lt;li&gt;网络SIR疾病模型上临时链接停用的流行病状况;&lt;/li&gt;
+&lt;li&gt;呼吁建立一个报告地球以外生命证据的框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2021-07-23)</title>
