@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2021-08-11)</title>
+      <link>https://www.complexly.cn/post/20210811/</link>
+      <pubDate>Wed, 11 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.complexly.cn/post/20210811/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;随机几何图的改进重建;&lt;/li&gt;
+&lt;li&gt;金融市场和水与蒸汽之间的相变;&lt;/li&gt;
+&lt;li&gt;人们为什么参与小型在线社区？;&lt;/li&gt;
+&lt;li&gt;知识增强型多模态假新闻检测;&lt;/li&gt;
+&lt;li&gt;寻找NeMo：使用网络模体在银行网络中钓鱼;&lt;/li&gt;
+&lt;li&gt;超图中的有效流行病遏制策略;&lt;/li&gt;
+&lt;li&gt;学习最大化影响力;&lt;/li&gt;
+&lt;li&gt;协同演化传播模型中协同和竞争病原体的出现;&lt;/li&gt;
+&lt;li&gt;COVID-19 疫苗和社交媒体：在 Twitter 上探索情绪和讨论;&lt;/li&gt;
+&lt;li&gt;COVID-19 大流行期间饮食习惯和自以为是的生活方式的影响：以工科学生为例;&lt;/li&gt;
+&lt;li&gt;使用 Hawkes 过程模拟 Twitter 活动的图方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要19篇(2021-08-10)</title>
