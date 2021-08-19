@@ -77,7 +77,7 @@ AI竞赛的安全性和监管建模;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -85,9 +85,9 @@ AI竞赛的安全性和监管建模;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -246,6 +246,8 @@ var _hmt = _hmt || [];
 
 <p>作者： James Meneghello, Nik Thompson, Kevin Lee, Kok Wai Wong, Bilal Abu-Salih</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1907.11934v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 社交媒体和用户生成内容的普及引发了全球数据量的指数增长。但是，由于收集和提取的挑战，许多提要，嵌入式评论，评论和推荐中的数据无法作为通用数据源访问。本文将知识管理框架作为知识管理和数据价值提取的范例。该框架体现了解决UGC作为分析应用程序丰富的实时数据源的潜力的解决方案。本文中描述的贡献有三个方面。首先，提出了一种自动导航分页系统以暴露UGC以进行收集的方法。这是使用与动态数据收集集成的浏览器仿真来评估的。其次，介绍了一种在没有任何先验知识的情况下收集社交数据的新方法。最后，开发了一个新的测试平台，以反映互联网网站的当前状态并公开分享，以鼓励未来的研究。讨论基于现有数据提取技术对新算法进行了基准测试，并提供了新算法可访问的UGC数据量增加的证据。</p>
 
 <h3 id="hood2vec-使用移动网络识别类似的城市区域">hood2vec：使用移动网络识别类似的城市区域</h3>
@@ -255,6 +257,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1907.11951">http://arxiv.org/abs/1907.11951</a></p>
 
 <p>作者： Xin Liu, Konstantinos Pelechrinis, Alexandros Labrinidis</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1907.11951v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 纽约哪个区域与下东区最相似？那洛杉矶的NoHo艺术区怎么样？传统上，该任务利用关于位于区域内的地点类型的信息和一些流行度/质量度量。我们采取不同的方法。特别是，城市居民的时变流动性反映了他们如何随着时间的推移与城市互动。因此，在本文中，我们引入了一种方法，即hood2vec，通过学习通过Foursquare签到捕获的移动网络的节点嵌入来识别城市区域之间的相似性。我们比较了从hood2vec获得的成对相似性与通过比较不同区域中的场地类型获得的相似性。两者之间的低相关性表明，移动性动态和场地类型可能捕捉到城市区域之间相似性的不同方面。</p>
 
@@ -266,6 +270,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Chengbin Hou, Han Zhang, Ke Tang, Shan He</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1907.11968v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 由于许多现实世界网络的时间演变性质，即随着时间的推移可以添加/移除节点/链路，因此最近在动态环境中学习网络的拓扑表示引起了相当大的关注。动态网络嵌入旨在通过使用动态网络的任何当前可用快照来学习看不见和看到的节点的低维嵌入。对于看到的节点，现有方法要么将它们视为同等重要，要么在每个时间步骤关注 k 受影响最大的节点。但是，前一种解决方案非常耗时，后一种依赖于传入更改的解决方案可能会失去全局拓扑 - 这是下游任务的一个重要特征。为了应对这些挑战，我们提出了一种名为DynWalks的动态网络嵌入方法，它包括两个关键组件：1）一个在线网络嵌入框架，可以根据所选节点动态有效地学习嵌入; 2）一种新颖的在线节点选择方案，提供灵活的选择以平衡全局拓扑和最近的变化，以及在需要时实现实时约束。六种真实动态网络在三种不同切片方式下的实证研究表明，DynWalks在图重建任务中明显优于最先进的方法，并在链路预测任务中获得可比较的结果。此外，挂钟时间和复杂性分析表明其出色的时间和空间效率。有关DynWalks的源代码，请访问<a href="https://github.com/houchengbin/DynWalks">https://github.com/houchengbin/DynWalks</a></p>
 
 <h3 id="融合位置和文本功能以进行情绪分类">融合位置和文本功能以进行情绪分类</h3>
@@ -275,6 +281,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1907.12008">http://arxiv.org/abs/1907.12008</a></p>
 
 <p>作者： Wei Lun Lim, Chiung Ching Ho, Choo-Yee Ting</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1907.12008v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 最近使用地理标记的Twitter数据来推断社交媒体的人性方面的见解。在最近的研究中，从地理标记的推特数据中挖掘出与人口统计学，文化活动的空间分布，人类的时空旅行轨迹以及幸福感相关的见解。到目前为止，关于推文的地理位置特征对其情绪的影响的研究还不多。这一观察激发了我们建议使用地理位置特征作为执行情感分类的方法。在该方法中，通过将地理位置特征和单热编码的单词向量连接作为卷积神经网络（CNN）和长短期存储器（LSTM）网络的输入来执行地理标记的推文的情感分类。以地理位置特征的形式添加与语言无关的特征有助于丰富推文表示以对抗短推文消息的稀疏性质。所获得的结果已经证明，与单独使用单词向量以用于情感分类相比，将地理位置特征连接到单热编码单词向量可以实现更高的准确度。</p>
 
@@ -286,6 +294,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Yong Wang, Daniel Archambault, Hammad Haleem, Torsten Moeller, Yanhong Wu, Huamin Qu</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1907.12015v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 由于其在时间维度上的便利性和一致性，已经使用了动态图的均匀时间分片。然而，统一的时间序列不会考虑数据集，这会产生具有边突发的杂乱时间片和具有很少交互的空时间片。图挖掘领域已经探索了非均匀的时间序列方法，专门用于保留挖掘任务的图特征。在本文中，我们提出了一种用于动态图可视化的非均匀时间分割方法。我们的目标是创建具有相同视觉复杂性的时标。为此，我们调整直方图均衡化以创建具有相似数量事件的时间片，平衡时间片的视觉复杂性并传达具有爆发边的时间片的更重要细节。与统一的时间序列相比，已经进行了一个案例研究，以证明我们的方法的有效性。</p>
 
 <h3 id="在安全开发中表征和理解软件开发者网络">在安全开发中表征和理解软件开发者网络</h3>
@@ -295,6 +305,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1907.12141">http://arxiv.org/abs/1907.12141</a></p>
 
 <p>作者： Song Wang, Nachi Nagappan</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1907.12141v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 为了构建安全的软件，开发人员经常在软件开发和维护期间一起工作，以查找，修复和防止安全漏洞。在安全性介绍和修复活动的安全活动中检查开发人员交互的性质可以提供改进当前实践的见解。在这项工作中，我们进行了一项大规模的实证研究，以描述和理解开发人员在安全引入和修复安全活动期间的相互作用，涉及超过16K安全修复提交和超过28K安全引入来自9个大规模开放的提交 - 源软件项目。对于我们的分析，我们首先在评估开发人员在其安全活动中的贡献时，首先检查项目是否是以英雄为中心的项目。然后，我们研究开发人员之间的交互模式，探索模式的分布如何随时间变化，并研究开发人员交互对项目质量的影响。此外，与非安全活动中的开发人员交互（即引入和修复非安全性错误）相比，我们还描述了安全活动中开发人员交互的本质。在我们的研究结果中，我们认为：大多数实验项目是在评估开发人员使用其安全活动时的贡献时，以非英雄为中心的项目;在我们的实验项目中存在着共同的主导互动模式;交互模式的分布与软件项目的质量有关。我们相信这项研究的结果可以帮助开发人员了解漏洞在软件开发人员的交互下如何引发和修复。</p>
 
@@ -306,6 +318,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Hans van Ditmarsch, Malvin Gattinger, Louwe B. Kuijer, Pere Pardo</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1907.12321v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 分布式动态流言是典型的经典电话问题的概括，其中主体通信以共享秘密，另外的转折也是电话号码被交换以确定谁可以呼叫谁。最近的工作集中于简单协议的成功条件，例如“学习新秘密”（LNS），其中如果a不知道b的秘密，主体a可能只调用另一个主体b。如果所有主体都知道所有秘密，则协议执行成功。在部分网络上，这些协议有时会失败，因为它们忽略了可用于更好协调的主体可用的信息。我们研究如何加强动态八卦的认知协议，使用认知逻辑作为一种简单的协议语言，并使用新的运算符来处理依赖于协议的知识。我们提供了不同强化的定义，并表明它们比LNS表现更好，但我们也证明LNS没有强化总是成功终止。总之，这使我们更好地了解了认知协调何时以及如何在特定的动态八卦问题和一般的分布式系统中提供帮助。</p>
 
 <h3 id="城市道路网的统计特征与社区分析">城市道路网的统计特征与社区分析</h3>
@@ -315,6 +329,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1907.12367">http://arxiv.org/abs/1907.12367</a></p>
 
 <p>作者： Wen-Long Shang, Huibo Bi, Yanyan Chen, Washington Ochieng</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1907.12367v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 城市道路网络是典型的复杂系统，对我们的社会和经济至关重要。在这项研究中，研究了许多基于纯物理道路而不是车辆或公共汽车路线的城市道路网络的拓扑特征，以发现潜在的独特结构特征，特别是与其他类型的交通网络相比。基于这些拓扑指数，还探讨了拓扑指数与城市道路网络小世界之间的相关性。这一发现表明，城市道路网络没有明显的小世界，这显然与其他交通网络不同。在此之后，进行城市道路网络的社区检测。结果表明，城市道路网络的社区和等级往往遵循一般性规则。</p>
 
@@ -326,6 +342,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Xin Lu, Shuo Qin, Petter Holme, Fanhui Meng, Yanqing Hu, Fredrik Liljeros, Gad Allon</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1907.12389v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 同伴影响和社会传染是信息传播的采用和参与的关键决定因素，例如新闻传播，口碑传播或病毒式营销。在这项研究中，我们认为它偏向于只关注信息传播的规模和覆盖范围，并提出通过再次暴露率量化的影响力强化水平，即反复暴露于其中的个体的比率。相同的信息，应该一起考虑衡量传播的有效性。我们表明，局部网络结构特征显著影响暴露或重新暴露于相同信息的可能性。在分析了新浪微博（中国推特）的超大规模在线网络上有4.3亿连接用户的趋势新闻后，我们发现一类用户曝光率极低，甚至跟随成千上万的用户;并且对于具有更多传输波和更强的二级转发的新闻，再曝光率显著更高。虽然曝光和再曝光率通常与扩散的范围一起增长，但我们发现可以在保持低再曝光率的同时实现高曝光率的特殊情况，反之亦然。</p>
 
 <h3 id="ai竞赛的安全性和监管建模">AI竞赛的安全性和监管建模</h3>
@@ -335,6 +353,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1907.12393">http://arxiv.org/abs/1907.12393</a></p>
 
 <p>作者： The Anh Han, Luis Moniz Pereira, Francisco C. Santos, Tom Lenaerts</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1907.12393v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 创新，创造力和竞争是推动人工智能（AI）发展的基本力量。这种技术霸权的竞争创造了一种复杂的选择生态，可能导致负面后果，特别是当道德和安全程序被低估甚至忽视时。在这里，我们采用一种新颖的博弈理论框架来描述正在进行的人工智能竞标战，还允许确定如何影响这种竞赛以达到理想结果的程序。通过探讨人工智能与演化系统之间正在进行的竞争之间的相似性，我们表明，可以实现人工智能优势的时间表对于安全倾向行为的演变以及是否需要影响程序起着至关重要的作用。当在短期内（近AI）实现这种至高无上的地位时，赢得比赛所获得的显著优势导致那些完全无视安全预防措施以获得额外速度的人的主导地位，从而使相互行为的存在变得无关紧要。另一方面，当这种至高无上是遥远的未来时，即使在监测不安全的发展很困难时，对他人的安全行为做出回应本身也是一种有效的解决方案。我们的结果表明，在什么条件下，AI安全行为需要额外的支持程序，并提供基本框架来对其进行建模</p>
 

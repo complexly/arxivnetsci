@@ -113,7 +113,7 @@ BLAG：大型动作集合图上的Bandit;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -121,9 +121,9 @@ BLAG：大型动作集合图上的Bandit;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -294,6 +294,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Palash Goyal, Sujit Rokka Chhetri, Arquimedes Canedo</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.02657v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 学习图表示是一项基本任务，旨在捕获向量空间中图的各种属性。最近的方法学习静态网络的这种表示。然而，现实世界网络随着时间的推移而发展并具有不同的动态。捕获这种演变是预测看不见的网络属性的关键。为了理解网络动态如何影响预测性能，我们提出了一种嵌入方法，它可以学习动态图中的演化结构，并能够以更高的精度预测看不见的链接。我们的模型dyngraph2vec使用由密集和重复层组成的深层架构来学习网络中的时间转换。我们激发了捕获动态的需求，以便对使用随机块模型创建的玩具数据集进行预测。然后，我们展示了dyngraph2vec对两个真实世界数据集上现有最先进方法的功效。我们观察到学习动力学可以提高嵌入质量并在链路预测中产生更好的性能。</p>
 
 <h3 id="自适应边特征引导的图注意网络">自适应边特征引导的图注意网络</h3>
@@ -303,6 +305,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1809.02709">http://arxiv.org/abs/1809.02709</a></p>
 
 <p>作者： Liyu Gong, Qiang Cheng</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.02709v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 边要素包含有关图的重要信息。然而，目前用于图学习的最先进的神经网络模型不考虑结合边特征，尤其是多维边特征。在本文中，我们提出了一种结合了节点特征和边特征的注意机制。在边特征的引导下，一对图节点上的注意机制不仅取决于节点内容，而且还相对于连接这两个节点的边的属性自动调整。此外，边特征由注意功能调整并馈送到下一层，这意味着我们的边特征在网络层之间是自适应的。因此，我们提出的自适应边特征引导图注意模型可以巩固当前最先进的图学习方法所不具备的丰富的图信息源。我们将所提出的模型应用于图节点分类，三个网络数据集和生物网络数据集的实验结果表明，out方法优于当前最先进的方法，证明了边特征的判别能力和有效性。我们的自适应边特征引导注意模型。额外的消融实验研究进一步表明，边特征和适应性组件都有助于我们的模型。</p>
 
@@ -314,6 +318,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Yucheng Lu, Xudong Wu, Jingfan Meng, Luoyi Fu, Xinbing Wang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.02711v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 社会网络中的信息传播促进了内容的快速和大规模传播。然而，自发扩散行为也可能导致敏感信息的级联，这在现有技术中被忽略。在本文中，我们首先介绍敏感信息的自适应扩散，我们的目的是防止广泛传播而不会导致大量信息丢失。我们在具有部分已知拓扑的网络中进行调查，这意味着某些用户转发信息的能力未知。将问题公式化为强盗模型，我们提出了BLAG（Bandit on Large Action set Graph），其自适应地将敏感信息传播给具有弱转发能力的用户，该用户从临时传输和相应的反馈中学习。 BLAG具有低复杂度的O（n），并且与先前的学习方法相比，在半后悔的意义上证明更有效。对合成和三个真实数据集的实验进一步证明了BLAG在多个基线的敏感信息的自适应扩散方面的优越性，信息损失至少减少40％，学习效率有限，学习效率至少提高10倍，并且显著推迟了级联敏感信息。</p>
 
 <h3 id="具有群体行为的订单簿模型展示了长程记忆">具有群体行为的订单簿模型展示了长程记忆</h3>
@@ -323,6 +329,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1809.02772">http://arxiv.org/abs/1809.02772</a></p>
 
 <p>作者： Aleksejus Kononovicius, Julius Ruseckas</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.02772v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在这项工作中，我们提出了一个具有羊群行为的订单簿模型。所提出的模型建立在两种不同的方法之上：最近对Kanazawa等人的详细订单记录的实证研究。 [物理学。莱特牧师。 120,138301]以及金融羊群行为模型。结合这些方法，我们可以创建一个更合理的金融市场模型，它也能够复制绝对回报和交易活动的长期记忆现象以及其他风格化的事实。我们将模型的统计特性与比特币汇率的经验统计特性以及纽约证券交易所代号进行比较。我们还表明，高频绝对返回时间序列的谱密度的破裂可能与向均衡价格收敛的机制有关。</p>
 
@@ -334,6 +342,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Mo&rsquo;ath Alrefai Hossam Faris, Ibrahim Aljarah</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.02782v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 随着Web 2.0技术的出现和在线社会网络的扩展，当前的互联网用户能够在社交媒体以及商业和新闻网站上添加他们的评论，评级和意见。情感分析旨在以自动方式对这些评论评论进行分类。在文献中，针对不同语言环境提出了许多用于自动情感分析的方法。每种语言都有自己的属性，使情绪分析更具挑战性。在这方面，这项工作提供了对现有阿拉伯语情绪分析研究的全面调查，并涵盖了文献中提出的各种方法和技术。此外，我们强调了阿拉伯语情感分析的主要困难和挑战，以及文献中提出的克服这些障碍的技术。</p>
 
 <h3 id="网络嵌入的快速梯度攻击">网络嵌入的快速梯度攻击</h3>
@@ -343,6 +353,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1809.02797">http://arxiv.org/abs/1809.02797</a></p>
 
 <p>作者： Jinyin Chen, Yangyang Wu, Xuanheng Xu, Yixian Chen, Haibin Zheng, Qi Xuan</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.02797v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 网络嵌入将网络映射到低维欧几里德空间，从而通过利用机器学习方法促进许多网络分析任务，例如节点分类，链路预测和社区检测等。在社会网络中，我们可能特别关注用户隐私，并且在某些情况下希望防止某些目标节点被这种网络分析方法识别。受到深度学习模型成功的对抗性攻击的启发，我们提出了一个基于图卷积网络（GCN）中的梯度信息生成对抗性网络的框架。特别地，我们基于对抗网络提取成对节点的梯度，并选择具有最大绝对梯度的节点对来实现快速梯度攻击（FGA）并更新对抗网络。该过程迭代地实现并终止，直到满足某些条件，即，修改的链路的数量达到某个预定值。在六种众所周知的网络嵌入方法上进行综合攻击，包括无限攻击，直接攻击和间接攻击。在现实世界网络上的实验表明，我们提出的FGA比一些基线方法表现更好，即，通过仅重新连接少量链路，使用FGA可以容易地干扰网络嵌入，从而实现最先进的攻击性能。</p>
 
@@ -354,6 +366,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Shi-Teng Zheng, Rui Jiang, Junfang Tian, Xiaopeng Li, Bin Jia, Ziyou Gaoa</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.02813v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 振荡的演变是交通流研究中非常重要的问题。最近在中国进行的汽车跟踪实验表明，速度标准偏差沿着一排车辆在道路上相互排列。这一发现表明传统的交通不稳定机制存在争议，其中速度标准偏差最初以凸面方式增长。本文研究了美国汽车跟车试验中交通振荡的增长模式，并与中国进行了比较。结果表明，速度标准偏差在两国呈现出普遍的凹凸增长特征。然而，加速度标准偏差的增长模式是显著不同的。这可能是因为美国司机比中国人更具攻击性，更紧密地追随彼此。结果，美国的速度振荡频率和加速度标准偏差大于中国。最后，我们测试了三种典型的随机智能驱动模型。结果表明，三种模型能够再现速度标准偏差的通用凹凸增长模式和加速度标准差的不同增长模式。</p>
 
 <h3 id="利用新闻提取和分析城市间的语义相关性">利用新闻提取和分析城市间的语义相关性</h3>
@@ -363,6 +377,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1809.02823">http://arxiv.org/abs/1809.02823</a></p>
 
 <p>作者： Yingjie Hu, Xinyue Ye, Shih-Lung Shaw</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.02823v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 新闻文章捕捉了有关我们社会的各种主题。它们不仅反映了我们物质世界中发生的社会经济活动，而且反映了仅存在于人们看法中的一些文化，人类利益和公众关注。新闻文章中经常提到城市，同一篇文章中可能会出现两个或两个以上的城市。这种共现经常暗示所提到的城市之间的某些相关性，并且取决于新闻文章的内容，相关性可能在不同的主题下。我们将不同主题下的相关性视为语义相关性。通过阅读新闻文章，人们可以掌握城市之间的一般语义相关性，然而，鉴于成千上万的新闻文章，任何人手动阅读它们都是非常困难的，如果不是不可能的话。本文提出了一种计算框架，可以“读取”大量新闻文章，并提取城市之间的语义相关性。该框架基于自然语言处理模型，并采用机器学习过程来识别新闻文章的主要主题。我们描述了该框架及其各个模块的整体结构，然后将其应用于一个实验数据集，其中包含超过500,000篇新闻文章，涵盖了跨越10年的美国前100个城市。我们在不同主题和多年内对提取的语义相关性进行探索性可视化。我们还分析了地理距离对语义相关性的影响，并发现了不同的距离衰减效应。拟议的框架可用于支持城市网络研究中的大规模内容分析。</p>
 
@@ -374,6 +390,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Shujun Li, Anthony T.S. Ho, Zichi Wang, Xinpeng Zhang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.02888v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 本文提出了一种新的信息隐藏的一般框架，其中隐藏的信息被嵌入到由选定的数字中选定的人和计算机实体（例如，一个或多个在线社会网络的多个在线账户）进行的活动的集合中。世界。与隐藏信息嵌入到一个或多个选定或生成的封面对象中的其他传统方案不同，在新框架中，隐藏信息嵌入在具有某些特定属性的某些特定数字活动以某些特定方式发生的事实中。接收器可观察的数字世界。在新的框架中，“封面”的概念几乎消失了，或者可以说现在选择的整个数字世界成为封面。新框架可以在安全性（例如，隐写术）和非安全性域（例如，博弈）中找到应用。对于安全应用，我们期望新框架需要全新的隐写分析技术，由于需要不断地实时监控和分析整个数字世界，这些技术可能比现有技术更复杂，效率更低，效率更低。基于Twitter活动开发了一个概念验证系统作为移动应用程序，以展示信息隐藏框架的工作原理。我们正在开发一个涉及多个在线社会网络的更混合系统。</p>
 
 <h3 id="建立研究支持和个人幸福感提升的社会网络">建立研究支持和个人幸福感提升的社会网络</h3>
@@ -383,6 +401,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1809.03020">http://arxiv.org/abs/1809.03020</a></p>
 
 <p>作者： Lucas V. A. Caldas, Antonio F. L. Jacob Jr., Simone S. C. Silva, Fernando A. R. Pontes, Fábio M. F. Lobato</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03020v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 沟通方式和社交互动正在发生变化。网络用户越来越多地参与在线社会网络（OSN），这对个人和社区之间的关系机制产生了重大影响。大多数OSN平台都有严格的数据访问政策，损害了它在心理和社会现象研究中的使用，它也影响了计算方法的发展，以评估和改善网络上的社会和个人福祉。为了填补这一空白，我们提出了一个平台，将社会网络动态与论坛特征结合在一起，与博弈化元素相结合，针对有兴趣获取用户数据以研究心理和社会现象的研究人员。</p>
 
@@ -394,6 +414,8 @@ var _hmt = _hmt || [];
 
 <p>作者： M. R. Zarei, M. R. Moosavi</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03047v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 推荐系统在为大量信息中的每个用户提供适当数据方面发挥着重要作用。推荐系统的重要作用之一是预测每个用户对某些特定数据的偏好。这些系统中的一些集中于用户项目网络，每个用户对一些项目进行评级。项目推荐的主要步骤是预测未评级项目的比率。每个推荐系统利用不同的标准，例如在速率预测过程中用户之间的相似性或社交关系。由于每个用户的社交关系影响他的行为，因此它可以是用于速率预测的有价值的来源。在本文中，我们将提供一种新的社会推荐系统，该系统在相似度计算中使用Bhattacharyya系数，能够评估稀疏数据和没有共同评价项目的用户之间的相似性，以及将社会关系整合到评级预测过程中。</p>
 
 <h3 id="一种新的使用信息论指标的基于优化的幂律生成模型">一种新的使用信息论指标的基于优化的幂律生成模型</h3>
@@ -403,6 +425,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1809.03077">http://arxiv.org/abs/1809.03077</a></p>
 
 <p>作者： A. M. Khalili</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03077v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在本文中，我们提出了一种基于优化的机制来解释幂律分布，其中优化过程寻求优化的函数是数学推导出来的，然后分析了该函数的行为和解释。派生函数在表示顺序和随机性时表现出与熵函数的一些相似性;然而，它也代表能量，其中优化过程寻求最大化受能量总量约束的分布尾部的元素数量。结果表明优化过程的输出与幂律分布之间存在匹配。</p>
 
@@ -414,6 +438,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Marcin Waniek, Khaled Elbassioni, Flavio L. Pinheiro, Cesar A. Hidalgo, Aamena Alshamsi</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03141v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 信息的传播已被广泛建模为网络上的随机扩散过程。 Alshamsi等。 （2018）提出了相关活动网络中的战略扩散模型。在这项工作中，我们研究了寻找战略扩散最优策略的计算方面。我们证明在一般情况下找到问题的最优解是NP完全的。为了克服这种计算难度，我们提出了一种基于动态编程技术计算最优解的算法。我们还表明，当通过树宽度和最大度的乘积进行参数化时，问题是固定的参数 - 易处理的。我们分析了开发有效近似算法的可能性，并表明到目前为止提出的两种启发式算法不能比对数近似保证更好。最后，我们证明问题不是比对数近似更好，除非P = NP。</p>
 
 <h3 id="碳排放限额和价格下的能源系统模型的反直觉行为">碳排放限额和价格下的能源系统模型的反直觉行为</h3>
@@ -423,6 +449,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1809.03157">http://arxiv.org/abs/1809.03157</a></p>
 
 <p>作者： Juliane Weber, Heidi Ursula Heinrichs, Bastian Gillessen, Diana Schumann, Jonas Hörsch, Tom Brown, Dirk Witthaut</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03157v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 减缓气候变化需要能源系统的根本转变。可负担性，可靠性和减少温室气体排放构成了这种能源转型的核心但往往相互冲突的目标。在此背景下，我们揭示了基于模型的能源系统优化的局限性和反直觉结果，这些优化通常用于政策建议。当存在二氧化碳上限时系统成本最小化时，效率提高可以释放部分二氧化碳上限，从而使廉价技术取代昂贵的低排放技术。在存在预算约束的情况下最小化排放的设置中观察到更显著的结果。提高二氧化碳价格可以将系统外的清洁，但昂贵的技术排除在外，并最终导致更高的排放。这些影响强烈地发生在不同范围和复杂性的模型中。因此，在应用能源系统优化模型时需要格外小心，以避免误导政策建议。</p>
 
@@ -434,6 +462,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Matteo Bruno, Fabio Saracco, Tiziano Squartini, Marco Dueñas</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03222v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在本文中，我们分析了2010年至2014年五年期间的双边哥伦比亚公司产品网络。我们的分析描述了一个强模块化系统，有几组公司专门从事特定类别产品的出口。通过运行传统模块化最大化的二分变量来检测这些集群，揭示了双模块结构。有趣的是，通过应用最近提出的用于在感兴趣层上投射二分网络的算法，然后在得到的单分子表示上运行Louvain算法，来改进该发现。通过比较我们的研究结果与通过分析世界贸易网获得的结果，出现了重要的结构差异，特别是后者的二分表示没有类似的块结构的特征，因为模块化最大化在揭示中失败（二分节点节点。这指出经济体系在不同规模上表现不同：虽然各国倾向于使其生产多样化 - 可能出口大量不同的产品 - 但公司专门出口（基本上非常有限）基本同质产品的篮子。</p>
 
 <h3 id="第26届国际图绘制与网络可视化研讨会论文集-gd-2018">第26届国际图绘制与网络可视化研讨会论文集（GD 2018）</h3>
@@ -443,6 +473,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1809.03264">http://arxiv.org/abs/1809.03264</a></p>
 
 <p>作者： Therese Biedl, Andreas Kerren</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03264v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 这些是第26届国际图绘制与网络可视化研讨会（GD 2018），西班牙巴塞罗那，即2018年9月26日至9月28日的修订论文.Springer将在“计算机科学系列讲座”系列中发表论文。 。</p>
 
@@ -454,6 +486,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Sebastian Bischoff</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03267v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在本文中，我们研究了异构知识图上的特征学习问题。这些功能可用于执行诸如图表上的链路预测，分类和聚类等任务。知识图提供了边和节点类型中编码的丰富语义。元路径由图中的这些类型和抽象路径组成。到目前为止，元路径只能用作具有高冗余度的分类特征，因此不适用于机器学习模型。我们提出了元路径嵌入来通过学习它们的语义和紧凑矢量表示来解决这个问题。当前的图嵌入方法仅嵌入节点和边类型，因此错过了在它们的组合中编码的语义。我们的方法使用skipgram模型嵌入元路径，并使用扩展来处理大知识图中的冗余和大量元路径。我们通过预测维基数据上的链接来批判性地评估我们的嵌入方法。实验表明，我们学习了元路径的合理嵌入，但可以进一步改进。</p>
 
 <h3 id="部分虚拟坐标和图测地线的网络拓扑映射">部分虚拟坐标和图测地线的网络拓扑映射</h3>
@@ -463,6 +497,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1809.03319">http://arxiv.org/abs/1809.03319</a></p>
 
 <p>作者： Anura P. Jayasumana, Randy Paffenroth, Gunjan Mahindre, Sridhar Ramasamy, Kelum Gajamannage</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03319v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 对于许多重要的网络类型（例如，复杂恶劣环境和社会网络中的传感器网络），物理坐标系（例如，笛卡尔坐标系）和物理距离（例如欧几里德（Euclidean））要么难以辨别或不适用。因此，基于跳距测量的坐标系和特征，例如拓扑保留映射（TPM）和虚拟坐标（VC）系统，是许多网络算法的笛卡尔坐标的有吸引力的替代方案。在这里，我们提出了一种通过一小组距离测量来恢复网络的几何和拓扑属性的方法。特别地，我们的方法是最短路径（通常称为测地线）恢复概念和低秩矩阵完成的组合，概括为图中的跳距离的情况。嵌入在2-D和3-D空间中的传感器网络以及社会网络的结果表明该方法可以通过一小组测量精确地捕获网络连接。 TPM生成现在也可以基于各种上下文适当的测量或VC系统，只要它们通过到小组随机节点（而不是一组全局锚点）的距离来表征不同的节点。所提出的方法是一种重要的概括，其允许从随机的图最短路径集合中提取拓扑，使其适用于诸如可能无法生成VC的社会网络的上下文中。</p>
 
@@ -474,6 +510,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Jan Medina, Jorge Finke, Camilo Rocha</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03372v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们的工作介绍了一种估算附着机制对不断增长的网络形成的贡献的方法。我们提出了一个通用模型，其中增长是由新节点的连续附加根据具有固定概率的随机和优先链接驱动的。过去的方法应用似然分析来估计特定网络实例处每个机制的发生概率，利用每个时间点的似然函数的凹度。但是，连接到现有节点的概率以及因此可能性函数本身随着网络的增长而变化。我们建立条件，在该条件下，应用似然分析保证时变似然函数的局部最大值的存在，并证明期望最大化算法提供收敛估计。此外，分析地表征了在不断增长的网络中节点的度内分布。仿真表明，在所提出的条件下，期望最大化和最大似然准确地估计每个机制的实际贡献，并且度内分布收敛到静态分布。</p>
 
 <h3 id="流形城市-英国城市地区的社会变量">流形城市：英国城市地区的社会变量</h3>
@@ -483,6 +521,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1809.03376">http://arxiv.org/abs/1809.03376</a></p>
 
 <p>作者： Edmund Barter, Thilo Gross</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03376v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在21世纪，持续的快速城市化突显了对更深入洞察城市社会结构的需求。虽然有关这一挑战的工作可以从丰富的数据源中获益，但这些数据的复杂性本身也是一项挑战。在本文中，我们使用扩散映射，一种流形学习方法，来发现英国2011年人口普查数据集中的隐藏流形。人口普查关键统计数据和快速统计数据报告了每个人口普查产出区域的1450种不同统计特征。在这里，我们主要关注布里斯托尔市和周围的乡村，其中包括3490个产区。我们的分析发现了跨越人口普查反应的主要变量，强调大学生密度和贫困是人口普查反应变异的最重要的解释变量。</p>
 
@@ -494,6 +534,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Andrew Mellor</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03457v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 数据收集和存储方面的最新进展使研究人员和行业都能够实时收集数据。大部分数据都以“事件”或时间戳交互的形式出现，例如电子邮件和社交媒体帖子，网站点击流或蛋白质 - 蛋白质相互作用。这种类型数据对建模提出了新的挑战，特别是如果我们希望保留所有时间特征和结构。我们提出了一个使用二阶时间展开模型（称为事件图）来探索时态网络的通用框架。通过示例，我们演示了如何使用事件图来理解时态网络的高阶拓扑 - 时间结构，并捕获在考虑静态（或时间聚合）模型时未观察到的网络属性。此外，我们表明，通过将时态网络建模为事件图，我们的分析可以轻松扩展，以考虑非二元交互，称为超事件。</p>
 
 <h3 id="用于高阶特征的hyperkron图模型">用于高阶特征的HyperKron图模型</h3>
@@ -503,6 +545,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1809.03488">http://arxiv.org/abs/1809.03488</a></p>
 
 <p>作者： Nicole Eikmeier, Arjun S. Ramani, David F. Gleich</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1809.03488v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 长期以来一直使用图模型来代替实际数据，这些数据既昂贵又难以获得。一类常见的模型构造概率矩阵，并通过为每个条目翻转加权硬币来对邻接矩阵进行采样。例子包括Erd \ H {o} s-R \&lsquo;{e} nyi模型，Chung-Lu模型和Kronecker模型。这里我们介绍HyperKron Graph模型：Kronecker模型的扩展，但是在超边界上有分布。我们证明了我们可以从这个模型中有效地生成图，其顺序与边数乘以一个小的对数因子成比例，并且发现实际上运行时相对于边数是线性的。我们演示了HyperKron模型的一些有用特性，包括非平凡聚类和高度倾斜度分布。最后，我们将HyperKron模型应用于实际网络，并通过将HyperKron模型复杂应用于具有相干前馈环路的网络来演示模型的灵活性。</p>
 

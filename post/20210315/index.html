@@ -77,7 +77,7 @@
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -85,9 +85,9 @@
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -246,6 +246,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Fátima Velásquez-Rojas, María Fabiana Laguna</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.06926v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在这项工作中，我们研究在教室内进行的教学学习场景中的知识获取过程。我们探索两种互补的方法，包括课堂观察和学生调查，以及通过使用统计物理工具来建立理论模型。我们开发了一个分析模型和一组基于动力学主体的模型，这些模型使我们能够理解全局行为，并在知识获取过程中遵循各个轨迹。作为学生最终成绩的替代指标，我们使用他们的最终成绩，从而使我们能够评估方法的有效性。我们的模型在观察和调查的支持下，很好地再现了获取学生知识的过程。这项工作揭示了课堂的内部动态，使我们能够理解教学过程的一些全局方面。</p>
 
 <h3 id="使用图自动编码器建模异构边以表示网络">使用图自动编码器建模异构边以表示网络</h3>
@@ -255,6 +257,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2103.07042">http://arxiv.org/abs/2103.07042</a></p>
 
 <p>作者： Lu Wang, Yu Song, Hong Huang, Fanghua Ye, Xuanhua Shi, Hai Jin</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.07042v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在现实世界中，网络通常在节点之间包含多个关系，表现为网络边的异质性。通过使用每个视图描述节点之间的特定类型的关系，我们将异构网络转换为多个视图，以便我们可以利用多个视图的协作来学习具有异构边的网络的表示形式。鉴于此，我们提出了一个 emph regularized graph auto-coders（RGAE）模型，致力于利用多视图中的丰富信息来学习鲁棒的网络表示。更具体地说，RGAE将共享和专用图自动编码器设计为主要组件，以刻画网络的高阶非线性结构信息。此外，两个损失函数分别用作正则化以提取一致和唯一的信息。在现实数据集上的具体实验结果表明，在实际应用中，我们的模型优于最先进的基准。</p>
 
@@ -266,6 +270,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Sumeet Kumar, Ramon Villa Cox, Matthew Babcock, Kathleen M. Carley</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.07098v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 越来越多地使用社交媒体（SM）上的会话来调查网络上的社会问题，例如在线骚扰和谣言传播。对于此类问题，研究的共同思路是使用对抗性反应，例如，指出谣言中事实不正确的回复。尽管对抗性反应在在线对话中很普遍，但是很难从回复文本中推断出那些不利的观点（或立场），并且需要复杂的自然语言处理（NLP）模型。此外，用于姿态挖掘的常规NLP模型需要标记数据以进行监督学习。由于对话可能涉及任何主题，并且主题会随着时间而变化，因此，获得带有标签的对话本身可能会很困难。这些挑战使学习立场成为一个难解决的自然语言处理问题。在这项研究中，我们首先创建一个新的姿态数据集，该姿态数据集由三个不同的主题组成，方法是在回复其他人的帖子（例如赞成/反对）的同时标记用户对主题的看法（如pro / con）和用户的立场。当我们发现监督方法存在局限性时，我们提出了一种弱监督方法来预测Twitter回复中的立场。我们的新颖方法允许使用少量的＃标签为Twitter回复生成较弱的标签。与监督学习相比，我们的方法在手工标记的数据集上将平均F1-宏提高了8％，而无需在训练集中使用任何手工标记的示例。我们进一步展示了我们提出的方法在Twitter上与COVID 19相关的对话中的适用性。</p>
 
 <h3 id="最小长环反馈顶点集和网络拆除">最小长环反馈顶点集和网络拆除</h3>
@@ -275,6 +281,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2103.07134">http://arxiv.org/abs/2103.07134</a></p>
 
 <p>作者： Tianyi Li, Pan Zhang, Hai-Jun Zhou</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.07134v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 网络拆卸旨在将网络分解为不连贯的组件，并且攻击与许多环路相交的顶点已被证明是最有效的策略。但是，现有的以循环为焦点的方法将密集连接的局部簇（例如团）中的短循环与连接不同簇的长循环同等重要。在这里，我们为高度聚类的人工和现实世界网络提出了一个二分因子图公式，该公式保留了所有长环，同时简化了局部密集簇作为单个因子节点。我们针对相关的长环反馈顶点集问题开发了均值场理论，并将其消息传递方程式用作网络拆解的求解器。所提出的因子图循环算法在各种实际网络上都以相当大的优势胜过当前最新的图循环算法。通过优化局部密集簇的选择，可以实现拆卸性能的进一步改善。</p>
 
@@ -286,6 +294,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Desmond John Higham, Henry-Louis de Kergorlay</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.07319v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 当疾病在接触图周围传播时，流行病的传播已广为人知。在随机的易感感染易感环境中，谱条件表征疾病是否消失。但是，使用图为人类交互建模是一种简化，仅考虑成对关系。这并不能完全代表人们在小组中见面的更现实的情况。 Hyperedges可用于记录这样的群体互动，从而产生更真实，更灵活的模型，从而使节点的感染率随感染邻居数量的非线性函数而变化。我们在此超图环境中讨论了不同类型的传染模型，并得出了表征疾病是否消失的谱条件。我们研究了精确的个人水平随机模型和确定性平均场ODE逼近。提供了数值模拟来说明分析。我们还解释了我们的结果，并显示了超图模型如何使我们能够区分以下两种对传染性的贡献：（a）病原体固有的固有特性；（b）源自行为选择（例如社交距离，卫生状况的提高和对食物的使用）。面具）。这就提出了更准确地量化旨在遏制病毒传播的干预措施的效果的可能性。</p>
 
 <h3 id="社会网络的时间逻辑">社会网络的时间逻辑</h3>
@@ -295,6 +305,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2103.07392">http://arxiv.org/abs/2103.07392</a></p>
 
 <p>作者： Vitor Machado, Mario Benevides</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.07392v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 本文介绍了一种基于标准线性时序逻辑（LTL）的带有一类社会网络模型的逻辑，并利用现有模型检查器的功能来分析社会网络。我们提供了简短的文献综述，然后定义了我们的逻辑及其公理化，给出了模型和公式的一些简单动机示例，并通过将其转换为命题公式来表明其完整性和完整性。最后，我们简要讨论模型检查和时间复杂度分析。</p>
 
@@ -306,6 +318,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Tiandong Wang, Sidney Resnick</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.07424v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 实证研究表明，在线社会网络不仅具有像帕累托一样的尾部的进出度分布，而且还具有很大比例的倒数边。经典的有向优先依恋（PA）模型会生成具有幂律尾部的进出度分布，但是该模型中互惠特征的理论特性尚未得到研究。我们得出了两个固定节点之间的倒数边的数量以及整个PA网络中倒数边的比例的渐近结果。我们看到，通过选择某些参数，有向PA网络中倒数边的比例接近于0，这与经验观察结果有所不同。这指出了将经典PA模型拟合到给定的具有高互易性的网络数据集的潜在问题，并指出需要考虑替代模型。</p>
 
 <h3 id="一维车辆交通模型中最慢的是赢家">一维车辆交通模型中最慢的是赢家</h3>
@@ -315,6 +329,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2103.07434">http://arxiv.org/abs/2103.07434</a></p>
 
 <p>作者： Ricardo Simão, Lucas L. Wardil</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.07434v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 快车总是享受快车带来的好处吗？答案取决于系统的尺寸。在一维系统中，整个交通动态在很大程度上取决于领先车辆的行为。在这里，我们分析了一般的车辆交通一维元胞自动机模型，并表明，如果模型满足三个属性-相互作用是单向的，则粒子的动力学将使速度最大化，而粒子是硬粒子- -它们在任何粒子的稳态下的平均速度不高于总体中最慢粒子的平均速度。这个非常简单的结果使我们能够显示出交通理论与演化图论之间的联系，其结果是，如果驾驶方式通过社会模仿传播，那么最慢的驾驶员的驾驶方式将在低粒子密度下占主导地位。就演化种族而言，最慢的是胜利者，就像伊索寓言中的乌龟和野兔种族一样。</p>
 
@@ -326,6 +342,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Elise Jing, Yong-Yeol Ahn</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.06960v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： COVID-19大流行是一场全球性危机，它一直在考验每个社会，并暴露了地方政治在危机应对中的关键作用。在美国，党派之间存在很大的分歧，导致个人行为的两极分化以及跨地区采用不同的政策。在这里，为了更好地理解这种鸿沟，我们使用新颖的计算方法（包括计算框架分析和语义角色分析）来表征和比较民主和共和党政客在社交媒体上的流行病叙述。通过分析来自美国政客（包括总统，国会议员和州长）的推文，我们从主题，框架和塑造其叙述的主体方面系统地揭示了截然不同的叙述。我们发现，民主党人的叙述往往更关注大流行病以及金融和社会支持，而共和党则更多地讨论其他政治实体，例如中国。通过使用不同的框架和语义角色，民主党人强调了政府在应对大流行中的作用，而共和党人则强调了个人的作用和对小企业的支持。双方的叙述还包括对他们的追随者大喊大叫，并指责对方。我们的发现具体揭露了双方之间“难以捉摸的共识”中的差距。我们的方法可以应用于各种领域的计算机研究叙事。</p>
 
 <h3 id="您最有说服力的朋友-使用邻域一致性在twitter上传播潜在的意识形态特征">您最有说服力的朋友：使用邻域一致性在Twitter上传播潜在的意识形态特征</h3>
@@ -335,6 +353,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2103.07250">http://arxiv.org/abs/2103.07250</a></p>
 
 <p>作者： Pedro Ramaciotti Morales, Jean-Philippe Cointet, Julio Laborde</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.07250v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 网络中的多维尺度可通过将节点嵌入某些特征空间来发现有关其结构的潜在信息。例如，Twitter等社会网络中用户的意识形态扩展就是一个例子，但是类似的设置可以包括其他网络甚至媒体平台或电子商务中的各种应用程序。社会网络中意识形态尺度方法的越来越多的文献将尺度过程限制在提供要素空间可解释性的节点上：在Twitter上，通常考虑议员及其追随者的子网络。这允许将推断出的潜在特征解释为与意识形态相关的概念的索引，以检查议会成员的位置。虽然可以有效地推断出有意义的特征，但通常将其限制在这些子网中，从而限制了有趣的应用，例如在全国范围内对极化及其演变进行测量。我们提出了两种将意识形态特征传播到这些子网之外的方法：一种基于同质（链接用户具有相似的意识形态），另一种基于结构相似性（具有相似邻域的节点具有相似的意识形态）。在我们的方法中，我们利用邻里思想一致性的概念作为传播的参数。使用Twitter数据，我们为370K用户提供了一个意识形态上的扩展，并分析了650万用户群体的两种传播方法。我们发现，当考虑到连贯性时，从具有相似邻域的用户而不是从其直接邻居中更好地估计用户的意识形态。</p>
 

@@ -89,7 +89,7 @@ gambit-版本控制系统的开源名称歧义消除工具;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -97,9 +97,9 @@ gambit-版本控制系统的开源名称歧义消除工具;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -262,6 +262,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Ziheng Duan, Yueyang Wang, Weihao Ye, Zixuan Feng, Qilin Fan, Xiuhua Li</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.05749v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 最近，已证明用于图结构数据的深度神经网络模型在推荐系统中具有影响力。可以通过捕获图结构信息来生成高质量嵌入的图神经网络（GNN），对于此建议很方便。但是，大多数现有的GNN模型主要集中在齐次图上。它们无法描述推荐系统中的异构数据和复杂数据。同时，开发有效的方法来挖掘图中的异质性和潜在相关性具有挑战性。在本文中，我们采用异构网络（HAN），该网络涉及不同的节点类型以及丰富的节点属性，从而在推荐系统中对数据进行建模。此外，我们提出了一种新的基于图神经网络的模型来处理HAN for Recommendation，即HANRec。特别是，我们设计了一个连接潜在邻居的组件，以探索邻居之间的影响，并提供两种不同的策略，并带有注意机制来聚集邻居的信息。在两个真实数据集上的实验结果证明HANRec优于其他最新方法。</p>
 
 <h3 id="使用非负矩阵分解的深度图卷积神经网络用于社区发现">使用非负矩阵分解的深度图卷积神经网络用于社区发现</h3>
@@ -271,6 +273,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2103.05768">http://arxiv.org/abs/2103.05768</a></p>
 
 <p>作者： Shuliang Xu, Shenglan Liu, Lin Feng</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.05768v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 社区发现是图挖掘的重要任务。 由于图数据的非结构性，高维性和稀疏性，很难获得适当的社区分区。 本文提出了一种具有非负矩阵分解的深度图卷积神经网络（DGCN-NMF），用于社区发现。 DGCN-NMF使用多个图卷积层来获得低维嵌入。 在每一层中，最后一个输出和先前输出的非负矩阵分解结果都输入到当前层中。 输入图的社区分区可以通过端到端方法输出。 在实验数据集上进行了所提出的算法和比较算法。 实验结果表明，该算法优于实验数据集上的比较算法。 实验结果表明，DGCN-NMF是一种有效的社区发现算法。</p>
 
@@ -282,6 +286,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Junyao Kuang, Caterina Scoglio</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.05774v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 多层网络描述了同一组节点之间的不同类型的交互。例如，蛋白酶网络由五到七层组成，其中不同的层代表了蛋白质之间实验确认的分子相互作用的不同类型。在多层蛋白酶网络中，共表达层是通过对来自各种来源和平台的转录组数据进行荟萃分析而获得的。尽管在某些研究中，共表达层又被表示为多层网络，但是一个基本问题是如何从相应的多层网络中获得单层网络。此过程称为多层网络聚合。在这项工作中，我们提出了一种基于最大后验估计的多层网络聚合算法。该方法允许聚合加权多层网络，同时保留各层的核心信息。我们通过不加权的友谊网络和多层基因共表达网络评估该方法。我们将聚合的基因共表达网络与从混合数据集获得的网络和从平均权重获得的网络进行比较。冯·诺依曼熵被用来比较这三个网络的混合性，并与其他网络测量结果一起证明了所提出方法的有效性。</p>
 
 <h3 id="异构网络中流行病的多阶段发作">异构网络中流行病的多阶段发作</h3>
@@ -291,6 +297,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2103.05881">http://arxiv.org/abs/2103.05881</a></p>
 
 <p>作者： Chao-Ran Cai, Zhi-Xi Wu, Petter Holme</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.05881v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们为网络上的易感性感染易感性（SIS）流行病模型开发了一种理论，该理论融合了网络结构和动态相关性。该理论可以解释无标度网络中流行阶段的多阶段发作。这种现象的特征在于，易感性的多个峰值是感染率的函数。可以解释为，即使在全球流行阈值以下，枢纽也可以在较长时期内维持流行。此外，我们的方法改进了异构网络中接近阈值的患病率的理论计算，还可以预测不相关静态网络上具有不同程度和状态的节点的邻居的平均感染风险。</p>
 
@@ -302,6 +310,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Wenjun Zhang, Wei Li, Weibing Deng</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.05911v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在许多不同类型的网络中都可以发现周期，这使问题更加棘手，尤其是在处理网络上的动态过程时。相反，不存在循环的树网络是简化的，通常允许分析。但是，缺少数量来确定周期的比率，而该比率决定了网络接近于树状网络的程度。因此，我们引入术语“循环节点比率”（CNR）来描述属于循环的节点数与总节点数之比，并提供一种计算CNR的算法。在网络模型和实际网络中都对CNR进行了研究。在具有相同平均度的不同大小的Erd “ os R&rsquo;enyi（ER）网络中，CNR保持不变，并随平均度的增加而增加，从而产生一个关键的转折点。给出了ER网络中CNR的近似解析解。并且，分析了CNR与两核比（TCR）之间的差异，通过分析网络的巨大组成部分，探索了临界现象，在网络模型和实际网络中对CNR进行了比较，发现后者一般较小，结合粗粒度方法可以区分平均程度高的网络的CNR结构，CNR还应用于四种不同的运输网络和真菌网络，产生不同的作用区域。有趣的是，CNR在机器学习的网络识别中非常有用。</p>
 
 <h3 id="机器学习时代的关联性">机器学习时代的关联性</h3>
@@ -311,6 +321,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2103.06017">http://arxiv.org/abs/2103.06017</a></p>
 
 <p>作者： Andrea Tacchella, Andrea Zaccaria, Marco Miccheli, Luciano Pietronero</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.06017v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 关联性是对两种人类活动在其发展所需的投入和环境方面的相似程度的量化。在相关活动之间进行转换比不相关活动容易进行的想法下，量化关联性的经验方法目前被用作预测工具，为政府，国际组织和企业的政策和发展战略提供信息。在这里，我们专注于国家/地区的行业，并且表明通过活动并置（例如产品空间）来估计关联性的标准，广泛的方法所产生的关联性度量要比琐碎的自相关预测策略差。我们认为这是国际贸易数据中信噪比差的结果。在本文中，我们显示了两个主要发现。首先，我们发现从两种产品的相关性（基于网络密度）到多种产品的相关性（决策树）的转变可以显著提高预测质量，并相应地减少了错误的政策选择风险。然后，我们提出了一种新的方法来凭经验估计相关性，我们称其为连续投影空间（CPS）。 CPS可以看作是一种通用的网络嵌入技术，其性能大大优于所有基于网络的同位托管方法，同时在成对距离方面保持了相似的可解释性。</p>
 
@@ -322,6 +334,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Hang-Hyun Jo, Naoki Masuda</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.06055v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们在连续意见动力学模型中研究了收敛时间的有限大小影响。在模型中，每个人的意见都由有限间隔上的实数表示，例如 [0,1] ，并且统一选择的个人通过部分模仿统一选择的邻居的意见来更新其意见。我们从数字上发现，在晶格网络的情况下，根据特定功能形式，随着系统规模的增加，收敛的特征时间也会增加。相反，除非个体在每次意见更新中完美地复制其邻居的意见，否则在规则随机图，不相关的无标度网络和完整图的情况下，收敛时间大约与系统大小无关。我们还提供了模型的均值分析，以理解完整图的情况。</p>
 
 <h3 id="有效计算有向图中的s-t简单路径">有效计算有向图中的s-t简单路径</h3>
@@ -331,6 +345,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2103.06102">http://arxiv.org/abs/2103.06102</a></p>
 
 <p>作者： Mostafa Haghir Chehreghani</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.06102v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 分析复杂的社会和信息网络的重要工具是s-t简单路径计数，众所周知它是P完全的。 在本文中，我们研究了有向图中有效的s-t简单路径计数。 对于有向图中给定的一对顶点s和t，我们首先提出一种修剪技术，该技术可以有效且显着地减少搜索空间。 然后，我们讨论如何使用精确和近似算法来调整此技术，以提高其效率。 最后，通过对来自不同领域的多个网络进行广泛的实验，我们证明了所提出技术的高经验效率。 我们的算法不是现有方法的竞争者，而是可以在应用任何现有算法之前用作快速预处理步骤的朋友。</p>
 
@@ -342,6 +358,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Dengcheng Yan, Zijian Wu, Yiwen Zhang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.06117v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 网络拆除的目的是通过删除一组最佳节点将网络从无连接的碎片中划出，并已被许多实际应用（例如流行控制和谣言控制）广泛采用。但是，常规方法通常从经典网络的角度拆解系统，而经典网络仅具有成对的交互作用，并且经常忽略通过超网络建模的更普遍和自然的按组交互。而且，一个简单的网络无法描述多个对象的集体行为，因此有必要通过超网络拆卸来解决相关问题。在这项工作中，我们设计了一个更高阶的集体影响力度量来识别超网络中的关键节点集。它综合考虑目标节点所处的环境及其自身的特征来确定节点的重要性，从而通过移除这些选定的节点来拆除超网络。最后，我们使用该方法执行了一系列现实世界中的超网络拆除任务。在五个真实世界的超网络上的实验结果证明了我们提出的措施的有效性。</p>
 
 <h3 id="结束sars-cov-2大流行的covid-19疫苗与社会措施之间的相互作用">结束SARS-CoV-2大流行的COVID-19疫苗与社会措施之间的相互作用</h3>
@@ -351,6 +369,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2103.06120">http://arxiv.org/abs/2103.06120</a></p>
 
 <p>作者： Glenn Young, Pengcheng Xiao, Kenneth Newcomb, Edwin Michael</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.06120v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： COVID-19疫苗的开发和授权为消除社区传播提供了最明确的途径，从而结束了持续的SARS-CoV-2大流行。但是，注射疫苗的速度有限引发了这个问题，我们应在多大程度上继续遵守诸如戴口罩和远离社会等社会干预措施？为理解决这个问题，我们开发了包含疫苗动力学和社会流行病学参数的COVID-19传播的数学模型。我们使用此模型来研究两个重要的疾病控制和根除措施，即有效生殖数 R_t 和高峰重症监护病房（ICU）病例数，并涉及以下三个关键参数：社会措施的依从性，疫苗接种率和疫苗接种覆盖率。我们的结果表明，由于疫苗接种速度缓慢，必须由很大比例的人口维持社会措施，直到有足够比例的人口接种疫苗以根除大流行。相反，由于减少了对社会措施的依从性，医院的ICU病例将大大超出能力，导致可避免的生命损失增加。这些发现突显了疫苗接种与社会保护措施之间的复杂相互作用，并表明了在扩大疫苗规模以允许可持续发展终止或控制SARS-CoV-2所需要的牛群免疫的同时，继续采取一定程度的社会措施的实际重要性。</p>
 
@@ -362,6 +382,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Gael Poux-Medard, Sergio Cobo-Lopez, Jordi Duch, Roger Guimera, Marta Sales-Pardo</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.06121v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 许多研究表明，人类决策的方式是有规律的。但是，我们获得刻画此类规律性并可以准确预测未观察到的决策的模型的能力仍然有限。我们在向个人提供有关市场价格变化的信息并要求猜测市场方向的个人的背景下解决这个问题。我们使用带有随机块模型（SBM）的网络推理方法来找到最能预测未观察到的决策的模型和网络表示形式。我们的结果表明，用户大多使用最新信息（有关市场及其先前的决定）进行猜测。此外，对SBM群体的分析揭示了玩家用来处理信息和做出类似于在其他情况下观察到的行为的决策的一组策略。我们的研究提供了一个示例，说明了如何通过将决策表示为网络并使用严格的推理和模型选择方法来定量地探索人类行为策略。</p>
 
 <h3 id="物理学的数据协调框架-用于实时电力和排放跟踪">物理学的数据协调框架，用于实时电力和排放跟踪</h3>
@@ -371,6 +393,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2103.05663">http://arxiv.org/abs/2103.05663</a></p>
 
 <p>作者： Jacques A de Chalendar, Sally M Benson</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.05663v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 为了鼓励和指导脱碳工作，需要使用更好的工具来监控电力消耗，生产，进口和出口中的排放量。对于要求这些数据在物理上保持一致的应用程序而言，使用变化质量的电气系统运行数据尤其具有挑战性，而在这些应用程序中经常需要耗费大量时间的手动数据验证。在这项工作中，我们引入了一个物理信息化的数据协调框架，以极大地加快这一过程，并使近乎实时的内部一致的电气系统运行数据可用。该框架的关键部分是优化程序，以最大程度地减少满足节能方程所需的数据调整。该框架适用于美国大陆电力系统中68个平衡机构的示例数据集；还计算电力消耗，生产和交换的排放量。电力和排放量的最终数据集可公开获得，并每小时更新一次。</p>
 
@@ -382,6 +406,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Christoph Gote, Christian Zingg</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.05666v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 每当分析现实世界的用户数据（例如来自版本控制系统的数据）时，名称歧义消除都是一个复杂但高度相关的挑战。我们建议使用gambit，这是一种基于规则的消歧工具，仅依赖于姓名和电子邮件信息。我们针对来自Gnome GTK项目的手动消除歧义的地面真实数据，使用两种具有相似特征的常用算法评估了其性能。我们的结果表明，赌博策略的性能明显优于两种算法，F1得分为0.985。</p>
 
 <h3 id="个人收入对年龄死亡率的影响-生物学与社会经济影响">个人收入对年龄死亡率的影响：生物学与社会经济影响</h3>
@@ -391,6 +417,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2103.05729">http://arxiv.org/abs/2103.05729</a></p>
 
 <p>作者： Peter Richmond, Wonguk Cho, Beom Jun Kim, Bertrand M. Roehner</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.05729v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 人均收入对预期寿命的影响已得到充分证明，主要是通过对跨国样本的研究。但是，人们期望在寿命的两端都存在相当弱的相关性，也就是说，在婴儿期和年龄在85至100岁之间的年龄组中。原因是在两端，死亡率很大程度上是由生物学因素控制的，而不是由社会经济条件控制的。为了检验这一猜想，我们分别在法国，美国和韩国探讨了收入对年龄组的影响。更确切地说，我们在每个国家/地区都比较了尽可能多的区域亚单位的收入和死亡率数据。值得一提的是，与普遍观点相反，个人收入与婴儿死亡率（即一岁以下的死亡率）的相关性很弱。更广泛地说，我们推测这三个国家的分析所揭示的共同模式在其他发达国家也同样有效。</p>
 

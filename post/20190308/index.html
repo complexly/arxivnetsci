@@ -74,7 +74,7 @@ HEAT：属性网络的双曲嵌入;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -82,9 +82,9 @@ HEAT：属性网络的双曲嵌入;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -242,6 +242,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Da Xu, Chuanwei Ruan, Kamiya Motwani, Evren Korpeoglu, Sushant Kumar, Kannan Achan</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02640v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 对增长图的生成过程建模在社会网络和推荐系统中具有广泛的应用，其中冷启动问题导致与现有图分离的新节点。尽管学习图表示和图生成的新兴文献，但它们中的大多数都无法处理孤立的新节点而没有非平凡的修改。由于以下事实产生了挑战：在观察到的图中学习生成节点的表示很大程度上依赖于拓扑特征，而对于新节点，只有节点属性可用。在这里，我们提出了一个统一的生成图卷积网络，通过对从观察到的图数据构建的图生成序列进行采样，在生成模型框架中自适应地学习所有节点的节点表示。我们优化了由图重构项和自适应Kullback-Leibler发散正则项组成的变分下界。我们在几个基准引用网络数据集上展示了我们的方法的卓越性能。</p>
 
 <h3 id="多层网络中的结构保留社区-定义-检测和分析">多层网络中的结构保留社区：定义、检测和分析</h3>
@@ -251,6 +253,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1903.02641">http://arxiv.org/abs/1903.02641</a></p>
 
 <p>作者： Abhishek Santra, Kanthi Sannappa Komar, Sanjukta Bhowmick, Sharma Chakravarthy</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02641v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 多层网络或MLN（也称为多路复用或网络网络）被广泛用于具有多个实体和特征类型以及它们的关系的数据集的建模和分析。由于社区和中心的概念用于这些分析，因此在MLN上保留结构（保留原始MLN结构和节点/边标签和类型）及其有效检测的结构保持定义至关重要。由于大多数当前分析将MLN聚合为单个图，因此MLN的社区没有结构保留定义。虽然单个图（和检测包）的社区定义已经达成共识，并且对于同质MLN在较小程度上存在共识，但缺乏异构MLN。在本文中，我们不仅首次提供了结构保留定义，而且还提供了使用解耦方法的有效计算，并讨论了其特征和分析意义。所提出的效率解耦方法将来自各个层的社区组合成MLN中连接的k层的连续k-社区。我们提出了几种权重度量，用于使用基于分析语义的二部图匹配方法组成分层社区。我们提出的方法有许多优点。它：i）利用现存的单图社区检测算法，ii）基于广泛使用的最大流二部图匹配组成k层，iii）介绍了为社区概念定制的几个权重度量，以及iv）实验验证从广泛使用的IMDb数据集的灵活分析角度定义，映射和效率。关键词：异构多层网络;二部图;社区定义和检测;基于解耦的组合</p>
 
@@ -262,6 +266,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Jessica Hoffmann, Constantine Caramanis</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02650v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们通过观察该图上多个流行病级联的感染噪声时间来考虑学习图的加权边的问题。当级联信息（即感染时间）准确已知时，过去的工作已经考虑了这个问题。虽然嘈杂的环境很好地受到许多流行病过程（例如，大多数人类流行病）的驱动，但据我们所知，关于它何时可以解决的知之甚少。以前关于无噪声设置的工作批判性地使用了订购信息。如果噪声可以逆转这一点 - 一个节点报告（嘈杂）的感染时间是在它感染的某个节点报告的感染时间之后 - 那么我们就无法看到以前的结果如何扩展。因此，我们处理了两种版本的噪声设置：有限噪声设置，我们知道感染的嘈杂时间，以及极端噪声设置，我们只知道节点是否被感染。我们提供了一种多项式时间算法，用于在极端噪声设置中恢复双向树的结构，并且表明我们的算法匹配在无噪声设置中建立的下界，因此是最优的。我们扩展了一般度有界图的结果，我们再次证明了我们的（多时间）算法能够以最佳的样本复杂度恢复图的结构。我们还提供了第一种有效的算法来学习有限噪声设置中双向树的权重。最后，我们给出了一个多项式时间算法，用于学习有限噪声设置中一般有界度图的权重。该算法扩展到一般图（以指数运行时的代价），证明在一般情况下问题是可解的。我们所有的算法都适用于任何噪声分布，对方差没有任何限制。</p>
 
 <h3 id="twitter发声-国家灾难情境意识案例">Twitter发声：国家灾难情境意识案例</h3>
@@ -271,6 +277,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1903.02706">http://arxiv.org/abs/1903.02706</a></p>
 
 <p>作者： Amir Karami, Vishal Shah, Reza Vaezi, Amit Bansal</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02706v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 近年来，我们面临着一系列自然灾害，造成了巨大的财务，环境和人员损失。自然灾害行为的不可预测性使得很难有全面的态势感知（SA）来支持灾害管理。使用意见调查是分析自然灾害期间公众关注的传统方法;然而，这种方法有限，昂贵且耗时。幸运的是，社交媒体的出现为学者提供了一种分析公众关注的替代方法。社交媒体使用户（人）能够自由地传达他们的意见并分散有关当前事件（包括自然灾害）的信息。这项研究强调社交媒体分析的价值，并提出了一个分析框架：Twitter态势感知（TwiSA）。该框架使用文本挖掘方法，包括情感分析和主题建模，为灾难准备，响应和恢复创建更好的SA。 TwiSA还有效地部署了大量的推文，并追踪2015年南卡罗来纳州洪水期间人们的负面担忧。</p>
 
@@ -282,6 +290,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Andrea Mazzolini, Antonio Celani</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02786v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 越来越多的证据表明，公平和慷慨不是人类的独特特征。事实上，对黑猩猩，猴子和其他哺乳动物的几项实验表明存在不公平厌恶行为。即，如果有一些有价值的资源，例如食物，在两个人之间分配不均，获得较小份额的人可以拒绝奖励，并且在某些情况下，甚至可以尝试使用较大份额的动物来均衡分裂。因此，动物可以故意以明显的公平感降低其收益。在这里，我们展示了受动物行为启发的资源收集和共享博弈中慷慨的出现。球员贪婪地行动，也就是说，他们试图单独最大化他们的个人收入。尽管如此，该模型的解析解表明，根据条件出现了三种最佳行为。除了玩家在选择资源分配方面自私的明显情况之外，还有一些条件下玩家都很慷慨。此外，我们还发现了一系列情况，其中一个自私的玩家利用另一个慷慨的个体，以满足两个玩家的需求。我们的结果表明，不公平厌恶受到三个因素的青睐：玩家试图优化自己的博弈的长时间范围，玩家在执行资源收集任务的能力之间的相似性，以及环境中的资源。这些并发的要求导致了慷慨出现的必要条件。</p>
 
 <h3 id="旅行中心性-带有非瞬时链路行进时间的含时多路游走">旅行中心性：带有非瞬时链路行进时间的含时多路游走</h3>
@@ -291,6 +301,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1903.02815">http://arxiv.org/abs/1903.02815</a></p>
 
 <p>作者： Silvia Zaoli, Piero Mazzarisi, Fabrizio Lillo</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02815v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在复杂网络中，中心度量标准量化节点的连通性并识别信号传输中最重要的节点。在许多现实世界网络中，尤其是在运输系统中，链路是动态的，即它们的存在取决于时间，并且在两个节点之间行进需要非消失时间。另外，许多网络在若干层上构建，代表例如不同的运输模式或服务提供商。存在基于步行计数的中心度量的时间推广，如Katz中心性，但是它们不考虑非零链路传播时间和多路复用结构。我们提出卡茨中心性的概括，称为旅行中心性，仅计算根据网络时间结构可以行进的路径，即“行程”，同时还区分层间和层内行走对中心性的贡献。我们向美国航空运输系统展示了一个应用程序，特别是计算机场因飞行网络延误造成的中心性损失。</p>
 
@@ -302,6 +314,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Steffen Eger, Chao Li, Florian Netzer, Iryna Gurevych</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02831v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们对Arxiv论文的两个数据集进行趋势检测，这些数据集源自其机器学习（cs.LG）和自然语言处理（cs.CL）类别。我们的方法是自下而上：我们首先按照标准化的引文计数对论文进行排名，然后根据他们追求的任务和他们使用的方法将排名靠前的论文分组到不同的类别。然后我们分析这些结果主题。我们发现cs.CL中的主导范式围绕着自然语言生成问题而cs.LG中的主导范式围绕强化学习和对抗原则。通过推断，我们预测这些主题在短期和中期仍将是其领域的主要问题/方法。</p>
 
 <h3 id="丹麦-德国和荷兰的城市尺度率-及其与治理结构的关系">丹麦、德国和荷兰的城市尺度率，及其与治理结构的关系</h3>
@@ -312,6 +326,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Anthony F.J. van Raan</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.03004v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们调查丹麦，德国和荷兰的社会经济城市规模行为。就丹麦而言，我们研究了大城市，哥本哈根集聚区内的城市以及农村地区的城市规模。我们还区分具有高度和低度中心性的城市。在所有情况下都可以找到具有人口规模的城市总产品的超线性尺度，指数在1.14和1.24之间。在德国，我们区分了周边城市地区属于城市的主要城市，以及由几个城市组成的小城市周边地区。在大多数情况下，我们发现超线性尺度，指数高达1.33。测量的尺度方程残差与用一组不同指标评估的城市的社会经济地位之间存在很强的关系。我们还研究了区域尺度和中心性之间的关系，包括Zipf分布。我们发现城市规模与生成过程有关，而与分配过程无关。对荷兰而言，我们专注于拥有聚集地的主要城市群以及Zuid-Holland省的所有城市。我们研究了荷兰较大城市地区的城市规模。在所有情况下，使用高达1.28的指数来测量显著的超线性尺度。单治理城市地区的表现优于多治理城市地区。这导致了对一个市政当局的重要性的挑战性结论，而不是主要城市地区的多市政治。对主要城市及其聚集区的连贯治理可以创造更有效的社会互动，从而加强经济和文化活动，从而产生巨大的财富效益。</p>
 
 <h3 id="heat-属性网络的双曲嵌入">HEAT：属性网络的双曲嵌入</h3>
@@ -321,6 +337,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1903.03036">http://arxiv.org/abs/1903.03036</a></p>
 
 <p>作者： David McDonald, Shan He</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.03036v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 寻找由网络描述的分层结构化数据的低维表示仍然是机器学习社区中的挑战性问题。一种新兴的方法是将这些网络嵌入到双曲空间中，因为它可以自然地表示网络的层次结构。但是，现有的双曲嵌入方法无法处理属性网络，其中节点使用其他属性进行注释。这些属性可能提供额外的邻近信息来约束节点的表示，这对于学习高质量双曲嵌入很重要。为了填补这个空白，我们引入了HEAT（属性网络的双曲嵌入），这是将属性网络嵌入双曲空间的第一种方法。 HEAT由1）改进的随机游走算法组​​成，以获得捕获拓扑和属性相似性的训练样本; 2）用于从所获得的训练样本中学习双曲嵌入的学习算法。我们表明，通过利用节点属性，HEAT可以在几个下游任务上胜过最先进的双曲嵌入算法。作为一种通用嵌入方法，HEAT为各种属性和无属性网络上的双曲流形学习打开了大门。</p>
 

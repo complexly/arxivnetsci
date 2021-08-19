@@ -65,7 +65,7 @@
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -73,9 +73,9 @@
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -230,6 +230,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Renchi Yang, Xiaokui Xiao, Zhewei Wei, Sourav S Bhowmick, Jun Zhao, Rong-Hua Li</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.02707v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 给定无向图G和种子节点s，本地聚类问题旨在识别包含时间大致与群集大小成比例的高质量群集，而不管G的大小。此问题在大型上发现了大量应用 - 尺度图。最近，热量内核PageRank（HKPR），它是图中节点接近度的度量，适用于这个问题，并发现与现有方法相比更有效。然而，用于计算HKPR的现有解决方案要么过于昂贵，要么对HKPR值提供不令人满意的误差近似，使得它们在十亿边图上尤其不实用。在本文中，我们提出了TEA和TEA +，两种基于HKPR的新型局部图聚类算法，以解决上述限制。具体而言，这些算法为HKPR值的相对误差和时间复杂度提供了非平凡的理论保证。基本思想是利用确定性图遍历来生成精确HKPR向量的粗略估计，然后利用蒙特卡罗随机遍历以优化和非平凡的方式细化结果。特别是，由于非平凡的优化，TEA +提供了实用的效率和有效性。对现实世界数据集的大量实验表明，在实现相同的聚类质量时，TEA +在大多数基准数据集上的计算时间方面优于最先进的算法超过四倍，特别是一个数量级在大型图表上更快，包括广泛研究的Twitter和Friendster数据集。</p>
 
 <h3 id="基于贝叶斯的公共情感建模方法">基于贝叶斯的公共情感建模方法</h3>
@@ -239,6 +241,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1904.02846">http://arxiv.org/abs/1904.02846</a></p>
 
 <p>作者： Yudi Chen, Qi Wang, Wenying Ji</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.02846v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 公众情绪是有效行动计划成功的直接以公众为中心的指标。尽管其重要性，但在以前的研究中仍未开发出对公众情绪的系统建模。本研究旨在开发一种基于贝叶斯的定量公众情绪建模方法，该方法能够纳入不确定性并指导公众情绪测量的选择。本研究包括三个步骤：（1）分别用Dirichlet分布和多项分布量化先前的情绪信息和新的情绪观察; （2）通过贝叶斯推理结合Dirichlet分布和多项分布推导出情感概率的后验分布; （3）通过基于应用程序的度量聚合采样的情绪概率集来衡量公众情绪。提供了一个关于Hurricane Harvey的案例研究，以证明所提方法的可行性和适用性。所开发的方法还有可能被推广以模拟各种类型的基于概率的度量。</p>
 
@@ -250,6 +254,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Pedro Cisneros-Velarde, Francesco Bullo</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.02902v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们提出了一种符号网络形成博弈，其中近视代理动态地和战略性地改变完整网络中边的符号。我们的代理人是社会网络的成员，通过改变他们的人际评估来战略性地减少认知失调。我们描述了该博弈的最佳响应策略，并证明其实现动态地将网络驱动到具有社会意义的标志配置，称为群集平衡。在该配置中，社会网络中的代理形成一个或多个集群，这些集群在其成员之间具有正关系，但在其他集群的成员之间具有负关系。过去，心理社会学，政治学和物理学领域的各种研究人员都在研究能够解释最多两个星团生成的模型。我们的工作通过提出一个生成更广泛的符号网络类的简单模型来为这些领域做出贡献。</p>
 
 <h3 id="通过输配水网络中的多尺度反馈环路量化网络弹性">通过输配水网络中的多尺度反馈环路量化网络弹性</h3>
@@ -259,6 +265,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1904.03004">http://arxiv.org/abs/1904.03004</a></p>
 
 <p>作者： Alessio Pagani, Fanlin Meng, Guangtao Fu, Mirco Musolesi, Weisi Guo</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.03004v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 输配水网络（WDN）是最重要的人造基础设施之一。弹性，即应对干扰和恢复到理想状态的能力，对我们的社会至关重要。越来越多的证据表明，网络基础设施与动态信号的弹性取决于其网络拓扑特性。虽然现有文献已经研究了各种复杂的网络中心性和谱特性，但很少关注理解基于多尺度流动的反馈回路及其对整体稳定性的影响。在这里，使用称为营养一致性的代理措施推断出由多尺度反馈回路引起的弹性。据推测，这对压力不足和水龄都有很大的影响。我们的研究结果表明，营养相干性与恢复时间呈正相关（0.62至0.52），而与破坏扩散呈负相关（-0.66至-0.52）。最后，我们应用随机森林分析来结合弹性测量，表明新的弹性集合为网络弹性提供了更准确的度量。</p>
 
@@ -270,6 +278,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Sina Mohseni, Eric Ragan, Xia Hu</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.03016v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 打击假新闻需要各种防御方法。虽然谣言检测和各种语言分析技术是检测社交媒体中虚假内容的常用方法，但还有其他可行的缓解方法可以在机器学习社区中进行探索。在本文中，我们提出了需要进一步关注的假新闻研究中的公开问题和机会。我们首先回顾社交媒体中新闻生命周期的不同阶段，并通过三个例子讨论新闻提要算法在宣传虚假新闻内容时的核心漏洞问题。然后，我们讨论假新闻问题的复杂性和不清晰性如何限制该领域的进步。最后，我们通过可解释的机器学习提供研究机会，以减轻假新闻问题：1）可解释的假新闻检测和2）透明的新闻提要算法。我们提出了可解释性的三个维度，包括算法可解释性，人类可解释性，以及包含可以以不同方式使假新闻缓解方法受益的支持证据。</p>
 
 <h3 id="使用递归神经网络推断振荡系统的动力学">使用递归神经网络推断振荡系统的动力学</h3>
@@ -279,6 +289,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1904.03026">http://arxiv.org/abs/1904.03026</a></p>
 
 <p>作者： Rok Cestnik, Markus Abel</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.03026v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们研究了递归神经网络对振荡系统的预测能力，不仅对吸引子，而且在其附近。为此，我们考虑受外力扰乱的系统。这使我们不仅可以预测系统的时间演化，还可以研究它的动力学特性，如分岔，动力响应曲线，特征指数等。结果表明即使在状态空间的某些区域也可以有效地估计它们。没有给出输入数据的地方。我们考虑几个不同的振荡例子，包括自持，兴奋，时间延迟和混沌系统。此外，通过统计分析，我们评估了两个常见的复发神经网络细胞，长期短期记忆和门控复发单位的有效推断所需的训练数据量。</p>
 

@@ -89,7 +89,7 @@ RUM：通过多层次的结构信息保存的网络表示学习;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -97,9 +97,9 @@ RUM：通过多层次的结构信息保存的网络表示学习;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -262,6 +262,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Lorien X. Hayden, Ricky Chachra, Alexander A. Alemi, Paul H. Ginsparg, James P. Sethna</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1503.06205v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 将公司分类到经济部门对于宏观经济分析和针对特定行业的金融指数和交易所交易基金（ETF）的投资很重要。主要工业分类体系和财务指标历来是以专家意见为基础，手工开发。在这里，我们展示了无监督机器学习如何能够提供更客观和更全面的广泛层面的股票分解。历史股价回报空间中的紧迫低维结构自动识别市场中的“规范部门”，并将每个股票的参与权重分配给这些部门。此外，通过分析不同时期的数据，我们可以看出上市公司的这些权重随着时间的演变如何演变。</p>
 
 <h3 id="估计大特征丰富图中的潜在特征-特征相互作用">估计大特征丰富图中的潜在特征 - 特征相互作用</h3>
@@ -271,6 +273,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1612.00984">http://arxiv.org/abs/1612.00984</a></p>
 
 <p>作者： Corrado Monti, Paolo Boldi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1612.00984v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 现实世界的复杂网络描述对象之间的连接;在现实中，这些对象常常被赋予某种特征。这种功能的存在与否与网络链路结构相互影响？虽然这里描述的情况是真正无处不在的，但是对这种大型图的研究是有限的。许多以前的作品被认为是将节点特征转换为链接的唯一可能的传输机制。相反，其他作者开发了更复杂的模型，能够处理复杂的功能交互，但不适合扩展到非常大的网络。我们扩展了MGJ模型，其中功能对之间的交互可以促进或阻止链接形成。在这项工作中，我们将研究如何估计该模型中的潜在特征 - 特征相互作用。我们将提出两种解决方案：第一种是假设特征独立性，它基本上是以朴素贝叶斯为基础;第二个放松独立假设假设是基于感知器。实际上，我们可以用模型方程式来将它看作是感知器的预测规则。我们分析如何在这种情况下理解感知器的经典结果;那么，我们为这个任务定义一个快速简单的感知器类算法，它可以在几分钟内处理$ 10 ^ 8 $链接。然后，我们比较这两种技术，首先是遵循我们的模型的合成数据集，获得了实践中朴素独立假设是有害的证据。其次，我们考虑一个真正的大型引文网络，其中每个节点（即纸）可以通过不同类型的特征来描述;在那里，我们的算法可以评估每组特征如何能够解释链接，从而找到有意义的潜在特征 - 特征相互作用。</p>
 
@@ -282,6 +286,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Shuo Zhang, Khaled Alanezi, Mike Gartrell, Richard Han, Qin Lv, Shivakaht Mishra</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.02609v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 智能手机和移动应用的广泛应用，不仅给个体在现实世界中的行为带来了重大的变化，而且在组织团体活动时，用户群体如何互相交流。了解用户如何将事件决策作为一个组，并确定贡献因素，可以为社会团体研究提供重要见解，并为组事件调度提供更有效的系统和应用程序设计。在这项工作中，我们设计了一个名为OutWithFriendz的新移动应用程序，使移动应用的用户可以组织小组活动，邀请朋友，建议和投票活动时间和地点。我们已经在Apple App Store和Google Play上部署了OutWithFriendz，并进行了超过500个用户和300个小组活动的大规模用户研究。我们的分析显示了关于群体事件规划过程的几个重要观察，包括用户移动性，个人偏好，主持人偏好和群体投票过程的重要性。</p>
 
 <h3 id="用跳跃随机微分方程建模微博的集体行为">用跳跃随机微分方程建模微博的集体行为</h3>
@@ -291,6 +297,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1710.02651">http://arxiv.org/abs/1710.02651</a></p>
 
 <p>作者： Jun-Shan Pan, Yuan-Qi Li, Xiang Liu, Han-Ping Hu, Yong Hu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.02651v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 从基础研究和现实利用两个角度来看，在线社会网络行为的描述和理解是非常重要的。在本手稿中，我们提出了一种随机微分方程来描述在线微博行为。我们的分析是基于从新浪微博收集的微博数据，它是中国最受欢迎的微博平台之一。特别是关注微博行为的集体性质，将分析数据中的自身反映为周期性模式的特征，基线周围的随机波动以及异常跳跃。与现有作品相比，我们使用我们的模型时间依赖参数来促进微博行为的周期特征，并结合复合泊松过程来描述新浪微博的非凡尖峰。这种显着的优点导致预测性能的显着改善，从而证明了我们的模型的有效性。这项工作可能会在未来检测在线社会网络平台中的异常行为提供潜在应用。</p>
 
@@ -302,6 +310,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Hiroki Sayama</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.02733v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们提出一个稍微修改的Miller-Hagberg（MH）算法，可以从给定的预期程度序列有效地生成一个随机网络。修订是用组合计算的边概率来代替一对节点之间的近似边概率，该边概率更好地捕获边存在的可能性，特别是边密集的边存在的可能性。该组合MH算法的计算复杂度仍然与原始MH算法的顺序相同。我们通过几个数值实验评估了所提出的算法。结果表明，该算法特别适用于精密代表密集异构网络中的高度节点。考虑到当今网络科学研究中的数据越来越大，越来越密集，该算法可能是其他更为成熟的网络随机化方法的有用替代方案。</p>
 
 <h3 id="社会网络的基线混合模型">社会网络的基线混合模型</h3>
@@ -311,6 +321,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1710.02773">http://arxiv.org/abs/1710.02773</a></p>
 
 <p>作者： Carter T. Butts</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.02773v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 连续的分布混合物在统计学文献中广泛应用于具有高度不同结果的现象的模型;特别是，许多熟悉的重尾分布自然产生作为光尾分布（例如，高斯）的混合物，和播放等不同的极端值和鲁棒推理的建模中应用的一个重要的角色。在社会网络的情况下，图分布的连续混合也可以用于模拟具有异质结果的社会过程，或作为网络推理的鲁棒先验。在这里，我们介绍一些基于基线分布的连续混合的简单的网络模型家族。而分析和计算上易处理，这些模型允许跨图表异质的更灵活的建模可能比常规的基线（例如，伯努利或$ U |人$分布）。我们说明了这些基线混合模型在应用于多网络ERGM，网络演进和高效网络推理问题的实用性。我们的研究结果强调了网络过程在自然环境中具有非平凡混合行为的潜在无处不在，并且提出了一些潜在的令人不安的问题，即当前网络数据收集实践的充分性。</p>
 
@@ -322,6 +334,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Carter T. Butts</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.02786v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 与具有非平凡边依赖性的随机图模型的偏差是社会和生物科学中越来越重要的问题。近年来，通过使用离散指数族来对随机图模型进行参数化，以及通过相关的马尔可夫链蒙特卡罗方法对这些家族的近似模拟的可用性，大大促进了这一问题的工作。在这里，我们引入一种方法，它允许使用从过去的耦合变体的指数族形式（也称为“指数随机图”模型）的随机图模型进行完美抽样。我们通过应用程序来说明使用该方法的马尔可夫图，这是在社会网络文献中相当重要的家庭。还讨论了将该方法应用于其他常见情况（包括非指数参数偏置网络模型）。</p>
 
 <h3 id="超越非模态影响最大化的最差情况-in-近似性">超越非模态影响最大化的最差情况（In）近似性</h3>
@@ -331,6 +345,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1710.02827">http://arxiv.org/abs/1710.02827</a></p>
 
 <p>作者： Grant Schoenebeck, Biaoshuai Tao</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.02827v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们考虑通过选择固定数量的初始种子来最大化社会网络中影响力传播的问题，正式被称为影响最大化问题。它承认$（1-1 / e）$因子近似算法，如果影响函数是子模态的。否则，在最坏的情况下，问题是NP难以接近于$ N ^ {1- \ varepsilon} $的因子。本文研究了通过对底层网络拓扑或级联模型进行假设可以避免这种最坏情况的硬度结果。我们所有的假设都是由许多现实生活中的社会网络级联驱动的。首先，对于被称为（随机）分层阻塞模型的非常有限的一类网络，一个很好的研究（随机）阻塞模型的特例，其中块之间的关系允许树结构，我们呈现强烈的不接近性结果。我们还提供一种基于动态程序的多项式时间算法，其最优地计算分层阻塞模型网络上的影响最大化问题的有向变体。我们的算法表明，不接近性结果是由于代理块之间的影响的双向性。其次，对于“几乎”子模型，称为2准子模型的一类影响函数，我们提出了强烈的不接近性结果。即使提前确定的任何2-准子子模型$ f $，我们的不接近性结果仍然存在。该结果还表明，关于影响最大化的近似性，子模态性与非子模态性之间的“阈值”是尖锐的。</p>
 
@@ -342,6 +358,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Yanlei Yu, Zhiwu Lu, Jiajun Liu, Guoping Zhao, Ji-Rong Wen, Kai Zheng</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.02836v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们目睹了近年来网络表示学习的许多技术的发现，从编码随机游走的环境到嵌入低阶连接，到用自动编码器寻找潜在的空间表示。然而，现有技术主要看待网络中的本地结构，而诸如全球社区结构之类的高级属性往往被忽略。我们提出了一种称为RUM的网络表示学习模型框架（网络表示学习多层次结构信息保存）。在RUM中，我们结合了一个节点的三个基本方面，该节点在多个层次上捕获了网络的特征：节点的附属本地三元组，其邻域关系以及其全球社区关系。因此，该框架明确和全面地保留了网络的结构信息，将编码过程扩展到结构信息谱的本地端到全局端。该框架还具有足够的灵活性，可以将各种社区发现算法作为其预处理器。实证结果表明，RUM学习的表示在现实生活中已经表现出很大的性能优势。</p>
 
 <h3 id="绝大多数情绪检测与大型社会网络中的外部影响">绝大多数情绪检测与大型社会网络中的外部影响</h3>
@@ -351,6 +369,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1710.02882">http://arxiv.org/abs/1710.02882</a></p>
 
 <p>作者： Tian Tong, Rohit Negi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.02882v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在一个庞大的社会网络中，成员们对问题抱有二元感情，我们调查情绪检测的渐近准确性。我们通过Ising Markov随机场模型对用户情绪进行建模，并允许用户的情绪受到外部影响。我们考虑一般的超大多数情绪检测问题，并且表明检测精度受网络结构，参数以及外部影响级别的影响。</p>
 
@@ -362,6 +382,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Yuke Li, A. Stephen Morse, Ji Liu, Tamer Başar</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.02934v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 本文应用最近开发的电力配置博弈在李和莫尔斯（2017）研究国家在联网国际环境中的生存问题。在这场比赛中，各国战略性地分配自己的力量来支持自己和他们的朋友的生存，反对敌人，一个国家的生存意味着当国家的总支持等于或超过其总的威胁时。本文确定了一个条件，表征一个国家可能生存的不同类型的联网国际环境，例如当国家之间的所有对抗形成一个完整的或两面的图表时。</p>
 
 <h3 id="网络嵌入作为矩阵因式分解-统一deepwalk-line-pte和node2vec">网络嵌入作为矩阵因式分解：统一DeepWalk，LINE，PTE和node2vec</h3>
@@ -371,6 +393,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1710.02971">http://arxiv.org/abs/1710.02971</a></p>
 
 <p>作者： Jiezhong Qiu, Yuxiao Dong, Hao Ma, Jian Li, Kuansan Wang, Jie Tang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.02971v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 自从word2vec的发明以来，skip-gram模型大大推进了网络嵌入的研究，如DeepWalk，LINE，PTE和node2vec近期出现的方法。在这项工作中，我们表明所有上述具有负抽样的模型可以被统一为矩阵分解框架，并以封闭形式。我们的分析和证明显示：（1）DeepWalk经验地产生网络的归一化拉普拉斯矩阵的低阶变换; （2）理论上来说，当顶点上下文的大小设置为1时，LINE是DeepWalk的一个特殊情况; （3）作为LINE的延伸，PTE可以被看作是多个拉普拉斯矩阵的联合因式分解; （4）node2vec是对与二阶随机游走的固定分布和转移概率张量相关的矩阵进行因式分解。我们进一步提供了跳跃式网络嵌入算法与拉普拉斯算子的理论的理论联系。最后，我们提出了NetMF方法及其计算网络嵌入的近似算法。我们的方法在几个常规网络挖掘任务中提供了对DeepWalk和LINE（相对高达38％）的显着改进。这项工作为基于跳过的网络嵌入方法奠定了理论基础，从而更好地了解了潜在的网络表征。</p>
 
@@ -382,6 +406,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Waseem Akram, Muaz A. Niazi, Laszlo Barna Iantovics</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.03189v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 智能电网可以被认为是一个复杂的网络，其中每个节点代表生成单元，生产者，链路表示传输线。基于主体的建模（ABM）是一个范例，代表了一个复杂的自主代理系统及其彼此之间的相互作用。以前，使用ABM方法在智能电网领域提出了研究的数量。然而，这些研究没有遵循任何ABM规范方法。纯粹的基于文本的规范往往是模糊的，使得模型难以复制。在本文中，我们使用基于主体和基于复杂网络的方法来组合智能电网的ABM。然后我们在智能电网中为我们的ABM介绍ODD和DREAM规范方法。我们在定性和定量上比较了这两种技术指标，并得出结论：在理解和复制ABM方面，DREAM方法优于ODD。</p>
 
 <h3 id="人在环中网络-物理系统的激励设计-加利福尼亚州需求响应案例研究">人在环中网络-物理系统的激励设计：加利福尼亚州需求响应案例研究</h3>
@@ -391,6 +417,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1710.03190">http://arxiv.org/abs/1710.03190</a></p>
 
 <p>作者： Datong P. Zhou, Maximilian Balandat, Claire J. Tomlin</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.03190v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们分析一个人际在线的网络物理系统，其中一个主体支付用户来诱导期望的行为。具体来说，我们估计，在小时提前价格干预措施对减少住宅用电量的影响，对加利福尼亚的5000户家庭使用大规模随机对照试验。除了这种实验方法之外，我们还开发了一种非实验估计技术，通过使用时间序列预测估计用户级别的反事实，允许对单个级别的期望治疗效果进行估计。这种方法至关重要地消除了对随机实验的需要，在许多情况下，由于金融和伦理约束，通常难以进行。这两种方法估计每个需求响应事件和家庭的减少约为0.13 kWh（14％）。由于这两个估计值彼此接近，我们声称这种方法可以用于预测任何未来需求响应计划的治疗效果。使用不同的激励水平，我们发现减少的价格弹性疲软。我们还评估了自适应定位方案的效果，根据其估计的响应来区分用户，以便将每美元削减率提高43％。最后，我们发现智能家居自动化设备的家庭显着减少，即约0.33千瓦时（38％）。</p>
 

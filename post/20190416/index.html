@@ -77,7 +77,7 @@
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -85,9 +85,9 @@
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -246,6 +246,8 @@ var _hmt = _hmt || [];
 
 <p>作者： John Boaz Lee, Giang Nguyen, Ryan A. Rossi, Nesreen K. Ahmed, Eunyee Koh, Sungchul Kim</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.06449v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 随着链接和节点的添加、删除和更改，网络随着时间的推移不断发展。这种时间网络（或边流）由一系列带时间戳的边组成，并且看似无处不在。尽管精确建模时间信息很重要，但大多数嵌入方法完全忽略它或使用一系列静态快照图来近似时间网络。在这项工作中，我们介绍了时间游走的概念，用于学习时间网络中的动态嵌入。时间步行以无损方式捕获动态网络中的时间上有效的交互（例如，信息流，疾病的传播）。基于时间游走的概念，我们描述了一个通用类的嵌入的所谓的连续时间动态网络的嵌入（CTDNEs）完全避免的问题，并逼近时间网络静态快照图的序列时出现的问题。与以前的工作不同，CTDNEs以最精细的时间粒度直接从时间网络学习动态节点嵌入，因此仅使用时间上有效的信息。因此，CTDNE自然支持以流实时方式在线学习节点嵌入。实验证明了这类嵌入方法在时间网络中预测的有效性。</p>
 
 <h3 id="是什么让社交搜索更有效率">是什么让社交搜索更有效率</h3>
@@ -255,6 +257,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1904.06551">http://arxiv.org/abs/1904.06551</a></p>
 
 <p>作者： Amr Elsisy, Buster O. Holzbauer, Boleslaw K. Szymanski, Miao Qi, Alex Pentland</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.06551v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 米尔格兰姆在1960年代首次提出的小世界的想法在经验上表明人们如何可靠地了解与他们的直接联系人的联系，他们可以利用他们的知识来执行有效的全球搜索，称为社交搜索，只需很少的步骤。后来，已经确定社​​交网络通常以这样的方式相互连接：所有边的知识使得即使在较少数量的步骤中也能够进行搜索;这种网络通常被称为小世界网络。然而，尽管在社交搜索及其效率方面做了大量工作，但尚不清楚为什么对直接链接知之甚少的节点能够有效地路由。为了探究这个问题，我们在这里使用一个真实的基于位置的社会网络Gowalla来模拟一个综合的社交搜索任务。结果表明，朋友和朋友的朋友（FoF）的空间分布以及用于搜索的信息类型在有效的社交搜索中起着关键作用。我们还确定，节点嵌入空间的方式和节点之间分布的边都不是社交搜索效率的重要因素。此外，我们表明，即使对朋友的朋友非常有限的知识也会显著提高社交搜索性能，并且对于一小部分FoF知识而言增长最快。</p>
 
@@ -266,6 +270,8 @@ var _hmt = _hmt || [];
 
 <p>作者： P. L. Krapivsky, S. Redner</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.06612v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们研究简单的策略，这些策略体现了人们在尝试停放在热门目的地附近时所面临的决策。如果一个公园远离目标（目的地），那里找到一个地方很容易，但是然后面对漫长的步行，或者是否应该尝试寻找靠近目标的理想地点，那里可能很难找到斑点？我们在一维几何上研究理想化的停车过程，其中期望的目标位于 x = 0 ，汽车从右边以lambda 的速率进入系统，并且每辆车以单位速率离开。我们分析了三种停车策略 - 温顺，谨慎和乐观 - 并确定哪种是最优的。</p>
 
 <h3 id="静态拓扑特征很难预测节点的动态重要性">静态拓扑特征很难预测节点的动态重要性</h3>
@@ -275,6 +281,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1904.06654">http://arxiv.org/abs/1904.06654</a></p>
 
 <p>作者： Casper van Elteren, Rick Quax</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.06654v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 网络科学中最核心的问题之一是：哪个节点最重要？通常使用拓扑属性来回答这个问题，例如网络中的高连通性或中心性。然而，尚不清楚拓扑连通性是否直接转化为动态影响。为此，我们模拟生成的动力学Ising自旋模型和具有加权边的真实世界网络。通过因果干预节点状态和对系统动力学的影响来评估动态影响的程度。结果表明，网络中心性或连通性等拓扑特征实际上是节点对网络其余部分的动态影响的不良预测因子。以信息影响的信息论措施的形式提供解决方案。该度量仅使用观察能够准确地反映自然动态下网络中节点的动态重要性，并使用因果干预进行验证。我们得出结论，最具动态影响的节点通常不是连接最好或中心节点。这意味着拓扑中心或连接良好的节点的动态重要的共同假设实际上是错误的，并且在不建议分析之前从网络中抽象出动态。</p>
 
@@ -286,6 +294,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Xiangrong Wang, Alberto Aleta, Dan Lu, Yamir Moreno</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.06959v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 关于疾病传播的研究极大地受益于网络建模的进步。最近，已经显示一类称为多层图的网络更准确地描述了许多真实系统，使得有可能解决流行病学中更复杂的情况，例如不同病原体或同一疾病的多种菌株之间的相互作用。在这项工作中，我们深入研究了一类到目前为止尚未被注意到的网络，尽管它与传播动力学有关。具体而言，我们专注于有向多层网络，其特征在于在层内或跨层存在有向链路。使用随机易感染易感（SIS）模型的生成函数方法和数值模拟，我们计算这些网络的流行阈值，用于网络的不同程度分布。我们的结果表明，决定流行阈值的主要特征是连接不同层的链接的方向性，而不管选择的度分布。鉴于无处不在的多层网络的存在以及在诸如社会和运输系统中的扩散过程等广泛现象中广泛使用类似疾病的传播过程，我们的研究结果引起了极大的兴趣。</p>
 
 <h3 id="不同流动模式的环形交叉口自动车辆专用车道评估">不同流动模式的环形交叉口自动车辆专用车道评估</h3>
@@ -295,6 +305,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1904.07025">http://arxiv.org/abs/1904.07025</a></p>
 
 <p>作者： Amirreza Nickkar, Young-Jae Lee</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.07025v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 自动驾驶汽车（AVs）即将在不久的将来用于运输系统。为了提高这些车辆的安全性和吞吐量，在过去的研究中已经建议用于AV的专用车道作为这些类型车辆的专用移动基础设施。虽然这些车道在交通网络中可以带来明显的优势，但这些车道的整体性能，特别是在城市地区和微观视线中，并不清楚。本研究旨在研究具有不平衡交通流模式的环形交叉路口AV专用车道的效率。旅行时间，延迟时间，车辆速度和车辆排队等四个因素被选为环形交叉口交通性能的变量。两个微观交通仿真软件AIMSUN和SIDRA Intersection用于检查AV专用车道在环形交叉口的影响。这项研究表明，当AVs的渗透率较低时，环形交叉口的不平衡交通模式的影响较高，并且当AV的渗透率较高时，环形交叉口的专用车道也可以改善交通性能指标，但这种改善不是重大。</p>
 
@@ -306,6 +318,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Felipe S. Abrahão, Ítala M. Loffredo D&rsquo;Ottaviano, Klaus Wehmuth, Artur Ziviani</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.07027v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 本文介绍了分析（或并行）系统中紧急行为之外的图灵障碍计算的理论研究。特别地，我们提出了一种算法网络，该算法网络是具有固定通信协议的随机生成的可计算系统的网络群体的数学模型。然后，为了解决不可判定的问题，我们研究节点（即图灵机或可计算系统）如何利用元生物选择的力量和通过网络的信息共享（即通信）的力量。在形式上，我们表明存在普遍的网络拓扑条件，特别是小直径现象，它确保每个节点都能够解决每个节目的暂停问题，其长度上限受种群大小的对数顺序限制。 。此外，我们证明了这个结果意味着存在一个能够在最少数量的通信轮次中突然解决暂停问题的中心节点。此外，我们引入了网络可计算系统的协同作用的算法信息度量，我们将其称为局部算法协同。然后，我们表明这种算法网络可以产生任意大的预期局部算法协同值。</p>
 
 <h3 id="含老化的投票模型的排序动态">含老化的投票模型的排序动态</h3>
@@ -315,6 +329,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1904.07128">http://arxiv.org/abs/1904.07128</a></p>
 
 <p>作者： Antonio F. Peralta, Nagi Khalil, Raul Toral</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.07128v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 具有记忆依赖动力学的选民模型在平均场水平上进行理论和数值研究。 “内部年龄”或个人持有相同状态的时间被添加到群体的二元状态集合中，使得改变状态的概率（或激活概率 p_i ）取决于该年龄。得到了一组闭合微分方程，描述了具有给定状态和年龄的个体分数的时间演化，并从中得到了分析结果，表征了系统接近吸收状态的行为。通常，不同的年龄依赖性激活概率对动力学具有不同的影响。当激活概率 p_i 是年龄 i 的递增函数时，系统达到稳定状态并且意见共存。在老化的情况下， p<em>i 是递减函数，系统达到共识或陷入冻结状态，具体取决于 p</em>  infty （零或不为零）的值和 p<em>i的速度接近 p</em>  infty 。此外，当系统达成共识时，系统的时间顺序可以是指数（ p_  infty&gt; 0 ）或幂律（ p_  infty = 0 ）。给出了具有一个或另一个行为的精确条件，以及指数的方程和显式表达式。</p>
 
@@ -326,6 +342,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Maria Papatsimouli, John Skordas, Lazaros Lazaridis, Eleni Michailidi, Vaggelis Saprikis, George F. Fragulis</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.07188v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 技术的快速发展是一种优选的交互方法。为年轻人创建了一个新世界，他们通过社交媒体发送电子邮件，访问网站，使用网络摄像头和聊天室以及即时消息。在过去的几年中，人们使用面对面的交流，但近年来，人们正在使用互联网技术来相互沟通。因此，沟通的变化，造成了一种新型的欺凌，网络欺凌，其中利用互联网技术进行欺凌。网络欺凌是一种在世界范围内日益增加的现象。这是促使我们进行此调查的原因之一。此外，恶霸侵略性反应受到儿童时期传导的四个因素的影响。</p>
 
 <h3 id="纽约市种族隔离和士绅化的动态">纽约市种族隔离和士绅化的动态</h3>
@@ -335,6 +353,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1904.07205">http://arxiv.org/abs/1904.07205</a></p>
 
 <p>作者： Felipe G. Operti, André A. Moreira, Andrea Gabrielli, Hernan Makse, José S. Andrade Jr</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1904.07205v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 种族隔离与其他一些现象相互关联，例如收入不平等，财产价值不平等以及健康和教育方面的种族差异。此外，最近的文献表明，在一些美国城市，高档化是导致种族居住隔离持续或增加的原因。在本文中，我们分析了1990年，2000年和2010年纽约市白人，黑人，亚洲人和西班牙裔公民的种族隔离的动态。可以观察到白人和西班牙裔公民之间的隔离，白人和亚洲人之间的歧视有所增加，而白人和黑人之间的隔离相当稳定。此外，我们分析了每个隔离区的人均收入和基尼系数，表明最高的不平等发生在一对种族的高密度区域重叠的区域。关注在这20年间改变人口密度的人口普查区域，特别是通过分析白人和黑人的隔离，我们的分析表明，白人（黑人）的正向流动与大幅增加（减少）财产价值，与城市平均值相比。此外，通过聚集高密度黑人公民的区域，我们测量了1990年至2010年期间四个最大集群的面积和位移的变化。观察到其中两个集群的大位移（约1.6公里），即，一个位于哈莱姆附近，另一个位于布鲁克林区，导致了典型的士绅化地区的出现。</p>
 

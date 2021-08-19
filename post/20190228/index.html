@@ -65,7 +65,7 @@ EvolveGCN：动态图的演化图卷积网络;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -73,9 +73,9 @@ EvolveGCN：动态图的演化图卷积网络;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -230,6 +230,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Pan Li, Niao He, Olgica Milenkovic</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1902.10132v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们引入了一个新的凸优化问题，称为二次可分解子模函数最小化（QDSFM），它允许在图和超图上模拟许多学习任务。该问题与可分解的子模函数最小化（DSFM）密切相关，但解决起来更具挑战性。我们通过一种新的双重策略来解决这个问题，并制定一个可以通过许多双循环算法进行优化的目标。外环使用随机坐标下降（RCD）或替代投影（AP）方法，两者都证明了线性收敛速度。内环通过修改的min-norm-point或Frank-Wolfe算法计算由子模块函数的基础多面体生成的锥体上的投影。我们还描述了QDSFM的两个新应用：超图适应的PageRank和半监督学习。提出的基于超图的PageRank算法可用于局部超图分区，并具有可证明的性能保证。对于超图适应的半监督学习，我们提供数值实验，证明我们的QDSFM求解器的效率，以及与最先进的方法相比，它们对预测精度的显著改进。</p>
 
 <h3 id="evolvegcn-动态图的演化图卷积网络">EvolveGCN：动态图的演化图卷积网络</h3>
@@ -239,6 +241,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1902.10191">http://arxiv.org/abs/1902.10191</a></p>
 
 <p>作者： Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Charles E. Leisersen</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1902.10191v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 由于欧几里德数据的深度学习的广泛使用，图表示学习作为趋势研究主题重新出现，这激发了非欧几里德域中的神经网络的各种创造性设计，特别是图。随着这些图神经网络（GNN）在静态设置中的成功，我们接近图动态演化的进一步实际场景。对于这种情况，将GNN与循环神经网络（RNN，广泛地说）相结合是一个自然的想法。现有方法通常通过使用RNN捕获输出节点嵌入的动态并隐式地调节图模型来学习所有图的单个图模型。在这项工作中，我们提出了一种不同的方法，创造了EvolveGCN，它使用RNN随时间演变图模型本身。该模型自适应方法是面向模型而不是面向节点，因此在输入的灵活性方面是有利的。例如，在极端情况下，模型可以在新的时间步骤处理一组全新的节点，其历史信息是未知的，因为动态已经被转移到GNN参数。我们评估所提出的任务方法，包括节点分类，边分类和链路预测。实验结果表明，与相关方法相比，EvolveGCN的性能普遍较高。</p>
 
@@ -250,6 +254,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Richa Tripathi, Amit Reza, Dinesh Garg</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1902.10224v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 机器学习（ML）技术的应用涵盖了从语音，面部和字符识别到医学诊断到数据异常检测以及一般分类，预测和回归问题的广泛应用。在目前的工作中，我们展示了基于回归的现有机器学习技术在复杂网络上疾病可控性预测中的应用。复杂的网络模型确定了个体群体的分布空间以及它们之间的相互作用。有许多流行病传播模型，如SI（易感染 - 感染），SIR（易感染 - 感染 - 恢复），SEIR（易感染 - 暴露 - 感染 - 恢复）等，控制疾病传播动态随时间和静止状态。这种病。我们在标准模型网络的大量复杂网络示例中模拟疾病传播动态，并确定每种情况的基本再现数（R 0）。 R_0是确定无疾病流行病或地方病状态是否渐近稳定的指标。换句话说，它确定传染病是否可以在人群中传播或者从长远来看是否会消亡，从而表明对人群的疾病可控性。我们的目标是使用ML的回归技术，基于复杂网络结构特性的重要性来预测该数量（R 0），而不考虑网络类型。由于两个事实，预测是可能的（a）复杂网络的结构在网络传播过程中起着至关重要的作用。 （b）非线性回归技术的可用性，即使对于高度非线性的数据，也能以极好的精度预测数量。</p>
 
 <h3 id="深度对抗网络对齐">深度对抗网络对齐</h3>
@@ -259,6 +265,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1902.10307">http://arxiv.org/abs/1902.10307</a></p>
 
 <p>作者： Tyler Derr, Hamid Karimi, Xiaorui Liu, Jiejun Xu, Jiliang Tang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1902.10307v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 通常，网络对齐寻求在给定其网络结构时发现跨两个（或更多）网络的节点之间隐藏的底层对应关系。然而，大多数现有的网络对齐方法已经添加了额外约束的假设以指导对齐，例如在网络上具有一组种子节点 - 节点对应或者存在边信息。相反，我们寻求开发一种通用网络对齐算法，不需要额外的假设。最近，网络嵌入在许多网络分析任务中已证明是有效的，但不同网络的嵌入不一致。因此，我们提出了深度对抗网络对齐（DANA）框架，该框架首先使用深度对抗性学习来发现复杂映射，以便对齐两个网络的嵌入分布。然后，使用我们学习的映射函数，DANA执行有效的最近邻居节点对齐。我们在现实世界数据集上进行实验，以显示我们的框架首先对齐图嵌入分布，然后发现优于现有方法的节点对齐的有效性。</p>
 
@@ -270,6 +278,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Soumajyoti Sarkar, Hamidreza Alvari, Paulo Shakarian</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1902.10366v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 基于社交影响模型的信息扩散机制主要使用当活动邻居将用户暴露给消息时的采用可能性来研究。问题主要来自这样一个事实：在大多数情况下，在易受感染的节点被感染之前，社会网络中的一组活跃邻居中谁暴露谁的明确信息是不可用的。在本文中，我们试图通过研究级联的时间网络结构来了解信息级联的扩散过程。在这样做时，我们通过网络修剪技术来适应来自节点的活动邻居的暴露的影响，该技术利用网络图案来识别负责这些活动邻居之间的暴露的潜在感染者。我们尝试评估用于建模级联动力学的组件的有效性，尤其是曝光信息的附加效果是否有用。在此模型之后，我们开发了一种推理算法，即InferCut，它使用从模型中学习的参数和暴露信息来预测给定级联中每个潜在易感用户的实际父节点。来自微博社会网络的现实世界数据集的实证评估证明了在扩散过程的早期阶段将曝光信息结合到恢复暴露用户的确切父母中的重要性。</p>
 
 <h3 id="融入语义分析和机器学习的社会信用-对最新技术和未来研究方向的综述">融入语义分析和机器学习的社会信用：对最新技术和未来研究方向的综述</h3>
@@ -279,6 +289,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1902.10402">http://arxiv.org/abs/1902.10402</a></p>
 
 <p>作者： Bilal Abu-Salih, Bushra Bremie, Pornpit Wongthongtham, Kevin Duan, Tomayess Issa, Kit Yan Chan, Mohammad Alhabashneh, Teshreen Albtoush, Sulaiman Alqahtani, Abdullah Alqahtani, Muteeb Alahmari, Naser Alshareef, Abdulaziz Albahlal</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1902.10402v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 社会大数据（SBD）的丰富为组织提供了一个独特的机会，可以过度使用这些数据丰富来增加收入。因此，迫切需要捕获，加载，存储，处理，分析，转换，解释和可视化这些多样化的社交数据集，以开发特定于应用领域的有意义的见解。本文通过介绍该研究课题的最新文献综述，奠定了理论背景。这与对当前方法的批判性评估有关，并且通过某些建议加以强化，以弥合研究差距。</p>
 

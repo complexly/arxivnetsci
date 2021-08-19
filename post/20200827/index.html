@@ -83,7 +83,7 @@ MetaMetaZipf：对城市规模分布的分析有何共同点？;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -91,9 +91,9 @@ MetaMetaZipf：对城市规模分布的分析有何共同点？;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -254,6 +254,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Florian Adriaens, Alexandru Mara, Jefrey Lijffijt, Tijl De Bie</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2002.07076v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 指数随机图（ERG）领域的一个重要挑战是在大型图上拟合非平凡的ERG。通过使用快速矩阵块逼近技术，我们为这种非平凡的ERG提出了近似框架，从而产生了二元独立（即边独立）分布，同时能够有意义地对图的两个局部信息（例如度）进行建模以及全局信息（例如，聚类系数，分类性等）。这使人们可以有效地生成具有与观察网络相似的属性的随机网络，并且该模型可以用于多个下游任务，例如链路预测。我们的方法可扩展为包含数百万个节点的稀疏图。经验评估通过最新方法（通常基于将图嵌入到低维空间中）进行链路预测，展示了速度和准确性方面的竞争力，以进行链路预测，展示了更直接，更准确的潜力可解释的概率模型。</p>
 
 <h3 id="特征向量中心性排名的盲推论">特征向量中心性排名的盲推论</h3>
@@ -263,6 +265,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2008.11330">http://arxiv.org/abs/2008.11330</a></p>
 
 <p>作者： T. Mitchell Roddenberry, Santiago Segarra</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2008.11330v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们考虑仅从节点上的数据估计网络特征向量中心性的问题，而没有有关网络拓扑的信息。利用图滤波器的多功能性对网络进程进行建模，将节点上支持的数据建模为图信号，该图信号是通过应用于白噪声的图滤波器的输出获得的。我们试图通过绕过网络拓扑推断方法来简化中心性排名的下游任务，而是直接从图信号中推断图的中心性结构。为此，我们提出了两种简单的算法，用于对由一组未观察到的边连接的一组节点进行排名。我们为这些算法推导出渐近和非渐近保证，揭示了决定手头任务复杂性的关键特征。最后，我们说明了拟议算法在合成和真实数据集上的行为。</p>
 
@@ -274,6 +278,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Tobin South, Matthew Roughan, Lewis Mitchell</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2008.11428v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 数字音乐访问的现代时代已经增加了有关音乐消费和创作的数据的可用性，从而促进了对将音乐连接在一起的复杂网络的大规模分析。有关用户流行为的数据以及音乐协作网络对于新的数据驱动的推荐系统尤为重要。如果不进行全面分析，则此类协作图可能导致错误或误导性的结论。在这里，我们展示了来自在线音乐流媒体服务Spotify的艺术家的新协作网络，并展示了艺术家的特征向量中心性的重大变化，因为低人气艺术家被删除了。从古典艺术家到说唱艺术家，中心性的关键变化都证明了网络的更深层次的结构特性。提出了一个社会群体中心模型来模拟这种关键的过渡行为，并观察到主要特征向量之间的切换。该模型提出了关于流行度偏差对中心度和重要性的度量方式的新颖研究，并提供了一种检查网络中此类缺陷的新工具。</p>
 
 <h3 id="使用属性网络量化社会网络辩论争议的框架-有偏随机游走-brw">使用属性网络量化社会网络辩论争议的框架：有偏随机游走（BRW）</h3>
@@ -283,6 +289,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2008.11453">http://arxiv.org/abs/2008.11453</a></p>
 
 <p>作者： Hanif Emamgholizadeh, Milad Noorizadeh, Saman Tajbakhsh, Mahdieh Hashminezhad, Farzaneh Nasr Esfahani</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2008.11453v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在过去的几年中，特别是在在线社会网络和媒体出现之后，所有社会都变得更加两极分化。实际上，随着新媒体的传播，社会谱的两端之间的鸿沟将更深。在这种情况下，社会两极分化已成为社会主义者和计算机科学专家日益关注的问题，因为在线社会网络可能通过加剧极端主义的火力而对社会产生有害影响。随后进行了几种类型的研究，以提出一些措施来计算社会网络中的争议程度，然后，例如通过将一方的观点暴露给另一方的成员，来减少相互矛盾的观点之间的争议。量化社会网络争议的大多数尝试都考虑了网络的最主要形式，没有任何属性。尽管这些研究提供了可在不同社会网络中使用的无平台算法，但它们不能考虑用户提供的大量有用信息（节点属性）。为了克服这一缺点，我们提出了一个框架来在具有不同属性的不同网络中使用。我们推动了一些偏向随机游走（BRW），以针对起始节点的初始能量和路径上节点的能量损失，找到它们从起点到初始未知端点的路径。我们使用node2vec提取了网络的结构属性，并将其与最新算法进行比较，并显示了其准确性。然后，我们提取了用户的一些内容属性，并分析了它们对算法结果的影响。将BRW与另一种最先进的争议衡量算法进行了比较。然后，它在波斯语Twitter中在不同争议级别上的变化被认为表明了它在不同情况下的工作方式。</p>
 
@@ -294,6 +302,8 @@ var _hmt = _hmt || [];
 
 <p>作者： P. S. Dodds, J. R. Minot, M. V. Arnold, T. Alshaabi, J. L. Adams, D. R. Dewhurst, A. J. Reagan, C. M. Danforth</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2008.11305v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 维护长期数据收集的完整性是一项必不可少的科学实践。随着领域的发展，该领域的测量仪器和数据存储系统也将随着发明，改进和淘汰而不断发展。对于由不透明的社会技术系统生成的数据流（可能具有突发性和未知的内部规则更改），检测和解释历史数据集中的变化需要保持警惕和进行创造性分析。在这里，我们显示，实时收集的Twitter的日标单词使用频率时间序列的大约10％来自10年来大约10,000个常用单词的实时收集，这些推文实际上来自带有损坏的语言标签的推文。我们描述了在比较不同时间范围内的单词使用情况时如何发现有问题的信号。我们找到Twitter打开或关闭各种语言识别算法的时间点，以及数据格式可能已更改的时间点。然后，我们演示如何创建一个统计数据，以识别和删除带有病理性时间序列的单词。虽然我们从时间序列集合中删除“不良”时间序列的过程特别重要，但导致其构建的方法可能具有普遍性。</p>
 
 <h3 id="识别虚假宣传活动中的协调帐户">识别虚假宣传活动中的协调帐户</h3>
@@ -303,6 +313,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2008.11308">http://arxiv.org/abs/2008.11308</a></p>
 
 <p>作者： Karishma Sharma, Emilio Ferrara, Yan Liu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2008.11308v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 社交媒体上的虚假信息宣传活动越来越普遍，涉及从恶意帐户到操纵公众舆论的协调活动。越来越多的证据表明，社交媒体滥用影响其他国家的政治和社会问题，引起了许多关注。识别和预防协调运动对于从源头上解决虚假信息已经变得至关重要。现有的检测恶意活动的方法对协调的行为进行了严格的假设，例如恶意帐户执行同步操作或共享被认为指示协调的功能。其他人则要求揭示活动中的部分恶意帐户，以便检测其余部分。这样的假设大大限制了现有方法的有效性。相比之下，我们建议使用AMDN（专心混合物密度网络）根据时间点过程自动从帐户活动和帐户之间的交互中发现协调的小组行为。此外，我们利用学习的模型来理解和解释虚假宣传活动中协调帐户的行为。我们发现，协调帐户之间的平均影响最大，而这些帐户受常规帐户的影响不大。我们在与俄罗斯干预美国大选有关的Twitter数据上评估了该方法的有效性。此外，我们从Twitter收集的COVID-19数据中识别虚假宣传活动，并提供正在进行的大流行中协调虚假宣传活动存在的第一个证据和分析。</p>
 
@@ -314,6 +326,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Mohsen Minaei, Mainack Mondal, Aniket Kate</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2008.11317v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 监管者和世界各地的用户对被遗忘权问题的关注和意识日益增强。为了解决这些隐私问题，社交平台提供了删除机制，使用户有机会删除其内容，并且在某些情况下，平台会自动删除它们。但是，这使用户容易受到攻击者的攻击，这些攻击者会特别寻求用户的破坏性内容，并利用删除行为作为强烈的信号。在本文中，我们对191位参与者进行了用户研究，以研究他们以前的删除经历，对删除隐私的期望以及他们如何有效地找到当前的删除机制。我们发现超过80％的用户至少删除了一个社交媒体帖子，而35％的删除是在发布一周后发生的。尽管参与者将由于时间流逝而引起的内容无关紧要是删除其内容的主要原因，但大多数参与者认为删除表示删除的内容包括对所有者的某些破坏性信息。重要的是，与社交圈中的任何其他个人相比，参与者都更加担心大型数据收集器（例如，第三方数据收集公司或政府）注意到他们的删除。此外，三分之一的参与者认为他们可能会受到这些大型数据收集器的攻击。最后，参与者发现当前的删除机制不足以保护其删除的隐私，并为删除机制的未来提供了指导。</p>
 
 <h3 id="网络活动和物理环境的联合建模可改善对访客行为的预测">网络活动和物理环境的联合建模可改善对访客行为的预测</h3>
@@ -323,6 +337,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2008.11400">http://arxiv.org/abs/2008.11400</a></p>
 
 <p>作者： Manpreet Kaur, Flora D. Salim, Yongli Ren, Jeffrey Chan, Martin Tomko, Mark Sanderson</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2008.11400v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 本文通过利用匿名（选择加入）的Wi-Fi关联并浏览购物中心运营商记录的日志，研究了大型室内购物中心用户的网络物理行为。我们的分析表明，许多用户的网络活动与身体状况之间存在高度相关性。为了找到这种相关性，我们提出了一种机制，该机制用DBPedia概念中的丰富分类信息对物理空间进行语义标记，并计算表示用户与购物中心环境的活动的环境相似度。我们演示了两种情况下网络物理上下文相似性的应用：用户访问意图分类和未来位置预测。实验结果表明，利用上下文相似性可以显著提高此类应用程序的准确性。</p>
 
@@ -334,6 +350,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Clémentine Cottineau</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2008.11473v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在本文中，我对有关齐普夫城市定律的经验文献进行了语篇和语境分析。在以前公开的荟萃分析材料的基础上，我收集了以英文发表的66篇科学文章的全文和参考书目，并构建了它们所用术语以及所引用的参考文献和学科的相似性网络。在66篇文章中报告的Zipf估计值分布的相似性网络模型中，我将这些网络用作解释变量。我发现作者经常使用的单词的接近度与其报告相似值和Zipf估计值的离散趋势呈正相关。文章的参考框架也发挥了作用，因为引用相似参考文献的文章倾向于报告相似的Zipf估计平均值。作为对以前的荟萃分析的补充，本方法阐明了动员起来报告城市规模分布的科学文本和背景。它可以识别出语料库中的空白以及可能被忽略的文章。</p>
 
 <h3 id="协调的容量扩展问题中的近似能流和传输损耗">协调的容量扩展问题中的近似能流和传输损耗</h3>
@@ -343,6 +361,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2008.11510">http://arxiv.org/abs/2008.11510</a></p>
 
 <p>作者： Fabian Neumann, Veit Hagenmeyer, Tom Brown</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2008.11510v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 随着可再生能源份额的增加以及需要正确评估输电，存储和部门集成之间的折衷作为平衡选择，在能源系统模型和详细的潮流研究之间架起一座桥梁变得越来越重要，但在计算上却具有挑战性。 W比较了线性容量扩展问题中两个非线性现象（功率流和传输损耗）的近似值，这些问题共同优化了发电，存储和传输基础设施的投资。我们评估了不同的流量表示形式，讨论了投资决策，节点价格，优化流量和模拟交流电源流量损失的偏差以及计算性能方面的差异。通过使用开放式欧洲电源系统模型PyPSA-Eur，我们可以获得详细且可重复的结果，旨在促进选择合适的潮流模型。考虑到复杂性的差异，最佳选择取决于应用程序，用户可用的计算资源以及所考虑的空间细节级别。尽管常用的运输模型已经可以在计算上表现出高成本效益的系统的关键特征，但由于缺乏物理网格表示，因此在高负荷条件下仍存在缺陷。此外，忽略传输损耗会将最佳电网扩展高估20％。在线性化的潮流方程中添加带有两个或三个切线的二次损耗的凸松弛，并考虑到随着网络的增强，线路阻抗的变化足以在设计研究中充分表示潮流和损耗。我们表明，所获得的投资和调度决策具有足够的物理性，可用于交流电潮流的更详细的非线性仿真中，以便更好地评估其技术可行性。</p>
 
@@ -354,6 +374,8 @@ var _hmt = _hmt || [];
 
 <p>作者： David P. Fan (University of Minnesota, USA)</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2008.11696v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 相同的基本微分方程模型已针对不同状态之间的种群成员的时间依赖性转换进行了调整。转换模型已在不同的情况下应用，例如流行病学感染，用于创新传播的巴斯模型以及用于舆论的意识形态模型。例如，该模型的意识形态版本可预测公众意见的变化，以回应说服性信息回溯到无限期的过去。所有消息的测量均带有误差，本章讨论了消息测量中的误差如何随时间消失，从而使预测意见值逐渐不受过去的测量误差的影响。使用形式统计，敏感性分析和自举方差计算来讨论预测不确定性。本章介绍了丰田汽车制造商的意见时间序列的意识形态预测，这些时间序列是根据两年半的每日Twitter得分计算得出的。在这段时间里，丰田突然受到了坏消息的冲击，该模型可以准确地预测出丰田的良好态度随之下降而不利的观点则随之上升。</p>
 
 <h3 id="新浪微博上多任务深度学习用户抑郁检测方法">新浪微博上多任务深度学习用户抑郁检测方法</h3>
@@ -363,6 +385,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2008.11708">http://arxiv.org/abs/2008.11708</a></p>
 
 <p>作者： Yiding Wang, Zhenyi Wang, Chenghao Li, Yilin Zhang, Haizhou Wang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2008.11708v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 近年来，由于抑郁症的精神负担，危及生命的人数迅速增加。在线社会网络（OSN）为研究人员提供了另一种发现抑郁症患者的方法。但是，基于机器学习的抑郁症检测的现有研究仍保留相对较低的分类性能，这表明在改进其特征工程方面存在显著的改进潜力。在本文中，我们在新浪微博（中国社区中活跃用户数量最多的领先OSN）上手动构建了一个大型数据集，即微博用户抑郁检测数据集（WU3D）。它包括20,000多名普通用户和10,000多名沮丧用户，这两种情况均由专业人员手动标记并重新检查。通过分析用户的文字，社交行为和张贴的图片，总结并提出了十种统计特征。同时，使用流行的预训练模型XLNet提取基于文本的单词特征。此外，提出了一种新颖的深度神经网络分类模型，即FusionNet（FN），并同时利用上述提取的特征对其进行了训练，这些特征被视为多个分类任务。实验结果表明，FusionNet在测试数据集上的F1-Score最高，为0.9772。与现有研究相比，我们提出的方法对不平衡训练样本具有更好的分类性能和鲁棒性。我们的工作还提供了一种检测其他OSN平台上的抑郁症的新方法。</p>
 

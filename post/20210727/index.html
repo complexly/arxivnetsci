@@ -86,7 +86,7 @@ DECIFE：在Twitter上检测参与黑市跟踪服务的串通用户;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -94,9 +94,9 @@ DECIFE：在Twitter上检测参与黑市跟踪服务的串通用户;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -258,6 +258,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Yong-Min Shin, Cong Tran, Won-Yong Shin, Xin Cao</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.05225v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们研究了嵌入无边节点（例如新进入底层网络的用户）的问题，同时使用图神经网络（GNN）由于其通过消息传递的高度表达能力而被广泛研究用于图的有效表示学习。我们的研究的动机是现有的 GNN 不能用于我们的问题，因为消息传递到这种没有连接的无边节点是不可能的。为了应对这一挑战，我们提出了 Edgeless-GNN，这是一种新框架，它使 GNN 能够通过无监督归纳学习为无边节点生成节点嵌入。具体来说，我们首先根据节点属性的相似性构造一个k-最近邻图（kNNG）来代替由每个节点的基于邻域聚合定义的GNN的计算图。作为我们的主要贡献，已知的网络结构用于训练模型参数，同时使用基于能量的学习建立新的损失函数，以便我们的模型学习网络结构。对于无边节点，我们通过 kNNG 构造使用边作为计算图来归纳推断无边节点的嵌入。通过评估各种下游机器学习 (ML) 任务的性能，我们凭经验证明 Edgeless-GNN 始终优于最先进的归纳网络嵌入方法。此外，我们的发现证实了 Edgeless-GNN 在明智地将替换的计算图与我们新设计的损失相结合方面的有效性。我们的框架与 GNN 模型无关；因此，可以根据需要和ML任务适当地选择GNN模型。</p>
 
 <h3 id="具有疾病传染的人群动态的二维动力学模型">具有疾病传染的人群动态的二维动力学模型</h3>
@@ -267,6 +269,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2107.11401">http://arxiv.org/abs/2107.11401</a></p>
 
 <p>作者： Daewa Kim, Annalisa Quaini</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2107.11401v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们专注于建模和模拟传染病在短期内在封闭环境（例如机场航站楼）中在中等规模人群中传播。由于人群和场地的大小，我们选择了动力学类型的模型。论文分为两部分。在第一部分，我们采用简化假设，即人们的步行速度和方向是给定的。由此产生的动力学模型具有一个变量，该变量表示与传播疾病的人的接触程度，一个描述传染相互作用强度的参数，以及一个核函数，该函数是一个人和传播个体之间距离的递减函数。这种模型在方形可步行域中涉及小人群的问题上进行了测试。在第二部分中，来自简化模型的思想被用于将疾病传播纳入人群动力学的动力学理论方法中，即步行速度和方向来自与其他人和场地的交互。</p>
 
@@ -278,6 +282,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Hridoy Sankar Dutta, Kartik Aggarwal, Tanmoy Chakraborty</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2107.11697v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： Twitter 的流行促进了各种欺诈性用户活动的出现——其中一种活动是通过在短时间内获得大量关注者来人为地提升 Twitter 个人资料的社会声誉。许多用户希望获得关注者以提高他们的个人资料对广泛受众的可见性和影响力。这引发了一些黑市服务，通过以合谋的方式通过令人愉快和受损的帐户网络提供人工追随者，从而引起了极大的关注。他们的活动很难被发现，因为黑市服务以这样一种方式塑造他们的行为，即参与这些服务的用户将自己伪装成真正的用户。在本文中，我们提出了 DECIFE，这是一个框架，用于检测参与通过黑市服务进行“关注”活动的共谋用户，目的是获得共谋追随者作为回报。我们首先构建一个异构的用户-推文-主题网络，以利用用户的关注者/关注者关系和语言属性。然后将异构网络分解为四个不同的子图，这些子图刻画用户之间的语义关系。提出了一种基于注意力的子图聚合网络来学习和组合来自每个子图的节点表示。组合表示最终传递给超球面学习目标以检测串通用户。通过将 DECIFE 与其他最先进的方法进行比较，对我们精选的数据集进行了综合实验，以验证 DECIFE 的有效性。据我们所知，这是第一次尝试在 Twitter 上检测参与黑市“关注服务”的串通用户。</p>
 
 <h3 id="狂热者如何影响控制复杂社会网络的能源成本">狂热者如何影响控制复杂社会网络的能源成本</h3>
@@ -287,6 +293,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2107.11744">http://arxiv.org/abs/2107.11744</a></p>
 
 <p>作者： Hong Chen, Ee Hou Yong</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2107.11744v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 复杂网络的可控性可能适用于理解如何控制复杂的社会网络，其中成员分享他们的意见并相互影响。该领域以前的工作集中在可控性、能源成本或优化，假设所有节点都符合要求，没有任何偏好地中立地传递信息。然而，节点中立的假设应该受到挑战，特别是在网络社会系统的背景下，有些人可能会坚持他们的个人信仰。本文通过引入一些顽固的主体人或狂热者来挑战所有节点都是中立的假设，他们坚持自己的信念并试图影响他人。计算控制这种具有中立和非中立节点的网络所需的能源成本，并与没有狂热者的网络进行比较。研究发现，狂热者的存在以相对于他们自己固定信念的二次方比率改变了能量成本。然而，狂热者的存在是否增加或减少了能源成本受到不同参数之间相互作用的影响，例如狂热者的信念、驱动程序的数量、最终控制时间制度、网络效应、网络动态、中性的数量和配置受狂热者影响的节点。</p>
 
@@ -298,6 +306,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Kevin Roitero, Michael Soprano, Beatrice Portelli, Massimiliano De Luise, Damiano Spina, Vincenzo Della Mea, Giuseppe Serra, Stefano Mizzaro, Gianluca Demartini</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2107.11755v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 最近，错误信息问题已通过基于众包的方法得到解决：评估声明的真实性，而不是依靠少数专家，而是利用一群非专家。我们研究众包是否是在大流行期间评估真实性的有效且可靠的方法，针对与 COVID-19 相关的陈述，从而解决与敏感和个人问题相关的（错误）信息，与判断时相比，这是最近的已经完成了。在我们的实验中，众包工作者被要求评估陈述的真实性，并为评估提供证据。除了表明人群能够准确判断陈述的真实性外，我们还报告了工人行为、工人之间的一致性、聚合函数的影响、尺度转换以及工人背景和偏见的结果。我们通过与新手和有经验的工人多次重新启动任务来进行纵向研究，得出关于行为和质量如何随时间变化的重要见解。我们的结果表明： 工作人员能够检测和客观分类与 COVID-19 相关的在线（错误）信息；众包和专家判断都可以转换和汇总以提高质量；工人背景和其他信号（例如，信息来源、行为）会影响数据的质量。纵向研究表明，时间跨度对新手和有经验的工人的判断质量都有重大影响。最后，我们对众包工作者误判的陈述进行了广泛的失败分析。</p>
 
 <h3 id="齐夫定律和城市尺度-统一城市理论的假设">齐夫定律和城市尺度：统一城市理论的假设</h3>
@@ -307,6 +317,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2107.11782">http://arxiv.org/abs/2107.11782</a></p>
 
 <p>作者： Fabiano L. Ribeiro, Jose Lobo, Diego Rybski</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2107.11782v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们提出假设，描述城市 GDP 尺度指数与城市齐夫定律之间关联的实证发现。这些假设代表了两种现象之间的有向或相互因果关系的各种组合，包括城市间和城市内的过程。未来的理论和模型可以根据这些假设进行激励和分类。本文旨在激发围绕这些现象背后的过程的讨论，并为统一城市理论铺平道路。</p>
 
@@ -318,6 +330,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Yael Kfir-Cohen, Dana Vaknin, Shlomo Havlin</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2107.11861v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 许多系统（例如关键基础设施）都表现出模块化结构，模块内有许多链接，而它们之间的链接很少。提高这些系统鲁棒性的一种方法是加强每个模块中的一小部分节点，以便加强的节点为其自身及其附近的邻居提供额外的所需资源。由于加强节点可能是一项昂贵的任务，因此加强节点的去中心化过程的效率至关重要。在我们的研究中，我们分析了一个新模型，该模型结合了真实复杂系统的上述特征 - 模块化和增强节点。使用渗透理论的工具，我们推导出了加固节点的任何分区的解析解；在具有将它们连接到其他模块（“节点间”）的链接的节点和仅在其模块内具有连接的节点（“节点内”）之间。在我们的结果中，我们发现在临界渗透点 (papprox p_c) 附近，稳健性受分布的影响很大。特别是，我们发现了一个增强节点的分区，它产生了最佳的鲁棒性，并且我们证明了最佳分区对于高平均度数保持不变。</p>
 
 <h3 id="揭开法国媒体生态系统的结构">揭开法国媒体生态系统的结构</h3>
@@ -327,6 +341,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2107.12073">http://arxiv.org/abs/2107.12073</a></p>
 
 <p>作者： Jean-Philippe Cointet (Médialab), Dominique Cardon (Médialab), Andreï Mogoutov (Médialab), Benjamin Ooghe-Tabanou (Médialab), Guillaume Plique (Médialab), Pedro Morales (Médialab)</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2107.12073v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 这项研究提供了法国媒体空间的大规模映射，使用数字方法来估计政治两极分化和研究信息回路。我们在一年内收集有关法国在线新闻故事的制作和传播的数据，对媒体生态系统采取多层次的视角。我们从网站、Twitter 和 Facebook 获取数据。我们还确定了一定数量的重要结构特征。超链接结构的随机块模型显示了在一个单独的集群中对反信息媒体的系统拒绝，这个集群几乎没有受到主流媒体的关注。反信息子空间在消费方面也是外围。我们在 Twitter 和 Facebook 上衡量了他们各自的受众，并没有观察到两个社会网络之间的巨大差异，反信息空间，极右和极左媒体收集的受众有限。最后，我们还使用 Twitter 数据衡量新闻报道的意识形态分布，这也表明法国媒体格局相当平衡。因此，我们得出结论，法国媒体生态系统不会遭受与美国媒体生态系统相同程度的两极分化。与美国情况的比较也使我们能够巩固对虚假信息研究的结果：新闻空间的两极分化和假新闻的传播是一种现象，只有当政治或新闻空间中的主要和有影响力的参与者传播话题时，这种现象才会变得更加普遍以及原本在信息空间边流传的可疑内容。</p>
 
@@ -338,6 +354,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Christoph Gote, Vincenzo Perri, Ingo Scholtes</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2107.12100v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 网络经常用于对由交互元素组成的复杂系统进行建模。虽然链接刻画直接交互的拓扑结构，但许多系统的真正复杂性源自路径中的高阶模式，节点可以通过这些模式间接相互影响。表示连续直接交互的有序序列的路径数据可用于对这些模式进行建模。但是，为了避免过度拟合，此类模型应仅考虑数据提供足够统计证据的那些高阶模式。另一方面，我们假设仅刻画直接交互的网络模型不适合数据中存在的高阶模式。因此，这两种方法都可能错误地识别复杂网络中的有影响力的节点。我们通过提出基于 MOGen 的八个中心性度量来解决这个问题，MOGen 是一个多阶生成模型，它考虑了最大距离内的所有路径，但忽略了更高距离的路径。我们在预测实验中将基于 MOGen 的中心性与网络模型和路径数据的等效度量进行比较，我们的目标是在样本外数据中识别有影响的节点。我们的结果显示了强有力的证据支持我们的假设。 MOGen 始终优于网络模型和基于路径的预测。我们进一步表明，如果我们有足够的观察，MOGen 和基于路径的方法之间的性能差异就会消失，从而确认错误是由于过度拟合造成的。</p>
 
 <h3 id="意见和暗能量-玩具意见粒子模型中的远程排斥机制">意见和暗能量：玩具意见粒子模型中的远程排斥机制</h3>
@@ -347,6 +365,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2107.12139">http://arxiv.org/abs/2107.12139</a></p>
 
 <p>作者： André C. R. Martins</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2107.12139v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 意见粒子的概念可以通过研究贝叶斯启发的意见动态方法的时间连续版本来引入。在这里，我们使用意见粒子来进一步探索信息和贝叶斯方法如何为物理问题贡献新的想法。显示连续时间限制对应于原始主体之间几乎没有信任的情况，并且研究了模型的同步版本。两个粒子之间的相互作用被定义为吸引力。但是，模型中没有很好地表示空间和距离。我们根据参数定义局部距离度量。这允许遥远的粒子在任何中心粒子的自然坐标中被排斥，类似于观察到的被确定为暗能量的宇宙学效应。关键词：意见动力学，意见粒子，暗能量，贝叶斯方法，CODA</p>
 
@@ -358,6 +378,8 @@ var _hmt = _hmt || [];
 
 <p>作者： G. Dimarco, G. Toscani, M. Zanella</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2107.12180v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： COVID-19 的传播在大多数国家已通过非药物干预措施得到阻止。特别是，这方面最有效的措施是企业和学校的居家和关闭策略。然而，全民封锁远非最佳，会带来沉重的经济后果。因此，如今人们对设计更有效的限制有着浓厚的兴趣。在这项工作中，从最近的动力学类型模型开始，该模型考虑了个人社会接触所描述的异质性，我们分析了将最优控制策略引入系统的效果，以选择性地限制接触的平均数量并减少因此，感染病例的数量。由于采用了数据驱动的方法，我们表明这种新的数学模型可以评估社会限制的影响。最后，使用这里介绍的模型并从可用数据开始，我们展示了所提出的选择性措施抑制流行趋势的有效性。</p>
 
 <h3 id="生活在大流行中-美国个人流动性和社会活动的适应">生活在大流行中：美国个人流动性和社会活动的适应</h3>
@@ -368,6 +390,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Lorenzo Lucchini, Simone Centellegher, Luca Pappalardo, Riccardo Gallotti, Filippo Privitera, Bruno Lepri, Marco De Nadai</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2107.12235v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 旨在减少 COVID-19 大流行传播的非药物干预 (NPI) 极大地影响了我们的日常生活行为。在这项工作中，我们研究了个人如何随着时间的推移调整他们的日常活动和人与人之间的接触模式，以应对 COVID-19 大流行和 NPI。我们利用美国四个州数十万匿名个人的纵向 GPS 移动数据，并凭经验展示了人们生活中的巨大破坏。我们发现，当地干预不仅会影响不同场所的访问次数，还会影响人们的体验。个人在场地上花费的时间更少，更喜欢更简单、更可预测的日常活动，并减少人与人之间的接触活动。此外，我们表明，干预措施的严格性确实可以解释访问场所的数量和持续时间：个人访问模式似乎受到当地流行病严重程度和风险适应因素的影响，这增加了人们的流动性，而不管干预措施的严格性。</p>
 
 <h3 id="作为量子电路的全球经济的可持续性">作为量子电路的全球经济的可持续性</h3>
@@ -377,6 +401,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2107.09032">http://arxiv.org/abs/2107.09032</a></p>
 
 <p>作者： Antonino Claudio Bonan</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2107.09032v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在经济学中，将量子系统视为电路，微观尺度上的每个过程都是主体之间的量子门。通过优化整个电路的可持续性来解决全球经济配置问题。这是根据测地线完成的，从一些近似值开始。一种类似但又有些不同的方法适用于整体封闭系统和作为开放系统的经济。计算可能部分是显式的，尤其是当现实以简化的方式表示时。电路也可以通过最小化其复杂性来优化，具有部分相似的形式，但通常不沿着相同的路径。</p>
 

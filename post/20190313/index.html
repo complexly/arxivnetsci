@@ -80,7 +80,7 @@ QuickStop：最快错误信息检测的马尔科夫最优停止方法;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -88,9 +88,9 @@ QuickStop：最快错误信息检测的马尔科夫最优停止方法;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -250,6 +250,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Anthony Bonato, Huda Chuangpishit, Sean English, Bill Kay, Erin Meger</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.04523v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 诸如在Facebook和Twitter中的在线社会网络通常从网络中的代理之间的友谊关系的角度进行研究。然而，对抗关系在社会网络的结构和功能中也发挥着重要作用，但往往是隐藏的。结构平衡理论预测了社会网络的潜在生成机制，结构平衡理论假设三位代理人更喜欢传递，朋友的朋友更可能是朋友，或反传递，对手的对手成为朋友。先前提出的迭代局部传递（ILT）和迭代局部反传递（ILAT）模型分别将传递性和反传递性作为演化机制。这些模型产生了具有社会网络的许多可观察属性的图，例如低直径，高聚类和致密化。我们提出了一种新的生成模型，称为迭代局部模型（ILM），用于随时间推移合成传递和反传递三元组的社会网络。在ILM中，我们给出了一个可数无限的二进制序列作为输入，该序列决定了我们是应用传递步还是反传递步。得到的模型显示出在ILT和ILAT模型中观察到的复杂网络的许多特性。特别地，对于任何输入二进制序列，我们表明渐近模型生成有限图，其密集化，聚类系数远离0，直径最多为3，并且表现出不良的谱扩展。我们还对ILM图的诱导子图的色数，控制数，哈密尔顿性和同构类型进行了全面的分析。</p>
 
 <h3 id="从路径聚合中学习图中的边属性">从路径聚合中学习图中的边属性</h3>
@@ -259,6 +261,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1903.04613">http://arxiv.org/abs/1903.04613</a></p>
 
 <p>作者： Rakshit Agrawal, Luca de Alfaro</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.04613v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 图边及其标签可以表示基本重要性的信息，例如网页之间的链接，用户之间的友谊，用户给予其他用户或项目的评级等等。我们介绍了LEAP，一种可训练的通用框架，用于根据图的局部结构，拓扑和标签预测边的存在和属性。 LEAP框架基于连接图中节点的路径的探索和机器学习聚合。我们提供了几种通过训练路径聚合器来执行聚合阶段的方法，并且我们通过将其应用于社会网络中的链接和用户评级的预测来证明框架的灵活性和通用性。我们在两个问题上验证LEAP框架：链路预测和用户评级预测。在八个大型数据集中，其中包括arXiv协作网络，酵母蛋白质 - 蛋白质相互作用以及美国航空公司路由网络，我们表明LEAP的链路预测性能至少与当前最先进的方法一样好，例如作为海豹突击队和WLNM。接下来，我们考虑预测其他用户的用户评级的问题：这个问题被称为加权符号网络（WSN）中的边权重预测问题。在比特币网络和维基百科RfA上，我们表明LEAP的表现始终优于基于公平与良好的回归模型，将训练边的数量在10％到90％之间变化。这些例子表明，LEAP虽然具有通用性，但可以与特别精心设计的方法的性能相匹配或最佳，以解决非常具体的边预测问题。</p>
 
@@ -270,6 +274,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Richa Tripathi, Amit Reza</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.04649v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 大多数现实世界的网络，如互联网，协作网络，大脑网络，引用网络，电力线和航空网络都非常庞大，要研究它们的结构和动态，通常需要使用大型连接（邻接）矩阵。然而，几乎总是如此，一些或有时大多数节点及其连接对于网络功能不是非常关键，或者网络对于某些节点的故障及其与网络其余部分的连接是健壮的。在目前的工作中，我们的目标是提取复杂网络的尺寸减小表示，使得新表示具有最相关的网络节点和连接并保持其谱特性。为此，我们使用子集选择（SS）过程。通常，SS方法用于从其最具信息性的列中检索矩阵中的最大信息。检索的矩阵（通常称为子集）具有具有最小线性相关性的原始矩阵的列。我们将SS过程的应用呈现给现实世界网络的许多邻接矩阵和模型网络类型以提取它们的子集。由于其小尺寸的子集可以在分析大型复杂网络的谱特性中起关键作用，其中分析全邻接矩阵的空间和时间复杂度太昂贵。从所获得的子集构造的邻接矩阵具有较小的尺寸并且代表最重要的网络结构。我们观察到几乎是原始网络一半大小的子网络具有比原始网络更好的信息流效率。</p>
 
 <h3 id="从twitter语料库中提取本地化信息用于洪涝预防">从Twitter语料库中提取本地化信息用于洪涝预防</h3>
@@ -279,6 +285,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1903.04748">http://arxiv.org/abs/1903.04748</a></p>
 
 <p>作者： Etienne Brangbour, Pierrick Bruneau, Stéphane Marchand-Maillet, Renaud Hostache, Patrick Matgen, Marco Chini, Thomas Tamisier</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.04748v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在本文中，我们讨论了与热带风暴哈维相关的语料库的集合，以及从空间和主题角度的分析。从空间角度来看，我们的目标是首先估计收集的语料库中的地理信息的粒度和可靠性。从主题角度来看，我们讨论了Twitter帖子的表示，以及处理最初未标记的推文语料库的策略。</p>
 
@@ -290,6 +298,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Bruno U. Schyska, Alexander Kies</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.04768v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 为了减少电力部门的温室气体排放，需要将高比例的可再生能源集成到现有系统中。这将需要大量投资。已经表明，这些投资所需的资本成本在欧洲地区之间分布不均。它们显示出明显的南北和西 - 东分歧，近年来没有显示出明显缩小的迹象。然而，调查欧洲大陆电力系统的电力系统研究通常假设资本成本均匀。本文的目的是研究资本成本的区域差异如何影响这些研究在最优电力系统设计方面的结果。我们的分析基于电力系统优化，欧洲资本成本不均匀。我们发现，假设资本的同质成本导致对发电能力的非最佳投资。整个欧洲的电力支出不平等减少，而整个系统成本的变化很小。此外，发现资本的不均匀成本有利于整体风力发电部署，而太阳能则受到影响。</p>
 
 <h3 id="意见形成的统计物理学-它是否属于该领域">意见形成的统计物理学：它是否属于该领域？</h3>
@@ -299,6 +309,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1903.04786">http://arxiv.org/abs/1903.04786</a></p>
 
 <p>作者： Arkadiusz Jędrzejewski, Katarzyna Sznajd-Weron</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.04786v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们基于非线性 q  -voter模型提出了关于在意见形成统计物理学（SPOOF）中提出的问题和方法的简短回顾。我们描述了由物理学家开发的意见形成模型与社会心理学中已知的社会反应理论模型之间的关系。我们提请注意社会心理学家和物理学家感兴趣的问题。我们展示了直接受社会心理学启发的研究实例，如：“独立与反社会”或“人格与情境”。我们总结了已经获得的结果，并指出了其他可以做的事情，也与SPOOF中的其他模型有关。最后，我们展示了几种在SPOOF中有用的分析方法，例如有效力和潜力的概念，Landau的相变方法，或平均场和对近似。</p>
 
@@ -310,6 +322,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Indraneil Paul, Abhinav Khattar, Shaan Chopra, Ponnurangam Kumaraguru, Manish Gupta</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.04879v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 社会网络和发布平台，例如Twitter，支持秘密专有验证过程的概念，用于他们认为值得在平台范围内公共利益的句柄。与先前的重要工作一致，这表明拥有这样的地位象征着平台观众眼中的可信度提升，在公众人物和品牌中明显令人垂涎。不太明显的是验证过程的内部运作和被验证的内容。这种缺乏透明度，加上Twitter在2017年通过将上述地位扩展到政治极端主义者而获得的抨击，支持Twitter公开承认这一过程以及所代表的地位需要重新思考。考虑到这一点，我们试图解开用户个人资料的各个方面，这些方面可能会导致或排除验证。本文的目的有两个方面：首先，我们测试是否可以从配置文件元数据和内容功能中辨别句柄的验证状态。其次，我们解开了对手柄验证状态影响最大的特征。我们收集了一个数据集，其中包含所有231,235名经过验证的英语用户的个人资料元数据（截至2018年7月），一个对照样本，包括175,930名未经过验证的英语用户以及一年收集期间的4.94亿条推文。我们提出的模型能够可靠地识别验证状态（曲线下面积AUC&gt; 99％）。我们表明公共列表成员数量，推文中的中性情绪和权威语言风格是验证状态最相关的预测因子。据我们所知，这项工作代表了首次尝试在Twitter上识别和分类有价值的验证用户。</p>
 
 <h3 id="quickstop-最快错误信息检测的马尔科夫最优停止方法">QuickStop：最快错误信息检测的马尔科夫最优停止方法</h3>
@@ -319,6 +333,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1903.04887">http://arxiv.org/abs/1903.04887</a></p>
 
 <p>作者： Honghao Wei, Xiaohan Kang, Weina Wang, Lei Ying</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.04887v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 本文结合数据驱动和模型驱动的方法进行实时错误信息检测。我们的算法名为QuickStop，是一种基于从标记数据获得的概率信息传播模型的最优停止算法。该算法包括用于学习概率信息传播模型的离线机器学习算法和用于检测错误信息的在线最优停止算法。在线检测算法具有低计算和存储器复杂性。我们使用实际数据集进行的数值评估表明，QuickStop在准确度和检测时间（检测所需的观察数量）方面优于现有的错误信息检测算法。我们对合成数据的评估进一步表明，QuickStop对（离线）学习错误很有用。</p>
 
@@ -330,6 +346,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Robert L. Axtell, Omar A. Guerrero, Eduardo López</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.04954v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们为总体匹配函数开发了另一种理论，即工人通过企业网络寻找工作：劳动力流动网络。两家公司之间缺乏优势表明，由于高度摩擦，他们之间无法实现劳动力流动。在均衡状态下，企业的招聘行为通过网络相关联，产生高度分解的当地失业。因此，聚合以非平凡的方式取决于网络的拓扑。该理论为贝弗里奇曲线，工资分散和雇主规模溢价提供了新的微观基础。我们将我们的模型应用于雇主 - 雇员匹配的记录，并发现具有帕累托分布式连接的网络拓扑导致在高劳动力供给弹性下的总失业率发生不成比例的大变化。</p>
 
 <h3 id="间作农业可持续蚜虫防治的数学模型">间作农业可持续蚜虫防治的数学模型</h3>
@@ -340,6 +358,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Alfonso Allen-Perkins, Ernesto Estrada</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.05043v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 农业对有害生物的损失是全球变暖情景中的一项重要挑战。间作是一种替代农业实践，可在不使用化学杀虫剂的情况下促进害虫防治。在这里，我们开发了一个数学模型来研究间作农业领域的流行病传播和控制，作为农业可持续的病虫害管理工具。该模型结合了农业领域中传播病毒的蚜虫的运动，间作田间植物的空间分布，以及流行病学易感染 - 去除（SIR）模型中“陷阱作物”的存在。使用该模型，我们研究了没有和与陷阱作物相关的几种间作安排，并找到了一种新的间作安排，相对于常用的间作系统，它可以显著改善农业领域的病虫害管理。</p>
 
 <h3 id="用社交媒体表征当地对移民的态度">用社交媒体表征当地对移民的态度</h3>
@@ -349,6 +369,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1903.05072">http://arxiv.org/abs/1903.05072</a></p>
 
 <p>作者： Yerka Freire, Eduardo Graells-Garrido</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.05072v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 迁移是一种全球性现象，可能在人群中产生不同的反应。态度不同于那些支持当地人和外国人之间的多元文化和交流，以及对移民的蔑视和仇恨。由于反移民态度往往在暴力和歧视行为中得到体现，因此必须确定表征这些态度的因素。然而，这样做是昂贵且不切实际的，因为传统方法需要付出巨大努力来收集数据。在本文中，我们建议利用Twitter来描述当地对移民的态度，并对智利进行了案例研究，近年来移民人口急剧增加。使用半监督主题建模，我们将49K用户定位在从有利于移民到反对移民的范围内。我们从两个方面对谱的两个方面进行了表征：与每种态度相关的情感和词汇类别，以及讨论网络结构。我们发现讨论主要是海地移民;讨论的趋势和极性存在时间趋势;并且网络上的分类行为在态度上有所不同。这些见解可以为政策制定者提供有关移民方面的感受的信息，对政策沟通和改善群体间关系的干预措施的设计具有潜在影响。</p>
 

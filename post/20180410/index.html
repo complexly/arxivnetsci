@@ -95,7 +95,7 @@ Quootstrap：利用自助法无监督可扩展地提取大型新闻语料库中�
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -103,9 +103,9 @@ Quootstrap：利用自助法无监督可扩展地提取大型新闻语料库中�
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -270,6 +270,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Valentin Kassarnig, Andreas Bjerre-Nielsen, Enys Mones, Sune Lehmann, David Dreyer Lassen</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1702.01262v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 识别决定学业成绩的因素是教育研究的重要组成部分。现有研究表明，班级出勤率是后续课程成绩的有用预测指标。然而，大多数文献都是基于调查和自我报告的方法，这些方法具有众所周知的系统偏见，导致对结论和普遍性的限制以及实施成本高昂。在这里，我们提出了一种测量班级出勤率的新方法，通过使用从智能手机传感器收集的位置和蓝牙数据来克服这些限制。根据近1000名本科生的出勤率数据，我们证明早期和一致的班级出勤与学业成绩密切相关。此外，我们的新颖数据集使我们能够确定社交同伴之间的出勤率是基本相关的（$&gt; 0.5美元），表明或者是重要的同伴效应，或者与出席率相同。</p>
 
 <h3 id="激励社会网络真相而非假新闻的传播">激励社会网络真相而非假新闻的传播</h3>
@@ -279,6 +281,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1804.02509">http://arxiv.org/abs/1804.02509</a></p>
 
 <p>作者： Abbas Ehsanfar, Mo Mansouri</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02509v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 作为一种公共物品的真理概念是一种集体理解的产生，这种理解来源于复杂的社会互动网络。社会网络最近对塑造政治领域真相感受的影响表明，这种看法如何得到在线用户的共同确认和确立。然而，考虑到大量的在线信息，用于发现真相的调查性新闻报道是一个昂贵的选择。在某些情况下，记者和在线用户都选择不调查他们收到的新闻的真实性，因为他们认为网络的其他角色承担了验证费用。因此，新的“假新闻”现象已经出现在社会网络的背景下。在线社会网络与系统系统类似，导致新兴性质，鉴于多种来源的可用性，这使得认证过程变得困难。在这项研究中，我们展示了如何将这种冲突模拟为志愿者的困境。我们还展示了通过新闻订阅（共享奖励）的公众贡献如何影响网络中虚假新闻的真相优势。</p>
 
@@ -290,6 +294,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Dario Pavllo, Tiziano Piccardi, Robert West</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02525v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们从大型新闻语料库中提出Quootstrap，一种提取引文的方法，以及发表他们的发言人的名字。尽管之前的工作主要是通过有监督的机器学习来解决这个问题，但我们的方法遵循完全无监督的引导范例。它利用了大型新闻语料库中存在的冗余，更确切地说，在稍有不同的情况下，多条新闻文章中经常会出现相同的引语。从少数种子模式开始，如[“Q”，S表示），我们的方法提取一组引用 - 说话者对（Q，S），这些对又被用于发现表达相同引用的新模式;然后用较大的图案集重复该过程。我们的算法具有高度可扩展性，我们通过在大型ICWSM 2011 Spinn3r语料库上运行该算法进行演示。验证我们的结果与众包的地面真相对比，我们使用单种子模式在40％的召回率下获得90％的精确度，对于更频繁报道（因此可能更有趣）的报价，具有显著更高的召回值。最后，我们通过分析我们提取的报价中表达的情绪，展示了我们的算法输出对于计算社会科学的有用性。</p>
 
 <h3 id="通过一种新方法探索lent对婚姻和生育的影响">通过一种新方法探索Lent对婚姻和生育的影响</h3>
@@ -299,6 +305,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1804.02572">http://arxiv.org/abs/1804.02572</a></p>
 
 <p>作者： Claudiu Herteliu, Peter Richmond, Bertrand M. Roehner</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02572v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： Herteliu等人（2015）在其他地方分析了宗教节日对罗马尼亚出生的影响。在这里，我们通过研究Lent对婚姻和出生的影响（ii），通过分析其他一些国家允许与非正统国家进行比较来拓宽分析。我们还引入了一种新方法，通过这种方法可以将分析从与出生和婚姻的季节模式有关的偏差中解放出来。对婚姻和概念的影响之间的比较似乎特别令人感兴趣，因为它可以一方面评估社会压力的重量，另一方面评估个人倾向。我们的分析揭示了Lent对婚姻的强烈影响，东正教国家减少了80％，西欧天主教和新教国家减少了40％。由于Lent对概念的影响不受任何形式的直接社会控制的影响，人们可能会认为影响要小得多。以百分比计，它比婚姻效应大约小10倍。目前的方法为准确调查其他流动宗教时期（如斋月）对各种社会现象（如自杀）的影响开辟了道路。</p>
 
@@ -310,6 +318,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Sergio Gómez, Alberto Fernández, Sandro Meloni, Alex Arenas</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02581v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 联络网络的结构形成了流行过程的扩散。网络理论的最新进展提高了我们对大规模流行病学过程的理解。但是，在疫情传播研究中还有几个需要评估的问题仍然需要进行评估。其中一个考虑因素是考虑到流行病携带者流入中的起源地和目的地模式的影响。在这里，我们计算与航空运输网络中粗颗粒物流经验数据相符的原点 - 目的地模式。我们研究流行病流行病的发生率，考虑流行病知识的不同选择。考虑到来源和目的地流量的估算数据驱动情景与评估流行病在微观层面上的影响（在我们的情景中，哪些人群受到感染）相关，而在考虑宏观发生率时却是不相关的（分数的感染人群）。这些结果有助于实施更好的计算平台来预测流行病的发病率。</p>
 
 <h3 id="渗透社会网络-背后的问题">渗透社会网络：背后的问题</h3>
@@ -319,6 +329,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1804.02608">http://arxiv.org/abs/1804.02608</a></p>
 
 <p>作者： Fanyu Que, Krishnan Rajagopalan, Tauhid Zaman</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02608v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 现代威胁来自社会网络的盛行。敌对行为体，如极端主义团体或外国政府，利用这些网络开展不同目标的宣传活动。对于极端主义者来说，这些活动旨在招募新成员或煽动暴力。对于外国政府来说，其目的可能是在竞争国家造成不稳定。正确的社会网络对策是抵制这些威胁所必需的。在这里我们提出一个重要的对策：渗透社会网络。这意味着要让目标用户连接或关注社会网络中部署的代理。一旦与目标建立了这种联系，代理就可以通过分享影响活动的内容来影响他们。在这项工作中，我们研究如何渗透社会网络，我们称之为后退问题。这里的目标是找到一个最大化跟随代理的目标数量的策略。我们进行实证研究以了解行为和网络特征对代理之后目标的可能性有何影响。我们发现目标的程度和网络中代理和目标的相互邻居的大小会影响这个概率。根据我们的实证研究结果，我们然后提出了一个模型，用于跟踪代理人的目标使用这个模型，我们在有向无环图上精确地解决后续问题，并导出一个闭包表达式，以表示代理在最优策略下接收到的期望数量。然后，我们将任意图上的后续问题作为整数程序来制定。为了评估我们基于整数规划的策略，我们在Twitter上对真实的社会网络拓扑进行了仿真。我们发现，我们的政策导致更有效的网络渗透，并且代理之后的预期目标数量显著增加。</p>
 
@@ -330,6 +342,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Shabnam Behzad, Arman Sepehr, Hamid Beigy, Mohammadzaman Zamani</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02727v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 近年来，基于有限观测确定传播源的问题近年来得到了重大研究，因为它可以帮助减少不需要的感染造成的损害。在本文中，我们提出了一种有效的方法来查找最初将一条信息引入网络的节点，并推断它启动的时间。在受限观察中将感染节点标记为观察节点，将其他节点标记为隐藏节点，我们首先估计每个传播迹线的隐藏节点与观察节点之间的最短路径。然后通过优化平方损失函数，找到隐藏节点中最好的节点作为源节点。本文介绍的方法基于更真实的情况，比以前的作品更容易和更实用。我们通过网络对现实世界的传播进行的实验表明，我们的方法在检测真实来源方面的优越性，将最先进的方法的前十个精度从不到10％提高到约30％。另外，我们观察到我们的源识别方法运行速度比以前的工作快10倍。</p>
 
 <h3 id="我们可以依靠社交媒体指标吗-对社会化媒体活跃学术使用的第一个见解">我们可以依靠社交媒体指标吗？对社会化媒体活跃学术使用的第一个见解</h3>
@@ -339,6 +353,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1804.02751">http://arxiv.org/abs/1804.02751</a></p>
 
 <p>作者： Maryam Mehrazar, Christoph Carl Kling, Steffen Lemke, Athanasios Mazarakis, Isabella Peters</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02751v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 衡量研究影响力对于在学术搜索引擎和研究评估中对出版物进行排名很重要。社交媒体指标或信息量度衡量基于社交媒体活动的科学工作的影响。 Altmetrics与传统的基于引用的度量标准是互补的。允许评估尚未提供引文的新出版物。尽管altmetrics越来越重要，但它们的特征还没有得到很好的理解：直到现在还没有研究过哪些研究人员正在积极使用哪些社交媒体服务以及为什么 - 这是科学影响预测的重要问题。根据对3,430位科学家的调查，我们发现了社交媒体服务之间以前未知和显著的差异：我们确定分别吸引年轻和有经验的研究人员的服务，并检测使用动机的差异。我们的发现对未来的科学影响预测的信息量度的设计具有直接影响。</p>
 
@@ -350,6 +366,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Allison C. Morgan, Samuel F. Way, Aaron Clauset</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02760v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 科学劳动力的组成构成了科学研究的方向，直接通过挑选问题进行调查，并间接通过其对未来科学家培训的影响。然而，在大多数领域，难以获得完整的人口普查信息，使研究劳动力动态和政策效应的努力复杂化。计算机科学尤其如此，因为它没有一个单一的，包罗万象的目录或专业组织。全面的计算机科学普查将为许多目的服务，其中最重要的是更好地理解计算中不平等代表的趋势和原因。先前的学术普查工作依赖于狭义或有偏见的样本，或专业社会成员名单。全面的人口普查可以直接从在线的部门教员目录中构建，但是手动这样做是非常昂贵和耗时的。在这里，我们介绍一个主题网络爬虫，用于自动收集来自网络部门名录的教员信息，并在美国和加拿大的205个博士授予计算机科学系展示由此产生的系统。这种方法可以在几分钟内完成对该领域的完整普查，并且达到99％以上的精确度和召回率。我们通过将2017年人口普查结果与手工策划的2011年人口普查结果进行比较，以量化计算机科学尤其是女性教师的流动率和留存率，从而展示通过自动化人口普查建设实现的分析类型。</p>
 
 <h3 id="基于开源软件社区网络成长模型的社区分析">基于开源软件社区网络成长模型的社区分析</h3>
@@ -359,6 +377,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1804.02822">http://arxiv.org/abs/1804.02822</a></p>
 
 <p>作者： Takumi Ichimura, Takuya Uemoto</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02822v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 开源软件开发者中的社区社区具有复杂的网络结构。网络结构代表软件开发人员社区中项目与工程师之间的关系。一个项目组成一些由工程师组成的团队，这些团队由一些任务组组成。 Source Forge是众所周知的开源网站之一。网络结构中的节点和弧代表SourceForge中的工程师及其工程师之间的连接。在之前的研究中，我们发现，根据参与项目的开发人员数量，项目的成长过程变得强劲。在成长阶段，我们发现代理人数量和生产项目之间存在一些特征模式。通过这样的观察，我们开发了一个执行项目成长过程的模拟模型。在本文中，我们将陆军蚂蚁模型中显示的利他行为引入到软件开发人员的仿真模型中。通过一些实验模拟结果来研究软件开发过程的效率。</p>
 
@@ -370,6 +390,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Yelena Mejova</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02850v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 肥胖和糖尿病流行分别影响到美国人口的三分之一和十分之一，引起了国家和机构的关注。社交媒体为个人和卫生组织之间的沟通提供了一个公开的论坛，这个论坛很容易被各方寻求从中获利。在本文中，我们检查了150万条关于肥胖和糖尿病的推文，以评估（1）本次会话中流传的信息的质量，以及（2）参与其中的用户的行为和信息需求。对顶级域名的分析表明，与肥胖和50％糖尿病样本中41％没有隶属于政府或学术机构的健康信息源相比，包含这些域名的推文更多地被转发的信息超过了信誉良好的域名源。在用户方面，我们估计超过四分之一的非信息性肥胖话语含有脂肪羞辱 - 一种羞辱和批评超重个体的做法 - 一些自我指向作家本身。我们还发现这些数据集中提出的问题存在很大差异，包括肥胖定义为疾病，社会规范和政府政策。我们的研究结果表明需要解决社交媒体上健康信息的质量控制问题，以及需要围绕这些疾病进行一种局部多样的，心理层面的讨论。</p>
 
 <h3 id="个性化的pagerank维度和算法影响">个性化的PageRank维度和算法影响</h3>
@@ -379,6 +401,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1804.02949">http://arxiv.org/abs/1804.02949</a></p>
 
 <p>作者： Daniel Vial, Vijay Subramanian</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02949v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 包括互联网，社会网络和电网在内的许多系统都可以用图表来表示。在分析图时，计算描述节点之间相对重要性或距离的分数通常很有用。一个例子是Personalized PageRank（PPR），它为每个节点赋值$ v $一个向量，其$ i $ -th条目从$ v $的角度描述了$ i $ -th节点的重要性。 PPR在许多应用中被证明是有用的，例如推荐谁应该在社会网络上跟随谁（如果这个$ i $ -th条目很大，$ v $可能有兴趣跟随$ i $ -th用户）。不幸的是，计算$ n $这样的PPR向量（其中$ n $是节点的数量）对于许多感兴趣的图是不可行的。在这项工作中，我们认为情况并非如此糟糕。我们的主要结果表明，PPR向量集的维度以高概率在$ n $中次线性地进行尺度，对于某类随机图和维度类似于秩的概念。换句话说，我们认为，尽管包含这些向量的矩阵的排名为$ n $，这个集合的有效维数远小于$ n $。此外，我们显示这个维度测量与Jeh和Widom提出（但未分析）的PPR估计方案的复杂性密切相关。这使我们可以争辩说，准确地估计所有$ n $ PPR向量就等于计算$ n ^ 2 $向量元素的一个消失部分（当我们的主要结果的技术假设得到满足时）。最后，我们凭经验证明，尽管假设我们的理论不成立，但在考虑真实世界网络时仍然存在类似的结论。</p>
 
@@ -390,6 +414,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Jun Sun, Steffen Staab, Fariba Karimi</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02950v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们提出了一种新的基于附件的网络增长模型，以解释增长网络的两个性质：（1）节点度的幂律增长和（2）节点相关性的衰减。在优先连接模型中，节点获取链接的能力受到其程度，适应度以及其相关性的影响，而该相关性通常会随时间而衰减。在回顾了现有的模型之后，我们认为他们不能同时解释上述两个属性（1）和（2）。我们发现，除了在许多系统中经验观察，随着时间的推移，网络规模的指数增长是维持节点相关性衰减时节点度数的幂律增长的关键。因此，我们在模型中明确区分了事件时间和物理时间，并且表明在假设节点的相关性随其年龄$ \ t $衰减的情况下，存在衰减函数$ f_R的解析解$，格式为$ f_R（\ tau）= \ tau ^ { -  1} $。正如我们的实验所支持的，真实网络的其他性质，如幂律相似度分布仍然可以保留。这使得我们的模型有助于解释和分析许多真实的系统，例如引用网络。</p>
 
 <h3 id="低电压需求的短期负荷预测和天气的影响">低电压需求的短期负荷预测和天气的影响</h3>
@@ -399,6 +425,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1804.02955">http://arxiv.org/abs/1804.02955</a></p>
 
 <p>作者： Stephen Haben, Georgios Giasemidis, Florian Ziel, Siddharth Arora</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02955v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 短期负荷预测将在实施智能电网中发挥关键作用。他们需要优化低压（LV）电网上广泛的潜在网络解决方案，包括集成低碳技术（如光伏技术）和利用电池存储设备。尽管需要准确的LV水平负荷预测，但以前的研究主要集中在使用智能仪表数据预测个人住户或建筑物水平。在这项研究中，我们使用来自100个真实LV供料器的数据，在点和概率预测精度方面提供了各种方法的详细分析。此外，我们调查温度（实际和预测）对负荷预测精度的影响。我们介绍了LV预测精度驱动因素的一些重要结果，这些对LV网络的管理至关重要，并对预测措施进行了实证比较。</p>
 
@@ -410,6 +438,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Gerrit Großmann, Charalampos Kyriakopoulos, Luca Bortolussi, Verena Wolf</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.02981v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 复杂网络在人类社会和自然界中发挥着重要作用。随机多态过程提供了一个强大的框架来模拟各种新兴现象，例如流行病的动态或复杂网络上信息的传播。近年来，平均场类型近似值作为分析和理解复杂网络动力学的工具而受到广泛关注。他们通过假设具有相似本地结构的所有节点表现相同来减少模型的复杂性。在这些方法中，近似主方程（AME）通过考虑节点的整个邻域来提供复杂网络动态的最准确描述。典型网络的大小虽然呈现出多态AME不可行的数值解。在这里，我们提出了一种有效的AME数值解法，它利用结构相似的节点组的微分方程之间的相似性。我们将大量类似的方程聚集在一起，并且每个聚类只解决单个集总方程。我们的方法允许将AME应用于真实世界的网络，同时保持其在计算全球网络属性估计值时的准确性，例如给定时间的状态中节点的比例。</p>
 
 <h3 id="弱噪声限制下的平均场博弈-福克-普朗克方程的wkb方法">弱噪声限制下的平均场博弈：福克-普朗克方程的WKB方法</h3>
@@ -419,6 +449,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1804.03090">http://arxiv.org/abs/1804.03090</a></p>
 
 <p>作者： Thibault Bonnemain, Denis Ullmo</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1804.03090v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 通过研究被称为“研讨会问题”的平均场博弈玩具模型，我们考虑了特定漂移场的小噪声体系中的Fokker-Planck方程。这使我们有机会讨论WKB方法“a la Maslov”的扩散问题的应用，使得以特别透明的方式直接解决时间相关问题成为可能。</p>
 

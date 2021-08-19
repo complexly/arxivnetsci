@@ -68,7 +68,7 @@
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -76,9 +76,9 @@
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -234,6 +234,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Akrati Saxena</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.08166v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 数十年来，诸如社会网络，生物网络，化学网络，技术网络之类的复杂网络已被用于研究各种复杂系统的演化和动力学。可以使用加权链接更好地描述这些复杂的系统，因为二进制连接不能描述系统的完整信息。所有这些加权网络通过遵循不同的基础机制在不同的环境中发展。研究人员致力于弄清加权网络的发展现象，以理解其结构和动力学。在本章中，我们将讨论加权网络的演进和模型的演化，以生成不同类型的综合加权网络，包括无向，有向，有符号，多层，社区和核心外围结构的加权网络。我们进一步讨论了生成的合成网络所具有的各种属性以及它们与真实世界加权网络的相似性。</p>
 
 <h3 id="理解图嵌入方法及其应用">理解图嵌入方法及其应用</h3>
@@ -243,6 +245,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2012.08019">http://arxiv.org/abs/2012.08019</a></p>
 
 <p>作者： Mengjia Xu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.08019v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 图分析可以导致对复杂网络的更好的定量理解和控制，但是传统方法遭受高计算成本和与工业规模网络的高维度和异构特性相关的过多内存需求的困扰。图嵌入技术可以有效地将高维稀疏图转换为低维，密集和连续的向量空间，从而最大程度地保留图结构的属性。新兴的图嵌入的另一种类型是采用具有重要不确定性估计的基于高斯分布的图嵌入。图嵌入方法的主要目标是将每个节点的属性打包到一个具有较小尺寸的向量中，因此，可以使用标准度量轻松地在嵌入的向量不规则空间中对节点相似性进行量化。在潜在空间中生成的非线性且信息量大的图嵌入可方便地用于解决不同的下游图分析任务（例如，节点分类，链路预测，社区检测，可视化等）。在这篇综述中，我们介绍了图分析和图嵌入方法中的一些基本概念，尤其着重于基于随机游动和基于神经网络的方法。我们还将讨论新兴的基于深度学习的动态图嵌入方法。我们重点介绍了图嵌入方法在四个不同应用程序中的独特优势，并在附录中提供了实现细节和对开源软件以及可用数据库的引用，以供有兴趣的读者开始对图分析的探索。</p>
 
@@ -254,6 +258,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Manqing Ma, Gyorgy Korniss, Boleslaw K. Szymanski</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.08067v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 影响最大化是寻找最小节点集的任务，这些节点在社会网络中的激活可以触发达到目标网络覆盖范围的激活级联，其中阈值规则确定影响的结果。这个问题是NP难题，并且它为寻找有效的启发式方法产生了大量的最新研究。我们专注于 it平衡指数算法，该算法依靠三个参数来调整其性能以适应给定的网络结构。我们建议使用监督式机器学习方法进行此类调整。我们选择最有影响力的图功能进行参数调整。然后，使用基于随机游走的图采样，我们从给定的合成和大规模现实世界网络中创建小快照。使用穷举搜索，我们为这些快照找到了BI参数的高精度值，可以用作基础事实。然后，我们在快照上训练我们的机器学习模型，并将该模型应用于实词网络以找到最佳的BI参数。我们将这些参数应用到采样的真实世界网络中，以测量以此方式发现的发起方集合的质量。我们使用各种现实世界的网络来针对其他启发式方法验证我们的方法。</p>
 
 <h3 id="带有情感传染的二维人群动力学的动力学理论方法">带有情感传染的二维人群动力学的动力学理论方法</h3>
@@ -263,6 +269,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2012.08108">http://arxiv.org/abs/2012.08108</a></p>
 
 <p>作者： Daewa Kim, Kaylie O&rsquo;Connell, William Ott, Annalisa Quaini</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.08108v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在本文中，我们提出了一种针对人群动态的计算建模方法，其中情感的传播（特别是恐惧）会影响行人的行为。我们的方法基于活性粒子动力学理论的方法。该模型使我们能够根据恐惧程度在两种竞争行为之间进行权衡：寻找较少拥挤的区域和无意识地跟随水流的趋势（放牧）。每个行人的恐惧程度都会影响她的步行速度，并受邻居的恐惧程度影响。在数值上，我们使用算子拆分方案来解决带有情感传染的行人模型。我们模拟了涉及两组相互作用的行人的疏散场景，以评估域几何形状和恐惧传播的细节如何影响疏散动态。此外，我们重现了涉及不良蚂蚁的实验研究的撤离动力学。</p>
 
@@ -274,6 +282,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Mohammadreza Doostmohammadian, Alireza Aghasi, Themistoklis Charalambous</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.08181v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在本文中，部署了分布式动力学来解决随时间变化的多主体网络上的资源分配。每个主体的状态表示该主体使用/生产的资源量，而资源总量是固定的。这个想法是通过减少总成本函数（受固定总资源量限制），在主体程序组之间最佳地分配资源。每个主体的信息仅限于其自身的状态和成本函数以及与其直接邻居的信息。这是由分布式应用程序（例如，移动边计算，智能电网上的经济调度以及多主体覆盖控制）推动的。与文献中的线性和一些非线性解决方案相比，本文提出的非Lipschitz动力学具有快速收敛性。此外，本文中的多主体网络连接更加宽松。更具体地说，所提出的动力学甚至在时变断开的无向网络上甚至达到了最佳解决方案，只要这些网络在某些有界非重叠时间间隔上的并集包括生成树即可。所提出的收敛性分析可以应用于类似的一阶资源分配非线性动力学。我们提供模拟以验证我们的结果。</p>
 
 <h3 id="网络中互惠和社区发现的生成模型">网络中互惠和社区发现的生成模型</h3>
@@ -284,6 +294,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Hadiseh Safdari, Martina Contisciani, Caterina De Bacco</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.08215v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们提出了一种概率生成模型和有效的算法来建模有向网络中的互惠性。与解决该问题的其他方法（例如指数随机图）不同，它将潜在变量作为社区成员身份分配给节点，将互易性参数分配给整个网络，而不是拟合顺序统计信息。它正式化了这样的假设：如果一个人已经观察到与她的互动，则更有可能发生有向互动。它为放松边之间的条件独立性的网络生成模型中的通用假设提供了自然的框架，并且可以用于执行推理任务，例如在观察到反向边的情况​​下预测边的存在。使用有效的期望最大化算法执行推理，该算法利用网络的稀疏性，从而实现高效且可扩展的实现。我们通过分析综合和真实数据（包括社会网络，学术引用和Erasmus学生交流计划）来说明这些发现。我们的方法在预测边和生成反映真实数据中观察到的互易性值的网络方面均胜过其他方法，同时推断出潜在的社区结构。我们在线提供了代码的开源实现。</p>
 
 <h3 id="国家尺度粮食系统可持续性的数学模型">国家尺度粮食系统可持续性的数学模型</h3>
@@ -293,6 +305,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2012.08355">http://arxiv.org/abs/2012.08355</a></p>
 
 <p>作者： Conor Goold, Simone Pfuderer, William H. M. James, Nik Lomax, Fiona Smith, Lisa M. Collins</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.08355v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 全球粮食系统面临着各种内源性和外源性，生物和非生物风险因素，包括人口增长，人口密度增加，价格波动和气候变化。定量模型在理解食品系统对冲击和压力的预期响应中起着重要作用。在这里，我们提出了一个国家级食品体系的程式化数学模型，该模型结合了食品的国内供应，国际贸易，消费者需求和食品的价格。我们得出一个关键的复合参数信号，表明国内供应将变得不可持续，而粮食系统完全依赖进口，从而导致商品价格上涨，消费者需求降低和库存水平降低。使用贝叶斯估计，我们应用动态食品系统模型来推断英国猪肉行业的可持续性。我们发现英国猪肉业目前是可持续的，但由于该行业依赖进口来满足需求，自给率降低至50％以下（当前水平为60-65％）将使其接近临界信号，表明其坍方。我们的模型为将来确定食物系统脆弱性的更复杂的因果驱动因素提供了理论基础。</p>
 

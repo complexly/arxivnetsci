@@ -86,7 +86,7 @@
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -94,9 +94,9 @@
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -258,6 +258,8 @@ var _hmt = _hmt || [];
 
 <p>作者： María Óskarsdóttir, Cristián Bravo</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.09559v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们提出了用于信用风险评估的多层网络模型。我们的模型考虑了借款人之间的多重联系（例如他们的地理位置和经济活动），并允许对关联借款人之间的互动进行显式建模。我们开发了多层个性化PageRank算法，该算法可以量化网络中任何借款人的默认敞口强度。我们在农业贷款框架中测试了我们的方法，长期以来人们一直怀疑该方法在借款人面临相同结构风险时存在违约关系。我们的结果表明，仅在模型中包含中心多层网络信息即可获得显著的预测性收益，而诸如多层PageRank变量之类的更复杂的信息会增加这些收益。结果表明，当一个人与许多违约者建立联系时，违约风险最高，但此风险可以通过其邻居的规模来减轻，这表明违约风险和财务稳定性都在整个网络中传播。</p>
 
 <h3 id="使用双超图卷积网络的多重二分网络嵌入">使用双超图卷积网络的多重二分网络嵌入</h3>
@@ -267,6 +269,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.06371">http://arxiv.org/abs/2102.06371</a></p>
 
 <p>作者： Hansheng Xue, Luwei Yang, Vaibhav Rajan, Wen Jiang, Yi Wei, Yu Lin</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.06371v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 双向网络是一种图结构，其中节点来自两个不同的域，并且只有域间的交互作为边存在。存在大量的网络嵌入方法来从具有均质和异质节点和边沿类型的通用图中学习矢量节点表示，包括一些可以专门为二分网络的不同属性建模的方法。然而，这些方法不足以对具有多种类型的交互作用（例如，点击，查询和购买）和节点属性的多路双向网络（例如，在电子商务中）建模。大多数现实世界中的多路二分网络也很稀疏，并且节点分布不均衡，很难建模。在本文中，我们开发了一种无监督的双重超图卷积网络（DualHGCN）模型，该模型可将多重二分网络可尺度地转换为两组齐次超图，并使用谱超图卷积算符以及消息内和消息间传递策略来促进信息交换。域内和跨域，以学习有效的节点嵌入。我们使用关于链路预测和节点分类任务的四个实际数据集对DualHGCN进行基准测试。我们广泛的实验表明，DualHGCN明显优于最新方法，并且对于变化的稀疏性级别和不平衡的节点分布具有鲁棒性。</p>
 
@@ -278,6 +282,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Shantanu Thakoor, Corentin Tallec, Mohammad Gheshlaghi Azar, Rémi Munos, Petar Veličković, Michal Valko</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.06514v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 图神经网络（GNN）的当前最先进的自我监督学习方法是基于对比学习的。因此，它们在很大程度上取决于扩充和否定示例的构造。例如，在标准PPI基准测试中，增加负对的数量可提高性能，从而要求计算和内存成本在节点数量上增加两倍，以达到最佳性能。受BYOL（一种最近推出的不需要负对的自我监督学习方法）的启发，我们提出了自举图潜能BGRL，这是一种自我监督的图表示方法，它摆脱了这一潜在的二次瓶颈。在几个已建立的基准数据集上，BGRL的表现优于或匹配先前的非监督性最新结果。此外，它可以有效利用图注意（GAT）编码器，从而使我们能够进一步改善现有技术。特别是在PPI数据集上，使用GAT作为编码器，我们使用线性评估协议实现了最新的70.49％Micro-F1。在考虑中的所有其他数据集上，我们的模型在同等监督的GNN结果（通常超过它们）上具有竞争力。</p>
 
 <h3 id="基于广义种子边信息的图匹配">基于广义种子边信息的图匹配</h3>
@@ -287,6 +293,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.06267">http://arxiv.org/abs/2102.06267</a></p>
 
 <p>作者： Mahshad Shariatnasab, Farhad Shirani, Siddharth Garg, Elza Erkip</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.06267v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在本文中，考虑了在存在广义种子边信息的情况下匹配的成对的立体合成图。图匹配问题自然出现在各种应用中，例如社会网络去匿名化，图像处理，DNA排序和自然语言处理。考虑一对具有成对相关边的随机生成的带标记的鄂尔多斯-仁伊图。假定匹配策略可以访问第一个图的顶点的标签，以及第二个图的顶点的可能标签的候选列表的集合（称为歧义集）。目的是利用图的边之间的相关性以及以歧义集形式提供的边信息来恢复第二图中的顶点的标签。可以将这种情况看作是种子图匹配问题的概括，其中歧义集采用特定形式，以便在匹配之前知道第二张图中顶点子集的确切标签。提出了一种匹配策略，该策略通过评估图的邻接矩阵的联合典型性来进行操作。推导了边统计信息和模糊集统计信息的充分条件，在该条件下，所提出的匹配策略成功地恢复了第二张图中顶点的标签。此外，Fano类型的参数用于导出成功匹配的一般必要条件。</p>
 
@@ -298,6 +306,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Laurent Pagnier, Michael Chertkov</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.06349v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 参数估计（PE）和状态估计（SE）是系统工程中最广泛使用的任务。随着测量的到来，它们需要自动，快速且频繁地完成。深度学习（DL）有望解决挑战，但到目前为止，就电力系统中的PE和SE而言，（a）由于缺乏基于电力的物理原理，DL未能赢得系统运营商的信任，解释和（b）在缺乏数据的操作方案中，DL仍然是虚幻的。为理解决这个问题，我们提出了一种混合方案，该方案将电力系统的物理建模嵌入图神经网络（GNN），从而使系统操作员能够获得可靠且可解释的实时预测，然后可以将其用于控制​​关键基础设施。为了使向PE和SE的可信赖DL迈进，我们建立了一种称为Power-GNN的物理方法，该方法可在有效潮流（EPF）模型内重建物理参数（因此可解释），例如有效电力线的导纳，以及NN参数，代表系统中隐性未观察到的元素。在我们的实验中，我们在不同的现实电力网络上测试Power-GNN，其中包括具有数千个负载和数百个发电机的电力网络。我们展示了Power-GNN在不理解EPF物理的情况下优于传统的NN方案。</p>
 
 <h3 id="气候变化怀疑论者如何反对意见-在线论坛中理解社会认同和认知失调的机制">气候变化怀疑论者如何反对意见？在线论坛中理解社会认同和认知失调的机制</h3>
@@ -307,6 +317,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.06516">http://arxiv.org/abs/2102.06516</a></p>
 
 <p>作者： Lisa Oswald, Jonathan Bright</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.06516v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 反对意见的参与是否有助于打破思想上的“回声室”；还是适得其反并加强了它们？随着学者，决策者和激进主义者努力解决如何规范社交媒体上的政治讨论的问题，这个问题仍然至关重要。在这项研究中，我们通过研究主要的气候变化怀疑论者在线社区中对Reddit的反对意见的影响，为辩论做出了贡献。大量的帖子样本（N = 3000）被手动编码为不谐音或辅音，从而可以自动分类来自链接网站的5万多个帖子的完整数据集。我们发现，意识形态上不合逻辑的意见书对社区活动起了刺激作用：尽管他们通过投票和否定获得较低的分数，但他们获得的关注（评论）多于辅音。参与不当提交的用户也更有可能返回论坛。与身份理论相一致，与反对意见的对抗引发了论坛中的活动，尤其是在与社区高度互动的用户中。根据这些发现，讨论并增强了社会认同和回声室的理论。</p>
 
@@ -318,6 +330,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Francesco Sanna Passino, Nicholas A. Heard</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.06527v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 根据计算机网络安全中的实际应用，提出了一种新的动态网络模型，称为相互激励点过程图（MEG）。 MEG是具有二叉标记的点过程的可扩展的全网络统计模型，可用于评估以前未观察到的连接的重要性时用于异常检测。该模型结合了相互激励的点过程来估计事件之间的依赖性，并结合潜在空间模型来推断节点之间的关系。每个网络边的强度函数仅通过特定于节点的参数进行参数设置，从而可以在网络上共享信息。利用了现代梯度上升算法的快速推理程序。该模型在模拟图和真实世界的计算机网络数据集上进行了测试，证明了其出色的性能。</p>
 
 <h3 id="两国的故事-移动用户通过应用程序流行度对covid-19大流行反应的纵向跨国研究">两国的故事：移动用户通过应用程序流行度对COVID-19大流行反应的纵向跨国研究</h3>
@@ -327,6 +341,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.06528">http://arxiv.org/abs/2102.06528</a></p>
 
 <p>作者： Liu Wang, Haoyu Wang, Yi Wang, Gareth Tyson</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.06528v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 持续不断的COVID-19大流行已经深刻影响了世界各地人们的生活，包括人们与移动技术的互动方式。在本文中，我们寻求发展对大流行的动态轨迹如何影响手机用户体验的理解。通过应用程序普及度的镜头，我们从跨国角度实现了这一目标。我们编译了一个数据集，其中包含在中国和美国的iOS App Store中最受欢迎的应用程序的六个月每日快照，其中大流行表现出了不同的轨迹。使用此纵向数据集，我们的分析提供了大流行期间类别和单个应用程序级别的应用程序排名的详细模式。我们发现，应用类别的排名与大流行相关，具体取决于特定国家/地区的发展轨迹。我们的工作为典型的全球性公共卫生危机COVID-19如何影响人们与Internet和移动技术的日常交互提供了丰富的见解。</p>
 
@@ -338,6 +354,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Frédéric Simard, Clémence Magnien, Matthieu Latapy</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.06543v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 相互之间的中心性是图分析中最重要的概念之一。最近将其扩展到链接流，这是一种图概括，其中链接随时间到达。但是，由于时间被认为是连续的，因此它的计算带来了不小的问题。我们在这里提供了第一种算法来计算这种广义的介数中心性中心度，以及几种具有自己兴趣的伴随算法。它们在多项式时间和空间中工作，我们在典型示例中对其进行说明，并提供一个实现。</p>
 
 <h3 id="城市交通空间格局的差异-性别和社会经济观点">城市交通空间格局的差异：性别和社会经济观点</h3>
@@ -347,6 +365,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.06619">http://arxiv.org/abs/2102.06619</a></p>
 
 <p>作者： Mariana Macedo, Laura Lotero, Alessio Cardillo, Ronaldo Menezes, Hugo Barbosa</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.06619v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在社会中，我们的许多日常活动和活动与我们的行动能力有关；通勤上班，逛杂货店或结识朋友。然而，限制个人充分实现其行动需求的能力的因素最终将影响他们能够获得的机会（例如，文化活动，专业互动）。在人类流动性研究中经常被忽视的一个重要方面是，以性别为中心的问题如何加剧流动性不利因素的其他来源（例如社会经济不平等），对男女获得的机会池产生不均影响。在这项工作中，我们利用计算，统计和信息论方法的组合来调查（1）来自不同社会经济背景的男女流动性多样性（即旅行目的地的多样性）中系统性差异的存在，以及（2）工作和非工作旅行。我们的分析是基于数据集，该数据集包含在南美三个主要城市地区（哥伦比亚的Medell&rsquo;in和Bogot  a以及巴西的S 〜Paulo）进行的大规模官方旅行调查的多个实例。我们的结果表明，与个体的性别和社会经济特征有关的城市流动性多样性普遍存在差异。最后，本文为性别层面的人类流动性不平等的可能根源提供了新的启示，有助于人们对人类流动的分类模式有一个普遍的理解。</p>
 
@@ -358,6 +378,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Mohammadhossein Ghahramania, Francesco Pillaa</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.06656v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 可以使用社会经济数据的空间化并将其与其他信息源集成，以揭示有价值的见解。此类数据可用于推断不同的变化，例如城市居民的动态及其时空变异性。这项工作侧重于此类应用，以探索爱尔兰都柏林不同地理区域的社会经济特征与每个地区确诊的COVID病例数之间的潜在关联。我们的目标是实施一种机器学习方法来识别人口统计特征和空间模式。使用空间分析来描述选举部门（ED）的关注模式，选举部门是爱尔兰共和国法律定义的行政区域，根据人口普查数据发布了其人口统计数据。我们使用了人口普查数据中信息量最大的变量，以对ED级不同地区的受感染人数进行了建模。</p>
 
 <h3 id="利用人工智能分析市民对城市绿地的看法">利用人工智能分析市民对城市绿地的看法</h3>
@@ -368,6 +390,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Mohammadhossein Ghahramani, Nadina J. Galle, Fabio Duarte, Carlo Ratti, Francesco Pilla</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.06659v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 持续的人口增长和城市化正在将研究转移到考虑城市绿地质量超过这些公园，树林和湿地的数量上。迄今为止，城市绿地的质量已经通过专家评估来衡量，包括现场观察，调查和遥感分析。诸如TripAdvisor之类的位置数据平台可以提供人们对许多目的地和体验的意见，包括UGS。本文利用人工智能技术来进行观点挖掘和文本分类，并使用该平台的评论作为城市绿地质量评估的一种新颖方法。自然语言处理用于通过执行计算分析来分析给定单词监督分数的上下文信息。这样的应用程序可以支持地方当局和利益相关者对城市绿色空间未来投资的理解和合理性。</p>
 
 <h3 id="由tainter的崩溃理论启发的社会复杂性和弹性的动态网络模型">由Tainter的崩溃理论启发的社会复杂性和弹性的动态网络模型</h3>
@@ -377,6 +401,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.06698">http://arxiv.org/abs/2102.06698</a></p>
 
 <p>作者： Florian Schunck, Marc Wiedermann, Jobst Heizig, Jonathan F. Donges</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.06698v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在过去的20年中，发生了几起事件，破坏了全球经济和社会福祉，并在总体上动摇了西方社会稳定的信心，例如2008年金融危机及其经济后果。在这里，我们旨在确定和说明这种社会不稳定甚至是随后的崩溃的潜在动因。为此，我们提出了两类网络主体（以下称为“劳动者”和“管理者”）的低维度和程式化模型，该模型的灵感来自约瑟夫·塔因特（Joseph Tainter）的复杂社会崩溃理论。我们对社会复杂性的动力学进行了数值模拟，以“管理者”的比例来衡量，假定这会影响产生能量的“劳动者”的生产率。我们表明，如果模型社会的复杂性随着响应而不断增加，那么崩溃的可能性就越来越大。可以模拟Tainter关于社会需要解决的问题的抽象概念的外部压力，此外，我们还提供了系统主导动力学的解析近似值，该近似值与数值实验非常吻合，因此，可以精确估计引发社会崩溃的临界点。政府提高劳动生产率的能力被认为是延长生存时间的最有影响力的参数，此外，社会联系的最低水平也促进了这一点，最后，我们证明了主体人在劳动力与行政管理之间的随机过渡，即社会流动性，可以增加生存时间进一步塑造了社会。我们的工作促进了对社会生态崩溃的理解，并说明了它可能通过自我强化的反馈与不断增加的复杂性联系起来，以应对外部冲击或压力。</p>
 

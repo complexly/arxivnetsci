@@ -65,7 +65,7 @@ MIMO干扰信道的最大-最小公平性设计：最小化最大化方法;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -73,9 +73,9 @@ MIMO干扰信道的最大-最小公平性设计：最小化最大化方法;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -230,6 +230,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Mohammad Mahdi Naghsh, Maryam Masjedi, Arman Adibi, Petre Stoica</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1908.00160v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们解决了多输入多输出干扰信道（MIMO-IC）中线性预编码器（波束形成器）设计的问题。目的是设计传输协方差矩阵，以便为所有用户实现最大最小效用公平性。相应的优化问题通常是非凸的和NP难的。我们设计了一种基于次要化最大化（MM）技术的高效算法，以获得该问题的高质量解决方案。所提出的方法在每次迭代时解决了二阶锥凸程序（SOCP）。我们证明了设计的方法收敛于问题的固定点。我们还将算法扩展到噪声协方差矩阵或信道状态信息（CSI）中存在不确定性的情况。仿真结果表明了该方法与其主要竞争对手相比的有效性。</p>
 
 <h3 id="从媒体事件报告中监督学习全球风险网络激活">从媒体事件报告中监督学习全球风险网络激活</h3>
@@ -239,6 +241,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1908.00164">http://arxiv.org/abs/1908.00164</a></p>
 
 <p>作者： Xiang Niu, Gyorgy Korniss, Boleslaw K. Szymanski</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1908.00164v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 世界经济论坛（WEF）发布全球风险年度报告，这些报告对世界经济产生重大影响。目前，许多研究人员分析风险的建模和演变。然而，很少有研究关注WEF发布的全球风险网络的验证。在本文中，我们首先根据从维基百科中抓取的带注释的风险事件创建风险知识图。然后，我们比较了WEF和维基百科网络中风险的关系依赖性，发现它们共享超过50％的边。此外，每个网络独有的边表示专家和公众对全球风险的不同观点。为了降低触发风险激活的事件的手动注释成本，我们构建了一个自动检测工具，可过滤掉与全局风险无关的80％以上的媒体报告事件。在过滤过程中，我们的工具还会不断从事件句子中学习与全球风险相关的关键词。使用从风险知识图中提取的事件的位置，我们发现全球风险类别的地理分布特征。</p>
 
@@ -250,6 +254,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Shan Xue, Jie Lu, Guangquan Zhang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1908.00205v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 网络表示的目的是通过从网络结构获得社区信息来学习一组潜在特征，以提供机器学习任务的知识。最近的研究通过采用随机游走作为网络采样策略，在网络表示方面取得了重大进展。然而，现有方法依赖于特定领域的丰富社区结构，并且在其自身领域缺乏拓扑信息的网络中失败。在本文中，我们提出了一种新的跨域网络表示算法，命名为CDNR。通过从结构丰富域生成随机游走并在跨域的随机游走中传递知识，它还为结构稀缺域启用网络表示。具体而言，CDNR是通过跨域双层节点规模平衡算法和跨域双层随机游走学习框架中的跨域双层知识转移算法实现的。各种现实世界数据集上的实验以无人监督的方式证明了CDNR对通用网络的有效性。</p>
 
 <h3 id="基于友谊悖论采样的幂律度分布的最大似然估计">基于友谊悖论采样的幂律度分布的最大似然估计</h3>
@@ -259,6 +265,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1908.00310">http://arxiv.org/abs/1908.00310</a></p>
 
 <p>作者： Buddhika Nettasinghe, Vikram Krishnamurthy</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1908.00310v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 本文考虑了估计无向网络幂律度分布的问题。尽管幂律度分布在本质上是普遍存在的，但是用于估计它们的广泛使用的参数方法（例如，双对数轴上的线性回归，具有均匀采样节点的最大似然估计）遭受由于缺乏数据而引入的大的方差 - 从幂律度分布的尾部指出。作为一种解决方案，我们提出了一种新的最大似然估计方法，利用友谊悖论从度分布的尾部更有效地进行采样。我们分析表明，与使用均匀采样节点（这是文献中最常用的方法）获得的最大似然估计相比，所提出的方法导致更小的偏差，方差和Cramer-Rao下界。详细的仿真结果用于说明所提方法在不同条件下的性能以及与其他方法的比较。</p>
 
@@ -270,6 +278,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Nicolò Ruggeri, Caterina De Bacco</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1908.00388v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们开发了一种新的抽样方法来估计不完全网络上的特征向量中心性。我们的目标是估计这种全球中心性措施，处理有限数量的数据。在许多实际情况中都是这种情况，其中数据收集是昂贵的，网络对于数据存储容量来说太大或者只有部分信息可用。采样算法理论上是基于谱近似理论得出的结果。我们研究了合成和实际数据的问题，并测试了与传统方法相比的性能，如随机游走和均匀采样。我们表明，从这些方法获得的近似值并不总是可靠的，并且我们的算法在保持计算可扩展性的同时，在不同的误差测量下提高了性能。</p>
 
 <h3 id="用归一化集聚系数测量网络的集聚强度">用归一化集聚系数测量网络的集聚强度</h3>
@@ -279,6 +289,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1908.00523">http://arxiv.org/abs/1908.00523</a></p>
 
 <p>作者： Ting Li, Xianshi Yu, Bing-Yi Jing</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1908.00523v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在本文中，我们提出了一种新的网络统计量，归一化的聚类系数，它是聚类系数的修改版本，对不同网络生成模型下的网络规模，网络密度和程度异构性具有鲁棒性。特别地，在度校正块模型（DCBM）下，可以从归一化聚类系数推断出“输出比”。在三种流行的网络生成模型下研究了该指标的渐近性质。归一化的聚类系数还可以用于网络聚类，网络采样以及动态网络分析。进行模拟和实际数据分析以演示这些应用。</p>
 

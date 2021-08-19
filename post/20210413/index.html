@@ -89,7 +89,7 @@ ODT FLOW：用于提取，分析和共享多源多尺度人员流动的可扩展
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -97,9 +97,9 @@ ODT FLOW：用于提取，分析和共享多源多尺度人员流动的可扩展
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -262,6 +262,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Chenyu Tian, Yuchun Zhang, Zefeng Weng, Xiusen Gu, Wai Kin Victor Chan</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2103.00483v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 越来越多的基于位置的服务（LBS）数据正在积累，并有助于研究城市动态和人类流动性。 GPS坐标和其他位置指示符通常是低维的，仅表示空间接近度，因此很难被Geo-aware应用程序中的机器学习模型有效地利用。现有的位置嵌入方法大多是针对在关注区域内发生的特定问题量身定制的。当涉及到一个城市甚至一个国家的规模时，现有的方法总是遭受大量的计算成本和大量的数据稀疏性的困扰。与现有研究不同，我们建议通过考虑GCN-L2V的GCN辅助跳跃语法模型来学习表示形式，同时考虑空间联系和人类流动性。通过流程图和空间图，它将上下文信息嵌入到矢量表示中。 GCN-L2V能够刻画位置之间的关系，并在空间环境中提供更好的相似性概念。在定量实验和案例研究中，我们从经验上证明了GCN-L2V所学习的表示形式是有效的。据我们所知，这是第一项仅使用LBS记录在城市级别嵌入细粒度位置的研究。 GCN-L2V是具有高度灵活性的通用嵌入模型，可以应用于下游的Geo-aware应用程序。</p>
 
 <h3 id="在非正式城市中发现商业活动">在非正式城市中发现商业活动</h3>
@@ -271,6 +273,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2104.04545">http://arxiv.org/abs/2104.04545</a></p>
 
 <p>作者： Daniel Straulino, Juan C. Saldarriaga, Jairo A. Gómez, Juan C. Duque, Neave O&rsquo;Clery</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.04545v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 理解城市内经济活动的空间组织是政策关注的关键。但是，在非正式程度较高的发展中城市，通常无法获得此信息。机器学习的最新进展以及可提供的街道图像提供了一种负担得起且易于自动化的解决方案。在这里，我们提出了一种算法，该算法可以使用街景图像检测我们所谓的“可见企业”。以哥伦比亚的麦德林为例，我们说明了如何使用这种方法来发现以前看不见的经济活动。将空间分析应用于我们的数据集，我们检测到在既定的中心区域和外围区域均具有五个不同簇的多中心结构。比较可见公司和注册公司的密度，我们发现非正式活动集中在贫困但人口稠密的地区。我们的发现突显了官方数据中刻画的内容与实际情况之间的巨大差距。</p>
 
@@ -282,6 +286,8 @@ var _hmt = _hmt || [];
 
 <p>作者： László Czaller, Gergő Tóth, Balázs Lengyel</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.04639v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 接种疫苗可能是解决由大流行引起的健康危机的方法，但是疫苗的分配是一项复杂的任务，其中经济和社会因素可能很重要。中心问题是在一个国家中使用数量有限的疫苗，以减少感染的风险并同时减轻经济不确定性。在本文中，我们提出了一种简单的经济模型，用于在两种类型的工人之间分配疫苗：白领可以在家工作；白领可以在家工作；白领可以在家工作；白领可以在家工作。而蓝领必须在现场工作。这些工人类型是相辅相成的，因此，任一个工人的供应受到负面冲击都会降低对另一个工人的需求，从而导致失业。使用蓝领和白领劳动力供给的参数，其感染风险，锁定期间家庭办公室的生产力损失以及可用的疫苗，我们表示分配给蓝领的疫苗的最佳份额。该模型指出了蓝领疫苗的主导地位，特别是在海浪中，当其相对感染风险增加并且可用疫苗数量有限时。根据来自28个欧洲国家的劳动力供应数据，我们对蓝领疫苗分配进行了量化，从而最大程度地降低了蓝领和白领感染风险水平下的失业率。在疫苗短缺的情况下，该模型在欧洲各个国家都赞成蓝领疫苗接种。随着越来越多的疫苗可供使用，在家庭办公室雇用大量员工的经济体将越来越多地为他们接种疫苗，以防蓝领感染风险降低。我们的结果强调，疫苗接种计划应包括工人，并按职业类型对其进行排名。我们建议，在感染浪潮和早期疫苗接种期间优先考虑蓝领工人，除了帮助最易感染疾病的弱势群体外，还可以促进经济发展。</p>
 
 <h3 id="在社交媒体中识别和分类攻击性语言">在社交媒体中识别和分类攻击性语言</h3>
@@ -291,6 +297,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2104.04871">http://arxiv.org/abs/2104.04871</a></p>
 
 <p>作者： Nikhil Oswal</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.04871v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 攻击性语言在社交媒体中无处不在。个人经常利用计算机介导的通信的匿名性，利用这种匿名性进行许多人在现实生活中不会考虑的行为。在线自动识别令人反感的内容是一项重要的任务，近年来已受到越来越多的关注。可以将此任务建模为监督分类问题，在该问题中，系统使用包含数据集的数据集来训练系统，该数据集针对某些形式的辱骂或令人反感的内容的存在进行了注释。这项研究的目的是提供为SemEval-2019任务6：OffensEval构建的分类系统的描述。该系统将推文分类为具有攻击性或不具有攻击性（子任务A），并进一步将令人讨厌的推文分类为类别（子任务B ＆C）。我们对机器学习和深度学习模型以及数据预处理和采样技术进行了培训，以得出最佳结果。讨论的模型包括朴素贝叶斯，支持向量机，逻辑回归，随机森林和LSTM。</p>
 
@@ -302,6 +310,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Michelle M. Li, Kexin Huang, Marinka Zitnik</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.04883v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 随着表示学习在提供强大的预测和数据见解方面取得了显著成功，我们见证了表示学习技术迅速扩展到建模，分析和网络学习中。生物医学网络是相互作用元素系统的普遍描述，从蛋白质相互作用到疾病网络，一直到医疗保健系统和科学知识。在这篇评论中，我们提出了一个观察结果，即网络生物学和医学的长期原理-尽管在机器学习研究中经常不被提及-可以为表征学习提供概念基础，解释其当前的成功和局限性，并为未来的发展提供信息。我们综合了一系列算法方法，这些方法的核心是利用拓扑功能将网络嵌入紧凑的向量空间。我们还提供了可能从算法创新中受益最大的生物医学领域分类法。表征学习技术对于识别复杂特征的因果变体，单细胞的解缠行为及其对健康的影响以及使用安全有效的药物诊断和治疗疾病变得至关重要。</p>
 
 <h3 id="网络上病毒传播确定性模型的准确性">网络上病毒传播确定性模型的准确性</h3>
@@ -311,6 +321,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2104.04913">http://arxiv.org/abs/2104.04913</a></p>
 
 <p>作者： Anirudh Sridhar, Soummya Kar</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.04913v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 当大量人群中的主体通过接触网络相互互动时，我们考虑病毒传播的新兴行为。当病原体数量很大并且联系网络是一个完整的图时，众所周知，种群行为-即易感，感染和恢复的病原体比例-收敛到一个常微分方程的解（ ODE）被称为经典SIR模型，人口规模接近无穷大。相比之下，我们研究具有通用拓扑的联系网络上的交互，并得出条件，在这种条件下，人口行为集中在经典SIR模型或其他确定性模型周围。具体来说，我们表明，当接触网络中的大多数顶点度足够大时，填充行为将集中在称为网络SIR模型的ODE周围。然后，我们研究了网络SIR模型的短期和中期演变，并表明，如果接触网络具有扩展器类型的属性或初始感染组在人群中混合良好，则网络SIR模型可简化为经典SIR模型。为了补充这些结果，我们通过仿真说明了两个模型可以产生截然不同的预测，因此在某些情况下使用经典SIR模型可能会产生误导。</p>
 
@@ -322,6 +334,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Yuejiang Li, Hong Vicky Zhao</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.05007v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 随着网络技术的最新发展，人们之间的联系得到了前所未有的增强。意识形态和背景不同的人会相互影响，并且社会网络中可能存在严重的意见分歧和分歧。关于建模意见形成有很多评论。但是，对意见分歧和分歧的关注较少。在这项工作中，我们回顾了意见分歧和分歧的最新进展，并关注如何对其进行评估和控制。在文献中，通常采用三个度量标准：极化，分歧和极化-分歧指数（PDI），并且在极化和分歧之间进行权衡。文献中已经提出了不同的策略，这些策略可以基于这些指标来有效地控制观点的分歧和分歧。这篇综述对于总结关于舆论两极分化和分歧以及对它们的更好理解和控制至关重要。</p>
 
 <h3 id="在线社会网络的结构调节词汇变化率">在线社会网络的结构调节词汇变化率</h3>
@@ -331,6 +345,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2104.05010">http://arxiv.org/abs/2104.05010</a></p>
 
 <p>作者： Jian Zhu, David Jurgens</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.05010v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 经常向社区引入新词，但是并不是所有这些词都保留在社区的词典中。在促成词汇变化的众多因素中，我们关注的是对社会网络的研究不足。在过去的十年中，我们对4420个在线社区的8万多个新词进行了大规模分析。使用泊松回归和生存分析，我们的研究表明，社区的网络结构在词汇变化中起着重要作用。除了总体规模外，包括密集连接，缺少本地集群和更多外部联系的属性还促进了词汇创新和保留。与离线社区不同，这些基于主题的社区尽管接触增加，但仍未达到强大的词汇水平，但可以容纳更多小众单词。我们的工作为社会语言学假说提供了支持，该假说是词法变化部分地由基础网络的结构决定，但也揭示了特定于在线社区的发现。</p>
 
@@ -342,6 +358,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Zhenlong Li, Xiao Huang, Tao Hu, Huan Ning, Xinyue Ye, Xiaoming Li</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.05040v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 为了应对人类流动性数据的飙升需求，特别是在灾难事件（例如COVID-19大流行）以及相关的大数据挑战期间，我们开发了一个可扩展的在线平台，用于提取，分析和共享多源，多尺度的人类流动性。在该平台内，提出了一种始发地-目的地-时间（ODT）数据模型，以与可伸缩的查询引擎一起使用，以处理具有广泛空间覆盖范围的大容量异构移动数据，从而可以有效地提取，查询和汇总十亿级别的数据原始目的地（OD）在服务器端并行流动。开发了交互式空间Web门户ODT Flow Explorer，以允许用户使用用户定义的时空尺度来探索多源移动性数据集。为了提高可重复性和可复制性，我们进一步开发了ODT Flow REST API，使研究人员可以灵活地通过工作流，代码和程序以编程方式访问数据。提供了一些演示来说明API与科学工作流程以及Jupyter Notebook环境集成的潜力。我们相信，该平台与派生的多尺度流动性数据相结合，可以在诸如持续发生的COVID-19大流行等灾难事件中协助人类流动性监测和分析，并使科学界和公众都受益于理解人类流动性动态。</p>
 
 <h3 id="多重超图上的高阶渗流过程">多重超图上的高阶渗流过程</h3>
@@ -351,6 +369,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2104.05457">http://arxiv.org/abs/2104.05457</a></p>
 
 <p>作者： Hanlin Sun, Ginestra Bianconi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.05457v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 人们越来越认识到，高阶交互是复杂系统（从大脑到社交联系网络）的基本方面。超图和单纯形复合物刻画复杂系统的高阶相互作用，并允许研究其高阶结构与其功能之间的关系。在这里，我们建立了一个评估超图鲁棒性的通用框架，并刻画了简单和高阶渗滤过程的关键特性。这个通用框架建立在随机多重超图合奏的表述上，其中每一层均以给定基数的超边为特征。我们揭示了随机多重超图中的高阶渗流过程，多重网络的相互依存渗流和K核渗流之间的关系。随机多重超图的结构相关性已显示对其渗透特性具有重大影响。在多重超图上针对高阶渗流过程观察到的各种临界行为，阐明了导致不连续过渡出现的机制，并揭示了可用于研究高阶网络上的流行扩散和传染过程的有趣的临界特性。</p>
 
@@ -362,6 +382,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Sara Grundel, Stefan Heyder, Thomas Hotz, Tobias K. S. Ritschel, Philipp Sauerteig, Karl Worthmann</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.05526v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 世界正在等待一种疫苗来减轻SARS-CoV-2的传播。但是，一旦可用，就无法立即为所有人接种疫苗。因此，疫苗接种和社会隔离必须协调。在本文中，我们使用针对年龄区分的隔间模型的基于优化的控制，对此主题提供了一些见解。对于现实生活中的决策，我们调查了规划阶段对最佳疫苗接种/社会疏远策略的影响。我们发现，为了从长远来看减少社会疏远而又不增加重症监护病房的负担，必须首先为接触率最高的人群接种疫苗。但是，对于短期计划，最好将重点放在高风险人群上。此外，与成功率较低的少量疫苗相比，成功率较低的大量疫苗可以更大程度地减少社会距离。</p>
 
 <h3 id="一种新颖的基于网络的三步生态系统建模框架">一种新颖的基于网络的三步生态系统建模框架</h3>
@@ -371,6 +393,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2104.05590">http://arxiv.org/abs/2104.05590</a></p>
 
 <p>作者： Laurin Steidle, Inga Hense</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.05590v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： NEMF是一个新颖的基于网络的生态系统建模框架。它是一种灵活且易于使用的工具，用于对中低复杂度的生态系统进行建模。它是围绕通过隐式定义一组微分方程的网络可视化生态系统的想法而设计的。这些方程然后用数值求解，也可以进行逆建模。该框架提供了处理非平衡，非线性相互作用的功能。</p>
 
@@ -382,6 +406,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Giuseppe De Nicolao, Marta Colaneri, Alessandro Di Filippo, Franco Blanchini, Paolo Bolzern, Patrizio Colaneri, Giulia Giordano, Raffaele Bruno</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.05597v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 许多国家通过在较轻和较重的限制之间切换来管理COVID-19流行病。虽然开放和封闭周期具有可比的社会经济成本，但前者导致死亡和医疗保健系统压力方面的负担更大。最近在以色列观察到了拖延造成的死亡的实证研究，以色列在这两个周期都从2020年8月下旬至2020年12月中旬实施，开放关闭时死亡约1600人，而封闭打开时则有440人死亡。</p>
 
 <h3 id="网络指标可以指导大规模入侵物种的近最优管理">网络指标可以指导大规模入侵物种的近最优管理</h3>
@@ -391,6 +417,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2104.05645">http://arxiv.org/abs/2104.05645</a></p>
 
 <p>作者： Jaime Ashander, Kailin Kroetz, Rebecca S Epanchin-Niell, Nicholas B. D. Phelps, Robert G Haight, Laura E. Dee</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.05645v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 入侵物种损害生物多样性和生态系统服务，全球每年因入侵造成的经济损失超过400亿美元。广泛的入侵是一个特殊的挑战，因为它们涉及具有许多相互作用成分的大空间尺度。在这些情况下，典型的基于优化的管理方法可能会由于计算或数据限制而失败。在这里，我们评估了一种利用网络科学的替代解决方案，该解决方案表示入侵发生在连接的站点的网络中，并使用网络指标对站点进行优先处理。与优化方法相比，这种启发式网络指导方法所需的数据更少，计算量也更少，但是针对现实世界中入侵物种管理问题的最佳解决方案，网络指导方法尚未获得基准。我们提供了网络引导管理相对于入侵物种最佳解决方案的性能的首次比较，研究了在美国58个明尼苏达州县通过游船活动防止飞船侵入斑马贻贝的船只检查站的位置。为了在有限的数据上下文中另外测试基于网络的方法的前景，我们仅在网络结构和入侵状态仅使用部分数据时评估其性能。基于指标的方法可以在获得完整数据的情况下获得100％的最佳性能。即使使用部分数据，也可以实现80％的最佳性能。最后，我们表明，对于网络较密集和规模较大的县，度量指导管理的性能得以提高，这表明该方法对于大规模入侵是可行的。总之，我们的结果表明，网络指标是指导大规模入侵管理行动的有前途的方法。</p>
 

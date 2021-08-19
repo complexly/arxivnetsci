@@ -80,7 +80,7 @@ COVID-19时代关于在线社会网络的辩论：意大利案例研究;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -88,9 +88,9 @@ COVID-19时代关于在线社会网络的辩论：意大利案例研究;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -250,6 +250,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Aymen Hamrouni, Hakim Ghazzai, Turki Alelyani, Yehia Massoud</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2106.00717v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 协作移动众包 (CMCS) 允许实体（例如地方当局或个人）从相互关联的人群中雇用一组工作人员来执行复杂的任务。在本文中，我们研究了两种不同的 CMCS 招聘策略，这些策略允许任务请求者组建具有社会联系和技术工人的团队：i）基于平台的策略，其中平台利用自己对工人的理解来组建团队；ii）领导者基于策略，该平台指定一名组长，根据其自己对社会网络 (SN) 邻居的理解，招募自己合适的团队。我们首先将招聘制定为整数线性程序 (ILP)，该程序根据四个基于模糊逻辑的标准优化组建团队：专业水平、社会关系强度、招聘成本和招聘人员的信心水平。为了应对 NP 难度，我们设计了一种新颖的低复杂度 CMCS 招聘方法，依靠图神经网络 (GNN)，特别是图嵌入和聚类技术，缩小工人的搜索空间，然后利用元启发式遗传算法选择合适的工人。应用于真实世界数据集的模拟结果说明了所提出的两种 CMCS 招聘方法的性能。结果表明，我们提出的基于低复杂度 GNN 的招聘算法与基线 ILP 的性能接近，具有显著的计算时间节省和在大规模移动众包平台上运行的能力。还表明，与基于领导者的策略相比，基于平台的策略招募了更熟练的团队，但 SN 关系更低，成本更高。</p>
 
 <h3 id="使用图神经网络进行模体预测">使用图神经网络进行模体预测</h3>
@@ -259,6 +261,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2106.00761">http://arxiv.org/abs/2106.00761</a></p>
 
 <p>作者： Maciej Besta, Raphael Grob, Cesare Miglioli, Nicola Bernold, Grzegorz Kwasniewski, Gabriel Gjini, Raghavendra Kanakagiri, Saleh Ashkboos, Lukas Gianinazzi, Nikoli Dryden, Torsten Hoefler</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2106.00761v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 链路预测是图挖掘的核心问题之一。然而，最近的研究强调了高阶网络分析的重要性，其中称为模体的复杂结构是一等公民。我们说明现有的链路预测方案无法预测图数据中复杂模体的出现。为理解决这个问题，我们提出了一个通用的主题预测问题。我们建立了模体预测的理论基础，并提出了几种启发式方法，对于图中的一组固定节点和指定的模体，评估该模体出现的机会。为了使分数真实，我们的启发式方法——除其他外——考虑链接之间的相关性，即一些到达链接对给定主题其他部分外观的潜在影响。最后，为了获得最高的准确度，我们开发了一个用于motif 预测的图神经网络（GNN）架构。我们的架构提供了顶点特征和采样方案，可以捕捉到模体的丰富结构特性。虽然我们的启发式算法很快并且不需要任何训练，但在预测复杂图结构的到达时，使用 GNN 可确保最高的准确度，包括密集（例如，k-cliques）和稀疏（例如，k-stars）。重要的是，它相对于基于不相关链路预测的方案的优势随着模体大小和复杂性的增加而增加。我们还成功地将我们的架构应用于预测更多的任意集群和社区，说明了其在基序分析之外的图挖掘潜力。</p>
 
@@ -270,6 +274,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Preetam Nandy, Divya Venugopalan, Chun Lo, Shaunak Chatterjee</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2106.00762v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 双边市场是许多在线平台（例如亚马逊、Facebook、LinkedIn）的标准商业模式，其中平台一方面有消费者、买家或内容查看者，另一方面有生产者、卖家或内容创建者。消费者方面可以通过简单的在线 A/B 测试来衡量治疗变体的影响。  生产者方面的测量更具挑战性，因为生产者体验取决于消费者的处理分配。现有的生产者方测量方法要么基于基于图集群的随机化，要么基于某些治疗传播假设。随着生产者-消费者网络密度的增加，前一种方法导致低功率的实验，而后一种方法缺乏严格的错误控制概念。在本文中，我们提出了 (i) 生产者方实验质量的量化，以及 (ii) 一种新的实验设计机制，该机制基于这种量化生成高质量的实验。我们的方法称为 UniCoRn（Unifying Counterfactual Rankings），提供对实验质量及其计算成本的明确控制。此外，我们证明我们的实验设计是最优的。我们的方法与生产者-消费者网络的密度无关，并且不依赖于任何治疗传播假设。此外，与现有方法不同，我们不需要提前知道底层网络，这使得它广泛适用于底层网络未知且由于其动态性质而难以先验预测的工业环境。我们使用模拟来彻底验证我们的方法并将其与现有方法进行比较。我们还在边推荐应用程序中实施 UniCoRn，该应用程序每天为数千万成员和数十亿次边推荐提供服务。</p>
 
 <h3 id="广义平均最密集子图问题">广义平均最密集子图问题</h3>
@@ -279,6 +285,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2106.00909">http://arxiv.org/abs/2106.00909</a></p>
 
 <p>作者： Nate Veldt, Austin R. Benson, Jon Kleinberg</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2106.00909v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 寻找大图的密集子图是图挖掘中的一个标准问题，因其理论丰富性和许多实际应用而被广泛研究。在本文中，我们基于计算子图度数序列的广义均值，引入了一个新的密集子图目标系列，由单个参数 p 参数化。我们的目标将标准最密集子图问题和最大 k-core 作为特殊情况刻画，并提供了一种在搜索其他密集子图概念时在这两个目标之间进行插值和外推的方法。在算法贡献方面，我们首先表明我们的目标可以使用重复的子模最小化在多项式时间内最小化所有 pgeq 1。我们工作的一个主要贡献是在理论和实践中分析了不同类型的密集子图剥离算法的性能。我们证明了标准剥离算法在我们的广义目标上的表现可能很差，但我们随后设计了一种更复杂的剥离方法，该方法对于 pgeq 1 具有始终至少为 <sup>1</sup>&frasl;<sub>2</sub> 并收敛到 1 的近似保证作为 p rightarrow infty。在实践中，我们表明该算法获得了最优解的极好近似值，尺度到大图，并在来自多个域的图上突出显示了一系列不同的有意义的密度概念。此外，通过更好地考虑删除一个节点如何影响其邻域中的其他节点，它通常能够比标准剥离算法更好地近似最密集子图问题。</p>
 
@@ -290,6 +298,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Truong Son Hy, Risi Kondor</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2106.00967v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在本文中，我们提出了多分辨率图网络 (MGN) 和多分辨率图变分自动编码器 (MGVAE) 以多分辨率和等变的方式学习和生成图。在每个分辨率级别，MGN 使用更高阶的消息传递来对图进行编码，同时学习将其划分为互斥的集群并粗化为较低的分辨率。 MGVAE 构建了一个基于 MGN 的分层生成模型，以对粗化图的层次进行变分自动编码。我们提出的框架在节点排序方面是端到端的置换等变的。我们的方法已经在几个生成任务上取得了成功，包括引用图的链路预测、无监督的分子表示学习来预测分子特性、分子生成、通用图生成和基于图的图像生成。</p>
 
 <h3 id="物理概念网络的演化机制">物理概念网络的演化机制</h3>
@@ -299,6 +309,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2106.01022">http://arxiv.org/abs/2106.01022</a></p>
 
 <p>作者： V. Palchykov, M. Krasnytska, O. Mryglod, Yu. Holovatch</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2106.01022v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们提出了一种控制概念网络增长的潜在机制，这是一个复杂的网络，它反映了不同科学概念之间的联系，基于它们在出版物中的共同出现。为此，我们根据提交给arXiv.org的物理学预印本对概念网络进行实证分析。我们计算了网络特征，并表明它们无法遵循几个简单的常用网络增长模型。反过来，我们建议同时考虑两个因素，块增长和优先选择，可以解释概念网络的经验观察属性。此外，观察到的结构是作为这两个因素的协同效应出现的：单独使用它们中的每一个都不能产生令人满意的图片。</p>
 
@@ -310,6 +322,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Leslie O&rsquo;Bray, Max Horn, Bastian Rieck, Karsten Borgwardt</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2106.01098v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 图生成模型是机器学习的一个非常活跃的分支。鉴于不断增加复杂性的新模型的稳步发展，有必要提供一种有原则的方法来评估和比较它们。在本文中，我们列举了比较指标的理想标准，讨论了这些指标的发展，并比较了它们各自的表达能力。我们对当今使用的主要指标进行了系统评估，突出了研究人员可能无意中遇到的一些挑战和陷阱。然后，我们描述了一组合适的指标，就其实际适用性提出建议，并分析它们在合成生成的扰动图以及最近提出的图生成模型上的行为。</p>
 
 <h3 id="你的同伴决定你的热度-分析美国专利引文网络中的本地流行度">你的同伴决定你的热度：分析美国专利引文网络中的本地流行度</h3>
@@ -319,6 +333,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2106.01148">http://arxiv.org/abs/2106.01148</a></p>
 
 <p>作者： Nishit Narang, Manoj Kumar Ganji, Amit Anil Nanavati</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2106.01148v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在许多网络中，顶点的入度是衡量其受欢迎程度的指标。过去的研究研究了将网络视为一个整体的入度分布。在美国专利引文网络 (USPCN) 中，专利分为类别和子类别。一个自然的问题出现了：专利如何从各种（子）类别中收集其受欢迎程度？我们分析局部入度分布来回答这个问题。专利在同一类别内的引用（indegree）表示其内部流行度，而跨类别引用表示其外部流行度。我们分析了 USPCN 层次结构每个级别的内部和外部入度分布，以理解专利的内部和外部流行度如何在（子）类别之间变化。我们发现所有（子）类别都有决定内部和外部专利受欢迎程度的本地偏好。不同的专利在不同的群体中流行：C1、C2 和 C3 组可能不同意 C1 中的流行专利。一般而言，专利流行似乎是一种高度本地化的现象，子类别（甚至不是类别）决定了自己的流行专利，独立于其他（子）类别。</p>
 
@@ -330,6 +346,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Mattia Samory, Indira Sen, Julian Kohne, Fabian Floeck, Claudia Wagner</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2004.12764v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 研究集中在自动化方法上，以有效地在线检测性别歧视。尽管明显的性别歧视似乎很容易被发现，但其微妙的形式和多样的表达却并非如此。在本文中，我们将性别歧视的不同维度纳入心理量表的实施中，从而概述了性别歧视的不同维度。从这些量表中，我们推导出了社交媒体中性别歧视的密码本，我们用它来注释现有的和新的数据集，在性别歧视的构建方面揭示它们在广度和有效性方面的局限性。接下来，我们利用带注释的数据集生成对抗性示例，并测试性别歧视检测方法的可靠性。结果表明，当前的机器学习模型选取了一组非常狭窄的性别歧视语言标记，并且不能很好地泛化到域外示例。然而，在训练时包含不同的数据和对抗性示例会导致模型具有更好的泛化性，并且对数据收集的工件更稳健。通过提供基于比例的码本和对最先进技术缺点的见解，我们希望为开发更好、更广泛的性别歧视检测模型做出贡献，包括对理论驱动的数据收集方法的反思。</p>
 
 <h3 id="使用基于雾的感染概率评估模型进行-covid-19-传播检测和控制">使用基于雾的感染概率评估模型进行 Covid-19 传播检测和控制</h3>
@@ -340,6 +358,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Suraj Mahawar, Ajay Pratap</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2106.00759v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： COVID-19 在世界范围内造成了大流行，暂停了建设未来的道路，并且仍在继续进行，短期内没有任何长期解决方案。与 COVID-19 的传播相比，疫苗分发所花费的时间太慢了。因此，重要的是要及时理解并采取预防措施，不要在感染病毒后拖延和等待很长时间。目前使用的技术比以往任何时候都更先进。几乎每个人都可以使用至少一台具有 Internet 连接的移动设备。因此，我们提出了一种基于雾服务器 (FS) 的系统，该系统可用于在多项式计算时间内利用隐马尔可夫模型 (HMM) 和蓝牙联系人跟踪的概念来提高对 COVID-19 在个人周围环境中传播的认识复杂。此外，我们通过对不同仿真参数设置的真实数据分析来评估所提出模型的有效性。</p>
 
 <h3 id="covid-19时代关于在线社会网络的辩论-意大利案例研究">COVID-19时代关于在线社会网络的辩论：意大利案例研究</h3>
@@ -349,6 +369,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2106.01013">http://arxiv.org/abs/2106.01013</a></p>
 
 <p>作者： Martino Trevisan, Luca Vassio, Danilo Giordano</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2106.01013v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： COVID-19 大流行不仅对医疗保健产生了重大影响，而且还改变了人们的习惯和我们所生活的社会。意大利等国家实施了持续数月的全面封锁，大多数人口被迫留在家中。在此期间，在线社会网络比以往任何时候都更能代表社交生活的替代解决方案，允许用户相互交流和辩论。因此，理解大流行带来的社会网络使用方式的变化至关重要。在本文中，我们分析了 2020 年前六个月在 Instagram 和 Facebook 社会网络中，围绕意大利流行影响者的互动模式是如何变化的。我们为这群公众人物收集了一个大型数据集，包括这几个月对超过 14 万个帖子的超过 5400 万条评论。我们分析和比较这些影响者帖子的参与度，并提供汇总用户活动的定量数据。我们进一步展示了锁定之前和锁定期间使用模式的变化，这表明活动的增长以及每日和每周的巨大变化。我们还通过评论的心理语言学特性分析了用户情绪，结果证明了与大流行相关的话题的快速繁荣和消失。为了支持进一步的分析，我们发布了匿名数据集。</p>
 

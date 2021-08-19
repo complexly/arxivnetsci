@@ -104,7 +104,7 @@ ExpFinder：集成N-gram向量空间模型和mu CO-HITS的集成专家查找模�
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -112,9 +112,9 @@ ExpFinder：集成N-gram向量空间模型和mu CO-HITS的集成专家查找模�
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -282,6 +282,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Junliang Yu, Hongzhi Yin, Jundong Li, Qinyong Wang, Nguyen Quoc Viet Hung, Xiangliang Zhang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06448v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 社交关系通常用于提高推荐质量，大多数现有的社交推荐模型利用成对关系来挖掘潜在的用户偏好。但是，用户之间的实际交互非常复杂，并且用户关系可能是高级的。 Hypergraph提供了一种自然的方式来为复杂的高阶关系建模，而其社交推荐的潜力尚未得到充分挖掘。在本文中，我们填补了这一空白，并提出了一种多通道超图卷积网络，以通过利用高阶用户关系来增强社会推荐。从技术上讲，网络中的每个通道都对超图进行编码，该超图通过超图卷积来描述常见的高阶用户关系模式。通过汇总通过多个渠道学习到的嵌入，我们获得了全面的用户表示形式以生成推荐结果。但是，聚合操作也可能会掩盖不同类型的高阶连接信息的固有特性。为了弥补累积的损失，我们将自我监督学习创新地集成到超图卷积网络的训练中，以重新获得连通性信息。在多个真实世界数据集上的实验结果表明，所提出的模型优于SOTA方法，并且消融研究证明了多通道设置和自我监督任务的有效性。</p>
 
 <h3 id="超网络-从偏序集到几何">超网络：从偏序集到几何</h3>
@@ -291,6 +293,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.06429">http://arxiv.org/abs/2101.06429</a></p>
 
 <p>作者： Emil Saucan</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06429v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们证明超网络可以看作是姿势，而姿势本身又自然地解释为简单复形，因此具有固有的曲率概念，即Forman Ricci曲率，它与Euler特性密切相关。简单复合体。这种方法受E. Bloch的启发，使我们能够将简单复杂结构规范地关联到有向或无向的超网络。特别是，这大大简化了我们先前提出的几何持久同源性方法。</p>
 
@@ -302,6 +306,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Sissi Xiaoxiao Wu, Zixian Wu, Shihui Chen, Gangqiang Li, Shengli Zhang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06406v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在这项工作中，我们考虑了区块链网络中的社区检测。我们专门以比特币网络和以太坊网络为两个示例，其中社区检测以不同的方式发挥作用。对于比特币网络，我们修改了传统的社区检测方法，并将其应用于交易社会网络，以聚类具有相似特征的用户。另一方面，对于以太坊网络，我们基于智能合约交易定义了双向社交图。一种新颖的社区检测算法，专门针对图表上的低秩信号而设计，可以帮助基于用户令牌订阅找到用户的社区。基于这些结果，设计了两种策略来向同一社区中的那些用户交付链上广告。我们在真实数据上实现提出的算法。通过采用改进的聚类算法，比特币网络中的社区结果与已经向公众宣布的博彩网站社区的真实性基本一致。同时，我们在真实的以太坊数据上运行建议的策略，可视化结果并在Ropsten测试网上实现广告投放。</p>
 
 <h3 id="缓解covid-19大流行影响的最佳干预策略">缓解COVID-19大流行影响的最佳干预策略</h3>
@@ -311,6 +317,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.06282">http://arxiv.org/abs/2101.06282</a></p>
 
 <p>作者： Andreas Kasis, Stelios Timotheou, Nima Monshizadeh, Marios Polycarpou</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06282v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 目前，世界各国政府都面临着选择合适的干预策略以应对COVID-19大流行的影响的任务。这是一项极富挑战性的任务，因为严厉的措施可能会导致经济崩溃，而宽松的战略可能会导致高死亡人数。因此，我们考虑了制定干预策略以减轻COVID-19大流行的影响的问题，该策略优化了死亡人数与社会经济成本之间的权衡。我们证明医疗保健能力和测试率在很大程度上影响最佳干预策略。此外，我们提出了一种方法，该方法可以通过少量策略和政策更改实现接近最优的实用策略。特别是，我们提供了工具来决定应执行哪些政策以及政府何时应更改为其他政策。最后，我们考虑所呈现的结果如何受到初始繁殖数量和感染死亡率的不确定性的影响，并证明当采用更严格的策略时，参数不确定性的影响更大。</p>
 
@@ -322,6 +330,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Wei Wu, Hanjia Lyu, Jiebo Luo</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06321v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 自COVID-19大流行爆发以来已经一年了。好消息是，一些制造商开发的疫苗正在全球范围内积极分发。但是，随着越来越多的疫苗可供公众使用，与疫苗相关的各种担忧成为可能阻碍公众接种疫苗的主要障碍。考虑到这些问题的复杂性及其潜在危害，本研究旨在提供一个清晰的认识，以理解不同人群在谈论COVID-19疫苗时，尤其是在Reddit上活跃的疫苗时所关注的问题。通过将LDA和LIWC运用定量和定性比较的结合所产生的见解来表征相关话语，从而实现了这一目标。调查结果包括：1）在大流行期间，以串谋理论为主导的Reddit评论所占比例超过了其他任何话题； 2）每个子目录都有自己的用户群，因此发布在一个子目录中的信息可能无法到达其他子目录中的信息； 3）由于用户的关注因时间和子需求而异，因此必须根据特定需求调整沟通策略。这项研究的结果表明，在设计有效的沟通和免疫计划过程中，挑战与机遇并存。</p>
 
 <h3 id="尽管covid反复发作-但运输中的co-2-排放仍然很高">尽管COVID反复发作，但运输中的CO  _2 排放仍然很高</h3>
@@ -331,6 +341,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.06450">http://arxiv.org/abs/2101.06450</a></p>
 
 <p>作者： Yilong Wang, Zhu Deng, Philippe Ciais, Zhu Liu, Steven J. Davis, Pierre Gentine, Thomas Lauvaux, Quansheng Ge</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06450v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在2020年上半年运输相关的CO  _2 排放急剧下降然后反弹之后，今年秋天的第二次COVID-19浪潮进一步减少了排放量，但幅度不那么大。在这里，我们使用每日排放量的近实时估算来探索2020年人类行为和限制政策的差异。</p>
 
@@ -342,6 +354,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Gian Maria Campedelli, Maria Rita D&rsquo;Orsogna</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06458v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： COVID-19大流行引发了多种公共卫生，社会经济和机构危机。为减慢病毒的传播而采取的措施在当局和公民之间造成了很大的压力，引发了社会动荡和反政府示威的浪潮。通过重点研究事件发生数量最多的三个国家（印度，以色列和墨西哥），我们研究了由“ COVID-19 Disorder Tracker”倡议所记录的与大流行性疾病相关的事件的时间性质。通过对数据流进行泊松和霍克斯过程拟合，我们发现在这三个国家中，无序事件是相互依存和自激发的。地理聚类在国家以下各级确认了这些特征，表明全国性的混乱随着中尺度自激模式的融合而出现。在计算国家以下集群之间事件的相关性时，在国家之间观察到相当大的多样性；这些都是在特定的政治，社会和地理特征的背景下讨论的。以色列是领土最紧凑的地区，在大规模的抗议活动中，由于政府的封锁而进行了协调，在事件发生后，以色列表现出最大的反应力和最短的影响力，并且在全国范围内表现最强。在从未强制执行完整锁定命令的墨西哥，反应性和全国同步性最低。我们的工作突显了当局必须促进当地信息运动，以确保生计和病毒遏制政策不被认为是相互排斥的。</p>
 
 <h3 id="通过强化学习将公交车最佳地分配到公交车站">通过强化学习将公交车最佳地分配到公交车站</h3>
@@ -351,6 +365,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.06464">http://arxiv.org/abs/2101.06464</a></p>
 
 <p>作者： Luca Vismara, Lock Yue Chew, Vee-Liem Saw</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06464v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 总线系统涉及复杂的总线-总线和总线-乘客交互。我们研究了将公交车分配到公交车站以最大程度地减少乘客的平均等候时间W的问题。提出了两种特殊相互作用的分析理论：正常情况下，所有公交车都从每个公交车站上车，而新型公交车则是非交互公交车的不相交子集服务于公交车站的不相交子集。我们的公式允许在所检查的两种情况下精确计算一般回路的W。与常规巴士相比，我们呈现了高速巴士的W改善情况。从我们的理论中可以得出有用的见解：1）所需的巴士数量最少； 2）将拥挤的公交车站分成两个拥挤的公交车站，这通常会增加W对于常规公交车，3）更改乘客的目的地和公交车站的位置不会影响W。在第二部分中，我们引入了强化学习平台，该平台克服了我们的分析方法的局限性，以寻求公交车在公交车站之间的更好分配与以前的案例相比，允许在总线之间进行任何可能的交互，从而释放出新颖的应急策略。我们基于从南洋理工大学的穿梭巴士系统收集的数据，将此工具应用于一个简单的玩具模型和三个以经验为依据的巴士环路。在简化模型中，我们观察到一种无法预料的策略，该策略无法用我们的数学公式进行分析，并且显示出混乱的行为。在三种基于经验的情况下，可能的配置大约为10 ^ 11、10 ^ 11和10 ^ 20，因此无法采用蛮力方法。与常规巴士相比，我们的算法将W降低了12％至32％，与快速巴士相比，将W降低了12％至29％。该工具具有实际应用价值，因为它独立于总线回路的特定特性而工作。</p>
 
@@ -362,6 +378,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Hamed Jelodar, Rita Orji, Stan Matwin, Swarna Weerasinghe, Oladapo Oyebode, Yongli Wang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06484v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 利用诸如Twitter之类的社交媒体平台，本文为隔离对象中的情绪检测提供了有效的框架。尽早发现情绪感受及其趋势有助于实施及时的干预策略。鉴于隔离期间对早期情绪变化征兆进行医学诊断的局限性，人工智能模型提供了揭示早期征兆，症状和逐步发展趋势的有效机制。本文介绍的方法的新颖性是文本数据处理的多任务方法框架，基于用于情感检测和趋势检测的Plutchik / Ekman方法，被实现为有意义的情感检测和分析的管道。我们对框架和试验系统进行评估。结果证实了所提出的框架对COVID-19推文的主题趋势和情绪检测的有效性。我们的发现表明，“居家”限制导致人们在推特上表达负面和正面的情感语义。与待在家里有关的安全问题的语义趋势在28天内迅速下降，并且与朋友垂死和隔离生活有关的负面情绪在某些天内有所增加。这些发现有可能通过监视被隔离人员的情感趋势来影响公共卫生政策的决策。这里介绍的框架有潜力通过用作在线情绪检测工具套件来协助进行此类监视。</p>
 
 <h3 id="剖析模因魔术-理解图像模因中的病毒性指标">剖析模因魔术：理解图像模因中的病毒性指标</h3>
@@ -371,6 +389,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.06535">http://arxiv.org/abs/2101.06535</a></p>
 
 <p>作者： Chen Ling, Ihab AbuHilal, Jeremy Blackburn, Emiliano De Cristofaro, Savvas Zannettou, Gianluca Stringhini</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06535v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 尽管图像模因扮演着越来越重要的角色，但我们对可能使模因在社交媒体上风行一时的元素还没有足够的理解。在本文中，我们研究了哪些视觉元素在构图，主题和目标受众这三个维度上将社交媒体上高度传播的图像模因与那些未被重新共享的图像模因加以区分。借鉴艺术理论，心理学，市场营销和神经科学方面的研究，我们开发了一个代码簿来表征图像模因，并用其注释从4chan政治上不正确的收集的100个图像模因。一方面，我们发现高病毒性模因更可能使用特写量表，包含人物并包含正面或负面情绪。另一方面，没有呈现观看者可以关注的清晰主题的图像模因或包含长文本的图像模因不太可能被用户重新共享。我们训练机器学习模型来区分可能传播的图像模因和不太可能被重新共享的图像模因，从而在我们的数据集上获得0.866的AUC。我们还表明，通过我们的模型识别出的病毒性指标也可以帮助表征主流在线社会网络上发布的最具病毒性的模因，因为我们的分类器能够预测2016年在Twitter和Reddit上发布的20种最受欢迎​​的图像模因中的19种。和2018年。总体而言，我们的分析揭示了在线上具有病毒性和非病毒性视觉内容特征的指标，并为开发更好的技术来创建或调节更可能引起观众注意的内容奠定了基础。</p>
 
@@ -382,6 +402,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Isa Inuwa-Dutse, Mark Liptrott, Yannis Korkontzelos</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06551v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 网络是由许多社区组成的，即具有更强关系，具有独特和重叠属性的节点和边集。出于各种原因，社区检测至关重要，例如，充当网络的功能单元，可以刻画节点之间的本地交互。社区的形式和类型多种多样，从生物学到技术诱导的不等。作为技术引发的社区，Twitter和Facebook等社交媒体网络连接了众多的不同用户，从而形成了高度连接且动态的生态系统。尽管已经提出了许多算法来检测Twitter上具有社会凝聚力的社区，但是挖掘和相关任务仍然具有挑战性。这项研究提出了一种基于可伸缩框架的新颖检测方法，以识别网络中的相关社区。我们提出了一种多层次的聚类技术（MCT），该技术利用结构和文本信息来识别称为微观世界的本地社区。对基准模型和数据集的实验评估证明了该方法的有效性。这项研究为检测社会网络中的凝聚力社区提供了新的维度。该方法为描述底层社区如何在Twitter上发展和行为提供了更好的理解和清晰度。从应用程序的角度来看，识别这些社区可以更好地为推荐提供依据，还有其他好处。</p>
 
 <h3 id="从z世代-千禧一代到婴儿潮一代-covid-19大流行期间在家工作的形象">从Z世代，千禧一代到婴儿潮一代：COVID-19大流行期间在家工作的形象</h3>
@@ -391,6 +413,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.06762">http://arxiv.org/abs/2101.06762</a></p>
 
 <p>作者： Ziyu Xiong, Pin Li, Hanjia Lyu, Jiebo Luo</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06762v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 自2020年3月以来，由于COVID-19确诊病例的迅速增加，全国范围内的公司开始在家工作（WFH），以试图防止冠状病毒传播并从大流行中拯救经济。许多组织进行了调查，以理解人们对WFH的看法。但是，由于调查的样本量有限，并且随着时间的推移主题不断变化，因此，我们使用Twitter数据进行了大规模的社交媒体研究，以描绘对WFH有正面/负面看法的不同群体。我们执行普通的最小二乘回归，以调查关于WFH的情绪与用户特征（包括性别，年龄，种族，家庭收入中位数和人口密度）之间的关系。为了更好地理解公众舆论，我们使用潜在的Dirichlet分配来提取主题并发现推文内容如何与人们的态度相关。这些发现提供了关于WFH的情感随用户特征而变化的证据。此外，内容分析揭示了情感上的细微差别，并揭示了与WFH相关的差异。</p>
 
@@ -402,6 +426,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Yong-Bin Kang, Hung Du, Abdur Rahim Mohammad Forkan, Prem Prakash Jayaraman, Amir Aryani, Timos Sellis (Fellow, IEEE)</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06821v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 寻找专家在推动成功的合作并加快高质量的研究开发和创新中起着至关重要的作用。但是，科学出版物和数字专业知识数据的快速增长使寻找合适的专家成为一个具有挑战性的问题。现有的寻找给定主题的专家的方法可以归类为基于向量空间模型，文档语言模型和基于图的模型的信息检索技术。在本文中，我们提出    ExpFinder ，这是一种用于专家发现的新集成模型，该模型集成了新颖的 N  -gram向量空间模型（表示为 n  VSM）和基于图的模型，表示为如      mu  CO-HITS ，这是CO-HITS算法的建议变体。  n  VSM的关键是对 N  -gram词利用最新的逆文档频率加权方法，而    ExpFinder 将 n  VSM合并到      mu  CO-HITS 中实现专家发现。与六个不同的专家发现模型相比，我们对来自学术领域的四个不同数据集进行了全面评估    ExpFinder 。评估结果表明，    ExpFinder 是一种非常有效的专家发现模型，在所有比较模型中的表现都大大超过19％至160.2％。</p>
 
 <h3 id="国会大厦暴动-twitter和parler的比较研究">国会大厦暴动：Twitter和Parler的比较研究</h3>
@@ -411,6 +437,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.06914">http://arxiv.org/abs/2101.06914</a></p>
 
 <p>作者： Hitkul, Avinash Prabhu, Dipanwita Guhathakurta, Jivitesh jain, Mallika Subramanian, Manvith Reddy, Shradha Sehgal, Tanvi Karandikar, Amogh Gulati, Udit Arora, Rajiv Ratn Shah, Ponnurangam Kumaraguru</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06914v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 2021年1月6日，一群右翼保守派袭击了美国国会山，打断了代表2020年总统选举结果的国会会议。活动开始后，与骚乱有关的帖子立即在社交媒体上流行起来。脱颖而出的社交媒体平台是支持社交媒体平台Parler的免费演讲。它被认为是策划和讨论暴动的平台。我们的报告显示了骚乱期间Parler和Twitter上的趋势内容之间的对比。我们根据趋势标签从两个平台收集数据，并根据所讨论的主题，谁在平台上活跃的人以及两个平台上生成的内容的有机程度进行比较。尽管Twitter上的流行趋势对事件产生了强烈的反感，并呼吁采取行动打击骚乱者和煽动者，但Parler的内容具有强烈的保守性叙事，呼应了类似于袭击暴民的选民欺诈观念。与Twitter相比，我们还发现Parler上的流量操纵比例过高。</p>
 
@@ -422,6 +450,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Xinglong Qu, Shun Kurokawa, The Anh Han</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.06961v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 本文运用演化博弈论的方法，研究了社会凝聚力和任务凝聚力在促进群体互动合作发展中的区别。玩家参加公益博弈，并且如果发生太多叛逃，则可以离开他们的团队。社会凝聚力和任务凝聚力都可能阻止玩家离开。较高的社会凝聚力会提高玩家对逃避行为的容忍度，而任务凝聚力则与她过去的团队表现相关。有了更高的任务凝聚力，不满意的玩家更有可能参考历史记录，并且如果她过去感到满意的话，仍会留在她的团队中。我们的结果表明，社会凝聚力不利于合作的发展，而任务凝聚力则有助于合作的发展。这是因为社会凝聚力阻碍了条件分离机制，但是任务凝聚力提高了通常容易出错的合作社群体的稳健性。我们还将讨论凝聚力的其他潜在方面，以及如何通过我们的建模研究它们。总体而言，我们的分析通过研究群体动力学为群体凝聚力与群体绩效之间的关系提供了新颖的见解，并提出了演化博弈论在该领域的进一步应用。</p>
 
 <h3 id="从噪声中分离争议-结构极化度量的比较和归一化">从噪声中分离争议：结构极化度量的比较和归一化</h3>
@@ -431,6 +461,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.07009">http://arxiv.org/abs/2101.07009</a></p>
 
 <p>作者： Ali Salloum, Ted Hsuan Yun Chen, Mikko Kivelä</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07009v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 量化两极分化的数量对于理解和研究政治和社会系统中的政治两极分化至关重要。通过纯粹检查社会网络的结构，通常使用几种方法来测量社会网络中的极化。我们分析了八种这样的方法，结果表明，即使对于密度和度分布与典型的现实世界网络相似的随机网络，它们都可以产生较高的极化评分。此外，一些方法对极化基团的度数分布和相对大小敏感。我们建议对现有分数进行归一化，并建议分数应通过的最少测试集，以使其适合于将极化网络与随机噪声分离。在203个网络的分类任务中进行标准化后，分数的性能提高了38％-220％。此外，我们发现方法的选择不如归一化那么重要，在此之后，大多数方法的性能要比归一化之前的最佳方法更好。这项工作为严格评估和比较结构极化方法的特征和性能提供了可能性。</p>
 
@@ -442,6 +474,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Javier Baranda Alonso, Philip Sandwell, Jenny Nelson</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07040v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 难民营中的电力访问通常仅限于人道主义机构的关键操作，并且通常由化石燃料发电机提供动力。我们研究了优化的完全可再生能源和柴油混合微型电网设计可通过取代柴油使用而在人道主义环境中提供的经济和环境效益。考虑到卢旺达Nyabiheke难民营的案例研究，我们发现这些好处是可观的，节省的费用高达总成本的32％，排放量的83％，成本回收期为0.9至6.2年。尽管它们的成本结构不同，但我们发现，与现有的柴油系统相比，系统的所有混合动力级别均可节省成本和排放。我们着重介绍建模工具如何促进系统的引入和逐步扩展，以及如何为当地的运营提供参考。这项研究表明，财政资源，环境目标和行动时间表将如何在个案基础上影响人道主义行为者最适当的系统设计。</p>
 
 <h3 id="最高法院引证的生成动态-使用新的统计网络模型进行分析">最高法院引证的生成动态：使用新的统计网络模型进行分析</h3>
@@ -452,6 +486,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Christian S. Schmid, Ted Hsuan Yun Chen, Bruce A. Desmarais</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07197v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 美国最高法院多数意见的重要性和影响力很大程度上来自于意见作为未来意见先例的作用。越来越多的文献试图通过研究最高法院的案例引用方式来理解是什么促使以观点为先例。我们提出了有关最高法院引证的现有工作的两个限制。首先，二元引用通常在分析之前汇总到案例级别。其次，引用被视为独立出现。我们提出了一种方法来研究最高法院意见之间在二进层次上的引用（作为网络），从而克服了这些限制。这种方法-引文指数随机图模型（我们为其提供了用户友好的软件）-使研究人员能够考虑案例特征和复杂的网络依赖形式对引文形成的影响。然后，我们分析了一个网络，其中包括1950年至2015年之间判决的所有最高法院案件。我们找到了依赖程序的证据，包括对等，及物性和受欢迎度。依存关系的影响在统计学上和外在协变量的影响一样重要，这表明最高法院引文的模型应既包括案例特征的影响，又应包括过去引文的结构。</p>
 
 <h3 id="高阶网络上的突发暴露会导致非线性感染核">高阶网络上的突发暴露会导致非线性感染核</h3>
@@ -461,6 +497,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.07229">http://arxiv.org/abs/2101.07229</a></p>
 
 <p>作者： Guillaume St-Onge, Hanlin Sun, Antoine Allard, Laurent Hébert-Dufresne, Ginestra Bianconi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07229v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在特定环境中共同放置个人是在社会网络上暴露于传染病的重要前提。标准的流行病模型无法通过以下方式刻画这种情况的潜在复杂性：（1）忽略了通常在工作场所，饭店和家庭等环境中发生的联系的超图结构； （2）假设接触被感染的接触者与感染的风险之间存在线性关系。在这里，我们利用超图模型来涵盖不同环境的异质性以及这些环境中个人参与的异质性。我们发现，突然暴露在环境中会导致受感染的参与者数量与感染风险之间存在非线性关系。这使我们可以基于非线性感染内核和阈值模型来连接复杂的传染病。然后，我们证明了常规的流行病知识如何随着不连续的过渡，超指数扩散和滞后现象的出现而崩溃。</p>
 

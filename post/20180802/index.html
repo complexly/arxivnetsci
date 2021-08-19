@@ -59,7 +59,7 @@ PopRank：Facebook上对页面的影响和用户参与度进行排名;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -67,9 +67,9 @@ PopRank：Facebook上对页面的影响和用户参与度进行排名;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -222,6 +222,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Elisabetta Bergamini, Pierluigi Crescenzi, Gianlorenzo D&rsquo;Angelo, Henning Meyerhenke, Lorenzo Severini, Yllka Velaj</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1702.05284v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 中介是一种众所周知的中心度量，它根据节点参与网络的最短路径对节点进行排名。在几种情况下，具有高中介性可以对节点本身产生积极影响。因此，在本文中，我们考虑通过创建有限数量的新边来确定顶点可以增加其中心性的问题。特别是，我们研究了最大化给定节点的中介性得分的问题 - 最大中介性改进（MBI） - 以及最大化给定节点的排名 - 最大排名改进（MRI）。我们证明MBI不能在因子$（1- \ frac {1} {2e}）$内的多项式时间内近似，并且MRI不允许任何多项式时间常数因子近似算法，除非$ P = NP $ 。然后，我们提出了一种简单的贪婪近似算法，用于MBI，具有几乎紧密的近似比，我们在几个真实网络上测试其性能。我们通过实验证明，我们的算法高度增加了介数中心性得分和给定节点蚂蚁的排名，它优于几个竞争基线。为了加速我们的贪婪算法的计算，我们还提出了一种新的动态算法，用于在边插入之后更新一个节点的中介性，这可能是独立的兴趣。使用动态算法，我们现在能够在大多数情况下在几秒或几分钟内计算出具有高达10 ^ 5美元边的网络上的MBI近似值。</p>
 
 <h3 id="poprank-facebook上对页面的影响和用户参与度进行排名">PopRank：Facebook上对页面的影响和用户参与度进行排名</h3>
@@ -231,6 +233,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1808.00062">http://arxiv.org/abs/1808.00062</a></p>
 
 <p>作者： Andrea Zaccaria, Michela del Vicario, Walter Quattrociocchi, Antonio Scala, Luciano Pietronero</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1808.00062v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在线用户倾向于获取符合其信仰系统的信息并忽略不同意见的信息。这种动态可能会影响页面流行度在本文中，我们介绍了一种算法，我们称之为PopRank，在相互交互的基础上评估Facebook页面的影响以及用户的参与度。 PopRank背后的想法是：i）高影响力的网页吸引了很多低参与度的用户，这意味着他们会收到很少评论的用户的评论，以及ii）高参与度用户与高影响力页面的互动，即他们主要评论页面人气很高。得到的页面排名可以预测页面将收到的评论数量和帖子数量。页面影响结果略微依赖于网页的信息内容（例如，科学与阴谋），但与用户的两极分化无关。</p>
 
@@ -242,6 +246,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Benjamin F. Maier, Cristián Huepe, Dirk Brockmann</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1808.00240v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 组织为模块层次结构的网络已成为许多研究的主题，主要侧重于可以从数据中提取此社区结构的算法。然而，模块化等级组织为何无处不在的问题受到的关注较少。一种假设是模块化分层拓扑可以为某些动态过程提供最佳结构。我们重新审视模块化分层网络模型，该模型使用单个参数在两个已知网络拓扑之间进行插值：从强层次模块化到Erd \ H {o} s-R \&lsquo;enyi随机连接结构。我们证明了这个模型显示出与Kleinberg模型类似的小世界效应，其中节点之间的连接概率随着距离而在代数上衰减。我们发现在两种模型中都存在一种最优结构，其中离散时间随机游走的对平均首次通过时间（FPT）和平均覆盖时间是最小的，并且为该效应提供了启发式解释。最后，我们表明，基于有效介质近似的对平均FPT的分析预测无法再现这些最小值，这意味着它们的存在是由于网络结构效应。</p>
 
 <h3 id="重新审视1789-1919英国小说">重新审视1789-1919英国小说</h3>
@@ -251,6 +257,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1808.00382">http://arxiv.org/abs/1808.00382</a></p>
 
 <p>作者： Allen Riddell, Michael Betancourt</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1808.00382v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 由于缺乏包容性的书目和传记数据库，社会学倾向的文学史在20世纪失败了。如果没有详细的文学作品会计，很多问题都无法回答。以下是具有代表性的：有多少作家从事小说家的职业生涯，是否有未经承认的前兆或被遗忘的对手的规范作者，作家的批评或商业成功在多大程度上可以从他们的社会起源中预测出来？在过去十年中，图书馆数字化和机器可读数据集的发展改善了数据密集型文学史的前景。本文对1789年以后在不列颠群岛出版的小说的书目数据进行了两次分析。首先，我们估计了1789年至1919年间新小说出版的年率。其次，使用出现在1800年至1829年之间的小说标题，我们解决了有关的争议。新颖子类中的职业性别隔离。我们表明，1815年后男性小说家数量的显著增长并未集中在特定的子类型中。</p>
 

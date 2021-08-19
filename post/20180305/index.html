@@ -68,7 +68,7 @@ NetGAN：通过随机游走生成图;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -76,9 +76,9 @@ NetGAN：通过随机游走生成图;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -234,6 +234,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Amir Ghasemian, Homa Hosseinmardi, Aaron Clauset</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1802.10582v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 网络上常见的数据挖掘任务是社区检测，它根据网络连接的统计规律寻求将网络无监督地分解为结构组。尽管存在许多方法，但社区检测的免费午餐定理意味着每种方法都会做出某种折衷，并且没有算法可以在所有输入上达到最优。因此，不同的算法会在不同的输入上过度或不适合，发现更多，更少或者仅仅是不同的社区而不是最优的，并且使用元数据分区作为基本事实的评估方法将产生关于一般准确性的令人误解的结论。在这里，我们对社区检测中过度和不足的广泛评估，比较了16个最新社区检测算法在406个真实世界网络的新颖和结构多样化语料库上的行为。我们发现：（i）在给定相同输入的情况下，他们发现的社区数量及其相应构成的算法差异很大;（ii）算法可以根据其实时输出的相似性聚类到不同的高级组中， （iii）这些差异会导致链路预测和链路描述任务的精度变化很大。我们引入了一种新的诊断方法来评估实践中的过度拟合和不足，并将其用于将社区检测方法大致分为通用和专业学习算法。在各种方法和输入中，基于随机块模型和最小描述长度方法的贝叶斯技术表示最佳的一般学习方法，但在特定情况下可能会表现优异。这些结果同时引入了一种理论上有原则的方法来评估网络社区结构模型的过度和不足以及可以评估和比较新方法的现实基准。</p>
 
 <h3 id="社会网络中的影响的高阶单调性和子模性-从局部到全局">社会网络中的影响的高阶单调性和子模性：从局部到全局</h3>
@@ -243,6 +245,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1803.00666">http://arxiv.org/abs/1803.00666</a></p>
 
 <p>作者： Wei Chen, Qiang Li, Xiaohan Shan, Xiaoming Sun, Jialin Zhang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1803.00666v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： Kempe，Kleinberg和Tardos（KKT）提出了关于社会网络中一般门限模型的以下猜想：局部单调性和子模数性意味着全局单调性和子模数性。也就是说，如果每个节点的阈值函数是单调和子模块，那么扩展函数$ \ sigma（S）$是单调和子模块，其中$ S $是一个种子集合，扩展函数$ \ sigma（S）$表示从$ S $开始的扩散过程终止时的活动节点的预期数量。 Mossel和Roch证明了这个猜想的正确性。在本文中，我们首先提供了概念AD-k（交替差 -  $ k $）作为单调性和子模性的推广。具体来说，如果所有输入上$ f $ $ $的所有$ \ ell $ -th阶差分对每个$ \ ell都签有$（ -  1）^ {\ ell + 1} $，那么一个函数$ f $被称为\ adk \ leq k $。注意AD-1对应于单调性，而AD-2对应于单调性和子模数。我们提出了KKT猜想的改进版本：在一般阈值模型中，局部AD-k意味着全局AD-k。原始的KKT猜想对应于AD-2的情况，而AD-1的情况是局部单调性的平凡意味着全球单调性。通过利用集合函数的连续扩展以及社交图结构，当社交图是有向无环图（DAG）时，我们证明了我们猜想的正确性。此外，当$ k = \ infty $时，我们肯定了对一般社会图的猜想。</p>
 
@@ -254,6 +258,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Denys Katerenchuk, Andrew Rosenberg</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1803.00719v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 排名用于广泛的问题，最显著的是信息检索（搜索）。评估排名的方法有很多，比如肯德尔的$ \ tau $，平均精确度和nDCG。在处理用户排序或推荐系统等问题时，所有这些措施都会遇到各种问题，包括无法处理相同级别的元素，不一致和模糊的下限分数以及不适当的成本函数。我们提出了一个解决这些问题的新措施rankDCG。这是流行的nDCG算法的修改。我们为任何有效的排名算法提供了许多标准，并显示只有rankDCG满足所有这些算法。结果显示在构建的和真实的数据集上。我们发布了一个公开的rankDCG评估软件包。</p>
 
 <h3 id="利用聚合手机数据理解人类流动情况">利用聚合手机数据理解人类流动情况</h3>
@@ -263,6 +269,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1803.00814">http://arxiv.org/abs/1803.00814</a></p>
 
 <p>作者： Caterina Balzotti, Andrea Bragagnini, Maya Briani, Emiliano Cristiani</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1803.00814v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在本文中，我们处理人口密集地区旅行流量和人群模式的研究。有关人员移动的信息是从粗粒度聚合蜂窝网络数据中提取的，而无需单独跟踪移动设备。移动电话数据由意大利电信公司TIM提供，并由不同时刻某一地区人员的密度分布（即空间分布）组成。通过计算两个连续密度剖面之间的Wasserstein距离的合适近似值，我们能够提取人们所遵循的主要方向，即了解人们在空间和时间中的分布情况。提出的技术的主要应用是监测通勤者的日常流量，组织大型活动以及更一般的交通管理和控制。</p>
 
@@ -274,6 +282,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1803.00816v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们建议NetGAN&ndash;图的第一个隐式生成模型，能够模拟真实世界的网络。我们将图生成问题称为学习输入图上偏向随机游动的分布。所提出的模型基于随机神经网络，其生成离散输出样本并且使用Wasserstein GAN目标进行训练。 NetGAN能够生成展示众所周知的网络模式的图表，而无需在模型定义中明确指定它们。与此同时，我们的模型展现出强大的泛化特性，正如其竞争性链路预测表现所强调的那样，尽管没有专门针对此任务进行培训。作为结合这两种理想特性的第一种方法，NetGAN开启了令人兴奋的进一步研究途径。</p>
 
 <h3 id="伪分形无标度网络和谢尔宾斯基图形中的独立数和最大独立集的个数">伪分形无标度网络和谢尔宾斯基图形中的独立数和最大独立集的个数</h3>
@@ -284,6 +294,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Liren Shan, Huan Li, Zhongzhi Zhang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1803.00829v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 作为理论计算机科学的基础课题，最大独立集（MIS）问题不仅具有纯粹的理论兴趣，而且在各个领域也有广泛的应用。但是，对于确定MIS大小的一般图是NP难度的，并且精确计算所有MIS的数量更加困难。因此寻找可以准确解决MIS问题的特殊图表是非常有意义的。在本文中，我们解决伪分形无标度网格和Sierpi \ nski垫片中具有相同顶点和边数量的MIS问题。对于这两个图，我们都确定了所有可能的MIS的独立数量和数量。伪分形无标尺网片的独立编号是Sierpi nski垫片的两倍。此外，伪分形无标度网具有独特的MIS，而Sierpi&rsquo;nski垫中MIS的数量随着顶点的数量呈指数增长。</p>
 
 <h3 id="用于可靠统计抽样的稀疏幂律网络模型">用于可靠统计抽样的稀疏幂律网络模型</h3>
@@ -293,6 +305,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1803.00976">http://arxiv.org/abs/1803.00976</a></p>
 
 <p>作者： A. Kartun-Giles, D. Krioukov, J.P. Gleeson, Y. Moreno, G. Bianconi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1803.00976v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 投影网络模型是一种能够基于网络数据的子样本进行预测的模型，如果考虑更大的样本，则预测保持不变。可交换模型是不依赖于节点采样顺序的模型。尽管在网络科学中广泛使用的各种各样的非平衡（增长）和平衡（静态）稀疏复杂网络模型，但如何将稀疏性（恒定平均度）与期望的统计性质的可预测性和可交换性协调起来，科学问题。在这里我们提出一个隐含变量的网络过程，它是投射的，可以产生稀疏的幂律网络。尽管模型不可交换，但它可以与可交换的不相关网络密切相关，如其信息论特征和网络熵所表明的那样。这里提出的网络过程作为空模型的使用在这里对真实数据进行了测试，表明该模型为统计网络建模提供了一个有前途的途径。</p>
 

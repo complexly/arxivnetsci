@@ -95,7 +95,7 @@ YouTube上的伪科学内容：评估观看历史记录对推荐算法的影响;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -103,9 +103,9 @@ YouTube上的伪科学内容：评估观看历史记录对推荐算法的影响;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -270,6 +270,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Ricardo Gutiérrez, Carlos Pérez-Espigares</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11219v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 理论上和实践上的许多问题都与寻找网络中最短的路径（或最佳的路径）有关，并且常常存在一些障碍或约束。某种程度上相关的问题集中在寻找权重的最佳分布，对于给定的连接拓扑，权重的最佳分布使某种流量最大化或给定成本函数最小化。我们表明，可以通过对随机游走的大偏差函数进行分析来解决这两组问题。具体而言，对轨迹集合的研究使我们能够借助辅助随机过程（广义Doob变换）找到最佳路径或设计最佳加权网络。与标准方法相反，这些路径不仅限于最短路径，而且权重也不需要优化给定功能。实际上，可以将路径和权重调整为可观察到的时间积分的给定统计信息，该统计信息可以是活动或当前状态，也可以是标记随机游走者通过给定节点或链接的本地功能。我们通过探索在存在障碍物时的最佳路径和在局部活动中存在禁区或上限的情况下流动的最佳网络来说明这一思想。</p>
 
 <h3 id="图的半监督分类中节点属性和邻近度的联合使用">图的半监督分类中节点属性和邻近度的联合使用</h3>
@@ -279,6 +281,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2010.11536">http://arxiv.org/abs/2010.11536</a></p>
 
 <p>作者： Arpit Merchant, Michael Mathioudakis</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11536v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 节点分类问题是根据给定的结构和节点属性以及某些节点的标签来推断图中的未知节点标签。用于此任务的方法通常假定相邻节点具有相似的属性，因此可以从其邻居的标签中预测节点的标签。尽管经常观察到这种同质性（例如，对于社会网络中的政治隶属关系），但该假设可能不适用于任意图数据集和分类任务。实际上，共享相同标签的节点可能相邻，但属性不同。或可能不相邻但具有相似的属性。我们旨在开发一种节点分类方法，该方法可以灵活地适应一系列设置，其中标签与图结构或节点属性或两者相关。为此，我们提出了JANE（共同使用属性和节点嵌入）：一种基于生成概率模型的新颖且有原则的方法，该模型权衡了节点邻近性和属性相似性在预测标签中的作用。我们在各种图数据集上进行的实验以及与标准基线的比较表明，JANE展示了多功能性和竞争性能的完美结合。</p>
 
@@ -290,6 +294,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Leo Huang, Andrew Graven, David Bindel</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11341v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 关于图结构数据的一个重要问题是量化图之间的相似性。图内核是完成此类任务的既定技术。特别是，基于随机游动和返回概率的那些方法已被证明在从生物信息学到社会网络再到计算机视觉的广泛应用中都是有效的。但是，随机游动内核通常会出现速度慢和摇摇欲坠的现象，这种影响会导致游动过分强调局部图拓扑，从而削弱了全局结构的重要性。为了纠正这些问题，我们在状态密度更一般的框架下重现了返回概率图内核-该框架使用谱分析的透镜来揭示隐藏在谱内部的图基和特性-并使用解释可构造可扩展的，基于状态的复合密度的状态图核，该核可平衡本地信息和全局信息，从而在许多基准数据集上具有更高的分类精度。</p>
 
 <h3 id="使用roberta检测covid-19信息性推文">使用RoBERTa检测COVID-19信息性推文</h3>
@@ -299,6 +305,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2010.11238">http://arxiv.org/abs/2010.11238</a></p>
 
 <p>作者： Sirigireddy Dhanalaxmi, Rohit Agarwal, Aman Sinha</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11238v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： Twitter等社交媒体是用户生成信息的热点。在这场持续不断的Covid-19大流行中，社交媒体上存在大量数据，这些数据可分为信息性和非信息性内容。在本文中，我们将介绍使用RoBERTa模型检测信息丰富的Covid-19英语推文的工作，这是2020年W-NUT研讨会的一部分。验证数据集和排行榜上的0.87。</p>
 
@@ -310,6 +318,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Giorgio Fagiolo</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11212v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在本文中，我研究了广义空间SEIRD模型中的流行扩散，其中个体最初是通过社会或地理网络连接的。随着病毒在网络中传播，由于隔离措施和/或空间分隔策略，人与人之间的交互结构可能会随着时间的推移而发生内在变化。我通过仿真探索了将疾病扩散和网络特性动态联系起来的共同演化过程的动态特性。结果表明，为了预测流行病在网络人群中的演变方式，仅关注初始相互作用结构的性质是不够的。实际上，网络结构和隔离区共享的共同演化强烈地影响着流行扩散的过程，特别是在传播速度方面。此外，我证明了空间间隔政策的时机和特点可能会极大地影响其有效性。</p>
 
 <h3 id="社会泡沫和超级传播者-超树上传染过程的来源识别">社会泡沫和超级传播者：超树上传染过程的来源识别</h3>
@@ -319,6 +329,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2010.11350">http://arxiv.org/abs/2010.11350</a></p>
 
 <p>作者： Sam Spencer, Lav R. Varshney</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11350v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 先前的工作表明，对于扩展的星形网络（树的一个节点的度数刚好大于2）的传播过程，存在一个简单的，封闭形式的表达式，可以高精度地近似最大似然感染源。在这里，我们将结果概括为一类超树，尽管在结构上有些相似，但它们提供了更为丰富的表示空间。特别是，即使感染是通过大型团体聚会传播而不是人对人传播，并且当它正在通过相互关联的社会泡沫以不同程度的重叠程度传播时，这种方法也可用于估计患者的零污染源。在联系跟踪上下文中，此估计器可用于标识本地爆发的来源，然后可将其用于前向跟踪或进一步反向跟踪（通过类似或其他方式）到上游源。</p>
 
@@ -330,6 +342,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Charilaos I. Kanatsoulis, Nicholas D. Sidiropoulos</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11367v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 知识图（KGs）是强大的工具，可将知识库中实体之间的关系行为进行整理。 KG可以同时为许多不同类型的主语-谓语-宾语和高阶关系建模。因此，它们提供了灵活的建模框架，该框架已应用于许多领域，包括生物学和药理学-最近是在与COVID-19的斗争中。从学习的角度来看，KG建模的灵活性既是福也是挑战。在本文中，我们提出了一种用于KG嵌入的新颖的耦合张量矩阵框架。我们利用张量因子分解工具来学习知识库中实体和关系的简明表示，并使用这些表示来对COVID-19进行重新定位。我们提出的框架是原则性的，优雅的，并且使用最近开发的生物KG在COVID-19药物再利用任务中的最佳基准上实现了100％的改进。</p>
 
 <h3 id="属性社会网络中系统性边不确定性及其对少数节点排名的影响">属性社会网络中系统性边不确定性及其对少数节点排名的影响</h3>
@@ -339,6 +353,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2010.11546">http://arxiv.org/abs/2010.11546</a></p>
 
 <p>作者： Felix I. Stamm, Leonie Neuhäuser, Florian Lemmerich, Michael T. Schaub, Markus Strohmaier</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11546v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 网络分析提供了用于理解各种社交系统的强大工具。但是，大多数分析都隐含地认为所考虑的数据是无错误且可靠的。特别是如果网络由多个组组成，则此假设与我们社区中有据可查的系统报告偏差，测量误差和其他不准确性的范围相冲突。在本文中，我们对属性网络边的这种系统不确定性如何影响网络分析（尤其是节点的排名）进行建模。我们讨论了如何通过外部节点属性和网络中的相对边位置来驱动错误的边观察，从而为系统地研究边不确定性对各种网络分析任务的影响开辟了道路。为了显示从网络分析得出的结论如何由于这种不准确而失真，我们重点研究了边不确定性对基于程度的排名中少数群体表示的影响。为此，我们分析具有不同同构和组大小的合成网络和真实网络。我们发现，引入边不确定性可以显著改变网络的相对密度，并导致少数群体的排名急剧上升或下降，这取决于边误差和同形的类型。我们的模型使研究人员能够在分析中包括系统的边不确定性，从而更好地说明少数族裔在社会网络中的作用。</p>
 
@@ -350,6 +366,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Alessio Emanuele Biondo, Giulio Burgio, Alessandro Pluchino, Damiano Puglisi</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11589v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在本文中，我们提出了比例税制的简化模型，公民可以决定是否缴税或逃税。我们首先针对逃逸者的比例推导出一个动力学方程，然后针对混合良好的人群和固定的审计概率，给出其临界点和平衡稳定状态。我们的理论预测通过选择复杂的网络配置来考虑不同的可能收入分配（同质和异类），与时间相关的审计概率以及不同的可能的社会拓扑。所有导出的结果均通过扩展的蒙特卡洛模拟进行了验证和确认。最后，就税收和罚款率以及审计的可能性，提出了一些旨在减少逃税行为的政策含义。</p>
 
 <h3 id="youtube上的伪科学内容-评估观看历史记录对推荐算法的影响">YouTube上的伪科学内容：评估观看历史记录对推荐算法的影响</h3>
@@ -359,6 +377,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2010.11638">http://arxiv.org/abs/2010.11638</a></p>
 
 <p>作者： Kostantinos Papadamou, Savvas Zannettou, Jeremy Blackburn, Emiliano De Cristofaro, Gianluca Stringhini, Michael Sirivianos</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11638v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： YouTube彻底改变了人们发现和消费视频的方式，成为互联网用户的主要新闻来源之一。由于YouTube上的内容是由用户生成的，因此该平台特别容易受到误导性和阴谋性视频的攻击。更糟糕的是，人们对YouTube推荐算法在不经意间宣传可疑内容的作用还不甚理解，有可能使问题变得更糟。这可能会给现实世界带来可怕的后果，尤其是在关键时刻（例如在COVID-19大流行期间）向用户宣传伪科学内容时。在本文中，我们着手表征和检测YouTube上的伪科学错误信息。我们收集了6.6K的视频，这些视频与COVID-19，地平理论，防疫苗接种和防口罩运动有关；使用众包，我们将其注释为伪科学，合法科学或无关紧要。然后，我们训练深度学习分类器来检测伪科学视频，其准确性为76.1％。接下来，我们在平台的各个部分（即用户的首页，观看特定视频时推荐的视频或搜索结果）中量化用户对该内容的曝光量，以及根据用户的观看历史记录如何改变该曝光量。我们发现，当用户搜索特定主题时，YouTube的推荐算法在建议伪科学内容方面更具攻击性，而在用户首页或积极观看伪科学视频时，这些推荐并不常见。最后，我们阐明了用户的观看历史记录如何显著影响推荐视频的类型。</p>
 
@@ -370,6 +390,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Shen Ren, Qianxiao Li, Liye Zhang, Zheng Qin, Bo Yang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11738v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 随行即服务（Maas）的未来应该包含一个综合的乘车，街道乘车和乘车共享系统，并具有针对实时，随机需求模式的优化智能车辆路线。考虑到中小型道路网络的随机需求模式，我们旨在针对大型车辆的街道停车服务优化路线策略。提出了一种基于模型的调度算法，一种基于高性能，无需模型的强化学习算法以及一种新颖的混合算法，该算法结合了自顶向下方法和无模型的强化学习两者的优势，可以路由 emph 汽车。我们使用近端策略优化并结合内在和外在奖励来设计基于强化学习的路由算法，以在勘探与开发之间取得平衡。使用大型基于主体的微观仿真平台评估我们提出的算法，我们的无模型强化学习和混合算法在有经验需求的人工道路网络和基于社区的新加坡道路网络上均表现出出色的性能，并且我们的混合算法可以极大地促进了学习过程中无模型学习者的学习。</p>
 
 <h3 id="尖刺采样-通过不均匀的滤波扩散来探索大型网络">尖刺采样：通过不均匀的滤波扩散来探索大型网络</h3>
@@ -379,6 +401,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2010.11786">http://arxiv.org/abs/2010.11786</a></p>
 
 <p>作者： Benjamin Ricaud, Nicolas Aspert, Volodymyr Miz</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11786v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 研究诸如社会网络或网络网络的现实世界网络是一个挑战。这些网络通常将复杂的，高度连接的结构与大尺寸结合在一起。我们为大型网络提出了一种新方法，该方法能够自动对网络中用户定义的相关部分进行采样。该方法从网络中的几个选定位置和一组减少的扩展规则开始，采用过滤的广度优先搜索方法，该搜索方法通过匹配这些属性的边和节点进行扩展。此外，在每个步骤中都对邻居的随机子集执行扩展，以进一步减轻大型图中可能存在的大量连接。这带有“尖峰”扩展的图像。我们证明了这种方法可以概括先前的勘探采样方法，例如Snowball或Forest Fire并将其扩展。我们展示了其刻画具有高交互性的节点组的能力，同时丢弃了社会网络中经常出现且可能隐藏重要结构的弱连接节点。</p>
 
@@ -390,6 +414,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Fabian Stephany</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11841v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 这项工作研究了从不同领域学习新技能的经济利益：交叉技能。为了评估这一点，从4,810位在线自由职业者的工作档案中构建了技能网络。基于该技能网络，揭示了3,525种不同技能之间的关系，并且可以通过工人的工资来计算学习新技能的边际效应。结果表明，学习新技能的附加经济价值在很大程度上取决于已经存在的技能组合，但是从其他领域获得技能通常是有益的。由于技术和社会变革正在迅速改变工作任务，因此本研究的结果有助于阐明掌握新技术和设计个人培训途径所需的技能。这可以帮助增加就业能力并减少劳动力市场短缺。</p>
 
 <h3 id="通过文本的判别建模进行霍克斯过程分类">通过文本的判别建模进行霍克斯过程分类</h3>
@@ -399,6 +425,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2010.11851">http://arxiv.org/abs/2010.11851</a></p>
 
 <p>作者： Rohan Tondulkar, Manisha Dubey, P.K. Srijith, Michal Lukasik</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11851v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 社交媒体为用户提供了一个收集和共享信息并随时理解新闻的平台。这样的网络还为用户提供了一个可以进行对话的平台。但是，像Twitter这样的微博客平台会限制文本的长度。由于此类职位中出现的单词不足，因此使用自然语言处理（NLP）的标准工具对该信息进行分类是一项艰巨的任务。此外，社交媒体中帖子的高度复杂性和动态性使文本分类成为一个具有挑战性的问题。但是，以过去的标签和与帖子相关的时间的形式考虑其他提示可能有助于更好地执行文本分类。为理解决这个问题，我们提出了基于霍克斯过程（HP）的模型，该模型可以自然地结合时间特征和过去的标签以及文本特征，以改善短文本分类。特别是，我们提出了一种在HP中对文本建模的判别方法，其中文本特征参数化了基本强度和/或触发内核。另一个主要贡献是将内核视为时间和文本的函数，并进一步使用神经网络对内核进行建模。这样就可以对文本进行建模和有效学习，以及对推文分类的历史影响。我们在谣言立场分类的标准基准上论证了拟议技术的优势。</p>
 
@@ -410,6 +438,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Malú Grave, Alvaro L. G. A. Coutinho</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11861v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 2020年COVID-19的爆发导致对传染病数学模型的兴趣激增。疾病传播可以建模为隔间模型，其中将研究人群分为隔间，并假设从一个隔间转移到另一隔间的性质和时间速率。通常，它们由时间上的常微分方程组（ODE）组成。一类此类模型将SEIRD模型视为易感人群，暴露人群，感染人群，康复人群和已故人群。但是，这些模型并不总能说明个体从一个区域到另一个区域的移动。在这项工作中，我们将SEIRD区间模型的公式扩展到偏微分方程的扩散反应系统，以刻画COVID-19的连续时空动态。由于病毒的传播不仅是通过传播，所以我们在方程系统中引入了一个源项，代表了从旅行中回来的暴露人群。我们还增加了各向异性非均匀扩散的可能性。我们在 texttt libMesh中实现整个模型，这是一个开放的有限元库，它考虑了自适应网格细化和粗化处理，为多物理场提供了框架。因此，该模型可以代表几个空间尺度，使分辨率适应疾病动态。我们使用标准SEIRD模型验证了我们的模型，并显示了几个示例来突出说明当前模型的新功能。</p>
 
 <h3 id="通过随机投影快速近似cosimranks">通过随机投影快速近似CoSimRanks</h3>
@@ -419,6 +449,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2010.11880">http://arxiv.org/abs/2010.11880</a></p>
 
 <p>作者： Renchi Yang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2010.11880v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 给定具有n个节点的图G，以及G中的两个节点u，v，CoSim-Rank值s（u，v）基于图拓扑量化u和v之间的相似性。与SimRank相比，已证明CoSimRank在许多实际应用中更为准确和有效，包括同义词扩展，词典提取和知识图中的实体相关性。 G中所有对CoSimRank值的计算都非常昂贵且具有挑战性。现有方法都集中于设计近似算法来计算全对CoSimRanks。为了获得所需的绝对误差增量，用于计算全对CoSimRank值的最新近似算法需要O（n ^ 3log2（ln（1 / delta）））时间。在本文中，我们提出了RP-CoSim，这是一种用于计算全对CoSimRank值的随机算法。 RP-CoSim的基本思想是通过随机投影将n·n矩阵乘法减少为k维（k &lt;&lt; n）子空间，从而将成对的内积保留在一定误差内，然后迭代地近似CoSimRank在O（n ^ 2k）时间中的k维子空间中的值。理论上，RP-CoSim运行时间为O（n ^ 2 · ln（n）· ln（1 / delta）/ delta ^ 2）时间，同时确保G中每两个节点的CoSimRank值的绝对误差最大为delta可能性很高。</p>
 

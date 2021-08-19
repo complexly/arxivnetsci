@@ -77,7 +77,7 @@ DeepTrust：一种用于衡量社交媒体用户可信度的深度学习方法;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -85,9 +85,9 @@ DeepTrust：一种用于衡量社交媒体用户可信度的深度学习方法;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -246,6 +246,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Ismo T. Koponen, Elina Palmgren, Esko Keski-Vakkuri</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07311v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 重尾网络具有度分布，其特征在于其尾部比指数界尾部慢，在许多不同情况下都很常见。在一些有趣的情况下，联想知识网络，语义和语言网络出现了重尾部，其反幂  lambda 在 1 &lt; lambda &lt;2，范围内的特征。在这些情况下，网络之间的差异通常是微妙的，因此需要强有力的方法来表征差异。在这里，我们介绍一种使用基于q广义邻接矩阵核的密度矩阵比较网络的方法。结果表明，可以使用q广义Kullback-Leibler散度进行网络比较。另外，q广义散度可以解释为q广义自由能，这使得可以对重尾网络进行类似于热力学的宏观描述。使用一组模拟的网络证明了q广义邻接核的可行性和类似热力学的描述，这些网络是模块化的并且是重尾的，其逆幂定律的度分布在 1 &lt; lambda &lt;2 。</p>
 
 <h3 id="基于随机游走的网络嵌入算法的一致性">基于随机游走的网络嵌入算法的一致性</h3>
@@ -255,6 +257,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.07354">http://arxiv.org/abs/2101.07354</a></p>
 
 <p>作者： Yichi Zhang, Minh Tang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07354v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在执行下游网络推理任务之前，诸如node2vec和DeepWalk之类的基于随机游走的网络嵌入算法已广泛用于获取网络中节点的欧几里得表示。尽管如此，尽管它们具有令人印象深刻的经验表现，但仍缺乏理论结果来解释其行为。在本文中，我们从矩阵分解的角度研究了node2vec和DeepWalk算法。我们在随机块模型图的社区检测设置中分析这些算法；特别是，我们建立了大样本误差界限，并证明了node2vec / DeepWalk嵌入的一致性社区恢复以及随后的k均值聚类。我们的理论结果表明，观察到的网络的稀疏性，随机游动的窗口大小以及node2vec / DeepWalk嵌入到真实但未知边概率矩阵的嵌入的收敛速度之间存在微妙的相互作用。更具体地说，随着网络变得稀疏，我们的结果建议使用更大的窗口大小，或者等效地，进行更长的随机游走，以便获得更好的嵌入率。该论文包括数值实验，证实了这些观察结果。</p>
 
@@ -266,6 +270,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Liang Lyu, Brandon Fain, Kamesh Munagala, Kangning Wang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07371v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 图的中心度度量使用网络的结构来量化中心或“重要”节点，并通常用于Web搜索，社交媒体分析和图数据挖掘中。传统的集中度度量（例如众所周知的PageRank）将有向边解释为对链接节点的重要性的支持。我们研究了节点可能属于不同社区或兴趣的情况，并研究了可以确定对许多此类不同社区同时重要的节点的集中度度量。我们提出了一系列不同的中心度度量，这些度量是对广义非线性特征值问题的不动点解。可以通过迭代最佳响应在大型图上有效地计算我们的度量，并且我们在随机图模型和实际数据上研究其规范性。我们发现，我们始终如一且高效地识别图的最重要的不同节点，即同时成为多个社区中心的那些节点。</p>
 
 <h3 id="冠状病毒应用程序的数据保护影响评估">冠状病毒应用程序的数据保护影响评估</h3>
@@ -275,6 +281,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.07292">http://arxiv.org/abs/2101.07292</a></p>
 
 <p>作者： Kirsten Bock, Christian R. Kühne, Rainer Mühlhoff, Měto R. Ost, Jörg Pohle, Rainer Rehak</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07292v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 自从SARS-CoV-2在2020年初在欧洲开始传播以来，强烈呼吁人们提供技术解决方案来应对或遏制大流行，而接触追踪应用程序则是辩论的核心。欧盟的《通用Daten保护条例》（GDPR）要求管制员进行数据保护影响评估（DPIA），其数据处理可能会给权利和自由带来高风险（GDPR第35条）。 DPIA是一种结构化的风险分析，可以识别和评估与基本权利有关的数据处理的可能后果，并描述解决这些风险或表示无能力采取的措施。我们基于标准数据保护模型（SDM），提供了科学的DPIA，它彻底检查了三个已发布的联系追踪应用程序设计，这些设计被认为是最“隐私友好”的：PEPP-PT，DP-3T和Chaos Computer Club成员Linus Neumann，所有这些人都处理个人健康数据。 DPIA首先分析处理上下文和一些预期的用例。然后，通过定义实际的处理目的来描述处理活动。其次是法律评估和阈值分析。最后，我们分析弱点，风险并确定适当的保护措施。我们证明，即使是分散的实施，也存在许多严重的弱点和风险。从法律上说，同意不适合作为法律依据，因此必须根据法律处理数据。我们还发现，实现数据主体和受影响人员权利的措施还不够。最后但并非最不重要的一点是，我们表明匿名化必须理解为一个连续的过程，该过程旨在分离个人参考，并且基于法律，组织和技术措施的混合。当前所有可用的提案都没有这样一个明确的分离过程。</p>
 
@@ -286,6 +294,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Geon Lee, Minyoung Choe, Kijung Shin</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07480v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 超图是图的概括，自然地表示了多个个人或对象之间的分组关系，这在许多应用程序领域（包括Web，生物信息学和社会网络）中都很常见。每个超边中节点数量的灵活性（提供了超图的表达能力）带来了图和超图之间的结构差异。尤其是，超边的重叠导致除成对关系之外的复杂的高阶关系，从而提出了图中尚未考虑的新问题：超边在现实世界的超图中如何重叠？有无处不在的特征吗？哪些潜在过程会导致这种模式？在这项工作中，我们仔细研究了来自不同领域的13个现实世界的超图，并分享了关于超边重叠的有趣观察。为此，我们定义了有原则的测度，并在统计上比较了现实世界中的超图和空模型中的超边重叠。此外，基于观察结果，我们提出了HyperLap，一种现实的超图生成模型。 HyperLap是（a）现实的：它可以准确地再现真实世界的超图的重叠模式，（b）自动拟合：可以使用HyperLap +自动调整其参数以生成特别类似于给定目标超图的超图，（c）可扩展：它可以生成并在几个小时内拟合了具有7亿超边的超图。</p>
 
 <h3 id="对马来西亚covid-19大流行的sir模拟-疫苗接种计划会有效吗">对马来西亚COVID-19大流行的SIR模拟：疫苗接种计划会有效吗？</h3>
@@ -295,6 +305,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.07494">http://arxiv.org/abs/2101.07494</a></p>
 
 <p>作者： W. K. Wong, Filbert H. Juwono, Tock H. Chua</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07494v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 自2019年底以来，COVID-19已极大地影响了世界各地人们的生活。到2020年底，已经在临床试验的最后阶段报告了几种功效相对较高的COVID-19候选疫苗。疫苗被认为是开展社会和经济活动的关键工具，从而减轻了该疾病对社会的影响。本文介绍了在马来西亚几个地区（即吉隆坡，槟城，沙巴等相对而言COVID-19病例相对较高的城市或州），在疫苗干预下使用改良的易感性感染去除病毒（SIR）模型对COVID-19传播的模拟和砂拉越。结果表明，在不同的疫苗效力水平（0.75、0.85和0.95）下，主动感染的曲线略有不同，这表明效力高于0.75的疫苗将产生使曲线趋平所需的牛群免疫力。另外，实施或不实施疫苗接种计划之间的差异很大。模拟结果还表明，降低接种数量R0对于接种疫苗仍可保持感染曲线平坦。这是由于这样的假设，即疫苗接种大多以假定的固定速率逐渐进行。该陈述是基于我们的模拟结果，其中R0的值为两个值：1.1和1.2，表明通过社会疏远降低了R0。较低的R0表现出较小的峰值幅度，约为R0 = 1.2模拟值的一半。总之，模拟模型提出了在马来西亚对抗COVID-19大流行的两方面策略：接种疫苗并遵守世界卫生组织发布的标准操作程序（例如，社会隔离）。</p>
 
@@ -306,6 +318,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Nicholas Botzer, Shawn Gu, Tim Weninger</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07664v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 近年来，道德愤慨已成为社交媒体的代名词。然而，社交媒体网站上的学术分析主要集中在仇恨言论和错误信息上。本文着重于通过刻画在reddit上的subreddit / r / AmITheAsshole中传递的道德判断来分析社交媒体上的道德判断。使用与每个判断相关的标签，我们训练了一个分类器，该分类器可以发表评论并确定它是否判断发布原始帖子的用户具有正面或负面的道德价值。然后，我们使用此分类器来调查围绕其他十个子项中的道德判断的各种网站特征，包括负面道德用户喜欢在何处发布及其发布方式。我们的发现还表明，以积极方式进行评判的帖子得分会更高。</p>
 
 <h3 id="covaxxy-有关twitter-covid-19疫苗的全球英文twitter帖子集">CoVaxxy：有关Twitter COVID-19疫苗的全球英文Twitter帖子集</h3>
@@ -315,6 +329,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.07694">http://arxiv.org/abs/2101.07694</a></p>
 
 <p>作者： Matthew DeVerna, Francesco Pierri, Bao Truong, John Bollenbacher, David Axelrod, Niklas Loynes, Cristopher Torres-Lugo, Kai-Cheng Yang, Fil Menczer, John Bryden</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07694v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 由于目前大多数人不愿使用COVID-19疫苗，因此重要的是人们必须获得准确的信息。但是，关于在社交媒体上传播的疫苗，存在大量的低可信度信息。在本文中，我们提供了有关COVID-19疫苗的Twitter Twitter帖子数据集。我们会显示有关数据集的统计数据，包括随着时间推移的推文数量，使用的标签和共享的网站。我们还将展示我们如何能够对高可信度和低可信度来源，主题标签主题组和地理分布随时间的流行进行分析。我们开发了一个实时仪表板，使人们可以跟踪主题标签随时间的变化。该数据集可用于有关在线信息对COVID-19疫苗摄入量和健康结果的影响的研究中。</p>
 
@@ -326,6 +342,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Ashish Sharma, Inna W. Lin, Adam S. Miner, David C. Atkins, Tim Althoff</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07714v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在线对等支持平台使数百万寻求和提供心理健康支持的人们之间可以进行对话。如果成功，基于网络的心理健康对话可以改善获得治疗的机会并减轻全球疾病负担。心理学家一再证明，同理心（理解和感受他人情感和经历的能力）是在支持性对话中产生积极成果的关键组成部分。但是，最近的研究表明，在线心理健康平台中很少有高度共鸣的对话。在本文中，我们致力于改善在线心理健康支持对话中的同理心。我们引入了共情重写的新任务，旨在将低共情对话内容转换为较高共情。学习这样的转变具有挑战性，需要对同情心有深刻的理解，同时通过文本的流利程度和对会话上下文的特异性来保持会话质量。在这里，我们提出了PARTNER，这是一种深度强化学习主体，可以学习对帖子进行句子级的编辑，以便在保持对话质量的同时提高表达的同理心。我们的RL主体基于基于GPT-2的转换语言模型利用策略网络，该策略网络执行生成候选移情句子并将这些句子添加到适当位置的双重任务。在培训期间，我们会奖励在保持文本流畅性，上下文特定性和多样性的同时增加帖子同理心的转换。通过自动评估和人工评估相结合，我们证明了PARTNER成功地产生了更多的移情，特定和多样化的响应，并且在样式转换和移情对话生成等相关任务中胜过NLP方法。我们的工作对促进基于Web的平台上的移情对话具有直接的意义。</p>
 
 <h3 id="deeptrust-一种用于衡量社交媒体用户可信度的深度学习方法">DeepTrust：一种用于衡量社交媒体用户可信度的深度学习方法</h3>
@@ -335,6 +353,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2101.07725">http://arxiv.org/abs/2101.07725</a></p>
 
 <p>作者： Majed Alrubaian, Muhammad Al-Qurishi, Sherif Omar, Mohamed A. Mostafa</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07725v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 近年来，微博平台上发布的数据的准确性一直是专门研究信息学和社会学各个领域的专业人员进行的深入研究的主题，尤其是鉴于在线工具对于新闻传播的重要性日益提高。在Twitter和类似的网站上，可以以最小的延迟报告全球正在进行的情况，而这种报告的成本仍然可以忽略不计。该社会网络最重要的功能之一是可以对内容传递进行自定义，以允许用户仅关注新闻报道，这些新闻报道涵盖了他们感兴趣的主题。考虑到这一点，有必要创建一种验证机制，以确认在Twitter上提出的主张是否可以被认真对待，并防止虚假内容传播得太远。这项研究演示了一种创新的信息验证系统，该系统可以完成上述任务。该系统由四个相互连接的模块组成：旧版模块，可信赖性分类器；管理用户权限的模块和排名程序。所有模块都在一个集成的框架中起作用，并共同为邮件和作者的准确分类做出了贡献。该解决方案的有效性通过Twitter用户样本进行了经验评估，每个模块均应用了严格的10倍评估程序。研究结果表明，该解决方案成功满足了研究的主要目标并按预期执行了其功能。</p>
 

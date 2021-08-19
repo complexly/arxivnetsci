@@ -68,7 +68,7 @@
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -76,9 +76,9 @@
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -234,6 +234,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Matthieu Nadini, Kaiyuan Sun, Enrico Ubaldi, Michele Starnini, Alessandro Rizzo, Nicola Perra</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.01355v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们调查模块化和时间连通性模式对流行病传播的影响。为此，我们引入和分析性地表征具有可调模块化的时变网络模型。在这个框架内，我们研究了易感感染的SIR的流行病学模型，以及感染敏感型SIS模型的流行病学阈值。有趣的是，我们发现，紧密连接的簇的存在抑制了SIR过程，加速了SIS疾病。在这种情况下，我们观察到异质时间连通性模式和模块化结构相对于没有社区的时变网络导致阈值的降低。我们通过在合成图以及真正的模块化和时间网络上的广泛的数值模拟来确认理论结果。</p>
 
 <h3 id="社会网络关系分析-从相似性到接近度的反向平滑度">社会网络关系分析：从相似性到接近度的反向平滑度</h3>
@@ -243,6 +245,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1710.01363">http://arxiv.org/abs/1710.01363</a></p>
 
 <p>作者： Carl Yang, Kevin Chen-Chuan Chang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.01363v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在社会网络上，虽然节点具有丰富的属性，但我们往往缺乏为什么每个链接形成的“语义” - 因此我们缺少导航和组织复杂社会宇宙的“路标”。如何识别没有标签的关系语义？基于普遍的同质性原则，我们提出了基于属性的关系分析（ARP）的新颖的问题，来描述亲密度w.r.t.基于它们在相应属性（例如，教育）中的相似性的基础关系（例如，同学），并且作为输出学习一组社会关联图，其中每个链接由其携带关系的概率加权。作为要求，ARP应该是系统和完整的，以便为每个关系的每个环节做个简要的介绍 - 我们的挑战在于有效地建模。我们提出了一种新的反向平滑原则，通过观察同质性的相似性 - 亲近度对应于基于图的半监督学习中公知的平滑度假设 - 只有推理方向相反。为了在嘈杂的社交图中实现平滑，我们进一步提出了一种新的整体接近建模方法，通过将边向边延伸到路径来捕捉“高阶”平滑度。三个实际数据集的广泛实验证明了ARP的功效。</p>
 
@@ -254,6 +258,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Siddhartha Gairola, Yash Kumar Lal, Vaibhav Kumar, Dhruv Khattar</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.01507v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在人们日益增长的时代，通过网络媒体信息信息，记者已经开始采用技术来吸引读者，使用流行的头条，称为clickbait。这些标题引导用户点击文章，而不提供与标题本身相关的信息。以前的检测clickbait的方法已经探索了很大程度上依赖于特征工程的技术，几乎没有用神经网络架构尝试实验。我们介绍一种结合循环神经网络，注意层和图像嵌入的新颖模型。我们的模型使用从未注释的语料库导出的分布式词嵌入的组合，通过卷积神经网络计算的字符级嵌入。这些表示通过带有注意层的双向LSTM传递。使用CNN也可以从大数据中学习图像嵌入。实证结果表明，我们的模型达到了65.37％的F1分，比前一个基准为55.21％。</p>
 
 <h3 id="聚类网络渗流过程的谱估计">聚类网络渗流过程的谱估计</h3>
@@ -263,6 +269,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1710.01592">http://arxiv.org/abs/1710.01592</a></p>
 
 <p>作者： Pan Zhang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.01592v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 使用与网络相关联的矩阵的谱，例如邻接矩阵和非回溯矩阵，已经存在用于网络中渗滤变换的多个谱边界。然而，当网络稀疏时，它们远不紧，并且显示聚类或传递性，其由短循环的存在表示。三角形。在这项工作中，对于债券渗透，我们首先提出了一种考虑到三角形影响来计算渗透聚类大小的消息传递算法，然后将渗透过渡与我们命名三角形 - 非回溯矩阵的矩阵的主要特征值相关联，通过分析消息传递方程的稳定性。我们确定我们的方法给出了粘性渗透过渡与以前的谱边界更紧密的关系，并且对于没有循环长于3的无限网络，它变得精确。我们在数字上评估我们在合成和现实世界网络上的方法，以及讨论我们进一步概括我们的方法来包括高阶子结构。</p>
 
@@ -274,6 +282,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Charles Murphy, Antoine Allard, Edward Laurence, Guillaume St-Onge, Louis J. Dubé</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.01600v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们通过均匀附件呈现一类一般的几何网络增长机制，其中在给定时间$ t $创建的链接在新节点和均匀选择的节点之间均匀分布。这是通过根据具有逆温度$ \ beta $和一般时间依赖化学势$ \（t）$的费米 - 狄拉克连接概率在均匀度量空间中均匀分布的节点之间建立链接来实现的。化学势能限制了新建链接的空间范围。使用隐藏的变量框架，我们获得度数序列的解析表达式，并且显示$ \ mu（t）$可以被修正以产生任何给定的度数分布，包括无标度度分布。另外，我们发现，根据节点出现在网络中的顺序&mdash;其$ \ textit {history} $ &mdash;程度相关性可以调整为分类或分解。通过平均聚类系数$ \ langle c \ rangle $来研究几何对结构的影响。在热力学极限中，我们确定了一个随机状态之间的相变，其中$ \ langle c \ rangle \ rightarrow 0 $当$ \ beta &lt;\ beta_ \ mathrm {c} $和几何体系，$ \ langle c \ rangle&gt; 0 $当$ \ beta&gt; \ beta_ \ mathrm {c} $。</p>
 
 <h3 id="通过时间跟踪和用户特征的联合聚类确定社会媒体徽章的影响">通过时间跟踪和用户特征的联合聚类确定社会媒体徽章的影响</h3>
@@ -284,6 +294,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Tomasz Kusmierczyk, Kjetil Nørvåg</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.01716v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 徽章是激励用户在网站上执行某些操作的常见方法，有时是唯一的方法。然而，由于影响用户时间动态的许多竞争因素，很难确定徽章是否具有（或将具有）预期效果。在本文中，我们介绍了两种用于确定徽章对用户的影响的补充方法。在第一个中，我们集群用户的时间跟踪（用点进程表示）并应用协变量（用户特征）来使结果正规化。在第二种方法中，我们首先用一个新的统计框架对用户的时间轨迹进行分类，然后用协调变量的半监督聚类来改进分类结果。从综合数据集的评估结果和来自流行的Q＆A平台的两张徽章上的实验结果证实，有可能验证，表征并在一定程度上预测受到徽章影响的用户。</p>
 
 <h3 id="基于jaccard度量的ollivier-ricci曲率的有效替代">基于Jaccard度量的Ollivier-Ricci曲率的有效替代</h3>
@@ -293,6 +305,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1710.01724">http://arxiv.org/abs/1710.01724</a></p>
 
 <p>作者： Siddharth Pal, Feng Yu, Terrence J. Moore, Ram Ramanathan, Amotz Bar-Noy, Ananthram Swami</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1710.01724v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们学习了Ollivier-Ricci曲率，这是Ricci曲率的离散版本，在过去几年中已经普及，已经在不同领域得到应用。然而，Ollivier-Ricci曲率需要解决最佳的质量传输问题，这对于大型网络来说可能是计算上昂贵的。鉴于此，我们提出了两种替代的曲率测量方法，它们是由Jaccard系数推动的，并且显着地减少了计算密集度，更便宜的Jaccard（JC）和更昂贵的广义Jaccard（gJC）曲率度量。我们在理论上表明，在大网络的渐近状态下，gJC与鄂尔多斯 - 仁义图的Ollivier-Ricci曲线紧密匹配。此外，我们研究了几种网络模型和实际网络的拟议曲率度量与Ollivier-Ricci曲率之间的近似优势。我们的研究结果表明，与图的替代曲率度量相比，Forman-Ricci曲率，gJC表现出对于广泛网络的Ollivier-Ricci曲率的相当好的拟合，而JC被证明是一个很好的代理仅针对某些场景</p>
 

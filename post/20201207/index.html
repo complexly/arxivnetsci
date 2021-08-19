@@ -80,7 +80,7 @@ TrollHunter2020：在2020年美国大选期间在Twitter上实时检测Trolling�
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -88,9 +88,9 @@ TrollHunter2020：在2020年美国大选期间在Twitter上实时检测Trolling�
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -250,6 +250,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Juan Sosa, Lina Buitrago</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.02307v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在本文中，我们对社会网络和潜在空间建模的基础知识进行了回顾。前者讨论了与网络描述有关的重要主题，包括顶点特征和网络结构。后者阐明了网络建模的相关进展，包括随机图模型，广义随机图模型，指数随机图模型和社交空间模型。我们详细讨论了文献中提供的几种潜在空间模型，并特别关注了无向二进制网络中的距离，类和本征模型。此外，我们还使用网络文献的20多个流行数据集，根据预测和拟合优度从经验上检验了这些模型的行为。</p>
 
 <h3 id="从噪声图结构中学习节点表示">从噪声图结构中学习节点表示</h3>
@@ -259,6 +261,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2012.02434">http://arxiv.org/abs/2012.02434</a></p>
 
 <p>作者： Junshan Wang, Ziyao Li, Qingqing Long, Weiyu Zhang, Guojie Song, Chuan Shi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.02434v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在图上学习低维表示已被证明在各种下游任务中都是有效的。但是，在现实世界的网络中普遍存在噪声，这在很大程度上损害了网络，因为网络中的边会通过整个网络而不是仅通过节点本身传播噪声。虽然现有方法倾向于集中于保留结构特性，但是通常会忽略学习的表示形式对噪声的鲁棒性。在本文中，我们提出了一个新颖的框架来学习无噪声节点表示并同时消除噪声。由于噪声通常在真实图上是未知的，因此我们设计了两个生成器，即图生成器和噪声生成器，以识别无监督设置下的正常结构和噪声。一方面，图生成器用作统一方案，以合并任何有用的图先验知识以生成正常结构。我们以社区结构和权力法度分布为例来说明产生过程。另一方面，噪声发生器不仅产生满足一些基本特性的图噪声，而且还以自适应方式生成图噪声。因此，可以成功处理具有任意分布的真实噪声。最后，为了消除噪声并获得无噪声的节点表示，需要共同优化两个生成器，并且通过最大似然估计，我们等效地将模型转换为分别对真实图和噪声施加不同的正则化约束。我们的模型是根据实际数据和综合数据进行评估的。在结点分类和图重建任务方面，它的性能优于其他强大的基线，证明了其消除图噪声的能力。</p>
 
@@ -270,6 +274,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Giulio Cimini, Rossana Mastrandrea, Tiziano Squartini</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.02677v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 复杂的网络数据集通常会出现信息丢失的问题：尚未测量或发现的交互数据可能会受到错误的影响，或者由于隐私问题而被隐藏。本元素概述理解决此问题的思想，方法和技术，并共同定义了网络重建领域。考虑到主题的范围，我们将集中于统计物理和信息论中的推理方法。将根据重建任务的不同规模来组织讨论，即目标是重建网络的宏观结构，推断网络的中尺度特性还是预测单个微观连接。</p>
 
 <h3 id="轨迹的无监督嵌入刻画了移动性的潜在结构">轨迹的无监督嵌入刻画了移动性的潜在结构</h3>
@@ -279,6 +285,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2012.02785">http://arxiv.org/abs/2012.02785</a></p>
 
 <p>作者： Dakota Murray, Jisung Yoon, Sadamori Kojaku, Rodrigo Costas, Woo-Sung Jung, Staša Milojević, Yong-Yeol Ahn</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.02785v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 人口流动和迁移推动了主要的社会现象，例如城市的增长和演变，流行病，经济和创新。从历史上看，人们的流动性受到物理距离（地理距离）的强烈限制。但是，地理距离在日益全球化的世界中变得越来越不重要，在这个世界中，物理障碍正在缩小，而语言，文化和历史关系变得越来越重要。随着对机动性的理解对于当代社会变得至关重要，寻找能够捕捉这种复杂性的框架至关重要。在这里，我们使用三个不同的人类轨迹数据集，证明了神经嵌入模型可以将位置之间的细微关系编码到向量空间中，从而提供了一种有效的距离度量，可以反映人类活动能力的多面结构。着眼于科学流动性的案例，我们发现科学组织的嵌入在多个粒度层次上揭示了文化和语言关系，甚至是学术威望。此外，嵌入向量揭示了组织特征与其在全球科学流动性中的地位之间的普遍关系。直接从数据中学习可伸缩性，密集性和有意义的移动性表示的能力可以开辟研究跨域移动性的新途径。</p>
 
@@ -290,6 +298,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Martin Müller, Marcel Salathé</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.02197v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 社交媒体分析已成为一种通用方法，可以近乎实时地评估各种主题的公众意见，包括有关健康的主题。社交媒体帖子数量的增长导致自然语言处理中现代机器学习方法的使用增加。社交媒体的快速动态可以迅速刻画潜在趋势，但同时也带来了一个技术问题：过去在带注释的数据上训练的算法在应用于当代数据时可能表现不佳。当在感兴趣的主题本身或讨论主题的方式中发生快速变化时，这种称为概念漂移的现象可能会特别成问题。在这里，我们通过关注Twitter上表达的疫苗情绪来探讨机器学习概念漂移的影响，这是至关重要的主题，尤其是在COVID-19大流行期间。我们表明，尽管在2020年COVID-19大流行期间疫苗人气已大幅下降，但由于概念漂移，在大流行前数据训练的算法在很大程度上会忽略这种下降。我们的结果表明，社交媒体分析系统必须以连续的方式解决概念漂移，以避免数据出现系统错误分类的风险，在基础数据可能突然且快速变化的危机期间，这种风险尤其可能发生。</p>
 
 <h3 id="制作fair词表的十条简单规则">制作FAIR词表的十条简单规则</h3>
@@ -299,6 +309,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2012.02325">http://arxiv.org/abs/2012.02325</a></p>
 
 <p>作者： Simon J D Cox, Alejandra N Gonzalez-Beltran, Barbara Magagna, Maria-Cristina Marinescu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.02325v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们提出了十条简单的规则，这些规则支持将遗留词汇表（基于打印的词汇表或表格中可用Web标准无法访问的术语列表）转换为FAIR词汇表。可以遵循各种途径来发布FAIR词汇表，但是我们特别强调了为每个术语或概念提供不同的IRI的目标。当取消引用单个IRI时，应使用以基于RDF的表示形式进行序列化的SKOS或OWL进行机器交换，或在供用户使用的网页中序列化该概念的标准表示形式。提供了词汇和项目元数据的指南，以及开发和维护注意事项。通过遵循这些规则，您可以实现将遗留词汇表转换为独立FAIR词汇表的结果，该词汇表可用于明确的数据注释。反过来，这增加了数据的互操作性并实现了数据集成。</p>
 
@@ -310,6 +322,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Rohit Ram, Quyu Kong, Marian-Andrei Rizoiu</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.02370v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在线社交媒体对社会事件和机构的影响是深远的；随着用户使用量的快速增加，我们才刚刚开始理解其后果。将在线话语建模为现实行为主体的社会科学家和从业人员，通常会策划大型社交媒体数据集。缺乏针对非数据科学专家的可用工具，常常使这些数据（及其所拥有的见解）未被充分利用。在这里，我们提出了Birdspotter（一种用于分析和标记Twitter用户的工具）以及birdspotter.ml（用于计算指标的探索性可视化工具）。 Birdspotter提供了一条端到端的分析管道，从处理预先收集的Twitter数据到用户的通用标签，以及在几行代码中估算其社会影响力。该软件包具有教程和详细的文档。我们还将说明如何在不进行任何Twitter API在线调用的情况下，将Birdpotter训练成一个性能比最新技术更好的成熟的bot检测器，并展示其在主题COVID-19数据集的探索性分析中的用途。 。</p>
 
 <h3 id="中国covid-19流行期间在线谣言的传播机理及影响度量">中国COVID-19流行期间在线谣言的传播机理及影响度量。</h3>
@@ -319,6 +333,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2012.02446">http://arxiv.org/abs/2012.02446</a></p>
 
 <p>作者： Yiou Lin, Hang Lei, Yu Deng</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.02446v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 2020年初，COVID-19流行遍及全球。在中国，COVID-19造成了严重后果。此外，COVID-19流行期间的在线谣言加剧了人们对公共卫生和社会稳定的恐慌。理解和遏制网络谣言的传播是当前的紧迫任务。因此，我们分析了谣言传播机制，并提出了一种通过新的内部人的速度量化谣言影响的方法。我们使用谣言的搜索频率作为新知内情者的观察变量。我们计算了搜索频率的峰值系数和衰减系数，它们符合指数分布。然后，我们设计了几种谣言功能，并将以上两个系数用作可预测的标签。使用MSE作为损失函数的5倍交叉验证实验表明，决策树适合预测峰值系数，线性回归模型非常适合预测衰减系数。我们的特征分析表明，前兆特征对于爆发系数最重要，而位置信息和谣言实体信息对于衰减系数最重要。同时，有利于爆发的特征通常有害于谣言的持续传播。同时，焦虑是引起谣言的关键因素。最后，我们讨论了如何使用深度学习技术通过使用BERT模型来减少预测损失。</p>
 
@@ -330,6 +346,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Naini Dudhe, Colin Benjamin</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.02465v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 庇古的问题在现实生活中有许多应用，例如交通网络，图论，互联网网络中的数据传输等。两个参与者的经典庇古网络具有唯一的纳什均衡，其稳定价格和无政府状态价格彼此一致。对于 k-  person的经典庇古网络，情况有所变化，其中 n 为总人数。如果我们修正（n-2）人的行为，并假设 k-  persons的路径为 P_2 ，其中 k &lt;（n-2），其余的路径为 P_1 ，则纳什均衡成为 k 的依赖，我们发现特定的 k 的成本为绝对最小值。与两人古典庇古网络相反，具有最大纠缠度的量子二量子比特庇古网络为纳什均衡提供了较低的成本，而与 k- 人古典庇古网络相比，其量子版本为纳什提供了降低的成本均衡策略。这对于经典数据网络和量子数据网络中的信息传输都具有重大意义。通过采用纠缠和量子策略，可以显著降低量子数据网络中的拥塞成本。</p>
 
 <h3 id="社会网络控制引发的流行病振荡-不连续情况">社会网络控制引发的流行病振荡：不连续情况</h3>
@@ -340,6 +358,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Fabio Caccioli, Daniele De Martino</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.02552v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 可以通过采取诸如社会疏远和封锁等遏制措施来抑制流行病的蔓延。然而，当放宽这些措施时，可能会出现新的流行病波和感染周期。在这里，我们在不连续控制的情况下，在种群的感染状态与其社会网络结构之间存在反馈的情况下，在图化的分区流行病模型中探讨了这个问题。我们显示，在随机图中，遏制措施的效果可以通过有效感染率的重新归一化来简单地刻画，这可以说明网络的分支比率的变化。在我们的简单设置中，可以使用分段平均场近似来得出流行病波数量及其长度的解析公式。具有不完全信息的模型的变体用于对巴斯克地区和伦巴第地区最近发生的covid-19流行病的数据进行建模，在这些数据中，我们估计了锁定期间社会网络中断的程度并描述了动态吸引子的特征。</p>
 
 <h3 id="trollhunter2020-在2020年美国大选期间在twitter上实时检测trolling叙事">TrollHunter2020：在2020年美国大选期间在Twitter上实时检测Trolling叙事</h3>
@@ -349,6 +369,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2012.02606">http://arxiv.org/abs/2012.02606</a></p>
 
 <p>作者： Peter Jachim, Filipo Sharevski, Emma Pieroni</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2012.02606v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 本文介绍了TrollHunter2020，这是一种实时检测机制，我们用来在2020年美国大选期间在Twitter上寻找巨魔叙述。推特叙事在Twitter上形成，是对两极化事件（如2020年美国大选）的另一种解释，其目的是开展信息行动或激发情感反应。因此，检测巨魔的叙述是在Twitter上保留建设性话语并消除大量错误信息的当务之急。使用现有技术，这会花费时间和大量数据，在快速变化的选举中，赌注很高，可能无法使用。为了克服这一局限性，我们开发了TrollHunter2020来实时搜索巨魔，其中包含数十种与候选人的辩论，选举之夜和选举结果相对应的Twitter热门话题和主题标签。 TrollHunter2020收集趋势数据，并利用对应分析来检测在推特叙事中出现的顶级名词和动词之间的有意义的关系，而这些名词和动词则出现在Twitter上。我们的结果表明，TrollHunter2020确实在不断发展的两极分化事件的很早期就捕捉到了新兴的拖钓故事。我们讨论了TrollHunter2020用于信息操作或巨魔的早期检测的实用程序，以及其在支持围绕两极分化主题的平台上进行狭义性论述时的含义。</p>
 

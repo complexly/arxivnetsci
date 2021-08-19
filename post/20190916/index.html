@@ -59,7 +59,7 @@ HapPenIng：发生、预测、推断——知识图谱中的事件序列补全;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -67,9 +67,9 @@ HapPenIng：发生、预测、推断——知识图谱中的事件序列补全;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -222,6 +222,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Chi Zhang, Bryan Wilkinson, Ashwinkumar Ganesan, Tim Oates</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1909.05890v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 拒绝服务（DoS）攻击在Twitter，Facebook和银行等在线和移动服务中很常见。随着分布式拒绝服务（DDoS）攻击的规模和频率的增加，迫切需要确定攻击的影响。该任务的两个主要挑战是从大量用户那里获得反馈并及时获得。在本文中，我们提出了一个弱监督模型，通过在推文上应用Latent Dirichlet Allocation和对称Kullback-Leibler散度，不需要注释数据来衡量DoS问题的影响。弱监督模块存在限制。它假定在​​时间窗口中检测到的事件是DoS攻击事件。当更多的非攻击事件被收集并且不太可能被识别为新事件时，这将变得不那么成问题。另一种消除该限制的方法是，一个可选的分类层，通过手动注释的DoS攻击推文进行训练，过滤掉非攻击推文，可以用来提高精确度，但代价是召回。实验结果表明，我们可以学习弱监督模型，这些模型可以达到与监督模型相当的精度，并且可以在同一行业的实体中进行推广。</p>
 
 <h3 id="dyane-用于时间网络的动态感知节点嵌入">DyANE：用于时间网络的动态感知节点嵌入</h3>
@@ -231,6 +233,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1909.05976">http://arxiv.org/abs/1909.05976</a></p>
 
 <p>作者： Koya Sato, Mizuki Oka, Alain Barrat, Ciro Cattuto</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1909.05976v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 已经证明网络节点的低维矢量表示成功地将图数据馈送到机器学习算法并且改善跨不同任务的性能。然而，大多数嵌入技术的开发目标是实现网络结构和模式的密集，低维编码。在这里，我们提出了一种节点嵌入技术，旨在提供低维特征向量，这些向量是在时间网络上发生的动态过程的信息 - 而不是网络结构本身 - 目的是实现与这些过程和结果相关的预测任务。流程。我们通过使用时间网络的修改的超邻接表示并基于随机游走的静态图的标准嵌入技术来实现这一点。我们证明了所得到的嵌入向量对于与范式动态过程相关的预测任务是有用的，即在经验时间网络上的流行病传播。特别地，我们说明了我们在扩散过程的单个实例中预测节点流行状态的方法的性能。我们展示了如何将此任务构建为嵌入向量上的监督多标签分类任务，使我们能够在随机时间从节点的部分采样中估计整个系统的时间演变，对临近预报传染病动态具有潜在影响。</p>
 
@@ -242,6 +246,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Tyler Derr, Cassidy Johnson, Yi Chang, Jiliang Tang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1909.06073v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 今天的大部分大数据可以表示为网络。然而，并非所有网络都是相同的，事实上，对于许多其结构具有额外复杂性的网络，传统的通用网络分析方法不再适用。例如，符号网络包含正链接和负链接，因此开发了专用理论和算法。但是，之前的工作主要集中在一模设置，其中符号链接连接任何节点对。尽管符号二模网络很常见，但却被忽视了。它们具有两种节点类型的复杂性，其中符号链接只能在两个集合中形成，这带来了一些挑战，这些挑战阻止了大多数关于有符号一模和无符号二模网络的现有文献的应用。另一方面，平衡理论是一种关键的符号社会理论，通常被定义为任何长度的循环，并且以三角形的形式用于许多单方面符号的网络任务。然而，在二模网络中没有三角形，而且存在两种类型的节点。因此，在这项工作中，我们使用有符号的二模网络中的最小周期 - 有符号的蝴蝶（即包含两种节点类型的长度为4的周期）进行平衡理论的第一次综合分析和验证。然后，为了研究平衡理论辅助符号二模网络任务的适用性，我们开发了多种符号预测方法，这些方法利用符号蝴蝶形式的平衡理论。我们在三个真实符号二模网络上的符号预测实验证明，使用这些有符号的蝴蝶不仅可以进行符号预测，而且可以为其他符号二模网络分析任务的改进铺平道路。</p>
 
 <h3 id="happening-发生-预测-推断-知识图谱中的事件序列补全">HapPenIng：发生、预测、推断——知识图谱中的事件序列补全</h3>
@@ -251,6 +257,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1909.06219">http://arxiv.org/abs/1909.06219</a></p>
 
 <p>作者： Simon Gottschalk, Elena Demidova</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1909.06219v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 温布尔登锦标赛和美国总统选举等活动系列代表了体育，文化和政治等重要社会领域的重要事件。但是，语义参考源（如Wikidata，DBpedia和EventKG知识图）仅提供不完整的事件序列表示。在本文中，我们针对知识图中的事件序列完成问题。我们解决了两个任务：1）子事件关系的预测，以及2）作为事件序列的一部分发生并且在知识图中缺失的现实世界事件的推断。为了解决这些问题，我们提出的监督HapPenIng方法利用了事件序列的结构特征。 HapPenIng不需要任何外部知识 - 这些特征使其在事件推理的上下文中是唯一的。我们的实验评估表明，相应地，HapPenIng在子事件预测和推理任务的精度方面优于基线44和52个百分点。</p>
 

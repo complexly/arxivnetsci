@@ -62,7 +62,7 @@ DynGEM：动态图的深度学习嵌入方法;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -70,9 +70,9 @@ DynGEM：动态图的深度学习嵌入方法;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -226,6 +226,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Palash Goyal, Nitin Kamra, Xinran He, Yan Liu</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1805.11273v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在低维空间中嵌入大图最近引起了很大兴趣，因为它有广泛的应用，如图可视化，链路预测和节点分类。现有方法专注于计算静态图的嵌入。但是，实际应用中的许多图都是动态的，随着时间的推移不断演变。天真地将现有的嵌入算法独立地应用于动态图的每个快照通常导致在稳定性，灵活性和效率方面不令人满意的性能。在这项工作中，我们提出了一个基于深度自动编码器的图嵌入最新进展的高效算法DynGEM来解决这个问题。 DynGEM的主要优点包括：（1）嵌入在一段时间内稳定，（2）可以处理不断增长的动态图，（3）在动态图的每个快照上，比静态嵌入方法具有更好的运行时间。我们测试DynGEM的各种任务，包括图可视化，图重建，链路预测和异常检测（在合成和真实数据集上）。实验结果证明了我们方法的优越稳定性和可扩展性。</p>
 
 <h3 id="用于非竞争性和竞争性影响传播的基于信任的动态线性阈值模型">用于非竞争性和竞争性影响传播的基于信任的动态线性阈值模型</h3>
@@ -235,6 +237,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1805.11303">http://arxiv.org/abs/1805.11303</a></p>
 
 <p>作者： Antonio Caliò, Andrea Tagarelli</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1805.11303v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 使信息传播模型能够解释现实世界传播现象的固有动态性并且往往是竞争性的特性的关键特征是什么？在本文中，我们旨在通过提出一种新颖的扩散模型来解答这个问题，这种扩散模型受传统线性阈值模型的启发，围绕以下几个方面构建：用户关系中的信任/不信任，可用于模拟社会的不同影响影响个人的决定;采用一种或另一种信息项目的变化;对随着时间推移采用信息的犹豫不决;传播中的延迟;扩散过程展开的时间跨度;以及可能竞争性地发生的多个级联信息。就我们所知，上述方面从未统一到同一个基于LT的扩散模型中。我们还定义了不同的策略，以选择最初的影响者来模拟非竞争性和竞争性扩散情景，特别是与错误信息传播限制问题有关。公众可用网络上的结果显示了我们模型的意义和独特性。</p>
 
@@ -246,6 +250,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Shi Pu, Angelia Nedić</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1805.11454v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在本文中，我们研究了网络中分布式多智能体优化问题，其中每个智能体拥有一个平滑且强凸的局部成本函数。全球目标是找到一种可以使所有成本函数的平均值最小化的通用解决方案。假设智能体只能访问其局部成本函数梯度的无偏估计，我们考虑一种分布式随机梯度追踪方法（DSGT）和一种类似八卦的随机梯度追踪方法（GSGT）。我们表明，在预期中，由每个代理产生的迭代被吸引到最优解的邻域，在那里它们以指数快速积累（在恒定的步长选择下）。在DSGT下，迭代距离最优解的距离的限制（预期）误差随网络大小$ n $减小，这与集中式随机梯度算法相当。此外，我们表明，当网络连接良好时，GSGT的通信成本低于DSGT，同时保持类似的计算成本。数值例子进一步证明了所提出方法的有效性。</p>
 
 <h3 id="关联但隔离-农村社会网络">关联但隔离：农村社会网络</h3>
@@ -256,6 +262,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Felipe Montes, Roberto C. Jimenez, Jukka-Pekka Onnela</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1805.11538v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 人们越来越重视和利用社会网络来传播目标人群的各种干预措施。同样地，人们倾向于与他们互动的人相似，可以创造群内凝聚力，但同时也会导致社会隔离。在公共卫生方面，社会隔离可能会阻碍卫生干预措施从一个群体传播到另一个群体。我们分析了印度卡纳塔克邦75个村庄的社会网络结构，无论是在个人还是网络社区层面。我们发现所有的村庄在社区层面都被严格隔离，尤其是在种姓和性别方面，而其他社会经济变量，如年龄和教育水平，与这些网络中的这些群体只有微弱的联系。虽然研究网络密集连接，我们的结果表明，村庄高度隔离。</p>
 
 <h3 id="非重叠社区检测">非重叠社区检测</h3>
@@ -265,6 +273,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1805.11584">http://arxiv.org/abs/1805.11584</a></p>
 
 <p>作者： Hocine Cherifi (Le2i)</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1805.11584v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 社区检测问题的定义和特征的丰富性导致了大量的文献。事实上，近年来已引入许多社区检测方法和调查。这里的目标是提供这方面最先进的最成熟的研究。因此，我们将重点关注基本图模型的非重叠社区检测。在本章中，我们将概述包含大多数主要方法和技术的社区检测最有影响力的方法。还将特别关注社区评估。</p>
 

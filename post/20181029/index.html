@@ -65,7 +65,7 @@ HYPE：带邻域扩展的大规模超图分区;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -73,9 +73,9 @@ HYPE：带邻域扩展的大规模超图分区;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -230,6 +230,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Xiaoyun Wang, Joe Eaton, Cho-Jui Hsieh, Felix Wu</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1810.10751v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 图卷积网络（GCN）已被广泛用于在半监督设置中对图节点进行分类。以前的工作表明，GCN容易受到现有节点的邻接和特征矩阵的扰动的影响。但是，更改许多应用程序中的现有节点是不现实的，例如社会网络中的现有用户。在本文中，我们设计了通过添加假节点来攻击GCN的算法。提出了一种贪婪算法来生成伪节点的邻接和特征矩阵，旨在最小化现有节点的分类精度。另外，我们引入了一个鉴别器来对来自真实节点的假节点进行分类，并提出了一个Greedy-GAN攻击来同时更新鉴别器和攻击者，使假节点与真实节点无法区分。我们的非目标攻击将GCN的准确度降低到0.10，并且我们的目标攻击在整个数据集上成功率达到99％，攻击单个目标节点的成功率达到平均94％。</p>
 
 <h3 id="跟踪实体的历史和演变-以实体为中心的大型社交媒体档案含时分析">跟踪实体的历史和演变：以实体为中心的大型社交媒体档案含时分析</h3>
@@ -239,6 +241,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1810.11017">http://arxiv.org/abs/1810.11017</a></p>
 
 <p>作者： Pavlos Fafalios, Vasileios Iosifidis, Kostas Stefanidis, Eirini Ntoutsi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1810.11017v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 希腊总理的受欢迎程度如何在2015年发生变化？在此期间，关于他的主要情绪是如何变化的？是否存在任何有争议的子时期？在这些时期，还有哪些其他实体与他有关？要回答这些问题，需要分析有关查询实体的存档文档和数据，例如旧新闻文章或社交媒体档案。特别是，在社会网络中发布的用户生成的内容，如Twitter和Facebook，可以被视为我们社会的综合文档，因此对这些存档数据的有意义的分析方法对于社会学家，历史学家和其他感兴趣的人来说具有巨大的价值。想要研究实体和事件的历史和演变。为此，在本文中，我们提出了一种以实体为中心的方法来分析社交媒体档案，我们定义了一些措施，可以研究实体在不同时期和不同方面如社交媒体中的反映，如人气，态度，争议和与其他实体的联系。使用四年大型Twitter档案的案例研究说明了这种以实体为中心的多方面分析可以获得的见解。</p>
 
@@ -250,6 +254,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Mainul Quraishi, Pavlos Fafalios, Eelco Herder</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1810.11047v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 网络已经发展成为一个占主导地位的平台，每个人都有机会表达自己的观点，与其他用户互动，并就世界各地正在发生的新事件进行辩论。一方面，这使得存在关于 - 通常是有争议的 - 主题（如英国脱欧）的不同观点和观点，但同时，它导致了诸如媒体偏见，回声室和滤波器泡沫等现象。只暴露于同一主题的一个观点。因此，需要能够检测和解释不同观点的方法。在本文中，我们提出了一种图分区方法，该方法利用社交交互来发现不同社区（代表不同观点），讨论Twitter等社会网络中一个有争议的话题。为了解释发现的观点，我们描述了一种称为迭代秩差（IRD）的方法，该方法允许检测表征不同视点的描述性术语，以及理解特定术语如何与视点相关（通过检测其他相关描述性术语） 。实验评估的结果表明，我们的方法在观点发现方面优于最先进的方法，而对三个不同的有争议的主题提出的IRD方法的定性分析表明，IRD提供了对不同观点的全面和深刻的表示。</p>
 
 <h3 id="高效和高质量的种子图匹配-采用高阶结构信息">高效和高质量的种子图匹配：采用高阶结构信息</h3>
@@ -259,6 +265,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1810.11152">http://arxiv.org/abs/1810.11152</a></p>
 
 <p>作者： Haida Zhang, Zengfeng Huang, Xuemin Lin, Zhe Lin, Wenjie Zhang, Ying Zhang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1810.11152v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在许多实际应用的驱动下，我们研究了种子图匹配的问题。给定两个图 G_1 =（V_1，E_1）和 G_2 =（V_2，E_2），以及一小组 S 的预匹配节点对 [u，v] 其中 u \ in V_1 和 v \ in V_2 ，问题是确定从 S 增长的 V_1 和 V_2 之间的匹配，这样匹配中的每一对都对应于相同的底层实体。最近关于有效和有效的种子图匹配的研究引起了很多关注，并且许多流行的方法主要基于探索局部结构之间的相似性以识别匹配对。虽然这些最新技术在随机图上运行良好，但它们的准确度在许多真实网络上都很低。由此推动，我们建议利用高阶邻近信息来提高匹配精度。因此，提出了一种新的种子图匹配框架，该框架采用个性化PageRank（PPR）来量化每个节点对的匹配分数。为了进一步提高匹配准确度，我们提出了一种新颖的推迟策略，该策略推迟了具有相似匹配分数的竞争对手的选择。我们理论上证明推迟策略确实显著提高了匹配精度。为了提高匹配大图的可扩展性，我们还提出了基于算法的高效近似技术，用于计算PPR重击者。我们对大规模真实数据集的全面实验研究表明，与现有技术方法相比，我们的框架不仅提高了精度，而且在很大程度上提高了召回率，而且实现了超过一个数量级的加速。</p>
 
@@ -270,6 +278,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Christian Mayer, Ruben Mayer, Sukanya Bhowmik, Lukas Epple, Kurt Rothermel</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1810.11319v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 许多重要的现实应用 - 例如社会网络或分布式数据库 - 可以被建模为超图。在这样的模型中，顶点表示实体 - 例如用户或数据记录 - 而超边界模拟顶点的组成员资格 - 例如特定主题中的作者身份或特定复制分片中的数据记录的成员资格。为了优化这些应用，我们需要一种高效且有效的NP-hard平衡k-way超图分割问题解决方案。但是，现有的超图分割器在执行分区决策时不能有效地利用超图结构。我们提出了HYPE，一种超图分区，利用邻域扩展的有效实现，利用超图中顶点之间的邻域关系。与现有技术相比，HYPE将分区质量提高了95％，运行时间缩短了39％。</p>
 
 <h3 id="没有项目的理论研究">没有项目的理论研究</h3>
@@ -279,6 +289,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1810.11387">http://arxiv.org/abs/1810.11387</a></p>
 
 <p>作者： Miguel Navascues, Costantino Budroni</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1810.11387v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们提出了一个理论研究的资助计划，该计划不依赖于项目提案，而是依赖于最近的科学生产力。鉴于后者的定量数字和研究预算总额，我们引入了一些政策来决定每次拨款电话中的资金分配。在对科学生产力的一些假设下，一些此类政策被证明在许多拨款呼叫的限度内汇总到最大化整个科学界总生产率的资金配置。我们提出数值模拟，证明这些方案在科学生产力和/或评估中存在统计噪声的情况下也能表现良好。最后，我们认为我们的一项政策不能被欺骗。我们的工作必须被理解为迈向科学研究资助理论的第一步。</p>
 

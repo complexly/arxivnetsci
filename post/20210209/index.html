@@ -110,7 +110,7 @@ Belle II的多样性和包容性活动;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -118,9 +118,9 @@ Belle II的多样性和包容性活动;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -290,6 +290,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Dora Jambor, Komal Teru, Joelle Pineau, William L. Hamilton</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03419v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 现实世界中的知识图通常以低频关系为特征-这一挑战促使人们对连拍预测方法越来越感兴趣。这些方法仅针对在测试时每种关系的一些示例事实，对训练期间看不到的一组新关系执行链路预测。在这项工作中，我们对一系列模型进行了系统的研究，这些模型通过概括当前用于短链路预测的最新技术来推导，目的是探索这种短射击环境中学习的局限性。我们发现，简单的零击基线（忽略任何与关系有关的信息）可实现令人惊讶的强大性能。此外，对精心制作的合成数据集进行的实验表明，只有少数几个关系示例从根本上限制了使用细粒度结构信息的模型，并且仅允许利用实体的粗粒度位置信息。总之，我们的发现挑战了先前工作的隐含假设和归纳偏见，并突出了该领域研究的新方向。</p>
 
 <h3 id="大规模属性图的有效可扩展聚类">大规模属性图的有效可扩展聚类</h3>
@@ -299,6 +301,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.03826">http://arxiv.org/abs/2102.03826</a></p>
 
 <p>作者： Renchi Yang, Jieming Shi, Yin Yang, Keke Huang, Shiqi Zhang, Xiaokui Xiao</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03826v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 给定一个图G，其中每个节点都与一组属性相关联，并且参数k指定了输出聚类的数量，则k属性图聚类（k-AGC）将G中的节点分为k个不相交的聚类，这样相同的群集具有相似的拓扑和属性特征，而不同群集中的群集则具有不同的拓扑和属性特征。在大规模图上，例如，具有数百万个节点和数十亿条边的情况下，此问题面临挑战。对于此类图，现有解决方案要么会产生高昂的成本，要么会产生质量下降的聚类结果。在本文中，我们提出ACMin，这是一种有效的k-AGC方法，可产生成本与输入图G的大小成线性关系的高质量聚类。ACMin的主要贡献是双重的：（i）k的新颖表述-AGC问题基于针对此问题设置量身定制的属性多跳电导质量度量，可根据拓扑邻近度和属性相似性有效地刻画聚类一致性，并且（ii）线性时间优化求解器可获取高基于有效的矩阵运算（例如正交迭代），替代性优化方法以及可在实践中显著加快ACMin收敛速度的初始化技术，可以对质量进行迭代聚类。广泛的实验在6个真实的数据集上比较了11个竞争对手，这表明ACMin在根据真实标签测量的结果质量上始终胜过所有竞争对手，同时速度提高了几个数量级。特别是，在Microsoft学术知识图数据集（具有2.652亿条边和11亿个属性值）上，ACMin使用单个CPU内核在1.68小时内输出5-AGC的高质量结果，而11个竞争对手中没有一个在3天内完成。</p>
 
@@ -310,6 +314,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Chiara Ravazzi, Giacomo Como, Michele Garetto, Emilio Leonardi, Alberto Tarable</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03840v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们通过有向标记的随机网络分析一类随机过程，称为异步和半匿名动力学（ASD）。这些过程是描述网络博弈中一般最佳响应和嘈杂最佳响应动态的自然工具，其中每个主体在独立的Poisson时钟控制下的随机时间可以在一组有限的动作中进行选择。收益取决于邻居之间不同行为的相对普遍性，而与邻居的特定身份无关。使用均值场方法，我们证明，在网络和初始节点配置一定条件下，可以通过非线性常微分系统的解在近似大网络规模的情况下近似估计ASD的演化。方程。我们的框架非常通用，适用于一大类图集成，典型的随机图在本地的行为类似于树。特别是，我们将关注标记的配置模型随机图，这是对传统配置模型的概括，该模型允许将不同类别的节点在网络中混合在一起，例如，允许我们在系统中合并社区结构。我们的分析还适用于具有幂律度分布的配置模型图，这是许多实际系统的基本特征。为了展示我们框架的功能和灵活性，我们考虑了属于我们的随机过程类的动力学的几个例子。此外，我们通过在真实的社会网络图上运行示例动态，通过仿真来说明分析在现实场景中的适用性。</p>
 
 <h3 id="基于网络的哥伦比亚二十世纪民粹主义表征方法">基于网络的哥伦比亚二十世纪民粹主义表征方法</h3>
@@ -319,6 +325,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.03429">http://arxiv.org/abs/2102.03429</a></p>
 
 <p>作者： Juan D. Garcia-Arteaga, Valentina Pellegrino</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03429v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 民粹主义是一种以自由领导人为中心的民主自由主义的政治现象。通过对最近哥伦比亚政治风貌的著名人物的人/节点联系进行建模，我们可以绘制，量化和分析Alvaro Uribe作为民粹主义领导人的地位和影响。我们发现，乌里韦（Uribe）是政治联盟网络的中心枢纽，它突破了传统的政党联盟。但不是国家机构中最重要的人物。本文首先介绍了问题的框架，然后是研究中的案例的历史背景，所采用的方法以及数据收集，分析，结论和进一步的研究路径。这项研究对提供一种将定量方法应用于民粹主义政权研究的新方法具有重要意义。</p>
 
@@ -330,6 +338,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Aritra Konar, Nicholas D. Sidiropoulos</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03434v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 给定无向图，Densest-k-Subgraph问题（DkS）试图找到k个顶点的子集，以使相应子图中的边权重之和最大化。已知该问题是NP难题，在最坏的情况下也很难估算。在本文中，我们提出了一个新的凸松弛问题。我们的关键思想是将DkS重新构造为最小化受基数约束的子模函数。利用子模函数具有凸连续连续扩展（称为Lov &lsquo;asz扩展）的事实，我们建议在基数约束的凸包上最小化Lov &lsquo;asz扩展。尽管一般而言，亚模函数的Lov&rsquo;asz扩展不接受解析形式，但对于DkS，我们证明了。我们利用这一结果来开发一种基于乘法器交替方向方法（ADMM）的高度可扩展算法，以解决松弛问题。结合一对非常简单的四舍五入方案，我们证明了我们的方法优于现实世界图中现有的基线，并且可以产生高质量的次优解决方案，通常不低于最佳密度的65-80％。</p>
 
 <h3 id="克服社区检测评估中的偏见">克服社区检测评估中的偏见</h3>
@@ -339,6 +349,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.03472">http://arxiv.org/abs/2102.03472</a></p>
 
 <p>作者： Jeancarlo Campos Leão (1), Alberto H. F. Laender (2), Pedro O. S. Vaz de Melo (2) ((1) Instituto Federal do Norte de Minas Gerais, (2) Universidade Federal de Minas Gerais)</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03472v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 社区检测是进一步理解复杂网络的功能和结构的一项关键任务。因此，用于评估此任务的策略必须能够避免有偏见和不正确的结果，这些结果可能会使依赖于此类社区的进一步分析或应用程序无效。评估此任务的两种广泛使用的策略通常称为结构和功能。结构性策略主要包括通过使用多种方法和结构性指标来检测和评估此类社区。另一方面，当可获得地面实况数据来评估检测到的社区时，可以使用功能策略。但是，基于此类策略的社区评估通常是在实验配置中完成的，这种配置在很大程度上容易产生偏差，这种情况是此任务中使用的算法，指标和网络数据所固有的。此外，没有以允许识别和减轻算法，度量或网络数据中的偏差收敛为更一致结果的方式来系统地组合此类策略。在这种情况下，本文的主要贡献是一种在检测实际网络中的社区时支持可靠的质量评估的方法。在我们的方法中，我们通过应用结构和功能策略以及两者的结合来衡量社区的质量，以获得不同的证据。然后，我们考虑证据的分歧和共识，以识别和克服社区检测算法，评估指标和网络数据中可能存在的偏见。用几个真实的和综合的网络进行的实验提供的结果表明，我们的方法对于获得有关检测到的社区的质量更一致的结论是有效的。</p>
 
@@ -350,6 +362,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Zuobai Zhang, Wanyue Xu, Zhongzhi Zhang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03569v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 意见共享和形成的问题在学术文献中已受到相当多的关注，并且已经提出了一些模型来研究这个问题。但是，现有模型仅限于最近邻居之间的交互，而忽略了那些第二，第三和更高级别的邻居，尽管在现实的社会网络中经常发生高级交互。在本文中，我们通过结合基于高阶随机游动的远程交互作用，开发了一种意见动态模型。我们证明了该模型收敛于一个固定的观点向量，这可能与那些没有高阶交互作用的模型有很大的不同。由于直接计算均衡意见的计算量很大，涉及到大规模矩阵乘法和求逆的操作，因此我们设计了一种理论上有保证保证的估计算法，该算法可相对于均衡意见在空间和时间上近似线性地近似于均衡意见向量。图中的边数。我们在各种社会网络上进行了广泛的实验，证明了该新算法既高效又有效。</p>
 
 <h3 id="从居家到重返工作的政策-意大利的covid-19死亡率-出行和休假计划">从居家到重返工作的政策：意大利的COVID-19死亡率，出行和休假计划</h3>
@@ -359,6 +373,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.03619">http://arxiv.org/abs/2102.03619</a></p>
 
 <p>作者： Valentina Pieroni, Angelo Facchini, Massimo Riccaboni</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03619v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 评估COVID-19大流行和疫苗接种策略的经济影响对于快速恢复至关重要。在本文中，我们分析了流动收缩对意大利员工休假和额外死亡的影响。我们提供了行动不便与过度死亡之间的联系，从而确认了全国范围内的首次封锁有效地减少了COVID-19流行病。我们的分析指出，流动性收缩10％会导致死亡率降低5％，而工资保证金允许小时数会增加50％。根据我们的结果，我们建议在疫苗接种运动的最晚期阶段（当健康的活跃人群要进行疫苗接种时）优先管理COVID-19疫苗。关键字：COVID-19死亡率；休假计划；封锁的经济影响；接种疫苗</p>
 
@@ -370,6 +386,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Mohammed Alser, Jeremie S. Kim, Nour Almadhoun Alserr, Stefan W. Tell, Onur Mutlu</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03667v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 动机：早期发现和隔离COVID-19患者对于成功实施缓解策略并最终遏制疾病传播至关重要。由于每个国家/地区每天进行的CoVID19测试数量有限，因此模拟COVID-19传播以及每种缓解策略的潜在影响目前仍然是管理医疗保健系统和指导政策制定者的最有效方法之一。我们介绍了COVIDHunter，这是一种灵活而准确的COVID-19暴发模拟模型，可以评估当前应用于区域的缓解措施并就即将采取的缓解措施的强度提供建议。 COVIDHunter的主要思想是通过考虑外部因素（例如环境条件（例如，气候，温度，湿度） ）和缓解措施。结果：COVIDHunter以瑞士为例，估计决策者需要将当前的缓解措施至少保留30天，以防止需求迅速超过现有医院的能力。在30天内将缓解措施放宽50％，这将使医院每天的床位需求量和每天的死亡人数平均增加23.8倍，而这些人可能会占用ICU床和呼吸机一段时间。与现有模型不同，COVIDHunter模型可以准确地监视和预测每天因COVID-19导致的病例，住院和死亡人数。我们的模型配置灵活，修改简单，可以在不同的环境条件和缓解措施下对不同的情景进行建模。可用性：<a href="https://github.com/CMU-SAFARI/COVIDHunter">https://github.com/CMU-SAFARI/COVIDHunter</a></p>
 
 <h3 id="简短是从恐惧通往仇恨的道路-在印度whatsapp小组中的恐惧演讲">“简短是从恐惧通往仇恨的道路”：在印度WhatsApp小组中的恐惧演讲</h3>
@@ -379,6 +397,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.03870">http://arxiv.org/abs/2102.03870</a></p>
 
 <p>作者： Punyajoy Saha, Binny Mathew, Kiran Garimella, Animesh Mukherjee</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03870v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： WhatsApp是世界上最受欢迎的消息传递应用程序。由于其受欢迎程度，WhatsApp已成为政治竞选活动的强大而便宜的工具，在2019年印度大选期间被广泛使用，在那里它被广泛用于与选民联系。随着竞选活动的进行，有报道称WhatsApp也已成为针对各种受保护群体和宗教少数群体发表有害言论的温床。许多这样的信息试图使人们对特定的（少数民族）社区产生恐惧。根据对群体间冲突的研究，此类“恐惧言论”消息可能会产生持久影响，并可能导致真正的线下暴力。在本文中，我们对数千个讨论印度政治的公共WhatsApp团体进行了关于恐惧言语的首次大规模研究。我们策划一个新的数据集，并尝试从该数据集中表征恐惧言语。我们观察到，编写恐惧语音消息的用户使用各种事件和符号在读者中造成对目标社区的恐惧幻觉。我们建立模型来对恐惧言语进行分类，并观察到当前最新的NLP模型在此任务上的表现不佳。恐惧语音消息往往传播速度更快，并且由于其低毒性性质而被用来检测传统有毒语音的分类器可能无法检测到。最后，我们使用一种新颖的方法来针对带有Facebook广告的用户，我们对这些WhatsApp组的用户进行了一项调查，以理解消费和分享恐惧言论的用户类型。我们认为这项工作提出了新的研究问题，与解决研究界传统上参与的仇恨言论大相径庭。</p>
 
@@ -390,6 +410,8 @@ var _hmt = _hmt || [];
 
 <p>作者： B.F. de Oliveira, A. Szolnoki</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03887v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 探索空间互惠对合作演变的可能后果是一个深入研究的研究途径。相关作品假定竞争者具有一定的交互作用图，并研究了特定拓扑如何影响动态行为。在本文中，我们采用了数字上要求更高的非晶格人口方法，这种方法在微生物环境中可能具有潜在的意义。正如预期的那样，结果在概念上与从晶格型交互图获得的结果相似，但是也可以揭示出一些惊人的差异。一方面，在非晶格总体中，空间互易性可能比基于晶格的系统更有效。另一方面，竞争策略在连续空间概念中可能彼此分离，这为合作者提供了即使在相对较高的诱惑值下也可以生存的机会。此外，缺乏严格的邻域导致竞争补丁之间的软边界，这损害了同质域的长期稳定性。我们根据玩家之间的互动调查主要的社交困境博弈，并揭示了与格网模拟相比的所有类比和差异。</p>
 
 <h3 id="用于covid-19控制的智能测试和重症监护床共享">用于COVID-19控制的智能测试和重症监护床共享</h3>
@@ -399,6 +421,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.03920">http://arxiv.org/abs/2102.03920</a></p>
 
 <p>作者： Paulo J. S. Silva, Tiago Pereira, Claudia Sagastizabal, Luis Nonato, Marcelo Cordova, Claudio J. Struchiner</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03920v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在当前的COVID-19大流行的最初几个月中，社会隔离措施有效地减缓了欧洲和亚洲许多国家的疾病传播速度，但在某些发展中国家（如巴西）并未观察到相同的收益。部分原因是由于未能在全国甚至地区范围内组织系统的测试活动。为了有效控制这种流行病，发展中国家的决策者，尤其是人口众多的决策者，必须克服财富分配不均和日常测试能力低下所带来的困难。该国的经济基础设施通常集中在几个城市，迫使工人从通勤城市和农村地区迁徙，这对疾病传播产生了强烈的非线性影响。在本研究中，我们开发了一种智能测试策略，以识别可以最有效地部署COVID-19测试以限制进一步疾病传播的地理区域。该策略使用随时可用的匿名流动性和人口统计数据，以及重症监护病房（ICU）占用数据和特定于城市的社会疏远措施。考虑到不同地区ICU病床占用的异质性以及疾病发展的阶段，我们以巴西圣保罗州的数据驱动研究为例，表明智能测试策略可以快速限制传播，同时减少需求即使在测试能力受到限制的情况下，也可以使生活恢复到所谓的新常态。</p>
 
@@ -410,6 +434,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Trenton Ford, Rachel Krohn, Tim Weninger</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03952v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 模因的创建和共享是在线社交互动的一种常见形式。本工作的目的是更好地理解在这种加速和竞争的环境中，模因的集体动力学。通过生态学的观点并跟踪Reddit上352个流行的模因的模因文本，我们可以证明模因的频率几乎与过去十年中创建的内容总量成正比。这意味着随着更多数据的发布，模因的比例也相等。面对越来越多的模因，人类注意力有限的一个后果是，在同一时期，这些模因的多样性在社区层面上虽然有所减少，但有所减少。另一个结果是，模因的平均寿命已大大降低，这进一步证明了竞争的加剧和集体注意力的减少。</p>
 
 <h3 id="stencil多元化云架构中的迁移">Stencil多元化云架构中的迁移</h3>
@@ -419,6 +445,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.03964">http://arxiv.org/abs/2102.03964</a></p>
 
 <p>作者： Tai Liu, Zain Tariq, Barath Raghavan, Jay Chen</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03964v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 多年来，研究界的争论一直在讨论中：大型互联网服务是集中式还是分散式？现在，常见的集中式云和Web服务具有越来越明显的缺点-用户锁定以及隐私和数据控制的丢失。但是，他们分散的同行们一直在努力争取采用，遭受了自身的可伸缩性和信任问题，最终可能导致他们打算防止的锁定完全相同。在本文中，我们探索了多元云架构Stencil的设计，该架构可以充当面向社交媒体等面向用户的服务的狭窄腰部。我们的目标是通过一组统一的抽象来实现多元性，这些抽象支持从一个服务到竞争服务的迁移。我们发现，随着链接的断开，迁移链接的数据给源服务和目标服务都带来了许多挑战。我们将展示Stencil如何在服务之间实现正确和有效的数据迁移，它如何支持新服务的部署以及如何增量部署Stencil。</p>
 
@@ -430,6 +458,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Zhenlong Li, Xiao Huang, Xinyue Ye, Yuqin Jiang, Martin Yago, Huan Ning, Michael E. Hodgson, Xiaoming Li</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.03991v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在人类运动的影响下，地点之间的连通性通过地点之间空间互动的强度来量化。数十年来，空间科学家一直研究场所的连通性，应用程序和度量。社交媒体的日益普及提供了一个新的数据流，其中空间社交交互措施在很大程度上没有隐私问题，易于评估和协调。在这项研究中，我们引入了地点连通性指数（PCI），该指数基于地理标记推文显示的地点之间的空间相互作用，是一种多尺度，时空连续且易于实现的测量方法。在美国县一级建立并证明的拟议PCI与SafeGraph人口迁移记录（在美国人口中的渗透率为10％）和Facebook社交联系指数（SCI）（基于社会网络的流行联系指数）密切相关。我们发现，PCI具有很强的状态边界效应，并且通常遵循距离衰减效应，尽管在人口密集的城市化县中，该力较弱。我们的调查进一步表明，PCI在解决需要地方连通性知识的现实问题方面具有巨大潜力，例如两个应用程序：1）对传染性疾病（例如COVID-19）的空间扩散进行建模，以及2）对飓风疏散进行建模目的地选择。 PCI的方法论和背景知识以及已发布的可视化平台和数据共享功能，有望为需要人类空间相互作用知识的研究领域提供支持。</p>
 
 <h3 id="蕾哈娜-rihanna-与宝莱坞-bollywood-推特网红和印度农民的抗议">蕾哈娜（Rihanna）与宝莱坞（Bollywood）：推特网红和印度农民的抗议</h3>
@@ -439,6 +469,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.04031">http://arxiv.org/abs/2102.04031</a></p>
 
 <p>作者： Dibyendu Mishra, Syeda Zainab Akbar, Arshia Arya, Saloni Dash, Rynaa Grover, Joyojeet Pal</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.04031v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 流行艺人和女商人蕾哈娜（Rihanna）发的一条推文引起人们对德里周围农民抗议活动的关注，这引发了印度社交媒体上越来越多的活动。直接的后果是印度政界人士，演艺人员，媒体和其他影响者对这一问题进行了权衡。在本文中，我们使用来自Twitter的数据以及被揭穿的错误信息故事的档案库，以理解影响者介入政治问题的一些模式。我们发现，更多受关注的影响者不太可能支持该推文。我们还发现，主要影响者后来在政府职位上的参与表明存在共谋暗示。不管他们在该问题上的立场如何，参与讨论的影响者在发推文后，其关注度都有明显提高。尽管许多推文感谢蕾哈娜（Rihanna）提高了对这一问题的认识，但她却被系统地以性别，种族，国籍和宗教为由向其进行了诱骗。最后，我们观察到在推文之前存在的错误信息是如何为出现其他叙事奠定基础的。</p>
 
@@ -450,6 +482,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Alex Auvolat (WIDE), Yérom-David Bromberg (WIDE), Davide Frey (WIDE), François Taïani (WIDE)</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.04063v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 最近的工作提出了基于流行病的区块链新型拜占庭共识算法，该设计能够以低成本实现高度可扩展的性能。但是，这些方法严重依赖于安全的随机对等采样服务：一种提供随机网络节点流的服务，在该网络中没有攻击实体可以被过度代表。为了确保此安全性，当前的流行病平台使用权益证明系统来选择对等样本。但是，这样的系统限制了系统的开放性，因为只有具有重大利益的节点才能参与共识，从而导致寡头垄断局面。此外，该设计在共识算法和基于它的加密货币之间引入了复杂的相互依赖性。在本文中，我们基于IP地址的分布为Sybil攻击提供了一种完全不同的对等采样服务安全设计。我们提出了一种新算法  scriptstyle BASALT ，该算法使用顽固的混沌搜索来实现我们的设计，以应对攻击者过度代表的尝试。我们从理论上证明并使用蒙特卡洛模拟，  scriptstyle BASALT 提供的样本即使在试验性的Eclipse攻击等对抗性情况下也非常接近最佳分布。在生产加密货币平台上的实时实验证实，使用  scriptstyle BASALT 获得的样本在节点之间平均分配，从而实现了既开放又没有单个实体获得过多权力的系统。</p>
 
 <h3 id="belle-ii的多样性和包容性活动">Belle II的多样性和包容性活动</h3>
@@ -459,6 +493,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.04195">http://arxiv.org/abs/2102.04195</a></p>
 
 <p>作者： H.M. Wakeling, S.A. De La Motte, M. Barrett, K. Kinoshita</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.04195v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 这些程序与ICHEP 2020期间在“多样性与包容性”并行会议上的Belle II演讲相伴随。这标志着Belle II Collaboration的首次外部演讲，其中我们介绍了一些有关多样性和包容性的数据和自我报告的统计数据。我们还将介绍Belle II当前和计划中的活动，以帮助和改善多样性和包容性。我们发现，在我们的合作中以及在高能物理学中，要改善社会工作环境和人口代表性还有许多工作要做。</p>
 
@@ -470,6 +506,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Luis E C Rocha, Jan Ryckebusch, Koen Schoors, Matthew Smith</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.04298v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 社交动物会自我组织以创建群体，以最大程度地保护他们免受掠食者，生产力和适应度能力的侵害。一对一的互动是这些新兴社会结构的基础，并且可能与友谊，修饰，沟通以及其他社会关系相对应。这些结构应该对失败具有鲁棒性，并提供有效的沟通以补偿形成和维持社交联系的成本，但是每种社交互动的特定目的都调节着各个社会网络的发展。我们整理了637个动物社会网络，并显示社交互动的数量与群体规模成正比，这是包括人类，其他哺乳动物和非哺乳动物在内的各种动物的超线性幂律。我们发现，超线性指数根据社会功能（即合作，空间接近度和友谊）分为3大类。通过将分层模型拟合到我们的数据，我们发现必须缺少社会分层来创建有效的合作网络结构。友谊关系不是这种情况，在这种情况下，网络性能不是由团体生存所驱动的。通过空间接近度衡量的社会互动属于中间类别，不如合作有效，并且与传染现象的传播比与社会现象的传播更相关。</p>
 
 <h3 id="使用基于k-shell的hookerank算法识别加权网络中的影响节点">使用基于k-shell的HookeRank算法识别加权网络中的影响节点</h3>
@@ -480,6 +518,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Nipun Aggarwal, Sanjay Kumar</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.04304v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在网络分析领域，发现具有影响力的传播者是一项至关重要的任务，因为它具有许多理论和实践意义。这些节点在信息传播过程中起着至关重要的作用，例如病毒式营销。许多现实生活中的网络都是加权网络，但是与未加权网络相比，在加权网络的情况下，为找到有影响力的节点所做的工作相对较少。在本文中，我们提出了一种基于k壳的HookeRank（KSHR）算法来识别加权网络中的扩展器。首先，我们通过使用 u 的k-shell值，其邻居的k-shell值（ v ）和边权重（ w_ uv ）来建议节点u的加权k-shell中心性。它们之间。我们将网络中存在的边建模为弹簧，将边权重建模为弹簧常数。基于胡克弹性定律的概念，我们假定一个等于加权k壳值的力作用在每个节点上。在这种安排下，我们通过考虑源节点最多3跳邻居的边的串联和并联组合，使用关联的加权k壳值和等效边权重来制定每个节点的KSHR中心度。所提出的算法找到可以将信息传播到网络中最大数量节点的有影响力的节点。我们将我们提出的算法与现有的流行算法进行了比较，并观察到它在使用Susceptible-Infected-Recovered（Recovered）（SIR）信息扩散模型的许多现实生活和综合网络中的性能均优于它们。</p>
 
 <h3 id="影响者网络中的相干共振">影响者网络中的相干共振</h3>
@@ -489,6 +529,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/2102.04368">http://arxiv.org/abs/2102.04368</a></p>
 
 <p>作者： Ralf Tönjes, Carlos E. Fiore, Tiago Pereira</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2102.04368v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 复杂的网络性质丰富，许多网络具有重要的结构特性：它们包含一些异常高度连接的节点（集线器）。其中一些枢纽被称为影响者，因为它们与网络紧密耦合，并发挥基本的动态和结构性作用。令人惊讶的是，尽管与影响者的网络非常丰富，但人们对他们对随机强迫的反应知之甚少。在这里，对于影响者网络上的振荡动力学，我们表明使影响者受到最佳噪声强度可以导致增强的网络同步。这种新的网络动力学效应，我们称为影响者网络中的相干共振，是由网络结构和随机性之间的协同作用产生的，并且是高度非线性的，当噪声太弱或太强时消失。我们的结果表明，影响者主干可以在耦合振荡器的复杂系统中急剧增加动态响应。</p>
 

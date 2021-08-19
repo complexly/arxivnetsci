@@ -65,7 +65,7 @@
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -73,9 +73,9 @@
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -230,6 +230,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Benjamin Fish, Ashkan Bashardoust, danah boyd, Sorelle A. Friedler, Carlos Scheidegger, Suresh Venkatasubramanian</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02047v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 社会网络中影响力最大化的研究在很大程度上忽略了这些算法可能对社会网络中包含的个体产生的不同影响。个人可以高度重视接收信息，例如职位空缺或贷款广告。虽然网络中心连接良好的个人可能会收到通过网络分发的信息，但连接不良的个人系统性地接收信息的可能性较小，从而在个人之间获取信息方面存在差距。在这项工作中，我们研究如何最好地在社会网络中传播信息，同时最小化这种访问差距。我们建议使用maximin社会福利函数作为目标函数，其中我们最大化在干预下接收信息的最小概率。我们证明，在这种情况下，这种福利函数限制了访问间隙，而最大化预期的节点数量却没有。我们还研究了使用maximin的困难，并给出了标准贪婪策略的硬度结果和分析。最后，我们研究了对maximin进行优化的实用方法，并给出了一个经验证据，即一个简单的基于贪婪的策略在实践中运作良好。</p>
 
 <h3 id="多重网络中多目标干预的共识排名">多重网络中多目标干预的共识排名</h3>
@@ -239,6 +241,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1903.02059">http://arxiv.org/abs/1903.02059</a></p>
 
 <p>作者： Márton Pósfai, Niklas Braun, Brianne A. Beisner, Brenda McCowan, Raissa M. D&rsquo;Souza</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02059v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 高中心节点对网络行为的影响不成比例;因此，控制这些节点可以有效地将系统引导到期望的状态。现有的多路复用中心度量通常对节点进行排序，假设层在质量上相似。然而，许多真实系统由本质上异构的网络组成，例如，社会网络可以具有不可知和附属层。在这里，当结构，动力学和我们的干预目标在每个层的质量上不同时，我们使用秩聚合方法来识别多路网络中的干预目标。考虑到它们的不同功能和期望的结果，我们的方法是在每一层中分别对节点进行排序，然后我们使用Borda计数或Kemeny聚合来确定共识排名 - 预期共识排名中的顶级节点将同时有效地平衡竞争目标所有图层。为了证明共识排名的有效性，我们将我们的方法应用于基于程度的节点删除过程，以便我们的目标是销毁某些层中的最大组件，同时保持其他层中的大规模连接。对于任何多目标干预，最优目标仅存在于帕累托意义上;因此，我们使用共识排名的加权推广来研究竞争目标之间的权衡。我们使用模型和真实网络的集合来系统地研究多重网络结构如何影响这种权衡。我们使用多重中心性分布的copula表示来生成具有给定秩相关性的模型多路复用网络。这允许使用分别操纵每层的边中心度分布和层之间的相互依赖性，并使用分析和数值方法独立地研究两者的作用。</p>
 
@@ -250,6 +254,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Ghazaleh Beigi, Suhas Ranganath, Huan Liu</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02125v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 预测社会网络中的符号链接经常面临符号链接数据稀疏性的问题，即，仅给出了一小部分符号链接。当负链接的数量远远小于正链接的数量时，问题就会恶化。提升符号链路预测需要额外的信息来补偿数据稀疏性。根据心理学理论，这种信息的丰富来源是用户的个性，如乐观和悲观，可以帮助确定她建立积极和消极联系的倾向。在这项研究中，我们研究如何获得个性信息，以及个性信息是否有助于缓解符号链路预测的数据稀疏性问题。我们提出了一种新的符号链路预测模型，该模型能够通过社交媒体数据对用户个性进行实证探索我们在实际符号链路网络的两个数据集上评估我们提出的模型。结果证明了人格信息在符号链路预测问题中的互补作用。实验结果还表明了不同级别的人格信息对符号链接数据稀疏性问题的有效性。</p>
 
 <h3 id="用于用户身份链接的图神经网络">用于用户身份链接的图神经网络</h3>
@@ -259,6 +265,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1903.02174">http://arxiv.org/abs/1903.02174</a></p>
 
 <p>作者： Wen Zhang, Kai Shu, Huan Liu, Yalin Wang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02174v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 社交媒体网站的日益普及和多样化已经鼓励越来越多的人参与多个在线社会网络以享受他们的服务。每个用户可以创建用户身份以在每个社会网络中表示他或她的唯一公众人物。跨在线社会网络的用户身份链接是一项新兴任务，并且已经引起越来越多的关注，这可能潜在地影响各种领域，例如推荐和链路预测。大多数现有工作侧重于挖掘网络邻近度或用户配置文件数据以发现用户身份链接。随着图神经网络（GNN）的最新进展，它提供了推进用户身份链接的巨大潜力，因为用户在社交图中连接，并且学习用户和项目的潜在因素是关键。但是，预测基于GNN的用户身份链接面临挑战。例如，用户社交图编码 local结构（例如用户的邻域信号）和 global结构（具有社区属性）。为了同时解决这些挑战，在本文中，我们提出了一种用于用户身份链接的新型图神经网络框架（ m）。特别是，我们提供了一种原则性的方法来共同捕获用户 - 用户社交图中的本地和全局信息，并提出框架 m，它共同学习用户身份链接的用户表示。对现实世界数据集的广泛实验证明了所提出框架的有效性。</p>
 
@@ -270,6 +278,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Seungkyu Shin, Juyong Park</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02197v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 达尔文演化论对生物学的深刻影响使得该理论在许多复杂系统中得到了接受，这些系统远远超出了其原始领域。文化是一个展示关键达尔文演化特性的例子：文化变体的差异化采用（变异和选择），模仿旧模式（继承）的新实体，以及向最合适的状态（适应）的趋同。在这项工作中，我们提出了一个框架，用于捕捉文化系统中演化动力学的细节 - “模因” - 生物基因水平的文化类比，并分析大规模，全面的电影 - 模因关联数据，以构建时间表通过流派的演变和突出的子流派的兴衰来看电影史。我们还将有影响力的电影确定为流行的模因，我们可以说它们与人类众所周知的“夏娃”相对应，为某些类型的形成和发展过程提供了亮点。最后，我们衡量电影的影响如何与专家和公众的评估相关联。</p>
 
 <h3 id="交通网络中个体路由随机性的全局益处">交通网络中个体路由随机性的全局益处</h3>
@@ -279,6 +289,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1903.02392">http://arxiv.org/abs/1903.02392</a></p>
 
 <p>作者： Tak Shing Tai, Chi Ho Yeung</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1903.02392v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 通过引入基于二维元胞自动机的简单模型，我们揭示了单个车辆的路由策略与交通网络的全局行为之间的关系。具体来说，我们通过称为路径贪婪的单个参数来表征路由策略，这对应于个人通过最短路径前往目的地的趋势。值得注意的是，当车辆倾向于通过最短路径行驶时，在传统的自由流动状态和拥挤状态之间出现拥挤的流动状态，其中交通流量在拥挤的情况下随着车辆密度缓慢增加。我们还发现，通过最短路径行进的高个人倾向并不一定会缩短平均行程时间，因为系统可能会在拥挤的情况下受益于不那么贪婪的路由策略。最后，我们表明自适应路由策略在自由流状态下优于受控策略，但不在拥挤状态，这意味着受控策略可以增加车辆之间的协调，有利于抑制交通拥堵。</p>
 

@@ -65,7 +65,7 @@
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -73,9 +73,9 @@
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -230,6 +230,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Xianfeng Tang, Yandong Li, Yiwei Sun, Huaxiu Yao, Prasenjit Mitra, Suhang Wang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1908.07558v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 图神经网络（GNN）广泛用于许多应用中。然而，它们对抗对抗性攻击的强大性受到批评。之前的研究表明，在图拓扑或节点特征上使用不明显的修改可以显著降低GNN的性能。设计强大的图神经网络以防止中毒攻击是非常具有挑战性的，并且已经采取了一些措施。现有的工作旨在减少来自对抗边的负面影响，仅使用中毒图，这是次优的，因为它们无法区分对抗边与正常边。另一方面，通常在现实世界中可以获得与目标中毒图相似的域的清晰图。通过扰乱这些干净的图，我们创建了监督知识来训练检测对抗边的能力，从而提高GNN的鲁棒性。然而，现有工作忽略了清洁图的这种潜力。为此，我们通过探索干净的图来研究提高GNNs抵御中毒攻击的鲁棒性的新问题。具体来说，我们提出了PA-GNN，它依赖于惩罚性聚合机制，通过赋予它们较低的注意力系数来直接限制对抗性边的负面影响。为了优化PA-GNN中毒图，我们设计了一种元优化算法，该算法训练PA-GNN使用干净图及其对抗性对应物惩罚扰动，并转移这种能力以提高PA-GNN对中毒图的鲁棒性。四个真实数据集的实验结果证明了PA-GNN对图中毒攻击的鲁棒性。</p>
 
 <h3 id="预测研究人员的发表生产率-分段泊松模型">预测研究人员的发表生产率：分段泊松模型</h3>
@@ -239,6 +241,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1908.07564">http://arxiv.org/abs/1908.07564</a></p>
 
 <p>作者： Zheng Xie</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1908.07564v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 预测研究人员的科学生产力是学术管理者和资助机构的基本任务。这项研究为研究人员的出版动态提供了一个模型，受到研究人员出版物数量分布特征的启发。它是一个分段泊松模型，通过回归分析和预测研究人员的出版生产率。该模型的原理建立在分布特征的解释上，这是由于非均匀泊松过程的结果，可以近似为分段泊松过程。该模型的原理由高质量的dblp数据集验证，其有效性可用于预测大多数研究人员的出版生产率及其出版生产率的演变趋势。还提出了确认或不确认模型的测试。该模型具有以无偏见的方式提供结果的优点;因此，对于通过出版物的定量指数评估大量应用的资助机构非常有用。</p>
 
@@ -250,6 +254,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Ross Griebenow, Brennan Klein, Erik Hoel</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1908.07565v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 可以在多个尺度上分析所有网络。较高规模的网络由宏节点组成：已被分组为单个节点的子图。以较高比例重新建立网络可以产生有用的效果，例如减少随机游走者在网络中移动的不确定性，同时还减小网络的大小。然而，找到这样的宏观表示的任务在计算上是困难的，因为网络的所有可能尺度的集合随着节点的数量呈指数增长。在这里，我们比较了各种方法，以找到最具信息量的网络规模，发现基于谱分析的方法优于基于贪婪和梯度下降的方法。然后，我们使用此过程来说明优先附着网络的几个结构属性如何在不同尺度上变化。我们描述了网络的中观和宏观表示如何在其基本微观尺度上具有显著优势，其中包括诸如确定性增加，简并性降低，网络上随机游走者的熵率降低，全球网络效率提高等属性，与微尺度相比，各种中心度量值的值更高。</p>
 
 <h3 id="遍历twitter-基于语言的有效推特账户关注网络采样">遍历Twitter：基于语言的有效推特账户关注网络采样</h3>
@@ -259,6 +265,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1908.07788">http://arxiv.org/abs/1908.07788</a></p>
 
 <p>作者： Felix Victor Münch, Ben Thies, Cornelius Puschmann, Axel Bruns</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1908.07788v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： Twitter通过可公开访问，免费的标准API不断收紧对其数据的访问。这尤其适用于跟随网络。鉴于此，我们成功修改了网络抽样方法，以便与Twitter标准API一起高效工作，以便检索基于语言的Twitter关注网络的最核心和最有影响力的帐户：德国Twittersphere。我们提供的证据表明，该方法能够在活动，跟随者数量，覆盖范围和覆盖范围方面接近德国Twittersphere中有影响力账户的前1％至10％。此外，我们通过展示德国Twittersphere内部主题社区的第一个概述及其网络结构来证明这些数据的有用性。所提出的数据挖掘方法开辟了更多的探究途径，例如收集和比较基于语言的Twitterspheres而不是德国的Twitterspheres，它围绕某些主题或感兴趣的帐户收集关注网络的进一步发展，以及它的应用其他在线社会网络和平台。</p>
 
@@ -270,6 +278,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Amyra Meidiana, Seok-Hee Hong, Peter Eades, Daniel Keim</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1908.07792v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 传统上，图质量指标侧重于可读性，但最近的研究表明，需要更具体的指标来发现图中的模式。聚类分析是图分析中的一项流行任务，但尚未明确量化图绘制表示其聚类结构的程度。我们定义了一个聚类质量度量，它衡量图的节点链接绘制表示图中包含的聚类的程度。通过变形图绘制的实验验证了我们的度量有效地捕获了图绘制的可视化群集质量的变化。然后，我们使用我们的度量来检查不同的图绘制算法在各种图中可视化集群结构的程度。结果表明，一些专门设计用于显示聚类结构的算法比其他算法表现更好。</p>
 
 <h3 id="阿拉伯人和无神论-阿拉伯twitter空间中的宗教讨论">阿拉伯人和无神论：阿拉伯Twitter空间中的宗教讨论</h3>
@@ -279,6 +289,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1908.07811">http://arxiv.org/abs/1908.07811</a></p>
 
 <p>作者： Youssef Al Hariri, Walid Magdy, Maria Wolters</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1908.07811v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 大多数先前关于无神论在线讨论的研究都集中在基督教背景下的无神论。相比之下，关于阿拉伯世界和伊斯兰背景中的无神论的讨论相对较少。更复杂的是，在一些阿拉伯国家，开放无神论是违法的，这可能会进一步限制社交媒体上的无神论活动。在这项工作中，我们探讨阿拉伯Twittersphere的无神论讨论。我们根据他们发布的内容确定了四个相关类别的Twitter用户：无神论，神论，tanweeri（宗教更新）等。我们描述了这四组用户及其社会网络发布的典型内容，特别关注所讨论的主题及其间的互动。我们的研究结果对于研究社交媒体上的宗教和精神话语具有重要意义，并提供了对相关方面的更好的跨文化理解。</p>
 

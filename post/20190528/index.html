@@ -110,7 +110,7 @@ h_alpha 指数是否强化了科学中的马太效应？使用Stata和R的基于
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -118,9 +118,9 @@ h_alpha 指数是否强化了科学中的马太效应？使用Stata和R的基于
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -290,6 +290,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Johannes Zierenberg, Jens Wilting, Viola Priesemann, Anna Levina</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.10402v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 通常通过计算随时间的发生次数来在宏观水平上监测扩散过程。然后，假设微观贡献可忽略不计，则可以在微观层面上建模，假设存在潜在的相互作用网络，或者直接在宏观层面上建模。两种描述的宏观特征通常被认为是相同的。在这项工作中，我们表明微观和宏观描述的这些特征可能由于聚结而不同，即，节点被多个源同时激活。特别地，我们考虑具有退火连接病症的（微观）分支网络（概率元胞自动机），记录宏观活动，然后通过（宏观）分支过程来近似该活性。在此框架中，我们分析计算合并对集体动态的影响。我们证明了聚结导致了连续网络活动的条件期望值的通用非线性尺度函数。这使我们能够量化微观模型参数和已建立的宏观估计之间的差异。为了克服这种差异，我们提出了一种非线性估计器，可以正确地推断出所有系统尺寸的模型分支参数。</p>
 
 <h3 id="从零开始学习识别高介数中心性节点-一种新的图神经网络方法">从零开始学习识别高介数中心性节点：一种新的图神经网络方法</h3>
@@ -299,6 +301,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1905.10418">http://arxiv.org/abs/1905.10418</a></p>
 
 <p>作者： Changjun Fan, Li Zeng, Yuhui Ding, Muhao Chen, Yizhou Sun, Zhong Liu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.10418v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 中介中心性（BC）是用于网络分析的最常用的中心度量之一，其旨在描述网络中节点在通过它们的最短路径的分数方面的重要性。它是许多有价值的应用程序的关键，包括社区检测和网络拆解。由于高时间复杂性，计算大型网络上的BC分数在计算上具有挑战性。已经提出了许多近似算法来加速BC的估计，其主要是基于采样的。然而，这些方法在大规模网络上仍然倾向于相当长的执行时间，并且当网络结构发生微小变化时，它们的结果通常会加剧。在本文中，我们专注于在图中识别具有高BC的节点，因为许多应用场景是在检索具有top-k BC的节点的基础上构建的。与以前的启发式方法不同，我们将此任务转化为学习问题，并设计基于编码器 - 解码器的框架来解决问题。更具体地说，编码器利用网络结构将每个节点编码成嵌入向量，该嵌入向量捕获节点的重要结构信息。解码器将每个节点的嵌入向量变换为标量，其以BC的形式捕获该节点的相对等级。我们使用成对排名损失来训练模型以识别关于其BC的节点的顺序。通过对小规模网络的训练，学习模型能够为任何看不见的网络的节点分配相对BC分数，从而识别高排名的节点。在合成和现实世界网络上的综合实验表明，与代表性基线相比，我们的模型大大加快了预测速度，但没有明显的精度牺牲，并且在几个大型真实世界网络上的准确性超过了最新技术水平。 。</p>
 
@@ -310,6 +314,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Junan Guo, Subhasis Dasgupta, Amarnath Gupta</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.10482v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们介绍了公共卫生中数据科学问题的经验，研究人员利用社交媒体（Twitter）确定公众是否表现出对公共卫生运动提供的艾滋病预防措施的认识。为了帮助研究人员，我们开发了一个名为精品店的调查探索系统，允许用户通过仪表板界面执行多步骤可视化和数据探索。精品店的独特功能包括处理多元商店提供的异类数据的能力，以及将计算作为调查探索过程的一部分的能力。在本文中，我们介绍了精品中间件的设计，并通过调查过程来解决现实问题。</p>
 
 <h3 id="检测网络中时间序列数据的路径异常">检测网络中时间序列数据的路径异常</h3>
@@ -319,6 +325,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1905.10580">http://arxiv.org/abs/1905.10580</a></p>
 
 <p>作者： Timothy LaRock, Vahan Nanumyan, Ingo Scholtes, Giona Casiraghi, Tina Eliassi-Rad, Frank Schweitzer</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.10580v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 时间序列数据中的无监督检测异常具有重要的应用，例如，在用户行为建模，欺诈检测和网络安全中。异常检测已经在分类序列中进行了广泛研究，但是我们经常可以访问包含通过网络的路径的时间序列数据。示例包括金融网络中的交易序列，交叉引用文档的网络中的用户点击流，或交通网络中的旅行路线。为了可靠地检测异常，我们必须考虑这样的事实，即这些数据包含大量由图拓扑约束的短路径的独立观测。此外，真实系统的异质性排除了基于频率的异常检测技术，这些技术不考虑高度偏斜的边和度数统计。为了解决这个问题，我们引入了一种新的框架，用于无限制地检测图中大型可变长度时间路径中的异常，这提供了一种有效的分析方法来检测具有异常频率的路径，这些异常频率是由于节点以意想不到的时间顺序遍历而产生的。</p>
 
@@ -330,6 +338,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Ninghao Liu, Qiaoyu Tan, Yuening Li, Hongxia Yang, Jingren Zhou, Xia Hu</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.10668v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 网络已被广泛用作抽象现实世界系统以及组织实体之间关系的数据结构。网络嵌入模型是将网络中的节点映射到连续向量空间表示中的强大工具，以便于后续任务，例如分类和链路预测。现有的网络嵌入模型将每个节点的所有信息（例如链路和属性）全面地集成到单个嵌入向量中，以表示节点在网络中的一般角色。然而，真实世界的实体可以是多方面的，由于不同的动机或不一定相关的自我特征，它连接到不同的社区。例如，在电影推荐系统中，用户可能同时喜欢喜剧或恐怖电影，但这两种类型的电影在嵌入空间中不太可能相互接近，用户嵌入矢量也不足以接近它们。同一时间。在本文中，我们提出了一种多维嵌入方法，用于对节点的多个方面进行建模，这是由语言建模中的单词多义现象所驱动的。节点的每个方面被映射为嵌入向量，而我们还维持每对节点和方面之间的关联度。所提出的方法适用于各种现有的嵌入模型，而不会使优化过程显著复杂化。我们还讨论了如何将不同方面的嵌入向量用于推理任务，包括分类和链路预测。对真实世界数据集的实验有助于全面评估所提方法的性能。</p>
 
 <h3 id="用闭合系数测量有向三元闭包">用闭合系数测量有向三元闭包</h3>
@@ -339,6 +349,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1905.10683">http://arxiv.org/abs/1905.10683</a></p>
 
 <p>作者： Hao Yin, Austin R. Benson, Johan Ugander</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.10683v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 最近研究无向图中聚类的工作引起了对聚焦于三角形“中心”节点的聚类测量与侧重于“启动器”的测量之间的区别的关注，这种区别具有相当大的后果。与此同时，有向图中的现有措施都是以中心为中心的。在这项工作中，我们提出了一系列有向闭包系数，从节点启动闭包的角度来衡量有向图中三元闭合的频率。我们观察到这些系数在现实世界网络上的显著经验变化，即使在诱导有向三角形是同构的情况下也是如此。为了理解这种现象，我们在有向配置模型下检验了闭包系数的理论行为。我们的分析说明了闭合系数与网络的联合入度和出度分布的时刻之间的潜在联系，提供了对观察到的不对称性的解释。我们使用有向闭包系数作为两个机器学习任务中的预测器。我们在类平衡二元预测中找到AUC分数高于0.92的可解释模型，大大优于使用传统中心聚焦测量的模型。</p>
 
@@ -350,6 +362,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Amin Salehi, Hasan Davulcu</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.10715v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 自动编码器已成为无监督学习的成功框架。然而，传统的自动编码器不能在结构化数据中使用显式关系。为了利用图结构数据中的关系，最近提出了几种图自动编码器，但它们忽略了重建图结构或节点属性。在本文中，我们提出了图注意自动编码器（GATE），一种用于图结构数据的无监督表示学习的神经网络架构。我们的架构能够通过配备自注意机制的堆叠编码器/解码器层重建图结构输入，包括节点属性和图结构。在编码器中，通过将节点属性视为初始节点表示，每个层通过参与其邻居的表示来生成节点的新表示。在解码器中，我们尝试反转编码过程以重建节点属性。此外，节点表示被规则化以重建图结构。我们提出的架构不需要预先了解图结构，因此可以应用于归纳学习。我们的实验证明了在转换和归纳任务的几个节点分类基准数据集上的竞争性能，甚至超过了大多数情况下监督学习基线的性能。</p>
 
 <h3 id="具有m个选择的离散意见动态">具有M个选择的离散意见动态</h3>
@@ -359,6 +373,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1905.10878">http://arxiv.org/abs/1905.10878</a></p>
 
 <p>作者： Andre C. R. Martins</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.10878v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在这里，我研究如何获得一个意见动态模型，其中有可能存在 M 离散选择，并且需要对每个代理选择的强度进行建模。获得新模型作为连续意见和离散行动（CODA）模型的扩展。解决了为简单模型选择适当变量的技术难题。对于对称情况，找到无标度模型。但是，在分析结果时，似乎需要改变变量以便于解释。这里也观察到极端主义，这是通过局部加强具有相同选择的代理人域内的意见而产生的。</p>
 
@@ -370,6 +386,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Pan Li, Eli Chien, Olgica Milenkovic</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.10881v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 图上的随机游走（RW）的着陆概率（LP）编码关于图拓扑的丰富信息。广义PageRanks（GPR）表示RW的LP的加权和，利用LP特征的判别能力来实现许多基于图的学​​习研究。该领域以前的工作主要集中在评估GPR的合适重量，目前为止只有少数研究试图得出给定应用的GRP的最佳权重。通过使用随机图模型来更好地理解GPR的行为，我们在这个方向上迈出了基础性的一步。在这种情况下，我们提供了一个严格的非渐近分析，用于LP和GPR的收敛与它们在边无关随机图上的平均场值。虽然我们的理论结果适用于许多问题设置，但我们关注的是随机块模型的种子扩展社区检测任务。在那里，我们发现基于渐近发现，LP的预测能力显著降低。鉴于此结果，我们提出了一种新的GPR，称为逆PR（IPR），LP权重在步行的最初几步增加。在合成和实际大规模网络上的广泛实验表明，与其他GPR相比，IPR在种子群落检测方面具有优势。</p>
 
 <h3 id="fobe和hobe-一阶和高阶二分嵌入">FOBE和HOBE：一阶和高阶二分嵌入</h3>
@@ -379,6 +397,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1905.10953">http://arxiv.org/abs/1905.10953</a></p>
 
 <p>作者： Justin Sybrandt, Ilya Safro</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.10953v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 典型的图嵌入可能无法捕获在推荐系统，数据可视化和药物发现等领域中出现的特定于类型的二部图特征。使用专门的嵌入技术可以更好地服务于这些应用中使用的机器学习方法。我们提出了两个嵌入二部图，它将边分解为节点邻域之间的间接关系集。在对高阶关系进行抽样时，我们通过图上的代数距离来强化相似性。我们还介绍了整体嵌入，将两者结合成“两全其美”的嵌入。所提出的方法在链路预测和推荐任务上进行评估，并与其他最先进的嵌入进行比较。虽然在应用程序中都非常有益，但我们证明所考虑的嵌入都没有明显优越（与许多论文中所声称的相反），并讨论了它们之间存在的权衡。再现性：我们的代码，数据集和结果都可在线公开获取：此http URL</p>
 
@@ -390,6 +410,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Cole Freeman, Mrinal Kanti Roy, Michele Fattoruso, Hamed Alhoori</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.10975v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 社交媒体平台的研究倾向于依靠文本分析来执行研究任务。虽然基于文本的方法显著提高了我们对在线行为和社交动态的理解，但他们忽略了过去几年中突出显示的这些平台上的功能：基于点击的内容响应。在本文中，我们提供了一个新的Facebook反应数据集学术内容。我们概述了它的结构，分析了数据中的一些统计趋势，并用它来训练和测试两种有监督的学习算法。我们的初步测试表明，页面之后的用户数量存在分层，这些划分似乎与这些页面主题的区别一致。</p>
 
 <h3 id="mcne-学习社会网络的多个条件网络表示的端到端框架">MCNE：学习社会网络的多个条件网络表示的端到端框架</h3>
@@ -399,6 +421,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1905.11013">http://arxiv.org/abs/1905.11013</a></p>
 
 <p>作者： Hao Wang, Tong Xu, Qi Liu, Defu Lian, Enhong Chen, Dongfang Du, Han Wu, Wen Su</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.11013v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 最近，网络表示学习（NRL）技术引起了广泛关注，该技术通过低维向量表示图结构以支持面向社交的应用。虽然已经做了很多努力，但是他们可能无法描述社交用户之间的相似性的多个方面，因为仅针对每个节点表示了用于一个唯一方面的单个向量。为此，在本文中，我们提出了一个新的端到端框架MCNE来学习多个条件网络表示，以便可以完全捕获对多个行为的各种偏好。具体来说，我们首先设计一个二元掩模层，将单个矢量划分为多个行为的条件嵌入。然后，我们引入注意网络来模拟多个偏好之间的交互关系，并进一步利用图神经网络的自适应消息发送和接收操作，从而捕获来自高阶邻居的多方面偏好信息。最后，利用贝叶斯个性化排序损失函数来学习每个行为的偏好相似度，并通过多任务学习框架共同学习多个条件节点嵌入。对公共数据集的大量实验证实，我们的MCNE框架可以明显优于几个最先进的基线，并进一步支持可视化和转移学习任务，具有出色的可解释性和稳健性。</p>
 
@@ -410,6 +434,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Qi Xuan, Jun Zheng, Lihong Chen, Shanqing Yu, Jinyin Chen, Dan Zhang, Qingpeng Zhang Member</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.11015v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 考虑到网络嵌入方法在图数据挖掘中的广泛应用，受到深度学习中的对抗性攻击的启发，本文提出了一种基于遗传算法（GA）的欧几里德距离攻击策略（EDA）来攻击网络嵌入，以防止某些结构信息被发现。 EDA专注于通过对网络结构的最小修改尽可能地干扰嵌入空间中的一对节点之间的欧几里德距离。由于大量下游网络算法（例如社区检测和节点分类）依赖于节点之间的欧几里德距离来评估嵌入空间中它们之间的相似性，因此EDA可被视为对各种网络算法的通用攻击。与传统的监督攻击策略不同，EDA不需要标记信息，据我们所知，是第一种无监督网络嵌入攻击方法。我们将DeepWalk作为开发EDA的基础嵌入方法。使用一组真实网络的实验表明，所提出的EDA方法可以显著降低基于DeepWalk的网络算法的性能，即社区检测和节点分类，优于几种启发式攻击策略。我们还表明EDA也可以很好地攻击基于其他常见网络嵌入方法的网络算法，如高阶邻近保留嵌入（HOPE）和非嵌入式网络算法，如标签传播算法（LPA）和特征向量。矩阵（EM）。结果表明EDA方法具有很强的可转移性。</p>
 
 <h3 id="代码存储库中的幂律-可疑的方法">代码存储库中的幂律：可疑的方法</h3>
@@ -419,6 +445,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1905.11044">http://arxiv.org/abs/1905.11044</a></p>
 
 <p>作者： Bartolomé Ortiz, J. J. Merelo-Guervós</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.11044v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 使用现代方法和源控制管理系统进行的软件开发通常被建立为自组织的一个例子，代码通过不依赖于权力，领导或指令的活动有机地发展和演变。证明这些主张的主要挑战是不能通过直接观察来检测自组织，而是通过对系统的测量来寻找提示，例如某些特征上存在幂律，例如随时间变化的大小。我们打算在本文中解决的问题是建立一种方法，用于检查我们过去已经测量的一组选定的存储库，如果关于幂律的声明实际上是从精确的数学观点来看，那么，在软件工程文献（和其他文献）中普遍显示，幂律比初看起来更难以捉摸。出于这个原因，在本文中，我们提出了一组统计上准确的测试，这些测试将帮助我们从存储库的变化方式决定它们是否真的由幂律分布，这可能表明我们存在通过自我达到的状态 - 组织，或者实际上，幂律如何准确地符合16个开源存储库的git存储库中提交的更改大小的观察分布。我们重新审视这些观察中最具代表性的论文之一，重新评估其结果，并将其与其中分析的存储库的当前状态进行比较，试图阐明电力法可能存在与否的变化。 。</p>
 
@@ -430,6 +458,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Lutz Bornmann, Christian Ganser, Alexander Tekles, Loet Leydesdorff</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.11052v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 最近，Hirsch（2019a）提出了一个名为 h_  alpha  index的h索引的新变种。他的表述如下：“我们将科学家的 h_  alpha 指数定义为科学家h-core中的论文数量（即有助于科学家的h指数的论文集），其中科学家是  alpha  -author“（第673页）。  h_  alpha 指数受到Leydesdorff，Bornmann和Opthof（2019）的批评。他们最重要的一点是该指数强化了科学中的马太效应。我们使用最近开发的Stata命令（h<em>index）和R包（hindex）来解决当前研究中的这一点，它可用于模拟研究评估中的h index和 h</em>  alpha  index应用程序。用户可以调查 h_  alpha 在哪些条件下强化马太效应。我们的研究结果证实了Leydesdorff等人的研究结果。 （2019）预期： h_  alpha 指数加强了马太效应。如果在模拟中另外考虑出版科学家的战略行为和累积优势效应，则可以加强这种效果。</p>
 
 <h3 id="决策参考信息">决策参考信息</h3>
@@ -439,6 +469,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1905.11200">http://arxiv.org/abs/1905.11200</a></p>
 
 <p>作者： Riho Kawaguchi, Daichi Yanagisawa, Katsuhiro Nishinari</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.11200v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们经常通过获取显示周围人偏好指数的支持信息来尝试预测他人的行为。为了重现这些情况，我们提出了一个名为“带参考信息的单侧偏好博弈（OSPG-R）”的博弈。我们进行了实验，其中具有相似偏好的玩家在OSPG-R中竞争对象。在实验中，我们使用了三种不同类型的对象：盒子，面孔和汽车。我们的结果表明，最常选择的对象不是最受欢迎的对象。为了更深入地了解实验结果，我们构建了一个基于两个假设的决策模型：（1）参与者是理性的，（2）确信其他参与者的偏好顺序等同于其偏好指数。组。与模型的选择行为相比，实验结果表明，当对象是面部时，或者特定玩家的优先级较低时，存在冒险的倾向。</p>
 
@@ -450,6 +482,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Rinni Bhansali, Laura P. Schaposnik</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.11204v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 我们在这里介绍一种多类型的bootstrap渗透模型，我们称之为T-Bootstrap Percolation（T-BP），并将其应用于研究社会网络中的信息传播。在该模型中，社会网络由图G表示，图G的顶点具有与人在网络中扮演的角色类型（例如学生，教育者等）相对应的不同标签。一旦G的一组初始顶点被随机选择为携带八卦（例如被感染），八卦传播到新的顶点，只要它通过具有不同标签的最小顶点阈值发送。通过考虑随机图表，它们已被证明可以很好地代表社会网络，我们通过数值模拟研究了T-BP模型的不同属性，并描述了它在应用于谣言传播，假新闻和营销策略时的含义。</p>
 
 <h3 id="探索解的景观结构可以实现更可靠的网络社区检测">探索解的景观结构可以实现更可靠的网络社区检测</h3>
@@ -459,6 +493,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1905.11230">http://arxiv.org/abs/1905.11230</a></p>
 
 <p>作者： Joaquín Calatayud, Rubén Bernardo-Madrid, Magnus Neuman, Alexis Rojas, Martin Rosvall</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.11230v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 为了理解复杂系统的组织和功能，研究人员经常在系统的交互网络中识别社区。由于实际上不可能探索所有解决方案以保证最佳解决方案，因此许多社区检测算法依赖于多个随机搜索。但对于网络和随机算法的给定组合，有多少搜索足以找到足够好的解决方案？标准方法是选择相当大量的搜索并选择具有最高质量的网络分区，或者基于所有网络分区获得一致的解决方案。但是，如果不同的分区具有相似的质量，使得解决方案格局退化，则单个最佳分区可能会遗漏相关信息，并且共识解决方案可能会使互补社区模糊。在这里，我们通过对解决方案格局的粗粒度描述来解决这种退化问题。我们根据网络分区的相似性对网络分区进行聚类，并提出一种方法来确定充分描述解决方案格局所需的最小搜索次数。为了充分利用所有分区，我们还提出了探索解决方案前景的不同方法，包括重要性聚类过程。我们在合成和真实网络上测试这些方法，并发现不同的网络和算法需要不同数量的搜索，并且探索粗粒度解决方案环境可以揭示值得注意的补充解决方案并实现更可靠的社区检测。</p>
 
@@ -470,6 +506,8 @@ var _hmt = _hmt || [];
 
 <p>作者： José C. P. Coninck, Fabiano A. S. Ferrari, Adriane S. Reis, Kelly C. Iarosz, Antonio M. Batista, Ricardo L. Viana</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.11249v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 小世界结构通常用于描述大脑中的结构连接。在这项工作中，我们将健康大脑的皮层区域和受阿尔茨海默病影响的大脑的结构连接与人工小世界网络进行比较。基于统计分析，我们证明了可以使用Newman-Watts程序构建类似的小世界网络。两个结构矩阵的网络量化在概率谷内识别。尽管结构连接矩阵和采样的小世界网络之间存在相似性，但在阿尔茨海默病脑中可以发现增加的相关性。我们的结果表明，网络量化可以帮助识别真实结构连接矩阵中的异常。</p>
 
 <h3 id="扩展大规模图的细粒度模块化聚类">扩展大规模图的细粒度模块化聚类</h3>
@@ -480,6 +518,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Hiroaki Shiokawa, Toshiyuki Amagasa, Hiroyuki Kitagawa</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.11275v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 模块化聚类是理解复杂图的重要工具。然而，由于两个严重的缺点，现有方法不适用于大规模图。 （1）由于分辨率极限问题，很难完全再现地面实况簇。 （2）它们在计算上是昂贵的，因为必须迭代地计算所有节点和边。本文提出了gScarf，它可以在短时间内输出细粒度的簇。为了克服上述缺点，gScarf动态修剪不必要的节点和边，确保它捕获细粒度的簇。实验表明，gScarf在查找具有高精度的簇时，在运行时间方面优于现有方法。</p>
 
 <h3 id="计数网络上大型时间序列数据的因果路径">计数网络上大型时间序列数据的因果路径</h3>
@@ -489,6 +529,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1905.11287">http://arxiv.org/abs/1905.11287</a></p>
 
 <p>作者： Luka V. Petrovic, Ingo Scholtes</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1905.11287v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 图或网络表示是关系数据中数据挖掘和机器学习任务的重要基础。许多网络分析工具，如中心性度量，信息排序或集群检测，都依赖于链接捕获直接影响的假设，并且这些路径代表可能的间接影响。该假设在带时间戳的网络数据捕获中无效，例如动态社会网络，生物序列或金融交易。在这样的数据中，对于两个带时间戳的链路（A，B）和（B，C），时间顺序和定时确定是否存在从节点A经由B到C的因果路径。许多工作表明，由于这个原因，网络分析不能直接应用于带时间戳的网络数据。解决该问题的现有方法需要关于因果路径的统计，这对于大数据集而言在计算上具有挑战性。为解决这个问题，我们开发了一种有效的算法来计算带时间戳的网络数据中的因果路径。将其应用于经验数据，我们表明我们的方法比在OpenSource数据分析包中实现的基线方法更有效。我们的方法可以有效地处理因果路径的连续链路之间的最大时间差的不同值，并支持流式场景。有了它，我们正在缩小阻碍对复杂网络上的大时间序列数据进行有效分析的差距。</p>
 

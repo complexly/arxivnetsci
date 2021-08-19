@@ -65,7 +65,7 @@ E-LSTM-D：动态网络链路预测的深度学习框架;
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -73,9 +73,9 @@ E-LSTM-D：动态网络链路预测的深度学习框架;
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -230,6 +230,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Fuli Feng, Xiangnan He, Jie Tang, Tat-Seng Chua</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1902.08226v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 最近的努力表明，神经网络易受视觉分类任务中输入特征的小但有意的扰动的影响。由于对示例之间的连接的额外考虑（例如，具有引用链接的文章倾向于在同一类中），图神经网络可能对扰动更敏感，因为来自连接示例的扰动加剧了对目标示例的影响。对抗训练（AT）是一种动态正则化技术，可以抵抗输入特征的最坏情况扰动，是提高模型鲁棒性和泛化的一种有前途的选择。然而，现有的AT方法侧重于标准分类，在图上训练模型时效率较低，因为它不模拟连接示例的影响。在这项工作中，我们探索了图上的对抗训练，旨在提高在图上学习的模型的鲁棒性和泛化。我们提出了图对抗训练（GAT），它在学习构建和抵抗扰动时考虑了连接例子的影响。我们给出了GAT的一般公式，可以看作是基于图结构的动态正则化方案。为了证明GAT的实用性，我们在最先进的图神经网络模型&mdash;图卷积网络（GCN）上使用它。我们在两个引用图（Citeseer和Cora）和知识图（NELL）上进行实验，验证GAT的有效性，其在GCN上的正常训练优于节点分类准确度4.51％。代码将在论文接受后发布。</p>
 
 <h3 id="正态分布数据进行阈值处理产生复杂网络">正态分布数据进行阈值处理产生复杂网络</h3>
@@ -239,6 +241,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1902.08278">http://arxiv.org/abs/1902.08278</a></p>
 
 <p>作者： George Cantwell, Yanchen Liu, Benjamin F. Maier, Alice C. Schwarze, Carlos A. Serván, Jordan Snyder, Guillaume St-Onge</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1902.08278v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 网络数据集通常由某种阈值程序构成。由此产生的网络经常具有诸如重尾度分布，聚类，大连通分量和短平均最短路径长度等属性。这些属性被认为是复杂网络的典型特征，并且出现在许多情况下，促使人们考虑它们的普遍性。在这里，我们介绍一个简单的连续值关系数据生成模型，并研究通过阈值处理得到的网络集合。我们发现，即使基础数据不“复杂”，也可以在阈值处理后看到与复杂网络相关的一些属性，但不是全部属性。特别是，我们观察到重尾度分布，大量三角形和短路径长度，而我们没有观察到非消失的聚类或社区结构。</p>
 
@@ -250,6 +254,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Jinyin Chen, Jian Zhang, Xuanheng Xu, Chengbo Fu, Dan Zhang, Qingpeng Zhang, Qi Xuan</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1902.08329v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 预测网络中节点之间的潜在关系（称为链路预测）长期以来一直是网络科学中的一个挑战。然而，大多数研究只关注静态网络的链路预测，而实际网络随着时间的推移随着节点和链路的出现和消失而不断发展。因此，动态网络链路预测已经吸引了越来越多的关注，因为它可以更好地捕获网络的演化性质，但是大多数算法仍然无法实现满意的预测精度。在长短时记忆（LSTM）处理时间序列的优异性能的推动下，本文提出了一种新的Encoder-LSTM-Decoder（E-LSTM-D）深度学习模型来预测端到端的动态链路。它可以处理长期预测问题，适合具有微调结构的不同规模的网络。据我们所知，这是LSTM首次与编码器 - 解码器架构一起应用于动态网络中的链路预测。这个新模型能够在统一框架中自动学习结构和时间特征，这可以预测之前从未出现在网络中的链接。大量实验表明，我们的E-LSTM-D模型明显优于新提出的动态网络链路预测方法，并获得最先进的结果。</p>
 
 <h3 id="子集问题硬枚举变量的细粒度搜索空间分类">子集问题硬枚举变量的细粒度搜索空间分类</h3>
@@ -259,6 +265,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1902.08455">http://arxiv.org/abs/1902.08455</a></p>
 
 <p>作者： Juho Lauri, Sourav Dutta</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1902.08455v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们提出了一种简单，强大且灵活的机器学习框架，用于（i）减少计算难度的子集问题枚举变量的搜索空间，以及（ii）利用输入分布产生的信息提示来增强现有的最先进的求解器。我们实例化了我们的框架，用于列出图中所有最大集团的问题，这是网络分析，数据挖掘和计算生物学中的核心问题。我们通过不仅保留所有最优解决方案，而且还积极修剪输入实例大小，从而实现最先进算法的几倍加速，证明了我们的方法在具有数百万个顶点和边的真实网络上的实用性。最后，我们探讨了我们提出的框架的可扩展性和稳健性的局限性，表明有监督的学习对于解决实践中的NP难问题是可行的。</p>
 
@@ -270,6 +278,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Sebastian M. Krause, Hrvoje Štefančić, Vinko Zlatić, Guido Caldarelli</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1902.08483v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 一般而言，评估金融机构网络中的系统性风险需要机构间金融风险的信息。在债务等级算法的框架中，我们引入了系统风险评估的近似方法，该方法仅需要节点属性（例如总资产和负债）作为输入。我们证明这种近似可以捕获由债务等级测量的大部分系统性风险。此外，使用蒙特卡罗模拟，我们研究可以放大系统风险的网络结构。实际上，虽然如果市场是流动的，一般意义上的拓扑结构不是更先稳定的，但更大的复杂性对整体稳定性是不利的。在这里，我们发现标量相关性的度量与系统性风险水平相关。特别是，具有高系统性风险的网络结构是标量性的，这意味着风险较高的银行大多暴露于其他风险银行。具有较低系统性风险的网络结构是标量不协调的，风险银行与稳定银行的相互作用。</p>
 
 <h3 id="使用加权动态心跳图方法在twitter流中检测事件">使用加权动态心跳图方法在Twitter流中检测事件</h3>
@@ -279,6 +289,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1902.08522">http://arxiv.org/abs/1902.08522</a></p>
 
 <p>作者： Zafar Saeed, Rabeeh Ayaz Abbasi, Muhammad Imran Razzak, Guandong Xu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1902.08522v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 关于日常活动的推文发布在Twitter上。由于Twitter的内容多样且嘈杂，检测此类事件是一项具有挑战性的任务。在本文中，我们提出了一种名为加权动态心跳图（WDHG）的新方法来检测来自Twitter流的事件。一旦在Twitter流中检测到事件，WDHG就会在后期阶段对其进行抑制，以便检测新出现的事件。这种独特的特性使得所提出的方法对于有效捕获新兴事件敏感。实验在三个真实的基准数据集上进行：2012年足总杯决赛，2012年超级星期二和2012年美国大选。结果显示，在大多数情况下，现有事件检测方法有相当大的改进。</p>
 

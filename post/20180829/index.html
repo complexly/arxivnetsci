@@ -77,7 +77,7 @@
 <link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
 <link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
-<link rel="stylesheet" id="font-awesome-css" href="/wp-content/themes/hueman/fonts/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
 <link rel="stylesheet" href="/public/highlight/styles/github.css">
 <script src="/public/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
@@ -85,9 +85,9 @@
 <link rel="stylesheet" href="public/font/hack/css/hack.min.css">
 
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/jquery.jplayer.min.js"></script>
-<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
 <script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
 <script type="text/javascript" async defer src="assets/js/myblog.js"></script>
 
@@ -246,6 +246,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Shweta Jain, C. Seshadhri</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1611.05561v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： Clique数显示了关于大规模图结构的重要属性，尤其是社会网络。仅仅3个派系（三角形）的简单设置受到了研究界的广泛关注。对于较大的集团（甚至是6集团），由于组合爆炸，这个问题很快变得棘手。大多数用于三角形计数的方法不适用于大型集团，现有算法需要大规模并行才可行。我们提出了一种新的随机算法，该算法可证明接近k-cliques的数量，对于任何常数k。关键的见解是使用（强化）经典的Tur \&lsquo;an定理：这声称如果图的边密度足够高，k-clique密度必须是非平凡的。我们定义了一个名为Tur \&lsquo;an shadow的组合结构，其构造导致了clique计数的快速算法。我们基于这种理论算法设计了一种名为TUR \&lsquo;AN-SHADOW的实用启发式算法，并在一大类测试图上进行测试。在所有情况下，TUR \&lsquo;AN-SHADOW的误差小于2％，只有经过精心调整的精确算法所用时间的一小部分。我们与一系列其他采样算法进行了详细的比较，发现TUR \&lsquo;AN-SHADOW通常更快，更准确。例如，TUR \&lsquo;AN-SHADOW估计在社会网络中具有超过一亿边的所有团队数量达到10。这可以在一台商品机上不到三个小时完成。</p>
 
 <h3 id="事件注意力经济的波动性">事件注意力经济的波动性</h3>
@@ -255,6 +257,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1808.09037">http://arxiv.org/abs/1808.09037</a></p>
 
 <p>作者： Chico Q. Camargo, Scott A. Hale, Peter John, Helen Z. Margetts</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1808.09037v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 最近的选举惊喜和政权更迭给人的印象是政治变得更加快速和不稳定。虽然现代政治似乎确实更不稳定，但几乎没有系统的证据支持这种说法。本文旨在通过使用英国和德国的民意调查和传统媒体数据报告过去七十年的数据来解决这一知识差距。这些国家是值得研究的好案例，因为两者在选举行为方面经历了相当大的变化，并在研究期间有了新的政党。我们使用信息论的方法衡量公众舆论和媒体报道中的波动性，跟踪超过700,000篇文章中词汇使用模式的变化。我们的初步分析表明，随着时间的推移，意见问题的数量有所增加，而且从20世纪70年代开始，媒体系列缺乏可预测性。</p>
 
@@ -266,6 +270,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Chuang Ma, Bing-Bing Xiang, Han-Shuang Chen, Hai-Feng Zhang</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1808.09080v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 统计推断框架已成功用于检测复杂网络中的中尺度结构，如社区结构，核心 - 边（CP）结构。主要原则是随机块模型（SBM）用于拟合观测网络，学习参数表示组分配，其中模型参数通常通过期望最大化（EM）算法和信念传播来计算实施（BP）算法来计算分解本身。在BP算法的推导过程中，通过省略节点邻居的影响进行了一些近似，如果网络密集或某些节点保持较大程度，则近似不成立。结果，例如，BP算法不能很好地检测网络中的CP结构，甚至产生错误的检测，因为核心组中的节点度非常大。在此过程中，我们提出了一种改进的BP算法来解决原始BP算法中的问题，而不会增加任何计算复杂度。通过将改进的BP算法与原始BP算法进行社区检测和CP检测的比较，我们发现两种算法在网络稀疏时对社区检测具有相同的性能，对于密集网络中的社区结构或网络中的CP结构，我们改进的BP算法更好，更稳定。改进的BP算法可以帮助我们在网络中正确划分不同类型的中尺度结构。</p>
 
 <h3 id="基于图像的音乐推荐的表示学习">基于图像的音乐推荐的表示学习</h3>
@@ -275,6 +281,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1808.09198">http://arxiv.org/abs/1808.09198</a></p>
 
 <p>作者： Chih-Chun Hsia, Kwei-Herng Lai, Yian Chen, Chuan-Ju Wang, Ming-Feng Tsai</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1808.09198v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 图像感知是提供关于用户关于他/她周围环境的上下文信息的最直接方式之一;因此，图像是上下文推荐的合适代理。我们提出了一种新颖的基于图像的音乐推荐表示学习框架，它弥合了音乐与图像数据之间的异质性差距;所提出的方法是各种上下文推荐任务的关键组件。初步实验表明，对于图像到歌曲的检索任务，所提出的方法为输入图像检索相关或概念上相似的歌曲。</p>
 
@@ -286,6 +294,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Filipe N. Ribeiro, Koustuv Saha, Mahmoudreza Babaei, Lucas Henrique, Johnnatan Messias, Oana Goga, Fabricio Benevenuto, Krishna P. Gummadi, Elissa M. Redmiles</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1808.09218v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 有针对性的广告旨在提高广告客户与其客户匹配的效率。然而，有针对性的广告也可能被恶意广告商滥用，以有效地接触易受虚假故事影响的人，引发不满和煽动社会冲突。由于非定位和非易受攻击的人不会看到有向广告，因此恶意广告很可能无法报告，并且未检测到其效果。这项工作考察了一个特定的恶意广告案例，探讨俄罗斯情报研究机构（IRA）在2016年美国大选之前运行的政治广告在多大程度上利用Facebook的目标广告基础设施，有效地针对分裂或极化主题（例如移民）定位广告，针对脆弱的亚群体，基于种族的警务。特别是，我们采取以下措施：（a）我们进行美国人口普查代表性调查，以描述具有不同政治意识形态的用户\ textit {report}，\ textit {approve}和\ textit {感知真相}的内容IRA广告。我们的调查显示，许多广告都是“分裂的”：它们引起与属于不同社会显著群体的人的不同反应。 （b）我们描述了这些分裂广告如何针对那些对现状感到特别不满的子群体。我们的调查结果支持现有要求提高内容透明度和政治广告定位的呼吁。 （c）我们特别关注Facebook广告API如何促进此类定位。我们展示了Facebook如何聚合用户并向广告商提供的大量个人数据如何实现此类恶意定位。</p>
 
 <h3 id="为什么拓扑在预测人类活动方面至关重要">为什么拓扑在预测人类活动方面至关重要</h3>
@@ -295,6 +305,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1808.09274">http://arxiv.org/abs/1808.09274</a></p>
 
 <p>作者： Ding Ma, Itzhak Omer, Toshihiro Osaragi, Mats Sandberg, Bin Jiang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1808.09274v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 通过底层街道的拓扑关系（注意：整条街道而不是街道区域）可以更好地理解地理空间，这使我们能够看到比连接良好的街道更少连接的街道的尺度或分形或生活结构。正是这种潜在的尺度结构使得人类活动可以预测，尽管是集体而非个人的移动行为。这种拓扑分析尚未在文献中得到应有的重视，因为许多研究人员继续依赖分段分析来预测人类活动。基于分段分析的方法基本上是几何的，侧重于位置，长度和方向的几何细节，并且不能揭示尺度属性，这意味着它们不能用于人类活动预测。我们使用伦敦街道和推文位置数据进行了一系列案例研究，基于相关概念，如自然街道和自然街道段（或简称街道段），轴线和轴线段（或简称线段） 。我们发现，自然街道是人类活动或交通预测方面的最佳代表，其次是轴线，并且街道段和线段都不具有网络参数和推文位置之间的良好相关性。这些发现表明，基于轴线的空间句法或一般拓扑分析的工作原理与个人的旅行行为或人类概念化距离或空间的方式无关。相反，它是街道的基础扩展层次结构 - 许多连接最少，连接最少，连接最少和连接最多的一些 - 使人类活动可预测。</p>
 
@@ -306,6 +318,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Polina Rozenshtein, Francesco Bonchi, Aristides Gionis, Mauro Sozio, Nikolaj Tatti</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1808.09317v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 在本文中，我们研究了在时间网络中发现事件时间线的问题。我们将事件建模为在网络活动间隔内发生的密集子图。我们将事件发现任务表示为优化问题，其中我们搜索网络时间线的分区为k个非重叠区间，使得区间跨越具有最大总密度的子图。输出是一系列密集子图以及相应的时间间隔，捕获网络生命周期中最有趣的事件。我们的优化问题的天真解决方案具有多项式但运行时间复杂度过高。我们调整了现有的动态密集子图发现和近似动态规划的最新工作，以设计快速逼近算法。接下来，为了确保更丰富的结构，我们调整问题公式以鼓励覆盖更大的节点集。即使对于静态图，这个问题也是NP难的。然而，在静态图上，由于子模块性，简单的贪婪算法导致近似解。我们针对时间网络的情况扩展了这种贪婪的方法。但是，近似保证不成立。然而，根据实验，该算法找到了高质量的解决方案。</p>
 
 <h3 id="影响最大化算法imm的鞅分析问题">影响最大化算法IMM的鞅分析问题</h3>
@@ -315,6 +329,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1808.09363">http://arxiv.org/abs/1808.09363</a></p>
 
 <p>作者： Wei Chen</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1808.09363v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 本文解释了IMM算法的鞅分析中的一个微妙问题，IMM算法是一种最先进的影响最大化算法。提出了两种解决问题的方法，两者都需要对算法进行微小的改动，并且会对算法的运行时间造成轻微的损失。</p>
 
@@ -326,6 +342,8 @@ var _hmt = _hmt || [];
 
 <p>作者： Edoardo Galimberti, Alain Barrat, Francesco Bonchi, Ciro Cattuto, Francesco Gullo</p>
 
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1808.09376v1.pdf.jpg" alt="" /></p>
+
 <p>摘要： 当分析时间网络时，基本任务是识别密集结构（即，表现出大量链路的顶点组），以及它们的时间跨度（即，高密度保持的时间段）。我们通过引入时间核心分解的概念来解决这个任务，其中每个核心与其跨度相关联：我们称这样的核心为span-cores。由于时间间隔的总数在分析的时域 T 的大小上是二次的，因此span-cores的总数在 | T | 中也是二次的。我们的第一个贡献是一种算法，通过利用span-cores之间的包含属性，可以有效地计算所有的span-cores。然后，我们专注于仅查找最大跨度核心的问题，即，核心属性和跨度都不受任何其他跨度核心支配的跨度核心。我们设计了一种非常有效的算法，该算法利用最大化条件下的理论发现来直接计算最大值，而无需计算所有跨度核心。在几个真实世界时间网络上的实验证实了我们的方法的效率和可扩展性。时间网络上的应用，通过在学校中记录面对面交互的接近感应基础设施收集，突出了（最大）跨度核心概念在分析社会动态和检测/纠正数据中的异常方面的相关性。</p>
 
 <h3 id="科学奖网络预测谁推进了科学的边界">科学奖网络预测谁推进了科学的边界</h3>
@@ -335,6 +353,8 @@ var _hmt = _hmt || [];
 <p>地址： <a href="http://arxiv.org/abs/1808.09412">http://arxiv.org/abs/1808.09412</a></p>
 
 <p>作者： Yifang Ma, Brian Uzzi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1808.09412v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 科学奖项是科学家从同龄人那里获得的最大认可，可以说是通过赋予人，思想和学科的可信度，提供经济奖励和促进加强科学社区的仪式来塑造领域的方向。奖项和奖项之间的联系的激增表明，奖品网络体现了有关科学家的想法以及准备成长的观点。我们使用全球和跨学科的奖项和获奖者的全面新数据，检查全球科学奖网络中的增长动态和联锁关系。我们专注于理解奖项之间的知识联系以及科学家的获奖倾向如何与跨学科的知识路径和学科内的分层相关联。我们发现奖品和科学进步之间有几个关键的联系。首先，尽管随着时间的推移和全球范围内各种奖项的激增，奖品更多地集中在相对较小的科学精英群体中，精英内部的联系更加集中，这表明相对受限制的思想和学者数量引领科学。其次，我们发现某些奖项在获得多个奖项的科学家之间在学科内部和学科之间紧密联系，揭示了知识系统地通过网络获得信誉和传播的关键途径。第三，我们发现家谱和共同作者网络强烈预测谁赢得了一个或多个奖项，并解释了广受好评的科学家之间的高度互连以及他们的突破性思路。</p>
 
