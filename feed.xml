@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 19 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2021-08-20)</title>
+      <link>https://netsci.complexly.cn/post/20210820/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20210820/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;信任是衡量符号社会网络弹性的指标;&lt;/li&gt;
+&lt;li&gt;SiReN：使用图神经网络的考虑符号的推荐;&lt;/li&gt;
+&lt;li&gt;自行车传播问题;&lt;/li&gt;
+&lt;li&gt;全球建成区和人口地图：应该为印度使用哪些地图？;&lt;/li&gt;
+&lt;li&gt;Twitter 用户的连续群组显示出越来越多的活动和不断缩小的内容范围;&lt;/li&gt;
+&lt;li&gt;odeN：大型时间网络中多模体计数的同时逼近;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2021-08-19)</title>
