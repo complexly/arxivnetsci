@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 26 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2021-08-27)</title>
+      <link>https://netsci.complexly.cn/post/20210827/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20210827/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在Google地图中使用图神经网络进行 ETA 预测;&lt;/li&gt;
+&lt;li&gt;理解基于加密货币的区块链中可疑活动的资金轨迹;&lt;/li&gt;
+&lt;li&gt;空间通信系统的大偏差：布尔模型;&lt;/li&gt;
+&lt;li&gt;经济物理学的发展：来自加尔各答的有偏见的叙述和观点;&lt;/li&gt;
+&lt;li&gt;简单人工社会中财富不平等的动态;&lt;/li&gt;
+&lt;li&gt;对用于研究、实时监控和人群控制的高保真行人跟踪系统进行基准测试;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2021-08-26)</title>
