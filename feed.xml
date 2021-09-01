@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 31 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2021-09-01)</title>
+      <link>https://netsci.complexly.cn/post/20210901/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20210901/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;模块化和重尾度分布;&lt;/li&gt;
+&lt;li&gt;网络社区检测常用方法的比较和改进;&lt;/li&gt;
+&lt;li&gt;在线分裂话题的语言特征：堕胎、气候变化和枪支管制中的争议案例研究;&lt;/li&gt;
+&lt;li&gt;基于交互社会接触和生产能力图的流行病演变的向量逻辑斯蒂动力学方法;&lt;/li&gt;
+&lt;li&gt;社交联系图上概率 SIR 流行病的控制场景;&lt;/li&gt;
+&lt;li&gt;网络心理测量学和认知网络科学为检测、理解和解决数学焦虑的复杂性开辟了新途径：综述;&lt;/li&gt;
+&lt;li&gt;具有高阶交互的网络中的向量中心性;&lt;/li&gt;
+&lt;li&gt;考虑结构的硬负挖掘异构图对比学习;&lt;/li&gt;
+&lt;li&gt;社交媒体情感的表情化：纵向推特情感数据集的收集与分析;&lt;/li&gt;
+&lt;li&gt;模拟城市动态和交通基础设施项目的国际治理;&lt;/li&gt;
+&lt;li&gt;在危机时期分配刺激支票;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2021-08-31)</title>
