@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2021-09-03)</title>
+      <link>https://netsci.complexly.cn/post/20210903/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20210903/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;层级分形无标度网络的一般模型;&lt;/li&gt;
+&lt;li&gt;COVID-19 将社交聚会限制在熟悉、不那么拥挤和邻近的城市地区;&lt;/li&gt;
+&lt;li&gt;稀疏化图神经网络中的更新步骤;&lt;/li&gt;
+&lt;li&gt;Parler上协调叙事和国会大厦骚乱;&lt;/li&gt;
+&lt;li&gt;基于最优传输的时间网络的收敛特性;&lt;/li&gt;
+&lt;li&gt;超图动力学：同配性和扩展特征值;&lt;/li&gt;
+&lt;li&gt;图对比学习的实证研究;&lt;/li&gt;
+&lt;li&gt;对 Reddit 阴谋论论坛上链接的 YouTube 视频中用户评论的跨平台分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2021-09-02)</title>
