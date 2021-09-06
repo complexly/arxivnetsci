@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要5篇(2021-09-06) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+随机二部图上的协调与反协调对偶问题;
+用于异构信息网络中归纳相似性搜索的神经网络PathSim;
+论自动驾驶汽车与公共交通的相互作用;
+一种类似Tsallis的有效指数延迟贴现模型及其含义;
+COVID-19 疫苗犹豫和信息扩散：一种基于主体的建模方法;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要5篇(2021-09-06) - 网络科学研究速递">
+<meta itemprop="description" content="
+随机二部图上的协调与反协调对偶问题;
+用于异构信息网络中归纳相似性搜索的神经网络PathSim;
+论自动驾驶汽车与公共交通的相互作用;
+一种类似Tsallis的有效指数延迟贴现模型及其含义;
+COVID-19 疫苗犹豫和信息扩散：一种基于主体的建模方法;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要5篇(2021-09-06) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20210906/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+随机二部图上的协调与反协调对偶问题;
+用于异构信息网络中归纳相似性搜索的神经网络PathSim;
+论自动驾驶汽车与公共交通的相互作用;
+一种类似Tsallis的有效指数延迟贴现模型及其含义;
+COVID-19 疫苗犹豫和信息扩散：一种基于主体的建模方法;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20210906/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20210906/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要5篇(2021-09-06)</h1>
+
+                  <p class="post-byline">
+                    2021年09月06日 · 2032 字 ·
+                    阅读时间约5分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>随机二部图上的协调与反协调对偶问题;</li>
+<li>用于异构信息网络中归纳相似性搜索的神经网络PathSim;</li>
+<li>论自动驾驶汽车与公共交通的相互作用;</li>
+<li>一种类似Tsallis的有效指数延迟贴现模型及其含义;</li>
+<li>COVID-19 疫苗犹豫和信息扩散：一种基于主体的建模方法;</li>
+</ul>
+
+<p></p>
+
+<h3 id="随机二部图上的协调与反协调对偶问题">随机二部图上的协调与反协调对偶问题</h3>
+
+<p>原文标题： The dual problems of coordination and anti-coordination on random bipartite graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.01230">http://arxiv.org/abs/2109.01230</a></p>
+
+<p>作者： Matthew I. Jones, Scott D. Pauls, Feng Fu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.01230v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在某些场景（“反协调博弈”）中，个人选择与邻居不同的行动会更好，而在其他场景（“协调博弈”）中，个人选择与邻居相同的策略是有益的。尽管有不同的激励措施和由此产生的人口动态，但在很大程度上不知道哪种集体结果，反协调或协调更容易实现。为理解决这个问题，我们专注于二部图上的分布式图着色问题。我们表明，只有两种策略，反协调博弈（2-着色）和协调博弈（统一着色）是同样难以解决的双重问题。为了证明这一点，我们在特定的个体随机决策规则下构建了由相应的反协调和协调博弈产生的马尔可夫链之间的同构。我们的结果为解决网络上的集体行动问题提供了新的见解。</p>
+
+<h3 id="用于异构信息网络中归纳相似性搜索的神经网络pathsim">用于异构信息网络中归纳相似性搜索的神经网络PathSim</h3>
+
+<p>原文标题： Neural PathSim for Inductive Similarity Search in Heterogeneous Information Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.01549">http://arxiv.org/abs/2109.01549</a></p>
+
+<p>作者： Wenyi Xiao, Huan Zhao, Vincent W. Zheng, Yangqiu Song</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.01549v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： PathSim 是异构信息网络中广泛使用的基于元路径的相似性。许多应用程序依赖于 PathSim 的计算，包括相似性搜索和聚类。由于其高时间和存储复杂性，在大型图上计算 PathSim 分数在计算上具有挑战性。在本文中，我们建议将逼近真实 PathSim 分数的问题转化为学习问题。我们设计了一个基于编码器-解码器的框架 NeuPath，其中考虑了 PathSim 的算法结构。具体来说，编码器模块识别出 Top T 优化的路径实例，它可以近似地面实况 PathSim，并将每个路径实例映射到一个嵌入向量。解码器将每个嵌入向量分别转换为标量，用于标识相似度得分。我们对不同领域的两个真实世界数据集 ACM 和 IMDB 进行了大量实验。我们的结果表明，NeuPath 在 PathSim 近似任务和相似性搜索任务中的表现优于最先进的基线。</p>
+
+<h3 id="论自动驾驶汽车与公共交通的相互作用">论自动驾驶汽车与公共交通的相互作用</h3>
+
+<p>原文标题： On the Interplay between Self-Driving Cars and Public Transportation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.01627">http://arxiv.org/abs/2109.01627</a></p>
+
+<p>作者： Nicolas Lanzetti, Maximilian Schiffer, Michael Ostrovsky, Marco Pavone</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.01627v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 世界各地的城市都在努力应对超载的交通系统及其外部因素，例如交通拥堵和排放。新兴的自主交通技术有可能缓解这些问题。然而，运营大型自主车队的利润最大化运营商的决策可能会对其他利益相关者产生负面影响，例如，不成比例地蚕食公共交通，因此可能使交通系统的效率和可持续性更低。对这些权衡的仔细分析需要在统一框架内对主要交通方式（包括公共交通）进行建模。在本文中，我们提出了这样一个框架，使我们能够研究移动服务提供商、公共交通当局和客户之间的相互作用。我们的框架将交通系统的图论网络模型与博弈论市场模型相结合，其中移动服务提供商是利润最大化者，而客户则选择个性化的最佳交通选项。我们将我们的框架应用于德国柏林市的数据，并进行敏感性分析以研究移动服务提供商或市政当局可以影响的参数来引导系统。我们表明，根据市场条件和政策限制，自动乘车系统可能会补充或蚕食公共交通系统，为 7% 到 80% 的所有客户提供服务。我们讨论了这些结果差异背后的主要因素以及决策者可用的战略设计选项。其中，我们表明垄断和竞争案例产生相似的模式份额，但每个移动服务提供商的利润结果不同。</p>
+
+<h3 id="一种类似tsallis的有效指数延迟贴现模型及其含义">一种类似Tsallis的有效指数延迟贴现模型及其含义</h3>
+
+<p>原文标题： A Tsallis-like effective exponential delay discounting model and its implications</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.01317">http://arxiv.org/abs/2109.01317</a></p>
+
+<p>作者： Trambak Bhattacharyya, Shanu Shukla, Ranu Pandey</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.01317v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们提出了一种考虑冲动波动的延迟折扣的有效指数模型。该模型被视为与 Takahashi 在 2007 年提出的延迟贴现的二参数 Tsallis 模型是对偶的。我们证明该模型的参数可以与脉冲的均值和方差相关。我们的发现提供了一种直观的方式来探索社会系统中 Tsallis 分布的起源。</p>
+
+<h3 id="covid-19-疫苗犹豫和信息扩散-一种基于主体的建模方法">COVID-19 疫苗犹豫和信息扩散：一种基于主体的建模方法</h3>
+
+<p>原文标题： COVID-19 Vaccine Hesitancy and Information Diffusion: An Agent-based Modeling Approach</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.01182">http://arxiv.org/abs/2109.01182</a></p>
+
+<p>作者： Pooria Taghizadeh Naderi, Ali Asgary, Jude Kong, Jianhong Wu, Fattaneh Taghiyareh</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.01182v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 尽管针对 Cov-SARS-2 的几种有效疫苗的快速开发取得了空前的成功，但全球疫苗接种努力受到疫苗分配不平等和疫苗接受度的影响，导致疫苗产品提供的公众免疫力不足。虽然目前疫苗接受研究的主要焦点是如何根据社会人口参数对疫苗接受进行建模和告知，但疫苗接受的特征尚不清楚，特别是，尚不清楚信息传播是否以及如何影响疫苗接受。本研究通过开发具有基于主体的模拟技术的综合计算模型来克服与社会人口统计学、疫苗类型、人口统计和信息传播相关的建模和量化复杂性，研究了信息传播如何改变疫苗接受度。我们的分析根据来自加拿大各省和地区的疫苗接受度调查数据进行校准，提供了明确的证据，表明信息传播可以极大地影响疫苗接受率。结果表明，有关 COVID-19 疫苗的负面信息的传播可能会导致疫苗出现明显的犹豫，从而挑战疫苗提供的高公众免疫力的目标。我们的发现可能通过更多地关注个人的意见和行为来帮助解决疫苗犹豫问题。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20210906/">https://netsci.complexly.cn/post/20210906/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20210903/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要8篇(2021-09-03)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
