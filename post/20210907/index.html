@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要15篇(2021-09-07) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+节点特征核增加图卷积网络的鲁棒性;
+通过图元估计训练图神经网络;
+专业社区互动的社会网络分析——电影行业案例;
+社交媒体数据中表达的立场与民意调查之间的（错）对齐;
+具有长期波动需求的供应链中的模型再训练和信息共享;
+NaMo应用对推特的影响;
+从异构图检测社区：基于上下文路径的图神经网络模型;
+提供一种基于大数据和无监督学习方法的电子商务社会网络客户质量预测方法;
+TagPick：连接微视频标签和电子商务类别的系统;
+最近天线的谬误：在移动网络中充分理解设备位置;
+MONITOR：一种用于评估社会网络中消息真实性的多模态融合框架;
+城镇流行病建模中的多层网络方法;
+物理互联网的网络拓扑和健壮性;
+零和博弈的复制动力学源于一个新的泊松代数;
+随机树上的随机谣言;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要15篇(2021-09-07) - 网络科学研究速递">
+<meta itemprop="description" content="
+节点特征核增加图卷积网络的鲁棒性;
+通过图元估计训练图神经网络;
+专业社区互动的社会网络分析——电影行业案例;
+社交媒体数据中表达的立场与民意调查之间的（错）对齐;
+具有长期波动需求的供应链中的模型再训练和信息共享;
+NaMo应用对推特的影响;
+从异构图检测社区：基于上下文路径的图神经网络模型;
+提供一种基于大数据和无监督学习方法的电子商务社会网络客户质量预测方法;
+TagPick：连接微视频标签和电子商务类别的系统;
+最近天线的谬误：在移动网络中充分理解设备位置;
+MONITOR：一种用于评估社会网络中消息真实性的多模态融合框架;
+城镇流行病建模中的多层网络方法;
+物理互联网的网络拓扑和健壮性;
+零和博弈的复制动力学源于一个新的泊松代数;
+随机树上的随机谣言;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要15篇(2021-09-07) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20210907/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+节点特征核增加图卷积网络的鲁棒性;
+通过图元估计训练图神经网络;
+专业社区互动的社会网络分析——电影行业案例;
+社交媒体数据中表达的立场与民意调查之间的（错）对齐;
+具有长期波动需求的供应链中的模型再训练和信息共享;
+NaMo应用对推特的影响;
+从异构图检测社区：基于上下文路径的图神经网络模型;
+提供一种基于大数据和无监督学习方法的电子商务社会网络客户质量预测方法;
+TagPick：连接微视频标签和电子商务类别的系统;
+最近天线的谬误：在移动网络中充分理解设备位置;
+MONITOR：一种用于评估社会网络中消息真实性的多模态融合框架;
+城镇流行病建模中的多层网络方法;
+物理互联网的网络拓扑和健壮性;
+零和博弈的复制动力学源于一个新的泊松代数;
+随机树上的随机谣言;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20210907/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20210907/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要15篇(2021-09-07)</h1>
+
+                  <p class="post-byline">
+                    2021年09月07日 · 6207 字 ·
+                    阅读时间约13分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>节点特征核增加图卷积网络的鲁棒性;</li>
+<li>通过图元估计训练图神经网络;</li>
+<li>专业社区互动的社会网络分析——电影行业案例;</li>
+<li>社交媒体数据中表达的立场与民意调查之间的（错）对齐;</li>
+<li>具有长期波动需求的供应链中的模型再训练和信息共享;</li>
+<li>NaMo应用对推特的影响;</li>
+<li>从异构图检测社区：基于上下文路径的图神经网络模型;</li>
+<li>提供一种基于大数据和无监督学习方法的电子商务社会网络客户质量预测方法;</li>
+<li>TagPick：连接微视频标签和电子商务类别的系统;</li>
+<li>最近天线的谬误：在移动网络中充分理解设备位置;</li>
+<li>MONITOR：一种用于评估社会网络中消息真实性的多模态融合框架;</li>
+<li>城镇流行病建模中的多层网络方法;</li>
+<li>物理互联网的网络拓扑和健壮性;</li>
+<li>零和博弈的复制动力学源于一个新的泊松代数;</li>
+<li>随机树上的随机谣言;</li>
+</ul>
+
+<p></p>
+
+<h3 id="节点特征核增加图卷积网络的鲁棒性">节点特征核增加图卷积网络的鲁棒性</h3>
+
+<p>原文标题： Node Feature Kernels Increase Graph Convolutional Network Robustness</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.01785">http://arxiv.org/abs/2109.01785</a></p>
+
+<p>作者： Mohamed El Amine Seddik, Changmin Wu, Johannes F. Lutzeyer, Michalis Vazirgiannis</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.01785v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 经常使用的图卷积网络 (GCN) 对其输入扰动的鲁棒性正成为一个越来越重要的话题。在本文中，引入了随机 GCN，可以对其进行随机矩阵理论分析。该分析表明，如果图受到足够的扰动，或者在极端情况下是随机的，则 GCN 无法从节点特征中受益。进一步观察到，通过将节点特征内核添加到图结构的邻接矩阵来增强 GCN 中的消息传递步骤解决了这个问题。对用于在六个真实数据集上进行节点分类的 GCN 的实证研究进一步证实了理论发现，并表明图结构的扰动会导致 GCN 的性能明显低于仅在节点特征上运行的多层感知器。在实践中，将节点特征内核添加到扰动图的消息传递会显著提高 GCN 的性能，从而使其对图扰动更加鲁棒。我们的代码公开在：<a href="https://github.com/ChangminWu/RobustGCN。">https://github.com/ChangminWu/RobustGCN。</a></p>
+
+<h3 id="通过图元估计训练图神经网络">通过图元估计训练图神经网络</h3>
+
+<p>原文标题： Training Graph Neural Networks by Graphon Estimation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.01918">http://arxiv.org/abs/2109.01918</a></p>
+
+<p>作者： Ziqing Hu, Yihao Fang, Lizhen Lin</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.01918v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在这项工作中，我们建议通过从底层网络数据获得的图估计中重新采样来训练图神经网络。更具体地说，首先获得底层网络的图或链接概率矩阵，在每一层的训练过程中，将从中重新采样和使用新网络。由于重采样引起的不确定性，它有助于缓解图神经网络 (GNN) 模型中众所周知的过度平滑问题。我们的框架是通用的、计算效率高且概念简单的。我们方法的另一个吸引人的特点是它在训练过程中需要最少的额外调整。广泛的数值结果表明，我们的方法与其他过度平滑减少 GNN 训练方法相比具有竞争力，并且在许多情况下优于其他方法。</p>
+
+<h3 id="专业社区互动的社会网络分析-电影行业案例">专业社区互动的社会网络分析——电影行业案例</h3>
+
+<p>原文标题： Social Network Analysis of the Professional Community Interaction &ndash; Movie Industry Case</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.01722">http://arxiv.org/abs/2109.01722</a></p>
+
+<p>作者： Ilia Karpov, Roman Marakulin</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.01722v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 随着电影制作市场竞争的加剧，由于 Netflix、Hulu、HBO Max 和 Amazon Prime 等新玩家的主要目标是制作大量独家内容以获得竞争优势，因此最大限度地减少不成功标题的数量非常重要。本文基于电影行业社区结构，重点介绍预测电影成功的新方法，并强调选角导演在电影成功中的作用。基于公开可用的数据，我们创建了一个“演员”-“选角导演”-“人才主体”-“导演”通信图，并表明使用附加知识可以更好地预测电影评级。</p>
+
+<h3 id="社交媒体数据中表达的立场与民意调查之间的-错-对齐">社交媒体数据中表达的立场与民意调查之间的（错）对齐</h3>
+
+<p>原文标题： (Mis)alignment Between Stance Expressed in Social Media Data and Public Opinion Surveys</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.01762">http://arxiv.org/abs/2109.01762</a></p>
+
+<p>作者： Kenneth Joseph, Sarah Shugars, Ryan Gallagher, Jon Green, Alexi Quintana Mathé, Zijian An, David Lazer</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.01762v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 立场检测旨在确定个人是支持还是反对目标概念，有望从大量社交媒体数据流中发现公众意见。然而，即使是对社交媒体内容的人工注释也并不总能捕捉到民意调查所衡量的“立场”。我们通过直接比较个人自我报告的立场与从他们的社交媒体数据推断出的立场来证明这一点。利用对受访者 Twitter 句柄进行的纵向民意调查，我们对四个显著目标的 1,129 个人进行了此比较。我们发现“赞成”和“反对”立场分类的召回率都很高，但在许多情况下精度是可变的。我们确定了导致文本和作者立场脱节的三个因素：时间不一致、结构差异以及调查受访者和注释者的测量错误。通过提出一个评估姿态检测模型局限性的框架，这项工作提供了对姿态检测真正测量什么的重要见解。</p>
+
+<h3 id="具有长期波动需求的供应链中的模型再训练和信息共享">具有长期波动需求的供应链中的模型再训练和信息共享</h3>
+
+<p>原文标题： Model retraining and information sharing in a supply chain with long-term fluctuating demands</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.01784">http://arxiv.org/abs/2109.01784</a></p>
+
+<p>作者： Takahiro Ezaki, Naoto Imura, Katsuhiro Nishinari</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.01784v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 基于经验数据的需求预测是优化供应链的可行方法。然而，在这种方法中，由于环境的长期变化，从过去的数据构建的模型偶尔会变得过时，在这种情况下，应该使用最新数据更新（即重新训练）模型。在这项研究中，我们检查了使用最小设置更新供应链模型的效果。我们证明，当供应链中的每一方都有自己的预测模型时，即使应用非常简单的补货政策，不协调的模型再训练也会导致牛鞭效应。我们的结果还表明，在相关各方之间共享预测模型会显著降低牛鞭效应。</p>
+
+<h3 id="namo应用对推特的影响">NaMo应用对推特的影响</h3>
+
+<p>原文标题： Influence of NaMo App on Twitter</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.01936">http://arxiv.org/abs/2109.01936</a></p>
+
+<p>作者： Shreya Sharma, Samiya Caur, Hitkul, Ponnurangam Kumaraguru</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.01936v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 社交媒体在当今社会中发挥着至关重要的作用。它导致人们如何联系和交流、传达和交流思想的范式变化。此外，社交媒体已经发展成为消费者的关键知识网络，也影响着决策。在选举中，社交媒体成为政治竞选活动的一个组成部分，以吸引更多受众并获得更多支持。 2019 年 Lok Sabha 选举见证了 Twitter、Facebook 和 WhatsApp 等在线社交媒体平台的使用量激增；每个主要政党都发起了自己有组织的社交媒体活动。 2014 年，Bhartiya Janta Party (BJP) 通过推出其应用程序 - NaMo 应用程序，在组织活动方面领先一步。在 2019 年人民院选举和 CAA 抗议期间，我们将研究重点放在 Twitter 和 NaMo App 上。 Twitter 是一个平台，每个人都可以在其中表达自己的观点，而且没有偏见。相比之下，NaMo App 是最早以特定政党为中心的应用程序之一。它充当 BJP 的数字媒体，用于组织政治运动，使人们的意见对他们有利。这项研究旨在描述 NaMo 应用程序在更传统的网络（如 Twitter）中在塑造政治话语方面的作用，并研究在线回声室的存在。我们首先分析了在 Twitter 上使用 NaMo 应用程序共享的内容的数量和类型。我们对回声室的存在进行了内容和网络分析。我们还应用了 Hawkes 过程来查看 NaMo App 在 Twitter 上的影响。通过这项研究，我们可以得出结论，使用 NaMo App 共享内容的用户可能是在线回声室的一部分，并且很可能是 BJP 工作人员。我们展示了 NaMo 应用程序在 Twitter 上的覆盖面和影响力要小得多，这表明它无法突破多样化的受众并改变 Twitter 上的叙述。</p>
+
+<h3 id="从异构图检测社区-基于上下文路径的图神经网络模型">从异构图检测社区：基于上下文路径的图神经网络模型</h3>
+
+<p>原文标题： Detecting Communities from Heterogeneous Graphs: A Context Path-based Graph Neural Network Model</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.02058">http://arxiv.org/abs/2109.02058</a></p>
+
+<p>作者： Linhao Luo, Yixiang Fang, Xin Cao, Xiaofeng Zhang, Wenjie Zhang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.02058v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 社区检测旨在将图节点分组为具有密集内部连接的集群，是一项基本的图挖掘任务。最近，对包含多种类型节点和边的异构图进行了研究，这对建模节点之间的高阶关系提出了很大的挑战。随着图嵌入机制的激增，它也被用于社区检测。一组出色的作品使用元路径来刻画节点之间的高阶关系并将它们嵌入到节点的嵌入中以促进社区检测。然而，定义有意义的元路径需要大量的领域知识，这在很大程度上限制了它们的应用，特别是在知识图等模式丰富的异构图上。为了缓解这个问题，在本文中，我们建议利用上下文路径来刻画节点之间的高阶关系，并构建基于上下文路径的图神经网络（CP-GNN）模型。它通过注意力机制将节点之间的高阶关系递归地嵌入到节点嵌入中，以区分不同关系的重要性。通过最大化上下文路径连接的节点共现的期望，该模型可以学习节点的嵌入，这些嵌入既可以很好地保留节点之间的高阶关系，又有助于社区检测。在四个真实世界数据集上的大量实验结果表明，CP-GNN 优于最先进的社区检测方法。</p>
+
+<h3 id="提供一种基于大数据和无监督学习方法的电子商务社会网络客户质量预测方法">提供一种基于大数据和无监督学习方法的电子商务社会网络客户质量预测方法</h3>
+
+<p>原文标题： Providing an Approach to Predicting Customer Quality in E-Commerce Social Networks Based on Big Data and Unsupervised Learning Method</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.02080">http://arxiv.org/abs/2109.02080</a></p>
+
+<p>作者： Mohammad Arab</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.02080v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 每个企业的目标之一是提高客户忠诚度。客户忠诚度称为客户质量，其预测将影响战略营销实践。本研究的目的是通过大数据算法和无监督学习来预测大型电子商务社会网络的客户质量。为此，在斯坦福网络分析平台（SNAP）中使用基于图的社会网络分析框架进行社区检测。然后在找到的社区中，预测客户的质量。结果显示，影响为37.13%的各种访问对客户质量的影响最大，其他参数的影响顺序从高到低依次为：频繁访问客户的次数（28.56%）、在社会网络中的作用（28.37） %)、间接交易 (26.74%)、活动天数 (25.62%) 和客户社会网络规模 (25.06%)。</p>
+
+<h3 id="tagpick-连接微视频标签和电子商务类别的系统">TagPick：连接微视频标签和电子商务类别的系统</h3>
+
+<p>原文标题： TagPick: A System for Bridging Micro-Video Hashtags and E-commerce Categories</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.02094">http://arxiv.org/abs/2109.02094</a></p>
+
+<p>作者： Li He, Dingxian Wang, Hanzhang Wang, Hongxu Chen, Guandong Xu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.02094v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： Hashtag，用户标签行为的产物，可以很好地描述用户生成内容的语义，通过社会网络应用，例如最近流行的微视频。 Hashtags 已被广泛用于促进各种微视频检索场景，例如搜索引擎和分类。为了利用微媒体平台上的标签进行有效的电子商务营销活动，电子商务行业需要开发一种映射算法，将其类别和微视频标签连接起来。因此，在本演示论文中，我们提出了一种称为 TagPick 的新颖解决方案，该解决方案将来自所有用户行为元数据（主题标签、交互、多媒体信息）以及关系数据（基于图的网络）的线索整合到一个统一的系统中，以揭示 e - 工业场景中的商业类别和主题标签。特别是，我们提供了标签级别的流行度策略来为电子商务平台（例如 eBay）推荐相关的主题标签。</p>
+
+<h3 id="最近天线的谬误-在移动网络中充分理解设备位置">最近天线的谬误：在移动网络中充分理解设备位置</h3>
+
+<p>原文标题： The fallacy of the closest antenna: Towards an adequate view of device location in the mobile network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.02154">http://arxiv.org/abs/2109.02154</a></p>
+
+<p>作者： Aleksey Ogulenko, Itzhak Benenson, Marina Toger, John Östh, Alexey Siretskiy</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.02154v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 将移动电话网络 (MPN) 服务区划分为蜂窝塔的 Voronoi 多边形 (VP) 可以用作表示移动电话设备位置的坐标系。许多利用手机数据研究人类空间移动性的论文都认同这一观点。我们通过比较两种志愿者的位置数据来调查这种观点的可信度：（1）为志愿者连接提供服务的手机信号塔和（2）连接时用户的 GPS 轨迹。在超过 60% 的连接中，用户的移动设备被发现位于用于连接的蜂窝塔的 VP 之外。我们证明了可能设备位置的区域比蜂窝塔的 VP 区域大很多倍。为了包括可以连接到蜂窝塔的设备的可能位置的 90%，必须考虑塔的 VP 以及与塔的 VP 相邻的两个 VP 环。需要额外的第三个相邻 VP 环来包含可连接到蜂窝塔的设备的可能位置的 95%。显示的位置不确定性是 MPN 结构和服务的性质，并且需要蜂窝塔服务区域之间的基本重叠。我们讨论了这种不确定性在估计位置隐私和城市流动性方面的深远影响。我们的结果破坏了今天的主流观点，即获得对 MPN 运营商维护的呼叫详细记录数据库的访问权限的对手可以根据非常短的带时间戳的现场观察序列识别移动设备而不知道其编号。用户的连接。</p>
+
+<h3 id="monitor-一种用于评估社会网络中消息真实性的多模态融合框架">MONITOR：一种用于评估社会网络中消息真实性的多模态融合框架</h3>
+
+<p>原文标题： MONITOR: A Multimodal Fusion Framework to Assess Message Veracity in Social Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.02271">http://arxiv.org/abs/2109.02271</a></p>
+
+<p>作者： Abderrazek Azri (ERIC), Cécile Favre (ERIC), Nouria Harbi (ERIC), Jérôme Darmont (ERIC), Camille Noûs</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.02271v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 社会网络的用户倾向于不受限制地发布和共享内容。因此，谣言和假新闻可以迅速大规模传播。这可能对社交媒体的可信度构成威胁，并可能在现实生活中造成严重后果。因此，谣言检测和验证的任务变得极为重要。评估社交媒体消息的真实性（例如，通过事实核查人员）涉及分析消息的文本、上下文和任何多媒体附件。这是一项非常耗时的任务，机器学习可以提供很大帮助。在文献中，大多数消息真实性验证方法仅利用文本内容和元数据。很少有人同时考虑文本和视觉内容，尤其是图像。在本文中，我们提出了一个假设，即利用社交媒体帖子的所有组件可以提高真实性检测的准确性。为了进一步发展现有技术，我们首先建议使用一组受图像质量评估领域启发的高级图像特征，这有效地有助于谣言检测。这些指标是检测假图像的良好指标，即使对于由生成对抗网络 (GAN) 等先进技术生成的图像也是如此。然后，我们引入了多模态融合框架来评估社会网络中的消息真实性（MONITOR），该框架通过有监督的机器学习利用所有消息特征（即文本、社交上下文和图像特征）。此类算法在所采取的决策中提供了可解释性和可解释性，我们认为这在谣言验证的背景下尤为重要。实验结果表明，MONITOR 在 MediaEval 基准和 FakeNewsNet 数据集上分别以 96% 和 89% 的准确率检测谣言。这些结果明显优于最先进的机器学习基线。</p>
+
+<h3 id="城镇流行病建模中的多层网络方法">城镇流行病建模中的多层网络方法</h3>
+
+<p>原文标题： Multi-layer network approach in modeling epidemics in an urban town</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.02272">http://arxiv.org/abs/2109.02272</a></p>
+
+<p>作者： Meliksah Turker, Haluk O. Bingol</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.02272v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 过去 2 年是不平凡的一年，Covid-19 大流行造成数百万人死亡，影响和困扰着全球数十亿人。国家和城镇采取了各种措施，例如将学校和工作转移到偏远地区，通过宵禁禁止社交。为了估计这些锁定场景的影响，我们提出了一个多层无向加权网络，其中顶点是倾向于在本地进行交互的城镇个体。在这个网络中，有“家庭”、“工作”、“学校”、“朋友”等七层。层中的边代表可能导致疾病传播的相互作用。根据相互作用的类型和强度，传输概率被分配给边。使用这种分层架构，可以通过添加或删除层来模拟各种锁定场景。我们的模拟表明，锁定“朋友”层的影响最大。</p>
+
+<h3 id="物理互联网的网络拓扑和健壮性">物理互联网的网络拓扑和健壮性</h3>
+
+<p>原文标题： Network topology and robustness of Physical Internet</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.02290">http://arxiv.org/abs/2109.02290</a></p>
+
+<p>作者： Takahiro Ezaki, Naoto Imura, Katsuhiro Nishinari</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.02290v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 物理互联网 (PI) 是物流系统的新范式概念，其特点是通过分散和标准化具有灵活性和效率。在PI中，可以从目前可用的路径中灵活选择货物的派送路线，比传统系统更好地利用运输资源。然而，关于 PI 中交通拥堵动态的知识仍然有限。在这里，为了有助于理解 PI 的动态特征，我们通过使用一个提取问题本质的简单模型来检查网络交付系统的鲁棒性。我们对算法类型、网络结构和运输能力的各种条件以及模拟需求变化的三种场景进行了广泛的蒙特卡罗模拟：(i) 局部和暂时增加的交通需求； (ii) 全球和暂时增加的交通需求； (iii) 需求模式的永久性变化。我们表明自适应算法在包含许多旁路路由的网络（例如，方格和随机网络）而不是中心辐射网络中更有效。此外，方形网格和随机网络对于需求模式的变化和交付路径的时间阻塞（例如，由于高需求）具有鲁棒性。我们认为这种优选的特性是网络冗余和旁路结构之间的权衡关系，是设计网络物流的重要标准之一。</p>
+
+<h3 id="零和博弈的复制动力学源于一个新的泊松代数">零和博弈的复制动力学源于一个新的泊松代数</h3>
+
+<p>原文标题： The Replicator Dynamics of Zero-Sum Games Arise from a Novel Poisson Algebra</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.02421">http://arxiv.org/abs/2109.02421</a></p>
+
+<p>作者： Christopher Griffin</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.02421v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们表明，零和博弈的复制器动态是由非规范括号引起的，该括号是泊松括号和南部括号之间的混合体。由此产生的非规范括号由偏对称支付矩阵和中介函数参数化。中介函数有时只是一个守恒量，但在动力学的确定中起着关键作用。作为副产品，我们表明对于复制器动力学，该函数出现在自然度量的定义中，在该度量上保留了相流量。此外，我们表明，除了雅可比恒等式 (JI) 外，非规范括号满足所有与泊松括号相同的恒等式，它满足中介函数的特殊情况。特别是，产生复制动态的中介函数产生了满足 JI 的括号。这巧妙地解释了为什么中介函数允许我们推导出相流守恒的度量，并为零和博弈提出了一种自然几何，它扩展了泊松括号的辛几何，并可能是量化演化博弈的替代方法。</p>
+
+<h3 id="随机树上的随机谣言">随机树上的随机谣言</h3>
+
+<p>原文标题： Stochastic rumors on random trees</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.02564">http://arxiv.org/abs/2109.02564</a></p>
+
+<p>作者： Valdivino V. Junior, Pablo M. Rodriguez, Adalto Speroto</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.02564v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： Maki-Thompson 谣言模型的定义是假设一个图所代表的群体被细分为三类个体；即无知者、传播者和扼杀者。传播者以速率 1 将谣言告诉任何最近的无知邻居。以同样的速度，一个传播者在与其他最近的邻居传播者或 stifler 接触后变成一个 stifler。在这项工作中，我们研究了随机树上的模型。像往常一样，我们将模型的关键参数定义为谣言几乎肯定会灭绝或以正概率存活的临界值。我们分析了有关谣言生存的相变的存在，并获得了谣言平均范围的估计值。我们的结果的适用性通过一些著名的离散分布生成的随机树的例子来说明。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20210907/">https://netsci.complexly.cn/post/20210907/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20210906/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要5篇(2021-09-06)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
