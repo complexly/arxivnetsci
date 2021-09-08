@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2021-09-08)</title>
+      <link>https://netsci.complexly.cn/post/20210908/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20210908/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有节点级反馈的独立级联模型的在线学习;&lt;/li&gt;
+&lt;li&gt;HMSG：基于元路径子图学习的异构图神经网络;&lt;/li&gt;
+&lt;li&gt;在战略、战术和操作层面校准人群疏散模拟参数：哪一个最重要？;&lt;/li&gt;
+&lt;li&gt;使用关系图变换器进行异质性 Twitter 机器人检测;&lt;/li&gt;
+&lt;li&gt;GeneNet VR：使用独立头戴对大规模生物网络进行交互式可视化;&lt;/li&gt;
+&lt;li&gt;不平等主体之间的互动是否会削弱地位低下的主体？;&lt;/li&gt;
+&lt;li&gt;应用于车辆自组织网络的时间复杂网络建模;&lt;/li&gt;
+&lt;li&gt;无标度网络中的对角线度相关性与流行阈值;&lt;/li&gt;
+&lt;li&gt;高阶网络的 PageRank 计算;&lt;/li&gt;
+&lt;li&gt;具有非对称单元传输模型的串联运输网络中的路线预留架构;&lt;/li&gt;
+&lt;li&gt;使用实时混合临界系统在主干道网络中路由应急车辆;&lt;/li&gt;
+&lt;li&gt;未来Hyperloops能否替代高铁？;&lt;/li&gt;
+&lt;li&gt;鼓励平等访问网络中有影响力者的推荐算法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2021-09-07)</title>
