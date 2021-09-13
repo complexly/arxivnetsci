@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 10 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2021-09-13)</title>
+      <link>https://netsci.complexly.cn/post/20210913/</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20210913/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GenCAT：生成具有类、属性和拓扑之间受控关系的属性图;&lt;/li&gt;
+&lt;li&gt;FR-Detect：使用发布者功能在社交媒体上进行早期假新闻检测的多模式框架;&lt;/li&gt;
+&lt;li&gt;评估基于流量的市场耦合与高间歇发电份额限制的政策影响：中西欧案例研究;&lt;/li&gt;
+&lt;li&gt;WikiCSSH：从维基百科中提取和评估计算机科学主题词;&lt;/li&gt;
+&lt;li&gt;时间超图的共识动态;&lt;/li&gt;
+&lt;li&gt;通过图模型推理和凸规划预测和预防流行病;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2021-09-10)</title>

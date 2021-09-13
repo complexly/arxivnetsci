@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要6篇(2021-09-13) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+GenCAT：生成具有类、属性和拓扑之间受控关系的属性图;
+FR-Detect：使用发布者功能在社交媒体上进行早期假新闻检测的多模式框架;
+评估基于流量的市场耦合与高间歇发电份额限制的政策影响：中西欧案例研究;
+WikiCSSH：从维基百科中提取和评估计算机科学主题词;
+时间超图的共识动态;
+通过图模型推理和凸规划预测和预防流行病;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要6篇(2021-09-13) - 网络科学研究速递">
+<meta itemprop="description" content="
+GenCAT：生成具有类、属性和拓扑之间受控关系的属性图;
+FR-Detect：使用发布者功能在社交媒体上进行早期假新闻检测的多模式框架;
+评估基于流量的市场耦合与高间歇发电份额限制的政策影响：中西欧案例研究;
+WikiCSSH：从维基百科中提取和评估计算机科学主题词;
+时间超图的共识动态;
+通过图模型推理和凸规划预测和预防流行病;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要6篇(2021-09-13) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20210913/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+GenCAT：生成具有类、属性和拓扑之间受控关系的属性图;
+FR-Detect：使用发布者功能在社交媒体上进行早期假新闻检测的多模式框架;
+评估基于流量的市场耦合与高间歇发电份额限制的政策影响：中西欧案例研究;
+WikiCSSH：从维基百科中提取和评估计算机科学主题词;
+时间超图的共识动态;
+通过图模型推理和凸规划预测和预防流行病;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20210913/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20210913/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要6篇(2021-09-13)</h1>
+
+                  <p class="post-byline">
+                    2021年09月13日 · 2757 字 ·
+                    阅读时间约6分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>GenCAT：生成具有类、属性和拓扑之间受控关系的属性图;</li>
+<li>FR-Detect：使用发布者功能在社交媒体上进行早期假新闻检测的多模式框架;</li>
+<li>评估基于流量的市场耦合与高间歇发电份额限制的政策影响：中西欧案例研究;</li>
+<li>WikiCSSH：从维基百科中提取和评估计算机科学主题词;</li>
+<li>时间超图的共识动态;</li>
+<li>通过图模型推理和凸规划预测和预防流行病;</li>
+</ul>
+
+<p></p>
+
+<h3 id="gencat-生成具有类-属性和拓扑之间受控关系的属性图">GenCAT：生成具有类、属性和拓扑之间受控关系的属性图</h3>
+
+<p>原文标题： GenCAT: Generating Attributed Graphs with Controlled Relationships between Classes, Attributes, and Topology</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.04639">http://arxiv.org/abs/2109.04639</a></p>
+
+<p>作者： Seiji Maekawa, Yuya Sasaki, George Fletcher, Makoto Onizuka</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.04639v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 生成带有节点标签的大型合成属性图是支持各种图分析方法实验研究的重要任务。现有的图生成器无法同时模拟真实世界图所展示的标签、属性和拓扑之间的关系。受此限制的启发，我们提出了 GenCAT，一种用于控制这些关系的属性图生成器，它具有以下优点。 (i) GenCAT 生成具有用户指定节点度数的图，并通过将每个节点的连接比例合并到类中来灵活控制节点和标签之间的关系。 (ii) 生成的属性值遵循用户指定的分布，用户可以灵活控制属性和标签之间的相关性。 (iii) 图生成与边数成线性关系。 GenCAT 是第一个支持所有这三个实用功能的生成器。通过大量的实验，我们证明了 GenCAT 可以有效地生成高质量的复杂属性图，这些图具有用户控制的标签、属性和拓扑之间的关系。</p>
+
+<h3 id="fr-detect-使用发布者功能在社交媒体上进行早期假新闻检测的多模式框架">FR-Detect：使用发布者功能在社交媒体上进行早期假新闻检测的多模式框架</h3>
+
+<p>原文标题： FR-Detect: A Multi-Modal Framework for Early Fake News Detection on Social Media Using Publishers Features</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.04835">http://arxiv.org/abs/2109.04835</a></p>
+
+<p>作者： Ali Jarrahi, Leila Safari</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.04835v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 近年来，随着互联网的扩展和有吸引力的社交媒体基础设施，人们更愿意通过这些媒体关注新闻。尽管这些媒体在新闻领域具有诸多优势，但缺乏任何控制和验证机制导致假新闻的传播，成为对民主、经济、新闻和言论自由的最重要威胁之一。设计和使用自动方法来检测社交媒体上的虚假新闻已成为一项重大挑战。在本文中，我们研究了出版商在检测社交媒体上的虚假新闻方面的作用。我们还提出了一种高精度的多模态框架，即 FR-Detect，它使用具有早期检测能力的用户相关和内容相关特征。为此，我们为发布商引入了两个与用户相关的新功能，即活动可信度和影响力。此外，还提供了一个句子级卷积神经网络，以将这些特征与潜在的文本内容特征适当地结合起来。实验结果表明，发布者的特征可以将基于内容的模型在准确率和 F1 分数方面的性能分别提高 13% 和 29%。</p>
+
+<h3 id="评估基于流量的市场耦合与高间歇发电份额限制的政策影响-中西欧案例研究">评估基于流量的市场耦合与高间歇发电份额限制的政策影响：中西欧案例研究</h3>
+
+<p>原文标题： Evaluating Policy Implications on the Restrictiveness of Flow-based Market Coupling with High Shares of Intermittent Generation: A Case Study for Central Western Europe</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.04940">http://arxiv.org/abs/2109.04940</a></p>
+
+<p>作者： Richard Weinhold</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.04940v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 欧洲内部电力市场发展的当前阶段是向可再生能源系统转型。清洁能源一揽子计划旨在确保作为欧洲内部电力市场中心的容量分配和拥堵管理方法与这一转型保持一致。基于流量的市场耦合是容量分配的首选方法，首先是将交换容量分配给市场的正式过程。但是，该过程还考虑了影响最终能力的相关方的许多考虑因素。作为清洁能源一揽子计划的一部分，监管机构通过强制输电系统运营商分配物理线路容量的最低限度来实现提高交换容量的雄心，目标是提供更高水平的竞争和更好地整合可再生能源。本研究调查了基于流量的市场耦合的这一和其他政策相关考虑。模型结果量化了许可容量分配和增加拥塞管理之间的权衡。对于高份额的间歇性可再生能源发电，较少受限制的交换能力是有利的，但也突出了市场整合高份额间歇性发电能力的重要性。容量是有利的，但也突出了市场整合高份额间歇性发电能力的重要性。</p>
+
+<h3 id="wikicssh-从维基百科中提取和评估计算机科学主题词">WikiCSSH：从维基百科中提取和评估计算机科学主题词</h3>
+
+<p>原文标题： WikiCSSH: Extracting and Evaluating Computer Science Subject Headings from Wikipedia</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.04945">http://arxiv.org/abs/2109.04945</a></p>
+
+<p>作者： Kanyao Han, Pingjing Yang, Shubhanshu Mishra, Jana Diesner</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.04945v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 层次结构特定于领域的分类模式（或主题词表）通常用于识别、分类和消除学术文章中出现的概念。在这项工作中，我们开发、应用和评估了一个人在环工作流，该工作流首先从众包维基百科数据中提取初始类别树，然后结合社区检测、机器学习和手工启发式或规则修剪初始树。这项工作产生了 WikiCSSH；用于计算机科学 (CS) 领域的大规模、分层组织的词汇表。我们的评估表明 WikiCSSH 在词汇量大小以及从学术数据中提取基于词典的关键短语的性能方面优于替代 CS 词汇表。 WikiCSSH 可以进一步区分粗粒度和细粒度 CS 概念。概述的工作流可以用作为维基百科中涵盖的其他领域构建分层组织的主题词词汇表的模板。</p>
+
+<h3 id="时间超图的共识动态">时间超图的共识动态</h3>
+
+<p>原文标题： Consensus dynamics on temporal hypergraphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.04985">http://arxiv.org/abs/2109.04985</a></p>
+
+<p>作者： Leonie Neuhäuser, Renaud Lambiotte, Michael T. Schaub</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.04985v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们研究了时间超图上的共识动态，这些超图对具有时间依赖、多路交互的网络系统进行编码。我们将这种动态与这种高阶网络表示的适当投影进行比较，该表示将时间、多路组件或两者都展平。对于线性平均共识动力学，我们发现具有多路交互的随机切换时变系统的收敛速度比具有成对交互的相应系统的收敛慢，这反过来又比具有共识动力学的收敛速度慢对应的静态网络。然后我们在时间设置中考虑非线性共识动力学模型。在这里我们发现，除了对收敛速度的影响之外，时间系统的最终共识值可能与聚合的静态超图的共识大不相同。特别是，我们观察到在共识形成过程中的先发优势：如果在早期活跃的超边中存在局部多数意见，则这些先发群体中的多数对最终共识值的影响更大——a在时间超图的投影中以这种形式无法观察到的行为。</p>
+
+<h3 id="通过图模型推理和凸规划预测和预防流行病">通过图模型推理和凸规划预测和预防流行病</h3>
+
+<p>原文标题： Prediction and Prevention of Pandemics via Graphical Model Inference and Convex Programming</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.04517">http://arxiv.org/abs/2109.04517</a></p>
+
+<p>作者： Mikhail Krechetov, Amir Mohammad Esmaieeli Sikaroudi, Alon Efrat, Valentin Polishchuk, Michael Chertkov</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.04517v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 难以预测的 COVID-19 大流行爆发揭示了统计建模的重要性，该建模将解决地理区域的时空相关性，例如感染在人口普查区粒度的城市中的传播。在这份手稿中，我们为以下两个相互关联的公共卫生挑战提供了算法答案。 (1) 推理挑战：假设城市中有 N 个人口普查区块（节点），并在任何一组节点上给定初始感染，到该时间点，人口普查区块子集被感染的概率是多少？感染爆发的传播是否稳定？ (2) 预防挑战：为了最小化稳定状态足迹的受感染部分，可以采取的最小控制措施是什么？为了应对挑战，我们构建了一个有吸引力的 Ising（成对，二进制）类型的流行病图模型，其中每个节点代表一个人口普查轨迹，每个边因子代表一对节点之间成对交互的强度。我们表明，在稠密图上几乎所有有吸引力的 Ising 模型都会导致最可能状态的两种模式之一：要么所有最初未感染的节点都被感染，要么所有最初未感染的节点保持未感染。推理挑战的这种双模式解决方案允许我们将预防挑战重新表述为以下易处理的凸规划：对于具有成对和偏差因子的裸 Ising 模型，代表没有预防措施的系统，这样 MAP 状态是对于至少一个初始感染模式完全感染，在 1_1 范数中找到最接近的一组因素，这些因素导致 Ising 模型的所有 MAP 状态，并应用最佳预防措施，变得安全。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20210913/">https://netsci.complexly.cn/post/20210913/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20210910/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要13篇(2021-09-10)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
