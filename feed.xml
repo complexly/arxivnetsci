@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 14 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2021-09-15)</title>
+      <link>https://netsci.complexly.cn/post/20210915/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20210915/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;由于 COVID-19 而在线教学的学生网络：牢固的友谊关系和物理和数学课程中感知的学术声望的学术影响;&lt;/li&gt;
+&lt;li&gt;引用指标与获得诺贝尔奖或阿贝尔奖之间的相关系数;&lt;/li&gt;
+&lt;li&gt;大流行期间健康通行证的有效数学建模;&lt;/li&gt;
+&lt;li&gt;面对 COVID-19 的伊比利亚美洲事实核查人员。 Facebook 上的活动分析;&lt;/li&gt;
+&lt;li&gt;在线导航中的信息茧;&lt;/li&gt;
+&lt;li&gt;COVID-19 大流行对学术生产力的影响;&lt;/li&gt;
+&lt;li&gt;PETGEN：基于深度序列嵌入的分类模型的个性化文本生成攻击;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2021-09-14)</title>
