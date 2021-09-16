@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2021-09-16)</title>
+      <link>https://netsci.complexly.cn/post/20210916/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20210916/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过基于扩散小波的节点特征分布表征进行图嵌入;&lt;/li&gt;
+&lt;li&gt;人类流动的尺度;&lt;/li&gt;
+&lt;li&gt;使用应力优先化嵌入节点结构角色标识;&lt;/li&gt;
+&lt;li&gt;洋葱类网络中的α间接控制;&lt;/li&gt;
+&lt;li&gt;信号交叉口对重型车辆 CO_2 和 NO_x 排放的影响;&lt;/li&gt;
+&lt;li&gt;具有不可减少环境不确定性的演化强化学习动态;&lt;/li&gt;
+&lt;li&gt;电池数据组原理;&lt;/li&gt;
+&lt;li&gt;在 COVID-19 期间预测 Twitter 上的反亚洲仇恨用户;&lt;/li&gt;
+&lt;li&gt;用于船舶在受限水域中的路径规划和安全航行的考虑搁浅的RRT;&lt;/li&gt;
+&lt;li&gt;政府运动：Twitter 是理解印度和美国运动员参与公益事业的窗口;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2021-09-15)</title>
