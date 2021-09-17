@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2021-09-17)</title>
+      <link>https://netsci.complexly.cn/post/20210917/</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20210917/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用Node2vec+在加权图上准确建模有偏随机游走;&lt;/li&gt;
+&lt;li&gt;检验流行病检测的有效性;&lt;/li&gt;
+&lt;li&gt;COVID-19 对体育博彩市场的影响;&lt;/li&gt;
+&lt;li&gt;一种基于影响者的方法来理解激进右翼病毒推文;&lt;/li&gt;
+&lt;li&gt;时变网络中的同步;&lt;/li&gt;
+&lt;li&gt;COVID-19 大流行期间美国口腔健康的社会差异;&lt;/li&gt;
+&lt;li&gt;社交媒体假新闻研究综述：网络和语言的故事;&lt;/li&gt;
+&lt;li&gt;通过朋友对社交媒体使用的影响预测用户价值变化;&lt;/li&gt;
+&lt;li&gt;Hetero-SCAN：通过异构图神经网络实现社会情境感知假新闻检测;&lt;/li&gt;
+&lt;li&gt;社会网络分析中的语义价值概念：在比较神话学中的应用;&lt;/li&gt;
+&lt;li&gt;源-汇合作动态限制了群体结构社会中的制度演进;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-09-16)</title>

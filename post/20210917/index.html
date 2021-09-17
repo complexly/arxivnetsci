@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要11篇(2021-09-17) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+使用Node2vec&#43;在加权图上准确建模有偏随机游走;
+检验流行病检测的有效性;
+COVID-19 对体育博彩市场的影响;
+一种基于影响者的方法来理解激进右翼病毒推文;
+时变网络中的同步;
+COVID-19 大流行期间美国口腔健康的社会差异;
+社交媒体假新闻研究综述：网络和语言的故事;
+通过朋友对社交媒体使用的影响预测用户价值变化;
+Hetero-SCAN：通过异构图神经网络实现社会情境感知假新闻检测;
+社会网络分析中的语义价值概念：在比较神话学中的应用;
+源-汇合作动态限制了群体结构社会中的制度演进;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要11篇(2021-09-17) - 网络科学研究速递">
+<meta itemprop="description" content="
+使用Node2vec&#43;在加权图上准确建模有偏随机游走;
+检验流行病检测的有效性;
+COVID-19 对体育博彩市场的影响;
+一种基于影响者的方法来理解激进右翼病毒推文;
+时变网络中的同步;
+COVID-19 大流行期间美国口腔健康的社会差异;
+社交媒体假新闻研究综述：网络和语言的故事;
+通过朋友对社交媒体使用的影响预测用户价值变化;
+Hetero-SCAN：通过异构图神经网络实现社会情境感知假新闻检测;
+社会网络分析中的语义价值概念：在比较神话学中的应用;
+源-汇合作动态限制了群体结构社会中的制度演进;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要11篇(2021-09-17) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20210917/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+使用Node2vec&#43;在加权图上准确建模有偏随机游走;
+检验流行病检测的有效性;
+COVID-19 对体育博彩市场的影响;
+一种基于影响者的方法来理解激进右翼病毒推文;
+时变网络中的同步;
+COVID-19 大流行期间美国口腔健康的社会差异;
+社交媒体假新闻研究综述：网络和语言的故事;
+通过朋友对社交媒体使用的影响预测用户价值变化;
+Hetero-SCAN：通过异构图神经网络实现社会情境感知假新闻检测;
+社会网络分析中的语义价值概念：在比较神话学中的应用;
+源-汇合作动态限制了群体结构社会中的制度演进;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20210917/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20210917/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要11篇(2021-09-17)</h1>
+
+                  <p class="post-byline">
+                    2021年09月17日 · 5206 字 ·
+                    阅读时间约11分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>使用Node2vec+在加权图上准确建模有偏随机游走;</li>
+<li>检验流行病检测的有效性;</li>
+<li>COVID-19 对体育博彩市场的影响;</li>
+<li>一种基于影响者的方法来理解激进右翼病毒推文;</li>
+<li>时变网络中的同步;</li>
+<li>COVID-19 大流行期间美国口腔健康的社会差异;</li>
+<li>社交媒体假新闻研究综述：网络和语言的故事;</li>
+<li>通过朋友对社交媒体使用的影响预测用户价值变化;</li>
+<li>Hetero-SCAN：通过异构图神经网络实现社会情境感知假新闻检测;</li>
+<li>社会网络分析中的语义价值概念：在比较神话学中的应用;</li>
+<li>源-汇合作动态限制了群体结构社会中的制度演进;</li>
+</ul>
+
+<p></p>
+
+<h3 id="使用node2vec-在加权图上准确建模有偏随机游走">使用Node2vec+在加权图上准确建模有偏随机游走</h3>
+
+<p>原文标题： Accurately Modeling Biased Random Walks on Weighted Graphs Using Node2vec+</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.08031">http://arxiv.org/abs/2109.08031</a></p>
+
+<p>作者： Renming Liu, Matthew Hirn, Arjun Krishnan</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.08031v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 节点嵌入是表示图中每个节点的结构角色的强大方法。  Node2vec 是一种广泛使用的节点嵌入方法，它通过在图上的有偏随机游走探索局部邻域来工作。但是， node2vec 在计算步行偏差时不考虑边权重。这种内在限制阻止了  node2vec 利用加权图中的所有信息，进而将其应用限制在许多加权和密集的现实世界网络中。在这里，我们自然地将  node2vec 扩展到  node2vec+，这种方式在计算步行偏差时考虑了边权重，但在未加权图的情况下会减少到  node2vec或无偏见的步行。我们凭经验表明，在使用两个合成数据集的加权图中， node2vec+ 对加性噪声的鲁棒性比  node2vec 更强。我们还证明  node2vec+ 在常用基准多标签数据集（维基百科）上的表现明显优于  node2vec。此外，我们在两个蛋白质-蛋白质相互作用网络上使用各种具有挑战性的基因分类任务，针对 GCN 和 GraphSAGE 测试  node2vec+。尽管 GCN 和 GraphSAGE 有一些明显的优势，但它们的性能与  node2vec+ 相当。最后， node2vec+ 可以用作生成有偏随机游走的通用方法，使所有建立在  node2vec 之上的现有方法受益。  Node2vec+ 作为 textttPecanPy 的一部分实现，可在 <a href="https://github.com/krishnanlab/PecanPy">https://github.com/krishnanlab/PecanPy</a> 获得。</p>
+
+<h3 id="检验流行病检测的有效性">检验流行病检测的有效性</h3>
+
+<p>原文标题： Testing the efficacy of epidemic testing</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.07580">http://arxiv.org/abs/2109.07580</a></p>
+
+<p>作者： Surya Dheeshjith, Inavamsi Enaganti, Bud Mishra</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.07580v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 基于灾难性传染病的灾难——Covid-19 向我们展示了对基于社区的综合战略的明确需求，以克服控制它的绝对复杂性和当前方法的警告。在这方面，正如在早期流行病中所见，检测一直是遏制政策不可或缺的一部分。但是，人们必须根据由此导致的疾病在社区中的传播，而不是单纯地提高检测效率来考虑检测方案的最优性。因此，做出决定并非易事，必须考虑受优先级、预算、风险、抵押品和能力约束的社区效用，这些效用可以编码到策略的优化中。因此，我们提出了一种简单的池化策略，与其他复杂且计算密集型的方法不同，该策略易于定制且易于实现。</p>
+
+<h3 id="covid-19-对体育博彩市场的影响">COVID-19 对体育博彩市场的影响</h3>
+
+<p>原文标题： The Impact of COVID-19 on Sports Betting Markets</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.07581">http://arxiv.org/abs/2109.07581</a></p>
+
+<p>作者： Khizar Qureshi, Tauhid Zaman</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.07581v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们调查了 COVID-19 大流行对职业和大学体育博彩市场的影响。我们发现在大流行期间，美国国家篮球协会 (NBA) 的输赢盘投注市场变得非常低效。在此期间，如果统一押注于NBA中的弱队，则可以获得16.7%的利润率。据推测，这种低效率是由于 NBA 比赛期间没有现场观众。任何其他运动都没有看到这种低效率。大部分低效率来自一小部分输赢盘赔率在 233 到 400 范围内的博弈。我们发现，通过聪明的策略，在这段时间内押注 NBA 失败者，可以使初始投资获得 26 倍的收益。</p>
+
+<h3 id="一种基于影响者的方法来理解激进右翼病毒推文">一种基于影响者的方法来理解激进右翼病毒推文</h3>
+
+<p>原文标题： An influencer-based approach to understanding radical right viral tweets</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.07588">http://arxiv.org/abs/2109.07588</a></p>
+
+<p>作者： Laila Sprejer, Helen Margetts, Kleber Oliveira, David O&rsquo;Sullivan, Bertie Vidgen</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.07588v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 激进的右翼影响者经常使用社交媒体传播高度分裂、破坏性和反民主的信息。评估和应对此类内容带来的挑战对于确保在线空间保持开放、安全和可访问性至关重要。以前的工作很少关注理解与病毒式传播的激进正确内容相关的因素。我们使用一个新的数据集 ROT 调查了这个问题，该数据集提供了对 35 位激进右翼影响者的内容、参与度和关注度的洞察。它包括超过 50,000 个原始条目和超过 4000 万次转发、引用、回复和提及。我们使用多级模型来衡量推文的参与度，推文嵌套在每个影响者中。我们表明，考虑影响者级别的结构至关重要，并找到影响者和内容级别因素重要性的证据，包括每个影响者拥有的关注者数量、内容类型（原始帖子、引用和回复）、内容的长度和毒性，以及影响者是否要求转发。我们将 ROT 提供给其他研究人员使用。</p>
+
+<h3 id="时变网络中的同步">时变网络中的同步</h3>
+
+<p>原文标题： Synchronization in time-varying networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.07618">http://arxiv.org/abs/2109.07618</a></p>
+
+<p>作者： Dibakar Ghosh, Mattia Frasca, Alessandro Rizzo, Soumen Majhi, Sarbendu Rakshit, Karin Alfaro-Bittner, Stefano Boccaletti</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.07618v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在过去的二十年里，复杂网络理论提供了理想的框架，用于研究表征系统单一组件之间连接布线的拓扑特性与其新兴同步功能之间的密切关系。因此，越来越多的来自现实世界的设置可以用图表示，同时开发了越来越复杂的方法，目的是为所研究的连接模式提供真实的描述。特别是，物理学、生物学和社会科学中的大量系统都具有其单元之间相互作用的时变性质。我们在这里全面回顾了当代关于时变网络中同步出现的研究所获得的主要结果。特别地，将详细描述两个范式框架。第一个包括那些节点连接的时间依赖性是由于适应、外力或影响网络每个链接的任何其他过程的系统。相反，第二个框架对应于图的结构演化是由于节点或主体在物理空间中的移动以及交互可能以某种方式受空间相关定律支配的事实随着时间的推移，连接会不断地打开和关闭。最后，我们的报告以对未来研究的有希望的方向和未解决的问题的简短讨论结束。</p>
+
+<h3 id="covid-19-大流行期间美国口腔健康的社会差异">COVID-19 大流行期间美国口腔健康的社会差异</h3>
+
+<p>原文标题： Social Disparities in Oral Health in America amid the COVID-19 Pandemic</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.07652">http://arxiv.org/abs/2109.07652</a></p>
+
+<p>作者： Yangxin Fan, Hanjia Lyu, Jin Xiao, Jiebo Luo</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.07652v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们根据 2020 年 11 月 12 日至 6 月 14 日期间美国 26 个州（有足够样本）的 9,104 名 Twitter 用户的推文，对 COVID-19 大流行期间的口腔健康进行了大规模社交媒体研究, 2021. 为了更好地理解不同主题/口腔疾病的讨论如何因用户而异，我们根据从用户个人资料中检索到的信息获取或推断用户的人口统计信息和其他特征。女性和年轻人（19-29 岁）更有可能谈论口腔健康问题。我们使用 LDA 主题模型来提取推文中的主要主题/口腔疾病。总体而言，26.70% 的 Twitter 用户谈论智齿疼痛/下巴受伤，23.86% 的推文谈论牙科服务/蛀牙，18.97% 谈论牙齿缺损/牙齿断裂，16.23% 谈论牙齿疼痛，其余的谈论蛀牙/牙龈出血。通过进行逻辑回归，我们发现讨论因用户特征而异。更重要的是，我们发现大流行期间口腔健康方面的社会差异。具体来说，我们发现健康保险覆盖率是主题预测逻辑回归中最重要的预测因子。来自保险覆盖率较高的县的人们倾向于较少关于口腔疾病的所有主题的推文。来自 COVID-19 高风险县的人们更多地谈论蛀牙/牙龈出血和牙齿碎裂/牙齿断裂。容易感染 COVID-19 的老年人（50 岁以上）更有可能讨论牙痛。据我们所知，这是在 COVID-19 大流行期间分析和理解美国口腔健康的第一项基于社交媒体的大规模研究。我们希望通过社交媒体的视角我们的研究结果可以为口腔健康从业者和政策制定者提供见解。</p>
+
+<h3 id="社交媒体假新闻研究综述-网络和语言的故事">社交媒体假新闻研究综述：网络和语言的故事</h3>
+
+<p>原文标题： Surveying the Research on Fake News in Social Media: a Tale of Networks and Language</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.07909">http://arxiv.org/abs/2109.07909</a></p>
+
+<p>作者： Giancarlo Ruffo (1), Alfonso Semeraro (1), Anastasia Giachanou (2), Paolo Rosso (3) ((1) Università degli Studi di Torino, (2) Utrecht University, (3) Universitat Politècnica de València)</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.07909v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 新闻和新闻传播的历史与消除恶作剧、错误信息、宣传、未经证实的谣言、糟糕的报道以及包含仇恨和分裂的信息的努力紧密相关。随着在线社交媒体的爆炸式增长以及数十亿人参与消费、创作和分享新闻，这个古老的问题再次浮出水面，威胁着我们的民主、公共卫生和新闻媒体的可信度。这促使许多研究人员开发新的方法来研究、理解、检测和防止假新闻传播；因此，在相对较短的时间内发表了数千篇科学论文，使不同学科的研究人员努力寻找开放性问题和最相关的趋势。本次调查的目的有三个：首先，我们希望为对这一多学科和具有挑战性的领域感兴趣的研究人员提供基于网络的现有文献分析，以帮助他们对可能感兴趣的论文进行视觉探索；其次，我们介绍了迄今为止采用网络作为统一框架来表示和理解数据、对传播过程进行建模以及评估不同揭穿策略的主要成果的选择。最后，我们概述了最相关的研究趋势，重点是通过数据挖掘和文本技术的假新闻、机器人和巨魔识别的移动目标；尽管从事计算语言学和网络研究的学者传统上属于不同的科学团体，但我们预计必须使用混合和最新的方法来开发即将出现的防止假新闻污染社交媒体的计算方法。</p>
+
+<h3 id="通过朋友对社交媒体使用的影响预测用户价值变化">通过朋友对社交媒体使用的影响预测用户价值变化</h3>
+
+<p>原文标题： Predicting Users&rsquo; Value Changes by the Friends&rsquo; Influence from Social Media Usage</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.08021">http://arxiv.org/abs/2109.08021</a></p>
+
+<p>作者： Md. Saddam Hossain Mukta, Ahmed Shahriar Sakib, Md. Adnanul Islam, Mohiuddin Ahmed, Mumshad Ahamed Rifat</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.08021v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 人类基本价值观代表了一系列价值观，例如安全、独立、成功、善良和快乐，我们认为这些价值观对我们的生活很重要。我们每个人都持有不同的价值观，具有不同程度的重要性。现有研究表明，一个人的价值观可以从他们的社会网络使用情况中识别出来。然而，一个人的价值优先级可能会因生活经历、影响力、社会结构和技术等不同因素而随时间发生变化。现有的研究没有对用户价值从社交影响，即群体说服，形成社交媒体使用的变化进行任何分析。在我们的研究中，首先，我们通过朋友对社交媒体使用的影响来预测用户的价值得分。我们从 Facebook 的 275 个不同的自我网络中提出了一个基于有界信心模型 (BCM) 的价值动态模型，该模型预测社会影响如何说服一个人随着时间的推移改变他们的价值。然后，为了更好地预测，我们使用基于粒子群优化的超参数调整技术。我们观察到这些优化的超参数产生了准确的未来价值分数。我们还使用不同的基于机器学习的方法运行我们的方法，并发现支持向量回归 (SVR) 优于其他回归模型。通过使用具有 BCM 模型最佳超参数的 SVR，我们发现最低均方误差 (MSE) 得分为 0.00347。</p>
+
+<h3 id="hetero-scan-通过异构图神经网络实现社会情境感知假新闻检测">Hetero-SCAN：通过异构图神经网络实现社会情境感知假新闻检测</h3>
+
+<p>原文标题： Hetero-SCAN: Towards Social Context Aware Fake News Detection via Heterogeneous Graph Neural Network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.08022">http://arxiv.org/abs/2109.08022</a></p>
+
+<p>作者： Jian Cui, Kwanwoo Kim, Seung Ho Na, Seungwon Shin</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.08022v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 假新闻、虚假或误导性信息作为新闻呈现，对社会的许多方面都有很大影响，例如政治和医疗保健。为理解决这个新出现的问题，人们提出了许多假新闻检测方法，将自然语言处理 (NLP) 技术应用于文章文本。考虑到即使是人们也无法通过新闻内容轻松区分假新闻，这些基于文本的解决方案是不够的。为了进一步改进假新闻检测，研究人员提出了基于图的解决方案，利用社交上下文信息，例如用户参与度或发布者信息。然而，现有的基于图的方法仍然存在以下四个主要缺点：1）由于图中有大量用户节点，计算成本昂贵，2）子任务中的错误，例如文本编码或立场检测， 3) 由于新闻图的同构表示而丢失了丰富的社会背景，以及 4) 缺乏时间信息利用。为了克服上述问题，我们提出了一种基于异构图神经网络的新型社会情境感知假新闻检测方法 Hetero-SCAN。 Hetero-SCAN 以端到端的方式从新闻的异构图中学习新闻表示。我们证明了 Hetero-SCAN 在性能和效率方面比最先进的基于文本和基于图的假新闻检测方法产生了显著的改进。</p>
+
+<h3 id="社会网络分析中的语义价值概念-在比较神话学中的应用">社会网络分析中的语义价值概念：在比较神话学中的应用</h3>
+
+<p>原文标题： The Concept of Semantic Value in Social Network Analysis: an Application to Comparative Mythology</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.08023">http://arxiv.org/abs/2109.08023</a></p>
+
+<p>作者： Javier Fumanal-Idocin, Oscar Cordón, Graçaliz Dimuro, María Minárová, Humberto Bustince</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.08023v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 人文科学传统上依赖于人类的推理和智力，从广泛的来源推断知识，例如口头和书面叙述、报告和传统。在这里，我们开发了经典社会网络分析方法的扩展，将每个参与者的意义概念结合起来，作为量化和推断来自网络原始来源的进一步知识的手段。此扩展基于新的亲和函数，即语义亲和函数，它使用亲和函数的组合在网络中的不同参与者之间建立类似模糊的关系。我们还提出了一种基于最短容量问题的新启发式算法来计算此亲和函数。我们使用这些意义和语义相似性的概念来分析和比较来自三个不同古典神话中的神和英雄：希腊、凯尔特和北欧。我们研究每个单独的神话之间的关系，以及当我们将它们三者融合在一起时形成的共同结构的关系。我们展示了凯尔特人和北欧诸神之间的密切联系，并且希腊人更重视英雄人物而不是神灵。我们的方法提供了一种技术来突出和量化网络原始域中无法从其结构属性推导出的重要关系。</p>
+
+<h3 id="源-汇合作动态限制了群体结构社会中的制度演进">源-汇合作动态限制了群体结构社会中的制度演进</h3>
+
+<p>原文标题： Source-sink cooperation dynamics constrain institutional evolution in a group-structured society</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2109.08106">http://arxiv.org/abs/2109.08106</a></p>
+
+<p>作者： Laurent Hébert-Dufresne, Timothy M. Waring, Guillaume St-Onge, Meredith T. Niles, Laura Kati Corlew, Matthew P. Dube, Stephanie J. Miller, Nicholas Gotelli, Brian J. McGill</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2109.08106v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 社会随着时间的推移而变化，导致行为和制度的变化。我们会问，当行为和制度相互依赖时，社会变革是如何发生的。我们模拟了一个群体结构的社会，在这个社会中，个体行为的传递与群体层面机构的选择并行发生。我们考虑一种为群体带来集体利益但不会自行在个体之间传播的合作行为。团体表现出增加团体内行为扩散的制度，但也会产生团体成本。团体根据他们的适合程度采用机构。最后，合作行为也可能在全球范围内传播。正如预期的那样，我们发现合作和制度是相辅相成的。但是，当机构群体中产生的合作扩展到非机构群体时，该模型也会产生行为源汇动态，从而提高他们的适应度。因此，合作的全球扩散创造了一种制度搭便车模式，限制了群体利益制度的演变。我们的模型表明，在一个群体结构的社会中，行为和制度的大规模改变（即社会变革）可以最好地实现，当两者保持相关时，例如通过传播成功的试点项目。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20210917/">https://netsci.complexly.cn/post/20210917/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20210916/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要10篇(2021-09-16)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
