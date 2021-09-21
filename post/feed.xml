@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 20 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2021-09-21)</title>
+      <link>https://netsci.complexly.cn/post/20210921/</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20210921/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Hodgelets：单纯复形上流的局部谱表示;&lt;/li&gt;
+&lt;li&gt;网络流中对流循环的持久同源性;&lt;/li&gt;
+&lt;li&gt;网络细化：用于增强信号或去除网络噪声的统一框架;&lt;/li&gt;
+&lt;li&gt;PoliWAM：对 WhatsApp Messenger 的大规模政治讨论语料库的探索;&lt;/li&gt;
+&lt;li&gt;同行在评估拨款申请时是否采用相同的标准？;&lt;/li&gt;
+&lt;li&gt;Facebook 如何保持隔离的友谊？基于主体的模型方法;&lt;/li&gt;
+&lt;li&gt;戳破泡沫可能还不够：新闻媒体在网络政治两极分化中的作用;&lt;/li&gt;
+&lt;li&gt;使用词嵌入和迁移学习增强语义词典;&lt;/li&gt;
+&lt;li&gt;Instagram 上的政治讨论动态：网络视角;&lt;/li&gt;
+&lt;li&gt;利用自我网络层的力量进行在线社会网络中的链路预测;&lt;/li&gt;
+&lt;li&gt;反思行为：发表压力如何影响天文学研究质量;&lt;/li&gt;
+&lt;li&gt;共享出行的多模态匹配问题;&lt;/li&gt;
+&lt;li&gt;密集空间网络中的介数中心性;&lt;/li&gt;
+&lt;li&gt;欧洲独特的气候目标所需的技术转型速度;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2021-09-20)</title>
