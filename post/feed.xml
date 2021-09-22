@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2021-09-22)</title>
+      <link>https://netsci.complexly.cn/post/20210922/</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20210922/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用大规模轨迹数据理解全电动出租车服务的充电动态;&lt;/li&gt;
+&lt;li&gt;mGNN：将图神经网络推广到多层情况;&lt;/li&gt;
+&lt;li&gt;通过在 Web 上跟踪其实例并分析其过去上下文以验证内容来检测误导性图像的统一方法;&lt;/li&gt;
+&lt;li&gt;当专业知识消失时：揭露维基百科中多产贡献者的流失;&lt;/li&gt;
+&lt;li&gt;内生流动性和传染病的 AI 辅助经济模型：美国 COVID-19 案例;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2021-09-21)</title>
