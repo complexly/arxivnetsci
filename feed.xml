@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2021-09-28)</title>
+      <link>https://netsci.complexly.cn/post/20210928/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20210928/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复仇者联盟是如何集结的？漫威英雄社会网络分析;&lt;/li&gt;
+&lt;li&gt;无标度网络上的广义伊辛模型：幂律的相互作用;&lt;/li&gt;
+&lt;li&gt;网络中的稳健协调;&lt;/li&gt;
+&lt;li&gt;序列随机网络结构优化及其在解决加拿大肥胖流行中的应用;&lt;/li&gt;
+&lt;li&gt;德国大学城市：社会经济地位和大学表现;&lt;/li&gt;
+&lt;li&gt;混合网络协调/反协调博弈中的均衡和学习动态;&lt;/li&gt;
+&lt;li&gt;接触模式与疾病进展之间的共振形成流行病传播;&lt;/li&gt;
+&lt;li&gt;基金会 NFT 拍卖的表象之下;&lt;/li&gt;
+&lt;li&gt;使用人工神经网络预测无标度网络中的隐藏链接和缺失节点;&lt;/li&gt;
+&lt;li&gt;可解释的企业生存预测;&lt;/li&gt;
+&lt;li&gt;知其所以然：在 COVID-19 危机期间探索中国社交媒体上的健康谣言特征和揭穿努力;&lt;/li&gt;
+&lt;li&gt;通过 Avrami 方程分析日本 COVID-19 感染波;&lt;/li&gt;
+&lt;li&gt;社交媒体语境下假新闻阅读与注释研究;&lt;/li&gt;
+&lt;li&gt;使用微调自注意力和迁移学习的多模态融合用于 Web 信息的真实性分析;&lt;/li&gt;
+&lt;li&gt;行人中的社会力量;&lt;/li&gt;
+&lt;li&gt;名人品牌决策：一种基于极性和情感分析的意见挖掘方法，使用 Twitter 消费者生成内容 (CGC);&lt;/li&gt;
+&lt;li&gt;哥伦比亚科学精英——科学地图和文献计量展望;&lt;/li&gt;
+&lt;li&gt;边可交换社会网络模型中的异常边检测;&lt;/li&gt;
+&lt;li&gt;Covid-19传播中的差异博弈;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2021-09-27)</title>
