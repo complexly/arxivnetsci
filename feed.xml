@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 30 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2021-10-01)</title>
+      <link>https://netsci.complexly.cn/post/20211001/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211001/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;计算社会科学中的机制模型;&lt;/li&gt;
+&lt;li&gt;密室逃脱中社会动态的剖析;&lt;/li&gt;
+&lt;li&gt;通过网络轨迹方法和图神经网络进行中风恢复表型分析;&lt;/li&gt;
+&lt;li&gt;测量科学传播中的句子级别和角度级别（不）确定性;&lt;/li&gt;
+&lt;li&gt;匹配市场;&lt;/li&gt;
+&lt;li&gt;一项比较各国对 Covid-19 大流行反应质量的简短研究;&lt;/li&gt;
+&lt;li&gt;K-选择性渗流;&lt;/li&gt;
+&lt;li&gt;阿西莫夫的基地——将数据故事变成NFT艺术品;&lt;/li&gt;
+&lt;li&gt;SemEval-2016 的超级团队任务 3：构建功能丰富的社区问答系统;&lt;/li&gt;
+&lt;li&gt;基于迁移学习的动态复杂网络社区检测多目标演化算法;&lt;/li&gt;
+&lt;li&gt;新核电在英国净零排放能源系统中的作用;&lt;/li&gt;
+&lt;li&gt;NPS-AntiClone：基于非隐私敏感用户配置文件数据的身份克隆检测;&lt;/li&gt;
+&lt;li&gt;道路网络生成模型的互补性;&lt;/li&gt;
+&lt;li&gt;通过对抗性自动编码器的潜在网络嵌入;&lt;/li&gt;
+&lt;li&gt;有针对性的广告和/作为种族歧视：探索纽约市大学奖学金广告的趋势;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2021-09-30)</title>
