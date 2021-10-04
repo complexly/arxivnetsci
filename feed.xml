@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2021-10-04)</title>
+      <link>https://netsci.complexly.cn/post/20211004/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211004/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于网络的排名和推荐算法中的不平等和不公平;&lt;/li&gt;
+&lt;li&gt;使用信息论变分图自动编码器的极化网络中的无监督信念表示学习;&lt;/li&gt;
+&lt;li&gt;通过挖掘邻里和社区影响在时间网络中进行归纳表示学习;&lt;/li&gt;
+&lt;li&gt;检测有害模因及其目标;&lt;/li&gt;
+&lt;li&gt;基于层次对抗训练的社交媒体谣言检测;&lt;/li&gt;
+&lt;li&gt;减少 SARS-CoV-2 传播所需的监测测试频率;&lt;/li&gt;
+&lt;li&gt;优化过程中仿生网络的含时图和时间网络特征;&lt;/li&gt;
+&lt;li&gt;重排、排序和偏序的信念传播;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2021-10-01)</title>
