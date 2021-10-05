@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2021-10-05)</title>
+      <link>https://netsci.complexly.cn/post/20211005/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211005/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会网络分析在评估闭环供应链风险和网络弹性中的应用;&lt;/li&gt;
+&lt;li&gt;一种在复杂网络中刻画渗流的采样引导的无监督学习方法;&lt;/li&gt;
+&lt;li&gt;知识图谱中有更多模式吗？探索知识图谱嵌入的邻近模式;&lt;/li&gt;
+&lt;li&gt;价格预期凯利机制的稳健性;&lt;/li&gt;
+&lt;li&gt;Twitter 上词共现网络中的情感和结构;&lt;/li&gt;
+&lt;li&gt;在线极端主义意识形态的认知科学;&lt;/li&gt;
+&lt;li&gt;COVID-19 错误信息调查：数据集、检测技术和未解决的问题;&lt;/li&gt;
+&lt;li&gt;面部特征与议会中的点名投票有关吗？使用 fWHR 研究政治表现;&lt;/li&gt;
+&lt;li&gt;多元模拟：通过模拟理解假设和可能的世界;&lt;/li&gt;
+&lt;li&gt;一维民事暴力模型中的相图;&lt;/li&gt;
+&lt;li&gt;优化城市交通限制：针对 SARS-CoV-2 的多主体系统 (MAS);&lt;/li&gt;
+&lt;li&gt;非属性图上的深度欺诈检测;&lt;/li&gt;
+&lt;li&gt;团渗流方法：内存高效的几乎精确的社区;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2021-10-04)</title>
