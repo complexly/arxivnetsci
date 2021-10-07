@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 06 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2021-10-07)</title>
+      <link>https://netsci.complexly.cn/post/20211007/</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211007/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过复杂网络表征深度神经网络的学习动态;&lt;/li&gt;
+&lt;li&gt;基于切比雪夫多项式的个性化PageRank的局部更新算法;&lt;/li&gt;
+&lt;li&gt;含时和多重网络分析的逻辑方法;&lt;/li&gt;
+&lt;li&gt;复杂网络中的稳健模块度;&lt;/li&gt;
+&lt;li&gt;分数渗流中的涌现网络;&lt;/li&gt;
+&lt;li&gt;注意力游走聚合图神经网络的分析;&lt;/li&gt;
+&lt;li&gt;基于行人车辆碰撞模型的经济实惠的工具，用于支持现场工作和重建;&lt;/li&gt;
+&lt;li&gt;热随机双曲线图的动力学;&lt;/li&gt;
+&lt;li&gt;先发优势解释了物理学引文中的性别差异;&lt;/li&gt;
+&lt;li&gt;Lotka-Volterra 与 May-Leonard 空间随机石头剪子布模型公式：缺失的环节;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2021-10-06)</title>
