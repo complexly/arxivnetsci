@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2021-10-08)</title>
+      <link>https://netsci.complexly.cn/post/20211008/</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211008/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;弱连接优势视角下的科学成功;&lt;/li&gt;
+&lt;li&gt;1983-2018年美国两类收入分配的物理启发分析;&lt;/li&gt;
+&lt;li&gt;一系列依附模型中稳健高效网络的涌现;&lt;/li&gt;
+&lt;li&gt;从稳定图信号中联合推断具有隐藏变量的多个图;&lt;/li&gt;
+&lt;li&gt;政治两极分化对疫苗接种立场的影响分析：巴西 COVID-19 情景;&lt;/li&gt;
+&lt;li&gt;基于个体和配对的流行病传播模型：掌握方程及其预测能力分析;&lt;/li&gt;
+&lt;li&gt;量化社交媒体上的自杀倾向：一项调查;&lt;/li&gt;
+&lt;li&gt;TBCOV：20 亿多语言 COVID-19 推文，带有情绪、实体、地理和性别标签;&lt;/li&gt;
+&lt;li&gt;重新审视 SVD 为推荐系统生成强大的节点嵌入;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-10-07)</title>
