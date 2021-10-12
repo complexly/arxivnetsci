@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2021-10-12)</title>
+      <link>https://netsci.complexly.cn/post/20211012/</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211012/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;带游走池化的神经网络链路预测;&lt;/li&gt;
+&lt;li&gt;一种用于挖掘长路径网络中缺失链接的新相似性度量;&lt;/li&gt;
+&lt;li&gt;使用 Lambda 架构进行实时欺诈检测中的图神经网络;&lt;/li&gt;
+&lt;li&gt;口罩在减缓网络病毒传播中的作用;&lt;/li&gt;
+&lt;li&gt;新闻投票系统对选举安全威胁和选区的影响;&lt;/li&gt;
+&lt;li&gt;大型集会中的横向接触者追踪与流行病控制;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2021-10-11)</title>

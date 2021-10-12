@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要6篇(2021-10-12) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+带游走池化的神经网络链路预测;
+一种用于挖掘长路径网络中缺失链接的新相似性度量;
+使用 Lambda 架构进行实时欺诈检测中的图神经网络;
+口罩在减缓网络病毒传播中的作用;
+新闻投票系统对选举安全威胁和选区的影响;
+大型集会中的横向接触者追踪与流行病控制;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要6篇(2021-10-12) - 网络科学研究速递">
+<meta itemprop="description" content="
+带游走池化的神经网络链路预测;
+一种用于挖掘长路径网络中缺失链接的新相似性度量;
+使用 Lambda 架构进行实时欺诈检测中的图神经网络;
+口罩在减缓网络病毒传播中的作用;
+新闻投票系统对选举安全威胁和选区的影响;
+大型集会中的横向接触者追踪与流行病控制;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要6篇(2021-10-12) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20211012/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+带游走池化的神经网络链路预测;
+一种用于挖掘长路径网络中缺失链接的新相似性度量;
+使用 Lambda 架构进行实时欺诈检测中的图神经网络;
+口罩在减缓网络病毒传播中的作用;
+新闻投票系统对选举安全威胁和选区的影响;
+大型集会中的横向接触者追踪与流行病控制;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20211012/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20211012/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要6篇(2021-10-12)</h1>
+
+                  <p class="post-byline">
+                    2021年10月12日 · 2389 字 ·
+                    阅读时间约5分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>带游走池化的神经网络链路预测;</li>
+<li>一种用于挖掘长路径网络中缺失链接的新相似性度量;</li>
+<li>使用 Lambda 架构进行实时欺诈检测中的图神经网络;</li>
+<li>口罩在减缓网络病毒传播中的作用;</li>
+<li>新闻投票系统对选举安全威胁和选区的影响;</li>
+<li>大型集会中的横向接触者追踪与流行病控制;</li>
+</ul>
+
+<p></p>
+
+<h3 id="带游走池化的神经网络链路预测">带游走池化的神经网络链路预测</h3>
+
+<p>原文标题： Neural Link Prediction with Walk Pooling</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.04375">http://arxiv.org/abs/2110.04375</a></p>
+
+<p>作者： Liming Pan, Cheng Shi, Ivan Dokmanić</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.04375v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 图神经网络通过联合利用图拓扑和节点属性来实现链路预测的高精度。然而，拓扑是间接表示的。基于与目标链接距离的子图分类标签节点的最新方法，因此，尽管存在拓扑信息，但通过池化对其进行了调节。这使得利用与网络形成机制相关的循环和模体等特征变得具有挑战性。我们提出了一种基于称为 WalkPool 的新池化方案的链路预测算法。 WalkPool 将拓扑启发式的表达能力与神经网络的特征学习能力相结合。它通过相邻路径的随机游走概率总结了一个假定的链接。它不是从原始图中提取转移概率，而是通过对学习特征应用注意力来计算“预测”潜在图的转移矩阵；这可以解释为特征敏感的拓扑指纹。 WalkPool 可以利用无监督节点特征或与 GNN 结合并进行端到端训练。它在所有常见的链路预测基准上都优于最先进的方法，无论是同质性还是异质性，有和没有节点属性。将 WalkPool 应用于一组无监督的 GNN 显著提高了预测精度，表明它可以用作通用图池化方案。</p>
+
+<h3 id="一种用于挖掘长路径网络中缺失链接的新相似性度量">一种用于挖掘长路径网络中缺失链接的新相似性度量</h3>
+
+<p>原文标题： A novel similarity measure for mining missing links in long-path networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05008">http://arxiv.org/abs/2110.05008</a></p>
+
+<p>作者： Yijun Ran, Tianyu Liu, Tao Jia, Xiao-Ke Xu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05008v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 网络信息挖掘是对网络拓扑结构的研究，它回答了大量基于应用的问题，涉及真实系统的结构演化和功能。例如，问题可能与真实系统如何演变或个人如何在社会网络中相互交互有关。虽然真实系统的演化似乎有规律可循，但捕捉整个演化过程的模式并非易事。链路预测是网络信息挖掘中最重要的技术之一，可以帮助我们理解真实系统的演化规律。链路预测旨在发现缺失的链接或量化从已知网络结构中出现不存在的链接的可能性。目前，广泛存在的链路预测方法几乎集中在通常具有无数紧密三角形结构的短路径网络上。然而，这些算法在高度稀疏或长路径网络上的性能很差。在这里，我们提出了一个与结构等效和最短路径长度 (SEPL) 原则相关的新指标，以估计长路径网络中链路存在的可能性。通过 548 个真实网络测试，我们发现 SEPL 在长路径网络中比其他基于相似性的预测器更有效和高效。我们还通过机器学习技术利用了 SEPL 预测器和基于嵌入的方法的性能，并且 SEPL 的性能比 GraphWave 提高了 44.09%，比 Node2vec 提高了 7.93%。最后，根据所有基于相似性的预测器之间的最大信息系数（MIC）矩阵，SEPL是传统相似性特征空间的一个新的独立特征。</p>
+
+<h3 id="使用-lambda-架构进行实时欺诈检测中的图神经网络">使用 Lambda 架构进行实时欺诈检测中的图神经网络</h3>
+
+<p>原文标题： Graph Neural Networks in Real-Time Fraud Detection with Lambda Architecture</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.04559">http://arxiv.org/abs/2110.04559</a></p>
+
+<p>作者： Mingxuan Lu, Zhichao Han, Zitao Zhang, Yang Zhao, Yinan Shan</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.04559v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 交易结账欺诈检测是电子商务市场必不可少的风险控制组件。为了利用图网络有效降低欺诈率并保证仅从结账过去的邻居传递的信息流，我们首先提出了一种新颖的用于图构建的有向动态快照（DDS）链接设计和 Lambda 神经网络（LNN） ) 架构，用于使用图神经网络嵌入进行有效推理。实验表明，我们在 DDS 图上的 LNN 显著优于基线模型，并且对于实时欺诈检测具有计算效率。</p>
+
+<h3 id="口罩在减缓网络病毒传播中的作用">口罩在减缓网络病毒传播中的作用</h3>
+
+<p>原文标题： The Role of Masks in Mitigating Viral Spread on Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.04398">http://arxiv.org/abs/2110.04398</a></p>
+
+<p>作者： Yurun Tian, Anirudh Sridhar, H.Vincent Poor, Osman Yagan</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.04398v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 口罩仍然是对抗 COVID-19 的重要缓解策略，因为它们能够防止个人之间呼吸道飞沫的传播。在这项工作中，我们对戴口罩的影响进行了全面的定量分析。为此，我们提出了一种新的基于主体的网络病毒传播模型，其中主体可以不戴口罩，也可以戴几种具有不同特性的口罩（例如布料或外科口罩）。我们推导出三个关键流行病学数量的分析表达式：出现概率、流行阈值和预期流行规模。特别是，我们展示了上述数量如何取决于接触网络的结构、病毒传播动态以及不同类型口罩在人群中的分布。然后，我们通过广泛的模拟研究了人口中不同口罩分配的影响。我们还研究了具有高外向效率但低内向效率的掩码与具有高内向效率但外向效率低的掩码之间的权衡。有趣的是，我们发现前一种口罩对于控制流行初期的传播最有用，而后一种口罩对于减轻已经很大传播的影响最有用。</p>
+
+<h3 id="新闻投票系统对选举安全威胁和选区的影响">新闻投票系统对选举安全威胁和选区的影响</h3>
+
+<p>原文标题： Journalistic Voting System&rsquo;s Effects on Election Security Threats and Gerrymandering</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.04642">http://arxiv.org/abs/2110.04642</a></p>
+
+<p>作者： Lucius Schoenbaum</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.04642v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 新闻投票系统是一种主体投票系统，在西式民主中，记者被委派代表个人选民投票的任务。我们介绍了新闻投票系统并讨论了它的潜在优势和潜在问题。特别是，我们讨论了它对系统中的个人（选民、记者和政治家）的优势，并讨论了它相对于几个广泛讨论的选举安全威胁的影响，即：网络安全、社交媒体、大数据、人工智能 (AI) , 和 改划选区。新闻投票系统模仿了前辈系统，称为价投票系统，经过审查。</p>
+
+<h3 id="大型集会中的横向接触者追踪与流行病控制">大型集会中的横向接触者追踪与流行病控制</h3>
+
+<p>原文标题： Sideward contact tracing and the control of epidemics in large gatherings</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.04742">http://arxiv.org/abs/2110.04742</a></p>
+
+<p>作者： Marco Mancastroppa, Andrea Guizzo, Claudio Castellano, Alessandro Vezzani, Raffaella Burioni</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.04742v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 有效的接触者追踪对于在不中断社会活动的情况下遏制流行病传播至关重要，尤其是在当前与大流行爆发共存的时期。大型聚会起着关键作用，可能有利于超级传播事件。然而，迄今为止，尚未对大群体中的追踪效果进行充分评估。我们表明，除了前向追踪（重建疾病向谁传播）和向后追踪（搜索疾病从谁传播）之外，第三个“侧向”追踪在大型聚会中起作用。这是一种间接追踪，可检测受感染的无症状个体，即使他们既没有被指示病例直接感染，也没有直接将感染传染给指示病例。我们在简单活动驱动的时间网络框架内，在 SARS-CoV-2 的流行病传播模型中分析了这种影响。我们确定了三种追踪机制对抑制流行病传播的贡献，揭示了横向追踪的重要性并提出了最佳策略。我们在大学校园聚会的经验数据集上展示了我们的结果的实际相关性。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20211012/">https://netsci.complexly.cn/post/20211012/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20211011/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要9篇(2021-10-11)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
