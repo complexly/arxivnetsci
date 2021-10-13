@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 12 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要20篇(2021-10-13)</title>
+      <link>https://netsci.complexly.cn/post/20211013/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211013/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复杂系统中高阶相互作用的物理学;&lt;/li&gt;
+&lt;li&gt;GCN-SE：注意力作为动态图中节点分类的可解释性;&lt;/li&gt;
+&lt;li&gt;从手机数据推断供应网络以估计国民经济的弹性;&lt;/li&gt;
+&lt;li&gt;社交媒体报道的公共交通事件空间数据挖掘;&lt;/li&gt;
+&lt;li&gt;社会化背景下的相互合作与容忍背叛：理论模型和实验证据;&lt;/li&gt;
+&lt;li&gt;减少社交媒体情感两极化的观点;&lt;/li&gt;
+&lt;li&gt;紧上界的子网约束和团划分问题的精确解;&lt;/li&gt;
+&lt;li&gt;社交媒体上的僵尸网络检测;&lt;/li&gt;
+&lt;li&gt;混合平衡理论：高阶相互作用下的海德平衡;&lt;/li&gt;
+&lt;li&gt;自驱动粒子系统中异质性诱导的泳道和带形成;&lt;/li&gt;
+&lt;li&gt;循环树引导的随机 K 核攻击;&lt;/li&gt;
+&lt;li&gt;序列时间网络上的演化动力学;&lt;/li&gt;
+&lt;li&gt;学术迁移导致的科学合作网络动态;&lt;/li&gt;
+&lt;li&gt;个人语言使用中的结构不变量：词的“自我网络”;&lt;/li&gt;
+&lt;li&gt;智能爬取：一种从 Twitter 进行焦点爬取的新方法;&lt;/li&gt;
+&lt;li&gt;ConTIG：时间交互图上的连续表示学习;&lt;/li&gt;
+&lt;li&gt;Twitter 中西班牙语变体的大规模词法和语义分析;&lt;/li&gt;
+&lt;li&gt;基于在线客户评论的酒店偏好排名;&lt;/li&gt;
+&lt;li&gt;通过社会网络挖掘提取人们对 COVID-19 的感受;&lt;/li&gt;
+&lt;li&gt;工程网络的多商品路由优化;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2021-10-12)</title>

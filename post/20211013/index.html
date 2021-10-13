@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要20篇(2021-10-13) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+复杂系统中高阶相互作用的物理学;
+GCN-SE：注意力作为动态图中节点分类的可解释性;
+从手机数据推断供应网络以估计国民经济的弹性;
+社交媒体报道的公共交通事件空间数据挖掘;
+社会化背景下的相互合作与容忍背叛：理论模型和实验证据;
+减少社交媒体情感两极化的观点;
+紧上界的子网约束和团划分问题的精确解;
+社交媒体上的僵尸网络检测;
+混合平衡理论：高阶相互作用下的海德平衡;
+自驱动粒子系统中异质性诱导的泳道和带形成;
+循环树引导的随机 K 核攻击;
+序列时间网络上的演化动力学;
+学术迁移导致的科学合作网络动态;
+个人语言使用中的结构不变量：词的“自我网络”;
+智能爬取：一种从 Twitter 进行焦点爬取的新方法;
+ConTIG：时间交互图上的连续表示学习;
+Twitter 中西班牙语变体的大规模词法和语义分析;
+基于在线客户评论的酒店偏好排名;
+通过社会网络挖掘提取人们对 COVID-19 的感受;
+工程网络的多商品路由优化;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要20篇(2021-10-13) - 网络科学研究速递">
+<meta itemprop="description" content="
+复杂系统中高阶相互作用的物理学;
+GCN-SE：注意力作为动态图中节点分类的可解释性;
+从手机数据推断供应网络以估计国民经济的弹性;
+社交媒体报道的公共交通事件空间数据挖掘;
+社会化背景下的相互合作与容忍背叛：理论模型和实验证据;
+减少社交媒体情感两极化的观点;
+紧上界的子网约束和团划分问题的精确解;
+社交媒体上的僵尸网络检测;
+混合平衡理论：高阶相互作用下的海德平衡;
+自驱动粒子系统中异质性诱导的泳道和带形成;
+循环树引导的随机 K 核攻击;
+序列时间网络上的演化动力学;
+学术迁移导致的科学合作网络动态;
+个人语言使用中的结构不变量：词的“自我网络”;
+智能爬取：一种从 Twitter 进行焦点爬取的新方法;
+ConTIG：时间交互图上的连续表示学习;
+Twitter 中西班牙语变体的大规模词法和语义分析;
+基于在线客户评论的酒店偏好排名;
+通过社会网络挖掘提取人们对 COVID-19 的感受;
+工程网络的多商品路由优化;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要20篇(2021-10-13) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20211013/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+复杂系统中高阶相互作用的物理学;
+GCN-SE：注意力作为动态图中节点分类的可解释性;
+从手机数据推断供应网络以估计国民经济的弹性;
+社交媒体报道的公共交通事件空间数据挖掘;
+社会化背景下的相互合作与容忍背叛：理论模型和实验证据;
+减少社交媒体情感两极化的观点;
+紧上界的子网约束和团划分问题的精确解;
+社交媒体上的僵尸网络检测;
+混合平衡理论：高阶相互作用下的海德平衡;
+自驱动粒子系统中异质性诱导的泳道和带形成;
+循环树引导的随机 K 核攻击;
+序列时间网络上的演化动力学;
+学术迁移导致的科学合作网络动态;
+个人语言使用中的结构不变量：词的“自我网络”;
+智能爬取：一种从 Twitter 进行焦点爬取的新方法;
+ConTIG：时间交互图上的连续表示学习;
+Twitter 中西班牙语变体的大规模词法和语义分析;
+基于在线客户评论的酒店偏好排名;
+通过社会网络挖掘提取人们对 COVID-19 的感受;
+工程网络的多商品路由优化;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20211013/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20211013/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要20篇(2021-10-13)</h1>
+
+                  <p class="post-byline">
+                    2021年10月13日 · 8072 字 ·
+                    阅读时间约17分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>复杂系统中高阶相互作用的物理学;</li>
+<li>GCN-SE：注意力作为动态图中节点分类的可解释性;</li>
+<li>从手机数据推断供应网络以估计国民经济的弹性;</li>
+<li>社交媒体报道的公共交通事件空间数据挖掘;</li>
+<li>社会化背景下的相互合作与容忍背叛：理论模型和实验证据;</li>
+<li>减少社交媒体情感两极化的观点;</li>
+<li>紧上界的子网约束和团划分问题的精确解;</li>
+<li>社交媒体上的僵尸网络检测;</li>
+<li>混合平衡理论：高阶相互作用下的海德平衡;</li>
+<li>自驱动粒子系统中异质性诱导的泳道和带形成;</li>
+<li>循环树引导的随机 K 核攻击;</li>
+<li>序列时间网络上的演化动力学;</li>
+<li>学术迁移导致的科学合作网络动态;</li>
+<li>个人语言使用中的结构不变量：词的“自我网络”;</li>
+<li>智能爬取：一种从 Twitter 进行焦点爬取的新方法;</li>
+<li>ConTIG：时间交互图上的连续表示学习;</li>
+<li>Twitter 中西班牙语变体的大规模词法和语义分析;</li>
+<li>基于在线客户评论的酒店偏好排名;</li>
+<li>通过社会网络挖掘提取人们对 COVID-19 的感受;</li>
+<li>工程网络的多商品路由优化;</li>
+</ul>
+
+<p></p>
+
+<h3 id="复杂系统中高阶相互作用的物理学">复杂系统中高阶相互作用的物理学</h3>
+
+<p>原文标题： The physics of higher-order interactions in complex systems</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.06023">http://arxiv.org/abs/2110.06023</a></p>
+
+<p>作者： Federico Battiston, Enrico Amico, Alain Barrat, Ginestra Bianconi, Guilherme Ferraz de Arruda, Benedetta Franceschiello, Iacopo Iacopini, Sonia Kéfi, Vito Latora, Yamir Moreno, Micah M. Murray, Tiago P. Peixoto, Francesco Vaccarino, Giovanni Petri</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.06023v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 复杂网络已成为建模交互系统动力学的主要范式。然而，网络本质上仅限于描述成对的交互，而现实世界的系统通常以涉及三个或更多单元的组的高阶交互为特征。因此，高阶结构，例如超图和单纯复形，是绘制许多社会、生物和人造系统的真实组织的更好工具。在这里，我们强调了由高阶相互作用引起的集体行为的最新证据，并概述了高阶系统物理学的三个关键挑战。</p>
+
+<h3 id="gcn-se-注意力作为动态图中节点分类的可解释性">GCN-SE：注意力作为动态图中节点分类的可解释性</h3>
+
+<p>原文标题： GCN-SE: Attention as Explainability for Node Classification in Dynamic Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05598">http://arxiv.org/abs/2110.05598</a></p>
+
+<p>作者： Yucai Fan, Yuhang Yao, Carlee Joe-Wong</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05598v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 图卷积网络 (GCN) 是一种流行的图表示学习方法，已被证明对节点分类任务等任务有效。尽管典型的 GCN 模型专注于对静态图中的节点进行分类，但最近的一些变体提出了动态图中的节点分类，其拓扑和节点属性随时间而变化，例如具有动态关系的社会网络或具有变化的共同作者的文献引用网络。然而，这些工作并没有完全解决在不同时间为图的快照灵活分配不同重要性的挑战，这取决于图动态可能对标签具有或多或少的预测能力。我们通过提出一种新方法 GCN-SE 来应对这一挑战，该方法受 Squeeze and Excitation Net (SE-Net) 的启发，将一组可学习的注意力权重附加到不同时间的图快照。我们表明 GCN-SE 在各种图数据集上的表现优于先前提出的节点分类方法。为了验证注意力权重在确定不同图快照重要性方面的有效性，我们将可解释机器学习领域的基于扰动的方法应用于图设置，并评估 GCN-SE 学习的注意力权重与随着时间的推移不同的快照。这些实验表明 GCN-SE 实际上可以识别不同快照对动态节点分类的预测能力。</p>
+
+<h3 id="从手机数据推断供应网络以估计国民经济的弹性">从手机数据推断供应网络以估计国民经济的弹性</h3>
+
+<p>原文标题： Inferring supply networks from mobile phone data to estimate the resilience of a national economy</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05625">http://arxiv.org/abs/2110.05625</a></p>
+
+<p>作者： Tobias Reisch, Georg Heiler, Christian Diem, Stefan Thurner</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05625v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 国家经济依赖于数以百万计的客户-供应商关系网络。一些公司——在他们违约的情况下——会在供应链网络中引发重大的连锁冲击，因此具有系统性风险。到目前为止，由于无法获得公司层面的交易数据，单个公司的系统性风险实际上无法量化。到目前为止，经济冲击通常是在行业层面的投入产出分析框架内研究的，而不能将风险与单个公司联系起来。仅在极少数国家/地区存在基于税收或支付数据的确切公司级供应网络。在这里，我们探讨了电信数据在多大程度上可以用作廉价、易于获得和实时的替代方案，以在公司层面重建国家供应网络。我们发现，正确识别真正的客户-供应商链接的条件概率（假设存在通信链接）约为 90%。这种质量水平使我们能够可靠地估计整个国家的系统性风险状况，作为其经济弹性的主体。特别是，我们能够识别高系统性风险公司。我们发现 65 家公司有可能在生产链中引发大规模的连锁中断，从而对经济造成严重损害。我们验证了公司间通信网络的拓扑特征与具有精确公司级交互的国家生产网络高度相似。</p>
+
+<h3 id="社交媒体报道的公共交通事件空间数据挖掘">社交媒体报道的公共交通事件空间数据挖掘</h3>
+
+<p>原文标题： Spatial Data Mining of Public Transport Incidents reported in Social Media</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05573">http://arxiv.org/abs/2110.05573</a></p>
+
+<p>作者： Kamil Raczycki, Marcin Szymański, Yahor Yeliseyenka, Piotr Szymański, Tomasz Kajdanowicz</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05573v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 公共交通机构使用社交媒体作为向乘客传达移动事故的重要工具。然而，虽然关于交通现象的短期日常信息通常以低延迟发布在社交媒体上，但其可用性是短期的，因为内容很少形成聚合形式。交通现象的社交媒体传播通常缺乏 GIS 注释，因为大多数社交媒体平台不允许将非 POI GPS 坐标附加到帖子。因此，对传输现象信息的分析是最少的。我们收集了一家波兰公共交通公司三年来的社交媒体帖子以及用户评论。通过探索，我们推断出六类交通信息类型。我们成功地为社交媒体帖子构建了一个信息类型分类器，检测帖子中的站点名称，并将它们与 GPS 坐标相关联，从而获得对长期聚合现象的空间理解。我们展示了我们的方法支持公民科学，并使用它来分析三年基础设施事件对乘客流动性的影响，以及对每个事件的情绪和反应规模。波兰语是一种资源不足的语言，在空间语言理解方面取得了所有这些成果，尤其是在社交媒体环境中。为了改善这种情况，我们发布了两个带注释的数据集：带有事件类型标签和匹配的站点名称的社交媒体帖子以及带有带注释情绪的社交媒体评论。我们还开源了实验代码库。</p>
+
+<h3 id="社会化背景下的相互合作与容忍背叛-理论模型和实验证据">社会化背景下的相互合作与容忍背叛：理论模型和实验证据</h3>
+
+<p>原文标题： Mutual cooperation and tolerance to defection in the context of socialization: the theoretical model and experimental evidence</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05576">http://arxiv.org/abs/2110.05576</a></p>
+
+<p>作者： Tatiana Kozitsina, Ivan Kozitsin, Ivan Menshikov</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05576v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 人类合作本质的研究仍然存在需要调查的空白。先前的研究结果表明，在著名的囚徒困境 (PD) 博弈中，社会化有效地促进了合作。然而，理论概念未能描述经验观察到的高水平合作（概率高于 50%）。在本文中，我们在马尔可夫策略中推导出了 PD 中的对称量子响应平衡 (QRE)，并根据实验数据对其进行了测试。我们的结果表明，对于低水平的理性，QRE 设法描述了高度合作。相比之下，对于高理性 QRE 收敛于纳什均衡并描述参与者的低合作行为。在中等理性区域，QRE 匹配代表马尔可夫策略中纳什均衡集的曲线。此外，根据实验数据，我们发现 QRE 作为社交前后行为的分界线。最后，我们成功地突出了马尔可夫策略中的纳什均衡集与 QRE 曲线的理论预测交集。</p>
+
+<h3 id="减少社交媒体情感两极化的观点">减少社交媒体情感两极化的观点</h3>
+
+<p>原文标题： Perspective-taking to Reduce Affective Polarization on Social Media</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05596">http://arxiv.org/abs/2110.05596</a></p>
+
+<p>作者： Martin Saveski, Nabeel Gillani, Ann Yuan, Prashanth Vijayaraghavan, Deb Roy</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05596v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 全球范围内情感两极分化的加剧引发了新的问题，即社交媒体平台可能如何进一步破坏已经分裂的公共领域。与意识形态两极分化相反，情感两极分化较少由不同的政策偏好定义，更多由对反对政治团体的强烈负面情绪定义，因此可以说对理性民主话语构成了巨大威胁。我们探索在社交媒体平台上促进观点转换是否有助于增强对立群体之间的同理心，作为减少情感两极分化的第一步。具体来说，我们通过浏览器扩展向 Twitter 上的 1,611 名参与者部署了一项随机现场实验，这使参与者能够随机将其提要替换为那些政治观点与他们自己的观点一致或不同的帐户的提要。我们发现，简单地让参与者接触“外群”信息可以增强参与度，但不能理解其他人为什么持有他们的政治观点。另一方面，通过提示参与者回忆与朋友的分歧，以熟悉的、同理心的方式构建体验不会影响参与，但确实会增加他们理解对立观点的能力。我们的研究结果说明了社交媒体平台如何采取符合业务目标的简单步骤来减少情感两极分化。</p>
+
+<h3 id="紧上界的子网约束和团划分问题的精确解">紧上界的子网约束和团划分问题的精确解</h3>
+
+<p>原文标题： Subnetwork Constraints for Tighter Upper Bounds and Exact Solution of the Clique Partitioning Problem</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05627">http://arxiv.org/abs/2110.05627</a></p>
+
+<p>作者： Alexander Belyi, Stanislav Sobolevsky, Alexander Kurbatski, Carlo Ratti</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05627v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们考虑一个完整加权图的聚类问题的变体。目的是将节点划分为集群，最大化集群内边权重的总和。这个问题被称为集团划分问题，在具有不同符号的边权重的一般情况下是 NP-hard 问题。我们提出了一种估计目标函数上限的新方法，我们将其与经典的分支定界技术相结合以找到精确解。我们在广泛的随机图和现实世界网络上评估我们的方法。与已知的替代方法相比，所提出的方法提供了更严格的上限并实现了显著的收敛速度改进。</p>
+
+<h3 id="社交媒体上的僵尸网络检测">社交媒体上的僵尸网络检测</h3>
+
+<p>原文标题： BotNet Detection On Social Media</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05661">http://arxiv.org/abs/2110.05661</a></p>
+
+<p>作者： Aniket Chandrakant Devle, Julia Ann Jose, Abhay Shrinivas Saraswathula, Shubham Mehta, Siddhant Srivastava, Sirisha Kona, Sudheera Daggumalli</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05661v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 鉴于社交媒体的流行及其作为鼓励言论自由的平台的概念，它已成为试图操纵使用这些平台的其他用户的用户（机器人）帐户的开放游乐场。社交机器人不仅可以学习人类的对话、举止和存在感，还可以操纵舆论、充当骗子、操纵股市等。有证据表明，机器人可以操纵选举结果，这可能对整个国家构成巨大威胁，因此整个世界。因此，识别和预防此类发布或创建机器人的活动对于从源头上解决问题变得至关重要。我们的目标是利用语义网络挖掘技术来识别参与这些活动的虚假机器人或帐户。</p>
+
+<h3 id="混合平衡理论-高阶相互作用下的海德平衡">混合平衡理论：高阶相互作用下的海德平衡</h3>
+
+<p>原文标题： Hybrid balance theory: Heider balance under higher order interactions</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05851">http://arxiv.org/abs/2110.05851</a></p>
+
+<p>作者： M. H. Hakimi Siboni, A. Kargaran, G. R. Jafari</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05851v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 符号网络中的海德平衡理论由友谊或敌意关系组成，是一种将两个人与第三人之间的关系类型联系起来的模型。在这个模型中，有一个三元关系独立性的假设，即一个三角形的平衡或不平衡不影响另一个，能量只取决于每种三角形的数量。有证据表明，在真实的网络数据中，除了三阶交互作用（Heider Balance），高阶交互作用也起作用。超越海德平衡的一步，通过去除三角独立性假设来研究四次平衡的影响。四次平衡的应用导致相邻三角形的平衡或不平衡状态对每个特定三角形的影响。在这里，出现了一个问题，即四次平衡（四阶）的存在如何影响海德平衡。平均场法得到的相图显示高阶相互作用强度有一个阈值，低于这个阈值，三阶相互作用占主导地位，网络中不存在不平衡三角形，高于这个阈值，正方形有效地确定了平衡不平衡三角形可以生存的状态。平均场的解表明我们在主体的随机行为（温度）方面有一个一阶相变，这与蒙特卡罗模拟结果一致。</p>
+
+<h3 id="自驱动粒子系统中异质性诱导的泳道和带形成">自驱动粒子系统中异质性诱导的泳道和带形成</h3>
+
+<p>原文标题： Heterogeneity-induced lane and band formation in self-driven particle systems</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05874">http://arxiv.org/abs/2110.05874</a></p>
+
+<p>作者： Basma Khelfa, Raphael Korbmacher, Andreas Schadschneider, Antoine Tordeux</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05874v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 相互作用的自驱动粒子的集体运动描述了许多类型的协调动力学和自组织。突出的例子是对齐或车道形成，可以与其他有序结构和非均匀模体一起观察。在本文中，我们研究了两个物种自驱动粒子系统中不同类型的异质性的影响。我们表明异质性通常可以在运动中引发分离并确​​定两种异质性机制。当异质性静态存在于主体特征（淬灭障碍）时，会出现平行于运动方向的纵向车道。而与运动方向正交的横带是由相互作用中的动态异质性（退火无序）引起的。在这两种情况下，非线性转变都会随着异质性的增加而发生，从无序到具有通道或带模式的有序状态。对于一阶和二阶运动模型以及与粒子速度和大小相关的不同特征参数，可以观察到这些通用特征。模拟结果表明，集体动力学发生在相对较短的时间间隔内，持续稳定，并且对随机扰动具有部分鲁棒性。</p>
+
+<h3 id="循环树引导的随机-k-核攻击">循环树引导的随机 K 核攻击</h3>
+
+<p>原文标题： Cycle-Tree Guided Attack of Random K-Core</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05940">http://arxiv.org/abs/2110.05940</a></p>
+
+<p>作者： Hai-Jun Zhou</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05940v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 图的 K 核是最大子图，其中每个顶点至少连接到 K 个其他顶点。它是用于理解具有不连续渗透转换的阈值级联过程的基本网络概念。最小攻击集包含最少数量的顶点，这些顶点的移除会导致 K 核完全崩溃。在这里，我们从循环树最大打包的角度解决了这个典型的最优初始条件问题，并提出了一种循环树引导攻击（CTGA）消息传递算法。 CTGA 的良好性能和时间效率在常规随机和 Erdos-Renyi 随机图集合上得到验证。我们将长期相关动态过程投影到静态结构模式的中心思想也可能对其他硬优化和控制问题具有指导意义。</p>
+
+<h3 id="序列时间网络上的演化动力学">序列时间网络上的演化动力学</h3>
+
+<p>原文标题： Evolutionary Dynamics on Sequential Temporal Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05995">http://arxiv.org/abs/2110.05995</a></p>
+
+<p>作者： Anzhi Sheng, Aming Li, Long Wang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05995v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 研究个体群体之间合作的演化在演化动力学中是必不可少的。人口结构是影响合作演变的关键因素。具有随机活动节点和边的时间网络已被证明可以促进相对于静态对应物的合作演化。然而，时间网络的演化通常伴随着节点和边的连续增长，而不是随机激活。在这里，我们首先考虑个体依次进入的顺序时间网络，并研究网络上的演化动态。我们推导出顺序时间网络促进合作演化的明确条件。具体来说，我们在网络演化过程中发现了新节点和边的系统特征，这提供了顺序时间网络有利于合作的优势。最后，我们确认合成数据和经验数据都在顺序时间网络上呈现出这样的优势。我们的结果在理论上推进了对时间网络演化动力学的研究，这对于促进合作的演化至关重要。</p>
+
+<h3 id="学术迁移导致的科学合作网络动态">学术迁移导致的科学合作网络动态</h3>
+
+<p>原文标题： Dynamics of scientific collaboration networks due to academic migrations</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.06009">http://arxiv.org/abs/2110.06009</a></p>
+
+<p>作者： Pavlos Paraskevopoulos, Chiara Boldrini, Andrea Passarella, Marco Conti</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.06009v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 学术迁移是研究人员对主办机构的改变，通常旨在获得更强大的研究能力。诸如合作数量、生产力及其研究影响等科学特征往往会直接受到此类运动的影响。在本文中，我们分析了研究人员从一个机构转移到下一个机构时合作网络的动态。我们特别强调了它们增加和收缩的情况，并量化了这种运动前后协作网络之间的依赖关系。最后，我们通过根据研究人员的职业阶段划分动作来深入分析。分析显示跨迁移的协作网络具有非凡的活力。有趣的是，运动并不总是会导致更大的协作网络，而跨运动的网络之间的整体相似性平均来说非常有限。定性地说，在所有职业阶段都可以发现相同的影响，而很明显，它们的大小可能会有所不同。这些结果基于从 Scopus 提取的数据集，其中包含 84,141 名研究人员的出版物的详细科学信息。</p>
+
+<h3 id="个人语言使用中的结构不变量-词的-自我网络">个人语言使用中的结构不变量：词的“自我网络”</h3>
+
+<p>原文标题： Structural invariants in individuals language use: the &ldquo;ego network&rdquo; of words</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.06015">http://arxiv.org/abs/2110.06015</a></p>
+
+<p>作者： Kilian Ollivier, Chiara Boldrini, Andrea Passarella, Marco Conti</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.06015v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 人类学家已经广泛研究了人类在社交互动中表现出的认知限制，他们强调了他们在不同类型的社会网络中的规律性。我们假设在其他认知过程中也可以找到类似的规律，例如涉及语言产生的过程。为了为这一说法提供初步证据，我们分析了一个包含一组异类 Twitter 用户（普通用户和专业作家）的推文的数据集。利用类似于用于揭示公认的社会认知约束的方法，我们发现同心分层结构（我们称之为词的自我网络，类似于社会关系的自我网络）很好地捕捉了个人如何组织他们使用的词。当向外移动时，这个结构中的层的大小有规律地增长（大约是前一层的 2-3 倍），并且倒数第二个外层始终占所用词的大约 60% 和 30%（最外层）包含 100% 的词），与用户的总层数无关。</p>
+
+<h3 id="智能爬取-一种从-twitter-进行焦点爬取的新方法">智能爬取：一种从 Twitter 进行焦点爬取的新方法</h3>
+
+<p>原文标题： Smart Crawling: A New Approach toward Focus Crawling from Twitter</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.06022">http://arxiv.org/abs/2110.06022</a></p>
+
+<p>作者： Ahmad Khazaie, Nacéra Bennacer Seghouani, Francesca Bugiotti</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.06022v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： Twitter 是一个社会网络，它提供了丰富而有趣的信息来源，难以检索和分析。可以使用 REST API 访问 Twitter 数据。可用的操作允许基于一组关键字检索推文，但有限制，例如每分钟的调用次数和结果的大小。此外，无法控制检索到的结果，查找与特定主题相关的推文是一个大问题。鉴于这些限制，重要的是查询关键字明确涵盖感兴趣的主题，以便获得相关答案并减少 API 调用次数。在本文中，我们介绍了一种名为“SmartTwitter Crawling”（STiC）的新爬行算法，该算法检索与目标主题相关的一组推文。在该算法中，我们采用初始关键字查询，并使用一组来自不同数据源的附加关键字对其进行丰富。 STiC 算法依赖于 Twittergraph 中的 DFS 搜索，其中每个到达的推文是否与使用评分的查询关键字相关，并在整个爬行过程中更新。该评分考虑了推文文本、主题标签以及发布推文、回复推文、在推文中被提及或转发推文的用户。给定这个分数，STiC 能够在每次迭代中选择相关的推文，并继续添加相关的有价值的推文。针对不同类型的查询进行了多次实验，结果表明与简单的 BFS 搜索相比，精度有所提高。</p>
+
+<h3 id="contig-时间交互图上的连续表示学习">ConTIG：时间交互图上的连续表示学习</h3>
+
+<p>原文标题： ConTIG: Continuous Representation Learning on Temporal Interaction Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.06088">http://arxiv.org/abs/2110.06088</a></p>
+
+<p>作者： Xu Yan, Xiaoliang Fan, Peizhen Yang, Zonghan Wu, Shirui Pan, Longbiao Chen, Yu Zang, Cheng Wang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.06088v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 时间交互图 (TIG) 上的表示学习是对复杂网络进行建模，其中包含在广泛问题中出现的交互的动态演化。现有的 TIG 动态嵌入方法仅在交互发生时离散地更新节点嵌入。他们未能捕捉到节点嵌入轨迹的连续动态演化。在本文中，我们提出了一个名为 ConTIG 的双模块框架，这是一种连续表示方法，可以捕捉节点嵌入轨迹的连续动态演化。通过两个基本模块，我们的模型利用动态网络中的三重因素，包括最新的交互、邻居特征和固有特征。在第一个更新模块中，我们使用连续推理块通过使用常微分方程从节点对之间的时间相邻交互模式中学习来学习节点的状态轨迹。在第二个转换模块中，我们引入了一种自我注意机制，通过聚合历史时间交互信息来预测未来的节点嵌入。实验结果表明，与一系列最先进的基线相比，ConTIG 在时间链路预测、时间节点推荐和动态节点分类任务上的优越性，尤其是对于长间隔交互预测。</p>
+
+<h3 id="twitter-中西班牙语变体的大规模词法和语义分析">Twitter 中西班牙语变体的大规模词法和语义分析</h3>
+
+<p>原文标题： A large scale lexical and semantic analysis of Spanish language variations in Twitter</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.06128">http://arxiv.org/abs/2110.06128</a></p>
+
+<p>作者： Eric S. Tellez, Daniela Moctezuma, Sabino Miranda, Mario Graff</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.06128v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 方言学是一门专门研究语言在一个地理区域周围变化的学科。他们的目标之一是创建语言地图集，捕捉所研究语言在相关领域的异同。例如，西班牙语是世界上使用人数最多的语言之一，但西班牙语在不同国家的书写和使用方式不一定相同。这份手稿对全球 26 个西班牙语国家之间的词汇和语义关系进行了广泛的分析。在这项研究中，我们分析了四年的 Twitter 地理标记公共流，以提供对不同国家的西班牙语词汇、其分布、术语的语义使用和表情符号的广泛调查。我们还为西班牙语 Twitter 提供开放的区域词嵌入资源，以帮助其他研究人员和从业人员利用区域化模型。</p>
+
+<h3 id="基于在线客户评论的酒店偏好排名">基于在线客户评论的酒店偏好排名</h3>
+
+<p>原文标题： Hotel Preference Rank based on Online Customer Review</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.06133">http://arxiv.org/abs/2110.06133</a></p>
+
+<p>作者： Muhammad Apriandito Arya Saputra, Andry Alamsyah, Fajar Ibnu Fatihan</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.06133v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 顶级酒店现在正在转向数字化方式，理解他们如何理解客户以维持和确保满意度。与使用书面评论或采访的传统方式不同，酒店现在正在大力投资人工智能，尤其是机器学习解决方案。在线客户评论分析改变了公司以比使用传统分析更有效的方式做出决策的方式。本研究的目的是衡量酒店服务质量。所提出的方法强调根据 2018 年最佳部分出现在在线旅游网站 TripAdvisor 上的印度尼西亚前 5 名豪华酒店的服务质量维度评论。在本研究中，我们使用基于简单贝叶斯分类器的模型对每个客户进行分类审查为服务质量维度之一。我们的模型能够通过准确度、kappa、召回率、精确度和 F 测量值来正确地分离每个分类。为了发现客户意见中的潜在主题，我们使用主题建模。我们发现发生的常见问题与响应能力有关，因为与其他问题相比，它的百分比最低。我们的研究根据之前在线评论的摘要，为最终客户提供了基于服务质量的酒店排名更快的前景。</p>
+
+<h3 id="通过社会网络挖掘提取人们对-covid-19-的感受">通过社会网络挖掘提取人们对 COVID-19 的感受</h3>
+
+<p>原文标题： Extracting Feelings of People Regarding COVID-19 by Social Network Mining</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.06151">http://arxiv.org/abs/2110.06151</a></p>
+
+<p>作者： Hamed Vahdat-Nejad, Fatemeh Salmani, Mahdi Hajiabadi, Faezeh Azizi, Sajedeh Abbasi, Mohadese Jamalian, Reyhane Mosafer, Hamideh Hajiabadi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.06151v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 2020年，COVID-19成为全球关注的焦点，至今仍广泛反映在所有社会网络中。每天，用户发布数百万条关于该主题的推文和评论，其中包含有关舆论的重要隐含信息。对此，收集了COVID相关英文推文数据集，其中包含2020年3月23日至6月23日期间超过200万条推文，以提取各国人民在此次疫情初期的感受.为此，首先，我们使用基于词典的方法与 GeoNames 地理数据库结合使用它们的位置标记推文。接下来，提出了一种基于最近引入并被广泛引用的 RoBERTa 模型的方法来分析其情感内容。之后，为世界和更多参与 COVID-19 的国家生成推文频率和情绪的趋势图。图分析表明，大多数国家的推文频率图与官方统计数据显著相关。此外，提取和讨论了几个隐性知识。</p>
+
+<h3 id="工程网络的多商品路由优化">工程网络的多商品路由优化</h3>
+
+<p>原文标题： Multicommodity routing optimization for engineering networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.06171">http://arxiv.org/abs/2110.06171</a></p>
+
+<p>作者： Alessandro Lonardi, Mario Putti, Caterina De Bacco</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.06171v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 优化乘客路线对于设计高效的交通网络至关重要。最近的结果表明，最优传输为标准优化方法提供了一种有效的替代方法。然而，目前尚不清楚这种形式主义在工程网络上是否具有经验有效性。我们通过考虑不同的响应函数——决定乘客之间相互作用的数量——在实施最佳运输公式的动态中解决这个问题。特别是，我们将理论基础的响应函数与对于涉及乘客运输的设置直观的响应函数进行了比较，尽管缺乏理论依据。我们调查了巴黎地铁上的这两种建模选择，并分析了它们如何反映乘客流量。我们测量了交通瓶颈的程度和基础设施对节点移除的恢复能力，表明这两种设置在拥挤的运输制度中是等效的，但在分支运输制度中不同。在后者中，这两种公式在流量分布方式上有所不同，其中一个功能有利于路线整合，因此可能容易产生交通过载。此外，我们将我们的方法与 Dijkstra 算法进行比较，以显示其有效恢复类最短路径图的能力。最后，我们观察到最佳交通网络位于由乘客消耗的能量和建造基础设施的成本所绘制的帕累托前沿。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20211013/">https://netsci.complexly.cn/post/20211013/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20211012/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要6篇(2021-10-12)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
