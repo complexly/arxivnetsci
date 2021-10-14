@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2021-10-14)</title>
+      <link>https://netsci.complexly.cn/post/20211014/</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211014/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用顶点替换语法的属性图建模;&lt;/li&gt;
+&lt;li&gt;分布式动态图中的增量社区检测;&lt;/li&gt;
+&lt;li&gt;单元复形上的信号处理;&lt;/li&gt;
+&lt;li&gt;SSSNET：半监督符号网络聚类;&lt;/li&gt;
+&lt;li&gt;使用用户移动性表征和建模应用程序对开源用户活动跟踪的综述;&lt;/li&gt;
+&lt;li&gt;在接触网络上进行部分传播和社交距离的疫苗接种;&lt;/li&gt;
+&lt;li&gt;Facebook上独一无二：使用非 PII 数据（微）针对个人用户的制定和证据;&lt;/li&gt;
+&lt;li&gt;GitHub 中的技能多样性和集体智慧;&lt;/li&gt;
+&lt;li&gt;出租车路线行驶距离和时间变化的尺度;&lt;/li&gt;
+&lt;li&gt;CasSeqGCN：结合网络结构和时间序列来预测信息级联;&lt;/li&gt;
+&lt;li&gt;Ousiometrics and Telegnomics：意义的本质符合二维的强弱和危险安全框架，多样化的语料库呈现出安全偏差;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要20篇(2021-10-13)</title>
