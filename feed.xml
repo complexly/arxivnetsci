@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 14 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2021-10-15)</title>
+      <link>https://netsci.complexly.cn/post/20211015/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211015/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;带有可变重启的随机游走，用于负例信息标签传播;&lt;/li&gt;
+&lt;li&gt;网络表示学习：从预处理、特征提取到节点嵌入;&lt;/li&gt;
+&lt;li&gt;网络上动力系统一维归约的精度;&lt;/li&gt;
+&lt;li&gt;艺术图像引发的社会概念自动建模为多模态框架;&lt;/li&gt;
+&lt;li&gt;大型符号图网络的扩展社区发现方法的进展;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2021-10-14)</title>
