@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2021-10-18)</title>
+      <link>https://netsci.complexly.cn/post/20211018/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211018/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Residual2Vec：使用随机图的去偏图嵌入;&lt;/li&gt;
+&lt;li&gt;具有异质性的随机时间网络模型中的有向渗流;&lt;/li&gt;
+&lt;li&gt;跨平台关注被撤稿的动态：普遍性、观众怀疑和撤稿时间;&lt;/li&gt;
+&lt;li&gt;异构网络上的个人与社会利益;&lt;/li&gt;
+&lt;li&gt;基于生成根森林的角色相似度度量;&lt;/li&gt;
+&lt;li&gt;ACE-HGNN：自适应曲率探索双曲图神经网络;&lt;/li&gt;
+&lt;li&gt;带噪声信息的网络级联的最快推理;&lt;/li&gt;
+&lt;li&gt;高等教育对社会分层影响的多主体描述;&lt;/li&gt;
+&lt;li&gt;古典音乐和声码字频率分布中的对数正态、幂律和双幂律;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2021-10-15)</title>
