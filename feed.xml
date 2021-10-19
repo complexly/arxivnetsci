@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2021-10-19)</title>
+      <link>https://netsci.complexly.cn/post/20211019/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211019/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有非对称噪声的稳健相关聚类;&lt;/li&gt;
+&lt;li&gt;DFW-PP：基于动态特征加权的社交媒体内容流行度预测;&lt;/li&gt;
+&lt;li&gt;动态图回声状态网络;&lt;/li&gt;
+&lt;li&gt;理解网络形成模式以更好地预测链接;&lt;/li&gt;
+&lt;li&gt;相互依赖的耦合映射到热、高阶相互作用;&lt;/li&gt;
+&lt;li&gt;测量信念对信念网络的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2021-10-18)</title>
