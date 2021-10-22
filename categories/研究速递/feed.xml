@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2021-10-22)</title>
+      <link>https://netsci.complexly.cn/post/20211022/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211022/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于探索异构边的多阶段网络嵌入;&lt;/li&gt;
+&lt;li&gt;复杂网络的隐写术;&lt;/li&gt;
+&lt;li&gt;具有幂律超传播事件的流行病过程的有限时间尺度;&lt;/li&gt;
+&lt;li&gt;通过多智能体深度层次强化学习进行对抗性社交机器人学习;&lt;/li&gt;
+&lt;li&gt;在旅游研究中使用购物篮分析;&lt;/li&gt;
+&lt;li&gt;具有任意度分布的网络上矢量自旋模型的平均场理论;&lt;/li&gt;
+&lt;li&gt;专利异议和合作网络中的时间模体;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2021-10-20)</title>
@@ -24,7 +43,7 @@
 &lt;li&gt;新特征用于时间序列分析：复杂网络方法;&lt;/li&gt;
 &lt;li&gt;学习如何学习图拓扑;&lt;/li&gt;
 &lt;li&gt;网络科学预测权力的游戏中下一个死亡的是谁;&lt;/li&gt;
-&lt;li&gt;顺其自然？使用霍奇理论对美国医疗保健提供网络的大规模分析;&lt;/li&gt;
+&lt;li&gt;顺流而行？使用霍奇理论对美国医疗保健提供网络的大规模分析;&lt;/li&gt;
 &lt;li&gt;拼车和数据隐私：实际状况分析;&lt;/li&gt;
 &lt;li&gt;在危机早期失去最佳科学指导的战斗：Covid-19 及以后;&lt;/li&gt;
 &lt;li&gt;可视化社会网络中的集体创意产生和创新过程;&lt;/li&gt;
