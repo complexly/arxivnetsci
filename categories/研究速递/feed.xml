@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2021-10-25)</title>
+      <link>https://netsci.complexly.cn/post/20211025/</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211025/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Node包管理器的依赖网络健壮性;&lt;/li&gt;
+&lt;li&gt;使用机器学习从网络特征预测金融市场结构;&lt;/li&gt;
+&lt;li&gt;使用潜在空间模型奠定力导向网络布局基础;&lt;/li&gt;
+&lt;li&gt;基于节点的广义友谊悖论失败;&lt;/li&gt;
+&lt;li&gt;多视图对比图聚类;&lt;/li&gt;
+&lt;li&gt;FakeNewsLab：关于防止我们区分真假新闻的偏见和陷阱的实验研究;&lt;/li&gt;
+&lt;li&gt;大型和稀疏网络中beta模型的 L-2 正则化最大似然;&lt;/li&gt;
+&lt;li&gt;基于路径的方法分析全球班轮运输网络;&lt;/li&gt;
+&lt;li&gt;使用移动性和 Web 搜索数据通过基于社会的图神经网络进行多波 COVID-19 预测;&lt;/li&gt;
+&lt;li&gt;在存在交通不稳定的情况下消除由谷段引起的交通拥堵的拥塞吸收驱动策略的系统大小依赖性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2021-10-22)</title>
