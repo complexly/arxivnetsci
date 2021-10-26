@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2021-10-26)</title>
+      <link>https://netsci.complexly.cn/post/20211026/</link>
+      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211026/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;竞争平衡理论中符号网络临界行为的平均场解;&lt;/li&gt;
+&lt;li&gt;网络数据的动态随机块模型回归：在国际军事冲突中的应用;&lt;/li&gt;
+&lt;li&gt;如何量化意见动力学模型中的极化;&lt;/li&gt;
+&lt;li&gt;法律风格：定义和检测法律起草中的问题模式;&lt;/li&gt;
+&lt;li&gt;节点不平衡分类中的智能距离原型图神经网络;&lt;/li&gt;
+&lt;li&gt;检测非洲城市网络中具有高中介性的城市;&lt;/li&gt;
+&lt;li&gt;动态图上的事件检测;&lt;/li&gt;
+&lt;li&gt;社会网络中的用户参与动态;&lt;/li&gt;
+&lt;li&gt;社交媒体上网络安全错误信息的普遍性：关于网络钓鱼报告和 Zoom 威胁的案例研究;&lt;/li&gt;
+&lt;li&gt;星座线图的网络特征;&lt;/li&gt;
+&lt;li&gt;城市大数据的神经嵌入揭示了城市中的新兴结构;&lt;/li&gt;
+&lt;li&gt;不同疾病传播风险认知下保护行为的涌现;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-10-25)</title>
