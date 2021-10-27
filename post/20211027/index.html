@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要19篇(2021-10-27) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+NetMF&#43;：基于快速有效的单通随机矩阵分解的网络嵌入;
+在大型网络中对多个节点进行采样：超越随机游走;
+使用Twitter粉丝图比较位置同质性指标;
+通过 Avrami 方程分析东京的 COVID-19 感染波;
+用于时间网络分析的快照图的定量评估;
+在分享 COVID-19 错误信息时干预用户注意力的视觉选择性注意系统;
+具有等效顶点的图集上 ERGM 的高度可扩展的最大似然和共轭贝叶斯推理;
+适应稀疏连接的主体在不断变化的社会环境下的集体决策;
+TME-BNA：带有二分量邻居聚合的时间模体保留网络嵌入;
+大规模社会网络的子采样谱聚类;
+通过网络嵌入进行疫苗怀疑检测;
+封锁期间基于图的俄罗斯社交媒体信息空间变化监测管道;
+用于图嵌入的基于度的随机游走方法;
+关于淘汰赛抽签限制的后果;
+DASentimental：通过情绪回忆、认知网络和机器学习检测文本中的抑郁、焦虑和压力;
+Twitter 的勃朗峰：识别社会网络中杰出峰值的层次结构;
+只要你说到我：家族企业品牌的重要性和家族企业身份的偶然作用;
+异常扩散与波动标度的关系：超慢扩散与语言中与时间尺度无关的波动标度的案例;
+异构含时图神经网络;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要19篇(2021-10-27) - 网络科学研究速递">
+<meta itemprop="description" content="
+NetMF&#43;：基于快速有效的单通随机矩阵分解的网络嵌入;
+在大型网络中对多个节点进行采样：超越随机游走;
+使用Twitter粉丝图比较位置同质性指标;
+通过 Avrami 方程分析东京的 COVID-19 感染波;
+用于时间网络分析的快照图的定量评估;
+在分享 COVID-19 错误信息时干预用户注意力的视觉选择性注意系统;
+具有等效顶点的图集上 ERGM 的高度可扩展的最大似然和共轭贝叶斯推理;
+适应稀疏连接的主体在不断变化的社会环境下的集体决策;
+TME-BNA：带有二分量邻居聚合的时间模体保留网络嵌入;
+大规模社会网络的子采样谱聚类;
+通过网络嵌入进行疫苗怀疑检测;
+封锁期间基于图的俄罗斯社交媒体信息空间变化监测管道;
+用于图嵌入的基于度的随机游走方法;
+关于淘汰赛抽签限制的后果;
+DASentimental：通过情绪回忆、认知网络和机器学习检测文本中的抑郁、焦虑和压力;
+Twitter 的勃朗峰：识别社会网络中杰出峰值的层次结构;
+只要你说到我：家族企业品牌的重要性和家族企业身份的偶然作用;
+异常扩散与波动标度的关系：超慢扩散与语言中与时间尺度无关的波动标度的案例;
+异构含时图神经网络;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要19篇(2021-10-27) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20211027/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+NetMF&#43;：基于快速有效的单通随机矩阵分解的网络嵌入;
+在大型网络中对多个节点进行采样：超越随机游走;
+使用Twitter粉丝图比较位置同质性指标;
+通过 Avrami 方程分析东京的 COVID-19 感染波;
+用于时间网络分析的快照图的定量评估;
+在分享 COVID-19 错误信息时干预用户注意力的视觉选择性注意系统;
+具有等效顶点的图集上 ERGM 的高度可扩展的最大似然和共轭贝叶斯推理;
+适应稀疏连接的主体在不断变化的社会环境下的集体决策;
+TME-BNA：带有二分量邻居聚合的时间模体保留网络嵌入;
+大规模社会网络的子采样谱聚类;
+通过网络嵌入进行疫苗怀疑检测;
+封锁期间基于图的俄罗斯社交媒体信息空间变化监测管道;
+用于图嵌入的基于度的随机游走方法;
+关于淘汰赛抽签限制的后果;
+DASentimental：通过情绪回忆、认知网络和机器学习检测文本中的抑郁、焦虑和压力;
+Twitter 的勃朗峰：识别社会网络中杰出峰值的层次结构;
+只要你说到我：家族企业品牌的重要性和家族企业身份的偶然作用;
+异常扩散与波动标度的关系：超慢扩散与语言中与时间尺度无关的波动标度的案例;
+异构含时图神经网络;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20211027/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20211027/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要19篇(2021-10-27)</h1>
+
+                  <p class="post-byline">
+                    2021年10月27日 · 8142 字 ·
+                    阅读时间约17分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>NetMF+：基于快速有效的单通随机矩阵分解的网络嵌入;</li>
+<li>在大型网络中对多个节点进行采样：超越随机游走;</li>
+<li>使用Twitter粉丝图比较位置同质性指标;</li>
+<li>通过 Avrami 方程分析东京的 COVID-19 感染波;</li>
+<li>用于时间网络分析的快照图的定量评估;</li>
+<li>在分享 COVID-19 错误信息时干预用户注意力的视觉选择性注意系统;</li>
+<li>具有等效顶点的图集上 ERGM 的高度可扩展的最大似然和共轭贝叶斯推理;</li>
+<li>适应稀疏连接的主体在不断变化的社会环境下的集体决策;</li>
+<li>TME-BNA：带有二分量邻居聚合的时间模体保留网络嵌入;</li>
+<li>大规模社会网络的子采样谱聚类;</li>
+<li>通过网络嵌入进行疫苗怀疑检测;</li>
+<li>封锁期间基于图的俄罗斯社交媒体信息空间变化监测管道;</li>
+<li>用于图嵌入的基于度的随机游走方法;</li>
+<li>关于淘汰赛抽签限制的后果;</li>
+<li>DASentimental：通过情绪回忆、认知网络和机器学习检测文本中的抑郁、焦虑和压力;</li>
+<li>Twitter 的勃朗峰：识别社会网络中杰出峰值的层次结构;</li>
+<li>只要你说到我：家族企业品牌的重要性和家族企业身份的偶然作用;</li>
+<li>异常扩散与波动标度的关系：超慢扩散与语言中与时间尺度无关的波动标度的案例;</li>
+<li>异构含时图神经网络;</li>
+</ul>
+
+<p></p>
+
+<h3 id="netmf-基于快速有效的单通随机矩阵分解的网络嵌入">NetMF+：基于快速有效的单通随机矩阵分解的网络嵌入</h3>
+
+<p>原文标题： NetMF+: Network Embedding Based on Fast and Effective Single-Pass Randomized Matrix Factorization</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.12782">http://arxiv.org/abs/2110.12782</a></p>
+
+<p>作者： Yuyang Xie, Jiezhong Qiu, Wenjian Yu, Xu Feng, Yuxiang Chen, Jie Tang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.12782v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在这项工作中，我们提出了 NetMF+，这是一种为只有 CPU 的单机开发的快速、内存高效、可扩展且有效的网络嵌入算法。 NetMF+ 基于理论保证的嵌入方法 NetMF，并利用随机矩阵分解的理论来有效地学习嵌入。我们首先为改进的拉普拉斯矩阵提出了一种快速随机特征分解算法。然后，利用稀疏符号随机单通道奇异值分解 (SVD) 来避免构造密集矩阵并生成有希望的嵌入。为了提高嵌入的性能，我们在 NetMF+ 中应用了频谱传播。最后，使用高性能并行图处理堆栈 GBBS 来实现内存效率。实验结果表明，NetMF+ 可以在 1.5 小时内从具有超过 10^11 条边的网络中学习到强大的嵌入，并且内存成本低于最先进的方法。在 9 亿个顶点和 750 亿个边的 ClueWeb 上的结果表明，NetMF+ 比 state-of-the-art 节省了一半以上的内存和运行时间，并且具有更好的性能。 NetMF+ 的源代码将在匿名同行评审后公开。</p>
+
+<h3 id="在大型网络中对多个节点进行采样-超越随机游走">在大型网络中对多个节点进行采样：超越随机游走</h3>
+
+<p>原文标题： Sampling Multiple Nodes in Large Networks: Beyond Random Walks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13324">http://arxiv.org/abs/2110.13324</a></p>
+
+<p>作者： Omri Ben-Eliezer, Talya Eden, Joel Oren, Dimitris Fotakis</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13324v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 采样随机节点是分析大规模网络的基本算法原语，许多现代图挖掘算法严重依赖它。我们考虑在假设有限查询访问的情况下在网络中生成大量随机节点的任务（其中查询节点会显示其邻居集）。在当前的方法中，基于长随机游走，每个样本的查询数量与网络的混合时间成线性比例，这对于大型现实世界的网络来说可能是令人望而却步的。我们提出了一种对多个节点进行采样的新方法，该方法通过显式搜索网络中不易访问的组件来绕过混合时间的依赖性。我们在具有多达数千万个节点的各种真实世界和合成网络上测试我们的方法，与现有技术相比，查询复杂性提高了 20 美元。</p>
+
+<h3 id="使用twitter粉丝图比较位置同质性指标">使用Twitter粉丝图比较位置同质性指标</h3>
+
+<p>原文标题： Comparison of Indicators of Location Homophily Using Twitter Follow Graph</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13410">http://arxiv.org/abs/2110.13410</a></p>
+
+<p>作者： Shiori Hironaka, Mitsuo Yoshida, Kyoji Umemura</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13410v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 位置同质化是 Twitter 用户的一种趋势，其追随者往往位于相同或附近的区域。直觉上，虽然拥有较多追随者关系的用户可能有负的同质性指标，但值得参考 Twitter 的实际数据。此外，可能存在某些与同质性更直接相关的朋友和关注者数量的函数。在这项研究中，朋友数量与粉丝数量的比率被证明是更有效的同质性负面指标，并验证了 10 个不同国家的结果。</p>
+
+<h3 id="通过-avrami-方程分析东京的-covid-19-感染波">通过 Avrami 方程分析东京的 COVID-19 感染波</h3>
+
+<p>原文标题： Analysis of COVID-19 infection waves in Tokyo by Avrami equation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13449">http://arxiv.org/abs/2110.13449</a></p>
+
+<p>作者： Yoshihiko Takase</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13449v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本研究的目的是通过相变动力学理论模拟日本首都东京的所有 COVID-19 感染波，并定量分析波形的详细结构以估计原因。东京的整个感染浪潮，基本上是用日本整体的5大浪潮的叠加来表现的。在这几波中，第三波和第五波的结构较为详细，受假期影响，感染人数明显增加。其特点是元旦假期的“新年假期效应”，奥运假期的“东京奥运会假期效应”，以及病毒被Delta变体替代的“Delta变异效应”。由于该方法对累计感染人数的模拟精度较高，因此通过对波形的详细结构进行定量分析，可以有效地估计原因、近期感染人数和疫苗接种效果。</p>
+
+<h3 id="用于时间网络分析的快照图的定量评估">用于时间网络分析的快照图的定量评估</h3>
+
+<p>原文标题： Quantitative Evaluation of Snapshot Graphs for the Analysis of Temporal Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13466">http://arxiv.org/abs/2110.13466</a></p>
+
+<p>作者： Alessandro Chiappori, Rémy Cazabet</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13466v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 分析动态网络的最常见方法之一是通过时间窗口聚合。结果表示是一系列静态网络，即快照图。尽管这种表示在文献中被广泛使用，但仍然缺少评估快照图健全性的通用框架。在本文中，我们提出了两个分数来量化相互冲突的目标：稳定性衡量快照序列的稳定性，而保真度衡量与原始数据相比的信息损失。我们还开发了一种有针对性的链接过滤技术，以简化原始的时间网络。我们的框架在接近度和面对面交互的数据集上进行了测试。</p>
+
+<h3 id="在分享-covid-19-错误信息时干预用户注意力的视觉选择性注意系统">在分享 COVID-19 错误信息时干预用户注意力的视觉选择性注意系统</h3>
+
+<p>原文标题： Visual Selective Attention System to Intervene User Attention in Sharing COVID-19 Misinformation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13489">http://arxiv.org/abs/2110.13489</a></p>
+
+<p>作者： Zaid Amin, Nazlena Mohamad Ali, Alan F. Smeaton</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13489v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 社交媒体上的信息共享必须伴随着细心的行为，以便在扭曲的数字环境中，用户在决定共享信息时不会匆忙和分心。错误信息的传播，尤其是那些与 COVID-19 相关的信息，可能会分裂并在社会中造成虚假信息的负面影响。个人在 COVID-19 治疗中也会引起恐惧、健康焦虑和困惑。尽管许多研究都集中在从心理底线理解人类的判断上，但很少有人解决筛选阶段的基本问题，即哪些技术会干扰用户共享信息的注意力。本研究旨在通过视觉选择性注意方法干预用户的注意力。本研究通过研究 1 和研究 2 使用干预前和干预后实验的定量方法。在研究 1 中，我们通过使用视觉选择性注意系统 (VSAS) 工具刺激十个信息和错误信息来干预用户决策和注意力。在研究 2 中，我们使用内隐关联测试 (IAT) 确定了用户在评估信息时的倾向关联。显著的结果表明，使用 VSAS 后用户的注意力和决策行为得到了改善。 IAT 结果显示用户暴露的关联发生了变化，在使用 VSAS 进行干预后，用户往往不会分享有关 COVID-19 的错误信息。预计结果将成为开发社交媒体应用程序以应对信息流行病 COVID-19 错误信息的负面影响的基础。</p>
+
+<h3 id="具有等效顶点的图集上-ergm-的高度可扩展的最大似然和共轭贝叶斯推理">具有等效顶点的图集上 ERGM 的高度可扩展的最大似然和共轭贝叶斯推理</h3>
+
+<p>原文标题： Highly Scalable Maximum Likelihood and Conjugate Bayesian Inference for ERGMs on Graph Sets with Equivalent Vertices</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13527">http://arxiv.org/abs/2110.13527</a></p>
+
+<p>作者： Fan Yin, Carter T. Butts</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13527v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 指数族随机图建模 (ERGM) 框架为网络的统计分析提供了一种灵活的方法。由于 ERGM 通常涉及计算成本高昂的归一化因素，因此实际推理依赖于各种近似值或其他变通方法。马尔可夫链蒙特卡罗最大似然 (MCMC MLE) 提供了一个强大的工具来近似 ERGM 参数的 MLE，并且对于具有多达几千个节点的单个网络上的典型模型是可行的。用于贝叶斯分析的基于 MCMC 的算法更昂贵，并且在大图上难以获得高质量的答案。对于这两种策略，扩展到池化案例——我们从一个共同的生成过程观察多个网络——增加了进一步的计算成本，时间和内存都随着图的数量线性扩展。这对于大型网络或有大量图观察可用的情况变得令人望而却步。在这里，我们利用离散指数族的一些基本属性来开发一种在池化情况下进行 ERGM 推理的方法，该方法（在适用的情况下）允许拟合任意大量的图观察，除了预处理数据本身之外没有额外的计算成本。此外，我们方法的变体也可用于在共轭先验下执行贝叶斯推理，同样在估计阶段没有额外的计算成本。正如我们所展示的，共轭先验很容易指定，并且非常适合诸如正则化之类的应用。模拟研究表明，合并方法导致估计具有良好的频率特性，并且共轭先验下的后验估计表现良好。我们通过对大脑功能连接网络的汇总分析和复制鸡蛋清溶菌酶的 X 射线晶体结构的应用来展示我们的方法。</p>
+
+<h3 id="适应稀疏连接的主体在不断变化的社会环境下的集体决策">适应稀疏连接的主体在不断变化的社会环境下的集体决策</h3>
+
+<p>原文标题： Collective decision-making under changing social environments among agents adapted to sparse connectivity</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13543">http://arxiv.org/abs/2110.13543</a></p>
+
+<p>作者： Richard P. Mann</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13543v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 人类和其他动物经常遵循其他人做出的决定，因为这些决定了可能选择的质量，从而产生了“社会反应规则”：观察到的主体做出特定选择的概率与其他人做出的决定之间的关系.可以通过考虑寻求使用社会和私人信息最大化其预期效用的理性主体人的行为来理解社会反应的形式。以前的社会反应推导假设主体观察组内的所有其他人，但真实的交互网络通常以稀疏连接为特征。在这里，我分析了理性主体人的可观察行为，这些主体人关注群体中其他人的一个子集所做的决定。这揭示了基于高度简化的社会信息的稀疏连接网络中的自适应策略：观察到的选择每个选项的主体数量的差异。在主体人采用这种策略的情况下，集体结果和决策效率受决策时的社会连通性控制，而不是主体人习惯的社会联系，这为实验室观察到的社会性提供了一个重要的警告，并提出了一个基础用于高度连接的在线社区的社会动态。</p>
+
+<h3 id="tme-bna-带有二分量邻居聚合的时间模体保留网络嵌入">TME-BNA：带有二分量邻居聚合的时间模体保留网络嵌入</h3>
+
+<p>原文标题： TME-BNA: Temporal Motif-Preserving Network Embedding with Bicomponent Neighbor Aggregation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13596">http://arxiv.org/abs/2110.13596</a></p>
+
+<p>作者： Ling Chen, Da Wang, Dandan Lyu, Xing Tang, Hongyu Shi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13596v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 不断发展的时间网络是许多现实生活中动态系统的抽象，例如社会网络和电子商务。时间网络嵌入的目的是将每个节点映射到一个随时间演化的低维向量，用于下游任务，例如链路预测和节点分类。时态网络嵌入的难点在于如何联合利用拓扑和时间信息来捕捉时态网络的演化。为了应对这一挑战，我们提出了一种具有双分量邻居聚合的时间基序保留网络嵌入方法，称为 TME-BNA。考虑到时间模体对于理解时态网络的拓扑规律和功能特性至关重要，TME-BNA 构建了基于时间模体的附加边特征，以明确利用具有时间信息的复杂拓扑。为了捕捉节点的拓扑动态，TME-BNA 利用图神经网络 (GNN) 根据连接边的时间戳分别聚合历史和当前邻居。在三个公共时间网络数据集上进行了实验，结果表明了 TME-BNA 的有效性。</p>
+
+<h3 id="大规模社会网络的子采样谱聚类">大规模社会网络的子采样谱聚类</h3>
+
+<p>原文标题： Subsampling Spectral Clustering for Large-Scale Social Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13613">http://arxiv.org/abs/2110.13613</a></p>
+
+<p>作者： Jiayi Deng, Yi Ding, Yingqiu Zhu, Danyang Huang, Bingyi Jing, Bo Zhang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13613v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： Twitter 和新浪微博等在线社会网络平台在过去 20 年中非常受欢迎。识别社交平台的网络社区对于探索和理解用户的兴趣至关重要。然而，科学技术的快速发展产生了大量的社会网络数据，给大规模社会网络中的社区检测带来了巨大的计算挑战。在这里，我们提出了一种新的子采样谱聚类算法来识别具有有限计算资源的大规模社会网络中的社区结构。更准确地说，谱聚类仅使用网络节点的一个小子样本的信息进行，从而大大减少了计算时间。因此，对于大规模数据集，即使使用个人计算机也可以实现该方法。具体来说，我们介绍了两种不同的采样技术，即简单随机子采样和度数校正子采样。该方法应用于从新浪微博收集的数据集，新浪微博是中国最大的 Twitter 类型社会网络平台之一。我们的方法可以非常有效地识别注册用户的社区结构。该社区结构信息可用于帮助新浪微博向目标用户投放广告，增加用户活跃度。</p>
+
+<h3 id="通过网络嵌入进行疫苗怀疑检测">通过网络嵌入进行疫苗怀疑检测</h3>
+
+<p>原文标题： Vaccine skepticism detection by network embedding</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13619">http://arxiv.org/abs/2110.13619</a></p>
+
+<p>作者： Ferenc Béres, Rita Csoma, Tamás Vilmos Michaletzky, András A. Benczúr</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13619v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们证明了网络嵌入对疫苗怀疑论的适用性，这是一个历史悠久的有争议的话题。随着 2019 年底 Covid-19 大流行的爆发，这个话题比以往任何时候都更加重要。在第一批国际病例登记仅一年后，就开发了多种疫苗并通过了临床试验。除了开发、测试和物流方面的挑战之外，另一个可能在抗击大流行中发挥重要作用的因素是人们对接种疫苗犹豫不决，甚至表示他们将拒绝提供给他们的任何疫苗。两类人通常被称为 a) 支持疫苗接种者，即支持接种疫苗的人 b) 怀疑疫苗的人，即质疑疫苗效力或是否需要针对 Covid-19 进行一般疫苗接种的人群。很难准确说出有多少人同意这些观点。更难以理解为什么怀疑论者的观点越来越受欢迎的所有原因。在这项工作中，我们的目的是开发能够有效区分 pro-vaxxer 和 Vax-skeptic 内容的技术。经过多个数据预处理步骤后，我们分析了推文文本以及 Twitter 上用户交互的结构。我们部署了几个节点嵌入和社区检测模型，这些模型可以很好地用于具有数百万条边的图。</p>
+
+<h3 id="封锁期间基于图的俄罗斯社交媒体信息空间变化监测管道">封锁期间基于图的俄罗斯社交媒体信息空间变化监测管道</h3>
+
+<p>原文标题： A Pipeline for Graph-Based Monitoring of the Changes in the Information Space of Russian Social Media during the Lockdown</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13626">http://arxiv.org/abs/2110.13626</a></p>
+
+<p>作者： V. Danilova, S. Popova, V. Karpova</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13626v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 随着 COVID-19 的爆发和随后的封锁，社交媒体成为一种重要的沟通工具。网络活动的突然爆发影响了信息传播和消费模式。它增加了研究社会网络动态和开发数据处理管道的相关性，允许在时间维度上对社交媒体数据进行全面分析。本文考察了俄罗斯社交媒体（Twitter 和 Livejournal）在关键时期（大规模 COVID-19 爆发和第一批政府措施）所代表的信息空间的每周动态。该方法是双重的：a）通过识别每周与 COVID 相关的主题并测量用户对主题空间的贡献来构建主题相似性指标的时间序列，以及 b）将用户活动聚类并在仪表板的图上显示用户-主题关系应用。本文描述了管道的发展，解释了所做的选择，并提供了一个适应病毒控制措施的案例研究。结果证实，可以在社交媒体中成功追踪响应大流行引发的变化的社会过程和行为。此外，心理学和社会学研究揭示的适应趋势反映在我们的数据中，可以使用所提出的方法进行探索。</p>
+
+<h3 id="用于图嵌入的基于度的随机游走方法">用于图嵌入的基于度的随机游走方法</h3>
+
+<p>原文标题： Degree-Based Random Walk Approach for Graph Embedding</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13627">http://arxiv.org/abs/2110.13627</a></p>
+
+<p>作者： Sarmad N. Mohammed, Semra Gündüç</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13627v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 图嵌入通过数值向量表示局部和全局邻域信息，是各种现实世界系统数学建模的关键部分。在嵌入算法中，基于随机游走的算法已被证明是非常成功的。这些算法通过使用重新定义的步骤数创建大量随机游走来收集信息。创建随机游走是嵌入过程中要求最高的部分。计算需求随着网络规模的增加而增加。此外，对于现实世界的网络，考虑到所有节点都处于同一基础上，低度节点的丰富会造成数据不平衡的问题。在这项工作中，提出了一种计算强度较低且节点连通性感知的统一采样方法。在所提出的方法中，随机游走的数量与节点的度数成比例地创建。当该算法应用于大图时，该算法的优势更加突出。介绍了使用两个网络（CORA 和 CiteSeer）进行的比较研究。与固定数量的步行情况相比，所提出的方法需要减少 50% 的计算量才能达到相同的节点分类和链路预测计算精度。</p>
+
+<h3 id="关于淘汰赛抽签限制的后果">关于淘汰赛抽签限制的后果</h3>
+
+<p>原文标题： On the consequences of draw restrictions in knockout tournaments</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13641">http://arxiv.org/abs/2110.13641</a></p>
+
+<p>作者： László Csató</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13641v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本文分析了抽签限制如何影响淘汰赛的结果。研究问题受到欧洲俱乐部足球比赛规则的启发：为了保持其国际性，组织者通常在小组赛阶段和随后淘汰赛阶段的首轮比赛中施加协会约束，即来自同一个国家不能互相对抗。在理论和仿真模型中探讨了类似限制的影响。验证在第一轮中使用关联约束将同一国家对战的可能性在随后的每一轮中增加到大致相同的程度。此外，如果热门球队集中在某些协会，则在存在协会约束的情况下，他们赢得比赛的概率更高。我们的结果基本上证明了欧洲足球协会联盟 (UEFA) 最近的决定是正确的。</p>
+
+<h3 id="dasentimental-通过情绪回忆-认知网络和机器学习检测文本中的抑郁-焦虑和压力">DASentimental：通过情绪回忆、认知网络和机器学习检测文本中的抑郁、焦虑和压力</h3>
+
+<p>原文标题： DASentimental: Detecting depression, anxiety and stress in texts via emotional recall, cognitive networks and machine learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13710">http://arxiv.org/abs/2110.13710</a></p>
+
+<p>作者： Asra Fatima, Li Ying, Thomas Hills, Massimo Stella</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13710v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 大多数当前对书面文本的情感量表和情感分析都侧重于量化效价（情感）——情感的最主要维度。然而，情感比价更广泛、更复杂。在心理健康等情况下，区分具有相似效价的负面情绪可能很重要。该项目提出了一种半监督机器学习模型（DASentimental）来从书面文本中提取抑郁、焦虑和压力。首先，我们训练模型以发现 N=200 个人回忆的情绪词序列与他们对抑郁焦虑压力量表 (DASS-21) 的反应之间的相关性。在认知网络科学的框架内，我们将每个回忆的情绪列表建模为遍历语义记忆的网络心理表征，情绪根据人们记忆中的自由联想进行连接。在几种经过测试的机器学习方法中，我们发现在单词序列和语义网络距离上训练的多层感知器神经网络可以实现最先进的、交叉验证的抑郁症（R = 0.7）、焦虑（R = 0.44）和压力（R = 0.52）。尽管受样本大小的限制，这种首创的方法可以对 DAS 级别背后的关键语义维度进行定量探索。我们发现回忆的情绪和“悲伤-快乐”二元组之间的语义距离是估计抑郁程度的关键特征，但对焦虑和压力不太重要。我们还发现，“恐惧”回忆的语义距离可以促进焦虑的预测，但当考虑“悲伤-快乐”二元组时，它变得多余。采用 DASentimental 作为半监督学习工具来估计文本中的 DAS，我们将其应用于 142 篇遗书的数据集。最后，我们讨论了人工智能检测压力、焦虑和抑郁所实现的未来研究的关键方向。</p>
+
+<h3 id="twitter-的勃朗峰-识别社会网络中杰出峰值的层次结构">Twitter 的勃朗峰：识别社会网络中杰出峰值的层次结构</h3>
+
+<p>原文标题： The Mont Blanc of Twitter: Identifying Hierarchies of Outstanding Peaks in Social Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13774">http://arxiv.org/abs/2110.13774</a></p>
+
+<p>作者： Maximilian Stubbemann, Gerd Stumme</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13774v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 社会网络的可视化通常受到其规模的阻碍，因为此类网络通常由数千个顶点和边组成。因此，推导出代表原始网络重要连接的紧凑结构具有重要意义。为了做到这一点，我们将概念从地形测量领域转移到图。这些概念最初旨在识别突出的山峰，并提供一小组代表完整山地景观的关键点和它们之间的关系。随着社会网络的采用，可以推导出重要顶点的家谱，从而表示它们之间的关键联系。我们的方法包括两个步骤。我们首先使用一种新方法来丢弃代表弱连接的边。这样做是为了保持网络的连通性。然后，我们确定网络中的重要峰值和关键鞍点，即连接它们的较低点。这为我们提供了一个紧凑的网络，显示哪些峰通过哪些鞍点连接。此外，山峰上的自然等级由马鞍后面哪个更高的山峰出现的问题产生，屈服于随着高度增加的山峰链。此行父层次结构为重要顶点之间的全新导航范例提供了方法。我们在 Twitter 用户和学术协作网络上的实验表明，可以将具有数百或数千条边的网络压缩为一小组顶点和关键连接。</p>
+
+<h3 id="只要你说到我-家族企业品牌的重要性和家族企业身份的偶然作用">只要你说到我：家族企业品牌的重要性和家族企业身份的偶然作用</h3>
+
+<p>原文标题： As long as you talk about me: The importance of family firm brands and the contingent role of family-firm identity</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13815">http://arxiv.org/abs/2110.13815</a></p>
+
+<p>作者： P. Rovelli, C. Benedetti, A. Fronzetti Colladon, A. De Massis</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13815v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本研究探讨了外部受众在决定家族企业品牌的重要性以及与企业绩效的关系方面的作用。利用文本挖掘和社会网络分析技术，并考虑品牌流行度、多样性和连通性维度，我们使用语义品牌评分来衡量媒体对家族企业品牌的重要性。对 2017 年发表的关于 63 个意大利创业家族的 52,555 篇新闻文章样本的分析表明，品牌重要性与家族企业收入呈正相关，当家族与企业之间存在身份匹配时，这种关系会更加紧密。本研究通过提供关于外部受众对品牌的看法如何塑造家族企业绩效的丰富和多方面的视角来推进当前的文献。</p>
+
+<h3 id="异常扩散与波动标度的关系-超慢扩散与语言中与时间尺度无关的波动标度的案例">异常扩散与波动标度的关系：超慢扩散与语言中与时间尺度无关的波动标度的案例</h3>
+
+<p>原文标题： Relations between anomalous diffusion and fluctuation scaling: The case of ultraslow diffusion and time-scale-independent fluctuation scaling in language</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13868">http://arxiv.org/abs/2110.13868</a></p>
+
+<p>作者： Hayafumi Watanabe</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13868v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 波动标度 (FS) 和异常扩散已经在不同的背景下进行了讨论，尽管这两种情况经常在复杂系统中观察到。为了阐明这些概念之间的关系，我们在六年的时间里调查了大约 30 亿篇日本博客文章，并分析了由具有幂律遗忘的随机游走模型驱动的相应泊松过程，该模型再现了异常扩散和 FS。通过对模型的分析，我们确定了FS的时间尺度依赖性与异常扩散特征之间的关系，并表明与时间尺度无关的FS本质上对应于对数扩散（即一种超慢扩散） .此外，我们确认这种关系对于实际数据也是有效的。这一发现可能有助于发现超慢扩散的实际例子，尽管有许多数学理论，但这些例子几乎没有被观察到，因为与通过对数扩散的直接检测相比，我们可以更容易、更清楚地检测到与时间尺度无关的 FS基于均方位移。</p>
+
+<h3 id="异构含时图神经网络">异构含时图神经网络</h3>
+
+<p>原文标题： Heterogeneous Temporal Graph Neural Network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.13889">http://arxiv.org/abs/2110.13889</a></p>
+
+<p>作者： Yujie Fan, Mingxuan Ju, Chuxu Zhang, Liang Zhao, Yanfang Ye</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2110.13889v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 图神经网络 (GNN) 已在动态图上进行了广泛的研究，以用于其表示学习，其中大部分侧重于空间域中具有同构结构的图。然而，许多现实世界的图——即异构含时图 (HTG)——在异构图结构的背景下动态演化。与异质性相关的动态对 HTG 表示学习提出了新的挑战。为理解决这个问题，在本文中，我们提出了异构含时图神经网络（HTGNN）来整合空间和时间依赖性，同时保留异构性以学习 HTG 上的节点表示。具体来说，在 HTGNN 的每一层，我们提出了一种分层聚合机制，包括内部关系、相互关系和跨时间聚合，以联合建模异构空间依赖性和时间维度。为了保持异质性，首先在HTG的每个切片上进行内部关系聚合，以专注地聚合具有相同类型关系的邻居的信息，然后利用内部关系聚合来收集不同类型关系的信息；为了处理时间依赖性，进行跨时间聚合以在 H​​TG 上的不同图切片之间交换信息。提出的 HTGNN 是一个整体框架，为 HTG 表示学习定制了具有时间和空间演化的异质性。对从不同现实世界数据集构建的 HTG 进行了广泛的实验，与最先进的基线相比，有希望的结果证明了 HTGNN 的出色性能。我们构建的 HTG 和代码已在以下位置公开访问：<a href="https://github.com/YesLab-Code/HTGNN。">https://github.com/YesLab-Code/HTGNN。</a></p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20211027/">https://netsci.complexly.cn/post/20211027/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20211026/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要12篇(2021-10-26)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

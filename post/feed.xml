@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2021-10-27)</title>
+      <link>https://netsci.complexly.cn/post/20211027/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211027/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;NetMF+：基于快速有效的单通随机矩阵分解的网络嵌入;&lt;/li&gt;
+&lt;li&gt;在大型网络中对多个节点进行采样：超越随机游走;&lt;/li&gt;
+&lt;li&gt;使用Twitter粉丝图比较位置同质性指标;&lt;/li&gt;
+&lt;li&gt;通过 Avrami 方程分析东京的 COVID-19 感染波;&lt;/li&gt;
+&lt;li&gt;用于时间网络分析的快照图的定量评估;&lt;/li&gt;
+&lt;li&gt;在分享 COVID-19 错误信息时干预用户注意力的视觉选择性注意系统;&lt;/li&gt;
+&lt;li&gt;具有等效顶点的图集上 ERGM 的高度可扩展的最大似然和共轭贝叶斯推理;&lt;/li&gt;
+&lt;li&gt;适应稀疏连接的主体在不断变化的社会环境下的集体决策;&lt;/li&gt;
+&lt;li&gt;TME-BNA：带有二分量邻居聚合的时间模体保留网络嵌入;&lt;/li&gt;
+&lt;li&gt;大规模社会网络的子采样谱聚类;&lt;/li&gt;
+&lt;li&gt;通过网络嵌入进行疫苗怀疑检测;&lt;/li&gt;
+&lt;li&gt;封锁期间基于图的俄罗斯社交媒体信息空间变化监测管道;&lt;/li&gt;
+&lt;li&gt;用于图嵌入的基于度的随机游走方法;&lt;/li&gt;
+&lt;li&gt;关于淘汰赛抽签限制的后果;&lt;/li&gt;
+&lt;li&gt;DASentimental：通过情绪回忆、认知网络和机器学习检测文本中的抑郁、焦虑和压力;&lt;/li&gt;
+&lt;li&gt;Twitter 的勃朗峰：识别社会网络中杰出峰值的层次结构;&lt;/li&gt;
+&lt;li&gt;只要你说到我：家族企业品牌的重要性和家族企业身份的偶然作用;&lt;/li&gt;
+&lt;li&gt;异常扩散与波动标度的关系：超慢扩散与语言中与时间尺度无关的波动标度的案例;&lt;/li&gt;
+&lt;li&gt;异构含时图神经网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2021-10-26)</title>
