@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2021-10-28)</title>
+      <link>https://netsci.complexly.cn/post/20211028/</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211028/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;同处一地是科学进步的催化剂;&lt;/li&gt;
+&lt;li&gt;图神经网络的节点局部化;&lt;/li&gt;
+&lt;li&gt;非同构图的大规模学习：新的基准和强大的简单方法;&lt;/li&gt;
+&lt;li&gt;真实网络的超低维数检测;&lt;/li&gt;
+&lt;li&gt;阿波罗网络上修正的流行病扩散过程;&lt;/li&gt;
+&lt;li&gt;捕捉 SNS 中信息传播的动态：方法论和技术综述;&lt;/li&gt;
+&lt;li&gt;热力学极限中的疫苗接种困境;&lt;/li&gt;
+&lt;li&gt;问“谁”，而不是“什么”：使用 Twitter 数据预测比特币波动率;&lt;/li&gt;
+&lt;li&gt;多人在线竞技游戏中软件补丁的异构效应;&lt;/li&gt;
+&lt;li&gt;使用物理信息偏微分方程对摆动方程进行模型化简;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要19篇(2021-10-27)</title>
