@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 28 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2021-10-29)</title>
+      <link>https://netsci.complexly.cn/post/20211029/</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211029/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图公共对比学习;&lt;/li&gt;
+&lt;li&gt;在动态图中寻找一个简洁、精确和穷尽的近双团集;&lt;/li&gt;
+&lt;li&gt;使用特定关系的双曲锥对异构层次进行建模;&lt;/li&gt;
+&lt;li&gt;复杂网络边的有偏随机游走和极端事件;&lt;/li&gt;
+&lt;li&gt;近似电导用于流式局部社区检测;&lt;/li&gt;
+&lt;li&gt;财富分配动力学交换模型中基尼指数和加尔各答指数随储蓄倾向的变化：分析研究;&lt;/li&gt;
+&lt;li&gt;估计多变量时间序列与美国 COVID-19 应用之间的连续变化偏移;&lt;/li&gt;
+&lt;li&gt;MOOMIN：抗癌药物联合治疗的深层分子组学网络;&lt;/li&gt;
+&lt;li&gt;CIIA：一种新的社区检测算法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-10-28)</title>
