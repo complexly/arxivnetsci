@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 29 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2021-11-01)</title>
+      <link>https://netsci.complexly.cn/post/20211101/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211101/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用节点分裂网络推广引用耦合和共引;&lt;/li&gt;
+&lt;li&gt;使用共享自行车轨迹的人群感应增强停车巡逻;&lt;/li&gt;
+&lt;li&gt;社交媒体揭示了中国各地的城乡压力差异;&lt;/li&gt;
+&lt;li&gt;偏差检测的深度学习：从开始到部署;&lt;/li&gt;
+&lt;li&gt;城市交通瓶颈的识别和优先排序;&lt;/li&gt;
+&lt;li&gt;LSTM-RPA：一种简单但有效的音乐流行度预测长序列预测算法;&lt;/li&gt;
+&lt;li&gt;任何未来设备物理的前言;&lt;/li&gt;
+&lt;li&gt;城市系统科学的一些最新进展：模型和数据;&lt;/li&gt;
+&lt;li&gt;潜空间图和相变的概率视图;&lt;/li&gt;
+&lt;li&gt;使用双曲层次聚类有效表示 Twitter 用户分类的交互模式;&lt;/li&gt;
+&lt;li&gt;表征和建模交通网络和领土的共同演化;&lt;/li&gt;
+&lt;li&gt;新闻和社交媒体中公众人物的死后记忆;&lt;/li&gt;
+&lt;li&gt;VigDet：用于社交媒体协调检测的知识神经时间点过程;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2021-10-29)</title>
