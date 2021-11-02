@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要14篇(2021-11-02) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+边独立图模型的威力;
+诊断 ICT 的网络数据，为农业采用提供重点帮助;
+Reddit 和第四产业：探索媒体对 Reddit 社区级调节的影响程度和影响;
+MAT 上的 CAT SET：用于二部超图中的集合匹配的交叉注意力;
+爱你的邻居：重新测量超图派生网络中的局部结构节点相似性;
+图中的高阶关系偏斜链路预测;
+Hodge-Kodaira 分解的人流城市空间结构;
+FastCover：社会网络中多跳影响最大化的无监督学习框架;
+COVID-19 信息流行期间基于网络的 QAnon 用户动态方法;
+我的朋友也更喜欢多样化的音乐：同质性和链路预测以及用户对主流音乐、新颖性和多样性的偏好;
+具有分层注意力成员资格的图嵌入;
+通勤网络对城市财富规模的影响;
+使用图神经网络 ansatz 的有效疫苗接种策略;
+链接理论和经验：一个模拟意见形成过程的一般框架;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要14篇(2021-11-02) - 网络科学研究速递">
+<meta itemprop="description" content="
+边独立图模型的威力;
+诊断 ICT 的网络数据，为农业采用提供重点帮助;
+Reddit 和第四产业：探索媒体对 Reddit 社区级调节的影响程度和影响;
+MAT 上的 CAT SET：用于二部超图中的集合匹配的交叉注意力;
+爱你的邻居：重新测量超图派生网络中的局部结构节点相似性;
+图中的高阶关系偏斜链路预测;
+Hodge-Kodaira 分解的人流城市空间结构;
+FastCover：社会网络中多跳影响最大化的无监督学习框架;
+COVID-19 信息流行期间基于网络的 QAnon 用户动态方法;
+我的朋友也更喜欢多样化的音乐：同质性和链路预测以及用户对主流音乐、新颖性和多样性的偏好;
+具有分层注意力成员资格的图嵌入;
+通勤网络对城市财富规模的影响;
+使用图神经网络 ansatz 的有效疫苗接种策略;
+链接理论和经验：一个模拟意见形成过程的一般框架;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要14篇(2021-11-02) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20211102/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+边独立图模型的威力;
+诊断 ICT 的网络数据，为农业采用提供重点帮助;
+Reddit 和第四产业：探索媒体对 Reddit 社区级调节的影响程度和影响;
+MAT 上的 CAT SET：用于二部超图中的集合匹配的交叉注意力;
+爱你的邻居：重新测量超图派生网络中的局部结构节点相似性;
+图中的高阶关系偏斜链路预测;
+Hodge-Kodaira 分解的人流城市空间结构;
+FastCover：社会网络中多跳影响最大化的无监督学习框架;
+COVID-19 信息流行期间基于网络的 QAnon 用户动态方法;
+我的朋友也更喜欢多样化的音乐：同质性和链路预测以及用户对主流音乐、新颖性和多样性的偏好;
+具有分层注意力成员资格的图嵌入;
+通勤网络对城市财富规模的影响;
+使用图神经网络 ansatz 的有效疫苗接种策略;
+链接理论和经验：一个模拟意见形成过程的一般框架;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20211102/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20211102/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要14篇(2021-11-02)</h1>
+
+                  <p class="post-byline">
+                    2021年11月02日 · 6316 字 ·
+                    阅读时间约13分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>边独立图模型的威力;</li>
+<li>诊断 ICT 的网络数据，为农业采用提供重点帮助;</li>
+<li>Reddit 和第四产业：探索媒体对 Reddit 社区级调节的影响程度和影响;</li>
+<li>MAT 上的 CAT SET：用于二部超图中的集合匹配的交叉注意力;</li>
+<li>爱你的邻居：重新测量超图派生网络中的局部结构节点相似性;</li>
+<li>图中的高阶关系偏斜链路预测;</li>
+<li>Hodge-Kodaira 分解的人流城市空间结构;</li>
+<li>FastCover：社会网络中多跳影响最大化的无监督学习框架;</li>
+<li>COVID-19 信息流行期间基于网络的 QAnon 用户动态方法;</li>
+<li>我的朋友也更喜欢多样化的音乐：同质性和链路预测以及用户对主流音乐、新颖性和多样性的偏好;</li>
+<li>具有分层注意力成员资格的图嵌入;</li>
+<li>通勤网络对城市财富规模的影响;</li>
+<li>使用图神经网络 ansatz 的有效疫苗接种策略;</li>
+<li>链接理论和经验：一个模拟意见形成过程的一般框架;</li>
+</ul>
+
+<p></p>
+
+<h3 id="边独立图模型的威力">边独立图模型的威力</h3>
+
+<p>原文标题： On the Power of Edge Independent Graph Models</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00048">http://arxiv.org/abs/2111.00048</a></p>
+
+<p>作者： Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos E. Tsourakakis</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00048v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 为什么许多现代基于神经网络的图生成模型无法重现典型的现实世界网络特征，例如高三角形密度？在这项工作中，我们研究了边独立随机图模型的局限性，其中每条边都以一定的概率独立地添加到图中。此类模型包括经典的 Erd&rdquo;osR&rsquo;enyi 和随机块模型，以及现代生成模型，例如 NetGAN、变分图自动编码器和 CELL。我们证明了受有界重叠条件的约束，这确保了模型不会简单地记住单个图，边独立模型在生成具有高三角形和其他子图密度的图的能力方面存在内在的限制。值得注意的是，已知这种高密度出现在现实世界的社会网络和我们用一个简单的生成模型来补充我们的负面结果，该模型平衡了重叠和准确性，在重建许多图统计数据方面与更复杂的模型相当。</p>
+
+<h3 id="诊断-ict-的网络数据-为农业采用提供重点帮助">诊断 ICT 的网络数据，为农业采用提供重点帮助</h3>
+
+<p>原文标题： Diagnosing Web Data of ICTs to Provide Focused Assistance in Agricultural Adoptions</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00052">http://arxiv.org/abs/2111.00052</a></p>
+
+<p>作者： Ashwin Singh, Mallika Subramanian, Anmol Agarwal, Pratyush Priyadarshi, Shrey Gupta, Kiran Garimella, Sanjeev Kumar, Ritesh Kumar, Lokesh Garg, Erica Arya, Ponnurangam Kumaraguru</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00052v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在过去十年中，印度农村地区的技术所有权迅速增加，这表明 ICT 举措具有赋予农村家庭权力的潜力。在我们的工作中，我们关注于 2008 年启动的此类 ICT - Digital Green 的网络基础设施。在内容制作的参与式方法之后，Digital Green 通过人类中介向小农传播农业教学视频，以改善农业实践的采用。他们基于网络的数据跟踪器 CoCo 刻画与这些流程相关的数据，存储了三大洲和十二个国家超过 230 万农民的出勤和采用日志。使用这些数据，我们对数字绿色生态系统的组成部分进行建模，这些组成部分涉及农民过去的出勤行为、向他们放映的视频内容以及他们在印度五个州的人口统计特征。我们使用统计测试来确定区分采用率较高的农民的不同因素，以理解为什么他们采用的比其他人更多。我们的研究发现，采用率较高的农民采用时长较短的视频，并且属于较小的村庄。农民的共同参与和共同采用网络表明，在采用同一视频的做法时，他们从他们村庄和小组的过去采用者中受益匪浅。根据我们的分析，我们将视频中的实践采用建模为预测问题，以识别和帮助可能在五个州中的每个州面临采用挑战的农民。我们对不同的模型架构进行了试验，并使用随机森林分类器实现了 79% 到 89% 的宏观 f1 分数。最后，我们使用 SHAP 值衡量不同特征的重要性，并为提高印度五个州近 100 万农民的采用率提供启示。</p>
+
+<h3 id="reddit-和第四产业-探索媒体对-reddit-社区级调节的影响程度和影响">Reddit 和第四产业：探索媒体对 Reddit 社区级调节的影响程度和影响</h3>
+
+<p>原文标题： Reddit and the Fourth Estate: Exploring the magnitude and effects of media influence on community level moderation on Reddit</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00084">http://arxiv.org/abs/2111.00084</a></p>
+
+<p>作者： Hussam Habib, Rishab Nithyanand</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00084v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 大多数平台，包括 Reddit，在对有毒社区实施 subreddit 禁令等干预措施时都面临两难境地——他们是否有可能通过主动对话语实施更严格的控制来激怒他们的用户群，或者他们是否冒着最终引发负面媒体反应的风险推迟干预？可能会影响他们的广告收入？在本文中，我们通过分析 Reddit 之前的行政干预来理解这一困境的一个方面：媒体与行政干预之间的关系。更具体地说，我们做出了两个主要贡献。首先，使用中介分析框架，我们发现证据表明 Reddit 因媒体压力而对违反其内容政策的有毒内容进行干预。其次，使用中断时间序列分析，我们表明媒体对有毒内容社区的关注只会增加与该社区相关的问题行为（社区内部和整个平台）。然而，我们发现在有媒体压力和没有媒体压力的情况下，行政干预对 subreddits 的影响没有显著差异。总而言之，这项研究提供了 Reddit 媒体驱动的适度策略的证据，并表明这种策略与更主动的策略可能没有显著不同的影响。</p>
+
+<h3 id="mat-上的-cat-set-用于二部超图中的集合匹配的交叉注意力">MAT 上的 CAT SET：用于二部超图中的集合匹配的交叉注意力</h3>
+
+<p>原文标题： The CAT SET on the MAT: Cross Attention for Set Matching in Bipartite Hypergraphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00243">http://arxiv.org/abs/2111.00243</a></p>
+
+<p>作者： Govind Sharma, Swyam Prakash Singh, V. Susheela Devi, M. Narasimha Murty</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00243v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 实体之间的通常关系可以使用图来捕捉；但是那些更高阶的——在两种不同类型的实体（我们称之为“左”和“右”）之间更是如此——需要“二部超图”。例如，给定一组左侧症状和一组右侧疾病，一组症状（患者在给定时间点经历的）和一组疾病（他/她可能被诊断出患有）之间的关系可以使用二分超边很好地表示。嵌入超图节点的最新技术是基于从超边学习节点对之间的自注意力结构。在目前的工作中，给定一个二部超图，我们的目标是从左右超边之间的叉积中刻画节点对之间的关​​系，并将其称为基于“交叉注意”（CAT）的模型。更准确地说，我们将“二分超边链路预测”作为集合匹配 (SETMAT) 问题提出，并为此提出了一种称为 CATSETMAT 的新型神经网络架构。我们对多个二分超图数据集进行了大量实验，以展示 CATSETMAT 的卓越性能，并将其与最先进的多种技术进行比较。我们的结果还阐明了自我和交叉注意场景中的信息流。</p>
+
+<h3 id="爱你的邻居-重新测量超图派生网络中的局部结构节点相似性">爱你的邻居：重新测量超图派生网络中的局部结构节点相似性</h3>
+
+<p>原文标题： Love tHy Neighbour: Remeasuring Local Structural Node Similarity in Hypergraph-Derived Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00256">http://arxiv.org/abs/2111.00256</a></p>
+
+<p>作者： Govind Sharma, Paarth Gupta, M. Narasihma Murty</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00256v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 网络中节点相似性的问题激发了节点对之间的大量此类措施，这些措施利用了底层图结构。然而，高阶关系不能被单纯的图无损地刻画，因此，它的扩展即。而是使用超图。在这种设置中测量节点对之间的接近度需要修改拓扑相似性度量，以免超图结构仍然未被充分利用。在这项工作中，我们在节点对之间提出了大量面向超图的相似性分数，从而为链路预测问题提供了新的解决方案。作为我们命题的一部分，我们提供了理论公式来将基于图拓扑的分数扩展到超图。我们将我们的分数与最先进的基于图的分数（超图的集团扩展到图）进行比较。使用现有的基于图的和提议的基于超图的相似性分数的组合作为分类器的特征比单独使用前者更好地预测链接。对几个真实世界数据集的实验以及对相同数据集的定量和定性分析表明，所提出的相似性得分优于现有数据集。</p>
+
+<h3 id="图中的高阶关系偏斜链路预测">图中的高阶关系偏斜链路预测</h3>
+
+<p>原文标题： Higher-Order Relations Skew Link Prediction in Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00271">http://arxiv.org/abs/2111.00271</a></p>
+
+<p>作者： Govind Sharma, Aditya Challa, Paarth Gupta, M. Narasimha Murty</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00271v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 链路预测问题引起了人们的兴趣。解决链路预测问题的主要方法是基于诸如公共邻居 (CN) 之类的启发式方法——一对节点的公共邻居数量越多，它们链接的机会就越大。在本文中，我们在存在高阶关系的情况下研究这个问题。令人惊讶的是，发现 CN 工作得非常好，在存在高阶关系的情况下甚至更好。然而，正如我们在当前工作中证明的那样，这是由于 CN 启发式在存在高阶关系的情况下高估了其预测能力。通过考虑高阶关系的理论模型并证明 CN 的 AUC 分数高于模型所能达到的分数，可以证明这一说法。还提供了简单情况下的理论依据。此外，我们将我们的观察扩展到其他类似的链路预测算法，例如 Adamic Adar。最后，通过考虑随机图的最佳 AUC 分数为 0.5，这些见解用于提出调整因子。该调整因子允许更好地估计泛化分数。</p>
+
+<h3 id="hodge-kodaira-分解的人流城市空间结构">Hodge-Kodaira 分解的人流城市空间结构</h3>
+
+<p>原文标题： Urban spatial structures from human flow by Hodge-Kodaira decomposition</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00377">http://arxiv.org/abs/2111.00377</a></p>
+
+<p>作者： Takaaki Aoki, Shota Fujishima, Naoya Fujiwara</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00377v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 城市中的人流表示社会活动，可以根据人类行为揭示城市空间结构，用于相关应用。标量势是一个数学概念，如果成功引入，它可以提供人流的直观视角。然而，对于起点-终点流矩阵的这种潜力的定义及其合理性的确定仍未解决。在这里，我们应用 Hodge-Kodaira 分解，其中矩阵被唯一地分解为势驱动（梯度）流和卷曲流。我们描绘了城市中由于通勤流量而产生的潜在景观，并揭示了景观如何因年份或交通方式而发生变化或不变。然后，我们通过评估美国大都市区的梯度分量的百分比来确定通勤流量由势能描述的程度，并表明几个区域的梯度分量几乎为 100%；然而，在其他区域，卷曲分量占主导地位，表明沿地方三角形的循环流的重要性。潜在景观提供了一种易于使用的可视化工具，可以显示人流的有吸引力的地方，并将有助于商业、城市设计和流行病传播的各种应用。</p>
+
+<h3 id="fastcover-社会网络中多跳影响最大化的无监督学习框架">FastCover：社会网络中多跳影响最大化的无监督学习框架</h3>
+
+<p>原文标题： FastCover: An Unsupervised Learning Framework for Multi-Hop Influence Maximization in Social Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00463">http://arxiv.org/abs/2111.00463</a></p>
+
+<p>作者： Runbo Ni, Xueyan Li, Fangqi Li, Xiaofeng Gao, Guihai Chen</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00463v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在社会网络中寻找有影响力的用户是许多可能有用的应用程序的基本问题。将社会网络视为图表，一组用户的影响可以通过位于网络中给定跳数内的邻居数量来衡量，其中每一跳都标志着影响扩散的一步。在本文中，我们将 IM 问题简化为预算受限的 d-hop 支配集问题 (kdDSP)。我们提出了一个统一的机器学习 (ML) 框架 FastCover，通过以无监督的方式学习有效的贪婪策略来解决 kdDSP。作为该框架的一个关键组件，我们设计了一种新颖的图神经网络 (GNN) 架构，即图反向注意网络 (GRAT)，它可以捕捉邻居之间的扩散过程。与用于组合优化问题的大多数启发式算法和并发 ML 框架不同，FastCover 根据仅使用 GNN 的一次前向传播计算的节点分数确定整个种子集，并且在图大小上具有准线性的时间复杂度。在合成图和现实世界社会网络上的实验表明，FastCover 找到了具有更好或可比的并发算法渲染质量的解决方案，同时实现了超过 1000 倍的加速。</p>
+
+<h3 id="covid-19-信息流行期间基于网络的-qanon-用户动态方法">COVID-19 信息流行期间基于网络的 QAnon 用户动态方法</h3>
+
+<p>原文标题： A network-based approach to QAnon user dynamics during COVID-19 infodemic</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00537">http://arxiv.org/abs/2111.00537</a></p>
+
+<p>作者： Wentao Xu, Kazutoshi Sasahara</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00537v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： QAnon 是一个涵盖广泛人群的伞式阴谋论。 COVID-19 大流行有助于将 QAnon 阴谋论提升为广泛传播的运动，尤其是在美国。在这里，我们在 COVID-19 信息流行病和使用基于网络的方法所涉及的主题的背景下研究 Twitter 上与 QAnon 运动相关的用户动态（即，支持/反对 QAnon 和摇摆不定的用户）。我们发现摇摆用户改变态度并不容易，尽管 Twitter 正在尽可能地暂停恶意的亲 QAnon 用户。我们还发现 QAnon 集群包括许多机器人用户。此外，我们的结果表明，QAnon 在信息流行病中继续发展，并没有将自己限制在其最初的想法上，而是将其影响范围扩大到创建一个更大的伞形阴谋论。本研究中基于网络的方法对于临近预报和预测 QAnon 运动的演变都很重要。</p>
+
+<h3 id="我的朋友也更喜欢多样化的音乐-同质性和链路预测以及用户对主流音乐-新颖性和多样性的偏好">我的朋友也更喜欢多样化的音乐：同质性和链路预测以及用户对主流音乐、新颖性和多样性的偏好</h3>
+
+<p>原文标题： My friends also prefer diverse music: homophily and link prediction with user preferences for mainstream, novelty, and diversity in music</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00562">http://arxiv.org/abs/2111.00562</a></p>
+
+<p>作者： Tomislav Duricic, Dominik Kowald, Markus Schedl, Elisabeth Lex</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00562v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 同质性描述了相似性滋生联系的现象，即个人倾向于与在某些方面与自己相似的其他人形成联系。音乐品味的相似性无疑会影响我们与谁交朋友并塑造我们的社交圈。在本文中，我们研究了在线音乐平台 Last.fm 中关于用户对收听主流 (M)、小说 (N) 或多样化 (D) 内容的偏好的同质性。此外，我们根据来自艺术家用户过去收听过的收听资料，即艺术家资料，将其与同质性进行比较。最后，我们探索了用户的艺术家资料以及描述 M、N 和 D 的特征在链路预测任务中的效用。我们的研究表明：(i) 有朋友关系的用户根据他们的艺术家资料分享相似的音乐品味； (ii) 平均而言，衡量两个用户听的音乐的多样性比衡量他们对主流或新颖内容的偏好更能预测友谊，即 D 的同质性比 M 和 N 更强； (iii) 一些用户群体，如高新奇者（探索者）表现出强烈的同质性，但低于平均艺术家个人资料相似度； (iv) 与使用艺术家资料相比，使用 M、N 和 D 在链路预测准确度方面取得了可比的结果，但特征组合产生了最佳准确度结果，并且 (v) 如果基于图的特征​​如由于公共邻居可用，使得 M、N 和 D 特征主要用于冷启动用户推荐设置，为几乎没有朋友关系的用户提供。这项研究的见解将为未来在社会情境感知音乐推荐、用户建模和链路预测方面的工作提供信息。</p>
+
+<h3 id="具有分层注意力成员资格的图嵌入">具有分层注意力成员资格的图嵌入</h3>
+
+<p>原文标题： Graph Embedding with Hierarchical Attentive Membership</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00604">http://arxiv.org/abs/2111.00604</a></p>
+
+<p>作者： Lu Lin, Ethan Blaser, Hongning Wang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00604v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 图结构的开发是有效学习在图中保留有用信息的节点表示的关键。图的一个显著特性是在全局视角中存在节点的潜在分层分组，其中每个节点根据其相邻节点组成的上下文将其成员资格表现在特定组中。在对邻域结构进行建模时，大多数先前的工作都忽略了这种潜在组和节点对不同组的成员资格，更不用说层次结构了。因此，他们无法全面理解图中不同上下文中的节点。在本文中，我们提出了一种新的用于图嵌入的分层注意成员资格模型，其中每个节点的潜在成员资格是根据其相邻上下文动态发现的。在聚合相邻状态以生成节点嵌入时，会执行组级别和个人级别的注意力。我们引入结构约束来明确规范每个节点的推断成员资格，从而刻画定义明确的分层分组结构。所提出的模型在包括引文网络和社会网络在内的各种图中的节点分类和链路预测任务上优于一组最先进的图嵌入解决方案。定性评估将学习到的节点嵌入与推断的成员资格一起可视化，这证明了成员资格层次结构的概念，并在图中实现了可解释的嵌入学习。</p>
+
+<h3 id="通勤网络对城市财富规模的影响">通勤网络对城市财富规模的影响</h3>
+
+<p>原文标题： Commuting network effect on urban wealth scaling</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00827">http://arxiv.org/abs/2111.00827</a></p>
+
+<p>作者： Luiz G. A. Alves, Diego Rybski, Haroldo V. Ribeiro</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00827v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 城市尺度理论解释了城市财富指标规模报酬递增的原因是城市内人际交往的人均增长。这种解释隐含地假设城市地区是孤立的实体，而忽略了它们之间的相互作用。在这里，我们调查了通勤网络对美国和巴西城市地区国内生产总值 (GDP) 的影响。我们将城市 GDP 描述为生产过程的输出，其中人口、通勤者以及这些数量之间的相互作用是输入变量。这种方法显著改进了对城市 GDP 的描述，并表明新来的通勤者对城市地区的财富创造做出了贡献。我们的研究表明，与人口和通勤者的比例变化相关的城市 GDP 变化取决于这些数量的初始值，因此只有当人口和通勤者之间的乘积超过明确定义的阈值时，规模报酬递增才有可能。</p>
+
+<h3 id="使用图神经网络-ansatz-的有效疫苗接种策略">使用图神经网络 ansatz 的有效疫苗接种策略</h3>
+
+<p>原文标题： Effective vaccination strategy using graph neural network ansatz</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.00920">http://arxiv.org/abs/2111.00920</a></p>
+
+<p>作者： Bukyoung Jhun</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.00920v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 疫苗接种的有效性在很大程度上取决于接种疫苗的个体的选择，即使接种了相同数量的个体。以中介中心性 (BC) 和特征向量中心性 (EC) 等高中心性度量为个体接种疫苗可有效控制流行病。然而，在许多现实世界的案例中，每个人都有不同的流行特征，例如传染性、恢复性、致死率、有效性和对疫苗产生严重反应的可能性。此外，疫苗接种策略的相对有效性取决于可用疫苗注射的数量。基于中心的策略不能考虑流行特征的可变性或疫苗的可用性。在这里，我们提出了一个基于图神经网络 ansatz (GNNA) 的疫苗接种策略框架。在这个框架中，通过采用基于个体的平均场（IBMF）理论，我们可以制定一个有效的疫苗接种策略，考虑每个节点的特性，并根据疫苗的可用性量身定制疫苗接种策略，几乎没有平均场计算.我们的方法对于大型网络具有高度可扩展性。我们在许多现实世界的网络拆解网络、具有同质和异质传染/恢复率的易感-感染-易感 (SIS) 模型和易感-感染-恢复-死亡 (SIRD) 模型中验证了该方法。我们还将我们的方法扩展到边免疫策略，这代表了非药物控制措施，例如旅行规定和社会疏远。</p>
+
+<h3 id="链接理论和经验-一个模拟意见形成过程的一般框架">链接理论和经验：一个模拟意见形成过程的一般框架</h3>
+
+<p>原文标题： Linking theory and empirics: a general framework to model opinion formation processes</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01033">http://arxiv.org/abs/2111.01033</a></p>
+
+<p>作者： Ivan V. Kozitsin</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01033v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们引入了一个最小意见形成模型，该模型非常灵活，可以重现各种现有的微观影响假设和模型。同时，该模型可以很容易地根据真实数据进行校准，它只对其施加了一些要求。从这个角度来看，我们的模型可以被视为一座桥梁，将意见形成模型的理论研究与社会动态的实证研究联系起来。我们通过使用平均场近似和数值分析来研究模型。我们的分析以最近报告的来自在线社会网络的经验数据为例。将这些数据用于模型校准，我们证明该模型可以重现支离破碎和两极分化的社会系统。此外，我们设法生成了一个人工社会，其特征在数量和质量上与宏观尺度上的经验观察相似。在我们使用两个重要的通信功能改进模型后，这种能力成为可能：选择性和个性化算法。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20211102/">https://netsci.complexly.cn/post/20211102/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20211101/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要13篇(2021-11-01)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2021-11-02)</title>
+      <link>https://netsci.complexly.cn/post/20211102/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211102/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;边独立图模型的威力;&lt;/li&gt;
+&lt;li&gt;诊断 ICT 的网络数据，为农业采用提供重点帮助;&lt;/li&gt;
+&lt;li&gt;Reddit 和第四产业：探索媒体对 Reddit 社区级调节的影响程度和影响;&lt;/li&gt;
+&lt;li&gt;MAT 上的 CAT SET：用于二部超图中的集合匹配的交叉注意力;&lt;/li&gt;
+&lt;li&gt;爱你的邻居：重新测量超图派生网络中的局部结构节点相似性;&lt;/li&gt;
+&lt;li&gt;图中的高阶关系偏斜链路预测;&lt;/li&gt;
+&lt;li&gt;Hodge-Kodaira 分解的人流城市空间结构;&lt;/li&gt;
+&lt;li&gt;FastCover：社会网络中多跳影响最大化的无监督学习框架;&lt;/li&gt;
+&lt;li&gt;COVID-19 信息流行期间基于网络的 QAnon 用户动态方法;&lt;/li&gt;
+&lt;li&gt;我的朋友也更喜欢多样化的音乐：同质性和链路预测以及用户对主流音乐、新颖性和多样性的偏好;&lt;/li&gt;
+&lt;li&gt;具有分层注意力成员资格的图嵌入;&lt;/li&gt;
+&lt;li&gt;通勤网络对城市财富规模的影响;&lt;/li&gt;
+&lt;li&gt;使用图神经网络 ansatz 的有效疫苗接种策略;&lt;/li&gt;
+&lt;li&gt;链接理论和经验：一个模拟意见形成过程的一般框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2021-11-01)</title>
