@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2021-11-03)</title>
+      <link>https://netsci.complexly.cn/post/20211103/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211103/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络拓扑对社区检测邻近度测量效率的影响;&lt;/li&gt;
+&lt;li&gt;量化交通网络中的共享性：最大网络流量重叠问题;&lt;/li&gt;
+&lt;li&gt;潜在状态和变化点检测的网络聚类;&lt;/li&gt;
+&lt;li&gt;个性化学习的网络科学视角;&lt;/li&gt;
+&lt;li&gt;测量和利用时间网络相异性;&lt;/li&gt;
+&lt;li&gt;重叠和非重叠模型;&lt;/li&gt;
+&lt;li&gt;控制中心性：复杂网络的谱中心性的逆排序问题;&lt;/li&gt;
+&lt;li&gt;质量变化：规范还是例外？维基百科质量变化的测量、分析和检测;&lt;/li&gt;
+&lt;li&gt;演化网络的拓扑-时间特性;&lt;/li&gt;
+&lt;li&gt;基于网络效率的复杂网络重要节点识别修正引力模型;&lt;/li&gt;
+&lt;li&gt;使用透明、可解释、简约和可模拟 (TIPS) 机器学习模型对 COVID-19 大流行动态进行建模：从系统思维和系统识别角度进行的案例研究;&lt;/li&gt;
+&lt;li&gt;围绕暗网市场的去中心化交易网络的涌现和结构;&lt;/li&gt;
+&lt;li&gt;图上的生命游戏;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2021-11-02)</title>

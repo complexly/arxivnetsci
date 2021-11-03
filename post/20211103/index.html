@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要13篇(2021-11-03) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+网络拓扑对社区检测邻近度测量效率的影响;
+量化交通网络中的共享性：最大网络流量重叠问题;
+潜在状态和变化点检测的网络聚类;
+个性化学习的网络科学视角;
+测量和利用时间网络相异性;
+重叠和非重叠模型;
+控制中心性：复杂网络的谱中心性的逆排序问题;
+质量变化：规范还是例外？维基百科质量变化的测量、分析和检测;
+演化网络的拓扑-时间特性;
+基于网络效率的复杂网络重要节点识别修正引力模型;
+使用透明、可解释、简约和可模拟 (TIPS) 机器学习模型对 COVID-19 大流行动态进行建模：从系统思维和系统识别角度进行的案例研究;
+围绕暗网市场的去中心化交易网络的涌现和结构;
+图上的生命游戏;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要13篇(2021-11-03) - 网络科学研究速递">
+<meta itemprop="description" content="
+网络拓扑对社区检测邻近度测量效率的影响;
+量化交通网络中的共享性：最大网络流量重叠问题;
+潜在状态和变化点检测的网络聚类;
+个性化学习的网络科学视角;
+测量和利用时间网络相异性;
+重叠和非重叠模型;
+控制中心性：复杂网络的谱中心性的逆排序问题;
+质量变化：规范还是例外？维基百科质量变化的测量、分析和检测;
+演化网络的拓扑-时间特性;
+基于网络效率的复杂网络重要节点识别修正引力模型;
+使用透明、可解释、简约和可模拟 (TIPS) 机器学习模型对 COVID-19 大流行动态进行建模：从系统思维和系统识别角度进行的案例研究;
+围绕暗网市场的去中心化交易网络的涌现和结构;
+图上的生命游戏;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要13篇(2021-11-03) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20211103/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+网络拓扑对社区检测邻近度测量效率的影响;
+量化交通网络中的共享性：最大网络流量重叠问题;
+潜在状态和变化点检测的网络聚类;
+个性化学习的网络科学视角;
+测量和利用时间网络相异性;
+重叠和非重叠模型;
+控制中心性：复杂网络的谱中心性的逆排序问题;
+质量变化：规范还是例外？维基百科质量变化的测量、分析和检测;
+演化网络的拓扑-时间特性;
+基于网络效率的复杂网络重要节点识别修正引力模型;
+使用透明、可解释、简约和可模拟 (TIPS) 机器学习模型对 COVID-19 大流行动态进行建模：从系统思维和系统识别角度进行的案例研究;
+围绕暗网市场的去中心化交易网络的涌现和结构;
+图上的生命游戏;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20211103/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20211103/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要13篇(2021-11-03)</h1>
+
+                  <p class="post-byline">
+                    2021年11月03日 · 5032 字 ·
+                    阅读时间约11分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>网络拓扑对社区检测邻近度测量效率的影响;</li>
+<li>量化交通网络中的共享性：最大网络流量重叠问题;</li>
+<li>潜在状态和变化点检测的网络聚类;</li>
+<li>个性化学习的网络科学视角;</li>
+<li>测量和利用时间网络相异性;</li>
+<li>重叠和非重叠模型;</li>
+<li>控制中心性：复杂网络的谱中心性的逆排序问题;</li>
+<li>质量变化：规范还是例外？维基百科质量变化的测量、分析和检测;</li>
+<li>演化网络的拓扑-时间特性;</li>
+<li>基于网络效率的复杂网络重要节点识别修正引力模型;</li>
+<li>使用透明、可解释、简约和可模拟 (TIPS) 机器学习模型对 COVID-19 大流行动态进行建模：从系统思维和系统识别角度进行的案例研究;</li>
+<li>围绕暗网市场的去中心化交易网络的涌现和结构;</li>
+<li>图上的生命游戏;</li>
+</ul>
+
+<p></p>
+
+<h3 id="网络拓扑对社区检测邻近度测量效率的影响">网络拓扑对社区检测邻近度测量效率的影响</h3>
+
+<p>原文标题： Impact of network topology on efficiency of proximity measures for community detection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01229">http://arxiv.org/abs/2111.01229</a></p>
+
+<p>作者： Rinat Aynulin</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01229v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 许多社区检测算法需要在节点集上引入度量。以前，已经做了很多努力来寻找表现最好的措施。在大多数情况下，实验是在几个数据集或随机图上进行的。然而，代表真实系统的图在拓扑结构上可能完全不同：不同之处可能在于网络的大小、集群的结构、度的分布、边的密度等。因此，有必要明确检查对于不同的网络拓扑是否保留了一种措施相对于另一种措施的优势。在本文中，我们考虑了对不同结构的网络进行聚类的几种邻近度量的效率。结果表明，在某些情况下，措施的效率确实取决于网络拓扑。但是，可以找到对大多数拓扑表现良好的度量。</p>
+
+<h3 id="量化交通网络中的共享性-最大网络流量重叠问题">量化交通网络中的共享性：最大网络流量重叠问题</h3>
+
+<p>原文标题： Quantifying Shareability in Transportation Networks: The Maximum Network Flow Overlap Problem</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01266">http://arxiv.org/abs/2111.01266</a></p>
+
+<p>作者： Navjyoth Sarma JS, Michael F Hyland</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01266v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 世界各地的城市在城市形态、交通网络和出行需求模式方面各不相同，这些变化影响了从公共交通到拼车等不同共享出行模式的可行性。本研究提出了一个建模框架来量化任何城市中人流的可共享性，作为两个输入的函数——网络中的基础交通（街道）网络和起点 - 目的地（OD）旅行需求——作为迈向的第一步更深入地理解这些因素对共享出行模式可行性的共同影响。本研究将流量重叠概念化，以表示对于穿越给定路径的人旅行，沿该人路径共享链接的其他旅行者的加权（按链接距离）平均数量。该研究扩展了这一概念，并制定了最大网络流重叠问题 (MNFLOP)，将所有 O-D 人流分配到使该区域的流重叠最大化的网络路径。该研究还提出了一个 MNFLOP 变体，它具有第二个目标函数项 OD 流绕道，以在最小化旅行距离/时间和增加可共享性之间进行权衡。该研究利用 MNFLOP 输出来计算各种聚合级别的可共享性度量，包括单个位置、单个和多个 OD、单个链接和网络级别。该研究将 MNFLOP 应用于苏福尔斯和芝加哥的网络。结果表明，随着旅客绕行的微小增加，相对于将所有 OD 流分配到最短路径，可以显著增加流重叠。流量重叠的原始级别测量表明，即使从需求低的地方也有可能共享出行，只要出行可以集中在几条路径上，这表明共享出行模式的关键需求评估受需求量级和方向性的指导.</p>
+
+<h3 id="潜在状态和变化点检测的网络聚类">潜在状态和变化点检测的网络聚类</h3>
+
+<p>原文标题： Network Clustering for Latent State and Changepoint Detection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01273">http://arxiv.org/abs/2111.01273</a></p>
+
+<p>作者： Madeline Navarro, Genevera I. Allen, Michael Weylandt</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01273v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 网络模型为分析各种结构化数据源提供了强大而灵活的框架。然而，在许多感兴趣的情况下，可以构建多个网络来捕捉潜在现象的不同方面或捕捉随时间变化的行为。在这种情况下，将相关网络聚集在一起以尝试识别共同结构的模式通常很有用。在本文中，我们为网络聚类任务提出了一种凸方法。我们的方法使用凸融合惩罚来诱导平滑变化的树状集群结构，无需先验选择集群的数量。我们为凸网络聚类提供了一种有效的算法，并证明了其在合成示例上的有效性。</p>
+
+<h3 id="个性化学习的网络科学视角">个性化学习的网络科学视角</h3>
+
+<p>原文标题： A Network Science Perspective to Personalized Learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01321">http://arxiv.org/abs/2111.01321</a></p>
+
+<p>作者： Ralucca Gera, Akrati Saxena, D&rsquo;Marie Bartolf, Simona Tick</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01321v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 现代教育生态系统并非一刀切。学者们习惯于在日常生活中个性化，并期望教育系统也能做到这一点。此外，COVID-19 大流行使我们所有人都处于激烈的教学和学习实验室实验中，这现在产生了对自定进度学习和与重点教育材料互动的期望。因此，我们研究了如何通过提供内容选择和多种参与方式以支持自定进度学习的学习平台来实现学习目标，并提出一种基于网络科学的个性化教育方法。该框架通过提供由知识网络支持的学习者参与和内容选择，基于个人技能和目标并受其驱动，使人们关注学习体验，而不是教学体验。我们最后讨论了这种学习平台的原型，称为 CHUNK 学习。</p>
+
+<h3 id="测量和利用时间网络相异性">测量和利用时间网络相异性</h3>
+
+<p>原文标题： Measuring and utilizing temporal network dissimilarity</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01334">http://arxiv.org/abs/2111.01334</a></p>
+
+<p>作者： Xiu-Xiu Zhan, Chuang Liu, Zhipeng Wang, Huijuang Wang, Petter Holme, Zi-Ke Zhang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01334v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 量化时间网络的结构和功能差异是大数据时代的一个基本且具有挑战性的问题。这项工作提出了一种基于最快到达距离分布和基于谱熵的 Jensen-Shannon 散度的时间网络比较的时间差异度量。合成和经验时间网络的实验结果表明，所提出的措施可以通过刻画各种拓扑和时间特性来区分具有不同结构的不同时间网络。此外，所提出的措施可以辨别功能差异，并在时间网络分类和可传播性歧视中得到有效应用。</p>
+
+<h3 id="重叠和非重叠模型">重叠和非重叠模型</h3>
+
+<p>原文标题： Overlapping and nonoverlapping models</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01392">http://arxiv.org/abs/2111.01392</a></p>
+
+<p>作者： Huan Qing</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01392v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 考虑具有 K_r 行社区和 K_c 列社区的有向网络。以前的工作发现，建模所有节点都具有重叠属性的有向网络需要 K_r=K_c 才能识别。在本文中，我们提出了一种重叠和非重叠模型来研究行节点具有重叠特性而列节点不具有重叠特性的有向网络。当 K_rleq K_c 时，提出的模型是可识别的。同时，我们提供了一个可识别的模型作为 ONM 的扩展，以对节点度变化的有向网络进行建模。设计了两种具有一致性估计理论保证的谱算法来拟合模型。小规模的数值研究用于说明算法。</p>
+
+<h3 id="控制中心性-复杂网络的谱中心性的逆排序问题">控制中心性：复杂网络的谱中心性的逆排序问题</h3>
+
+<p>原文标题： Controlling centrality: The Inverse ranking problem for spectral centralities of complex networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01473">http://arxiv.org/abs/2111.01473</a></p>
+
+<p>作者： Esther Garcia, Miguel Romance</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01473v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在本文中，提出了一些关于复杂网络中谱中心性可控性的结果。特别地，考虑了设计具有规定中心性的未加权图的逆问题，通过表明对于最终具有联系的每个可能的排名，可以找到未加权的有向/无向复杂网络，其 PageRank 或特征向量中心性给出了所考虑的排名。提出了不同的网络系列，以便针对带环和不带环的有向图和无向图分析性地解决这个问题。</p>
+
+<h3 id="质量变化-规范还是例外-维基百科质量变化的测量-分析和检测">质量变化：规范还是例外？维基百科质量变化的测量、分析和检测</h3>
+
+<p>原文标题： Quality change: norm or exception? Measurement, Analysis and Detection of Quality Change in Wikipedia</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01496">http://arxiv.org/abs/2111.01496</a></p>
+
+<p>作者： Paramita Das, Bhanu Prakash Reddy Guda, Sasi Bhusan Seelaboyina, Soumya Sarkar, Animesh Mukherjee</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01496v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 维基百科已经变成了一个非常受欢迎的众包百科全书，用于以免费订阅内容的形式传播关于众多通用主题的信息。它允许任何人做出贡献，以便文章保持全面和更新。为了在不影响标准的情况下丰富内容，维基百科社区列举了一套详细的指导方针，应该遵循这些指导方针。基于这些，维基百科编辑将文章分为几个质量等级，并越来越遵守指南。编辑的这项质量评估任务既费力又需要平台专业知识。作为第一个目标，在本文中，我们研究维基百科文章在此类质量尺度方面的演变。我们的结果显示了从这次探索中出现的新的非直观模式。作为第二个目标，我们尝试开发一种自动化的数据驱动方法来检测影响文章质量变化的早期信号。我们假设这是一个变化点检测问题，我们将一篇文章表示为连续修订的时间序列，并通过一组直观的特征对每个修订进行编码。最后，采用各种变化点检测算法，高效准确地检测出未来的变化点。我们还进行了各种消融研究，以理解哪组特征在识别变化点方面最有效。据我们所知，这是第一部从质量指标的角度严格探索英文维基百科文章质量生命周期的工作，并提供了一种新颖的无监督页面级别检测质量切换的方法，有助于维基百科内容的自动监控，从而为 CSCW 社区做出了重大贡献。</p>
+
+<h3 id="演化网络的拓扑-时间特性">演化网络的拓扑-时间特性</h3>
+
+<p>原文标题： Topological-temporal properties of evolving networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01506">http://arxiv.org/abs/2111.01506</a></p>
+
+<p>作者： Alberto Ceria, Shlomo Havlin, Alan Hanjalic, Huijuan Wang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01506v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 许多现实世界的复杂系统（包括人类交互）可以用时间（或演化）网络表示，其中链接随着时间的推移激活或停用。表征时间网络对于比较这些系统和研究在它们上展开的动态过程至关重要。一种同时表征活动链接（也称为联系或事件）的时间和拓扑关系的系统方法，以便比较不同的现实世界网络并检测它们的共同模式或差异。在本文中，我们提出了一种方法来表征发生时间接近的接触在拓扑中也发生接近的程度。具体来说，我们从三个角度研究了接触的时间和拓扑属性之间的相互关系：（1）时间序列的自相关性，记录了网络中每个时间步发生的接触总数； (2) 两个接触点的拓扑距离和事件间时间的相互作用； (3) 节点对之外的局部邻域内接触的时间相关性。通过将我们的方法应用于 13 个真实世界的时间网络，我们发现虚拟接触网络中接触的时间拓扑相关性比物理接触网络中的更为明显。这可能是由于与物理交互相比，在线通信的成本更低且更容易访问，从而允许并可能促进社会传染，即一个人的交互可能会影响其邻居的活动。我们还确定了虚拟和物理网络之间以及在学校和工作场所等物理接触网络之间的不同模式，以形成当地社区的相关性。检测到的模式和差异可能会进一步激发更现实的时间网络模型的开发，该模型可以联合再现联系人的时间和拓扑特性。</p>
+
+<h3 id="基于网络效率的复杂网络重要节点识别修正引力模型">基于网络效率的复杂网络重要节点识别修正引力模型</h3>
+
+<p>原文标题： A modified gravity model based on network efficiency for vital nodes identification in complex networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01526">http://arxiv.org/abs/2111.01526</a></p>
+
+<p>作者： Hanwen Li, Qiuyan Shang, Yong Deng</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01526v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 重要节点识别是网络科学中的一个基本问题。已经提出了各种方法来解决这个问题。特别是在引力模型的基础上，提出了一系列改进的引力模型，以更好地在复杂网络中找到重要节点。然而，他们仍有改进的空间。在本文中，提出了一种新的改进的引力模型，称为网络效率重力中心模型（NEG），它集成了引力模型和网络效率。与其他基于不同引力模型的方法相比，该方法更好地考虑了节点对网络结构鲁棒性的影响。为了巩固所提出方法的优越性，对各种真实世界的网络进行了实验。</p>
+
+<h3 id="使用透明-可解释-简约和可模拟-tips-机器学习模型对-covid-19-大流行动态进行建模-从系统思维和系统识别角度进行的案例研究">使用透明、可解释、简约和可模拟 (TIPS) 机器学习模型对 COVID-19 大流行动态进行建模：从系统思维和系统识别角度进行的案例研究</h3>
+
+<p>原文标题： Modelling COVID-19 Pandemic Dynamics Using Transparent, Interpretable, Parsimonious and Simulatable (TIPS) Machine Learning Models: A Case Study from Systems Thinking and System Identification Perspectives</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01763">http://arxiv.org/abs/2111.01763</a></p>
+
+<p>作者： Hua-Liang Wei, S.A. Billings</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01763v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 自 COVID-19 爆发以来，大量关于大流行动态的出版物出现在文献中，其中许多使用易感感染移除 (SIR) 和易感暴露感染移除 (SEIR) 模型或其变体来模拟和研究冠状病毒的传播。 SIR 和 SEIR 是连续时间模型，它们是一类常微分方程 (ODE) 的初值问题 (IVP)。回归和机器学习等离散时间模型也已应用于分析 COVID-19 大流行数据（例如预测感染病例），但这些方法中的大多数使用简化模型，其中涉及基于先验预选的少量输入变量知识，或使用非常复杂的模型（例如深度学习），纯粹专注于某些预测目的而很少关注模型的可解释性。专注于研究固有的时间滞后或时间延迟关系的研究相对较少，例如再现数（R数）、感染病例和死亡之间的关系，从系统思维和动态角度分析大流行的传播。本研究首次提出使用系统工程和系统识别方法来构建透明、可解释、简约和可模拟 (TIPS) 动态机器学习模型，在 R 数、感染病例和 COVID- 19. TIPS 模型是基于著名的 NARMAX（具有外生输入的非线性自回归移动平均线）模型开发的，该模型有助于更好地理解 COVID-19 大流行动态。对英国 COVID-19 数据进行了案例研究，并详细介绍了新发现。所提出的方法和相关的新发现有助于更好地理解 COVID-19 大流行的传播动态。</p>
+
+<h3 id="围绕暗网市场的去中心化交易网络的涌现和结构">围绕暗网市场的去中心化交易网络的涌现和结构</h3>
+
+<p>原文标题： Emergence and structure of decentralised trade networks around dark web marketplaces</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01774">http://arxiv.org/abs/2111.01774</a></p>
+
+<p>作者： Matthieu Nadini, Alberto Bracci, Abeer ElBahrawy, Philip Gradwell, Alexander Teytelboym, Andrea Baronchelli</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01774v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 暗网市场 (DWM) 是一种在线平台，可促进数百万用户之间的非法交易，每年产生数十亿美元的收入。最近，两项基于访谈的研究表明，DWM 还可能促进直接用户对用户 (U2U) 交易关系的出现。在这里，我们通过分析 2011 年 6 月至 2021 年 1 月期间 40 个 DWM 的用户之间的 3100 万比特币交易来量化并彻底调查 U2U 围绕 DWM 交易的规模。我们发现一半的 DWM 用户通过 U2U 对交易产生总交易量体积大于 DWM 本身。然后我们展示了数十万 DWM 用户形成了随着时间的推移持续存在的稳定交易对。稳定对中的用户通常是 DWM 上交易量最大的用户。然后，我们表明新的 U2U 对经常在两个用户都活跃在同一个 DWM 上时形成，这表明市场可能成为新的直接交易关系的催化剂。最后，我们揭示了稳定的 U2U 对倾向于在 DWM 关闭后幸存下来，并且它们不受 COVID-19 的影响，这表明它们的交易活动对外部冲击具有弹性。我们的工作揭示了暗网中出现的复杂贸易模式，并强调了在单一市场上调查直接买卖双方网络之外的用户行为的重要性。</p>
+
+<h3 id="图上的生命游戏">图上的生命游戏</h3>
+
+<p>原文标题： Game of Life on Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.01780">http://arxiv.org/abs/2111.01780</a></p>
+
+<p>作者： Mikhail Krechetov</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.01780v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在这项工作中，我们考虑了一个受著名的康威生命游戏启发的特定图动态系统。我们研究了动态系统在不同图上的性质，并为图同构测试引入了一种新的有效启发式方法。我们使用系统的演化以确定性的方式从图中提取特征，并观察到提取的特征是唯一的，并且该特征引起的距离满足所有具有最多 10 个顶点的连接图的三角不等式。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20211103/">https://netsci.complexly.cn/post/20211103/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20211102/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要14篇(2021-11-02)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
