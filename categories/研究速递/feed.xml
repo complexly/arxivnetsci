@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 03 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2021-11-04)</title>
+      <link>https://netsci.complexly.cn/post/20211104/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211104/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过谱距离进行图结构攻击;&lt;/li&gt;
+&lt;li&gt;空间区域化作为最佳数据压缩;&lt;/li&gt;
+&lt;li&gt;多模城市移动性和多层交通网络;&lt;/li&gt;
+&lt;li&gt;用概率因果关系量化责任——气候行动案例;&lt;/li&gt;
+&lt;li&gt;随机网络族的测地统计;&lt;/li&gt;
+&lt;li&gt;计数值网络上指数随机图模型的参数估计程序：比较模拟研究;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2021-11-03)</title>
