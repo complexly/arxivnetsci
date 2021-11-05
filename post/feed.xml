@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2021-11-05)</title>
+      <link>https://netsci.complexly.cn/post/20211105/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211105/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于多药副作用、组合协同和药物相互作用预测的关系深度学习的统一视图;&lt;/li&gt;
+&lt;li&gt;通过有针对性的枚举实现经济高效的网络解体;&lt;/li&gt;
+&lt;li&gt;具有异质性的可解释图生成模型;&lt;/li&gt;
+&lt;li&gt;使用平均转换概率和聚类的顺序电影类型预测;&lt;/li&gt;
+&lt;li&gt;对流行病的有效抵抗：用于高保真流行病模拟的移动网络稀疏化;&lt;/li&gt;
+&lt;li&gt;“我们甚至不会挑战他们对种族主义的左派学术定义：”理解 Reddit 和 4chan 上电子论文的使用;&lt;/li&gt;
+&lt;li&gt;美国两次总统选举之间的两极分化和 Twitter 新闻影响者的转变;&lt;/li&gt;
+&lt;li&gt;识别党派选区的指标比较;&lt;/li&gt;
+&lt;li&gt;在社交媒体上吸引政治上多元化的受众;&lt;/li&gt;
+&lt;li&gt;COVID-19 爆发的 Gompertz 增长是由超级传播者引起的;&lt;/li&gt;
+&lt;li&gt;疫情初期限制政策对 COVID-19 传播动态的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2021-11-04)</title>
