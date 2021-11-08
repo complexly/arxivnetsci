@@ -7,10 +7,49 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要27篇(2021-11-08)</title>
+      <link>https://netsci.complexly.cn/post/20211108/</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211108/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在属性网络中测量邻近度用于社区检测;&lt;/li&gt;
+&lt;li&gt;巧合复杂网络;&lt;/li&gt;
+&lt;li&gt;科学、技术与非平衡统计力学;&lt;/li&gt;
+&lt;li&gt;通过生成神经网络进行流行病推断;&lt;/li&gt;
+&lt;li&gt;ProSTformer：用于交通流预测的预训练渐进时空自注意力模型;&lt;/li&gt;
+&lt;li&gt;时空城市知识图谱支持移动性预测;&lt;/li&gt;
+&lt;li&gt;SocialVec：社交实体嵌入;&lt;/li&gt;
+&lt;li&gt;街道网络的形态发生。自组织城市的反应扩散系统;&lt;/li&gt;
+&lt;li&gt;纳米科学和纳米技术及其应用分析;&lt;/li&gt;
+&lt;li&gt;量化 Google 地图的可持续性影响：盐湖城的案例研究;&lt;/li&gt;
+&lt;li&gt;邻居依赖免疫对 COVID-19 疫苗接种的影响;&lt;/li&gt;
+&lt;li&gt;从社会互动到私人环境行为：消费者食物浪费案例;&lt;/li&gt;
+&lt;li&gt;法国铁路百年景观的数字化：铁路衰落、领土后果和环境成本;&lt;/li&gt;
+&lt;li&gt;检测埃奇沃斯循环;&lt;/li&gt;
+&lt;li&gt;关于赛事设计在体育成功中的作用：对 2022 年国际足联世界杯的北美洲、中美洲和加勒比地区资格的研究;&lt;/li&gt;
+&lt;li&gt;公交车中SARS-Cov-2空气传播感染风险评估;&lt;/li&gt;
+&lt;li&gt;基于主体的运动骚乱建模;&lt;/li&gt;
+&lt;li&gt;Wolfram 模型与第四次工业革命的技术架构;&lt;/li&gt;
+&lt;li&gt;在紧急服务中达到危急状态的时间;&lt;/li&gt;
+&lt;li&gt;自然时间序列分析和吠陀印度历系统;&lt;/li&gt;
+&lt;li&gt;使用随机游走模拟吉尼亚猫的行为;&lt;/li&gt;
+&lt;li&gt;通过社交媒体揭示公众对 Covid-19 爆发的全球语言和地理差异;&lt;/li&gt;
+&lt;li&gt;来自考虑局部拓扑的多样化集体行为的出现;&lt;/li&gt;
+&lt;li&gt;疫苗接种率调节了国家纬度与 2021 年秋季出现的 covid-19 激增日期之间的相关性;&lt;/li&gt;
+&lt;li&gt;体育和博弈排名的统计特性;&lt;/li&gt;
+&lt;li&gt;与 Covid-19 相关的时间序列数据中的波分解;&lt;/li&gt;
+&lt;li&gt;激进主义：激进派与传统派的不对称立场;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2021-11-05)</title>
