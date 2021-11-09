@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 08 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2021-11-09)</title>
+      <link>https://netsci.complexly.cn/post/20211109/</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211109/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复杂网络的形态发生：空间图的反应扩散框架;&lt;/li&gt;
+&lt;li&gt;可交换稀疏网络集合的统计物理;&lt;/li&gt;
+&lt;li&gt;通过阻力距离进行社区检测：自动化和基准测试;&lt;/li&gt;
+&lt;li&gt;蜜月交易费用：一个月后以太坊的 EIP-1559;&lt;/li&gt;
+&lt;li&gt;对煽动的洞察：印度 Twitter 上危险言论的计算视角;&lt;/li&gt;
+&lt;li&gt;复杂网络中非马尔可夫 SEIS 和马尔可夫 SIS 模型之间的流行状态等价;&lt;/li&gt;
+&lt;li&gt;城市形态的配置方法：对尼斯市的实证检验（法国）;&lt;/li&gt;
+&lt;li&gt;卫星巨型星座能否证明它们对天文学的影响是合理的？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要27篇(2021-11-08)</title>
