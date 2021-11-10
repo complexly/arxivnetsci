@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 09 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2021-11-10)</title>
+      <link>https://netsci.complexly.cn/post/20211110/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211110/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于识别高特征向量中心节点的无监督学习：一种图神经网络方法;&lt;/li&gt;
+&lt;li&gt;用于多级链路预测的高阶联合嵌入;&lt;/li&gt;
+&lt;li&gt;使用低维网络嵌入算法的社区检测;&lt;/li&gt;
+&lt;li&gt;使用吸收随机游走的惰性编码的元数据进行社区检测;&lt;/li&gt;
+&lt;li&gt;一组从手机数据中估计人口数量的R包;&lt;/li&gt;
+&lt;li&gt;学术超文本的多模态可理解性：文献记录者的贡献。科学编辑过程中串行文件化所需的协作;&lt;/li&gt;
+&lt;li&gt;Twitter 中的事件检测：基于内容和时间的分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2021-11-09)</title>
