@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2021-11-11)</title>
+      <link>https://netsci.complexly.cn/post/20211111/</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211111/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于网络表征学习的考虑主题的潜变量模型;&lt;/li&gt;
+&lt;li&gt;通过电话得到及时性：在矢量时钟模型中近似信息新鲜度;&lt;/li&gt;
+&lt;li&gt;超越邓巴圈：对社会关系和资源分配的连续描述;&lt;/li&gt;
+&lt;li&gt;检测城市创新在全球城市网络上的传染性传播;&lt;/li&gt;
+&lt;li&gt;在三元闭包下提供双稳态的网络模型层次结构;&lt;/li&gt;
+&lt;li&gt;存在多个异质人群的动力学和宏观流行病模型;&lt;/li&gt;
+&lt;li&gt;VeSoNet：基于路径规划和深度强化学习的车载社会网络流量感知内容缓存;&lt;/li&gt;
+&lt;li&gt;粒子物理学面临大流行;&lt;/li&gt;
+&lt;li&gt;用于模拟 SARS-CoV-2 传播的基于随机图的模型;&lt;/li&gt;
+&lt;li&gt;Twitter 上的（错误）认知和参与：关于 COVID-19 疫苗有效性和大规模免疫工作的谣言;&lt;/li&gt;
+&lt;li&gt;通过 Twitter 上的比较分析理解 COVID-19 疫苗反应;&lt;/li&gt;
+&lt;li&gt;是什么让在线社区“更好”？衡量数千个 Subreddit 的价值、共识和冲突;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2021-11-10)</title>
