@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2021-11-12)</title>
+      <link>https://netsci.complexly.cn/post/20211112/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211112/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;从词到联系：词使用相似性作为有利于员工数字交流的诚实信号;&lt;/li&gt;
+&lt;li&gt;图表示学习的隐式 SVD;&lt;/li&gt;
+&lt;li&gt;理解网络中的移动性：节点嵌入方法;&lt;/li&gt;
+&lt;li&gt;多层扩散网络推断对社交媒体数据的适用性;&lt;/li&gt;
+&lt;li&gt;你能永远收获你所播种的吗？健康科技公司的风险投资网络和功能数据分析;&lt;/li&gt;
+&lt;li&gt;Twitch 频道流行度研究;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2021-11-11)</title>
