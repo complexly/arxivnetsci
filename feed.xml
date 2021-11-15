@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 12 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2021-11-15)</title>
+      <link>https://netsci.complexly.cn/post/20211115/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211115/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;个性化的多方面信任建模，以确定社交媒体中的信任链接及其错误信息管理的潜力;&lt;/li&gt;
+&lt;li&gt;二分网络社区结构的细化;&lt;/li&gt;
+&lt;li&gt;生态系统中互惠网络的中尺度特性;&lt;/li&gt;
+&lt;li&gt;行人轨迹预测方法回顾：比较深度学习和基于知识的方法;&lt;/li&gt;
+&lt;li&gt;空间公共产品博弈的融合与合作演化;&lt;/li&gt;
+&lt;li&gt;智能防洪：利用社区规模的大数据进行预测性洪水风险监测、快速影响评估和态势感知;&lt;/li&gt;
+&lt;li&gt;可以通过自由选择 COVID-19 疫苗类型来减轻犹豫吗？;&lt;/li&gt;
+&lt;li&gt;培养学生成为量子信息革命的领导者;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2021-11-12)</title>
