@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2021-11-16)</title>
+      <link>https://netsci.complexly.cn/post/20211116/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211116/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;度量和机制：测量科学中不可测量的部分;&lt;/li&gt;
+&lt;li&gt;具有网络嵌入结构特征的自适应相似函数用于缺失链路预测;&lt;/li&gt;
+&lt;li&gt;量化在线平台中专业化和声誉之间的关系;&lt;/li&gt;
+&lt;li&gt;SocialBERT &amp;ndash; 用于在线社会网络语言建模的转换器;&lt;/li&gt;
+&lt;li&gt;用于紧急救援的社交媒体：哈维飓风期间 Twitter 上的救援请求分析;&lt;/li&gt;
+&lt;li&gt;评估 Twitter 上的网络钓鱼报告的有效性;&lt;/li&gt;
+&lt;li&gt;导致逃税模型中一阶相变的简单机制;&lt;/li&gt;
+&lt;li&gt;群落中的核心-边缘结构：细胞外囊泡;&lt;/li&gt;
+&lt;li&gt;单向街道对最短通勤路线不对称性的影响;&lt;/li&gt;
+&lt;li&gt;用于社区检测的无分布模型;&lt;/li&gt;
+&lt;li&gt;无限制竞争下社会不平等的演化动力学和基尼系数和加尔各答指数的巧合;&lt;/li&gt;
+&lt;li&gt;相关性改进了组测试;&lt;/li&gt;
+&lt;li&gt;谱变换组成了可扩展Transformer;&lt;/li&gt;
+&lt;li&gt;从手机网络的角度分析足球迷的行为和财务状况：2016 年欧洲杯，案例研究;&lt;/li&gt;
+&lt;li&gt;无处不在的走得更远的效率：街道网络如何影响旅行速度;&lt;/li&gt;
+&lt;li&gt;Nachhaltige Strategien gegen die COVID-19-Pandemie in Deutschland im Winter &lt;sup&gt;2021&lt;/sup&gt;&amp;frasl;&lt;sub&gt;2022&lt;/sub&gt;;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2021-11-15)</title>
