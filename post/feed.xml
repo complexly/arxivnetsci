@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 16 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2021-11-17)</title>
+      <link>https://netsci.complexly.cn/post/20211117/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211117/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;结合网络结构和非线性恢复提高声誉评估的性能;&lt;/li&gt;
+&lt;li&gt;Neuro-Hotnet：一种用于脑功能连接估计的图论方法;&lt;/li&gt;
+&lt;li&gt;基于图表示学习方法的5G学术网络分析;&lt;/li&gt;
+&lt;li&gt;解释城市尺度律起源的数学模型：综合综述;&lt;/li&gt;
+&lt;li&gt;具有节点属性的社会网络中重叠社区检测的增强型多目标生物地理学优化;&lt;/li&gt;
+&lt;li&gt;利用异构社区特征的城市洪水临近预报时空图深度学习模型;&lt;/li&gt;
+&lt;li&gt;美国本地新闻在线和 COVID：报道、案例、死亡和受众之间的关系;&lt;/li&gt;
+&lt;li&gt;具有平均场选民的两层投票系统中的最佳权重;&lt;/li&gt;
+&lt;li&gt;埃博拉疫情的网络流行病学;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2021-11-16)</title>
