@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 17 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2021-11-18)</title>
+      <link>https://netsci.complexly.cn/post/20211118/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211118/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有差分隐私的网络生成;&lt;/li&gt;
+&lt;li&gt;竞争平衡模型对外场的响应;&lt;/li&gt;
+&lt;li&gt;围绕 2017 年比特币市场崩盘的价格和流动性信息动态;&lt;/li&gt;
+&lt;li&gt;使用 Ant 和 Dijkstra 算法在类似迷宫的环境中进行搜索和救援;&lt;/li&gt;
+&lt;li&gt;具有记忆效应的流行动态简单模型;&lt;/li&gt;
+&lt;li&gt;冠状病毒大流行微博数据集的情感分析;&lt;/li&gt;
+&lt;li&gt;人口增长率下降对森林砍伐和人口可持续性的影响;&lt;/li&gt;
+&lt;li&gt;早期基督教的亚指数增长;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2021-11-17)</title>
