@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 18 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2021-11-19)</title>
+      <link>https://netsci.complexly.cn/post/20211119/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211119/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;将节点转换为知识图谱嵌入以实现社会网络中更快的链路预测;&lt;/li&gt;
+&lt;li&gt;从社交媒体中自动提取 PII 以提高隐私意识：一种深度迁移学习方法;&lt;/li&gt;
+&lt;li&gt;使用移动网络数据监测 COVID-19 引起的远程办公率的性别差异;&lt;/li&gt;
+&lt;li&gt;复杂网络中对投票模型动态的对抗性攻击;&lt;/li&gt;
+&lt;li&gt;一种对 COVID-19 疾病动态进行建模和分析常见预防措施效果的新型隔室方法;&lt;/li&gt;
+&lt;li&gt;新度量揭示学术工作推荐中微妙的性别偏见;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2021-11-18)</title>
