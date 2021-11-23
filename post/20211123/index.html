@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要20篇(2021-11-23) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+WalkingTime：使用时间拓扑流的动态图嵌入;
+复杂网络中的链接级联：平均场方法;
+RacketStore：通过手机和应用程序使用测量 Google Play 中的 ASO 欺骗;
+Hashtag-Graphs社区检测用于半监督 NMF 主题模型;
+叙事中的影响力动态：委内瑞拉总统危机的案例研究;
+增强 COVID-19 流行病模拟的推文分析：日本案例研究;
+京都面对面互动社会网络的社区结构及其稳定性;
+加权网络中社区检测的度校正无分布模型;
+歪曲关于 COVID-19 的科学共识：推特上持不同意见的科学家的放大;
+通过知识图谱上的强化学习推理得到可解释的生物医学建议;
+异质性的缺点：已建立的关系如何抵消任务分配中的系统适应性;
+变革之风：COVID-19 对 Twitter 用户疫苗相关意见的影响;
+在 Twitter 上检测流感流行病;
+用于相关聚类和聚类删除的更快确定性逼近算法;
+一种与领域无关的整体欺骗检测方法;
+单流部分重叠多层系统的聚合网络和 p 核;
+WEM：加权网络中的节点重要性算法;
+Reddit 社区的主动干预可行吗？;
+图的顺序局部性及其假设检验;
+重视社会接触和风险容忍度的多样性导致面临传染性威胁的人群中出现同质性;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要20篇(2021-11-23) - 网络科学研究速递">
+<meta itemprop="description" content="
+WalkingTime：使用时间拓扑流的动态图嵌入;
+复杂网络中的链接级联：平均场方法;
+RacketStore：通过手机和应用程序使用测量 Google Play 中的 ASO 欺骗;
+Hashtag-Graphs社区检测用于半监督 NMF 主题模型;
+叙事中的影响力动态：委内瑞拉总统危机的案例研究;
+增强 COVID-19 流行病模拟的推文分析：日本案例研究;
+京都面对面互动社会网络的社区结构及其稳定性;
+加权网络中社区检测的度校正无分布模型;
+歪曲关于 COVID-19 的科学共识：推特上持不同意见的科学家的放大;
+通过知识图谱上的强化学习推理得到可解释的生物医学建议;
+异质性的缺点：已建立的关系如何抵消任务分配中的系统适应性;
+变革之风：COVID-19 对 Twitter 用户疫苗相关意见的影响;
+在 Twitter 上检测流感流行病;
+用于相关聚类和聚类删除的更快确定性逼近算法;
+一种与领域无关的整体欺骗检测方法;
+单流部分重叠多层系统的聚合网络和 p 核;
+WEM：加权网络中的节点重要性算法;
+Reddit 社区的主动干预可行吗？;
+图的顺序局部性及其假设检验;
+重视社会接触和风险容忍度的多样性导致面临传染性威胁的人群中出现同质性;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要20篇(2021-11-23) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20211123/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+WalkingTime：使用时间拓扑流的动态图嵌入;
+复杂网络中的链接级联：平均场方法;
+RacketStore：通过手机和应用程序使用测量 Google Play 中的 ASO 欺骗;
+Hashtag-Graphs社区检测用于半监督 NMF 主题模型;
+叙事中的影响力动态：委内瑞拉总统危机的案例研究;
+增强 COVID-19 流行病模拟的推文分析：日本案例研究;
+京都面对面互动社会网络的社区结构及其稳定性;
+加权网络中社区检测的度校正无分布模型;
+歪曲关于 COVID-19 的科学共识：推特上持不同意见的科学家的放大;
+通过知识图谱上的强化学习推理得到可解释的生物医学建议;
+异质性的缺点：已建立的关系如何抵消任务分配中的系统适应性;
+变革之风：COVID-19 对 Twitter 用户疫苗相关意见的影响;
+在 Twitter 上检测流感流行病;
+用于相关聚类和聚类删除的更快确定性逼近算法;
+一种与领域无关的整体欺骗检测方法;
+单流部分重叠多层系统的聚合网络和 p 核;
+WEM：加权网络中的节点重要性算法;
+Reddit 社区的主动干预可行吗？;
+图的顺序局部性及其假设检验;
+重视社会接触和风险容忍度的多样性导致面临传染性威胁的人群中出现同质性;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20211123/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20211123/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要20篇(2021-11-23)</h1>
+
+                  <p class="post-byline">
+                    2021年11月23日 · 7665 字 ·
+                    阅读时间约16分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>WalkingTime：使用时间拓扑流的动态图嵌入;</li>
+<li>复杂网络中的链接级联：平均场方法;</li>
+<li>RacketStore：通过手机和应用程序使用测量 Google Play 中的 ASO 欺骗;</li>
+<li>Hashtag-Graphs社区检测用于半监督 NMF 主题模型;</li>
+<li>叙事中的影响力动态：委内瑞拉总统危机的案例研究;</li>
+<li>增强 COVID-19 流行病模拟的推文分析：日本案例研究;</li>
+<li>京都面对面互动社会网络的社区结构及其稳定性;</li>
+<li>加权网络中社区检测的度校正无分布模型;</li>
+<li>歪曲关于 COVID-19 的科学共识：推特上持不同意见的科学家的放大;</li>
+<li>通过知识图谱上的强化学习推理得到可解释的生物医学建议;</li>
+<li>异质性的缺点：已建立的关系如何抵消任务分配中的系统适应性;</li>
+<li>变革之风：COVID-19 对 Twitter 用户疫苗相关意见的影响;</li>
+<li>在 Twitter 上检测流感流行病;</li>
+<li>用于相关聚类和聚类删除的更快确定性逼近算法;</li>
+<li>一种与领域无关的整体欺骗检测方法;</li>
+<li>单流部分重叠多层系统的聚合网络和 p 核;</li>
+<li>WEM：加权网络中的节点重要性算法;</li>
+<li>Reddit 社区的主动干预可行吗？;</li>
+<li>图的顺序局部性及其假设检验;</li>
+<li>重视社会接触和风险容忍度的多样性导致面临传染性威胁的人群中出现同质性;</li>
+</ul>
+
+<p></p>
+
+<h3 id="walkingtime-使用时间拓扑流的动态图嵌入">WalkingTime：使用时间拓扑流的动态图嵌入</h3>
+
+<p>原文标题： WalkingTime: Dynamic Graph Embedding Using Temporal-Topological Flows</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10928">http://arxiv.org/abs/2111.10928</a></p>
+
+<p>作者： David Bayani</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10928v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在过去四年中，人们越来越关注动态网络嵌入。然而，现有的动态嵌入方法认为问题仅限于拓扑在一系列全局离散状态上的演变。我们提出了一种新颖的嵌入算法 WalkingTime，它基于对时间的根本不同处理，允许对连续发生的现象进行局部考虑；当其他人认为全局时间步长是动态环境的一阶公民时，我们将时间和拓扑本地交互组成的流视为我们的原语，不需要任何离散化或时间相关属性的对齐。关键词：动态网络，表示学习，动态图嵌入，时间尊重路径，时间拓扑流，时间随机游走，时间网络，实属性知识图，流图，在线网络，异步图，异步网络，图算法，深度学习 , 网络分析 , 数据挖掘 , 网络科学</p>
+
+<h3 id="复杂网络中的链接级联-平均场方法">复杂网络中的链接级联：平均场方法</h3>
+
+<p>原文标题： Link Cascades in Complex Networks: A Mean-field Approach</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.11008">http://arxiv.org/abs/2111.11008</a></p>
+
+<p>作者： King Chun Wong, Sai-Ping Li</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.11008v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 网络上的级联模型已被广泛用于研究复杂系统中的级联故障。然而，当前的大多数模型都考虑了节点损坏导致的故障，而忽略了链路损坏的可能性，这与交通、社会动力学、生物学和医学有关。为了将传统的级联模型推广到链路损坏，我们提出了一种基于标准独立级联模型的链路级联模型，然后通过数值模拟和解析近似求解。我们发现一个节点由于链接损坏而失去所有链接的概率作为节点度的函数表现出最小值，这表明存在一个节点最能抵抗链接损坏的最佳度。我们应用我们的模型来研究现实世界的签名社会网络中的符号分布，并发现这样的最优度确实存在于现实世界的数据集中。</p>
+
+<h3 id="racketstore-通过手机和应用程序使用测量-google-play-中的-aso-欺骗">RacketStore：通过手机和应用程序使用测量 Google Play 中的 ASO 欺骗</h3>
+
+<p>原文标题： RacketStore: Measurements of ASO Deception in Google Play via Mobile and App Usage</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10400">http://arxiv.org/abs/2111.10400</a></p>
+
+<p>作者： Nestor Hernandez, Ruben Recabarren, Bogdan Carbunar, Syed Ishtiaque Ahmed</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10400v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在线应用搜索优化 (ASO) 平台为付费应用开发者提供批量安装和虚假评论，以欺诈性地提高他们在应用商店中的搜索排名，被证明采用了多样化和复杂的策略，成功地逃避了最先进的检测方法。在本文中，我们介绍了 RacketStore，这是一个从参与 ASO 提供商和普通用户的 Android 设备收集数据的平台，这些数据涉及他们与从 Google Play 商店安装的应用程序的交互。我们展示了对由 ASO 提供商和普通用户控制的 803 台独特设备上 943 次安装 RacketStore 的研究的测量结果，其中包括从这些设备收集的 58,362,249 个数据快照、安装在这些设备上的 12,341 个应用程序及其 110,511,637 条 Google Play 评论。我们揭示了 ASO 提供商与普通用户在其设备上注册的用户帐户数量和类型、他们审查的应用程序数量以及应用程序安装时间与其审查时间之间的间隔方面的显著差异。我们利用这些见解来介绍对应用程序和设备的使用进行建模的功能，并表明它们可以训练监督学习算法以 99.72% 的 F1 度量（AUC 高于 0.99）检测付费应用程序安装和虚假评论，并检测设备由 ASO 提供者控制，F1 测量值为 95.29% (AUC = 0.95)。我们讨论了与我们的分类器逃避检测相关的成本，以及应用商店使用我们的方法来检测具有隐私的 ASO 工作的潜力。</p>
+
+<h3 id="hashtag-graphs社区检测用于半监督-nmf-主题模型">Hashtag-Graphs社区检测用于半监督 NMF 主题模型</h3>
+
+<p>原文标题： Community-Detection via Hashtag-Graphs for Semi-Supervised NMF Topic Models</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10401">http://arxiv.org/abs/2111.10401</a></p>
+
+<p>作者： Mattias Luber, Anton Thielmann, Christoph Weisser, Benjamin Säfken</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10401v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 从大量非结构化文本文档中提取主题已成为当前 NLP 应用程序和算法（如 NMF、LDA 及其泛化）的中心任务，它们的泛化是公认的当前技术状态。然而，特别是当涉及到像 Tweets 这样的短文本文档时，由于文档特征矩阵的稀疏性，这些方法通常会导致不令人满意的结果。尽管已经提出了几种通过考虑附加信息来克服这种稀疏性的方法，但这些方法仅侧重于相似文档的聚合和单词共现的估计。这最终完全忽略了这样一个事实，即通过应用常见的社区检测算法，实际上可以从所谓的主题标签图中检索到许多主题信息。因此，本文概述了如何通过连接基于图的社区检测和半监督 NMF 将主题标签图的主题结构集成到主题模型的估计中的新方法。通过在最近流式传输的 Twitter 数据上应用这种方法，可以看出这个过程实际上会导致更直观和人类可解释的主题。</p>
+
+<h3 id="叙事中的影响力动态-委内瑞拉总统危机的案例研究">叙事中的影响力动态：委内瑞拉总统危机的案例研究</h3>
+
+<p>原文标题： Influence Dynamics Among Narratives: A Case Study of the Venezuelan Presidential Crisis</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10402">http://arxiv.org/abs/2111.10402</a></p>
+
+<p>作者： Akshay Aravamudan, Xi Zhang, Jihye Song, Stephen M. Fiore, Georgios C. Anagnostopoulos</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10402v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 人们普遍认为，叙事之间的传播和同时相互作用——这里定义为持续的观点消息——对政治话语和公众舆论的形成有重要贡献。在这项工作中，我们提出了一种基于多变量霍克斯过程和我们新引入的过程影响度量的方法，用于量化和评估此类叙述如何相互影响（格兰杰原因）。这种方法可以帮助社会科学家提高他们对社会地缘政治现象的理解，因为它们在社交媒体领域表现出来和发展。为了展示其优点，我们将我们的方法应用于 2019 年委内瑞拉总统危机期间的 Twitter 叙事。我们的分析表明，8 种不同叙事之间存在细微的、不断变化的影响结构，其中一部分可以用具有里程碑意义的历史事件来解释。</p>
+
+<h3 id="增强-covid-19-流行病模拟的推文分析-日本案例研究">增强 COVID-19 流行病模拟的推文分析：日本案例研究</h3>
+
+<p>原文标题： Tweet Analysis for Enhancement of COVID-19 Epidemic Simulation: A Case Study in Japan</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10404">http://arxiv.org/abs/2111.10404</a></p>
+
+<p>作者： Vu Tran, Tomoko Matsui</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10404v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 始于 2019 年 12 月的 COVID-19 大流行以复杂的方式发展，从而在全球范围内引发了问题。寻找复杂进展原因的线索是必要的，但在抗击大流行的斗争中具有挑战性。我们通过调查社交媒体上的反应与日本 COVID-19 流行病之间的关系来寻找线索。 Twitter 被选为研究的社交媒体平台，因为它在日本拥有庞大的用户群，并且因为它可以快速传播以主题为中心的简短消息（“推文”）。使用日本 Twitter 数据的分析表明，社交媒体上的反应与 COVID-19 大流行的进展可能有密切关系。评估使用推文来支持流行病将如何发展的预测的潜力的实验证明了使用流行病相关社交媒体数据的价值。我们的研究结果深入理解了用户对社交媒体（尤其是 Twitter）的反应与可用于对抗流行病的流行病进展之间的关系。</p>
+
+<h3 id="京都面对面互动社会网络的社区结构及其稳定性">京都面对面互动社会网络的社区结构及其稳定性</h3>
+
+<p>原文标题： Community Structure and Its Stability on Face-to-face Interaction Social Network in Kyoto</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10526">http://arxiv.org/abs/2111.10526</a></p>
+
+<p>作者： Yu Ohki, Yuichi Ikeda, Hitomi Tanaka</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10526v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 人与人之间的社会联系通过多种沟通方式进行调解，包括面对面的互动、手机和社会网络服务。因此，要理解人们的社会行为，就需要利用多种传播手段整合社会网络，并对其进行全面理解。以前的研究中还没有构建大规模的面对面交互网络。因此，我们开发了一种使用移动数据构建大规模面对面交互网络的方法。然后，我们使用构建的网络的空间坐标计算每个群落的化学势，并从统计力学的角度研究群落结构的稳定性。结果，我们使用京都市的 39 天数据构建了一个约 5,000 人的面对面交互网络。我们确认整个时期的网络结构是稳健的，并且具有相似的社区地理空间分配。对构建的网络中的群落化学势进行计算，群落间化学势的误差在10%左右。我们研究了理想气体的化学势和粒子相互作用的化学势的贡献。并且我们认为面对面交互网络的社区结构的稳定性是由每个社区中粒子密度的变化和社区中粒子分布的局部化决定的。</p>
+
+<h3 id="加权网络中社区检测的度校正无分布模型">加权网络中社区检测的度校正无分布模型</h3>
+
+<p>原文标题： Degree-Corrected Distribution-Free Model for Community Detection in weighted networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10553">http://arxiv.org/abs/2111.10553</a></p>
+
+<p>作者： Huan Qing</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10553v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 针对具有潜在结构信息的加权社会网络，提出了一种无度数校正分布模型。该模型通过考虑节点度的变化来扩展以前的无分布模型，以适应现实世界的加权网络。我们设计了一种基于谱聚类思想的算法来拟合所提出的模型。在该模型下开发了算法一致性估计的理论框架。使用模拟和现实世界网络的实验，我们表明我们的方法明显优于未校正的方法。</p>
+
+<h3 id="歪曲关于-covid-19-的科学共识-推特上持不同意见的科学家的放大">歪曲关于 COVID-19 的科学共识：推特上持不同意见的科学家的放大</h3>
+
+<p>原文标题： Misrepresenting Scientific Consensus on COVID-19: The Amplification of Dissenting Scientists on Twitter</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10594">http://arxiv.org/abs/2111.10594</a></p>
+
+<p>作者： Alexandros Efstratiou, Tristan Caulfield</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10594v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： COVID-19 大流行导致了大量错误信息，通常被描述为“信息流行病”。之前的研究侧重于将不可靠来源的传播作为错误信息的主要载体，而本研究侧重于探索其观点与科学共识相反的科学家的作用。使用生理学和医学领域的诺贝尔奖获得者作为科学共识的代表，我们分析了两个独立的数据集：1.31 万个独立用户针对 COVID-19 疫苗的 1.58 万条推文，以及 15.1 万个独立用户针对 COVID-19 发布的 20.8 万条推文，其中提到了诺贝尔奖获得者名称。我们的分析表明，在 COVID-19 疫苗的背景下，持不同意见的科学家相对于真正的科学共识被放大了 426 倍，在 COVID-19 的背景下通常被放大了 43 倍。尽管更受欢迎的帐户倾向于更多地提及遵守共识的科学家，但我们的结果表明，这种错误的共识是由对提及异议的推文的更高参与度驱动的。此外，错误的共识主要是由于异议科学家的高度流行的声明引起的流量高峰造成的。我们发现反对声音主要在法语、英语、土耳其语、巴西、阿根廷、印度和日本的错误信息集群中讨论。这项研究表明，社交媒体平台应优先曝光遵守共识的科学家，将其作为扭转错误共识和解决源自看似可靠来源的错误信息的工具。</p>
+
+<h3 id="通过知识图谱上的强化学习推理得到可解释的生物医学建议">通过知识图谱上的强化学习推理得到可解释的生物医学建议</h3>
+
+<p>原文标题： Explainable Biomedical Recommendations via Reinforcement Learning Reasoning on Knowledge Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10625">http://arxiv.org/abs/2111.10625</a></p>
+
+<p>作者： Gavin Edwards, Sebastian Nilsson, Benedek Rozemberczki, Eliseo Papa</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10625v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 为了让人工智能在生物学和医学中产生更大的影响，建议的准确和透明至关重要。在其他领域，知识图谱上的多跳推理的神经符号方法已被证明可以产生透明的解释。然而，缺乏将其应用于复杂生物医学数据集和问题的研究。在本文中，探索了该方法用于药物发现，以对其适用性得出可靠的结论。我们首次将其系统地应用于多个生物医学数据集和具有公平基准比较的推荐任务。发现该方法比最佳基线平均高出 21.7%，同时产生新颖的、与生物学相关的解释。</p>
+
+<h3 id="异质性的缺点-已建立的关系如何抵消任务分配中的系统适应性">异质性的缺点：已建立的关系如何抵消任务分配中的系统适应性</h3>
+
+<p>原文标题： The downside of heterogeneity: How established relations counteract systemic adaptivity in tasks assignments</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10648">http://arxiv.org/abs/2111.10648</a></p>
+
+<p>作者： Giona Casiraghi, Christian Zingg, Frank Schweitzer</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10648v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们研究了任务分配网络中的锁定效应。主体具有解决任务的异构适应性，并且可以将未完成的任务重新分配给其他主体。他们随着时间的推移学习将任务重新分配给谁，并最好选择具有更高适应度的主体。如果重新分配不能再适应，则会发生锁定。被任务淹没的主体然后失败，导致失败级联。我们发现锁定和系统故障的概率随着适应度值的异质性而增加。为了研究这种依赖性，我们使用了任务分配网络的香农熵。详细的讨论将我们的发现与社会系统中的弹性和观察问题联系起来。</p>
+
+<h3 id="变革之风-covid-19-对-twitter-用户疫苗相关意见的影响">变革之风：COVID-19 对 Twitter 用户疫苗相关意见的影响</h3>
+
+<p>原文标题： Winds of Change: Impact of COVID-19 on Vaccine-related Opinions of Twitter users</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10667">http://arxiv.org/abs/2111.10667</a></p>
+
+<p>作者： Soham Poddar, Mainack Mondal, Janardan Misra, Niloy Ganguly, Saptarshi Ghosh</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10667v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在社会范围内接种 COVID-19 疫苗被认为是抵御 COVID-19 大流行的最合适方法。这种全球疫苗接种运动自然激发了 Pro-Vaxxers 和 Anti-Vaxxers 在社交媒体平台上强烈表达他们对疫苗的支持和担忧的可能性。理解这种在线讨论对政策制定者至关重要。这种理解可能会影响疫苗接种活动的成功，甚至可能影响我们抗击大流行的最终结果。这项工作的目标是使用 Twitter 话语数据的视角来提高这种理解。我们首先开发了一个分类器，根据用户与疫苗相关的立场以高精度 (97%) 对用户进行分类。使用这种方法，我们检测和调查在 COVID 之前和 COVID 时代发布疫苗的特定用户组。具体来说，我们确定了这些用户谈论的不同主题，并调查了与疫苗相关的话语在 COVID 之前时代和 COVID 时代之间是如何变化的。最后，我们首次调查了 Twitter 用户中疫苗相关立场的变化，并阐明了这种立场变化的潜在原因。我们的数据集和分类器可在 <a href="https://github.com/sohampoddar26/covid-vax-stance">https://github.com/sohampoddar26/covid-vax-stance</a> 获得。</p>
+
+<h3 id="在-twitter-上检测流感流行病">在 Twitter 上检测流感流行病</h3>
+
+<p>原文标题： Detecting Influenza Epidemics on Twitter</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10675">http://arxiv.org/abs/2111.10675</a></p>
+
+<p>作者： Katerina Katsani-Geronymaki, Polyvios Pratikakis</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10675v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本文提出了一种基于 Twitter 流量的流感样疾病预测模型。我们根据流感维基百科页面中使用的一组关键字从 Twitter 收集数据，并使用希腊 CDC 的真实 ILI 数据对 3 年推文中使用的所有单词进行特征选择。我们选择一小组与 ILI 分数具有高相关性的单词，并训练回归模型从单词特征预测 ILI 分数案例。我们将这个模型部署在流媒体应用程序上，并将生成的时间序列提供给 FluHMM，这是一种流行阶段的现有预测模型。我们发现 Twitter 流量提供了一个很好的信息来源，与使用希腊各地的一组相关医生的现有哨兵协议相比，可以生成早期警告。</p>
+
+<h3 id="用于相关聚类和聚类删除的更快确定性逼近算法">用于相关聚类和聚类删除的更快确定性逼近算法</h3>
+
+<p>原文标题： Faster Deterministic Approximation Algorithms for Correlation Clustering and Cluster Deletion</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10699">http://arxiv.org/abs/2111.10699</a></p>
+
+<p>作者： Nate Veldt</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10699v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 相关聚类是一种基于成对相似性和相异性分数划分数据集的框架，已被用于生物信息学、社会网络分析和计算机视觉中的各种应用。尽管针对这个问题设计了许多近似算法，但最好的理论结果依赖于通过昂贵的线性规划松弛获得下界。在本文中，我们证明了相关聚类问题和与强三元闭包原理相关的边标记问题之间的新关系。我们使用这些连接为相关聚类开发新的近似算法，该算法具有确定性常数因子近似保证并避免规范线性规划松弛。我们的方法还扩展到称为聚类删除的相关聚类的变体，它严格禁止在聚类内放置负边。我们的结果包括用于聚类删除和相关聚类的 4 近似算法，基于简化的线性程序，其约束远少于规范松弛。更重要的是，我们开发了更快的纯组合技术，基于计算某些辅助图和超图中的最大匹配。这导致完全未加权相关聚类的组合 6 近似，这是任何不依赖线性规划的方法的最佳确定性结果。我们还提出了第一个用于聚类删除的组合常数因子近似。</p>
+
+<h3 id="一种与领域无关的整体欺骗检测方法">一种与领域无关的整体欺骗检测方法</h3>
+
+<p>原文标题： A Domain-Independent Holistic Approach to Deception Detection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10711">http://arxiv.org/abs/2111.10711</a></p>
+
+<p>作者： Sadat Shahriar, Arjun Mukherjee, Omprakash Gnawali</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10711v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 文本中的欺骗在不同的领域可以有不同的形式，包括假新闻、谣言推文和垃圾邮件。无论领域如何，欺骗性文本的主要目的是欺骗读者。尽管存在特定领域的欺骗检测，但独立于领域的欺骗检测可以提供整体图片，这对于理解文本中欺骗是如何发生的至关重要。在本文中，我们使用深度学习架构在独立于领域的环境中检测欺骗。我们的方法以 93.42% 的整体准确率和 93.22% 的 F1-Score 优于大多数基准数据集的最先进 (SOTA) 性能。与领域无关的训练使我们能够捕捉到欺骗性写作风格的细微差别。此外，我们分析了有多少域内数据可能有助于准确检测欺骗行为，尤其是在数据可能不易用于训练的情况下。我们的结果和分析表明，独立于领域的文本之间可能存在一种普遍的欺骗模式，这可以创造一个新的研究领域，并在欺骗检测领域开辟新的途径。</p>
+
+<h3 id="单流部分重叠多层系统的聚合网络和-p-核">单流部分重叠多层系统的聚合网络和 p 核</h3>
+
+<p>原文标题： Aggregate-networks and p-cores of monoflow partially overlapped multilayer systems</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10764">http://arxiv.org/abs/2111.10764</a></p>
+
+<p>作者： Olexandr Polishchuk</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10764v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本文介绍了多层网络（MLN）分类的一些结构和功能特征，通过这些特征区分单流部分重叠的MLN，这些特征在不同性质的系统间相互作用研究中很常见。定义了 MLN 聚合网络的概念，这在许多情况下显著简化了系统间相互作用的研究，并研究了其 k 核的特性。引入了 p 核的概念，借助它区分了直接参与系统间交互实现的 MLN 组件。研究了降低多层网络模型复杂性的方法，这使我们能够显著降低它们的维度并更好地理解复杂网络系统和不同类型的系统间交互中发生的过程。利用引入的元素局部和全局结构特征，开发了对单流部分重叠多层网络进行针对性攻击的有效场景，其主要关注点集中在 MLN 的过渡点上，通过该过渡点实际实现系统间交互。研究表明，这些场景也可以用来解决逆问题，即首先应该阻塞MLN的哪些元素，以防止危险传染病的流行加速传播等。</p>
+
+<h3 id="wem-加权网络中的节点重要性算法">WEM：加权网络中的节点重要性算法</h3>
+
+<p>原文标题： WEM: A Node Importance Algorithm in Weighted Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.10840">http://arxiv.org/abs/2111.10840</a></p>
+
+<p>作者： Linjie Chen, Na Zhao, Jie Li, Zhen Long, Ming Jing, Jian Wang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.10840v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 针对加权网络中节点的重要性，本文提出了加权期望法(WEM)，它利用了不确定图算法的优点。首先，基于边权重与节点间接触强度的关系，提出了一种权重处理方法，定义了边权重对节点重要性的贡献的计算方法，即使存在两个逆向现实中的情况。然后，由于使用了动态规划方法，将计算时间的复杂度降低到线性水平，WEM 将更适合于大型加权网络中的计算。 WEM 凭借其计算特性，可以最大程度地保证每个节点的节点基本分数的精确排序。节点连通性实验和SIR仿真实验表明，WEM具有较高的精度和相对较低的时间复杂度。</p>
+
+<h3 id="reddit-社区的主动干预可行吗">Reddit 社区的主动干预可行吗？</h3>
+
+<p>原文标题： Are Proactive Interventions for Reddit Communities Feasible?</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.11019">http://arxiv.org/abs/2111.11019</a></p>
+
+<p>作者： Hussam Habib, Maaz Bin Musa, Fareed Zaffar, Rishab Nithyanand</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.11019v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： Reddit 发现其社区在发起和传播有问题的社会政治话语方面发挥着重要作用。 Reddit 管理员一般都在努力阻止或遏制此类言论，原因包括：(1) 少数人类管理员无法每天跟踪和回应数百万个帖子和评论，以及 (2) 担心因禁止或隔离仇恨社区的行政决定。因此，只有在社区内有问题的话语蔓延到现实世界并造成严重后果时，才会采取行政措施（社区禁令和隔离）。在本文中，我们调查了部署工具以主动识别 Reddit 上有问题的社区的可行性。主动识别策略因三个原因显示出前景：(1) 它们有可能减少跟踪社区有问题内容所需的手动工作，(2) 它们为管理员提供支持其决策和干预的科学依据，以及 (3) 它们促进早期和更细致的干预（比禁止或隔离）以减轻有问题的话语。</p>
+
+<h3 id="图的顺序局部性及其假设检验">图的顺序局部性及其假设检验</h3>
+
+<p>原文标题： Sequential locality of graphs and its hypothesis testing</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.11267">http://arxiv.org/abs/2111.11267</a></p>
+
+<p>作者： Tatsuro Kawamoto, Teruyoshi Kobayashi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.11267v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 邻接矩阵是图分析中最基本和最直观的对象，它不仅在数学上很有用，而且对于图结构的可视化也很有用。由于邻接矩阵的外观受行和列的顺序或顶点顺序的严重影响，因此图及其顶点序列的统计评估对于识别图的特征结构很重要。在这项研究中，我们提出了一个假设检验框架，用于评估局部顶点如何沿着指定的顶点序列相互连接，这为称为包络缩减的优化问题提供了统计基础。建议的测试是基于组合方法和具有内在顶点排序的块模型制定的。这项工作为通过不同科学领域的实验获得的各种图数据提供了一个新的视角，并帮助研究人员用统计保证来总结他们的发现。</p>
+
+<h3 id="重视社会接触和风险容忍度的多样性导致面临传染性威胁的人群中出现同质性">重视社会接触和风险容忍度的多样性导致面临传染性威胁的人群中出现同质性</h3>
+
+<p>原文标题： Diversity in Valuing Social Contact and Risk Tolerance Lead to the Emergence of Homophily in Populations Facing Infectious Threats</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2111.11362">http://arxiv.org/abs/2111.11362</a></p>
+
+<p>作者： Matthew J. Young, Matthew J. Silk, Alex J. Pritchard, Nina H. Fefferman</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2111.11362v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 自组织如何导致社会群体中结构的出现仍然是复杂系统研究中一个引人入胜且悬而未决的问题。一种经常观察到的在系统中反复出现的结构是自相似社区，即同质性。我们使用博弈论的视角来探索一个案例，其中个人仅根据两个因素选择从属伙伴关系：他们对社交接触的重视，以及他们对来自社交接触的威胁（例如传染病、威胁想法等）。我们展示了仅这两种影响的多样性如何足以导致群体中出现自组织同质性。我们进一步考虑外在社会因素影响维持特定社会关系的愿望的情况，并展示新兴的同性模式对这些额外影响的稳健性。这些结果表明，在平衡社会接触的价值与与这些接触相关的潜在风险的个人行为中，可观察到的人口水平的同质性是如何产生的。我们在人群中传染病暴发的背景下介绍和讨论这些结果。作为关于社会分裂如何改变流行病学风险的标准叙述的补充，我们在这里展示了流行病学风险如何加深人类的社会分裂。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20211123/">https://netsci.complexly.cn/post/20211123/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20211122/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要2篇(2021-11-22)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

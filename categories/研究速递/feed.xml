@@ -7,10 +7,42 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要20篇(2021-11-23)</title>
+      <link>https://netsci.complexly.cn/post/20211123/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211123/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;WalkingTime：使用时间拓扑流的动态图嵌入;&lt;/li&gt;
+&lt;li&gt;复杂网络中的链接级联：平均场方法;&lt;/li&gt;
+&lt;li&gt;RacketStore：通过手机和应用程序使用测量 Google Play 中的 ASO 欺骗;&lt;/li&gt;
+&lt;li&gt;Hashtag-Graphs社区检测用于半监督 NMF 主题模型;&lt;/li&gt;
+&lt;li&gt;叙事中的影响力动态：委内瑞拉总统危机的案例研究;&lt;/li&gt;
+&lt;li&gt;增强 COVID-19 流行病模拟的推文分析：日本案例研究;&lt;/li&gt;
+&lt;li&gt;京都面对面互动社会网络的社区结构及其稳定性;&lt;/li&gt;
+&lt;li&gt;加权网络中社区检测的度校正无分布模型;&lt;/li&gt;
+&lt;li&gt;歪曲关于 COVID-19 的科学共识：推特上持不同意见的科学家的放大;&lt;/li&gt;
+&lt;li&gt;通过知识图谱上的强化学习推理得到可解释的生物医学建议;&lt;/li&gt;
+&lt;li&gt;异质性的缺点：已建立的关系如何抵消任务分配中的系统适应性;&lt;/li&gt;
+&lt;li&gt;变革之风：COVID-19 对 Twitter 用户疫苗相关意见的影响;&lt;/li&gt;
+&lt;li&gt;在 Twitter 上检测流感流行病;&lt;/li&gt;
+&lt;li&gt;用于相关聚类和聚类删除的更快确定性逼近算法;&lt;/li&gt;
+&lt;li&gt;一种与领域无关的整体欺骗检测方法;&lt;/li&gt;
+&lt;li&gt;单流部分重叠多层系统的聚合网络和 p 核;&lt;/li&gt;
+&lt;li&gt;WEM：加权网络中的节点重要性算法;&lt;/li&gt;
+&lt;li&gt;Reddit 社区的主动干预可行吗？;&lt;/li&gt;
+&lt;li&gt;图的顺序局部性及其假设检验;&lt;/li&gt;
+&lt;li&gt;重视社会接触和风险容忍度的多样性导致面临传染性威胁的人群中出现同质性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要2篇(2021-11-22)</title>
