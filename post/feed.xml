@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2021-11-24)</title>
+      <link>https://netsci.complexly.cn/post/20211124/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211124/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;异构网络上的共识形成;&lt;/li&gt;
+&lt;li&gt;复杂网络中心性和聚类的模块化框架;&lt;/li&gt;
+&lt;li&gt;网络效应研究：理论机制和措施的系统回顾;&lt;/li&gt;
+&lt;li&gt;链接分析遇到本体：嵌入是答案吗？;&lt;/li&gt;
+&lt;li&gt;人说谎，行动不说！在社交媒体用户中对信息流行病扩散预测因子进行建模;&lt;/li&gt;
+&lt;li&gt;通过随机游走采样的社交图谱恢复;&lt;/li&gt;
+&lt;li&gt;社交媒体上的动态谣言检测是否可行？无监督视角;&lt;/li&gt;
+&lt;li&gt;度保持图动态——一种构建随机网络的通用过程;&lt;/li&gt;
+&lt;li&gt;局部同配性影响无标度网络的同步性;&lt;/li&gt;
+&lt;li&gt;用于防止在线操纵的对抗性机器学习;&lt;/li&gt;
+&lt;li&gt;接触引起的语言变化的分叉阈值;&lt;/li&gt;
+&lt;li&gt;以葡萄牙为例的 COVID-19 离散时间间隔流行病学模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要20篇(2021-11-23)</title>
