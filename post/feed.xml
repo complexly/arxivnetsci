@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 25 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2021-11-29)</title>
+      <link>https://netsci.complexly.cn/post/20211129/</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211129/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;生成相互依赖的关键基础设施网络的综合系统;&lt;/li&gt;
+&lt;li&gt;高阶社会网络中诚实的演变;&lt;/li&gt;
+&lt;li&gt;基于图嵌入的网络结构差异量化;&lt;/li&gt;
+&lt;li&gt;具有吸引力景观的小型元种群的马尔可夫链;&lt;/li&gt;
+&lt;li&gt;用局部体积信息维度评估复杂网络中节点的重要性;&lt;/li&gt;
+&lt;li&gt;网络回归和监督中心性估计;&lt;/li&gt;
+&lt;li&gt;通过流嵌入对轨迹进行异常值检测;&lt;/li&gt;
+&lt;li&gt;加权比特币闪电网络;&lt;/li&gt;
+&lt;li&gt;组织演化系统的双时态属性图;&lt;/li&gt;
+&lt;li&gt;ProLiVis：蛋白质-蛋白质相互作用文献可视化系统;&lt;/li&gt;
+&lt;li&gt;德国当前的 COVID-19 危机主要由未接种疫苗者造成;&lt;/li&gt;
+&lt;li&gt;基于实体的帕累托排序的动量排名;&lt;/li&gt;
+&lt;li&gt;行人交叉流中的紧急模式分析揭示了人类数据中“条纹”形成的不变量;&lt;/li&gt;
+&lt;li&gt;科学的社会绑架;&lt;/li&gt;
+&lt;li&gt;荷兰语和法语可以混用吗？;&lt;/li&gt;
+&lt;li&gt;机器和影响;&lt;/li&gt;
+&lt;li&gt;揭开 Telegram 的阴暗面：假货、克隆、诈骗和阴谋活动;&lt;/li&gt;
+&lt;li&gt;图数据组合用于评估历史信息少的借款人的信用;&lt;/li&gt;
+&lt;li&gt;结构化人群中的雇佣惩罚;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2021-11-25)</title>
