@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 29 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2021-11-30)</title>
+      <link>https://netsci.complexly.cn/post/20211130/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211130/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;受影响的随机对照试验：协变量因素和基于图的网络干扰;&lt;/li&gt;
+&lt;li&gt;局部边动态和意见极化;&lt;/li&gt;
+&lt;li&gt;使用美国县之间网络分析SARS-CoV-2传播;&lt;/li&gt;
+&lt;li&gt;量化 2020 年封锁解除后中国湖北以外省份的人口混合模式;&lt;/li&gt;
+&lt;li&gt;在纠缠社会系统中预测人类决策的类量子模型;&lt;/li&gt;
+&lt;li&gt;弱化内部强度：发现YouTube黑市网络核心串通用户;&lt;/li&gt;
+&lt;li&gt;U-统计方法对城市交通系统运行效率的交互式评价;&lt;/li&gt;
+&lt;li&gt;COVID-19 大流行对性别研究生产力的影响及其相关性;&lt;/li&gt;
+&lt;li&gt;时序多体相互作用的推断;&lt;/li&gt;
+&lt;li&gt;解决圣彼得堡悖论;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要19篇(2021-11-29)</title>
