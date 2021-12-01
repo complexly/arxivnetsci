@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 30 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2021-12-01)</title>
+      <link>https://netsci.complexly.cn/post/20211201/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211201/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过集成实现稳健的动态网络嵌入;&lt;/li&gt;
+&lt;li&gt;p2pGNN：用于点对点网络中节点分类的去中心化图神经网络;&lt;/li&gt;
+&lt;li&gt;一种理解 Chafee 服务收据预测因素的计算社会科学方法;&lt;/li&gt;
+&lt;li&gt;城市街道的拓扑结构对其各自的优化有何影响？;&lt;/li&gt;
+&lt;li&gt;地铁系统累积损伤下的运输演变;&lt;/li&gt;
+&lt;li&gt;核心而非外围的在线社交关系是预防抑郁症的保护因素：来自具有全国代表性的年轻人样本的证据;&lt;/li&gt;
+&lt;li&gt;重构企业层面的互动：荷兰投入产出网络;&lt;/li&gt;
+&lt;li&gt;COREATTACK：打破图的核心结构;&lt;/li&gt;
+&lt;li&gt;通用和自适应概率安全评估模型：前体分析和多目标利用;&lt;/li&gt;
+&lt;li&gt;一种基于草图的博弈论方法来检测大数据流中的异常密集子社区;&lt;/li&gt;
+&lt;li&gt;反思动机：发表的原因如何影响天文学的研究行为;&lt;/li&gt;
+&lt;li&gt;Delta-Conformity：特征丰富的流图中的多尺度节点分类;&lt;/li&gt;
+&lt;li&gt;城市系统中可持续发展目标之间的权衡;&lt;/li&gt;
+&lt;li&gt;在动态社会网络中使用强化学习进行社区检测的模块化优化;&lt;/li&gt;
+&lt;li&gt;DiPD：来自 Twitter 的破坏性事件预测数据集;&lt;/li&gt;
+&lt;li&gt;用于医学数据库中自动分组的文本网络的可扩展社区提取;&lt;/li&gt;
+&lt;li&gt;通过特征选择和插值提高随机游走排名;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-11-30)</title>
