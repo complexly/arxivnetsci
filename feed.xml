@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2021-12-02)</title>
+      <link>https://netsci.complexly.cn/post/20211202/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211202/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;一种用于比较无向图和有向图嵌入的多用途无监督框架;&lt;/li&gt;
+&lt;li&gt;描述性与推断性社区检测：陷阱、神话和半真半假;&lt;/li&gt;
+&lt;li&gt;利用图的图神经网络的不平衡图分类;&lt;/li&gt;
+&lt;li&gt;多跳推荐程序中的不平等机会;&lt;/li&gt;
+&lt;li&gt;全球企业级供应网络中经济冲击风险的不平等;&lt;/li&gt;
+&lt;li&gt;基于零模型的数据增强用于图分类;&lt;/li&gt;
+&lt;li&gt;基于孔多塞原则的接近中心性;&lt;/li&gt;
+&lt;li&gt;图神经网络的考虑结构的标签平滑;&lt;/li&gt;
+&lt;li&gt;“纠缠”——衡量团队流动的新动态指标;&lt;/li&gt;
+&lt;li&gt;引文不是引用：在 Twitter 上解开隶属关系和互动;&lt;/li&gt;
+&lt;li&gt;人物推荐器对回声室和极化的影响;&lt;/li&gt;
+&lt;li&gt;STEM：用于姿态检测的无监督结构嵌入;&lt;/li&gt;
+&lt;li&gt;可变强度的球员和球队的 Elo 型评分模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2021-12-01)</title>
