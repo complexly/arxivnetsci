@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2021-12-03)</title>
+      <link>https://netsci.complexly.cn/post/20211203/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211203/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;从代表性子图学习大规模网络嵌入;&lt;/li&gt;
+&lt;li&gt;用于高效图学习的对比自适应传播图神经网络;&lt;/li&gt;
+&lt;li&gt;多阶段公共产品博弈中背叛者的战术配合;&lt;/li&gt;
+&lt;li&gt;平衡霍奇拉普拉斯算子优化单纯复形上的共识动态;&lt;/li&gt;
+&lt;li&gt;重新考虑推文：在推文创建过程中进行干预会减少攻击性内容;&lt;/li&gt;
+&lt;li&gt;投资者是否对女性有偏见？分析性别如何影响欧洲的创业资金;&lt;/li&gt;
+&lt;li&gt;FNR：一种基于相似性和基于Transformer的方法来检测社交媒体中的多模态假新闻;&lt;/li&gt;
+&lt;li&gt;Reddit 用户对使用口罩控制 COVID-19 的看法和态度;&lt;/li&gt;
+&lt;li&gt;子图对比链接表示学习;&lt;/li&gt;
+&lt;li&gt;COVID-19 流行病的多尺度模拟;&lt;/li&gt;
+&lt;li&gt;用于航空运输规划和管理的机器学习;&lt;/li&gt;
+&lt;li&gt;少数人的声音，多数人的意见：Twitter COVID-19 假新闻分享中存在社会偏见的证据;&lt;/li&gt;
+&lt;li&gt;注意大学排名的差距：实现公平的复杂网络方法;&lt;/li&gt;
+&lt;li&gt;监控在线 COVID-19 错误信息的哨兵节点方法;&lt;/li&gt;
+&lt;li&gt;一种检测在二模网络中创建社区的重要成员的新方法;&lt;/li&gt;
+&lt;li&gt;意见动态：公共和私人;&lt;/li&gt;
+&lt;li&gt;统一网络上的扩散模型及其影响最大化;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2021-12-02)</title>
