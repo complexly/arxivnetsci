@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要9篇(2021-12-08) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+神经链路预测的成对学习;
+对偶网络中的密集和连接良好的子图检测;
+量子信息协作网络画像;
+超图自我网络及其时间演化;
+欧洲电力现货价格的持续性变化;
+从个人行为预测点对点和集体社会传染;
+残疾和图书馆服务：全球研究趋势;
+CCasGNN：基于图神经网络的协同级联预测;
+BlockGC：基于图对比的区块链账户身份推断联合学习框架;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要9篇(2021-12-08) - 网络科学研究速递">
+<meta itemprop="description" content="
+神经链路预测的成对学习;
+对偶网络中的密集和连接良好的子图检测;
+量子信息协作网络画像;
+超图自我网络及其时间演化;
+欧洲电力现货价格的持续性变化;
+从个人行为预测点对点和集体社会传染;
+残疾和图书馆服务：全球研究趋势;
+CCasGNN：基于图神经网络的协同级联预测;
+BlockGC：基于图对比的区块链账户身份推断联合学习框架;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要9篇(2021-12-08) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20211208/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+神经链路预测的成对学习;
+对偶网络中的密集和连接良好的子图检测;
+量子信息协作网络画像;
+超图自我网络及其时间演化;
+欧洲电力现货价格的持续性变化;
+从个人行为预测点对点和集体社会传染;
+残疾和图书馆服务：全球研究趋势;
+CCasGNN：基于图神经网络的协同级联预测;
+BlockGC：基于图对比的区块链账户身份推断联合学习框架;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20211208/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20211208/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要9篇(2021-12-08)</h1>
+
+                  <p class="post-byline">
+                    2021年12月08日 · 3534 字 ·
+                    阅读时间约8分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>神经链路预测的成对学习;</li>
+<li>对偶网络中的密集和连接良好的子图检测;</li>
+<li>量子信息协作网络画像;</li>
+<li>超图自我网络及其时间演化;</li>
+<li>欧洲电力现货价格的持续性变化;</li>
+<li>从个人行为预测点对点和集体社会传染;</li>
+<li>残疾和图书馆服务：全球研究趋势;</li>
+<li>CCasGNN：基于图神经网络的协同级联预测;</li>
+<li>BlockGC：基于图对比的区块链账户身份推断联合学习框架;</li>
+</ul>
+
+<p></p>
+
+<h3 id="神经链路预测的成对学习">神经链路预测的成对学习</h3>
+
+<p>原文标题： Pairwise Learning for Neural Link Prediction</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.02936">http://arxiv.org/abs/2112.02936</a></p>
+
+<p>作者： Zhitao Wang, Yong Zhou, Litao Hong, Yuanhang Zou, Hanjing Su</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.02936v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在本文中，我们旨在提供一个有效的成对学习神经链路预测 (PLNLP) 框架。该框架将链路预测视为成对学习排序问题，由四个主要部分组成，即邻域编码器、链路预测器、负采样器和目标函数。该框架是灵活的，任何通用的图神经卷积或链路预测特定的神经架构都可以用作邻域编码器。对于链路预测器，我们设计了不同的评分函数，可以根据不同类型的图进行选择。在负采样器中，我们提供了几种特定于问题的采样策略。至于目标函数，我们建议使用有效排名损失，它近似最大化标准排名指标 AUC。我们在 Open Graph Benchmark 的 4 个链接属性预测数据集上评估了提议的 PLNLP 框架，包括 ogbl-ddi、ogbl-collab、ogbl-ppa 和 ogbl-ciation2。 PLNLP 在 ogbl-ddi 上取得了前 1 名的性能，在 ogbl-collab 和 ogbl-ciation2 上仅使用基本的神经架构就取得了前 2 名的性能。性能证明了 PLNLP 的有效性。</p>
+
+<h3 id="对偶网络中的密集和连接良好的子图检测">对偶网络中的密集和连接良好的子图检测</h3>
+
+<p>原文标题： Dense and well-connected subgraph detection in dual networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.03337">http://arxiv.org/abs/2112.03337</a></p>
+
+<p>作者： Tianyi Chen, Francesco Bonchi, David Garcia-Soriano, Atsushi Miyauchi, Charalampos E. Tsourakakis</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.03337v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 密集子图发现是图挖掘中的一个基本问题，具有广泛的应用 citegionis2015dense。尽管从计算神经科学到社会网络分析的大量应用都以 em dual 图作为输入，即同一组节点上的一对图，但密集子图发现方法专注于单个图输入少数值得注意的例外 citesemertzidis2019finding,charikar2018finding,reinthal2016finding,jethava2015finding。在这项工作中，我们关注以下问题：在同一组节点 V 上给定一对图 G,H，我们如何找到节点 S subseteq V 的子集，该子集会导致一个良好连接的G 中的子图和 H 中的密集子图？我们的公式通过在 G 上启用连接约束的 em control 来概括以前对对偶图 citeWu+15,WuZLFJZ16,Cui2018 的研究。我们提出了一种基于 k-edge 连通性的新数学公式，并证明它可以在多项式时间内精确求解。我们将我们的方法与最先进的竞争对手进行比较；我们凭经验发现，范围连接约束使从业者能够获得否则无法访问的有见地的信息。最后，我们展示了我们提出的挖掘工具可用于更好地理解用户在 Twitter 上的交互方式，以及有和没有自闭症谱系障碍 (ASD) 的人脑网络的连接方面。</p>
+
+<h3 id="量子信息协作网络画像">量子信息协作网络画像</h3>
+
+<p>原文标题： A portrait of the collaboration network in quantum information</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.03403">http://arxiv.org/abs/2112.03403</a></p>
+
+<p>作者： Samuraí Brito, Rute Oliveira, Raabe Oliveira, Rafael Chaves</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.03403v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 量子信息自八十年代初问世以来，凭借量子模拟、不可克隆定理、量子计算机等里程碑式的成果和思想，在接下来的几十年中确立了自己的地位，成为当今快速发展的接口领域在基础科学和各种有前途的技术之间。在这项工作中，我们旨在提供这个动态领域的画像，分析其研究人员之间合作网络的统计特性。使用 arXiv 中的 quant-ph 部分作为我们的数据库，我们对其属性得出了几个结论。特别是，我们表明合作的量子信息网络显示小世界属性，非常聚合和分类，也符合纽曼关于中心存在的发现和洛特卡定律关于每位作者的平均出版物数量.</p>
+
+<h3 id="超图自我网络及其时间演化">超图自我网络及其时间演化</h3>
+
+<p>原文标题： Hypergraph Ego-networks and Their Temporal Evolution</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.03498">http://arxiv.org/abs/2112.03498</a></p>
+
+<p>作者： Cazamere Comrie, Jon Kleinberg</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.03498v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 同时涉及多个对象的交互在许多领域中无处不在。这些交互存在的系统可以使用超图进行建模，超图是传统图的概括，其中每条边都可以连接任意数量的节点。分析这些超图的全局和静态属性已经导致了大量关于这些建模系统的结构的新发现。然而，人们对这些系统的局部结构以及它们如何随时间演变知之甚少。在本文中，我们提出了超图自我网络的研究，这是一种可用于对涉及单个节点的高阶交互进行建模的结构。我们还提出超图自我网络的时间重建作为旨在预测超图局部时间结构的模型的基准问题。通过将深度学习二元分类器与爬山算法相结合，我们将展示一个模型，用于通过合并跨多个域发现的结构模式来重建超图自我网络。</p>
+
+<h3 id="欧洲电力现货价格的持续性变化">欧洲电力现货价格的持续性变化</h3>
+
+<p>原文标题： Change of persistence in European electricity spot prices</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.03513">http://arxiv.org/abs/2112.03513</a></p>
+
+<p>作者： Leonardo Rydin Gorjão, Dirk Witthaut, Pedro G. Lind, Wided Medjroubi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.03513v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 欧洲电力交易所引入了日前拍卖和连续交易现货市场，以促进可再生电力的插入。这些市场旨在平衡短时间内电力过剩或不足，这会导致电价出现较大的随机波动。此外，不同市场在其电价时间序列中表现出不同的随机记忆，这似乎是造成较大波动的原因。特别是，与日前每小时市场相比，我们展示了日内 15 分钟现货市场的对立时间相关性。我们将去趋势波动分析 (DFA) 的结果与基于 Kramers&ndash;Moyal 方程的新方法进行了对比。对于非常短的时间（<12 小时），所有价格时间序列都显示正时间相关性（Hurst 指数 H>0.5），但盘中 15 分钟市场显示强烈的负相关（H&lt;0.5）。对于长达两天的长期周期，所有价格时间序列都是反相关的（H&lt;0.5）。</p>
+
+<h3 id="从个人行为预测点对点和集体社会传染">从个人行为预测点对点和集体社会传染</h3>
+
+<p>原文标题： Predicting peer-to-peer and collective social contagion from individual behaviour</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.03546">http://arxiv.org/abs/2112.03546</a></p>
+
+<p>作者： Fang Zhou, Linyuan Lü, Jianguo Liu, Manuel Sebastian Mariani</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.03546v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 理解个人在大规模信息传播中的异质作用对于管理在线行为及其潜在的离线后果至关重要。为此，来自不同研究领域的大多数现有研究都集中在高度联系的“枢纽”个人所扮演的不成比例的角色上。然而，我们在这里证明，通过同时揭示两个个人层面的行为特征：影响力和易感性，可以最好地理解和预测在线社交媒体中传播的信息。具体来说，我们推导出了一种基于非线性网络的算法，以从多个传播事件数据中量化个人的影响和易感性。通过将该算法应用于来自 Twitter 和微博的大规模数据，我们证明了个人的影响力和敏感性是点对点信息传播的关键决定因素：忽略这两个属性之一会导致次优的传播预测。此外，我们表明需要这两个属性来准确识别信息的超级传播者，这挑战了对社会网络中具有影响力的个人的研究中的常见假设。</p>
+
+<h3 id="残疾和图书馆服务-全球研究趋势">残疾和图书馆服务：全球研究趋势</h3>
+
+<p>原文标题： Disability and Library Services: Global Research Trend</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.03580">http://arxiv.org/abs/2112.03580</a></p>
+
+<p>作者： Swapan Kumar Patra</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.03580v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 近年来，对不同能力人群及其图书馆使用情况的研究受到全球关注。该领域表现出温和、持续但规模较大的增长。这篇研究论文旨在使用各种文献计量学和文本挖掘工具来捕捉该领域的动态。在该领域发表的期刊文章的书目数据是从 Web of Science (WoS) 数据库中收集的。收集1991年至2021年的记录，通过分析观察文献增长趋势、核心期刊、大部分文献发表的机构、突出的关键词等。结果表明，自 2000 年以来，出版物数量显著增长。趋势表明，这些领域的研究大多来自发达国家。发展中国家也应该更多地关注这方面的研究，因为发达国家不同能力的人的需求可能与发达国家不同。</p>
+
+<h3 id="ccasgnn-基于图神经网络的协同级联预测">CCasGNN：基于图神经网络的协同级联预测</h3>
+
+<p>原文标题： CCasGNN: Collaborative Cascade Prediction Based on Graph Neural Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.03644">http://arxiv.org/abs/2112.03644</a></p>
+
+<p>作者： Yansong Wang, Xiaomeng Wang, Tao Jia</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.03644v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 级联预测旨在对网络中的信息扩散进行建模。大多数以前的方法都集中在从网络和传播路径中挖掘结构或序列特征。最近致力于通过图神经网络和循环神经网络结合网络结构和序列特征。然而，谱或空间方法的局限性限制了预测性能的提高。此外，循环神经网络耗时且计算量大，导致预测效率低下。在这里，我们提出了一种考虑个体轮廓、结构特征和序列信息的新方法 CCasGNN。该方法受益于使用 GAT 和 GCN 的协作框架，并将位置编码堆叠到图神经网络的层中，这与现有的所有网络不同，表现出良好的性能。在两个真实世界数据集上进行的实验证实，与最先进的方法相比，我们的方法显著提高了预测精度。更重要的是，消融研究调查了我们方法中每个组件的贡献。</p>
+
+<h3 id="blockgc-基于图对比的区块链账户身份推断联合学习框架">BlockGC：基于图对比的区块链账户身份推断联合学习框架</h3>
+
+<p>原文标题： BlockGC: A Joint Learning Framework for Account Identity Inference on Blockchain with Graph Contrast</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.03659">http://arxiv.org/abs/2112.03659</a></p>
+
+<p>作者： Jiajun Zhou, Chenkai Hu, Shenbo Gong, Jiaying Xu, Jie Shen, Qi Xuan</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.03659v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 区块链技术具有去中心化、可追溯、不可篡改的特点，创造了可靠的去中心化交易模式，进一步加速了区块链平台的发展。然而，随着各种金融应用的普及，区块链数字资产引发的洗钱、非法集资、网络钓鱼诈骗等安全问题不断增多。因此，金融安全成为区块链生态系统中的一个重要问题，识别区块链中的账户类型（如矿工、钓鱼账户、庞氏合约等）对于风险评估和市场监管具有重要意义。在本文中，我们从图的角度使用原始区块链数据构建了一个账户交互图，并提出了一种基于图对比的区块链账户身份推断联合学习框架。我们首先从交互图中刻画交易特征和关联特征，然后进行采样和数据增强以生成账户子图的多个视图，最后联合训练子图对比和账户分类任务。在以太坊数据集上的大量实验表明，我们的方法在分类性能、可扩展性和泛化方面在帐户身份推理任务中取得了显著优势。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20211208/">https://netsci.complexly.cn/post/20211208/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20211207/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要17篇(2021-12-07)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

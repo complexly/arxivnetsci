@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2021-12-08)</title>
+      <link>https://netsci.complexly.cn/post/20211208/</link>
+      <pubDate>Wed, 08 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211208/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;神经链路预测的成对学习;&lt;/li&gt;
+&lt;li&gt;对偶网络中的密集和连接良好的子图检测;&lt;/li&gt;
+&lt;li&gt;量子信息协作网络画像;&lt;/li&gt;
+&lt;li&gt;超图自我网络及其时间演化;&lt;/li&gt;
+&lt;li&gt;欧洲电力现货价格的持续性变化;&lt;/li&gt;
+&lt;li&gt;从个人行为预测点对点和集体社会传染;&lt;/li&gt;
+&lt;li&gt;残疾和图书馆服务：全球研究趋势;&lt;/li&gt;
+&lt;li&gt;CCasGNN：基于图神经网络的协同级联预测;&lt;/li&gt;
+&lt;li&gt;BlockGC：基于图对比的区块链账户身份推断联合学习框架;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2021-12-07)</title>
