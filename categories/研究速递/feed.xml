@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 08 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2021-12-09)</title>
+      <link>https://netsci.complexly.cn/post/20211209/</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211209/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;揭示社会网络中的局部隐藏社区结构;&lt;/li&gt;
+&lt;li&gt;超图上社会传染模型的多稳定性、间歇性和混合转换;&lt;/li&gt;
+&lt;li&gt;使用一致性正则化改进图神经网络的训练;&lt;/li&gt;
+&lt;li&gt;时不时的通信：分析作为通信网络的书信;&lt;/li&gt;
+&lt;li&gt;边PageRank：公理化特征;&lt;/li&gt;
+&lt;li&gt;随机有界置信意见动态：意见偏离多远？;&lt;/li&gt;
+&lt;li&gt;第三方域名生态系统的拓扑和几何;&lt;/li&gt;
+&lt;li&gt;用于多模态数据分析的基于流体扩散模型的图表示：理论方面和增强的社区检测;&lt;/li&gt;
+&lt;li&gt;混合成员零分布模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2021-12-08)</title>
