@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 13 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2021-12-14)</title>
+      <link>https://netsci.complexly.cn/post/20211214/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211214/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;全球价值链国家的兴衰;&lt;/li&gt;
+&lt;li&gt;高铁对中国人才流动的重要但异质的影响;&lt;/li&gt;
+&lt;li&gt;SHGNN：结构感知异构图神经网络;&lt;/li&gt;
+&lt;li&gt;DiVA：用于大型网络信息扩散的可扩展、交互式和可定制的可视化分析平台;&lt;/li&gt;
+&lt;li&gt;识别集群质量指标中的偏差;&lt;/li&gt;
+&lt;li&gt;美国各州的动态聚类揭示了预测 SARS-CoV-2 大流行行为的四种不同的感染模式;&lt;/li&gt;
+&lt;li&gt;网络上意见动态的自适应有界置信模型;&lt;/li&gt;
+&lt;li&gt;使用消息传递理论在元种群流行模型中识别有影响的亚种群;&lt;/li&gt;
+&lt;li&gt;市场的 q-spin Potts 模型：股票指数的损益不对称是一种新兴现象;&lt;/li&gt;
+&lt;li&gt;通过股票市场指标进行的 COVID-19 预测;&lt;/li&gt;
+&lt;li&gt;在线评论系统中的虚假评论组检测;&lt;/li&gt;
+&lt;li&gt;SIR 模型中的锁定干预：再生数是正确的控制变量吗？;&lt;/li&gt;
+&lt;li&gt;戴口罩的分类混合对网络中流行病传播的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2021-12-13)</title>
