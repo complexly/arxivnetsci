@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要11篇(2021-12-15) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+递归无标度图的生成树;
+通过考虑噪声的自学习的半监督变分用户身份链接;
+论共享改善资源配置;
+为Twitter 中的用户地理定位深度学习设计加权和多路网络;
+社交媒体分析生成方法综述;
+社会网络中自我诱导的共识出现：Reddit 和 GameStop 紧缩;
+您信任 Twitter 上的专家吗？：成功纠正与 COVID-19 相关的错误信息;
+欧洲的公正能源转型有多大的灵活性？;
+具有疫苗接种同质性的网络中的群体免疫和流行规模;
+DiPS：推荐系统中草图的可微策略;
+兰彻斯特战争模型的概括;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要11篇(2021-12-15) - 网络科学研究速递">
+<meta itemprop="description" content="
+递归无标度图的生成树;
+通过考虑噪声的自学习的半监督变分用户身份链接;
+论共享改善资源配置;
+为Twitter 中的用户地理定位深度学习设计加权和多路网络;
+社交媒体分析生成方法综述;
+社会网络中自我诱导的共识出现：Reddit 和 GameStop 紧缩;
+您信任 Twitter 上的专家吗？：成功纠正与 COVID-19 相关的错误信息;
+欧洲的公正能源转型有多大的灵活性？;
+具有疫苗接种同质性的网络中的群体免疫和流行规模;
+DiPS：推荐系统中草图的可微策略;
+兰彻斯特战争模型的概括;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要11篇(2021-12-15) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20211215/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+递归无标度图的生成树;
+通过考虑噪声的自学习的半监督变分用户身份链接;
+论共享改善资源配置;
+为Twitter 中的用户地理定位深度学习设计加权和多路网络;
+社交媒体分析生成方法综述;
+社会网络中自我诱导的共识出现：Reddit 和 GameStop 紧缩;
+您信任 Twitter 上的专家吗？：成功纠正与 COVID-19 相关的错误信息;
+欧洲的公正能源转型有多大的灵活性？;
+具有疫苗接种同质性的网络中的群体免疫和流行规模;
+DiPS：推荐系统中草图的可微策略;
+兰彻斯特战争模型的概括;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20211215/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20211215/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要11篇(2021-12-15)</h1>
+
+                  <p class="post-byline">
+                    2021年12月15日 · 4064 字 ·
+                    阅读时间约9分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>递归无标度图的生成树;</li>
+<li>通过考虑噪声的自学习的半监督变分用户身份链接;</li>
+<li>论共享改善资源配置;</li>
+<li>为Twitter 中的用户地理定位深度学习设计加权和多路网络;</li>
+<li>社交媒体分析生成方法综述;</li>
+<li>社会网络中自我诱导的共识出现：Reddit 和 GameStop 紧缩;</li>
+<li>您信任 Twitter 上的专家吗？：成功纠正与 COVID-19 相关的错误信息;</li>
+<li>欧洲的公正能源转型有多大的灵活性？;</li>
+<li>具有疫苗接种同质性的网络中的群体免疫和流行规模;</li>
+<li>DiPS：推荐系统中草图的可微策略;</li>
+<li>兰彻斯特战争模型的概括;</li>
+</ul>
+
+<p></p>
+
+<h3 id="递归无标度图的生成树">递归无标度图的生成树</h3>
+
+<p>原文标题： Spanning Trees of Recursive Scale-Free Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.07325">http://arxiv.org/abs/2112.07325</a></p>
+
+<p>作者： C. Tyler Diggans, Erik M. Bollt, Daniel ben-Avraham</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.07325v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们提出了一种逐个链接的基于规则的方法，用于为任何递归生成的有限铰接图（例如 DGM 网络）构造生成树集合的所有成员。递归允许对生成树集合的许多大规模属性进行精确的分析求解。我们展示了如何明智地应用规定的增长规则来选择具有特定所需属性（小世界或扩展直径、度分布等）的生成树的某些子集，从而为几个优化问题提供解决方案。生成树的分析增强了递归图作为日常生活复杂网络的复杂模型的实用性。</p>
+
+<h3 id="通过考虑噪声的自学习的半监督变分用户身份链接">通过考虑噪声的自学习的半监督变分用户身份链接</h3>
+
+<p>原文标题： Semi-Supervised Variational User Identity Linkage via Noise-Aware Self-Learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.07373">http://arxiv.org/abs/2112.07373</a></p>
+
+<p>作者： Chaozhuo Li, Senzhang Wang, Zheng Liu, Xing Xie, Lei Chen, Philip S. Yu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.07373v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 用户身份链接旨在将自然人的身份链接到不同的社交平台，最近引起了越来越多的研究兴趣。现有方法通常首先将身份作为确定性向量嵌入共享潜在空间中，然后根据可用注释学习分类器。然而，现实世界社交平台的形成和特征充满了不确定性，这使得这些基于确定性嵌入的方法不是最理想的。此外，由于不同平台之间的巨大差距，收集足够的链接注释也很困难。半监督模型利用未标记的数据来帮助刻画内在数据分布，这在实际使用中更有前景。然而，现有的半监督链接方法在很大程度上依赖于启发式定义的相似性测量，以结合标记和未标记样本之间的先天接近性。这种人工设计的假设可能与实际联动信号不一致并进一步引入噪声。为理解决上述限制，在本文中，我们提出了一种新颖的噪声感知半监督变分用户身份链接（NSVUIL）模型。具体来说，我们首先提出了一个新的监督链接模块来合并可用的注释。每个社会身份都由 Wasserstein 空间中的高斯分布表示，以同时保留细粒度的社会概况并模拟身份的不确定性。然后，设计了一个噪声感知自学习模块来忠实地增加少数可用注释，该模块能够从监督模块生成的伪标签中过滤噪声。</p>
+
+<h3 id="论共享改善资源配置">论共享改善资源配置</h3>
+
+<p>原文标题： On Improving Resource Allocations by Sharing</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.07525">http://arxiv.org/abs/2112.07525</a></p>
+
+<p>作者： Robert Bredereck, Andrzej Kaczmarczyk, Junjie Luo, Rolf Niedermeier, Florian Sachse</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.07525v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 给定初始资源分配，其中一些主体人可能会嫉妒其他主体人，或者不同的资源分配可能导致更高的社会福利，我们的目标是在不重新分配资源的情况下改善分配。我们考虑一种共享概念，允许与资源所有者的社会网络邻居共享资源。为此，我们引入了一个正式模型，该模型允许中央机构根据初始分配计算邻居之间的最佳共享。提倡这种观点，我们关注最基本的场景，即一个资源可能由社会网络中的两个邻居共享，并且每个主体可以参与有限数量的共享。我们提出了优化分配的功利主义和平等主义社会福利以及减少嫉妒主体人数量的算法。特别是，我们检查了几个自然参数的计算复杂性。此外，我们研究具有受限社会网络结构的案例，并在路径和树状（分层）社会网络中设计多项式时间算法。</p>
+
+<h3 id="为twitter-中的用户地理定位深度学习设计加权和多路网络">为Twitter 中的用户地理定位深度学习设计加权和多路网络</h3>
+
+<p>原文标题： Designing weighted and multiplex networks for deep learning user geolocation in Twitter</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.06999">http://arxiv.org/abs/2112.06999</a></p>
+
+<p>作者： Federico M. Funes, José Ignacio Alvarez-Hamelin, Mariano G. Beiró</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.06999v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 预测 Twitter 等社交媒体用户的地理位置已经在健康监测、紧急情况监控、内容个性化和一般社会研究中找到了多种应用。在这项工作中，我们通过设计和评估基于加权多重图文献并结合最先进的深度学习技术的新方法，为该领域的研究做出贡献。所探索的方法脱离了类似的底层结构（扩展的提及和/或跟随者网络的底层结构），但使用了不同的信息处理策略，例如，通过转导和归纳算法（分别为 RGCN 和 GraphSAGE）和节点嵌入的信息传播Node2vec+。然后将这些图与注意力机制相结合，将用户的文本视图合并到模型中。我们评估了每种方法的性能，并将它们与公开可用的 Twitter-US 数据集中的基线模型进行比较；我们还基于拉丁美洲的大型 Twitter 刻画提供了一个新数据集。最后，我们的工作讨论了在不同标签定义和指标的背景下方法之间比较的局限性和有效性。</p>
+
+<h3 id="社交媒体分析生成方法综述">社交媒体分析生成方法综述</h3>
+
+<p>原文标题： Survey of Generative Methods for Social Media Analysis</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.07041">http://arxiv.org/abs/2112.07041</a></p>
+
+<p>作者： Stan Matwin, Aristides Milios, Paweł Prałat, Amilcar Soares, François Théberge</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.07041v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 这项调查描绘了社交媒体数据分析生成方法研究的最新技术 (SoTA) 的全景图。它填补了一个空白，因为现有的调查文章的范围要窄得多，或者已经过时。我们包括了目前在挖掘和建模社交媒体中越来越重要的两个重要方面：动态和网络。社会动态对于理解影响或疾病的传播、友谊的形成、团队的生产力等很重要。另一方面，网络可以捕捉各种复杂的关系，提供额外的洞察力并识别否则会被忽视的重要模式。</p>
+
+<h3 id="社会网络中自我诱导的共识出现-reddit-和-gamestop-紧缩">社会网络中自我诱导的共识出现：Reddit 和 GameStop 紧缩</h3>
+
+<p>原文标题： Self-induced emergence of consensus in social networks: Reddit and the GameStop short squeeze</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.07059">http://arxiv.org/abs/2112.07059</a></p>
+
+<p>作者： Anna Mancini, Antonio Desiderio, Riccardo Di Clemente, Giulio Cimini</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.07059v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 主要由 Reddit r/wallstreetbets 社区的散户投资者精心策划的 GameStop (GME) 股票在 2021 年 1 月中旬的空头挤压，代表了社交媒体上集体协调行动的一个重要例子，导致大规模共识形成和重要市场影响。在这项工作中，我们描述了 Reddit 对话数据的结构和时间演变，表明在真正发生短暂挤压之前，与 GME 相关的评论（代表有多少用户参与 GME）的出现和情绪显著增加。然后，我们引入了一种意见动态模型，其中用户参与可以触发自我强化机制，从而导致对挤空操作达成共识。随着参与度的增加，我们观察到从异质到同质意见的明显阶段转变，中心的存在缓解了分散共识的形成。我们的结果阐明了在社会网络上发生的自组织集体行动这一日益重要的现象。</p>
+
+<h3 id="您信任-twitter-上的专家吗-成功纠正与-covid-19-相关的错误信息">您信任 Twitter 上的专家吗？：成功纠正与 COVID-19 相关的错误信息</h3>
+
+<p>原文标题： Do you trust experts on Twitter?: Successful correction of COVID-19-related misinformation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.07230">http://arxiv.org/abs/2112.07230</a></p>
+
+<p>作者： Dongwoo Lim, Fujio Toriumi, Mitsuo Yoshida</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.07230v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 这项研究的重点是如何通过社交媒体传播科学正确的信息，以及如何纠正错误信息。我们在 Twitter 上发现了一些例子，其中通过用户的互动，被误用的科学术语已被纠正并替换为科学正确的术语。结果显示，自 2020 年 12 月底以来，Twitter 上使用正确术语（“变体”或“COVID-19 变体”）而不是错误术语（“应变”）的百分比已经增加。这大约是一个月在日本传染病协会发布关于正确术语的官方声明之前，社交媒体上的术语使用速度比电视上更快。一些快速开始使用正确术语的 Twitter 用户更有可能转发 Twitter 上主要影响者发送的消息，而不是传统媒体或门户网站发送的消息。然而，即使在 2021 年 3 月之后，一些 Twitter 用户仍继续使用错误的术语，尽管正确术语的使用很普遍。对他们推文的进一步分析表明，他们引用的来源与其他用户的来源不同。这项研究从经验上证实，即使在通常被称为“散播谣言的温床”的 Twitter 上也会发生自我纠正。这项研究的结果还表明，具有专业知识的影响者可以影响社交媒体上的舆论走向，而用户通常引用的媒体也会影响行为改变的可能性。</p>
+
+<h3 id="欧洲的公正能源转型有多大的灵活性">欧洲的公正能源转型有多大的灵活性？</h3>
+
+<p>原文标题： How much flexibility is available for a just energy transition in Europe?</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.07247">http://arxiv.org/abs/2112.07247</a></p>
+
+<p>作者： Tim T. Pedersen, Mikael Skou Andersen, Marta Victoria, Gorm B. Andresen</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.07247v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 欧洲能源供应向碳中和的过渡应该是高效、公平和快速的。原则上，过渡的效率由欧洲排放交易体系 (ETS) 确保，创建一个共同的排放市场。公平的目标是努力分担条例，针对成员国的经济能力进行校准。这两项立法旨在在效率和公平之间进行权衡。使用截至 2030 年电力供应的先进能源系统优化模型，对 30.000 个国家减排目标配置样本进行了蒙特卡罗模拟。 结果显示，在大多数情况下，超过国家目标的减排在经济上是有利的。 .相反，对于一些国家来说，巨大的减排成本是不可避免的。与最具成本效益的 CO2 分配相比，接受成本适度增加可以实现替代性 CO2 排放分配，其中包含替代性基于正义的分配标准。</p>
+
+<h3 id="具有疫苗接种同质性的网络中的群体免疫和流行规模">具有疫苗接种同质性的网络中的群体免疫和流行规模</h3>
+
+<p>原文标题： Herd Immunity and Epidemic Size in Networks with Vaccination Homophily</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.07538">http://arxiv.org/abs/2112.07538</a></p>
+
+<p>作者： Takayuki Hiraoka, Abbas K. Rizi, Mikko Kivelä, Jari Saramäki</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.07538v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 即使是部分免疫也可以防止传染病在人群层面传播，使系统低于流行阈值。这种效应被称为群体免疫。我们研究了群体免疫的疫苗接种阈值和预期的流行规模如何取决于疫苗采用的同质性。我们发现，已经很小水平的同质性可以显著增加群体免疫所需的关键疫苗覆盖率，而更强的同质性可以使这个阈值完全无法实现。对于完美的疫苗，流行规模作为同质性的函数单调增加，而对于功效有限的疫苗，流行规模在同质性的中间水平上最大化。我们的结果强调了疫苗接种同源性在传染病模型中的重要性。</p>
+
+<h3 id="dips-推荐系统中草图的可微策略">DiPS：推荐系统中草图的可微策略</h3>
+
+<p>原文标题： DiPS: Differentiable Policy for Sketching in Recommender Systems</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.07616">http://arxiv.org/abs/2112.07616</a></p>
+
+<p>作者： Aritra Ghosh, Saayan Mitra, Andrew Lan</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.07616v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在顺序推荐系统应用中，开发能够捕捉用户随时间不断变化的兴趣以成功推荐他们可能与之交互的未来项目的模型非常重要。对于历史悠久的用户，基于循环神经网络的典型模型往往会忘记遥远过去的重要项目。最近的工作表明，存储过去项目的小草图可以改进顺序推荐任务。然而，这些工作都依赖于静态草图策略，即启发式来选择要保留在草图中的项目，这不一定是最佳的，并且不能随着时间的推移随着更多的训练数据而改进。在本文中，我们提出了一种可微分的草图策略（DiPS），该框架与推荐系统模型一起以端到端的方式学习数据驱动的草图策略，以在未来显式地最大化推荐质量。我们还提出了一个梯度的近似估计器，用于优化计算效率高的草图算法参数。我们在各种实际设置下验证了 DiPS 在真实世界数据集上的有效性，并表明与现有的草图绘制策略相比，达到相同的预测质量所需的草图项目最多减少 50% 美元。</p>
+
+<h3 id="兰彻斯特战争模型的概括">兰彻斯特战争模型的概括</h3>
+
+<p>原文标题： A Generalization of Lanchester&rsquo;s Model of Warfare</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.06973">http://arxiv.org/abs/2112.06973</a></p>
+
+<p>作者： Nicolò Cangiotti, Marco Capolli, Mattia Sensi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.06973v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 对经典的兰彻斯特模型进行了简短的回顾和分析，特别关注了从问题的数学形式化本质上产生的关键问题。然后，我们概括了这种模型的一个特定版本，该模型描述了当三支或更多军队卷入冲突时的战争动态。提供了几个数值模拟。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20211215/">https://netsci.complexly.cn/post/20211215/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20211214/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要13篇(2021-12-14)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
