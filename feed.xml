@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 16 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2021-12-17)</title>
+      <link>https://netsci.complexly.cn/post/20211217/</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211217/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;动态网络上的链路预测和断链预测;&lt;/li&gt;
+&lt;li&gt;早鸟 GCN：通过绘制早鸟彩票实现更高效的 GCN 训练和推理的图网络协同优化;&lt;/li&gt;
+&lt;li&gt;促进合作：会议中规定的互动决定了团队的组建;&lt;/li&gt;
+&lt;li&gt;轨迹数据的随机最短路径的最大似然估计;&lt;/li&gt;
+&lt;li&gt;本体句法语义质量评估框架;&lt;/li&gt;
+&lt;li&gt;YouTube 中的 Clickbait 使用集成学习预防、检测和分析诱饵;&lt;/li&gt;
+&lt;li&gt;具有时间转换器的基于知识增强的基于会话的推荐;&lt;/li&gt;
+&lt;li&gt;当代物理学中的引文不平等和性别化引文实践;&lt;/li&gt;
+&lt;li&gt;在线市场买家-卖家网络的宏观特性;&lt;/li&gt;
+&lt;li&gt;SanMove：通过自注意力网络推荐下一个位置;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-12-16)</title>
