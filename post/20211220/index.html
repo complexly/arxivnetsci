@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要3篇(2021-12-20) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+论在线社会网络的兴衰;
+社会网络中确认偏差下极化的正式模型;
+动态网络中的互惠、社区检测和链路预测;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要3篇(2021-12-20) - 网络科学研究速递">
+<meta itemprop="description" content="
+论在线社会网络的兴衰;
+社会网络中确认偏差下极化的正式模型;
+动态网络中的互惠、社区检测和链路预测;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要3篇(2021-12-20) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20211220/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+论在线社会网络的兴衰;
+社会网络中确认偏差下极化的正式模型;
+动态网络中的互惠、社区检测和链路预测;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20211220/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20211220/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要3篇(2021-12-20)</h1>
+
+                  <p class="post-byline">
+                    2021年12月20日 · 1413 字 ·
+                    阅读时间约3分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>论在线社会网络的兴衰;</li>
+<li>社会网络中确认偏差下极化的正式模型;</li>
+<li>动态网络中的互惠、社区检测和链路预测;</li>
+</ul>
+
+<p></p>
+
+<h3 id="论在线社会网络的兴衰">论在线社会网络的兴衰</h3>
+
+<p>原文标题： On the Rise and Fall of Online Social Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/1403.5617">http://arxiv.org/abs/1403.5617</a></p>
+
+<p>作者： Arnab Basu, Simrat Singh Chhabra, Ajit Brundavanam, Saswata Shannigrahi</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/1403.5617v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 最近在线社会网络的兴衰引起了学术界内外人们的极大兴趣。 Gillette [Businessweek 杂志，2011] 对 MySpace 进行了详细分析，MySpace 自 2008 年起开始失去人气。 Cannarella 和 Spechler [ArXiv，2014] 使用疾病传播模型来解释 MySpace 的兴衰。在本文中，我们提出了一个图论模型，它可能能够为在线社会网络的兴衰提供另一种解释。我们的模型受到著名的 Barabasi-Albert 模型的启发，该模型使用优先连接或“富人变得更富”现象生成随机无标度网络。正如我们的实证分析所示，我们推测这种在线社会网络增长模型存在内在缺陷，因为它无法在确保此类网络的增长的同时保持其稳定性。在这个过程中，我们还推测我们的优先附着模型也表现出无标度现象。</p>
+
+<h3 id="社会网络中确认偏差下极化的正式模型">社会网络中确认偏差下极化的正式模型</h3>
+
+<p>原文标题： A Formal Model for Polarization under Confirmation Bias in Social Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.09542">http://arxiv.org/abs/2112.09542</a></p>
+
+<p>作者： Mário S. Alvim, Bernardo Amorim, Sophia Knight, Santiago Quintero, Frank Valencia</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.09542v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们描述了基于 Esteban 和 Ray 的经济学极化标准度量的多主体系统中的极化模型。主体通过基于潜在影响图更新他们的信念（意见）来演化，就像在社会学习的标准 DeGroot 模型中一样，但在确认偏差下；即，对具有不同观点的主体的意见进行折扣。我们表明，即使在这种偏置极化下，如果影响图是强连接的，最终也会消失（收敛到零）。如果影响图是规则的对称循环，我们确定所有主体收敛到的唯一信念值。我们更有洞察力的结果表明，在一些自然假设下，如果两极分化最终没有消失，那么要么存在一个不连贯的主体子群，要么某些主体对其他人的影响大于对她的影响。我们还证明，在确认偏差下的弱连接图中，极化不一定会消失。此外，我们展示了我们的模型如何与用于社交学习的经典 DeGroot 模型相关联。我们通过几个关于疫苗两极分化和其他案例研究的运行示例的模拟来说明我们的模型。理论结果和模拟将提供对极化现象的深入理解。</p>
+
+<h3 id="动态网络中的互惠-社区检测和链路预测">动态网络中的互惠、社区检测和链路预测</h3>
+
+<p>原文标题： Reciprocity, community detection, and link prediction in dynamic networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.09624">http://arxiv.org/abs/2112.09624</a></p>
+
+<p>作者： Hadiseh Safdari, Martina Contisciani, Caterina De Bacco</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.09624v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 许多复杂系统会随着时间的推移改变其结构，在这些情况下，动态网络可以更丰富地表示此类现象。因此，许多推理方法已被推广到动态情况，旨在对动态交互进行建模。特别感兴趣的是扩展随机块模型及其变体，以随着网络的时间变化来捕捉社区结构。虽然这些模型假设边的形成仅取决于社区成员资格，但最近静态网络的工作表明包括刻画结构属性的附加参数的重要性，例如互惠。值得注意的是，与仅考虑社区成员身份的模型相比，这些模型能够生成更真实的网络表示。为此，我们提出了一个带有隐藏变量的概率生成模型，该模型将互惠和社区整合为随时间演化的网络结构信息。该模型假设观察互惠数据的基本顺序，即观察到一条边，条件是它过去的往复边。我们部署了一种马尔可夫方法来构建时间步长之间的网络转换矩阵，并且使用期望最大化算法执行参数推断，该算法利用了数据集的稀疏性，从而提高了计算效率。我们在合成动态网络以及引文和电子邮件数据集的真实网络上测试模型的性能。我们表明，我们的模型比仅具有社区结构的标准模型更好地捕捉了真实网络的互惠性，同时在链路预测任务中表现良好。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20211220/">https://netsci.complexly.cn/post/20211220/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20211217/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要10篇(2021-12-17)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
