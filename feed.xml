@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2021-12-21)</title>
+      <link>https://netsci.complexly.cn/post/20211221/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211221/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;含时图网络的时间感知邻居采样;&lt;/li&gt;
+&lt;li&gt;CORE：利用复空间回归和嵌入的知识图谱实体类型预测方法;&lt;/li&gt;
+&lt;li&gt;动态超边的表示学习;&lt;/li&gt;
+&lt;li&gt;在政治盟友和反对者的网络中辨别媒体偏见：有偏见的硬币的理想化例子;&lt;/li&gt;
+&lt;li&gt;FendI：用于基于人群的疾病预测的网络修复联邦图学习;&lt;/li&gt;
+&lt;li&gt;通过联合建模成对边在网络中进行社区检测和互惠;&lt;/li&gt;
+&lt;li&gt;网络上扩展Watts模型的级联行为;&lt;/li&gt;
+&lt;li&gt;一种构建时间网络的生成树方法;&lt;/li&gt;
+&lt;li&gt;多元交互网络的关系超事件模型;&lt;/li&gt;
+&lt;li&gt;一种用于从社交媒体平台上的帖子中检测自杀意念的集成深度学习技术;&lt;/li&gt;
+&lt;li&gt;具有时间相关负载的网络路由中的基础设施适应和环路的出现;&lt;/li&gt;
+&lt;li&gt;非正式科学教育和职业发展;&lt;/li&gt;
+&lt;li&gt;海上事故后果关键因素的空间和多尺度变化——以东海为例;&lt;/li&gt;
+&lt;li&gt;理性预期作为预测加权 k-out-n-n 可靠性系统故障的工具;&lt;/li&gt;
+&lt;li&gt;实验人群动力学中的有效性概念;&lt;/li&gt;
+&lt;li&gt;Twitter 上的新闻分享揭示了媒体议程的碎片化和持续的两极分化;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2021-12-20)</title>
