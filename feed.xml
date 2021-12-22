@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2021-12-22)</title>
+      <link>https://netsci.complexly.cn/post/20211222/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211222/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;InfoMap 对吸收随机游走的扩展;&lt;/li&gt;
+&lt;li&gt;网络增长的朋友之朋友模型;&lt;/li&gt;
+&lt;li&gt;社会网络建模的随机图变换;&lt;/li&gt;
+&lt;li&gt;假新闻检测工具和方法——综述;&lt;/li&gt;
+&lt;li&gt;为人道主义福利开发可信赖的人类人工智能网络;&lt;/li&gt;
+&lt;li&gt;具有加权链接的复杂网络的统计力学方法;&lt;/li&gt;
+&lt;li&gt;局部攻击和过载引起的各向同性和各向异性空间网络中的级联故障;&lt;/li&gt;
+&lt;li&gt;用于解释嘈杂、多重报告的社会网络数据的潜在网络模型;&lt;/li&gt;
+&lt;li&gt;争议检测：基于文本和图神经网络的方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2021-12-21)</title>
