@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2021-12-23)</title>
+      <link>https://netsci.complexly.cn/post/20211223/</link>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211223/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;RepBin：用于宏基因组分箱的基于约束的图表示学习;&lt;/li&gt;
+&lt;li&gt;优化大流行爆发中的疫苗分配策略：一种最佳控制方法;&lt;/li&gt;
+&lt;li&gt;公交车在哪里：检查与公共交通准点率高低相关的因素;&lt;/li&gt;
+&lt;li&gt;受灾地区信息物理系统资源分配的图论模型;&lt;/li&gt;
+&lt;li&gt;意见动力学模型在基于能源生态反馈主体的仿真中的应用;&lt;/li&gt;
+&lt;li&gt;墨尔本基于活动和基于主体的交通模型（AToM）：大墨尔本开放的多式联运仿真模型;&lt;/li&gt;
+&lt;li&gt;使用 Google 和 Twitter 更快地显示登革热病例数;&lt;/li&gt;
+&lt;li&gt;社交媒体上日益加剧的气候极化;&lt;/li&gt;
+&lt;li&gt;从社交媒体内容量重建公众参与;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2021-12-22)</title>
