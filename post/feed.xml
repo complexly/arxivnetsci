@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2021-12-24)</title>
+      <link>https://netsci.complexly.cn/post/20211224/</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20211224/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络中排名和社区之间的相互作用;&lt;/li&gt;
+&lt;li&gt;用于 COVID-19 传播建模的平均场博弈;&lt;/li&gt;
+&lt;li&gt;人员流动数据中的偏差影响流行病建模;&lt;/li&gt;
+&lt;li&gt;从封面判断一本书：预测标题对 Reddit 帖子流行度的边际影响;&lt;/li&gt;
+&lt;li&gt;行人横穿流宏观和微观动力学分析与建模;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2021-12-23)</title>
