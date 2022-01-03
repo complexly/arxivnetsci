@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要12篇(2022-01-03) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+时间网络中的模体分析模型：发现趋势和异常;
+我们真的取得了很大进展吗？重新审视、基准测试和改进异构图神经网络;
+兴趣扩散对购买预测的影响有多大：以淘宝码为例;
+UCoDe：使用图卷积网络进行统一社区检测;
+亲密的朋友、受欢迎的同伴、团队组建和小组项目中的领导力;
+PPRviz：基于个性化PageRank的有效且高效的图可视化;
+缺失POI签到识别的双向时空依赖建模与用户动态偏好;
+通过时空张量共聚类解释迁徙系统;
+网络上具有淬灭无序的 q-voter 模型的对近似;
+基于随机游走的自监督学习的可扩展深度图聚类;
+用于有效且可实施的联系人跟踪和隔离的马尔可夫决策过程框架;
+受非高斯噪声影响的随机 COVID-19 模型;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要12篇(2022-01-03) - 网络科学研究速递">
+<meta itemprop="description" content="
+时间网络中的模体分析模型：发现趋势和异常;
+我们真的取得了很大进展吗？重新审视、基准测试和改进异构图神经网络;
+兴趣扩散对购买预测的影响有多大：以淘宝码为例;
+UCoDe：使用图卷积网络进行统一社区检测;
+亲密的朋友、受欢迎的同伴、团队组建和小组项目中的领导力;
+PPRviz：基于个性化PageRank的有效且高效的图可视化;
+缺失POI签到识别的双向时空依赖建模与用户动态偏好;
+通过时空张量共聚类解释迁徙系统;
+网络上具有淬灭无序的 q-voter 模型的对近似;
+基于随机游走的自监督学习的可扩展深度图聚类;
+用于有效且可实施的联系人跟踪和隔离的马尔可夫决策过程框架;
+受非高斯噪声影响的随机 COVID-19 模型;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要12篇(2022-01-03) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220103/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+时间网络中的模体分析模型：发现趋势和异常;
+我们真的取得了很大进展吗？重新审视、基准测试和改进异构图神经网络;
+兴趣扩散对购买预测的影响有多大：以淘宝码为例;
+UCoDe：使用图卷积网络进行统一社区检测;
+亲密的朋友、受欢迎的同伴、团队组建和小组项目中的领导力;
+PPRviz：基于个性化PageRank的有效且高效的图可视化;
+缺失POI签到识别的双向时空依赖建模与用户动态偏好;
+通过时空张量共聚类解释迁徙系统;
+网络上具有淬灭无序的 q-voter 模型的对近似;
+基于随机游走的自监督学习的可扩展深度图聚类;
+用于有效且可实施的联系人跟踪和隔离的马尔可夫决策过程框架;
+受非高斯噪声影响的随机 COVID-19 模型;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220103/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220103/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要12篇(2022-01-03)</h1>
+
+                  <p class="post-byline">
+                    2022年01月03日 · 5442 字 ·
+                    阅读时间约11分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>时间网络中的模体分析模型：发现趋势和异常;</li>
+<li>我们真的取得了很大进展吗？重新审视、基准测试和改进异构图神经网络;</li>
+<li>兴趣扩散对购买预测的影响有多大：以淘宝码为例;</li>
+<li>UCoDe：使用图卷积网络进行统一社区检测;</li>
+<li>亲密的朋友、受欢迎的同伴、团队组建和小组项目中的领导力;</li>
+<li>PPRviz：基于个性化PageRank的有效且高效的图可视化;</li>
+<li>缺失POI签到识别的双向时空依赖建模与用户动态偏好;</li>
+<li>通过时空张量共聚类解释迁徙系统;</li>
+<li>网络上具有淬灭无序的 q-voter 模型的对近似;</li>
+<li>基于随机游走的自监督学习的可扩展深度图聚类;</li>
+<li>用于有效且可实施的联系人跟踪和隔离的马尔可夫决策过程框架;</li>
+<li>受非高斯噪声影响的随机 COVID-19 模型;</li>
+</ul>
+
+<p></p>
+
+<h3 id="时间网络中的模体分析模型-发现趋势和异常">时间网络中的模体分析模型：发现趋势和异常</h3>
+
+<p>原文标题： Analytical Models for Motifs in Temporal Networks: Discovering Trends and Anomalies</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.14871">http://arxiv.org/abs/2112.14871</a></p>
+
+<p>作者： Alexandra Porter, Baharan Mirzasoleiman, Jure Leskovec</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.14871v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 动态演化网络捕捉社会网络、通信网络和金融交易网络等领域的时间关系。在这样的网络中，时间模体是带时间戳的边/交易的重复序列，提供有关网络演变和功能的有价值的信息。然而，目前不存在含时图的分析模型，也没有模型可以随着时间的推移对时间主题频率进行可扩展的建模。在这里，我们开发了时间活动状态块模型 (TASBM)，以对含时图中的时间主题进行建模。我们开发了有效的模型拟合方法，并为给定的时间网络中的预期主题频率及其方差推导出封闭形式的表达式，从而能够发现具有统计意义的时间主题。我们的 TASMB 框架可以准确地跟踪预期模体频率随时间的变化，并且还可以很好地扩展到具有数千万条边/交易的网络，因为它不需要耗时生成许多随机时间网络，然后计算模体计数他们每一个人。我们表明 TASBM 能够对金融交易网络、电话和电子邮件网络中的时间活动随时间的变化进行建模。此外，我们表明，与我们的分析框架计算出的预期主题计数的偏差对应于金融交易和电话网络中的异常情况。</p>
+
+<h3 id="我们真的取得了很大进展吗-重新审视-基准测试和改进异构图神经网络">我们真的取得了很大进展吗？重新审视、基准测试和改进异构图神经网络</h3>
+
+<p>原文标题： Are we really making much progress? Revisiting, benchmarking, and refining heterogeneous graph neural networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.14936">http://arxiv.org/abs/2112.14936</a></p>
+
+<p>作者： Qingsong Lv, Ming Ding, Qiang Liu, Yuxiang Chen, Wenzheng Feng, Siming He, Chang Zhou, Jianguo Jiang, Yuxiao Dong, Jie Tang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.14936v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 近年来，异构图神经网络 (HGNN) 蓬勃发展，但每项工作使用的独特数据处理和评估设置阻碍了对其进步的全面理解。在这项工作中，我们使用官方代码、数据集、设置和超参数系统地再现了 12 个最近的 HGNN，揭示了有关 HGNN 进展的惊人发现。我们发现简单的同构 GNN，例如 GCN 和 GAT，由于设置不当而在很大程度上被低估了。具有适当输入的 GAT 通常可以在各种场景中匹配或优于所有现有的 HGNN。为了促进稳健和可重复的 HGNN 研究，我们构建了异构图基准 (HGB)，由 11 个不同的数据集和三个任务组成。 HGB 标准化了异构图数据拆分、特征处理和性能评估的过程。最后，我们引入了一个简单但非常强大的基线 Simple-HGN——它在 HGB 上的性能明显优于以前的所有模型——以加速 HGNNs 在未来的进步。</p>
+
+<h3 id="兴趣扩散对购买预测的影响有多大-以淘宝码为例">兴趣扩散对购买预测的影响有多大：以淘宝码为例</h3>
+
+<p>原文标题： How Powerful are Interest Diffusion on Purchasing Prediction: A Case Study of Taocode</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.14446">http://arxiv.org/abs/2112.14446</a></p>
+
+<p>作者： Xuanwen Huang, Yang Yang, Ziqiang Cheng, Shen Fan, Zhongyao Wang, Juren Li, Jun Zhang, Jingmin Chen</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.14446v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 淘宝码是淘宝（全球最大的在线购物网站）上一种特殊编码的文本链接，用户可以通过它相互分享产品信息。分析道码可能有助于理解用户之间的社会关系，更令人兴奋的是，他们在道码扩散的影响下的在线购买行为。本文创新性地从信息扩散的角度研究网购预测问题，以淘码为例。具体来说，我们对来自淘宝的大型真实世界数据集进行了深入的观察研究，其中包含超过 1 亿条淘码共享记录。受我们观察的启发，我们提出了 InfNet，这是一种基于动态 GNN 的框架，可对跨越 Taocode 的信息扩散进行建模。然后我们将 InfNet 应用于商品购买预测。与 8 个最先进的基线相比，对真实世界数据集的大量实验验证了 InfNet 的有效性。</p>
+
+<h3 id="ucode-使用图卷积网络进行统一社区检测">UCoDe：使用图卷积网络进行统一社区检测</h3>
+
+<p>原文标题： UCoDe: Unified Community Detection with Graph Convolutional Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.14822">http://arxiv.org/abs/2112.14822</a></p>
+
+<p>作者： Atefeh Moradan, Andrew Draganov, Davide Mottin, Ira Assent</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.14822v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 社区检测是基于相互相似性在图中查找节点组的无监督任务。现有的社区检测方法要么将图划分为不相交、不重叠的社区，要么返回重叠社区。目前，没有任何方法可以令人满意地检测重叠和非重叠社区。我们提出了 UCoDe，这是一种在属性图中进行无监督社区检测的统一方法。它利用图神经网络 (GNN) 的最新发展进行表征学习。到目前为止，用于社区检测的 GNN 方法在重叠或非重叠社区检测任务中都提供了有竞争力的结果，但在这两项任务中都收效甚微。 UCoDe 通过引入在宏观尺度上刻画节点相似性的新损失来克服这些问题。我们为我们的方法在社区检测任务中的有效性提供了理论依据，并表明它可以应用于重叠和非重叠设置。正如我们的实验在几个真实的基准图上所证明的那样，UCoDe 以易于应用的方式在重叠和非重叠设置中始终如一地提供高质量的结果。</p>
+
+<h3 id="亲密的朋友-受欢迎的同伴-团队组建和小组项目中的领导力">亲密的朋友、受欢迎的同伴、团队组建和小组项目中的领导力</h3>
+
+<p>原文标题： Close Friends, Popular Peers, Team formation and Leadership in Group Projects</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.14940">http://arxiv.org/abs/2112.14940</a></p>
+
+<p>作者： Deekshajyothi S, Gowrishankar G</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.14940v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 该论文讨论了在看似无关的一组学生和概念上不同的问题陈述中形成的各种相互关联的关系。本研究使用社会网络分析 (SNA) 来分析和映射个人之间的联系。 SNA 有助于在执行特定任务时理解一群人的心理。这可以帮助预测类似组可能执行这些任务的进一步模式。正如本文所讨论的，对项目团队成员选择的分析间接暗示了部门中的友谊，并且可以预测可能由此产生的新友谊。收集到的数据可以使用各种分析工具（例如 Gephi 和 NodeXL）表示为社会网络。分析的结果决定了学生中受欢迎的同龄人，并阐明了其背后的原因。此外，还推导出了其他各种推论，例如密友列表、节点的社交影响力等。</p>
+
+<h3 id="pprviz-基于个性化pagerank的有效且高效的图可视化">PPRviz：基于个性化PageRank的有效且高效的图可视化</h3>
+
+<p>原文标题： PPRviz: Effective and Efficient Graph Visualization based on Personalized PageRank</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.14944">http://arxiv.org/abs/2112.14944</a></p>
+
+<p>作者： Shiqi Zhang, Renchi Yang, Xiaokui Xiao, Xiao Yan, Bo Tang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.14944v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 图可视化是一个重要的问题，在各个领域都有应用，例如社会网络分析、交通规划和生物信息学。然而，现有的图可视化解决方案无法扩展到具有数百万个节点的大型图，因为它们要么提供较差的可视化结果，要么产生巨大的计算成本。为理解决先前工作的不足，我们提出了 PPRviz，一种用于大图的多级可视化方法。 PPRviz 的核心是一个新的图节点距离度量 PDist，它是专门为可视化设计的。特别是，PDist 是基于个性化 PageRank 制定的，它为两个被广泛采用的美学措施提供了非平凡的理论保证。我们提出了有效的算法来估计具有可证明的准确性和时间复杂度的 PDist，同时产生小的预处理成本。大量实验表明，PPRviz 在 12 个真实世界图的有效性和效率方面显著优于 13 个最先进的竞争对手，并且 PPRviz 在 10 亿边图上提供了 1 秒内的交互式可视化。</p>
+
+<h3 id="缺失poi签到识别的双向时空依赖建模与用户动态偏好">缺失POI签到识别的双向时空依赖建模与用户动态偏好</h3>
+
+<p>原文标题： Modelling of Bi-directional Spatio-Temporal Dependence and Users&rsquo; Dynamic Preferences for Missing POI Check-in Identification</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.15285">http://arxiv.org/abs/2112.15285</a></p>
+
+<p>作者： Dongbo Xi, Fuzhen Zhuang, Yanchi Liu, Jingjing Gu, Hui Xiong, Qing He</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.15285v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 从兴趣点 (POI) 签到积累的人类移动数据为理解用户行为提供了绝佳机会。然而，现实生活中的移动数据中的数据质量问题（例如，地理位置信息缺失、不真实的签到、数据稀疏）限制了现有面向 POI 的研究（例如 POI 推荐和位置预测）应用于实际应用时的有效性。为此，在本文中，我们开发了一个名为 Bi-STDDP 的模型，该模型可以集成双向时空依赖性和用户的动态偏好，以识别用户在特定时间访问过的缺失 POI 签到。时间。具体来说，我们首先利用 POI 的双向全局空间和局部时间信息来刻画复杂的依赖关系。然后，结合用户和 POI 信息的目标时间模式被馈送到多层网络中以刻画用户的动态偏好。此外，将动态偏好转换为与依赖关系相同的空间，以形成最终模型。最后，所提出的模型在三个大型真实世界数据集上进行了评估，结果表明我们的模型与最先进的方法相比有了显著的改进。此外，值得注意的是，所提出的模型可以自然地扩展到具有竞争力的性能的 POI 推荐和位置预测任务。</p>
+
+<h3 id="通过时空张量共聚类解释迁徙系统">通过时空张量共聚类解释迁徙系统</h3>
+
+<p>原文标题： Uncovering migration systems through spatio-temporal tensor co-clustering</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.15296">http://arxiv.org/abs/2112.15296</a></p>
+
+<p>作者： Zack W. Almquist, Tri Duc Nguyen, Mikael Sorensen, Xiao Fu, Nicholas D. Sidiropoulos</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.15296v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 人类流动研究的一个核心问题是迁移系统。通常，迁移系统被定义为随着时间的推移，人们在两个或多个地点之间的一组相对稳定的移动。虽然这些新兴系统预计会随时间变化，但理想情况下，它们包含一个稳定的基础结构，可以通过经验发现。已经有一些正式或非正式地定义移民系统的显著尝试，但是它们因难以操作以及以忽略来源/目的地方面和/或未能考虑移民动态的方式定义移民系统而受到限制。在这项工作中，我们提出了一种新方法，即时空 (ST) 张量共聚类，源于信号处理和机器学习理论。为了证明其描述稳定移民系统的有效性，我们关注 1990 年至 2018 年美国各县之间的国内移民。这一时期的相关数据已通过美国国税局提供。具体而言，我们专注于三个说明性案例研究：(i) 美国大都市区，(ii) 加利福尼亚州，以及 (iii) 路易斯安那州，重点是检测 2005 年卡特里娜飓风等外生事件。最后，我们以讨论和这种方法的局限性。</p>
+
+<h3 id="网络上具有淬灭无序的-q-voter-模型的对近似">网络上具有淬灭无序的 q-voter 模型的对近似</h3>
+
+<p>原文标题： Pair approximation for the q-voter models with quenched disorder on networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.15369">http://arxiv.org/abs/2112.15369</a></p>
+
+<p>作者： Arkadiusz Jędrzejewski, Katarzyna Sznajd-Weron</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.15369v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 使用两种意见动态模型，具有独立性的 q-voter 模型和具有反一致性的 q-voter 模型，我们讨论了无序从退火到淬灭的变化如何影响网络上的相变。到目前为止，这种分析仅在平均场水平上进行。为了导出网络上的相图，我们开发了模型淬火版本的配对近似。这种形式主义也可以应用于其他类似的淬火动力学。结果表明，这种无序变化消除了所有不连续的相变并拓宽了有序相。我们表明，尽管退火和淬火类型的无序在具有平均场水平反整合的 q-voter 模型中导致相同的结果，但它们确实导致网络上的不同相图。随着网络平均节点度的增加，这些相图相互移动，最终，它们在平均场极限处重合。相比之下，对于具有独立性的 q-voter 模型，无论无序类型如何，相图都朝着相同的方向移动，并且即使在均值域中它们也不重合。为了验证我们的结果，我们对随机正则图和 Barab&rsquo;asi-Albert 网络进行了蒙特卡罗模拟。尽管配对近似可能会错误地预测退火模型的相变类型，但我们尚未观察到淬火模型的此类错误。</p>
+
+<h3 id="基于随机游走的自监督学习的可扩展深度图聚类">基于随机游走的自监督学习的可扩展深度图聚类</h3>
+
+<p>原文标题： Scalable Deep Graph Clustering with Random-walk based Self-supervised Learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.15530">http://arxiv.org/abs/2112.15530</a></p>
+
+<p>作者： Xiang Li (1), Dong Li (2), Ruoming Jin (2), Gagan Agrawal (3), Rajiv Ramnath (4) ((1) Ohio State University, (2) Kent State University, (3) Augusta University)</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.15530v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 基于 Web 的交互可以经常用属性图表示，并且此类图中的节点聚类最近受到了很多关注。多项努力已成功应用图卷积网络 (GCN)，但由于 GCN 已被证明存在过度平滑问题，因此在准确性方面存在一些限制。尽管其他方法（尤其是基于拉普拉斯平滑的方法）报告了更好的准确性，但所有工作的基本限制是缺乏可扩展性。本文通过将拉普拉斯平滑与广义 PageRank 相关联并应用基于随机游走的算法作为可扩展图过滤器来解决这个开放问题。这构成了我们可扩展的深度聚类算法 RwSL 的基础，其中通过自我监督的小批量训练机制，我们同时优化了用于样本集群分配分布的深度神经网络和用于面向聚类的嵌入的自动编码器。使用 6 个真实世界的数据集和 6 个聚类指标，我们表明 RwSL 在几个最近的基线上取得了改进的结果。最值得注意的是，我们表明，与所有其他深度聚类框架不同，RwSL 可以继续扩展到超过一百万个节点的图，即处理网络规模。我们还演示了 RwSL 如何仅使用单个 GPU 在具有 18 亿条边的图上执行节点聚类。</p>
+
+<h3 id="用于有效且可实施的联系人跟踪和隔离的马尔可夫决策过程框架">用于有效且可实施的联系人跟踪和隔离的马尔可夫决策过程框架</h3>
+
+<p>原文标题： A Markov Decision Process Framework for Efficient and Implementable Contact Tracing and Isolation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.15547">http://arxiv.org/abs/2112.15547</a></p>
+
+<p>作者： George Li, Arash Haddadan, Ann Li, Madhav Marathe, Aravind Srinivasan, Anil Vullikanti, Zeyu Zhao</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.15547v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 有效的接触者追踪和隔离是控制流行病的有效策略。它在埃博拉流行期间得到了有效使用，并在持续的 COVID-19 大流行期间在世界多个地区成功实施。实施手动接触者追踪时的一个重要考虑因素是可用接触者追踪器的数量——由于社会经济原因，此类个体的数量有限。在本文中，我们提出了一个马尔可夫决策过程 (MDP) 框架来制定有效的接触者跟踪问题，该问题在使用有限数量的接触者跟踪器的同时减少了爆发的规模。我们将 MDP 的每一步都表述为一个组合问题 MinExposed。我们证明 MinExposed 是 NP-Hard，因此我们开发了一种基于 LP 的近似算法。尽管该算法直接解决了 MinExposed，但由于信息限制，它在现实世界中往往不切实际。为此，我们开发了一种基于对先前算法分析的见解的贪婪方法，我们表明该方法更具可解释性。贪心算法的一个关键特征是它不需要底层社交联系网络的完整信息。这使得启发式可以在实践中实现并且是一个重要的考虑因素。最后，我们对在真实世界网络上运行的 MDP 进行模拟实验，并展示算法如何帮助弯曲流行曲线，同时限制孤立个体的数量。我们的实验结果表明，贪婪算法及其变体在各种现实场景中特别有效、稳健和实用，例如当接触图和特定传输概率未知时。所有代码都可以在我们的 GitHub 存储库中找到：<a href="https://github.com/gzli929/ContactTracing。">https://github.com/gzli929/ContactTracing。</a></p>
+
+<h3 id="受非高斯噪声影响的随机-covid-19-模型">受非高斯噪声影响的随机 COVID-19 模型</h3>
+
+<p>原文标题： Stochastic COVID-19 Model Influenced by Non-Gaussian Noise</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2112.14876">http://arxiv.org/abs/2112.14876</a></p>
+
+<p>作者： Almaz Tesfay, Anwar Zeb, Yu-Ming Chu, Ali Ahmadian, Soheil Salahshour</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2112.14876v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 考虑到不可抗拒的疾病——罕见的冠状病毒，自然变化起到了至关重要的作用。重要的是要考虑不规则的不安影响对流行病模型的影响。在这项工作中，首先我们提出了一个 SIR 冠状病毒数学模型，并考虑到接触率受到 L&rsquo;evy 噪声的干扰。为了保护和控制疾病，应该使用 L&rsquo;evy 过程。然后，我们讨论了确定性模型的动力学和随机模型的全局正解，呈现了存在性和唯一性。此外，探索感染终止和持续存在的一些条件。然后推导出决定疾病（感染）灭绝和持续时间的基本繁殖数。当噪声很大或很小时，数值结果显示，如果复制数小于 1，则 COVID19 从个体中消失；虽然在再生数大于1的情况下控制流行病。最后，为了演示这种现象，给出了数值模拟。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220103/">https://netsci.complexly.cn/post/20220103/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20211228/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要10篇(2021-12-28)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

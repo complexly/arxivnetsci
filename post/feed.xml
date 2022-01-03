@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2022-01-03)</title>
+      <link>https://netsci.complexly.cn/post/20220103/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220103/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;时间网络中的模体分析模型：发现趋势和异常;&lt;/li&gt;
+&lt;li&gt;我们真的取得了很大进展吗？重新审视、基准测试和改进异构图神经网络;&lt;/li&gt;
+&lt;li&gt;兴趣扩散对购买预测的影响有多大：以淘宝码为例;&lt;/li&gt;
+&lt;li&gt;UCoDe：使用图卷积网络进行统一社区检测;&lt;/li&gt;
+&lt;li&gt;亲密的朋友、受欢迎的同伴、团队组建和小组项目中的领导力;&lt;/li&gt;
+&lt;li&gt;PPRviz：基于个性化PageRank的有效且高效的图可视化;&lt;/li&gt;
+&lt;li&gt;缺失POI签到识别的双向时空依赖建模与用户动态偏好;&lt;/li&gt;
+&lt;li&gt;通过时空张量共聚类解释迁徙系统;&lt;/li&gt;
+&lt;li&gt;网络上具有淬灭无序的 q-voter 模型的对近似;&lt;/li&gt;
+&lt;li&gt;基于随机游走的自监督学习的可扩展深度图聚类;&lt;/li&gt;
+&lt;li&gt;用于有效且可实施的联系人跟踪和隔离的马尔可夫决策过程框架;&lt;/li&gt;
+&lt;li&gt;受非高斯噪声影响的随机 COVID-19 模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2021-12-28)</title>
