@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2022-01-04)</title>
+      <link>https://netsci.complexly.cn/post/20220104/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220104/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;空间各向异性网络上的渗流;&lt;/li&gt;
+&lt;li&gt;利用双向全局转换模式和个人偏好来识别缺失POI类别;&lt;/li&gt;
+&lt;li&gt;参与度超过了在 Google 搜索中接触党派和不可靠新闻的风险;&lt;/li&gt;
+&lt;li&gt;使用与可靠来源进行交叉检查的自动假新闻检测;&lt;/li&gt;
+&lt;li&gt;Ising 模型中的回声室及其对平均磁化强度的影响;&lt;/li&gt;
+&lt;li&gt;使用基于能源生产的指标进行灾后恢复力和不平等增长监测;&lt;/li&gt;
+&lt;li&gt;通过社交媒体理解关于使用羟氯喹治疗 COVID-19 的公众意见;&lt;/li&gt;
+&lt;li&gt;多人口交通流的稳定性;&lt;/li&gt;
+&lt;li&gt;SMART：NIS 指令框架内的技术准备方法;&lt;/li&gt;
+&lt;li&gt;通过距离网络监督对推文进行半监督立场检测;&lt;/li&gt;
+&lt;li&gt;使用基于位置的数据表征灾难期间对杂货店的公平访问;&lt;/li&gt;
+&lt;li&gt;马尔可夫时间网络中并发性对流行病传播的影响;&lt;/li&gt;
+&lt;li&gt;维基百科阅读器导航：当综合数据足够时;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2022-01-03)</title>
