@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2022-01-05)</title>
+      <link>https://netsci.complexly.cn/post/20220105/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220105/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;关于真实世界超图中高阶交互的持久性;&lt;/li&gt;
+&lt;li&gt;网络重建和社区检测之间可以共享哪些知识？;&lt;/li&gt;
+&lt;li&gt;恢复结构：自我驱动的组织网络的模块化分析;&lt;/li&gt;
+&lt;li&gt;MDFEND：多域假新闻检测;&lt;/li&gt;
+&lt;li&gt;扼杀在萌芽状态：检测、传播和应对社交媒体上的仇恨言论;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2022-01-04)</title>
