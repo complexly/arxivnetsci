@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2022-01-06)</title>
+      <link>https://netsci.complexly.cn/post/20220106/</link>
+      <pubDate>Thu, 06 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220106/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会网络中的观念动力学：从模型到数据;&lt;/li&gt;
+&lt;li&gt;人类移动的可预测性状态;&lt;/li&gt;
+&lt;li&gt;在量子退火炉上测试核-外围分区的 QUBO 配方;&lt;/li&gt;
+&lt;li&gt;Botometer 101：计算社会科学家的社交机器人尝试;&lt;/li&gt;
+&lt;li&gt;实证网络随机块模型拟合质量的系统评估;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2022-01-05)</title>
