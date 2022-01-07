@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 06 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2022-01-07)</title>
+      <link>https://netsci.complexly.cn/post/20220107/</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220107/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;揭示复杂城市背后的时空交互模式;&lt;/li&gt;
+&lt;li&gt;使用标准离线预言机通过节点级反馈实现在线影响力最大化;&lt;/li&gt;
+&lt;li&gt;在基于云的多主体系统中处理信任;&lt;/li&gt;
+&lt;li&gt;量子计算与量子算法研究中主题结构的文献计量分析;&lt;/li&gt;
+&lt;li&gt;研究大型食品冷藏系统网络的温度分布的数据科学;&lt;/li&gt;
+&lt;li&gt;将 Human-in-the-loop 集成到 Swarm Learning 以进行去中心化假新闻检测;&lt;/li&gt;
+&lt;li&gt;单纯级联由神经元复合体的多维几何结构调控;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2022-01-06)</title>
