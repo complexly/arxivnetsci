@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 07 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2022-01-10)</title>
+      <link>https://netsci.complexly.cn/post/20220110/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220110/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;同区域对于人类通信网络的影响;&lt;/li&gt;
+&lt;li&gt;全国范围内高度协调的大规模旅行限制对于有效缓解和控制中国 COVID-19 疫情至关重要;&lt;/li&gt;
+&lt;li&gt;MGAE：用于图自监督学习的掩码自动编码器;&lt;/li&gt;
+&lt;li&gt;不同度的演化网络中的流行病;&lt;/li&gt;
+&lt;li&gt;公共汽车捆绑可以减少等待时间吗？;&lt;/li&gt;
+&lt;li&gt;使用成分数据方法的移民研究：丹麦首都地区人口结构的案例研究;&lt;/li&gt;
+&lt;li&gt;在 COVID-19 大流行期间使用漫游手机跟踪建模国际移动性;&lt;/li&gt;
+&lt;li&gt;动态流行病模型中疫苗接种效果对财富分配的影响;&lt;/li&gt;
+&lt;li&gt;IRL 计划：与移动增强现实进行有趣的同区域交互;&lt;/li&gt;
+&lt;li&gt;双层选民模型：在意见动态中建模不宽容/宽容的立场和机器人;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2022-01-07)</title>
