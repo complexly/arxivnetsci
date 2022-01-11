@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2022-01-11)</title>
+      <link>https://netsci.complexly.cn/post/20220111/</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220111/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Wiki-CS：基于维基百科的图神经网络基准;&lt;/li&gt;
+&lt;li&gt;欺诈者群体检测的时空图表示学习;&lt;/li&gt;
+&lt;li&gt;Neighbor2vec：一种高效且有效的图嵌入方法;&lt;/li&gt;
+&lt;li&gt;AnomMAN：在多视图属性网络上检测异常;&lt;/li&gt;
+&lt;li&gt;HFUL：跨位置感知社会网络的用户帐户链接的混合框架;&lt;/li&gt;
+&lt;li&gt;跳槽到男性主导的职业：减少中国女性性别工资差距的新方法;&lt;/li&gt;
+&lt;li&gt;感染死亡率和社会接触矩阵对疫苗优先策略的影响;&lt;/li&gt;
+&lt;li&gt;非线性随机游走优化流行病锁定措施中成本和预防之间的权衡：ESIR模型;&lt;/li&gt;
+&lt;li&gt;在澳大利亚 2019-2020 年丛林大火期间宣传和打击错误信息：极化案例研究;&lt;/li&gt;
+&lt;li&gt;社交媒体网络攻击及其预防机制综述;&lt;/li&gt;
+&lt;li&gt;基于具有2-2和3-1主体交互的 Sznajd 模型的涉及逆向和独立行为的意见动态;&lt;/li&gt;
+&lt;li&gt;自动检测已开发自行车网络中的缺失链接;&lt;/li&gt;
+&lt;li&gt;用于评估未记录感染的分区流行病模型：在巴西 SARS-CoV-2 流行病中的应用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2022-01-10)</title>
