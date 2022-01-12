@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 11 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2022-01-12)</title>
+      <link>https://netsci.complexly.cn/post/20220112/</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220112/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;隐性知识的文化传播;&lt;/li&gt;
+&lt;li&gt;测量网络中相似性和互补性驱动的关系;&lt;/li&gt;
+&lt;li&gt;什么是复杂性科学，以及为什么;&lt;/li&gt;
+&lt;li&gt;具有互惠性的优先连接：属性和估计;&lt;/li&gt;
+&lt;li&gt;使用双引力模型探索城际客流的空间格局;&lt;/li&gt;
+&lt;li&gt;微分描述图组;&lt;/li&gt;
+&lt;li&gt;VGAER：基于图神经网络重建的社区检测;&lt;/li&gt;
+&lt;li&gt;追溯重建。建立对极端事件后城市变异的理解和系统化的分析方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2022-01-11)</title>
