@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2022-01-13)</title>
+      <link>https://netsci.complexly.cn/post/20220113/</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220113/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;为智能电网生成连通、简单和真实的网络图;&lt;/li&gt;
+&lt;li&gt;大数据 = 大洞察？在海量 GitHub 数据集中实证布鲁克斯定律;&lt;/li&gt;
+&lt;li&gt;使用中心性度量的不精确图匹配;&lt;/li&gt;
+&lt;li&gt;理解人们如何使用网络流量数据消费低质量和极端新闻;&lt;/li&gt;
+&lt;li&gt;防止在线危害的传播：跨平台社交媒体和元界的传染物理学;&lt;/li&gt;
+&lt;li&gt;没有社区可以无所不能：为什么人们会参与类似的在线社区;&lt;/li&gt;
+&lt;li&gt;2021年荷兰大选政治脸书广告主题分析;&lt;/li&gt;
+&lt;li&gt;通过公平的不屈不挠的策略超越敲诈勒索者;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2022-01-12)</title>
