@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 13 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2022-01-14)</title>
+      <link>https://netsci.complexly.cn/post/20220114/</link>
+      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220114/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;CompanyName2Vec：基于招聘广告的公司实体匹配;&lt;/li&gt;
+&lt;li&gt;基于模体的聚类网络上相互作用粒子的平均场逼近;&lt;/li&gt;
+&lt;li&gt;NiemaGraphGen：一个内存高效的全球规模接触网络模拟工具包;&lt;/li&gt;
+&lt;li&gt;认知主体之间的共识是困难的;&lt;/li&gt;
+&lt;li&gt;多社区网络的流行病传播峰值感染率;&lt;/li&gt;
+&lt;li&gt;纳米战可导致疫情死灰复燃，无法促进合作;&lt;/li&gt;
+&lt;li&gt;特征丰富的多元词汇网络揭示了早期语言学习的心理策略;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2022-01-13)</title>
