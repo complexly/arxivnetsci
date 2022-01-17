@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 14 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2022-01-17)</title>
+      <link>https://netsci.complexly.cn/post/20220117/</link>
+      <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220117/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;广告活动的上下文bandit：一种独立于扩散模型的方法（扩展版）;&lt;/li&gt;
+&lt;li&gt;这一定是地方：在大规模分布式活动中预测在线社区的参与;&lt;/li&gt;
+&lt;li&gt;评估巴西常规航空业疲劳的根本原因和相关风险因素;&lt;/li&gt;
+&lt;li&gt;使用特征向量中心性的PageRank算法——新方法;&lt;/li&gt;
+&lt;li&gt;全球阈值和骨干高分辨率天气雷达网络在分水岭中具有显著互补性;&lt;/li&gt;
+&lt;li&gt;“禁止中国间谍软件！”：Reddit 上对中国科技公司的舆论细粒度分析;&lt;/li&gt;
+&lt;li&gt;微博客中多主题社交垃圾邮件检测的智能系统;&lt;/li&gt;
+&lt;li&gt;美国极限飞盘最小二乘评级的实证研究;&lt;/li&gt;
+&lt;li&gt;使用基于位置的数据指定短期灾难恢复期间的疏散返回和返航稳定性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2022-01-14)</title>
