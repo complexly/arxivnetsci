@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2022-01-20)</title>
+      <link>https://netsci.complexly.cn/post/20220120/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220120/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;大规模网络中的功能可观测性和目标状态估计;&lt;/li&gt;
+&lt;li&gt;对偶空间图对比学习;&lt;/li&gt;
+&lt;li&gt;加权有向网络中的同配混合;&lt;/li&gt;
+&lt;li&gt;COVID-19 对国际贸易的影响;&lt;/li&gt;
+&lt;li&gt;图上信息传播的模型;&lt;/li&gt;
+&lt;li&gt;量化交通网络中的导航复杂性;&lt;/li&gt;
+&lt;li&gt;用于事件不确定性预测的贝叶斯神经霍克斯过程;&lt;/li&gt;
+&lt;li&gt;管理流行病的最佳锁定;&lt;/li&gt;
+&lt;li&gt;孤独的多种方式：孤独的细粒度表征及其在 COVID-19 中的潜在变化;&lt;/li&gt;
+&lt;li&gt;检测推文中的立场：一种基于符号网络的方法;&lt;/li&gt;
+&lt;li&gt;撰写有关 COVID-19 疫苗的文章：情绪分析揭示了主流和另类媒体如何构建阿斯利康、辉瑞和疫苗接种活动;&lt;/li&gt;
+&lt;li&gt;在突然意外死亡之前，一小群癫痫患者在 Facebook 上的活动有所增加;&lt;/li&gt;
+&lt;li&gt;消除噪音以推断自治系统拓扑;&lt;/li&gt;
+&lt;li&gt;“理解有关 COVID-19 的事实”：分析 TikTok 视频上警告标签的使用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要28篇(2022-01-19)</title>
