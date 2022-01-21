@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 20 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2022-01-21)</title>
+      <link>https://netsci.complexly.cn/post/20220121/</link>
+      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220121/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;FreSCo：挖掘单纯复形中的频繁模式;&lt;/li&gt;
+&lt;li&gt;基于网络的科学概念链路预测——Science4Cast竞赛条目;&lt;/li&gt;
+&lt;li&gt;社会Frohlich凝聚: 通过足够密集的信息抽取来维护社会秩序;&lt;/li&gt;
+&lt;li&gt;更正和增编：政党的民粹主义程度如何？使用监督机器学习测量政党宣言中的民粹主义程度;&lt;/li&gt;
+&lt;li&gt;需求侧经济学的效应结构与热力学公式;&lt;/li&gt;
+&lt;li&gt;用自由意志扩展牛顿运动定律;&lt;/li&gt;
+&lt;li&gt;请求少发表;&lt;/li&gt;
+&lt;li&gt;通过图表示学习识别复杂网络中的关键节点;&lt;/li&gt;
+&lt;li&gt;TweetBoost：社交媒体对 NFT 估值的影响;&lt;/li&gt;
+&lt;li&gt;有偏见的选民过程中的入侵动态;&lt;/li&gt;
+&lt;li&gt;将地理空间表示为用于计算有序度的递归定义子空间的层次结构;&lt;/li&gt;
+&lt;li&gt;CUF-Links：用于可重复研究的持续且无处不在的 FAIRness 联系;&lt;/li&gt;
+&lt;li&gt;实时需求响应中的集体效应和需求同步;&lt;/li&gt;
+&lt;li&gt;社交媒体使用对阿拉伯世界公众对 COVID-19 疫苗的态度和行为的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2022-01-20)</title>
