@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2022-01-26)</title>
+      <link>https://netsci.complexly.cn/post/20220126/</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220126/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用谱图过滤的基于社区的异常检测;&lt;/li&gt;
+&lt;li&gt;MonLAD：交易流中的洗钱主体检测;&lt;/li&gt;
+&lt;li&gt;上下文自监督链路预测;&lt;/li&gt;
+&lt;li&gt;LP-UIT：社会网络中链路预测的多模式框架;&lt;/li&gt;
+&lt;li&gt;因果涌现的神经信息挤压器;&lt;/li&gt;
+&lt;li&gt;如何成为极端者;&lt;/li&gt;
+&lt;li&gt;印度政府保留政策的熵分析;&lt;/li&gt;
+&lt;li&gt;一种预测人工智能论文语义关系的方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2022-01-24)</title>
