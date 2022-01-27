@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2022-01-27)</title>
+      <link>https://netsci.complexly.cn/post/20220127/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220127/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于社交推荐的具有动态和静态表示的图神经网络;&lt;/li&gt;
+&lt;li&gt;从路网结构看城市景观：复杂性视角;&lt;/li&gt;
+&lt;li&gt;大型大学校园的网络侧数字接触者追踪;&lt;/li&gt;
+&lt;li&gt;从身份验证问题到公共社交活动：在 Twitter 上表征生日分享;&lt;/li&gt;
+&lt;li&gt;关键的时间相关分支过程模拟流行病传播与遏制措施;&lt;/li&gt;
+&lt;li&gt;在网络上构建博弈以控制资本分配中的不平等;&lt;/li&gt;
+&lt;li&gt;关于使用双感知相似性的渐进网络对齐的效力;&lt;/li&gt;
+&lt;li&gt;随机协作下的社会学习;&lt;/li&gt;
+&lt;li&gt;集体信息在量子操作主体网络中的作用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2022-01-26)</title>
