@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要10篇(2022-01-31) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+节点相关随机重置下复杂网络上的随机游走;
+多家银行的连接图上的资金分配;
+论科学等级的起源;
+走向极端：Parler 和 Gab 中仇恨言论的比较分析;
+腐败研究的计算方法;
+非齐次Erdos-Renyi随机图 Frechet 均值（或中值）的锐阈值;
+量化意外：黑天鹅的科学方法;
+如何避免没有竞争力的博弈？打破平局规则的重要性;
+完整网络中同步 Heider 动力学的完美循环;
+TikTok个性化因素的实证研究;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要10篇(2022-01-31) - 网络科学研究速递">
+<meta itemprop="description" content="
+节点相关随机重置下复杂网络上的随机游走;
+多家银行的连接图上的资金分配;
+论科学等级的起源;
+走向极端：Parler 和 Gab 中仇恨言论的比较分析;
+腐败研究的计算方法;
+非齐次Erdos-Renyi随机图 Frechet 均值（或中值）的锐阈值;
+量化意外：黑天鹅的科学方法;
+如何避免没有竞争力的博弈？打破平局规则的重要性;
+完整网络中同步 Heider 动力学的完美循环;
+TikTok个性化因素的实证研究;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要10篇(2022-01-31) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220131/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+节点相关随机重置下复杂网络上的随机游走;
+多家银行的连接图上的资金分配;
+论科学等级的起源;
+走向极端：Parler 和 Gab 中仇恨言论的比较分析;
+腐败研究的计算方法;
+非齐次Erdos-Renyi随机图 Frechet 均值（或中值）的锐阈值;
+量化意外：黑天鹅的科学方法;
+如何避免没有竞争力的博弈？打破平局规则的重要性;
+完整网络中同步 Heider 动力学的完美循环;
+TikTok个性化因素的实证研究;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220131/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220131/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要10篇(2022-01-31)</h1>
+
+                  <p class="post-byline">
+                    2022年01月31日 · 3495 字 ·
+                    阅读时间约7分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>节点相关随机重置下复杂网络上的随机游走;</li>
+<li>多家银行的连接图上的资金分配;</li>
+<li>论科学等级的起源;</li>
+<li>走向极端：Parler 和 Gab 中仇恨言论的比较分析;</li>
+<li>腐败研究的计算方法;</li>
+<li>非齐次Erdos-Renyi随机图 Frechet 均值（或中值）的锐阈值;</li>
+<li>量化意外：黑天鹅的科学方法;</li>
+<li>如何避免没有竞争力的博弈？打破平局规则的重要性;</li>
+<li>完整网络中同步 Heider 动力学的完美循环;</li>
+<li>TikTok个性化因素的实证研究;</li>
+</ul>
+
+<p></p>
+
+<h3 id="节点相关随机重置下复杂网络上的随机游走">节点相关随机重置下复杂网络上的随机游走</h3>
+
+<p>原文标题： Random walks on complex networks under node-dependent stochastic resetting</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.11970">http://arxiv.org/abs/2201.11970</a></p>
+
+<p>作者： Yanfei Ye, Hanshuang Chen</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2201.11970v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在目前的工作中，我们研究了复杂网络上的随机游走，当重置概率与节点相关时，会受到随机重置的影响。使用更新方法，我们得出了步行者在每个节点上的静止占用概率和任意两个节点之间的平均首次通过时间的精确表达式。最后，我们在具有两种不同重置协议的三个网络上展示了我们的理论结果，并通过数值模拟进行了验证。我们发现，在微妙的设置下，通过依赖于节点的重置概率来优化此类网络上全局搜索的效率是有利的。</p>
+
+<h3 id="多家银行的连接图上的资金分配">多家银行的连接图上的资金分配</h3>
+
+<p>原文标题： Distribution of money on connected graphs with multiple banks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.11930">http://arxiv.org/abs/2201.11930</a></p>
+
+<p>作者： Nicolas Lanchier, Stephanie Reed</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2201.11930v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本文研究了一种在经济物理学中感兴趣的相互作用粒子系统，其灵感来自物理学文献中引入的模型。原始模型由以资本为特征的一家银行的客户组成，离散时间动态由货币交易组成，其中一个随机个人 x 将一枚硬币交给另一个随机个人 y，当交易被取消时x 负债累累，没有更多的硬币可以从银行借来。结合数值模拟和启发式论证，物理学家推测，在大人口/温度限制下，平衡时的货币分布（给定个人拥有的硬币数量的分布）会收敛到不对称的拉普拉斯分布。在本文中，我们证明并将这一猜想扩展到更一般的模型，包括多家银行和跨银行客户之间的互动。更重要的是，我们的模型假设客户位于一般的无向连通图（与原始模型中的完整图相反），其中邻居被解释为业务伙伴，并且交易沿着边发生，从而模拟跨一个社会网络。我们展示了在任何图的大人口/温度限制下不对称拉普拉斯分布的收敛性，从而证明和扩展了物理学家的猜想，并得出了所有人口规模和货币温度下货币分布的精确表达式。</p>
+
+<h3 id="论科学等级的起源">论科学等级的起源</h3>
+
+<p>原文标题： On the origin of the hierarchy of the sciences</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.12276">http://arxiv.org/abs/2201.12276</a></p>
+
+<p>作者： Nikita Kalinin</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2201.12276v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们提出了一个简单的“演化”沙堆模型，展示了自组织临界性和恰好 1/f-噪声（即临界指数等于 -1），并在“下一级”沙堆。通过这种方式，我们尝试通过所谓的科学层次对攀登进行建模，原则上，更高层次的过程可以由较低层次的定律推导，但从解释的角度来看，这种推导在计算上是不可行且无用的.</p>
+
+<h3 id="走向极端-parler-和-gab-中仇恨言论的比较分析">走向极端：Parler 和 Gab 中仇恨言论的比较分析</h3>
+
+<p>原文标题： Going Extreme: Comparative Analysis of Hate Speech in Parler and Gab</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.11770">http://arxiv.org/abs/2201.11770</a></p>
+
+<p>作者： Abraham Israeli, Oren Tsur</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2201.11770v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 社交平台，如 Gab 和 Parler，被称为“言论自由”网络，近年来其用户群显著增长。这种受欢迎程度主要归功于 Twitter、Facebook 和 Reddit 等主流平台实施的更严格的审核。在这项工作中，我们首次对 Parler 上的仇恨言论进行大规模分析。我们尝试了一系列用于检测仇恨言论的算法，证明了迁移学习在该领域的局限性，因为仇恨言论的传递方式具有虚幻和不断变化的性质。为了提高分类准确性，我们注释了 10K Parler 帖子，我们用它来微调 BERT 分类器。然后，通过社会网络上的标签传播，利用单个帖子的分类对数百万用户进行分类。根据传播仇恨的倾向对用户进行分类，我们发现仇恨传播者占 Parler 活跃用户的 16.1%，并且与其他用户组相比，他们具有明显的特征。我们发现仇恨贩子更活跃，更集中，表达不同层次的情绪，传达不同的情绪，如愤怒和悲伤。我们通过比较 Parler 中发现的趋势和 Gab 中发现的趋势来进一步补充我们的分析。据我们所知，这是首批在 Parler 中以定量方式和用户级别分析仇恨言论的作品之一，也是第一个向社区提供的带注释的数据集。</p>
+
+<h3 id="腐败研究的计算方法">腐败研究的计算方法</h3>
+
+<p>原文标题： Computational Approaches to the Study of Corruption</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.11880">http://arxiv.org/abs/2201.11880</a></p>
+
+<p>作者： Isabela Villamil, János Kertész, Johannes Wachs</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2201.11880v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 研究腐败提出了独特的挑战。最近本着计算社会科学精神的工作利用新的可用数据和方法为这个重要主题提供了新的视角。在本章中，我们将重点介绍其中的一些作品，描述它们如何提供对经典社会科学问题的见解，这些问题涉及从微观到宏观尺度的社会腐败结构和动态。我们认为，腐败被有效地理解为发生在嵌入人员和组织之间的集体行动问题。网络科学和基于主体的建模等计算方法可以深入理解这种情况。我们还展示了已被用于研究腐败的各种（大）数据源。最后，我们强调了相邻领域的工作，例如关于勾结、逃税、有组织犯罪和暗网的问题，以及未来工作的有希望的途径。</p>
+
+<h3 id="非齐次erdos-renyi随机图-frechet-均值-或中值-的锐阈值">非齐次Erdos-Renyi随机图 Frechet 均值（或中值）的锐阈值</h3>
+
+<p>原文标题： Sharp Threshold for the Frechet Mean (or Median) of Inhomogeneous Erdos-Renyi Random Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.11954">http://arxiv.org/abs/2201.11954</a></p>
+
+<p>作者： Francois G. Meyer</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2201.11954v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们解决以下基本问题：非齐次 Erdos-Renyi 随机图的集合的总体和样本 Frechet 均值（或中值）图是什么？我们证明，如果我们使用汉明距离来计算图之间的距离，那么通过对集合的预期邻接矩阵进行阈值化，可以获得非齐次随机图集合的 Frechet 均值（或中值）图。我们表明，当总体预期邻接矩阵被样本均值邻接矩阵替换时，该结果也适用于样本均值（或中位数）。因此，非齐次 Erdos-Renyi 随机图的 Frechet 均值（或中值）图表现出一个尖锐的阈值：它要么是空图，要么是完整图。这一新颖的理论结果具有重要的实际意义；例如，一组稀疏非齐次随机图的 Frechet 均值始终是空图。</p>
+
+<h3 id="量化意外-黑天鹅的科学方法">量化意外：黑天鹅的科学方法</h3>
+
+<p>原文标题： Quantifying the Unexpected: a scientific approach to Black Swans</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.12042">http://arxiv.org/abs/2201.12042</a></p>
+
+<p>作者： Giordano De Marzo, Andrea Gabrielli, Andrea Zaccaria, Luciano Pietronero</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2201.12042v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 许多自然和社会经济系统的特点是幂律分布，这使得极端事件的发生不可忽视。此类事件有时被称为黑天鹅，但仍然缺乏对黑天鹅的定量定义。在这里，通过利用 Zipf-Mandelbrot 定律的性质，我们研究了此类极端事件与固有分布的上截止动态之间的关系。这种方法允许对极端事件进行量化，并将它们分类为白天鹅、灰天鹅或黑天鹅。我们的标准与之前的一些发现一致，但也使我们能够发现黑天鹅的新例子，例如莱昂内尔·梅西和土耳其航空公司 981 航班的灾难。我们开发的系统和定量方法允许对罕见事件进行科学和直接的分类，也为黑天鹅背后的生成机制提供了新的见解。</p>
+
+<h3 id="如何避免没有竞争力的博弈-打破平局规则的重要性">如何避免没有竞争力的博弈？打破平局规则的重要性</h3>
+
+<p>原文标题： How to avoid uncompetitive games? The importance of tie-breaking rules</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.12241">http://arxiv.org/abs/2201.12241</a></p>
+
+<p>作者： László Csató</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2201.12241v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在循环赛中，如果一支球队的最终位置已经独立于剩余比赛的结果而确定，那么它可能会打得没有什么热情。这不利于出勤率，并可能激发串通和假球。我们证明了平局规则可能会影响这种情况的发生。它的概率是通过对 <sup>2022</sup>&frasl;<sub>23</sub> 赛季欧洲国家联赛 A 的四组的模拟来量化的，每组都是由四支球队和 12 场比赛组成的主客场循环赛。最后两场比赛的竞争力可以通过更喜欢净胜球而不是正面交锋的结果来提升：净胜球的优先级将小组排名中固定位置的机会降低至少两个百分点，通常是五个百分点。我们的研究结果为如何设计排名系统提供了重要的经验教训。</p>
+
+<h3 id="完整网络中同步-heider-动力学的完美循环">完整网络中同步 Heider 动力学的完美循环</h3>
+
+<p>原文标题： Perfect cycles in the synchronous Heider dynamics in complete network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.12268">http://arxiv.org/abs/2201.12268</a></p>
+
+<p>作者： Zdzislaw Burda, Malgorzata J. Krawczyk, Krzysztof Kulakowski</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2201.12268v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们讨论了一个模拟在完全连接的网络中达到 Heider 平衡的过程的元胞自动机。自动机的动力学由确定性、同步和全局更新规则定义。动力学具有非常丰富的吸引子谱，包括固定点和极限环，它们的长度和数量随着系统的大小而变化。在本文中，我们专注于一类保持连续状态能谱的极限环。我们称这样的极限环是完美的。完美循环中的连续状态彼此隔开相同的汉明距离。此外，对于所有这样的状态对，在完美循环中由 k 步隔开的任何两个状态之间的汉明距离都是相同的。完美循环的状态在配置空间中形成非常对称的轨迹。我们认为，轨迹的对称性植根于网络顶点的排列对称性和测量三元组平衡/挫折水平的某个能量函数的局部对称性。</p>
+
+<h3 id="tiktok个性化因素的实证研究">TikTok个性化因素的实证研究</h3>
+
+<p>原文标题： An Empirical Investigation of Personalization Factors on TikTok</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.12271">http://arxiv.org/abs/2201.12271</a></p>
+
+<p>作者： Maximilian Boeker, Aleksandra Urman</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2201.12271v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： TikTok 目前是增长最快的社交媒体平台，每月活跃用户超过 10 亿，其中大部分来自 Z 世代。可以说，它最重要的成功驱动力是它的推荐系统。尽管 TikTok 的算法对平台的成功和内容分发很重要，但对该算法的实证分析工作却很少。我们的工作为填补这一研究空白奠定了基础。使用 sock-puppet 审计方法和我们开发的自定义算法，我们测试并分析了用于访问 TikTok、关注和点赞功能的语言和位置的影响，以及推荐内容在用户观看时如何变化某些帖子比其他帖子长。我们提供的证据表明，所有测试因素都会影响向 TikTok 用户推荐的内容。此外，我们发现跟随特征的影响最大，其次是相似特征和视频观看率。我们还讨论了我们的发现在 TikTok 上形成过滤气泡和问题内容扩散的背景下的影响。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220131/">https://netsci.complexly.cn/post/20220131/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20220128/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要7篇(2022-01-28)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
