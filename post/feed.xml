@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 31 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2022-02-01)</title>
+      <link>https://netsci.complexly.cn/post/20220201/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220201/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有有限记忆的通用图中的协作学习：可学习性、复杂性和可靠性;&lt;/li&gt;
+&lt;li&gt;基本商品供应网络中断的传播：以人口为中心的系统性风险视角;&lt;/li&gt;
+&lt;li&gt;Map Equation中心性：基于Map Equation考虑社区的中心性分数;&lt;/li&gt;
+&lt;li&gt;谈判问题;&lt;/li&gt;
+&lt;li&gt;深度推荐系统对非目标交互扰动的鲁棒性;&lt;/li&gt;
+&lt;li&gt;美国 Facebook 群组的地理分布;&lt;/li&gt;
+&lt;li&gt;二氧化碳排放的全球和区域变化：1970-2019;&lt;/li&gt;
+&lt;li&gt;应用于 COVID-19 流行病波建模的偏态逻辑分布;&lt;/li&gt;
+&lt;li&gt;登山的集体与个人性质：网络和简单的方法;&lt;/li&gt;
+&lt;li&gt;MicroVelocity：重新思考数字货币的货币流通速度;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2022-01-31)</title>
