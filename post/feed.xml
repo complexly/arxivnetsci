@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2022-02-02)</title>
+      <link>https://netsci.complexly.cn/post/20220202/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220202/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图/网络上的时间和空间广义扩散方程;&lt;/li&gt;
+&lt;li&gt;《巫师》的网络地图;&lt;/li&gt;
+&lt;li&gt;具有不确定性的多智能体系统的非麦克斯韦动力学模型的蒙特卡罗随机 Galerkin 方法;&lt;/li&gt;
+&lt;li&gt;新闻分享网络在社交媒体上暴露信息污染者;&lt;/li&gt;
+&lt;li&gt;处理有毒语音检测中的偏差：一项综述;&lt;/li&gt;
+&lt;li&gt;物理世界中的停车搜索：利用物理和图论方法计算搜索时间;&lt;/li&gt;
+&lt;li&gt;极端洪水期间对道路网络和进入关键地点的当地影响;&lt;/li&gt;
+&lt;li&gt;物理学驱动的足球优势空间研究;&lt;/li&gt;
+&lt;li&gt;回溯 COVID-19：早期病例发病率的基于物理的估计;&lt;/li&gt;
+&lt;li&gt;使用线性阈值模型分析社区感知中心性度量;&lt;/li&gt;
+&lt;li&gt;比较在线社会网络中的社区感知中心性度量;&lt;/li&gt;
+&lt;li&gt;使用重叠模块化活力识别有影响力的节点;&lt;/li&gt;
+&lt;li&gt;Covid-19 疫苗犹豫和大影响者;&lt;/li&gt;
+&lt;li&gt;随机块模型的差分私有社区检测;&lt;/li&gt;
+&lt;li&gt;重新制定下一步观察建议以减少激演化途径;&lt;/li&gt;
+&lt;li&gt;随机顺序更新下的具有反一致性的阈值模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2022-02-01)</title>
