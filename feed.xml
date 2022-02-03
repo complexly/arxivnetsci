@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2022-02-03)</title>
+      <link>https://netsci.complexly.cn/post/20220203/</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220203/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有高方差的随机过程产生无标度网络;&lt;/li&gt;
+&lt;li&gt;用于联合社区检测和链路预测的考虑模块性的图自动编码器;&lt;/li&gt;
+&lt;li&gt;无向网络上的谱秩单调性;&lt;/li&gt;
+&lt;li&gt;通过比较优势的二模网络理解欧洲一体化;&lt;/li&gt;
+&lt;li&gt;属性丰富的事件驱动图的分层实体对齐;&lt;/li&gt;
+&lt;li&gt;Twitter ISIS 用户的纵向数据集;&lt;/li&gt;
+&lt;li&gt;在 Twitter 上自动检测 Doxing;&lt;/li&gt;
+&lt;li&gt;具有三聚体梯级和次最近邻耦合的伊辛自旋梯。物理和主体模型中的挫败感;&lt;/li&gt;
+&lt;li&gt;多州选民模型中的过滤泡沫效应;&lt;/li&gt;
+&lt;li&gt;流行病梦想：在 COVID-19 大流行期间梦想健康;&lt;/li&gt;
+&lt;li&gt;具有英国和以色列 COVID-19 案例研究的混合隔间模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2022-02-02)</title>
