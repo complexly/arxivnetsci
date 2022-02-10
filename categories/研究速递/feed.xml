@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2022-02-10)</title>
+      <link>https://netsci.complexly.cn/post/20220210/</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220210/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图关系领域适应;&lt;/li&gt;
+&lt;li&gt;具有异质性的简化图卷积;&lt;/li&gt;
+&lt;li&gt;从不完整和嘈杂的数据中自主推断复杂的网络动态;&lt;/li&gt;
+&lt;li&gt;网络空间普遍收集用户数据引发的隐私问题及其应对措施;&lt;/li&gt;
+&lt;li&gt;减少在启用区块链的社交媒体网络上传播的错误信息;&lt;/li&gt;
+&lt;li&gt;用劳力消除劳力：Google Play 商店中的黑暗模式和锁步行为;&lt;/li&gt;
+&lt;li&gt;初始感染规模对网络 SIR 模型的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2022-02-09)</title>
