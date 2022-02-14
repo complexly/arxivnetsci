@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2022-02-14)</title>
+      <link>https://netsci.complexly.cn/post/20220214/</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220214/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;SimGRACE：无需数据增强的图对比学习的简单框架;&lt;/li&gt;
+&lt;li&gt;TwHIN：嵌入 Twitter 异构信息网络以实现个性化推荐;&lt;/li&gt;
+&lt;li&gt;MeLa BitChute 数据集;&lt;/li&gt;
+&lt;li&gt;Covid19 大流行再生数的时间演变：从近端优化到蒙特卡洛采样的估计;&lt;/li&gt;
+&lt;li&gt;zCOSMOS Galaxy 数据集的声化;&lt;/li&gt;
+&lt;li&gt;为政府机构危机沟通设计社交媒体分析仪表板;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2022-02-11)</title>
