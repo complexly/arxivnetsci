@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 14 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2022-02-15)</title>
+      <link>https://netsci.complexly.cn/post/20220215/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220215/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;主动指纹攻击下幂律二分网络的隐私限制;&lt;/li&gt;
+&lt;li&gt;我们能谈谈吗？地方政府环境中性别和网络关系的探索性研究;&lt;/li&gt;
+&lt;li&gt;基于局部优势指数的贪婪扩张网络社区检测;&lt;/li&gt;
+&lt;li&gt;通过基于分层注意力的图神经网络改进欺诈检测;&lt;/li&gt;
+&lt;li&gt;使用基于机器学习的方法在复杂网络中识别重要节点;&lt;/li&gt;
+&lt;li&gt;通过最大化速率降低进行几何图表示学习;&lt;/li&gt;
+&lt;li&gt;通过卷积神经网络学习属性网络的非对称嵌入;&lt;/li&gt;
+&lt;li&gt;无桩共享单车系统尺度律的涌现;&lt;/li&gt;
+&lt;li&gt;复杂网络中信息处理的路径积分方法：信息核心来自熵跃迁;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2022-02-14)</title>
