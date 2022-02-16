@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2022-02-16)</title>
+      <link>https://netsci.complexly.cn/post/20220216/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220216/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;扩大学习范围对无标度网络合作演化的影响;&lt;/li&gt;
+&lt;li&gt;识别大型高速公路网络中高度相关的路段组;&lt;/li&gt;
+&lt;li&gt;在科学合作中量化团队化学;&lt;/li&gt;
+&lt;li&gt;EvoKG：联合建模事件时间和网络结构以在时间知识图上进行推理;&lt;/li&gt;
+&lt;li&gt;CommerceMM：具有全方位检索的大规模商务多模态表示学习;&lt;/li&gt;
+&lt;li&gt;在 2020 年美国选举年，COVID-19 推文情绪的变化趋势与投票偏好有关;&lt;/li&gt;
+&lt;li&gt;Facebook-Cambridge Analytica 数据丑闻后信息隐私问题的地区差异;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2022-02-15)</title>
