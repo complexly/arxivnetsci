@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 16 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2022-02-17)</title>
+      <link>https://netsci.complexly.cn/post/20220217/</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220217/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;进一步理解巨人：量化科学中的知识谱系;&lt;/li&gt;
+&lt;li&gt;图预训练概览：分类、方法和应用;&lt;/li&gt;
+&lt;li&gt;GSN：受弹簧网络启发的通用图神经网络;&lt;/li&gt;
+&lt;li&gt;通过博弈论方法在 Zerkani 网络中排名;&lt;/li&gt;
+&lt;li&gt;CenGCN：用于无标度图的具有顶点不平衡的集中式卷积网络;&lt;/li&gt;
+&lt;li&gt;用于学术网络上可解释推荐的异构图学习;&lt;/li&gt;
+&lt;li&gt;深入理解 Twitter 一贯有毒的 1%;&lt;/li&gt;
+&lt;li&gt;重新审视网络稳健性;&lt;/li&gt;
+&lt;li&gt;多层网络中的可持续最优传输;&lt;/li&gt;
+&lt;li&gt;更好地理解在线影响力：公司和影响者之间的 Twitter 沟通差异;&lt;/li&gt;
+&lt;li&gt;通过强化学习进行域自适应假新闻检测;&lt;/li&gt;
+&lt;li&gt;超越 COVID-19 大流行：疫苗接种策略的拓扑感知优化，以最大限度地减少病毒传播;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2022-02-16)</title>

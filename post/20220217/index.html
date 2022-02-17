@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要12篇(2022-02-17) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+进一步理解巨人：量化科学中的知识谱系;
+图预训练概览：分类、方法和应用;
+GSN：受弹簧网络启发的通用图神经网络;
+通过博弈论方法在 Zerkani 网络中排名;
+CenGCN：用于无标度图的具有顶点不平衡的集中式卷积网络;
+用于学术网络上可解释推荐的异构图学习;
+深入理解 Twitter 一贯有毒的 1%;
+重新审视网络稳健性;
+多层网络中的可持续最优传输;
+更好地理解在线影响力：公司和影响者之间的 Twitter 沟通差异;
+通过强化学习进行域自适应假新闻检测;
+超越 COVID-19 大流行：疫苗接种策略的拓扑感知优化，以最大限度地减少病毒传播;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要12篇(2022-02-17) - 网络科学研究速递">
+<meta itemprop="description" content="
+进一步理解巨人：量化科学中的知识谱系;
+图预训练概览：分类、方法和应用;
+GSN：受弹簧网络启发的通用图神经网络;
+通过博弈论方法在 Zerkani 网络中排名;
+CenGCN：用于无标度图的具有顶点不平衡的集中式卷积网络;
+用于学术网络上可解释推荐的异构图学习;
+深入理解 Twitter 一贯有毒的 1%;
+重新审视网络稳健性;
+多层网络中的可持续最优传输;
+更好地理解在线影响力：公司和影响者之间的 Twitter 沟通差异;
+通过强化学习进行域自适应假新闻检测;
+超越 COVID-19 大流行：疫苗接种策略的拓扑感知优化，以最大限度地减少病毒传播;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要12篇(2022-02-17) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220217/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+进一步理解巨人：量化科学中的知识谱系;
+图预训练概览：分类、方法和应用;
+GSN：受弹簧网络启发的通用图神经网络;
+通过博弈论方法在 Zerkani 网络中排名;
+CenGCN：用于无标度图的具有顶点不平衡的集中式卷积网络;
+用于学术网络上可解释推荐的异构图学习;
+深入理解 Twitter 一贯有毒的 1%;
+重新审视网络稳健性;
+多层网络中的可持续最优传输;
+更好地理解在线影响力：公司和影响者之间的 Twitter 沟通差异;
+通过强化学习进行域自适应假新闻检测;
+超越 COVID-19 大流行：疫苗接种策略的拓扑感知优化，以最大限度地减少病毒传播;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220217/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220217/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要12篇(2022-02-17)</h1>
+
+                  <p class="post-byline">
+                    2022年02月17日 · 4620 字 ·
+                    阅读时间约10分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>进一步理解巨人：量化科学中的知识谱系;</li>
+<li>图预训练概览：分类、方法和应用;</li>
+<li>GSN：受弹簧网络启发的通用图神经网络;</li>
+<li>通过博弈论方法在 Zerkani 网络中排名;</li>
+<li>CenGCN：用于无标度图的具有顶点不平衡的集中式卷积网络;</li>
+<li>用于学术网络上可解释推荐的异构图学习;</li>
+<li>深入理解 Twitter 一贯有毒的 1%;</li>
+<li>重新审视网络稳健性;</li>
+<li>多层网络中的可持续最优传输;</li>
+<li>更好地理解在线影响力：公司和影响者之间的 Twitter 沟通差异;</li>
+<li>通过强化学习进行域自适应假新闻检测;</li>
+<li>超越 COVID-19 大流行：疫苗接种策略的拓扑感知优化，以最大限度地减少病毒传播;</li>
+</ul>
+
+<p></p>
+
+<h3 id="进一步理解巨人-量化科学中的知识谱系">进一步理解巨人：量化科学中的知识谱系</h3>
+
+<p>原文标题： See further upon the giants: Quantifying intellectual lineage in science</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.07862">http://arxiv.org/abs/2202.07862</a></p>
+
+<p>作者： Woo Seong Jo, Lu Liu, Dashun Wang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.07862v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 牛顿数百年来站在巨人肩膀上的智慧提出了一个关键但未被充分探索的问题：在一个发现引用的所有先前著作中，哪一个是它的巨人？在这里，我们开发了一种新颖的、独立于学科的方法来识别任何单篇论文的巨人，使我们能够系统地检查巨人在科学中的作用和特征。我们发现，跨学科，大约 95% 的论文站在巨人的肩膀上，而科学进步的重量却落在了相对较少的肩膀上。定义巨人指数的新衡量标准，我们发现，虽然被引次数高的论文更有可能成为巨人，但对于被引次数相同的论文，他们的巨人指数可以敏锐地预测一篇论文的未来影响力和获奖概率。巨人往往来自小型和大型团队，要么具有高度破坏性，要么具有高度发展性。没有巨人但后来成为巨人的论文往往是对科学具有高度破坏性的本垒打论文。鉴于基于引用的测量在科学中的至关重要性，发达的巨人概念可能会为评估科学影响提供一个有用的新维度，而不仅仅是引用计数。</p>
+
+<h3 id="图预训练概览-分类-方法和应用">图预训练概览：分类、方法和应用</h3>
+
+<p>原文标题： A Survey of Pretraining on Graphs: Taxonomy, Methods, and Applications</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.07893">http://arxiv.org/abs/2202.07893</a></p>
+
+<p>作者： Jun Xia, Yanqiao Zhu, Yuanqi Du, Stan Z. Li</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.07893v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： BERT 等预训练语言模型 (PLM) 彻底改变了自然语言处理 (NLP) 的格局。受其扩散的启发，人们对预训练图模型 (PGM) 做出了巨大努力。由于 PGM 强大的模型架构，可以从大量标记和未标记的图数据中获取丰富的知识。隐式编码在模型参数中的知识可以使各种下游任务受益，并有助于缓解图学习的几个基本问​​题。在本文中，我们对 PGM 进行了第一次全面调查。我们首先介绍了图表示学习的局限性，从而介绍了图预训练的动机。然后，我们根据分类从四个不同的角度系统地对现有的 PGM 进行分类。接下来，我们介绍 PGM 在社会推荐和药物发现中的应用。最后，我们概述了几个有前途的研究方向，可以作为未来研究的指南。</p>
+
+<h3 id="gsn-受弹簧网络启发的通用图神经网络">GSN：受弹簧网络启发的通用图神经网络</h3>
+
+<p>原文标题： GSN: A Universal Graph Neural Network Inspired by Spring Network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.12994">http://arxiv.org/abs/2201.12994</a></p>
+
+<p>作者： Guanyu Cui, Zhewei Wei</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2201.12994v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 近年来，在同质图和异质图上运行的通用图神经网络（GNN）的设计受到越来越多的研究关注。现有的异类 GNN，尤其是那些在空间域中设计的 GNN，缺乏令人信服的理论或物理动机。在本文中，我们提出了 Graph Spring Network (GSN)，这是一种通用的 GNN 模型，适用于同质图和异质图，受弹簧网络和度量学习的启发。我们表明，GSN 框架从弹簧势能最小化的角度用各种指标解释了许多现有的 GNN 模型，这为这些模型提供了强大的物理动机。我们还进行了广泛的实验，以证明我们的 GSN 框架在现实世界的同质和异质数据集上的卓越性能。</p>
+
+<h3 id="通过博弈论方法在-zerkani-网络中排名">通过博弈论方法在 Zerkani 网络中排名</h3>
+
+<p>原文标题： Rankings in the Zerkani network by a game theoretical approach</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.07730">http://arxiv.org/abs/2202.07730</a></p>
+
+<p>作者： Encarnación Algaba, Andrea Prieto, Alejandro Saavedra-Nieves</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.07730v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本文介绍了 Banzhaf 和 Banzhaf-Owen 值作为在网络中对恐怖分子进行排名的新颖中心性度量。这种新方法可以集成网络的完整拓扑（即节点和边）和网络节点上的联盟结构。更准确地说，网络节点的特征（例如，恐怖分子）及其可能的关系（例如，通信链接的类型），以及独立于网络的联盟信息（例如层次结构的级别）。首先，对于这两种中心性度量，我们提供了近似算法和相应的 R 码。其次，作为说明，我们对负责巴黎（2015 年）和布鲁塞尔（2016 年）袭击的 Zerkani 网络成员进行了排名。最后，我们将 Banzhaf 和 Banzhaf-Owen 建立的排名与使用 Shapley 值（参见 Hamers 等人，2019）和 Owen 值作为中心度度量时获得的排名进行比较</p>
+
+<h3 id="cengcn-用于无标度图的具有顶点不平衡的集中式卷积网络">CenGCN：用于无标度图的具有顶点不平衡的集中式卷积网络</h3>
+
+<p>原文标题： CenGCN: Centralized Convolutional Networks with Vertex Imbalance for Scale-Free Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.07826">http://arxiv.org/abs/2202.07826</a></p>
+
+<p>作者： Feng Xia, Lei Wang, Tao Tang, Xin Chen, Xiangjie Kong, Giles Oatley, Irwin King</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.07826v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 图卷积网络（GCN）在各个领域都取得了令人瞩目的表现，引起了相当大的关注。 GCN 的核心步骤是信息传递框架，它认为从邻居到中心顶点的所有信息都同等重要。然而，这种同等重要性对于无标度网络来说是不够的，在无标度网络中，由于顶点不平衡，中心顶点传播更多的主导信息。在本文中，我们提出了一个名为 CenGCN 的新的基于中心性的框架来解决信息的不平等问题。该框架首先通过与中心顶点的标签传播来量化中心顶点与其邻居之间的相似性。基于这种相似性和中心性指标，该框架通过增加或减少连接中心顶点的边的权重以及向顶点添加自连接来转换图。在 GCN 的每个非输出层中，该框架使用集线器注意力机制根据与集线器顶点的共同信息为连接的非集线器顶点分配新的权重。我们分别基于度中心性和特征向量中心性提出了两个变体 CenGCN_D 和 CenGCN_E。我们还进行了综合实验，包括顶点分类、链路预测、顶点聚类和网络可视化。结果表明，这两个变体明显优于最先进的基线。</p>
+
+<h3 id="用于学术网络上可解释推荐的异构图学习">用于学术网络上可解释推荐的异构图学习</h3>
+
+<p>原文标题： Heterogeneous Graph Learning for Explainable Recommendation over Academic Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.07832">http://arxiv.org/abs/2202.07832</a></p>
+
+<p>作者： Xiangtai Chen, Tao Tang, Jing Ren, Ivan Lee, Honglong Chen, Feng Xia</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.07832v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 随着每年具有研究学位的应届毕业生的爆炸式增长，对于处于早期职业生涯的研究人员来说，在合适的机构找到工作带来了前所未有的挑战。本研究旨在理解学术工作转变的行为，从而为博士毕业生推荐合适的机构。具体来说，我们设计了一个深度学习模型来预测早期研究人员的职业变化并提供建议。该设计建立在学术/学术网络之上，其中包含有关学者和机构之间科学合作的丰富信息。我们构建了一个异构的学术网络，以促进对学者职业变动行为的探索和机构的推荐。我们设计了一种称为 HAI（异构图注意力 InfoMax）的无监督学习模型，该模型聚合了注意力机制和互信息用于机构推荐。此外，我们提出了学者关注和元路径关注来发现几个元路径之间的隐藏关系。通过这些机制，HAI 提供了可解释的有序建议。我们根据基线方法在真实数据集上评估 HAI。实验结果验证了我们方法的有效性和效率。</p>
+
+<h3 id="深入理解-twitter-一贯有毒的-1">深入理解 Twitter 一贯有毒的 1%</h3>
+
+<p>原文标题： A deep dive into the consistently toxic 1% of Twitter</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.07853">http://arxiv.org/abs/2202.07853</a></p>
+
+<p>作者： Hina Qayyum, Benjamin Zi Hao Zhao, Ian D. Wood, Muhammad Ikram, Mohamed Ali Kaafar, Nicolas Kourtellis</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.07853v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在线社会网络 (OSN) 中的不当行为是一种日益严重的现象。迄今为止的研究往往侧重于部署机器学习来识别和分类不当行为的类型，例如欺凌、攻击和种族主义等等。识别的主要目标是遏制自然和机械的不当行为，并使 OSN 成为更安全的社交场所。除了过去的工作之外，我们对大量 Twitter 个人资料进行了纵向研究，这使我们能够根据他们发布剧毒内容的一致性来描述个人资料。我们的数据跨越了 14 年的推文，来自 122K 条 Twitter 个人资料和超过 2.93 亿条推文。从这些数据中，我们选择了毒性内容一致性方面最极端的配置文件，并检查了他们的推文文本，以及他们共享的域、主题标签和 URL。我们发现，这些选定的个人资料保持一个狭窄的主题，主题标签、URL 和域的多样性较低，它们在主题上彼此相似（以一种协调的方式，如果不是通过意图），并且很可能类似于机器人行为（可能有意图影响的祖先）。我们的工作为研究社区提供了一个实质性和纵向的在线不当行为数据集，并在探索不当行为作为影响 OSN 操作的潜在附件时，将配置文件的有毒行为的一致性作为一个有用的因素。</p>
+
+<h3 id="重新审视网络稳健性">重新审视网络稳健性</h3>
+
+<p>原文标题： Network Robustness Revisited</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.07911">http://arxiv.org/abs/2202.07911</a></p>
+
+<p>作者： Thilo Gross, Laura Barth</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.07911v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 复杂网络的鲁棒性是网络科学诞生后最早研究的现象之一。然而，该理论的许多当代介绍并没有超出原始论文的范围。在这里，我们重新审视这个主题，目的是提供一个深刻但具有指导意义的介绍。我们特别注意计算通常被忽略的巨型组件尺寸的一些复杂性。按照直观的程序，我们推导出简单的公式来捕捉常见攻击场景对任意（配置模型）网络的影响。我们希望这个温和但有数学基础的介绍将帮助新的研究人员发现这个美丽的网络科学领域。</p>
+
+<h3 id="多层网络中的可持续最优传输">多层网络中的可持续最优传输</h3>
+
+<p>原文标题： Sustainable optimal transport in multilayer networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.07933">http://arxiv.org/abs/2202.07933</a></p>
+
+<p>作者： Abdullahi Ibrahim, Daniela Leite, Caterina De Bacco</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.07933v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 交通拥堵是交通行业面临的主要挑战之一。虽然这个问题带来了高昂的经济和环境成本，但在多层网络基础设施中为乘客设计的最佳路径的高效设计势在必行。我们考虑了一种基于最优交通理论的方法，以优先沿比道路碳效率更高的层为乘客安排路线，例如铁轨。通过分析这种选择对性能的影响，我们发现与最短路径最小化相比，这种方法大大减少了碳排放。同样，我们发现这种方法可以更均匀地分配流量，从而减轻交通拥堵的风险。我们的结果揭示了在最优传输理论指导下跨层灵活分配流量的影响。</p>
+
+<h3 id="更好地理解在线影响力-公司和影响者之间的-twitter-沟通差异">更好地理解在线影响力：公司和影响者之间的 Twitter 沟通差异</h3>
+
+<p>原文标题： Towards a Better Understanding of Online Influence: Differences in Twitter CommunicationBetween Companies and Influencers</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.07986">http://arxiv.org/abs/2202.07986</a></p>
+
+<p>作者： Diana C. Hernandez-Bocanegra, Angela Borchert, Felix Brünker, Gautam Kishore Shahi, Björn Ross</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.07986v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在过去十年中，Twitter 等社交媒体平台在公司的各种营销策略中变得越来越重要。这项工作旨在通过在社会影响理论的背景下调查推文的特征及其维度即时性，在文本层面检查有影响力的内容的存在。为此，我们使用情绪分析和度中心性等社交媒体分析方法分析了 2018 年黑色星期五期间有影响力的 Twitter 通信数据。结果显示，公司和影响者之间的沟通方式存在显著差异。与影响者相比，公司发布了更长的文本内容，并创建了更多带有积极情绪的推文和更多的第一人称代词。这些发现将作为未来实验研究的基础，以检验文本存在对消费者认知和购买意愿的影响。</p>
+
+<h3 id="通过强化学习进行域自适应假新闻检测">通过强化学习进行域自适应假新闻检测</h3>
+
+<p>原文标题： Domain Adaptive Fake News Detection via Reinforcement Learning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.08159">http://arxiv.org/abs/2202.08159</a></p>
+
+<p>作者： Ahmadreza Mosallanezhad, Mansooreh Karami, Kai Shu, Michelle V. Mancenido, Huan Liu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.08159v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 随着社交媒体成为信息消费的主要力量，假新闻的加速传播给平台区分合法和假新闻带来了新的挑战。由于新闻领域的多样性和昂贵的注释成本，有效的假新闻检测是一项不平凡的任务。在这项工作中，我们通过将辅助信息（例如，用户评论和用户与新闻交互）结合到一个名为 textbfREinforced textbfA 的新型基于强化学习的模型中来解决现有自动假新闻检测模型的局限性。 daptive textbfLearning textbfFake textbfNews textbfDetection (REAL-FND)。 REAL-FND 利用跨域和域内知识，使其在目标域中具有鲁棒性，尽管是在不同的源域中训练的。对真实世界数据集的广泛实验说明了所提出模型的有效性，特别是当目标域中可用的标记数据有限时。</p>
+
+<h3 id="超越-covid-19-大流行-疫苗接种策略的拓扑感知优化-以最大限度地减少病毒传播">超越 COVID-19 大流行：疫苗接种策略的拓扑感知优化，以最大限度地减少病毒传播</h3>
+
+<p>原文标题： Beyond COVID-19 Pandemic: Topology-aware optimisation of vaccination strategy for minimising virus spreading</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.08229">http://arxiv.org/abs/2202.08229</a></p>
+
+<p>作者： Francesco Petrizzelli, Pietro Hiram Guzzi, Tommaso Mazza</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.08229v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 传染病传播的减缓最近引起了研究界的极大关注。它可以通过采用卫生测量社会规则以及广泛的疫苗接种运动来获得。疫苗接种是目前缓解冠状病毒病 (COVID-19) 爆发的主要方法，无需严格封锁。其有效性还取决于主管部门的数量和及时性，因此需要严格的优先级标准。几乎所有国家都优先考虑获得类似类别的暴露工人，以最大限度地提高患者的生存率和挽救生命的年限。传染病传播的减缓最近引起了研究界的极大关注。它可以通过采取卫生措施、社会规则以及广泛的疫苗接种运动来获得。疫苗接种是目前缓解冠状病毒病 (COVID-19) 爆发的主要方法，无需严格封锁。其有效性还取决于主管部门的数量和及时性，因此需要严格的优先级标准。几乎所有国家都优先考虑了类似类别的暴露工人：医疗保健专业人员和老年人，以最大限度地提高患者的生存率和挽救生命的年限。尽管如此，该病毒目前正在高速传播，迄今为止采用的任何优先级标准都没有考虑到联系网络的结构组织。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220217/">https://netsci.complexly.cn/post/20220217/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20220216/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要7篇(2022-02-16)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
