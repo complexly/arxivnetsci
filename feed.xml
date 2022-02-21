@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 18 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要3篇(2022-02-21)</title>
+      <link>https://netsci.complexly.cn/post/20220221/</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220221/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于样本的网络推断和影响力最大化;&lt;/li&gt;
+&lt;li&gt;通过邻域 Wasserstein 重建的图自动编码器;&lt;/li&gt;
+&lt;li&gt;使用 XGBoost 和概率混合模型模拟用户级 Twitter 活动;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2022-02-18)</title>
