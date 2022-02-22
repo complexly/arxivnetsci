@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 21 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2022-02-22)</title>
+      <link>https://netsci.complexly.cn/post/20220222/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220222/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;一种用于重排序邻接矩阵的深度生成模型;&lt;/li&gt;
+&lt;li&gt;剖析LFR 参数空间中节点聚类的图度量表现;&lt;/li&gt;
+&lt;li&gt;拆解复杂互联系统中的信息流;&lt;/li&gt;
+&lt;li&gt;识别 Twitter 话语中针对 COVID-19 疫苗的错误信息的采用或拒绝;&lt;/li&gt;
+&lt;li&gt;VaccineLies：一种自然语言资源，用于学习识别有关 COVID-19 和 HPV 疫苗的错误信息;&lt;/li&gt;
+&lt;li&gt;从犹豫框架到疫苗犹豫概况：立场、本体论承诺和道德基础之旅;&lt;/li&gt;
+&lt;li&gt;乘车服务是否会应对计划外的铁路中断？移动弹性和差异的自然实验分析;&lt;/li&gt;
+&lt;li&gt;对抗性文本扰动的数据驱动缓解;&lt;/li&gt;
+&lt;li&gt;网络平台与同质化下的公平曝光问题;&lt;/li&gt;
+&lt;li&gt;PGE：用于错误检测的稳健产品图嵌入学习;&lt;/li&gt;
+&lt;li&gt;由于有益而昂贵的传染而导致的社会性社会困境;&lt;/li&gt;
+&lt;li&gt;非马尔可夫流行病模型的动态生存分析;&lt;/li&gt;
+&lt;li&gt;EINNs：流行病学信息神经网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2022-02-21)</title>
