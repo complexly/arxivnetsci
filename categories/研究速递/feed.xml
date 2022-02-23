@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2022-02-23)</title>
+      <link>https://netsci.complexly.cn/post/20220223/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220223/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图信号处理中的局部分布;&lt;/li&gt;
+&lt;li&gt;具有循环的关系因果模型：表示和推理;&lt;/li&gt;
+&lt;li&gt;PyTorch Geometric Signed Directed: 符号和有向图的图神经网络综述及软件;&lt;/li&gt;
+&lt;li&gt;从基于主体的模型到假新闻传播的宏观描述：能力在数据驱动应用中的作用;&lt;/li&gt;
+&lt;li&gt;选择边化，社交媒体上一种新型的反移民话语？使用 BERT 对有关移民的社交媒体消息进行分类;&lt;/li&gt;
+&lt;li&gt;在 COVID-19 大流行的头两年评估法国疫苗批评者的影响;&lt;/li&gt;
+&lt;li&gt;使用广义相似性度量的空间热风险评估框架;&lt;/li&gt;
+&lt;li&gt;利用二部图评估职业相似性;&lt;/li&gt;
+&lt;li&gt;消息一路向上;&lt;/li&gt;
+&lt;li&gt;分析 COVID-19 大流行锁定期间的安全和隐私威胁：Twitter 数据集案例研究;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2022-02-22)</title>
