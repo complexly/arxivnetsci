@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2022-02-24)</title>
+      <link>https://netsci.complexly.cn/post/20220224/</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220224/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;随机游走的网络社区检测和聚类;&lt;/li&gt;
+&lt;li&gt;探索节点分类的边解耦;&lt;/li&gt;
+&lt;li&gt;使用随机游走学习复杂网络的暴露理论;&lt;/li&gt;
+&lt;li&gt;学者网络：学者知识图谱;&lt;/li&gt;
+&lt;li&gt;用于异常引文检测的深度图学习;&lt;/li&gt;
+&lt;li&gt;档案数据中关系发现的探索性方法;&lt;/li&gt;
+&lt;li&gt;COVID-19 响应中的数据驱动决策：一项调查;&lt;/li&gt;
+&lt;li&gt;在复杂网络中利用目标搜索的意想不到的优势;&lt;/li&gt;
+&lt;li&gt;多策略更新规则下无标度社区网络公共品博弈合作演化;&lt;/li&gt;
+&lt;li&gt;流动性和 SARS-CoV-2 在比利时的空间异质传播;&lt;/li&gt;
+&lt;li&gt;时间网络上基于交互的传染模型表明，降低时间网络密度会降低总感染率;&lt;/li&gt;
+&lt;li&gt;离群成员离开时如何优化学术团队？;&lt;/li&gt;
+&lt;li&gt;唤醒城市：手机网络数据中的昼夜节律痕迹;&lt;/li&gt;
+&lt;li&gt;MuMiN：大规模多语言多模式事实检查的错误信息社会网络数据集;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2022-02-23)</title>
