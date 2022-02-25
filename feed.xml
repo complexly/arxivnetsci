@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 24 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2022-02-25)</title>
+      <link>https://netsci.complexly.cn/post/20220225/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220225/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;不同规模联盟之间的竞争;&lt;/li&gt;
+&lt;li&gt;有向图中的边聚类;&lt;/li&gt;
+&lt;li&gt;基于符号图的精确社区恢复;&lt;/li&gt;
+&lt;li&gt;理解用户想要什么的挑战：不一致的偏好和参与优化;&lt;/li&gt;
+&lt;li&gt;在哥伦比亚、厄瓜多尔和萨尔瓦多的 COVID-19 大流行期间采用非药物干预措施和数字基础设施的作用;&lt;/li&gt;
+&lt;li&gt;疫苗接种、预期寿命和信任：全球 COVID-19 疫苗接种率的模式;&lt;/li&gt;
+&lt;li&gt;基于主体的 SPAHR 阿片类药物模型在社会网络结构上的动态;&lt;/li&gt;
+&lt;li&gt;通过人类流动数据理解 COVID-19 大流行对交通相关行为的影响;&lt;/li&gt;
+&lt;li&gt;李克特式调查的网络分析方法;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2022-02-24)</title>
