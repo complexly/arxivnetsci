@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2022-02-28)</title>
+      <link>https://netsci.complexly.cn/post/20220228/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220228/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;接触者追踪网络中的流行病源检测：图和消息传递算法中的流行病中心性;&lt;/li&gt;
+&lt;li&gt;HTGN-BTW：用于时间链路预测的具有双时间窗口训练策略的异构含时图网络;&lt;/li&gt;
+&lt;li&gt;城市劳动力网络的动态弹性;&lt;/li&gt;
+&lt;li&gt;从网络和功能数据分析的角度进行风险投资;&lt;/li&gt;
+&lt;li&gt;使用无监督深度学习对社交媒体上的政治倾向进行细粒度预测;&lt;/li&gt;
+&lt;li&gt;使用标签细化从社交媒体话语构建大规模错误信息标签数据集;&lt;/li&gt;
+&lt;li&gt;飓风疏散期间全网动态交通预测的深度学习方法;&lt;/li&gt;
+&lt;li&gt;量子计算的新兴商业格局;&lt;/li&gt;
+&lt;li&gt;超图中的核心-边缘检测;&lt;/li&gt;
+&lt;li&gt;有向超图上的动态系统;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2022-02-25)</title>
