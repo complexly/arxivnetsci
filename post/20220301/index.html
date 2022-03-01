@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要15篇(2022-03-01) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+OCSM：寻找具有最小度的重叠内聚子图;
+超图上阈值模型的动力学;
+用于识别科学文献中新兴主题的文献计量水平扫描方法;
+在线交互平台中的稀疏感知神经用户行为建模;
+一种新的 BAT 和 PageRank 算法，用于社会网络中的传播概率;
+网络拓扑对流行病爆发中感染峰值数量影响的有效随机模拟;
+流行病中的超级传播和异质性;
+黄金圈：在内容审核中建立社会技术一致性;
+随机重置下税收动态对线性增长过程的影响：一种可能的经济模型;
+垃圾箱选址问题：城市固体废物逆向物流链存储阶段的新进展回顾;
+简单的机制支配着排球的动力学;
+1930 年至 2018 年美国地方级城乡指数;
+城市系统的优势树方法;
+回顾本地和综合能源系统模型：洞察灵活性和稳健性挑战;
+母亲和父亲如何向不同的观众谈论育儿？：刻板印象和观众效应：使用主题建模分析 r/Daddit、r/Mommit 和 r/Parenting;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要15篇(2022-03-01) - 网络科学研究速递">
+<meta itemprop="description" content="
+OCSM：寻找具有最小度的重叠内聚子图;
+超图上阈值模型的动力学;
+用于识别科学文献中新兴主题的文献计量水平扫描方法;
+在线交互平台中的稀疏感知神经用户行为建模;
+一种新的 BAT 和 PageRank 算法，用于社会网络中的传播概率;
+网络拓扑对流行病爆发中感染峰值数量影响的有效随机模拟;
+流行病中的超级传播和异质性;
+黄金圈：在内容审核中建立社会技术一致性;
+随机重置下税收动态对线性增长过程的影响：一种可能的经济模型;
+垃圾箱选址问题：城市固体废物逆向物流链存储阶段的新进展回顾;
+简单的机制支配着排球的动力学;
+1930 年至 2018 年美国地方级城乡指数;
+城市系统的优势树方法;
+回顾本地和综合能源系统模型：洞察灵活性和稳健性挑战;
+母亲和父亲如何向不同的观众谈论育儿？：刻板印象和观众效应：使用主题建模分析 r/Daddit、r/Mommit 和 r/Parenting;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要15篇(2022-03-01) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220301/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+OCSM：寻找具有最小度的重叠内聚子图;
+超图上阈值模型的动力学;
+用于识别科学文献中新兴主题的文献计量水平扫描方法;
+在线交互平台中的稀疏感知神经用户行为建模;
+一种新的 BAT 和 PageRank 算法，用于社会网络中的传播概率;
+网络拓扑对流行病爆发中感染峰值数量影响的有效随机模拟;
+流行病中的超级传播和异质性;
+黄金圈：在内容审核中建立社会技术一致性;
+随机重置下税收动态对线性增长过程的影响：一种可能的经济模型;
+垃圾箱选址问题：城市固体废物逆向物流链存储阶段的新进展回顾;
+简单的机制支配着排球的动力学;
+1930 年至 2018 年美国地方级城乡指数;
+城市系统的优势树方法;
+回顾本地和综合能源系统模型：洞察灵活性和稳健性挑战;
+母亲和父亲如何向不同的观众谈论育儿？：刻板印象和观众效应：使用主题建模分析 r/Daddit、r/Mommit 和 r/Parenting;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220301/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220301/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要15篇(2022-03-01)</h1>
+
+                  <p class="post-byline">
+                    2022年03月01日 · 6239 字 ·
+                    阅读时间约13分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>OCSM：寻找具有最小度的重叠内聚子图;</li>
+<li>超图上阈值模型的动力学;</li>
+<li>用于识别科学文献中新兴主题的文献计量水平扫描方法;</li>
+<li>在线交互平台中的稀疏感知神经用户行为建模;</li>
+<li>一种新的 BAT 和 PageRank 算法，用于社会网络中的传播概率;</li>
+<li>网络拓扑对流行病爆发中感染峰值数量影响的有效随机模拟;</li>
+<li>流行病中的超级传播和异质性;</li>
+<li>黄金圈：在内容审核中建立社会技术一致性;</li>
+<li>随机重置下税收动态对线性增长过程的影响：一种可能的经济模型;</li>
+<li>垃圾箱选址问题：城市固体废物逆向物流链存储阶段的新进展回顾;</li>
+<li>简单的机制支配着排球的动力学;</li>
+<li>1930 年至 2018 年美国地方级城乡指数;</li>
+<li>城市系统的优势树方法;</li>
+<li>回顾本地和综合能源系统模型：洞察灵活性和稳健性挑战;</li>
+<li>母亲和父亲如何向不同的观众谈论育儿？：刻板印象和观众效应：使用主题建模分析 r/Daddit、r/Mommit 和 r/Parenting;</li>
+</ul>
+
+<p></p>
+
+<h3 id="ocsm-寻找具有最小度的重叠内聚子图">OCSM：寻找具有最小度的重叠内聚子图</h3>
+
+<p>原文标题： OCSM : Finding Overlapping Cohesive Subgraphs with Minimum Degree</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.03255">http://arxiv.org/abs/2202.03255</a></p>
+
+<p>作者： Junghoon Kim, Sungsu Lim, Jungeun Kim</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.03255v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 网络中的内聚子图发现是基本问题之一，并且已经研究了几十年。在本文中，我们提出了具有最小度的重叠内聚子图（OCSM）问题，它结合了 OCSM 的三个关键概念：（i）基于边的重叠，（ii）最小度约束，以及（iii）图密度。据我们所知，这是第一个通过结合图密度来识别具有最小程度的重叠内聚子图的工作。由于 OCSM 问题是 NP-hard，我们提出了两种算法：高级剥离算法和基于种子的扩展算法。最后，我们展示了现实世界网络的实验研究，以证明我们提出的算法的有效性和效率。</p>
+
+<h3 id="超图上阈值模型的动力学">超图上阈值模型的动力学</h3>
+
+<p>原文标题： Dynamics of the threshold model on hypergraphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13029">http://arxiv.org/abs/2202.13029</a></p>
+
+<p>作者： Xin-Jian Xu, Shuang He, Li-Jie Zhang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13029v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 阈值模型已被广泛用作研究社会网络上传染过程的原型。在本文中，我们考虑三个或更多顶点组中的个体交互，并研究超图上的阈值模型。为了理解高阶交互如何影响系统的崩溃，我们开发了一个基于生成函数技术的理论框架来推导级联条件和脆弱顶点的巨型分量，它们依赖于超边和超度。首先，我们发现超边在传播中的双重作用：当平均超度较小时，增加超边的大小可能会使系统变得脆弱，而平均超度较大时，超边的增加会使系统变得脆弱。强壮的。然后，我们确定阈值、超度和超边异质性的影响。个体阈值的异质性导致系统更加脆弱，而个体超度或超边的异质性增加了系统的鲁棒性。最后，我们证明了一个顶点的超度越高，它被激活的可能性越大，速度越快。我们通过在随机超图模型和根据经验数据构建的超图上模拟 meme 传播来验证这些结果。</p>
+
+<h3 id="用于识别科学文献中新兴主题的文献计量水平扫描方法">用于识别科学文献中新兴主题的文献计量水平扫描方法</h3>
+
+<p>原文标题： A Bibliometric Horizon Scanning Methodology for Identifying Emerging Topics in the Scientific Literature</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13480">http://arxiv.org/abs/2202.13480</a></p>
+
+<p>作者： Artjay Javier, Beth Masimore, John Chase, F.G. Serpa, John T. Rigsby, Avory Bryant, Jeffrey Solka, Ryan J. Zelnio</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13480v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 描述了一种用于扫描新兴科学和技术领域的文献计量方法，其中科学、技术和创新企业中的主题是使用潜在狄利克雷分配发现的，它们的增长率使用一阶速率动力学建模，以及各个实体的研究专业化这些主题是使用位置商来衡量的。开发了多个交互式可视化界面，将这些结果集成在一起以帮助人类分析师。通过分析过去五年的出版物、专利和授权（约 1400 万份文件）证明了这种方法，例如，机器视觉的深度学习是增长最快的领域，中国在这方面的关注度高于美国这片区域。</p>
+
+<h3 id="在线交互平台中的稀疏感知神经用户行为建模">在线交互平台中的稀疏感知神经用户行为建模</h3>
+
+<p>原文标题： Sparsity-aware neural user behavior modeling in online interaction platforms</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13491">http://arxiv.org/abs/2202.13491</a></p>
+
+<p>作者： Aravind Sankar</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13491v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 现代在线平台为用户提供了参与各种内容创作、社会网络和购物活动的机会。随着此类在线服务的迅速普及，学习数据驱动的用户行为模型对于实现个性化用户体验是必不可少的。最近，表示学习已经成为一种有效的用户建模策略，由经过大量交互数据训练的神经网络提供支持。尽管它们具有巨大的潜力，但我们遇到了绝大多数实体的数据稀疏性的独特挑战，例如，实体的真实标签和实体级交互（冷启动用户、长尾项目和临时组）。在本论文中，我们为用户行为建模开发了可通用的神经表示学习框架，旨在解决跨应用程序的不同稀疏性挑战。我们的问题设置涵盖了转导和归纳学习场景，其中转导学习对训练期间看到的实体建模，而归纳学习针对仅在推理期间观察到的实体。我们利用反映用户行为的不同方面的信息（例如，社会网络中的互连性、时间和属性交互信息）来实现大规模的个性化推理。我们提出的模型与神经架构选择的并发进步相辅相成，并适应在线平台中新应用程序的快速添加。</p>
+
+<h3 id="一种新的-bat-和-pagerank-算法-用于社会网络中的传播概率">一种新的 BAT 和 PageRank 算法，用于社会网络中的传播概率</h3>
+
+<p>原文标题： A New BAT and PageRank algorithm for Propagation Probability in Social Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13033">http://arxiv.org/abs/2202.13033</a></p>
+
+<p>作者： WC Yeh, CL Huang, TY Hsu, Z Liu, SY Tan</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13033v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 社会网络在现代变得越来越重要和流行。此外，社会网络的影响在包括政府组织、学术研究或企业组织在内的各种组织中发挥着至关重要的作用。因此，如何在社会网络中制定最优传播策略也变得更加重要。通过提高对社会网络传播概率的评估精度，可以间接影响信息传播的成本、人力和时间的投入，以达到最佳回报。本研究提出了一种新的算法，包括无标度网络、Barabasi-Albert 模型、Binary-Addition-Tree (BAT) 算法、PageRank 算法、个性化 PageRank 算法和一种新的 BAT 算法，用于计算社会网络中的传播概率。 .社会网络模型的仿真实验结果表明，所研究的模型和所提出的算法为提高社会网络中信息传播的效率提供了一种有效的方法。这样，以最小的投资达到最大的传播效率。</p>
+
+<h3 id="网络拓扑对流行病爆发中感染峰值数量影响的有效随机模拟">网络拓扑对流行病爆发中感染峰值数量影响的有效随机模拟</h3>
+
+<p>原文标题： Efficient Stochastic Simulation of Network Topology Effects on the Peak Number of Infections in Epidemic Outbreaks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13325">http://arxiv.org/abs/2202.13325</a></p>
+
+<p>作者： Yulian Kuryliak, Michael Emmerich, Dmytro Dosyn</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13325v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本文研究了接触网络结构对疫情爆发动态的影响。特别是，我们关注严重感染节点 (PCIN) 的峰值数量，确定应该保持低水平的重症监护病房的最大工作量。作为一种模型和仿真方法，我们开发了一个基于 Gillespie 随机仿真算法 (SSA) 的连续时间马尔可夫链 (CTMC) 模型和高效仿真。这种方法结合了随机过程的现实近似，不依赖于平均场模型的假设和微分方程模型中的大渐近大人口规模，同时也是模拟中等规模网络的有效方法。根据来自 COVID-19 爆发的数据和来自乌克兰的人口统计数据，针对不同的情景分析了该方法。从这些结果中，我们提取了需要考虑有效减少感染峰值数量的网络拓扑特征。 CTMC 模拟在 python 中实现并集成在可用于交互式探索的仪表板中，并且它是公开可用的。</p>
+
+<h3 id="流行病中的超级传播和异质性">流行病中的超级传播和异质性</h3>
+
+<p>原文标题： Superspreading and Heterogeneity in Epidemics</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13477">http://arxiv.org/abs/2202.13477</a></p>
+
+<p>作者： Klaus Kroy</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13477v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 流行病传播通常通过速率和扩散方程进行建模和分析，遵循良好控制的化学反应和试管中的扩散动力学的范例。然而，数学流行病学的先驱们已经表达了对这种暗示性和吸引力的相似性可能是一个虚假的朋友的严重担忧。一个世纪后，我们可以利用网络和博弈论的交叉融合以及生态演化动力学的新兴领域来证实它们。因此，流行病学传播被揭示为一个本质上异质和不稳定的过程，它与更笨拙的现象（如地震、飓风、交通拥堵和股票崩盘）具有某些特性。它们都以高尾部风险为特征，这种风险很少发生，但却是致命的。它们是由一连串不太可能发生的局部随机“超级传播者”事件链引起的，微尺度波动和不确定性可能会被大大放大，这使得它们的准确预测和控制在本质上和众所周知地困难重重。此外，流行病的传播与同样异质的遗传漂移密切相关，信息反馈增加了新的挑战和机会。</p>
+
+<h3 id="黄金圈-在内容审核中建立社会技术一致性">黄金圈：在内容审核中建立社会技术一致性</h3>
+
+<p>原文标题： The Golden Circle: Creating Socio-technical Alignment in Content Moderation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13500">http://arxiv.org/abs/2202.13500</a></p>
+
+<p>作者： Abhishek Gupta, Iga Kozlowska, Nga Than</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13500v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本文概述了一个名为“黄金圈”的概念框架，该框架描述了参与者在个人、组织和社会层面的角色，以及他们在内容审核生态系统中的动态。以减少危害和环境调节为中心，它认为 ML 社区必须关注多模式内容调节解决方案，使他们的工作与其组织的目标和价值观保持一致，并关注其社会技术系统所嵌入的不断变化的社会环境。这是通过从社会学和技术角度考虑内容审核的原因、方式和内容来完成的。</p>
+
+<h3 id="随机重置下税收动态对线性增长过程的影响-一种可能的经济模型">随机重置下税收动态对线性增长过程的影响：一种可能的经济模型</h3>
+
+<p>原文标题： Effect of tax dynamics on linearly growing processes under stochastic resetting: a possible economic model</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13713">http://arxiv.org/abs/2202.13713</a></p>
+
+<p>作者： Ion Santra</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13713v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们研究了一个由 N 主体组成的系统，其财富在随机重置的影响下线性增长，并通过类似税收的动态相互作用——所有主体都捐赠了他们的一部分财富，而这些财富反过来又在所有人之间平均分配其他。这模仿了人们拥有固定收入、遭受个人经济挫折并向国家纳税的社会经济情景。该系统总是达到一个静止状态，在没有税收动态的情况下显示出微不足道的指数财富分布。税收动态的引入导致了固定财富分配的几个有趣特征。特别是，我们分析发现，同质系统（所有主体人都相似）的税收增加会导致从主体人最可能贫穷的社会向另一个富有主体人更普遍的社会过渡。我们还研究了非同质系统，其中主体人的增长率是从一个分布中选择的，税收与个人增长率成正比。我们找到了一个最优税收，它产生了完全的经济平等（平均财富与个人增长率无关），超过这个税则存在反向差距，增长率低的主体人更有可能变得富有。我们考虑在现实世界中观察到的三种收入分布，并表明它们表现出相同的定性特征。我们的分析结果在 Ntoinfty 限制内，并得到数值模拟的支持。</p>
+
+<h3 id="垃圾箱选址问题-城市固体废物逆向物流链存储阶段的新进展回顾">垃圾箱选址问题：城市固体废物逆向物流链存储阶段的新进展回顾</h3>
+
+<p>原文标题： Waste bins location problem: A review of recent advances in the storage stage of the Municipal Solid Waste reverse logistic chain</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13754">http://arxiv.org/abs/2202.13754</a></p>
+
+<p>作者： Diego Gabriel Rossit, Sergio Nesmachnow</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13754v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 城市固体废物系统对社会具有重要的经济、社会和环境影响。在城市固体废物逆向物流链的不同阶段，垃圾箱选址问题包括在相应的市区适当地放置垃圾箱，以储存市民产生的垃圾。这个阶段对整个系统的整体效率有很大的影响。因此，一些研究人员已经考虑了不同的优化标准和方法来解决位置问题。本文全面回顾了垃圾箱位置问题的最新进展，主要目标是为该领域的决策者提供参考。主要研究结果表明，已经应用了几种优化标准和解决方法，但很少有提案同时优化垃圾箱位置和废物收集，或考虑模型参数和综合方法的不确定性。</p>
+
+<h3 id="简单的机制支配着排球的动力学">简单的机制支配着排球的动力学</h3>
+
+<p>原文标题： Simple mechanism rules the dynamics of volleyball</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13765">http://arxiv.org/abs/2202.13765</a></p>
+
+<p>作者： A. Chacoma, O.V. Billoni</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13765v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在这项工作中，我们研究了排球比赛中复杂性的出现。为此，我们首先收集了 20 款高水平职业比赛的数据。然后，我们进行了数据驱动分析，从中我们确定了用于定义简约随机模型的基本见解。在这些基础上，我们表明，仅使用两个随机变量，就可以为玩家在一次集会中执行 n 次击球的概率给出一个封闭形式的表达式。我们的结果与经验观察完全一致，代表了对团队运动竞赛复杂性和动态理解的新进展。</p>
+
+<h3 id="1930-年至-2018-年美国地方级城乡指数">1930 年至 2018 年美国地方级城乡指数</h3>
+
+<p>原文标题： Place-level urban-rural indices for the United States from 1930 to 2018</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13767">http://arxiv.org/abs/2202.13767</a></p>
+
+<p>作者： Johannes H. Uhl, Lori M. Hunter, Stefan Leyk, Dylan S. Connor, Jeremiah J. Nieves, Cyrus Hester, Catherine B. Talbot, Myron Gutmann</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13767v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 城乡分类对于分析整个城乡连续体的地理、人口、环境和社会过程至关重要。然而，大多数现有分类仅在相对聚合的空间尺度上可用，例如在美国的县尺度上。当感兴趣的过程高度本地化时，例如农村城镇和村庄并入侵占的大都市地区，缺乏高空间分辨率的农村或城市化措施会带来重大问题。此外，现有的城乡分类往往会随着时间的推移而不一致，或者需要复杂的多源输入数据（例如，遥感观测或道路网络数据），因此阻碍了对城乡动态的纵向分析。在这里，我们开发了一套基于距离和空间网络的方法，用于在很长一段时间内以精细的空间分辨率持续估计地方的偏远性和乡村性。我们通过构建 1930 年至 2018 年美国 30,000 个地方的城市指数来证明我们方法的实用性，并进一步测试我们的结果与各种评估数据集的合理性。我们将这些指数称为地方级城乡指数（PLURAL），并将生成的数据集公开（<a href="https://doi.org/10.3886/E162941），以便其他研究人员可以进行长期、细粒度的分析城乡变化。此外，由于输入数据的简单性，这些方法可以推广到世界其他时间段或地区，特别是数据稀缺的环境。">https://doi.org/10.3886/E162941），以便其他研究人员可以进行长期、细粒度的分析城乡变化。此外，由于输入数据的简单性，这些方法可以推广到世界其他时间段或地区，特别是数据稀缺的环境。</a></p>
+
+<h3 id="城市系统的优势树方法">城市系统的优势树方法</h3>
+
+<p>原文标题： A dominance tree approach to systems of cities</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13906">http://arxiv.org/abs/2202.13906</a></p>
+
+<p>作者： Thomas Louail, Marc Barthelemy</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13906v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 表征城市系统的空间组织是一个挑战，它指出了在空间统计中描述标记点过程的更普遍的问题。我们提出了一种非参数方法，它超越了点模式分析的标准工具，它基于点和“优势树”之间的映射，由对它们的 Voronoi 细分的递归分析构建而成。使用玩具模型，我们表明这棵树中节点的高度既编码了它的标记，也编码了它的邻域结构，反映了它在系统中的重要性。我们使用法国（1876-2018）和美国（1880-2010）的历史人口数据，并表明该方法突出了这些国家经历的多尺度城市动态。这些包括美国非单调的城市轨迹，正如它们在树中高度的演变所揭示的那样。该方法还在连续的尺度上刻画了城市的吸引力盆地，虽然在这两个国家，这些盆地尺寸在更大的尺度上变得更加均匀，但它们在法国也比美国更加异质。我们引入了一个简单的图表示 - 高度时钟 - 监控每个城市在其国家/地区的角色演变。最后，我们表明，树中城市的高度对城市的不同统计定义的敏感度低于其在城市层次结构中的排名。</p>
+
+<h3 id="回顾本地和综合能源系统模型-洞察灵活性和稳健性挑战">回顾本地和综合能源系统模型：洞察灵活性和稳健性挑战</h3>
+
+<p>原文标题： Reviewing local and integrated energy system models: insights into flexibility and robustness challenges</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.13942">http://arxiv.org/abs/2202.13942</a></p>
+
+<p>作者： Febin Kachirayil, Jann Michael Weinand, Fabian Scheller, Russell McKenna</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.13942v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 为了实现脱碳目标，加热、冷却和运输的电气化需要快速扩展可再生技术。由于它们分散和间歇性的性质，这些技术需要强有力的规划，考虑到非技术约束和灵活性选项，以便有效地集成。能源系统模型 (ESM) 经常用于在此规划过程中为决策者提供支持。在这项研究中，系统地审查了 116 个本地集成 ESM 案例研究，以确定模型灵活性和解决非技术限制的最佳实践方法。在示例中，存储系统和扇区耦合是最常见的灵活性类型。很少考虑与交通行业的行业耦合，特别是与可用于智能充电或车辆到电网运行的电动汽车的耦合。社会方面通常要么完全被忽视，要么被外生模仿。缺乏行动者异质性，这可能导致优化模型中的不稳定结果，可以通过建筑级别的信息来解决。人们发现对成本的高度重视，虽然也经常报告排放量，但几乎没有其他指标，如进口或可再生能源发电的份额。为了指导未来的建模，本文最后给出了一个路线图，强调了灵活性和稳健性选项，这些选项要么代表容易实现的目标，要么对结果有很大影响。</p>
+
+<h3 id="母亲和父亲如何向不同的观众谈论育儿-刻板印象和观众效应-使用主题建模分析-r-daddit-r-mommit-和-r-parenting">母亲和父亲如何向不同的观众谈论育儿？：刻板印象和观众效应：使用主题建模分析 r/Daddit、r/Mommit 和 r/Parenting</h3>
+
+<p>原文标题： How Do Mothers and Fathers Talk About Parenting to Different Audiences?: Stereotypes and Audience Effects: An Analysis of r/Daddit, r/Mommit, and r/Parenting Using Topic Modelling</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.12962">http://arxiv.org/abs/2202.12962</a></p>
+
+<p>作者： Melody Sepahpour-Fard, Michael Quayle</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2202.12962v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 尽管公共生活中的性别平等已经取得了重大进展，但家庭领域仍然存在严重的不平等，尤其是在育儿方面。本研究分析了 Reddit 上关于育儿的讨论，以探索观众的影响和性别刻板印象。它提出了一种新的方法来研究与不同受众互动时个人语言的主题变化。 2020 年发布的评论是从三个育儿子版块收集的，被描述为针对父亲 (r/Daddit)、母亲 (r/Mommit) 和所有父母 (r/Parenting)。假设在 r/Parenting 和 r/Daddit 或 r/Parenting 和 r/Mommit 上发帖的用户分别标识为父亲或母亲，从而允许进行性别比较。使用 LDA 主题建模将用户对 r/Parenting（针对混合性别受众）的评论与他们对 r/Daddit 或 r/Mommit 的单一性别受众的评论进行比较。结果显示，父母之间讨论最多的话题是教育和家庭建议，这个话题主要在混合性别子版块中讨论，父亲多于母亲。对于孩子的基本需求（睡眠、食物和医疗），妈妈们似乎更关心，不管观众是谁。相比之下，在以父亲为中心的 subreddit 中，父亲们更多地讨论了诸如出生和怀孕公告以及外貌等话题。总体而言，调查结果似乎表明，母亲通常更关心养育子女的实际方面，而父亲表达的担忧则更多地与背景相关：与其他父亲一样，似乎希望在讨论教育时展示自己的父亲身份并因此得到认可与母亲。这些结果表明，父母在 Reddit 上表达的担忧是上下文相关的，但也符合性别刻板印象，这可能反映了育儿过程中持续存在的性别和不平等分工。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220301/">https://netsci.complexly.cn/post/20220301/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20220228/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要10篇(2022-02-28)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
