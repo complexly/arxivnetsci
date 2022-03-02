@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2022-03-02)</title>
+      <link>https://netsci.complexly.cn/post/20220302/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220302/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用等变和稳定位置编码的更强大的图神经网络的;&lt;/li&gt;
+&lt;li&gt;有序子模性及其在多样化推荐中的应用;&lt;/li&gt;
+&lt;li&gt;电压结构;&lt;/li&gt;
+&lt;li&gt;GraphWorld：假图为 GNN 带来真正的洞察力;&lt;/li&gt;
+&lt;li&gt;ONBRA：时间网络中时间中介中心性的严格估计;&lt;/li&gt;
+&lt;li&gt;估计飓风疏散中 Covid-19 的输入风险：适用于德克萨斯州劳拉飓风的预测框架;&lt;/li&gt;
+&lt;li&gt;COVID-19 爆发期间的心理健康大流行：在社交媒体上寻求帮助;&lt;/li&gt;
+&lt;li&gt;动态社区网络上的群体博弈;&lt;/li&gt;
+&lt;li&gt;集群推动声誉网络上的合作，其他一切都是固定的;&lt;/li&gt;
+&lt;li&gt;癌症研究中的传感器技术用于诊断和治疗的新方向：和探索性分析;&lt;/li&gt;
+&lt;li&gt;无监督社会网络提取;&lt;/li&gt;
+&lt;li&gt;词的“自我网络”中的结构不变量和语义指纹;&lt;/li&gt;
+&lt;li&gt;有限时间相关性促进电网中的大电压角波动;&lt;/li&gt;
+&lt;li&gt;数字接触追踪流行病模型;&lt;/li&gt;
+&lt;li&gt;地缘政治条约的多关系结构的弹性与过去的殖民世界秩序和离岸金融避风港密切相关;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2022-03-01)</title>
