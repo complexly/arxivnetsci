@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要8篇(2022-03-08) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+基于图自动编码器重构的快速社区检测;
+开源软件可持续性：结合机构分析和社会技术网络;
+深度偏多路网络嵌入;
+人工觅食外系统中的竞争排斥;
+2022 年俄罗斯-乌克兰危机的 Twitter 数据集;
+社会性中性别差异的全球证据;
+使用最弱访问控制前提条件验证 Agda 中的比特币智能合约;
+高阶交互会促进同步吗？;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要8篇(2022-03-08) - 网络科学研究速递">
+<meta itemprop="description" content="
+基于图自动编码器重构的快速社区检测;
+开源软件可持续性：结合机构分析和社会技术网络;
+深度偏多路网络嵌入;
+人工觅食外系统中的竞争排斥;
+2022 年俄罗斯-乌克兰危机的 Twitter 数据集;
+社会性中性别差异的全球证据;
+使用最弱访问控制前提条件验证 Agda 中的比特币智能合约;
+高阶交互会促进同步吗？;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要8篇(2022-03-08) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220308/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+基于图自动编码器重构的快速社区检测;
+开源软件可持续性：结合机构分析和社会技术网络;
+深度偏多路网络嵌入;
+人工觅食外系统中的竞争排斥;
+2022 年俄罗斯-乌克兰危机的 Twitter 数据集;
+社会性中性别差异的全球证据;
+使用最弱访问控制前提条件验证 Agda 中的比特币智能合约;
+高阶交互会促进同步吗？;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220308/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220308/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要8篇(2022-03-08)</h1>
+
+                  <p class="post-byline">
+                    2022年03月08日 · 3224 字 ·
+                    阅读时间约7分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>基于图自动编码器重构的快速社区检测;</li>
+<li>开源软件可持续性：结合机构分析和社会技术网络;</li>
+<li>深度偏多路网络嵌入;</li>
+<li>人工觅食外系统中的竞争排斥;</li>
+<li>2022 年俄罗斯-乌克兰危机的 Twitter 数据集;</li>
+<li>社会性中性别差异的全球证据;</li>
+<li>使用最弱访问控制前提条件验证 Agda 中的比特币智能合约;</li>
+<li>高阶交互会促进同步吗？;</li>
+</ul>
+
+<p></p>
+
+<h3 id="基于图自动编码器重构的快速社区检测">基于图自动编码器重构的快速社区检测</h3>
+
+<p>原文标题： Fast Community Detection based on Graph Autoencoder Reconstruction</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.03151">http://arxiv.org/abs/2203.03151</a></p>
+
+<p>作者： Chenyang Qiu, Zhaoci Huang, Wenzhe Xu, Huijia Li</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.03151v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 随着大数据的快速发展，如何高效、准确地发现大规模网络中紧密的社区结构进行知识发现越来越受到关注。本文首次提出了一种基于 Graph AutoEncoder Reconstruction（记为 GAER）的社区检测框架。 GAER 是一个高度可扩展的框架，不需要任何先验信息。我们将基于图自动编码器的一步编码分解为两阶段编码框架，通过将复杂度从原来的 O(N^2) 降低到 O(N) 来适应现实世界的大数据系统。同时，基于GAER支持模块即插即用配置和增量社区检测的优势，我们进一步提出了基于节点感知的实时大图模块，可以更快地实现新节点社区检测。速度，并以 6.15 倍 - 14.03 倍的速度加速模型推理。最后，我们将 GAER 应用于多个真实世界的数据集，包括一些大型网络。实验结果验证了 GAER 在几乎所有网络上都取得了优异的性能。</p>
+
+<h3 id="开源软件可持续性-结合机构分析和社会技术网络">开源软件可持续性：结合机构分析和社会技术网络</h3>
+
+<p>原文标题： Open Source Software Sustainability: Combining Institutional Analysis and Socio-Technical Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.03144">http://arxiv.org/abs/2203.03144</a></p>
+
+<p>作者： Likang Yin, Mahasweta Chakraborty, Charles Schweik, Seth Frey, Vladimir Filkov</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.03144v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 开源软件 (OSS) 构成了我们数字社会的大部分结构，尤其是成功和可持续的社会。但是许多 OSS 项目并没有变得可持续，导致世界数字基础设施被遗弃甚至风险。先前的工作主要从两个非常不同的角度研究了造成这种情况的原因。在软件工程中，重点是从社会技术角度理解成功和可持续性：OSS 程序员的日常活动和他们创建的工件。另一方面，在制度分析中，重点一直放在构成治理结构的制度设计（例如政策、规则和规范）上。尽管每种方法对于全面理解 OSS 项目都是必要的，但几乎没有探讨这两种方法之间的联系和交互。在本文中，我们通过将制度分析与社会技术系统分析相结合，首次尝试使用双视图分析来理解 OSS 项目的可持续性。特别是，我们 (i) 使用语言方法从 OSS 贡献者的通信中提取制度规则和规范，以代表其治理系统的演变，以及 (ii) 基于纵向协作记录构建社会技术网络以代表每个项目的组织结构.我们将这两种方法结合起来，并将它们应用于来自 Apache 软件基金会 (ASF) 孵化器中 253 个新生 OSS 项目的开发人员跟踪数据集。我们发现社会技术和制度特征相互关联，并为 ASF 的 OSS 项目的进展提供了互补的观点。完善这些综合分析有助于更准确地理解制度治理演变与组织结构之间的同步。</p>
+
+<h3 id="深度偏多路网络嵌入">深度偏多路网络嵌入</h3>
+
+<p>原文标题： Deep Partial Multiplex Network Embedding</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.02656">http://arxiv.org/abs/2203.02656</a></p>
+
+<p>作者： Qifan Wang, Yi Fang, Anirudh Ravula, Ruining He, Bin Shen, Jingang Wang, Xiaojun Quan, Dongfang Liu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.02656v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 网络嵌入是一种学习网络中节点低维表示的有效技术。现实世界的网络通常具有多路或具有来自不同关系的多视图表示。最近，人们对多路数据上的网络嵌入越来越感兴趣。然而，大多数现有的多路方法都假设数据在所有视图中都是完整的。但在实际应用中，往往会出现每个视图都会丢失一些数据，从而导致部分复用数据的情况。在本文中，我们提出了一种新颖的深度部分复用网络嵌入方法来处理不完整的数据。特别是，网络嵌入是通过同时使用自动编码器神经网络最小化深度重建损失来学习的，通过公共潜在子空间学习来加强视图之间的数据一致性，并通过图拉普拉斯算子在同一网络中保留数据拓扑结构。我们进一步证明了学习嵌入的正交不变性，并将我们的方法与二进制嵌入技术联系起来。在四个多路基准上的实验证明了所提出的方法在节点分类、链路预测和聚类任务方面优于几种最先进的方法。</p>
+
+<h3 id="人工觅食外系统中的竞争排斥">人工觅食外系统中的竞争排斥</h3>
+
+<p>原文标题： Competitive Exclusion in an Artificial Foraging Exosystem</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.02814">http://arxiv.org/abs/2203.02814</a></p>
+
+<p>作者： John C. Stevenson</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.02814v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 人工生态系统提供了一个额外的实验工具，以支持竞争排斥研究的现场工作和理论发展。这种实验方法提供了对环境和物种参数的精确控制，并产生了种群及其特征的详细轨迹。提出了一种基于主体的模型，该模型模拟具有不同内在增长率的两种觅食物种，在具有稳定和季节性环境的有限空间中竞争相同的补充资源。在环境和物种参数空间内确定潜在的共存区域。这些实验的结果在现代共存理论的背景下进行了讨论。确定了一个共生主义的例子。确定了对可能的起源情景的限制。</p>
+
+<h3 id="2022-年俄罗斯-乌克兰危机的-twitter-数据集">2022 年俄罗斯-乌克兰危机的 Twitter 数据集</h3>
+
+<p>原文标题： Twitter Dataset for 2022 Russo-Ukrainian Crisis</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.02955">http://arxiv.org/abs/2203.02955</a></p>
+
+<p>作者： Ehsan-Ul Haq, Gareth Tyson, Lik-Hang Lee, Tristan Braud, Pan Hui</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.02955v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在线社会网络 (OSN) 在危机期间的信息共享中发挥着重要作用。在这样的危机期间收集的数据可以反映大规模的公众舆论和情绪。此外，OSN 数据还可用于研究各种实体用来策划公众舆论的不同活动。此类信息共享活动的范围可以从传播事实信息到宣传和错误信息。我们提供了 2022 年俄罗斯-乌克兰冲突的 Twitter 数据集。在第一个版本中，我们分享了在危机的第一周分享的超过 160 万条推文。</p>
+
+<h3 id="社会性中性别差异的全球证据">社会性中性别差异的全球证据</h3>
+
+<p>原文标题： World-wide Evidence for Gender Difference in Sociality</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.02964">http://arxiv.org/abs/2203.02964</a></p>
+
+<p>作者： Tamas David-Barrett</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.02964v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 关于人类行为最有争议的问题之一是在社会纽带的形成和维持中是否存在固有的性别或性别差异。一方面，女性和男性的大脑在结构上几乎相同，虽然内分泌系统存在性别差异，但这些差异很小，而大部分性别认同和行为都是后天习得的。另一方面，社会行为某些方面的性别差异有着深厚的演化根源，并且广泛存在于非人类动物中。这项观察性研究记录了 2636 小时内同龄成人群体出现在公共场所的频率，通过全球 46 个国家的 170 名研究助理记录了 120 万人组成的群体。结果显示（a）同性同龄频率存在显著的性别差异，因为在全球公共场所观察到的女性-女性比男性-男性多约 50%，以及（b）尽管存在区域性变化，模式在每个全球区域都成立。这是第一个在这种规模上对全球二元社会行为中的性别差异进行的研究，也是第一个使用直接而不是基于互联网的观察的全球研究。</p>
+
+<h3 id="使用最弱访问控制前提条件验证-agda-中的比特币智能合约">使用最弱访问控制前提条件验证 Agda 中的比特币智能合约</h3>
+
+<p>原文标题： Verification of Bitcoin&rsquo;s Smart Contracts in Agda using Weakest Preconditions for Access Control</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.03054">http://arxiv.org/abs/2203.03054</a></p>
+
+<p>作者： Fahad F. Alhabardi, Arnold Beckmann, Bogdan Lazar, Anton Setzer</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.03054v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本文解决了使用交互式定理证明器 Agda 验证比特币智能合约的问题。它专注于管理比特币分配的两个标准智能合约，支付到公钥哈希（P2PKH）和支付到多重符号（P2MS）。两者都是用比特币的低级语言脚本编写的，并为比特币的分发提供访问控制的安全属性。本文介绍了 P2PKH 和 P2MS 中使用的脚本命令的操作语义，并在 Agda 证明助手中使用 Hoare 三元组对其进行了形式化。它提倡在 Hoare 三元组的上下文中将最弱的前提条件作为验证访问控制的适当概念。讨论了两种获得人类可读的最弱先决条件的方法，以缩小用户需求和智能合约正式规范之间的验证差距：（1）逐步方法，通过脚本逐条指令反向工作，有时一口气跳过多个指令； (2) 代码的符号执行和翻译成嵌套的 case 区分，这允许读取最弱的先决条件作为接受路径的析取。为了在 Agda 中形式化这些方法，定义了使用 Hoare Triples 进行等式推理的语法。关键词和短语区块链；加密货币；比特币；以太坊；阿格达；考克;确认;霍尔逻辑；脚本; P2PKH;多重符号；安全;最弱的前提条件；更正；证明;智能合约</p>
+
+<h3 id="高阶交互会促进同步吗">高阶交互会促进同步吗？</h3>
+
+<p>原文标题： Do higher-order interactions promote synchronization?</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.03060">http://arxiv.org/abs/2203.03060</a></p>
+
+<p>作者： Yuanzhao Zhang, Maxime Lucas, Federico Battiston</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.03060v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 三个或更多实体同时交互的高阶交互对于许多现实世界复杂系统的忠实建模很重要。最近的努力集中在阐明这些非成对相互作用对耦合系统的集体行为的影响。有趣的是，已经发现了几个促进同步的高阶相互作用的例子，人们猜测这可能是一种普遍现象。在这里，我们证明即使对于简单的系统，如仓本振荡器，高阶相互作用的影响也是非常细微的。特别是，我们在数值和分析上表明，超边通常会增强随机超图中的同步，但在单纯复形中具有相反的效果。作为解释，我们将高阶异质性确定为具有固定耦合预算的系统中同步稳定性的关键结构决定因素。典型的非线性系统，我们还刻画了成对和非成对相互作用协同优化同步的机制。我们的工作有助于更好地理解具有结构化高阶交互的动态系统。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220308/">https://netsci.complexly.cn/post/20220308/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20220304/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要11篇(2022-03-04)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
