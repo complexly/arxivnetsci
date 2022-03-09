@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2022-03-09)</title>
+      <link>https://netsci.complexly.cn/post/20220309/</link>
+      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220309/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有协变量的网络的贝叶斯社区检测;&lt;/li&gt;
+&lt;li&gt;TIGGER：时间交互图的可扩展生成建模;&lt;/li&gt;
+&lt;li&gt;预算生成树问题中的单位扰动;&lt;/li&gt;
+&lt;li&gt;所有人都需要理解共享微移动仿真：全面综述;&lt;/li&gt;
+&lt;li&gt;使用随机模拟探索不同投票规则下基于地区的多党选举的公平性;&lt;/li&gt;
+&lt;li&gt;显式学生向量估计和无监督问题矩阵学习用于认知诊断;&lt;/li&gt;
+&lt;li&gt;复杂网络中的自组织爆炸同步：同步炸弹的出现;&lt;/li&gt;
+&lt;li&gt;用于社区检测的高阶近似合并、对称和图正则化非负矩阵分解;&lt;/li&gt;
+&lt;li&gt;间接互惠连续模型的二阶微扰理论;&lt;/li&gt;
+&lt;li&gt;基于超图神经网络的超网络分解的介数逼近;&lt;/li&gt;
+&lt;li&gt;单轨地图方程;&lt;/li&gt;
+&lt;li&gt;机器人不投票，但他们肯定让人困扰！全民公投中的异常帐户研究;&lt;/li&gt;
+&lt;li&gt;Twitter 与撤回文章的互动：谁、何时以及如何？;&lt;/li&gt;
+&lt;li&gt;人口动力学中的力概念;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2022-03-08)</title>
