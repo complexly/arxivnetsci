@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2022-03-11)</title>
+      <link>https://netsci.complexly.cn/post/20220311/</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220311/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;时间网络认识论：关于在现实世界中达成共识;&lt;/li&gt;
+&lt;li&gt;噪声和波动会破坏群体评估问题中多数规则的效率;&lt;/li&gt;
+&lt;li&gt;神经网络混合模型在估计非线性流行病模型感染函数中的应用;&lt;/li&gt;
+&lt;li&gt;年龄结构化 SIR 动力学在 COVID-19 建模中的有用性;&lt;/li&gt;
+&lt;li&gt;电网级联故障中网络分区的等待时间分布;&lt;/li&gt;
+&lt;li&gt;气候变化研究与气候变化政策的相关性如何？基于Overton数据的实证分析;&lt;/li&gt;
+&lt;li&gt;有偏见的选民模型：一个小团体的说服力如何？;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2022-03-09)</title>
