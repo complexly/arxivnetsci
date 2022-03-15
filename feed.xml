@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 11 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2022-03-15)</title>
+      <link>https://netsci.complexly.cn/post/20220315/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220315/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GRAND+：可扩展图随机神经网络;&lt;/li&gt;
+&lt;li&gt;三元组形成的无标度网络增长能否刻画真实通信网络中的单纯复形分布？;&lt;/li&gt;
+&lt;li&gt;通过社会网络挖掘调查 COVID-19 对教育的影响;&lt;/li&gt;
+&lt;li&gt;高阶网络的动力学：综述;&lt;/li&gt;
+&lt;li&gt;深度图生成综述：方法和应用;&lt;/li&gt;
+&lt;li&gt;具有样本依赖下界的乘法随机过程的分析与应用;&lt;/li&gt;
+&lt;li&gt;足球：团队韧性和伯尔尼奇迹的定量分析;&lt;/li&gt;
+&lt;li&gt;使用改进的 SIR 模型动态分析 COVID-19 在不同社区中的感染状态;&lt;/li&gt;
+&lt;li&gt;译者可靠性评估的贝叶斯方法;&lt;/li&gt;
+&lt;li&gt;单纯复形上的随机流行病模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2022-03-11)</title>
