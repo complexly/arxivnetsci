@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2022-03-18)</title>
+      <link>https://netsci.complexly.cn/post/20220318/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220318/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于疾病关系提取的图的多模态学习;&lt;/li&gt;
+&lt;li&gt;比特币交易网络的复杂网络分析;&lt;/li&gt;
+&lt;li&gt;多层知识图中的中心性度量;&lt;/li&gt;
+&lt;li&gt;脑动力学多元时空模型中的社区排名;&lt;/li&gt;
+&lt;li&gt;以太坊交互图上的行为感知账户去匿名化;&lt;/li&gt;
+&lt;li&gt;网络上两种物种共生过程的异质平均场理论;&lt;/li&gt;
+&lt;li&gt;价格追踪：链接优化电力系统中的节点价格;&lt;/li&gt;
+&lt;li&gt;模体挖掘：发现和总结混合图像内容;&lt;/li&gt;
+&lt;li&gt;粒子物理学研究活动中的生活方式和个人健康;&lt;/li&gt;
+&lt;li&gt;FairFoody：食品配送考虑公平性;&lt;/li&gt;
+&lt;li&gt;需要进行结构变革以在美国粒子物理学中创造有影响力的公众参与;&lt;/li&gt;
+&lt;li&gt;理解 Twitter 上的隐私切换行为;&lt;/li&gt;
+&lt;li&gt;大型行业参与使 HEP 受益：大型 CAD 公司的微电子支持;&lt;/li&gt;
+&lt;li&gt;DISMISS：推特上的印度社交媒体影响者数据库（按顺序滚雪球）;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2022-03-16)</title>
