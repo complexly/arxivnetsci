@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2022-03-21)</title>
+      <link>https://netsci.complexly.cn/post/20220321/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220321/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;拓扑不平衡对生物医学知识图表示学习的影响;&lt;/li&gt;
+&lt;li&gt;COVID-19 大流行中有效再生数的每日活动依赖性：来自 GPS 数据的直接建模;&lt;/li&gt;
+&lt;li&gt;GAC：一种面向未知社会网络中用户激励的深度强化学习模型;&lt;/li&gt;
+&lt;li&gt;STICC：一种考虑空间连续性的重复地理模式发现的多元空间聚类方法;&lt;/li&gt;
+&lt;li&gt;同质和异质网络中的回声室和信息传输偏差;&lt;/li&gt;
+&lt;li&gt;用电路网络逼近城市地区的人流：势场和波动-耗散关系;&lt;/li&gt;
+&lt;li&gt;网络方法揭示了 COVID-19 下交通对空气污染的时空影响;&lt;/li&gt;
+&lt;li&gt;转推社区揭示仇恨言论的主要来源;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2022-03-18)</title>
