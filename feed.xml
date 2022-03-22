@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2022-03-22)</title>
+      <link>https://netsci.complexly.cn/post/20220322/</link>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220322/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;揭示多元时间序列的高阶组织;&lt;/li&gt;
+&lt;li&gt;元权重图神经网络：超越全局同质性的极限;&lt;/li&gt;
+&lt;li&gt;表征 YouTube 上的替代获利策略;&lt;/li&gt;
+&lt;li&gt;Subreddit 链接推动 Reddit 上的社区创建和用户参与;&lt;/li&gt;
+&lt;li&gt;具有认知行为不对称的记忆社会网络中的成本函数学习;&lt;/li&gt;
+&lt;li&gt;互联网观测站和前哨站的时间相关性;&lt;/li&gt;
+&lt;li&gt;多通道 CNN 使用混合特征对尼泊尔 covid-19 相关推文进行分类;&lt;/li&gt;
+&lt;li&gt;社交媒体网络中阿尔及利亚滥用者的在线行为;&lt;/li&gt;
+&lt;li&gt;基辅bylyny周期的网络分析——东斯拉夫史诗叙事;&lt;/li&gt;
+&lt;li&gt;使用机器学习和标头信息进行电子邮件异常检测;&lt;/li&gt;
+&lt;li&gt;谁将在 Twitter 上分享假新闻？在线帖子历史中的心理语言线索区分错误信息生态系统中的参与者;&lt;/li&gt;
+&lt;li&gt;模拟 COVID-19 传播的扩散反应隔室模型的适定性;&lt;/li&gt;
+&lt;li&gt;多极社会系统：超越二分法背景测量两极分化;&lt;/li&gt;
+&lt;li&gt;MTBF-33：美国 33 个县的多时态建筑足迹数据集（1900-2015）;&lt;/li&gt;
+&lt;li&gt;SETI、演化和人类历史合并成一个数学模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2022-03-21)</title>
