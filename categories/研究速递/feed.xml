@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 22 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2022-03-23)</title>
+      <link>https://netsci.complexly.cn/post/20220323/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220323/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;国际贸易超图的结构;&lt;/li&gt;
+&lt;li&gt;投资组合分配方案的建模与仿真：一种基于网络社区检测的方法;&lt;/li&gt;
+&lt;li&gt;对二元建成区表层进行尺度敏感、空间显式精度评估的框架;&lt;/li&gt;
+&lt;li&gt;健康的 Twitter 讨论？时间会告诉我们;&lt;/li&gt;
+&lt;li&gt;骗子更有影响力：欺骗对社会网络影响力最大化的影响;&lt;/li&gt;
+&lt;li&gt;BESSIE：用于合成人群的行为和流行病模拟器;&lt;/li&gt;
+&lt;li&gt;使用日本患者理赔数据构建医疗服务提供者网络的区域医疗机构间合作;&lt;/li&gt;
+&lt;li&gt;STEM 中的监管和把关;&lt;/li&gt;
+&lt;li&gt;通过社会网络中的 Boost 模拟退火实现预算影响最大化;&lt;/li&gt;
+&lt;li&gt;推特用户个人社会经济状况估计方法;&lt;/li&gt;
+&lt;li&gt;加强本科院校和社区学院的 HEP 研究;&lt;/li&gt;
+&lt;li&gt;促进非 HEP 职业过渡;&lt;/li&gt;
+&lt;li&gt;你被误导了吗？ Facebook 上孟加拉语中与 Covid 相关的假新闻研究;&lt;/li&gt;
+&lt;li&gt;跨多个社交媒体平台的可解释错误信息检测;&lt;/li&gt;
+&lt;li&gt;菲律宾背景下的目标间和目标内 SDG 目标互动：两种方法;&lt;/li&gt;
+&lt;li&gt;对抗车辆对智慧城市交通系统特性的影响;&lt;/li&gt;
+&lt;li&gt;控制随机幂律网络中的平均度数;&lt;/li&gt;
+&lt;li&gt;基于多类型高尔顿-沃森森林的扩散过程新探索;&lt;/li&gt;
+&lt;li&gt;基于 ERGM 的动态网络模型中的关系持续时间建模;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2022-03-22)</title>
