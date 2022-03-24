@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2022-03-24)</title>
+      <link>https://netsci.complexly.cn/post/20220324/</link>
+      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220324/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;评估网络表示以识别跨学科性;&lt;/li&gt;
+&lt;li&gt;具有高阶交互的多路网络中的层内和层间同步;&lt;/li&gt;
+&lt;li&gt;使用图中心性分析进行模糊测试的有效种子调度;&lt;/li&gt;
+&lt;li&gt;超图上意见动态的有界置信模型的密度描述;&lt;/li&gt;
+&lt;li&gt;使用异构图神经网络进行以太坊欺诈检测;&lt;/li&gt;
+&lt;li&gt;使用深度神经网络的协作自组织图用于移动人群感知中的虚假任务预防;&lt;/li&gt;
+&lt;li&gt;ShareTrace：在含时图上使用异步、并行消息传递的联系人跟踪;&lt;/li&gt;
+&lt;li&gt;学习网络领域作者的多学科性和学科角色;&lt;/li&gt;
+&lt;li&gt;通过约束随机优化对社会网络上的错误信息进行社会公平的缓解;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要19篇(2022-03-23)</title>
