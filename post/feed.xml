@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 25 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要5篇(2022-03-28)</title>
+      <link>https://netsci.complexly.cn/post/20220328/</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220328/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;高阶结构视角下的电网唯一性与同步稳定性;&lt;/li&gt;
+&lt;li&gt;基于机器学习的社区检测目标函数选择;&lt;/li&gt;
+&lt;li&gt;回答自助出版电子游戏开发者是否应该在 Twitter 上推销他们的游戏;&lt;/li&gt;
+&lt;li&gt;符号网络中有效且高效的核心分解;&lt;/li&gt;
+&lt;li&gt;弱势社区获得城市基础设施的机会较少;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2022-03-25)</title>
