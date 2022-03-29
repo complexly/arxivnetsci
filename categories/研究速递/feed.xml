@@ -7,10 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 28 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要19篇(2022-03-29)</title>
+      <link>https://netsci.complexly.cn/post/20220329/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220329/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过 r-Ego 网络鉴别的无监督异质网络嵌入;&lt;/li&gt;
+&lt;li&gt;使用邻接矩阵的领先和非领先特征向量的网络动力系统的降维;&lt;/li&gt;
+&lt;li&gt;多模式错误信息检测：方法、挑战和机遇;&lt;/li&gt;
+&lt;li&gt;墨西哥城际旅游网络（2020-2021）;&lt;/li&gt;
+&lt;li&gt;边上的 GraphBLAS：网络流量的高性能流;&lt;/li&gt;
+&lt;li&gt;你的网络有多脆弱？比你想象的更多;&lt;/li&gt;
+&lt;li&gt;犯罪与社会环境：轻罪与重罪的区别;&lt;/li&gt;
+&lt;li&gt;图神经网络与常用机器学习算法在假新闻检测中的对比分析;&lt;/li&gt;
+&lt;li&gt;多层专利引用网络：研究显式技术关系的综合分析框架;&lt;/li&gt;
+&lt;li&gt;阿根廷银行间市场的网络结构和分散化;&lt;/li&gt;
+&lt;li&gt;创意引擎：从市场和基因演化到科学的创新和过时的统一理论;&lt;/li&gt;
+&lt;li&gt;针对需求和安全的数据驱动自行车网络规划;&lt;/li&gt;
+&lt;li&gt;基于真实数据集的共享电动自行车用户停车行为分析——爱尔兰都柏林的案例研究;&lt;/li&gt;
+&lt;li&gt;“生于罗马”或“睡美人”：微博上话题标签的流行;&lt;/li&gt;
+&lt;li&gt;估计教育环境中的 SARS-CoV-2 传播：一项回顾性队列研究;&lt;/li&gt;
+&lt;li&gt;亲密友谊的更替：年龄和性别差异;&lt;/li&gt;
+&lt;li&gt;社会规范的异质分布对传染病传播的影响;&lt;/li&gt;
+&lt;li&gt;数字联系人追踪：大规模地理定位数据替代基于蓝牙的应用程序失败;&lt;/li&gt;
+&lt;li&gt;通过删除操作 Twitter;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2022-03-28)</title>

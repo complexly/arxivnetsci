@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要19篇(2022-03-29) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+通过 r-Ego 网络鉴别的无监督异质网络嵌入;
+使用邻接矩阵的领先和非领先特征向量的网络动力系统的降维;
+多模式错误信息检测：方法、挑战和机遇;
+墨西哥城际旅游网络（2020-2021）;
+边上的 GraphBLAS：网络流量的高性能流;
+你的网络有多脆弱？比你想象的更多;
+犯罪与社会环境：轻罪与重罪的区别;
+图神经网络与常用机器学习算法在假新闻检测中的对比分析;
+多层专利引用网络：研究显式技术关系的综合分析框架;
+阿根廷银行间市场的网络结构和分散化;
+创意引擎：从市场和基因演化到科学的创新和过时的统一理论;
+针对需求和安全的数据驱动自行车网络规划;
+基于真实数据集的共享电动自行车用户停车行为分析——爱尔兰都柏林的案例研究;
+“生于罗马”或“睡美人”：微博上话题标签的流行;
+估计教育环境中的 SARS-CoV-2 传播：一项回顾性队列研究;
+亲密友谊的更替：年龄和性别差异;
+社会规范的异质分布对传染病传播的影响;
+数字联系人追踪：大规模地理定位数据替代基于蓝牙的应用程序失败;
+通过删除操作 Twitter;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要19篇(2022-03-29) - 网络科学研究速递">
+<meta itemprop="description" content="
+通过 r-Ego 网络鉴别的无监督异质网络嵌入;
+使用邻接矩阵的领先和非领先特征向量的网络动力系统的降维;
+多模式错误信息检测：方法、挑战和机遇;
+墨西哥城际旅游网络（2020-2021）;
+边上的 GraphBLAS：网络流量的高性能流;
+你的网络有多脆弱？比你想象的更多;
+犯罪与社会环境：轻罪与重罪的区别;
+图神经网络与常用机器学习算法在假新闻检测中的对比分析;
+多层专利引用网络：研究显式技术关系的综合分析框架;
+阿根廷银行间市场的网络结构和分散化;
+创意引擎：从市场和基因演化到科学的创新和过时的统一理论;
+针对需求和安全的数据驱动自行车网络规划;
+基于真实数据集的共享电动自行车用户停车行为分析——爱尔兰都柏林的案例研究;
+“生于罗马”或“睡美人”：微博上话题标签的流行;
+估计教育环境中的 SARS-CoV-2 传播：一项回顾性队列研究;
+亲密友谊的更替：年龄和性别差异;
+社会规范的异质分布对传染病传播的影响;
+数字联系人追踪：大规模地理定位数据替代基于蓝牙的应用程序失败;
+通过删除操作 Twitter;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要19篇(2022-03-29) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220329/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+通过 r-Ego 网络鉴别的无监督异质网络嵌入;
+使用邻接矩阵的领先和非领先特征向量的网络动力系统的降维;
+多模式错误信息检测：方法、挑战和机遇;
+墨西哥城际旅游网络（2020-2021）;
+边上的 GraphBLAS：网络流量的高性能流;
+你的网络有多脆弱？比你想象的更多;
+犯罪与社会环境：轻罪与重罪的区别;
+图神经网络与常用机器学习算法在假新闻检测中的对比分析;
+多层专利引用网络：研究显式技术关系的综合分析框架;
+阿根廷银行间市场的网络结构和分散化;
+创意引擎：从市场和基因演化到科学的创新和过时的统一理论;
+针对需求和安全的数据驱动自行车网络规划;
+基于真实数据集的共享电动自行车用户停车行为分析——爱尔兰都柏林的案例研究;
+“生于罗马”或“睡美人”：微博上话题标签的流行;
+估计教育环境中的 SARS-CoV-2 传播：一项回顾性队列研究;
+亲密友谊的更替：年龄和性别差异;
+社会规范的异质分布对传染病传播的影响;
+数字联系人追踪：大规模地理定位数据替代基于蓝牙的应用程序失败;
+通过删除操作 Twitter;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220329/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220329/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要19篇(2022-03-29)</h1>
+
+                  <p class="post-byline">
+                    2022年03月29日 · 7976 字 ·
+                    阅读时间约16分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>通过 r-Ego 网络鉴别的无监督异质网络嵌入;</li>
+<li>使用邻接矩阵的领先和非领先特征向量的网络动力系统的降维;</li>
+<li>多模式错误信息检测：方法、挑战和机遇;</li>
+<li>墨西哥城际旅游网络（2020-2021）;</li>
+<li>边上的 GraphBLAS：网络流量的高性能流;</li>
+<li>你的网络有多脆弱？比你想象的更多;</li>
+<li>犯罪与社会环境：轻罪与重罪的区别;</li>
+<li>图神经网络与常用机器学习算法在假新闻检测中的对比分析;</li>
+<li>多层专利引用网络：研究显式技术关系的综合分析框架;</li>
+<li>阿根廷银行间市场的网络结构和分散化;</li>
+<li>创意引擎：从市场和基因演化到科学的创新和过时的统一理论;</li>
+<li>针对需求和安全的数据驱动自行车网络规划;</li>
+<li>基于真实数据集的共享电动自行车用户停车行为分析——爱尔兰都柏林的案例研究;</li>
+<li>“生于罗马”或“睡美人”：微博上话题标签的流行;</li>
+<li>估计教育环境中的 SARS-CoV-2 传播：一项回顾性队列研究;</li>
+<li>亲密友谊的更替：年龄和性别差异;</li>
+<li>社会规范的异质分布对传染病传播的影响;</li>
+<li>数字联系人追踪：大规模地理定位数据替代基于蓝牙的应用程序失败;</li>
+<li>通过删除操作 Twitter;</li>
+</ul>
+
+<p></p>
+
+<h3 id="通过-r-ego-网络鉴别的无监督异质网络嵌入">通过 r-Ego 网络鉴别的无监督异质网络嵌入</h3>
+
+<p>原文标题： Unsupervised Heterophilous Network Embedding via r-Ego Network Discrimination</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.10866">http://arxiv.org/abs/2203.10866</a></p>
+
+<p>作者： Zhiqiang Zhong, Guadalupe Gonzalez, Daniele Grattarola, Jun Pang</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.10866v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 最近，有监督的网络嵌入 (NE) 已成为表示采用网络形式的复杂系统的主要技术，并且各种下游节点和网络级任务都受益于其显著的发展。然而，由于定义学习目标的不确定性，无监督 NE 仍然具有挑战性。此外，现有的 NE 方法是否能很好地适应异质网络仍然是一个未探索的研究问题。本文介绍了第一个关于同质比对现有无监督 NE 方法性能影响的实证研究，并揭示了它们的局限性。受我们的实证研究结果的启发，我们将无监督的 NE 任务设计为一个 r-ego 网络辨别问题，并进一步开发了一个 SELf-supErvised Network Embedding (Selene) 框架，用于学习同质和异质网络的有用节点表示。具体来说，我们提出了一种双通道特征嵌入机制来融合节点属性和网络结构信息，并利用采样和匿名化策略来打破现有嵌入机制的隐含同质假设。最后，我们引入了一个无负样本 SSL 目标函数来优化框架。我们对 12 个真实世界的数据集和 20 个合成网络进行了广泛的实验和一系列消融研究。结果证明了 Selene 的卓越性能并确认了每个组件的有效性。</p>
+
+<h3 id="使用邻接矩阵的领先和非领先特征向量的网络动力系统的降维">使用邻接矩阵的领先和非领先特征向量的网络动力系统的降维</h3>
+
+<p>原文标题： Dimension reduction of dynamical systems on networks with leading and non-leading eigenvectors of adjacency matrices</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.13872">http://arxiv.org/abs/2203.13872</a></p>
+
+<p>作者： Naoki Masuda, Prosenjit Kundu</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.13872v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 网络上动态系统的降维技术被认为可以促进我们对原始高维动态的理解。一种降维策略是推导出一个低维动态系统，其行为近似于原始动态系统的可观测值，这些观测值是不同节点处状态变量的加权线性总和。最近提出的方法使用网络邻接矩阵的前导特征向量作为混合权重来获得这样的可观察量。在本研究中，当我们使用邻接矩阵的非领先特征向量作为混合权重时，我们探讨了这种类型的网络上动态系统的一维约简的性能。我们的理论预测非领先特征向量可以比领先特征向量更有效，并使我们能够选择最小化误差的特征向量。我们在数值上验证了对于某些动态系统和网络，最优非领先特征向量优于领先特征向量。我们还认为，尽管有我们的理论，但实际上最好使用前导特征向量作为混合权重，以避免将分叉点放得太远并抵抗动态噪声。</p>
+
+<h3 id="多模式错误信息检测-方法-挑战和机遇">多模式错误信息检测：方法、挑战和机遇</h3>
+
+<p>原文标题： Multi-modal Misinformation Detection: Approaches, Challenges and Opportunities</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.13883">http://arxiv.org/abs/2203.13883</a></p>
+
+<p>作者： Sara Abdali</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.13883v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 随着社交媒体平台从基于文本的论坛演变为多模式环境，社交媒体中错误信息的性质也在相应发生变化。利用图像和视频等视觉形式对用户更有利和更有吸引力的事实，以及有时粗心浏览文本内容的事实，错误信息传播者最近瞄准了文本和图像等形式之间的上下文相关性。因此，许多研究工作已经投入到开发用于检测基于网络的媒体中可能的跨模态不一致的自动技术上。在这项工作中，我们的目标是分析、分类和识别现有方法以及它们面临的挑战和缺点，以便为进一步研究多模态错误信息检测领域发掘新的机会。</p>
+
+<h3 id="墨西哥城际旅游网络-2020-2021">墨西哥城际旅游网络（2020-2021）</h3>
+
+<p>原文标题： Intermunicipal Travel Networks of Mexico (2020-2021)</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.13916">http://arxiv.org/abs/2203.13916</a></p>
+
+<p>作者： Oscar Fontanelli, Plinio Guzmán, Amílcar Meneses, Alfredo Hernández, Marisol Flores-Garrido, Maribel Hernández-Rosales, Guillermo de Anda-Jáuregui</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.13916v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们展示了一组网络，这些网络描述了 2020 年至 2021 年间墨西哥城市之间的旅行模式。使用匿名的移动设备地理位置数据，我们构建了代表城市之间（标准化）旅行量的有向加权网络。我们分析了全局（图总权重总和）、局部（中心性度量）和中尺度（社区结构）网络特征的变化。我们观察到这些特征的变化与 Covid-19 限制和人口规模等因素有关。总体而言，2020 年初的事件（实施最初的 Covid-19 限制时）导致网络功能发生更剧烈的变化，而后来的事件对网络功能的影响不那么显著。我们相信这些网络将对交通、基础设施规划、流行病控制和整个网络科学领域的研究人员和决策者有用。</p>
+
+<h3 id="边上的-graphblas-网络流量的高性能流">边上的 GraphBLAS：网络流量的高性能流</h3>
+
+<p>原文标题： GraphBLAS on the Edge: High Performance Streaming of Network Traffic</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.13934">http://arxiv.org/abs/2203.13934</a></p>
+
+<p>作者： Michael Jones, Jeremy Kepner, Daniel Andersen, Aydin Buluc, Chansup Byun, K Claffy, Timothy Davis, William Arcand, Jonathan Bernays, David Bestor, William Bergeron, Vijay Gadepally, Micheal Houle, Matthew Hubbell, Hayden Jananthan, Anna Klein, Chad Meiners, Lauren Milechin, Julie Mullen, Sandeep Pisharody, Andrew Prout, Albert Reuther, Antonio Rosa, Siddharth Samsi, Jon Sreekanth, Doug Stetson, Charles Yee, Peter Michaleas</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.13934v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 远程探测是许多作战领域（陆地、海洋、海底、空中、太空……）防御的基石。在网络领域，远程检测需要分析来自各种观测站和前哨站的重要网络流量。在边网络设备上构建匿名超稀疏流量矩阵可以成为关键的推动因素，它以可快速分析的格式提供重要的数据压缩，以保护隐私。 GraphBLAS 非常适合构建和分析匿名超稀疏流量矩阵。 GraphBLAS 在 Accolade Technologies 边网络设备上的性能通过使用 CAIDA Telescope 暗网数据包的连续流在几乎更差的流量场景中得到证明。探讨了不同数量的流量缓冲区、线程和处理器内核的性能。可以以每秒超过 50,000,000 个数据包的速率构建匿名超稀疏流量矩阵；超过典型的 400 Gigabit 网络链接。这一性能表明，匿名超稀疏流量矩阵很容易在边网络设备上以最少的计算资源进行计算，并且可以成为此类设备的可行数据产品。</p>
+
+<h3 id="你的网络有多脆弱-比你想象的更多">你的网络有多脆弱？比你想象的更多</h3>
+
+<p>原文标题： How fragile is your network? More than you think</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.13943">http://arxiv.org/abs/2203.13943</a></p>
+
+<p>作者： Jeremie Fish, Mahesh Banavar, Erik Bollt</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.13943v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 图在我们的日常生活中无处不在，与生物学、互联网和基础设施以及许多其他应用程序相关。因此，有必要理解图分解的速度有多快，无论是随机失败还是有针对性的攻击。虽然对这个主题的大部分兴趣都集中在有针对性地去除节点上，但最近对有针对性的边去除产生了一些兴趣。在这里，我们专注于图对边移除的鲁棒性。我们定义了一个网络脆弱性的度量，它将被移除的边的分数与最大的连通分量相关联。我们构建了一类对边去除具有鲁棒性的图。此外，事实证明，图的分解速度通常比贪婪的目标攻击所预期的要快。最后表明，我们的脆弱性测量证明了真实和自然的网络。</p>
+
+<h3 id="犯罪与社会环境-轻罪与重罪的区别">犯罪与社会环境：轻罪与重罪的区别</h3>
+
+<p>原文标题： Crime and social environments: Differences between misdemeanors and felonies</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.14077">http://arxiv.org/abs/2203.14077</a></p>
+
+<p>作者： Juyoung Kim, Jinhyuk Yun</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.14077v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 由于城市地区的人口密度不断增加，许多人越来越容易受到犯罪活动的影响。犯罪率的上升增加了守法公民身体和心理受到伤害的风险，造成焦虑。从复杂系统的角度来看，通过数据科学预防犯罪可以解决这些问题。然而，以前的研究只关注犯罪的一个方面，而忽略了各种特征之间的复杂相互作用，在分析中必须考虑到这些特征，以理解犯罪活动背后的动态。在这项研究中，我们使用美国的州级统计数据检查了 12 个已被确定为与犯罪率相关的特征。我们发现轻罪和重罪的相关性不同。轻罪的数量与警察分局密切相关，而重罪率与枪支拥有和幸福感密切相关。我们的研究结果表明，对轻罪的应对措施应与对重罪的应对措施区别对待。</p>
+
+<h3 id="图神经网络与常用机器学习算法在假新闻检测中的对比分析">图神经网络与常用机器学习算法在假新闻检测中的对比分析</h3>
+
+<p>原文标题： A comparative analysis of Graph Neural Networks and commonly used machine learning algorithms on fake news detection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.14132">http://arxiv.org/abs/2203.14132</a></p>
+
+<p>作者： Fahim Belal Mahmud, Mahi Md. Sadek Rayhan, Mahdi Hasan Shuvo, Islam Sadia, Md.Kishor Morol</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.14132v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 社交媒体上的假新闻越来越被视为最令人担忧的问题之一。低成本、可通过社交平台轻松访问以及过多的低预算在线新闻来源是导致虚假新闻传播的一些因素。大多数现有的假新闻检测算法只关注新闻内容，但参与用户之前的帖子或社交活动提供了大量关于他们对新闻的看法的信息，并且具有提高假新闻识别的显著能力。图神经网络是一种深度学习方法，可以对图描述的数据进行预测。社交媒体平台在表示上遵循图结构，图神经网络是通常可以应用于图的特殊类型的神经网络，使得执行边、节点和图级预测变得更加容易。因此，在本文中，我们对一些常用的机器学习算法和图神经网络在社交媒体平台上检测虚假新闻的传播进行了比较分析。在本研究中，我们采用 UPFD 数据集并仅在文本数据上实现几种现有的机器学习算法。除此之外，我们创建了不同的 GNN 层，用于融合图结构的新闻传播数据和文本数据作为 GNN 模型中的节点特征。 GNN 为我们研究中识别虚假新闻的困境提供了最佳解决方案。</p>
+
+<h3 id="多层专利引用网络-研究显式技术关系的综合分析框架">多层专利引用网络：研究显式技术关系的综合分析框架</h3>
+
+<p>原文标题： Multilayer patent citation networks: A comprehensive analytical framework for studying explicit technological relationships</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.14479">http://arxiv.org/abs/2203.14479</a></p>
+
+<p>作者： Kyle Higham, Martina Contisciani, Caterina De Bacco</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.14479v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 使用专利引用网络作为研究工具在创新研究领域变得越来越普遍。然而，这些网络很少考虑产生这些引文的背景，并且通常仅限于一个司法管辖区。在这里，我们提出并探索了多层网络框架的使用，该框架可以自然地包含引文元数据并跨越司法管辖区，从而可以通过专利数据全面理解全球技术格局。采用保守的方法，通过三元专利家族链接引文网络层，我们首先观察到这些层包含关于技术关系的互补信息，而不是冗余信息。为了探究这种互补性的本质，我们从多层网络和类似的单层网络中提取网络社区，然后直接将它们的技术组成与已建立的技术相似性网络进行比较。我们发现，虽然在多层案例中技术在社区中更加分散，但提取的社区与已建立的网络更加匹配。我们得出结论，通过刻画引用上下文，与传统的单层方法相比，专利引用网络的多层表示在概念上和经验上能够更好地刻画实际技术关系中存在的重大细微差别。我们建议未来的研究途径，利用为多层网络设计的新型计算工具。</p>
+
+<h3 id="阿根廷银行间市场的网络结构和分散化">阿根廷银行间市场的网络结构和分散化</h3>
+
+<p>原文标题： Network structure and fragmentation of the Argentinean interbank markets</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.14488">http://arxiv.org/abs/2203.14488</a></p>
+
+<p>作者： Federico Forte, Pedro Elosegui, Gabriel Montes-Rojas</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.14488v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本文研究了阿根廷银行间市场的网络结构和碎片化。应用复杂的网络分析，检查了无担保（CALL）和有担保（REPO）市场。结果表明，尽管有担保市场的参与者较少，但其节点比无担保市场更密集。无担保市场的相互关​​系不太稳定，使其结构更加不稳定，更容易受到负面冲击的影响。该分析确定了 REPO 市场中两个“隐藏”的底层子网络：一个基于以国债 (REPO-T) 为抵押的交易，另一个基于由中央银行 (CB) 证券 (REPO-CB) 抵押的操作。货币政策立场和货币状况的变化对前者的影响似乎远小于对后者“子市场”的影响。 REPO-T 市场内的连通性水平及其结构相对不受市场其他部分（在某些时期明显）波动的影响。因此，根据交易中涉及的抵押资产类型，REPO 市场的内部结构显示出碎片化迹象，因此平均 REPO 利率反映了这两个部分分散的子市场之间的相互作用。 REPO 市场的这种混合结构是 CALL 市场差异化的主要来源之一。</p>
+
+<h3 id="创意引擎-从市场和基因演化到科学的创新和过时的统一理论">创意引擎：从市场和基因演化到科学的创新和过时的统一理论</h3>
+
+<p>原文标题： Idea engines: A unified theory of innovation and obsolescence from markets and genetic evolution to science</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.14611">http://arxiv.org/abs/2203.14611</a></p>
+
+<p>作者： Edward D. Lee, Christopher P. Kempes, Geoffrey B. West</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.14611v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 创新和过时描述了从经济市场的发展和科学进步到生物演化的不断变化和适应的社会和生物系统的动态。这幅画的共同点是主体人破坏并扩展了他们生活的“思想格”，寻找新的可能性并使旧的解决方案变得无关紧要。我们通过一个简单的模型关注这一方面，以研究复制主体发现新想法的速度与旧想法被淘汰的速度之间的中心关系。当这些比率相等时，可能的空间（例如想法、市场、技术、突变）仍然是有限的。积极或消极的区别将繁荣、不断扩展的思想格与熊彼特式的反乌托邦区分开来，在后者中，过时导致系统崩溃。我们根据新主体进入、复制和死亡的速率来映射相空间。当我们将模型扩展到更高维图、合作主体或倒置的、过时驱动的创新时，我们发现模型的基本特征得以保留。在所有情况下，我们预测主体的密度分布在新旧范围内的变化，例如靠近两个边界的密度下降。在将我们的模型与数据进行比较时，我们发现密度揭示了企业成本效率和生物演化方面的追随者动态，而科学进步则反映了等待旧观念过时的共识。我们展示了创新和淘汰的基本力量如何为复杂系统提供统一的视角，这可能有助于我们理解、利用和塑造它们的集体成果。</p>
+
+<h3 id="针对需求和安全的数据驱动自行车网络规划">针对需求和安全的数据驱动自行车网络规划</h3>
+
+<p>原文标题： Data-driven bicycle network planning for demand and safety</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.14619">http://arxiv.org/abs/2203.14619</a></p>
+
+<p>作者： Pietro Folco, Laetitia Gauvin, Michele Tizzoni, Michael Szell</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.14619v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 为自行车和微型交通开发安全的基础设施是迈向气候友好、可持续和宜居城市的有效途径。然而，城市自行车基础设施通常是临时规划的，充其量是由调查数据提供的。对于一个系统的、数据驱动的规划过程，我们开发了一个自动化规划框架，使用现有网络和经验性电动滑板车旅行和自行车碰撞的数据作为需求和安全的主体，以生成一个有凝聚力的网络，优化公共卫生利益，同时最大限度地减少投资。我们引入了一个参数来调整基于需求的开发和基于安全的开发之间的焦点，并系统地研究都灵市的这种权衡。我们发现，完全关注需求或安全会在短期内产生不同的网络扩展，并在两者之间进行最佳权衡。从长远来看，我们的框架可以提高整体网络质量，而不受短期关注的影响。因此，这种数据驱动的过程可以为城市规划者提供可变的短期情景规划的自动化帮助，同时保持可持续的、跨越城市的微型交通网络的长期目标。</p>
+
+<h3 id="基于真实数据集的共享电动自行车用户停车行为分析-爱尔兰都柏林的案例研究">基于真实数据集的共享电动自行车用户停车行为分析——爱尔兰都柏林的案例研究</h3>
+
+<p>原文标题： Parking Behaviour Analysis of Shared E-Bike Users Based on a Real-World Dataset &ndash; A Case Study in Dublin, Ireland</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.14764">http://arxiv.org/abs/2203.14764</a></p>
+
+<p>作者： Sen Yan, Mingming Liu, Noel E. O&rsquo;Connor</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.14764v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 近年来，越来越多的共享电动自行车在我们的城市迅速推广。因此，理解骑自行车者的新行为模式变得很重要，他们将这些电动自行车用作共享微型移动服务的新颖设计的基础，作为实现下一代智能交通系统的一部分。在本文中，我们通过使用从共享电动自行车公司 MOBY（目前在爱尔兰都柏林运营）收集的真实数据集，深入调查共享电动自行车的用户行为。更具体地说，我们调查了用户的停车行为，因为我们知道这些自行车的不当停车不仅会增加公司的管理成本，还会给其他用户带来不便，尤其是在电池短缺的情况下，这不可避免地会降低这些共享电动自行车的整体运营效率。我们的工作以完全匿名和符合 GDPR 的方式在自行车站和个人层面进行了分析，我们的结果表明，多达 12.9% 的共享电动自行车用户没有将自行车正确停放在指定的站台上。已经应用了不同的可视化工具来更好地说明我们获得的结果。</p>
+
+<h3 id="生于罗马-或-睡美人-微博上话题标签的流行">“生于罗马”或“睡美人”：微博上话题标签的流行</h3>
+
+<p>原文标题： &ldquo;Born in Rome&rdquo; or &ldquo;Sleeping Beauty&rdquo;: Emergence of hashtag popularity on a microblogging site</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.14802">http://arxiv.org/abs/2203.14802</a></p>
+
+<p>作者： Hao Cui, János Kertész</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.14802v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 为了理解在线社会网络复杂系统中主题标签流行度的出现，我们研究了中国最大的微博网站新浪微博，该网站有一个热门搜索列表 (HSL)，实时显示基于搜索活动的 50 个最受欢迎的主题标签的排名。我们通过将选择之前的相关交互网络映射到 HSL 来调查 2020 年 7 月 17 日至 2020 年 9 月 17 日成功主题标签的史前史。我们发现，昼夜活动模式会影响到达 HSL 所需的时间。这次分析时，我们区分了两个极端类别：a）“生于罗马”，这意味着标签大多由超级中心创建或在传播的早期阶段到达超级中心，因此立即受到广泛的广泛关注public，和 b) “睡美人”，这意味着标签在开始时很少受到关注，并在相当长的时间滞后后达到系统范围内的流行。在进入 HSL 之前，成功主题标签的转发网络的演变显示出两种类型的增长模式：“平滑”和“逐步”。前者通常由一个超级枢纽主导，而后者则由较小枢纽的连续贡献波产生。不成功的主题标签的转发网络表现出简单的演变模式。</p>
+
+<h3 id="估计教育环境中的-sars-cov-2-传播-一项回顾性队列研究">估计教育环境中的 SARS-CoV-2 传播：一项回顾性队列研究</h3>
+
+<p>原文标题： Estimating SARS-CoV-2 transmission in educational settings: a retrospective cohort study</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.14826">http://arxiv.org/abs/2203.14826</a></p>
+
+<p>作者： Mattia Manica, Piero Poletti, Silvia Deandrea, Giansanto Mosconi, Cinzia Ancarani, Silvia Lodola, Giorgio Guzzetta, Valeria d&rsquo;Andrea, Valentina Marziano, Agnese Zardini, Filippo Trentini, Anna Odone, Marcello Tirani, Marco Ajelli, Stefano Merler</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.14826v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 背景 学校停课和远程学习已被广​​泛应用于控制 SARS-CoV-2 传播。尽管有证据表明病毒在学校传播，但学生和亲自上学对传播的贡献仍然很难量化。方法 我们分析了 976 起暴露事件，涉及 460 名阳性个体，这些事件于 2021 年初通过例行监测以及在意大利一个小城市爆发期间对学生、学校工作人员及其家庭成员进行的广泛筛查确定。结果 通过对潜在传播链的分析，我们估计平均分别有 55.1%、17.3% 和 27.6% 的感染事件与家庭、学校和社区接触有关。来自学生或学校人员的集群显示出更大的平均集群规模（3.32 vs 1.15），更大的传播链平均世代数（1.56 vs 1.17）和更大的相关密切接触者集（平均11.3 vs 3.15） .我们发现了大量的传播异质性，20% 的阳性个体播种了所有传播的 75-80 个。在学生中发现更高比例的感染者导致继续传播（平均 48.8% 对 29.9%），他们也导致继发病例数显著增加（平均值：1.3 对 0.5）。结论 学校不受控制的传播可能会扰乱教学活动的正常进行，可能会将传播播种到其他环境中，并增加接触者追踪工作的负担。</p>
+
+<h3 id="亲密友谊的更替-年龄和性别差异">亲密友谊的更替：年龄和性别差异</h3>
+
+<p>原文标题： Turnover in close friendships: age and gender differences</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.14854">http://arxiv.org/abs/2203.14854</a></p>
+
+<p>作者： Chandreyee Roy, Kunal Bhattacharya, Robin I.M. Dunbar, Kimmo Kaski</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.14854v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 人类是社会动物，他们之间形成的人际关系对于他们在社会中的发展和福祉至关重要。这些关系通常分为几层（邓巴的友谊层），具体取决于它们在个人生活中的重要性，其中最亲密的朋友和家人是最重要的人，他们花费了大部分时间和沟通努力。然而，我们几乎不知道这些关系的开始和终止是如何在整个生命周期中发生的。为了探索这一点，我们分析了一个国家手机数据库，以确定两种性别的亲密关系如何以及何时发生变化。一般来说，这种亲密关系内圈的成员是非常稳定的，至少在三年内是这样。然而，每年约有 1-4% 的变化发生变化，17-21 岁的变化率高于老年人。年轻的成年女性更多地终止了他们的异性关系，而年长的男性则更坚持试图维持下降的关系。这些结果强调了跨年龄和性别的关系动态的可变性，并提醒我们个体差异在社会网络的结构中起着重要作用。总体而言，我们的研究提供了对人类生命过程中关系动态性质的整体理解。</p>
+
+<h3 id="社会规范的异质分布对传染病传播的影响">社会规范的异质分布对传染病传播的影响</h3>
+
+<p>原文标题： The effect of heterogeneous distributions of social norms on the spread of infectious diseases</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.14885">http://arxiv.org/abs/2203.14885</a></p>
+
+<p>作者： Daniele Vilone, Giulia Andrighetto</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.14885v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 由于由 SARS-CoV-2 病毒引起的 COVID-19 疾病的爆发，于 2020 年初在中国突然爆发，并很快在全球蔓延。这导致对病毒本身的研究显著增加，更一般地说，导致许多科学领域的流行病。在这项工作中，我们关注流行病传播的动态以及它如何受到个体变异性以符合社会规范的影响，即在人口成员采用健康和卫生社会规范方面。</p>
+
+<h3 id="数字联系人追踪-大规模地理定位数据替代基于蓝牙的应用程序失败">数字联系人追踪：大规模地理定位数据替代基于蓝牙的应用程序失败</h3>
+
+<p>原文标题： Digital Contact Tracing: Large-scale Geolocation Data as an Alternative to Bluetooth-based Apps&rsquo; Failure</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2101.07024">http://arxiv.org/abs/2101.07024</a></p>
+
+<p>作者： José González-Cabañas, Ángel Cuevas, Rubén Cuevas, Martin Maier</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2101.07024v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在 COVID-19 大流行的背景下，当前部署的接触者追踪移动应用程序未能作为一种有效的解决方案。他们都没有设法吸引实现高效运营所需的活跃用户数量。这敦促研究界重新展开辩论并探索导致有效接触者追踪解决方案的新途径。本文通过一种替代的接触追踪解决方案为这场辩论做出了贡献，该解决方案利用了 BigTech 公司拥有的现有地理定位信息，在大多数国家/地区采用接触追踪移动应用程序的渗透率非常高。此外，我们的解决方案提供了足够的隐私保证来保护受感染用户的身份，并阻止卫生当局从个人那里获取联系图。</p>
+
+<h3 id="通过删除操作-twitter">通过删除操作 Twitter</h3>
+
+<p>原文标题： Manipulating Twitter Through Deletions</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.13893">http://arxiv.org/abs/2203.13893</a></p>
+
+<p>作者： Christopher Torres-Lugo, Manita Pote, Alexander Nwala, Filippo Menczer</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.13893v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 对 Twitter 影响力活动的研究主要依赖于从通过公共 API 获得的推文中识别恶意活动。这些 API 提供对尚未删除的公共推文的访问。但是，不良行为者可以策略性地删除内容以操纵系统。不幸的是，基于公开可用的 Twitter 数据的估计低估了真实的删除量。在这里，我们对异常删除模式进行了首次详尽的大规模分析，涉及超过 1100 万个账户的超过 10 亿次删除。我们发现一小部分账户每天都会删除大量推文。我们还发现了两种利用删除的滥用行为。首先，绕过了对推文量的限制，允许某些帐户以每天超过 26,000 条推文充斥网络。其次，协调的帐户网络对最终被删除的内容进行重复的喜欢和不喜欢，这可以操纵排名算法。可以利用这些滥用行为来扩大内容并提高人气，同时逃避检测。我们的研究为平台和研究人员提供了识别社交媒体滥用的新方法。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220329/">https://netsci.complexly.cn/post/20220329/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20220328/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要5篇(2022-03-28)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
