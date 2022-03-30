@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要10篇(2022-03-30) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+随机几何图：一些最近的发展和观点;
+摘要图中的边权重有用吗？ &ndash; 比较研究;
+由优势关系引导的空间感知本地社区检测;
+谁是下一个：通过用户对社会网络的兴趣扩散来预测后起之秀;
+复杂网络上具有适应性预防的流行病爆发;
+Deepfakes 是否值得关注？分析 Reddit 上 Deepfakes 的对话并探索社会影响;
+支持国家实验室深度技术转移的项目;
+人机协作在基于文本的点对点心理健康支持中实现更多的移情对话;
+生存分析用于用户脱离预测：问答社区案例;
+去中心化在线社会网络中的信息消费与边界跨越：以 Mastodon 用户为例;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要10篇(2022-03-30) - 网络科学研究速递">
+<meta itemprop="description" content="
+随机几何图：一些最近的发展和观点;
+摘要图中的边权重有用吗？ &ndash; 比较研究;
+由优势关系引导的空间感知本地社区检测;
+谁是下一个：通过用户对社会网络的兴趣扩散来预测后起之秀;
+复杂网络上具有适应性预防的流行病爆发;
+Deepfakes 是否值得关注？分析 Reddit 上 Deepfakes 的对话并探索社会影响;
+支持国家实验室深度技术转移的项目;
+人机协作在基于文本的点对点心理健康支持中实现更多的移情对话;
+生存分析用于用户脱离预测：问答社区案例;
+去中心化在线社会网络中的信息消费与边界跨越：以 Mastodon 用户为例;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要10篇(2022-03-30) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220330/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+随机几何图：一些最近的发展和观点;
+摘要图中的边权重有用吗？ &ndash; 比较研究;
+由优势关系引导的空间感知本地社区检测;
+谁是下一个：通过用户对社会网络的兴趣扩散来预测后起之秀;
+复杂网络上具有适应性预防的流行病爆发;
+Deepfakes 是否值得关注？分析 Reddit 上 Deepfakes 的对话并探索社会影响;
+支持国家实验室深度技术转移的项目;
+人机协作在基于文本的点对点心理健康支持中实现更多的移情对话;
+生存分析用于用户脱离预测：问答社区案例;
+去中心化在线社会网络中的信息消费与边界跨越：以 Mastodon 用户为例;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220330/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220330/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要10篇(2022-03-30)</h1>
+
+                  <p class="post-byline">
+                    2022年03月30日 · 4291 字 ·
+                    阅读时间约9分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>随机几何图：一些最近的发展和观点;</li>
+<li>摘要图中的边权重有用吗？ &ndash; 比较研究;</li>
+<li>由优势关系引导的空间感知本地社区检测;</li>
+<li>谁是下一个：通过用户对社会网络的兴趣扩散来预测后起之秀;</li>
+<li>复杂网络上具有适应性预防的流行病爆发;</li>
+<li>Deepfakes 是否值得关注？分析 Reddit 上 Deepfakes 的对话并探索社会影响;</li>
+<li>支持国家实验室深度技术转移的项目;</li>
+<li>人机协作在基于文本的点对点心理健康支持中实现更多的移情对话;</li>
+<li>生存分析用于用户脱离预测：问答社区案例;</li>
+<li>去中心化在线社会网络中的信息消费与边界跨越：以 Mastodon 用户为例;</li>
+</ul>
+
+<p></p>
+
+<h3 id="随机几何图-一些最近的发展和观点">随机几何图：一些最近的发展和观点</h3>
+
+<p>原文标题： Random Geometric Graph: Some recent developments and perspectives</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.15351">http://arxiv.org/abs/2203.15351</a></p>
+
+<p>作者： Quentin Duchemin (LAMA), Yohann de Castro (ICJ)</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.15351v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 随机几何图 (RGG) 是具有底层空间表示的网络数据的随机图模型。几何赋予 RGG 丰富的依赖结构，并经常导致现实世界网络的理想属性，例如小世界现象和聚类。 RGG 最初是为了模拟无线通信网络而引入的，现在在从网络用户分析到生物学中的蛋白质-蛋白质相互作用等应用中非常流行。 RGG 也具有纯粹的理论意义，因为底层几何会引发具有挑战性的数学问题。他们的解决方案涉及概率、统计学、组合学或信息论的结果，将 RGG 置于大量研究社区的交叉点。本文从高维设置和非参数推理的角度审视了 RGG 的最新发展。我们还解释了该模型与基于经典社区的随机图模型的不同之处，并回顾了最近试图两全其美的作品。作为副产品，我们公开了证明中使用的数学工具的范围。</p>
+
+<h3 id="摘要图中的边权重有用吗-比较研究">摘要图中的边权重有用吗？ &ndash; 比较研究</h3>
+
+<p>原文标题： Are Edge Weights in Summary Graphs Useful? &ndash; A Comparative Study</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.15212">http://arxiv.org/abs/2203.15212</a></p>
+
+<p>作者： Shinhwan Kang, Kyuhan Lee, Kijung Shin</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.15212v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在有和没有边权重的两个代表性图摘要模型之间，哪一个更好？从网络图到在线社会网络，大图无处不在。图汇总是一种有效的图压缩技术，旨在找到一个紧凑的汇总图，可以准确地表示给定的大图。该问题的两个版本，一个允许摘要图中的边权重，另一个不允许，已经并行研究，没有直接比较它们的底层表示模型。在这项工作中，我们通过将三种搜索算法扩展到两个模型并在五个方面评估它们在八个数据集上的输出来进行系统比较：（a）重建误差，（b）节点重要性误差，（c）节点接近度误差， (d) 重构图的大小，和 (e) 压缩比。令人惊讶的是，使用未加权汇总图在所有方面的输出都明显优于使用加权汇总图，这一发现在理论上得到了支持。值得注意的是，我们表明，当（ e) 是固定的) 基于观察。</p>
+
+<h3 id="由优势关系引导的空间感知本地社区检测">由优势关系引导的空间感知本地社区检测</h3>
+
+<p>原文标题： Spatial-Aware Local Community Detection Guided by Dominance Relation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.15215">http://arxiv.org/abs/2203.15215</a></p>
+
+<p>作者： Li Ni, Hefei Xu, Yiwen Zhang, Wenjian Luo</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.15215v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 为给定节点寻找空间感知社区的问题已在地理社会网络中定义和研究。然而，现有研究存在两个局限性：a) 定义社区的标准由难以设定的参数确定； b) 算法可能需要全局信息，不适用于网络不完整的情况。因此，我们提出了空间感知局部社区检测（SLCD），它仅通过局部信息找到具有空间感知的局部社区，并根据社区内外边稀疏度的差异来定义社区。具体来说，为理解决 SLCD 问题，我们设计了一种基于优势关系的空间感知局部社区检测算法，但该算法成本高。为了进一步提高效率，我们提出了一种近似算法。实验结果表明，所提出的近似算法优于比较算法。</p>
+
+<h3 id="谁是下一个-通过用户对社会网络的兴趣扩散来预测后起之秀">谁是下一个：通过用户对社会网络的兴趣扩散来预测后起之秀</h3>
+
+<p>原文标题： Who is next: rising star prediction via diffusion of user interest in social networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.14807">http://arxiv.org/abs/2203.14807</a></p>
+
+<p>作者： Xuan Yang, Yang Yang, Jintao Su, Yifei Sun, Shen Fan, Zhongyao Wang, Jun Zhang, Jingmin Chen</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.14807v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在在线市场中，寻找具有增加销售潜力的商品非常重要。在本文中，我们建议研究这个新颖而实用的问题：后起之秀预测。我们将这些有潜力的单品称为新星，这意味着它们有能力从低周转单品上升到未来的畅销单品。新星可用于帮助电子商务平台进行不公平推荐，平衡供需，使零售商受益，合理配置营销资源。研究后起之秀虽然可以带来很大的好处，但也给我们带来了挑战。后起之秀的销售趋势在短期内波动较大，并且比其他项目表现出更多由一些外部事件（例如，COVID-19 导致购买口罩增加）引起的偶然性，这是现有销售预测方法无法解决的。为了应对上述挑战，在本文中，我们观察到后起之秀的存在与用户对社会网络的兴趣的早期扩散密切相关，这在淘码（一种在淘宝上传播用户兴趣的中介）的案例中得到了验证。因此，我们提出了一个新的框架 RiseNet，将用户兴趣扩散过程与项目动态特征结合起来，以有效地预测新星。具体来说，我们采用耦合机制来捕捉项目和用户兴趣之间的动态相互作用，并采用特殊设计的基于 GNN 的框架来量化用户兴趣。我们在淘宝提供的大规模真实世界数据集上的实验结果证明了我们提出的框架的有效性。</p>
+
+<h3 id="复杂网络上具有适应性预防的流行病爆发">复杂网络上具有适应性预防的流行病爆发</h3>
+
+<p>原文标题： Epidemic outbreaks with adaptive prevention on complex networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.15024">http://arxiv.org/abs/2203.15024</a></p>
+
+<p>作者： Diogo H. Silva, Celia Anteneodo, Silvio C. Ferreira</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.15024v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 采取预防态度，例如社会隔离和使用口罩，以减轻流行病的爆发，很大程度上取决于民众的支持。在这项工作中，我们研究了一个易感感染恢复 (SIR) 流行病模型，其中对环境的流行病学感知可以使易感个体的行为适应预防行为。 考虑了易感个体的两个隔间，以区分那些采取或不采取预防态度的人。 研究了两个规则，取决于当地和全球流行病流行率，用于异质网络中流行病的传播。我们展示了异质平均场理论和随机模拟的结果。前者在全局规则中表现良好，但在局部情况下错过了模拟的相关结果。在模拟中，只有局部意识才能显著提高流行阈值，延缓流行高峰，减少暴发规模。有趣的是，我们观察到提高本地感知率会导致受保护国家招募的人数减少，但仍能提高缓解疫情的有效性。我们还报告说，网络异质性大大降低了本地意识机制的功效，因为集线器是 SIR 动态的超级传播者，在低流行病流行状态下对流行病环境几乎没有反应。我们的研究结果表明，提高对谁在社交上非常活跃的认知的策略可以改善流行病爆发的缓解。</p>
+
+<h3 id="deepfakes-是否值得关注-分析-reddit-上-deepfakes-的对话并探索社会影响">Deepfakes 是否值得关注？分析 Reddit 上 Deepfakes 的对话并探索社会影响</h3>
+
+<p>原文标题： Are Deepfakes Concerning? Analyzing Conversations of Deepfakes on Reddit and Exploring Societal Implications</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.15044">http://arxiv.org/abs/2203.15044</a></p>
+
+<p>作者： Dilrukshi Gamage, Piyush Ghasiya, Vamshi Krishna Bonagiri, Mark E Whiting, Kazutoshi Sasahara</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.15044v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： Deepfake 是使用先进的深度学习和人工智能技术生成的合成内容。技术的进步为任何人创造了更容易创建和分享深度伪造的机会。这可能会导致基于社区如何参与的社会担忧。但是，可用于理解社区如何看待 deepfake 的研究有限。我们检查了 2018 年至 2021 年在 Reddit 上的 deepfake 对话——包括主要主题及其时间变化以及这些对话的含义。使用混合方法——主题建模和定性编码，我们发现 6,638 条帖子和 86,425 条评论讨论了对深度伪造的可信性质以及平台如何调节它们的担忧。我们还发现 Reddit 的对话支持 deepfake，并建立了一个支持创建和共享 deepfake 工件以及建立市场的社区，无论后果如何。从定性代码得出的可能影响表明，深度伪造对话引起了社会关注。我们建议人机交互 (HCI) 可以减轻深度伪造造成的危害。</p>
+
+<h3 id="支持国家实验室深度技术转移的项目">支持国家实验室深度技术转移的项目</h3>
+
+<p>原文标题： Programs Enabling Deep Technology Transfer from National Labs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.15128">http://arxiv.org/abs/2203.15128</a></p>
+
+<p>作者： asou Arai, Farah Fahim, Ryosuke Furubayashi, Matthew Garrett, Shaorui Li, Kathleen McDonald, Aaron Sauers, Mauricio Suarez, Koji Yoshimura</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.15128v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 为了最大限度地发挥技术转让潜力，重要的是为发明者创建一个生态系统，以使为基础科学开发的技术适应成功的商业企业。在本白皮书中，我们简要概述了高能物理 (HEP) 实验室的技术转让计划，重点关注费米实验室和 KEK 的计划，并确定了在以 HEP 为中心的实验室增加合作伙伴关系和商业化的机会和建议。</p>
+
+<h3 id="人机协作在基于文本的点对点心理健康支持中实现更多的移情对话">人机协作在基于文本的点对点心理健康支持中实现更多的移情对话</h3>
+
+<p>原文标题： Human-AI Collaboration Enables More Empathic Conversations in Text-based Peer-to-Peer Mental Health Support</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.15144">http://arxiv.org/abs/2203.15144</a></p>
+
+<p>作者： Ashish Sharma, Inna W. Lin, Adam S. Miner, David C. Atkins, Tim Althoff</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.15144v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 人工智能 (AI) 的进步使得能够增强人类并与人类协作的系统能够执行简单的机械任务，例如安排会议和语法检查文本。然而，由于人工智能系统难以理解复杂的人类情感以及这些任务的开放性，这种人机协作对更复杂的、创造性的任务（例如进行移情对话）提出了挑战。在这里，我们专注于点对点心理健康支持，在这种环境中，同理心对成功至关重要，并研究人工智能如何与人类合作，在文本、在线支持性对话中促进同侪同理心。我们开发了 Hailey，这是一种 AI 在环主体，可提供及时反馈，以帮助提供支持的参与者（同伴支持者）更善解人意地回应那些寻求帮助的人（寻求支持者）。我们在大型在线点对点支持平台 TalkLife (N=300) 上与现实世界的同伴支持者一起在一项非临床随机对照试验中评估 Hailey。我们表明，我们的人机协作方法使同伴之间的对话同理心整体提高了 19.60%。此外，我们发现自认为难以提供支持的同伴支持者子样本中的同理心增加了 38.88%。我们系统地分析了人与人工智能的协作模式，发现同行支持者能够直接和间接地使用人工智能反馈，而不会过度依赖人工智能，同时报告反馈后自我效能的提高。我们的研究结果证明了反馈驱动的、人工智能在环写作系统的潜力，可以在开放式、社交、创造性的任务（如移情对话）中赋予人类权力。</p>
+
+<h3 id="生存分析用于用户脱离预测-问答社区案例">生存分析用于用户脱离预测：问答社区案例</h3>
+
+<p>原文标题： Survival analysis for user disengagement prediction: question-and-answering communities&rsquo; case</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.15255">http://arxiv.org/abs/2203.15255</a></p>
+
+<p>作者： Hassan Abedi Firouzjaei</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.15255v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在这项工作中，我们使用生存分析来模拟用户在三个不同的问答社区中的脱离接触。我们使用了 Politics、Data Science、Computer Science Stack Exchange 社区从成立到 2021 年 5 月的完整历史数据，其中包括有关作为这三个社区之一成员的所有用户的信息。此外，将用户脱离预测制定为生存分析任务，我们利用两种生存分析技术来建模和预测每个社区成员脱离接触的概率。我们的主要发现是，即使贡献很少的用户保持活跃的可能性明显高于没有贡献的用户；随着时间的推移，这种区别可能会扩大。此外，我们的实验结果表明，对平台上共享的内容有更积极看法的用户可能会保持更长时间的参与。最后，观察到的模式适用于所有三个社区，无论其主题如何。</p>
+
+<h3 id="去中心化在线社会网络中的信息消费与边界跨越-以-mastodon-用户为例">去中心化在线社会网络中的信息消费与边界跨越：以 Mastodon 用户为例</h3>
+
+<p>原文标题： Information Consumption and Boundary Spanning in Decentralized Online Social Networks: the case of Mastodon Users</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.15752">http://arxiv.org/abs/2203.15752</a></p>
+
+<p>作者： Lucio La Cava, Andrea Tagarelli</p>
+
+<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2203.15752v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 去中心化在线社会网络 (DOSN) 代表了社交媒体领域的一种增长趋势，这与众所周知的中心化同行相反，后者由于隐私问题和通常专注于通过用户关系获利的愿景而经常受到关注。通过利用开源软件，DOSN 允许用户创建自己的服务器或实例，从而促进独立但以透明方式相互连接的平台的扩散。尽管如此，由此产生的合作模型，通常被称为 Fediverse，仍然代表着一个有待充分发现的世界，因为现有的研究主要集中在对 DOSN 感兴趣的有限数量的结构方面。在这项工作中，我们旨在通过采取两项主要行动来填补对 DOSN 中用户关系和角色研究的不足：理解去中心化对用户在其成员资格实例中和/或不同实例之间如何相互关联的影响，以及揭示可以解释社会行为现象的两个相互关联的轴的用户角色，即信息消费和边界跨越。为此，我们对来自 Mastodon 的用户网络进行了分析，因为它代表了使用最广泛的 DOSN 平台。我们相信，我们对 Mastodon 用户角色和信息流的研究得出的结果可以为进一步发展关于 DOSN 的迷人研究铺平道路。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220330/">https://netsci.complexly.cn/post/20220330/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20220329/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要19篇(2022-03-29)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
