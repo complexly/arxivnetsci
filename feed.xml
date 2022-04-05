@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 01 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2022-04-05)</title>
+      <link>https://netsci.complexly.cn/post/20220405/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220405/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;人类身体活动的突发性及其表征;&lt;/li&gt;
+&lt;li&gt;用于动态图可视化的在线力导向算法;&lt;/li&gt;
+&lt;li&gt;使用地点网络中的模体属性表征城市生活方式特征;&lt;/li&gt;
+&lt;li&gt;竞争性社会传染的动力学：对称性破坏和平衡不确定性;&lt;/li&gt;
+&lt;li&gt;开发当前估计的家庭数据和基于主体的日本家庭未来人口分布的模拟;&lt;/li&gt;
+&lt;li&gt;VaccinEU：在 Twitter 上用法语、德语和意大利语进行 COVID-19 疫苗对话;&lt;/li&gt;
+&lt;li&gt;从社交媒体上的转推动态中检测虚假谣言;&lt;/li&gt;
+&lt;li&gt;生理数据的共享用户界面：人机交互中社会生物反馈系统和背景的系统回顾;&lt;/li&gt;
+&lt;li&gt;基于机器学习揭示拼车的现实世界二氧化碳减排及其决定因素;&lt;/li&gt;
+&lt;li&gt;马昂？漫画？表征社交媒体上的自发创意竞赛;&lt;/li&gt;
+&lt;li&gt;谁的优势？在 YouTube 和 Twitter 上测量有争议话题的注意力动态;&lt;/li&gt;
+&lt;li&gt;谢林分离模型中的老化效应;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2022-04-01)</title>
