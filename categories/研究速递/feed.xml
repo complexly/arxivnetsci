@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2022-04-06)</title>
+      <link>https://netsci.complexly.cn/post/20220406/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220406/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图表示学习方法综述;&lt;/li&gt;
+&lt;li&gt;MGDCF：通过马尔可夫图扩散学习距离，用于神经协同过滤;&lt;/li&gt;
+&lt;li&gt;细分出行共享市场中的规模经济和规模不经济;&lt;/li&gt;
+&lt;li&gt;亲属关系是一种网络追踪社交技术，而不是一种演化现象;&lt;/li&gt;
+&lt;li&gt;解释多模态仇恨模因检测模型;&lt;/li&gt;
+&lt;li&gt;领导者还是追随者？爱尔兰共和军巨魔推文的时间分析;&lt;/li&gt;
+&lt;li&gt;揭示在线个人信息中的累积风险：一项数据叙事研究;&lt;/li&gt;
+&lt;li&gt;混合代码社交媒体文本的多语言滥用识别;&lt;/li&gt;
+&lt;li&gt;在 COVID-19 大流行之后采用微型交通：来自公共交通和汽车通勤者选择实验的证据;&lt;/li&gt;
+&lt;li&gt;使用统计模式对比特币交易进行混合检测;&lt;/li&gt;
+&lt;li&gt;电子商务中的大规模托单投标人检测;&lt;/li&gt;
+&lt;li&gt;SIS 流行病的普遍性从小的初始条件开始;&lt;/li&gt;
+&lt;li&gt;这个样本似乎足够好！评估 Twitter 学术 API 的覆盖范围和时间可靠性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2022-04-05)</title>
