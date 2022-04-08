@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2022-04-08)</title>
+      <link>https://netsci.complexly.cn/post/20220408/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220408/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用拓扑数据分析在大规模动态网络中进行高效社区检测;&lt;/li&gt;
+&lt;li&gt;社会网络影响力最大化的多变换演化框架;&lt;/li&gt;
+&lt;li&gt;在没有共同价值体系的情况下争取共识的网络中的集体模式和稳定的误解;&lt;/li&gt;
+&lt;li&gt;封闭的队伍：在社交媒体上对印度政客的军事支持的话语价值;&lt;/li&gt;
+&lt;li&gt;他们接受还是抵制网络安全措施？ 13 项安全态度清单 (SA-13) 的开发和验证;&lt;/li&gt;
+&lt;li&gt;论社交媒体推荐对意见共识的影响;&lt;/li&gt;
+&lt;li&gt;QCRI 的 COVID-19 虚假信息检测器：在社交媒体中对抗 COVID-19 信息流行病的系统;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2022-04-06)</title>
