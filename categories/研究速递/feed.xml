@@ -7,10 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要4篇(2022-04-11)</title>
+      <link>https://netsci.complexly.cn/post/20220411/</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220411/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;在极为不完整的大型网络中找到最短和接近最短的路径节点;&lt;/li&gt;
+&lt;li&gt;量化共享单车用户的出行方式与社会经济地位之间的关系;&lt;/li&gt;
+&lt;li&gt;来自社会网络 Gettr 的“Gettr-ing”深度洞察;&lt;/li&gt;
+&lt;li&gt;不灵活的少数群体在酒精消费演变中的作用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2022-04-08)</title>
