@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2022-04-12)</title>
+      <link>https://netsci.complexly.cn/post/20220412/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220412/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;动态交换意见模型中记忆和偏差对随机网络的影响;&lt;/li&gt;
+&lt;li&gt;一些图族的调和中心化;&lt;/li&gt;
+&lt;li&gt;稀疏随机网络上的修正 Heider 平衡;&lt;/li&gt;
+&lt;li&gt;概念化世界地球系统的弹性：探索通往人类安全和公正操作空间的转型途径;&lt;/li&gt;
+&lt;li&gt;通过子图到节点的翻译对子图的高效表示学习;&lt;/li&gt;
+&lt;li&gt;人类驾驶车辆和自动驾驶车辆混合交通流的振荡增长：实验研究和模拟;&lt;/li&gt;
+&lt;li&gt;政治腐败网络的普遍性;&lt;/li&gt;
+&lt;li&gt;COVID-19 大流行数量中幂律的时空演变;&lt;/li&gt;
+&lt;li&gt;美国国会大厦风暴期间的在线情绪：来自社交媒体网络 Parler 的证据;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2022-04-11)</title>
