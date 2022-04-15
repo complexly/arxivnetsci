@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2022-04-15)</title>
+      <link>https://netsci.complexly.cn/post/20220415/</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220415/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络降尺度的大规模多目标影响最大化;&lt;/li&gt;
+&lt;li&gt;基于潮流偏见的意见动态模型：同质性和影响机制之间的交织;&lt;/li&gt;
+&lt;li&gt;中国股市的稳定性：网络上Ricci曲率的测度与预测;&lt;/li&gt;
+&lt;li&gt;一种新颖的活动选择和调度模型，用于模拟荷兰餐馆客户和员工的活动时间表;&lt;/li&gt;
+&lt;li&gt;为信息安全创造市场：在线平台在漏洞赏金计划中的作用;&lt;/li&gt;
+&lt;li&gt;量化安全学校活动的协议;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2022-04-13)</title>
