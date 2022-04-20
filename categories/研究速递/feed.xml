@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2022-04-20)</title>
+      <link>https://netsci.complexly.cn/post/20220420/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220420/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;CGC：用于社区检测和跟踪的对比图聚类;&lt;/li&gt;
+&lt;li&gt;包容性释放了团队中性别多样性的创造潜力;&lt;/li&gt;
+&lt;li&gt;标记网络与未标记网络的熵;&lt;/li&gt;
+&lt;li&gt;通过社会拓扑和双重角色用户依赖改进信息级联建模;&lt;/li&gt;
+&lt;li&gt;俄乌战争推特数据集;&lt;/li&gt;
+&lt;li&gt;用于量化社会网络两极分化的基于多意见的指标：来自印度的案例研究;&lt;/li&gt;
+&lt;li&gt;通过有限回忆重复的影响;&lt;/li&gt;
+&lt;li&gt;推特在预测选举结果方面的双层评估：2020 年德里议会选举;&lt;/li&gt;
+&lt;li&gt;基于文本和社交图谱的自监督学习的谣言检测;&lt;/li&gt;
+&lt;li&gt;机器人、虚假信息和特朗普的第一次弹劾;&lt;/li&gt;
+&lt;li&gt;以太坊庞氏检测的异构特征增强;&lt;/li&gt;
+&lt;li&gt;论邢天与网上反华情绪的坚守;&lt;/li&gt;
+&lt;li&gt;二维 Motter 和 Lai 模型中的级联交通拥堵;&lt;/li&gt;
+&lt;li&gt;使用基于主体的网络模型评估欧洲大学 Omicron 传输缓解策略的有效性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2022-04-18)</title>
