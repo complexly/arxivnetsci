@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2022-04-22)</title>
+      <link>https://netsci.complexly.cn/post/20220422/</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220422/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;不同的基于位置的数据源产生的人类移动网络分析是否会在不同尺度上产生相似的结果？;&lt;/li&gt;
+&lt;li&gt;通过深度学习注意力机制建模和预测流行度动态;&lt;/li&gt;
+&lt;li&gt;概念结构与科学知识的增长;&lt;/li&gt;
+&lt;li&gt;通过具有长短期记忆的递归神经网络建模和预测引用数;&lt;/li&gt;
+&lt;li&gt;BitChute的心理语言学分析;&lt;/li&gt;
+&lt;li&gt;通过限制引导自组织;&lt;/li&gt;
+&lt;li&gt;识别和表征在社交媒体中驳斥错误信息的积极公民;&lt;/li&gt;
+&lt;li&gt;信息传播中的相互作用;&lt;/li&gt;
+&lt;li&gt;用于加密货币市场预测的社交媒体情绪分析;&lt;/li&gt;
+&lt;li&gt;用随机矩阵模拟传染病的传播;&lt;/li&gt;
+&lt;li&gt;调查用户激演化：一种用于识别细粒度时间变化的新数据集;&lt;/li&gt;
+&lt;li&gt;最大化地理社会网络中双色反向 k 最近邻的影响;&lt;/li&gt;
+&lt;li&gt;稀有性如何塑造 NFT 市场;&lt;/li&gt;
+&lt;li&gt;作为波动放大器的分层复杂网络;&lt;/li&gt;
+&lt;li&gt;从你认识的人到你读到的：通过隐式社会网络增强科学建议;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2022-04-20)</title>
