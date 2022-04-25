@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 22 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2022-04-25)</title>
+      <link>https://netsci.complexly.cn/post/20220425/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220425/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;平衡推荐系统的消费者和商业价值：基于模拟的分析;&lt;/li&gt;
+&lt;li&gt;PubMed 摘要中基因/蛋白质相互作用的全局映射：P53 相互作用的框架和实验;&lt;/li&gt;
+&lt;li&gt;使用“注意力”框架对欺诈检测中的图动态建模;&lt;/li&gt;
+&lt;li&gt;测量沙拉碗：推特上的超级多样性;&lt;/li&gt;
+&lt;li&gt;独立动态社会网络数据的贝叶斯混合效应模型;&lt;/li&gt;
+&lt;li&gt;Tweets2Stance：利用推文上的零样本学习算法进行用户立场检测;&lt;/li&gt;
+&lt;li&gt;通过阴谋的途径：通过参与在线阴谋讨论的阴谋激演化的演变;&lt;/li&gt;
+&lt;li&gt;艺术的折叠：在有限的空间里回避过去;&lt;/li&gt;
+&lt;li&gt;初始暴发地点对市区内传染病传播风险的影响;&lt;/li&gt;
+&lt;li&gt;预测高速公路变道操作：机器和集成学习算法的基准分析;&lt;/li&gt;
+&lt;li&gt;S2AMP：从出版物中推断出的学术指导的高覆盖率数据集;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2022-04-22)</title>
