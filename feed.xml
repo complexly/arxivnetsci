@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2022-04-27)</title>
+      <link>https://netsci.complexly.cn/post/20220427/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220427/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于异构信息网络的银行小微企业用户违约分析;&lt;/li&gt;
+&lt;li&gt;PyGOD：用于图异常值检测的 Python 库;&lt;/li&gt;
+&lt;li&gt;行人动力学的空间解构行为模型;&lt;/li&gt;
+&lt;li&gt;稀疏网络的大规范集成和贝叶斯推理;&lt;/li&gt;
+&lt;li&gt;网络级联中计算的自发涌现;&lt;/li&gt;
+&lt;li&gt;最后通牒博弈中的社会公平控制;&lt;/li&gt;
+&lt;li&gt;关于模拟多重传染的单重网络的局限性;&lt;/li&gt;
+&lt;li&gt;通过深度强化学习搜索最优启发式，社会学习自发涌现;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2022-04-25)</title>
