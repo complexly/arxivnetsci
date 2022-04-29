@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2022-04-29)</title>
+      <link>https://netsci.complexly.cn/post/20220429/</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220429/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过演化过程的多策略社区相关链路预测方法增强模糊社区结构;&lt;/li&gt;
+&lt;li&gt;具有不同相关衰减速度的概率投票模型;&lt;/li&gt;
+&lt;li&gt;调和在线文化市场中质量与人气的二分法;&lt;/li&gt;
+&lt;li&gt;非均匀超图的非回溯谱聚类;&lt;/li&gt;
+&lt;li&gt;社会影响如何影响影响网络中群体的智慧;&lt;/li&gt;
+&lt;li&gt;网络和焦点的对偶性：单模网络的双模网络生成模型;&lt;/li&gt;
+&lt;li&gt;从地理定位的社交媒体内容中量化社会对自然灾害的情绪恢复力;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2022-04-27)</title>
