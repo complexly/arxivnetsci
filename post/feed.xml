@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 29 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2022-05-02)</title>
+      <link>https://netsci.complexly.cn/post/20220502/</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220502/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;三元相互作用在高阶网络的连接中引起闪烁和混沌;&lt;/li&gt;
+&lt;li&gt;科学文献使用范围缩小和论文流动受限;&lt;/li&gt;
+&lt;li&gt;用于分布式推理的信念的算术和几何融合;&lt;/li&gt;
+&lt;li&gt;HashNWalk：超边流中基于散列和随机游走的异常检测;&lt;/li&gt;
+&lt;li&gt;随机二阶宏观连续统模型中的交通流稳定性;&lt;/li&gt;
+&lt;li&gt;社区层面自我保护干预在缓解流行病传播方面的优势;&lt;/li&gt;
+&lt;li&gt;超越生物学：评估在 COVID-19 大流行的前七个月中与 SARS-CoV-2 的发病率和死亡率相关的政治、经济和社会因素的作用;&lt;/li&gt;
+&lt;li&gt;多方面综合迁移指标数据集;&lt;/li&gt;
+&lt;li&gt;“城市茶壶”：城市气候建模的范式转变;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2022-04-29)</title>
