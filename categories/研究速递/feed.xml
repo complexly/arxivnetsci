@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 06 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2022-05-09)</title>
+      <link>https://netsci.complexly.cn/post/20220509/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220509/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用图分析计算交通事故高风险位置;&lt;/li&gt;
+&lt;li&gt;区域发展的相关性：寻找恰当的形式;&lt;/li&gt;
+&lt;li&gt;科学革命：基于参考出版年份谱 (RPYS) 确定最重要研究人员、机构和国家的方法的提议;&lt;/li&gt;
+&lt;li&gt;在区分钓鱼网站和合法网站时，使用网络结构和社区检测来发现重要的网站特征;&lt;/li&gt;
+&lt;li&gt;表征中文微博上的多域虚假新闻和潜在用户影响;&lt;/li&gt;
+&lt;li&gt;突变在 COVID-19 等疾病中引起感染波;&lt;/li&gt;
+&lt;li&gt;Desaparecidxs：使用 Twitter 描述失踪儿童的人口;&lt;/li&gt;
+&lt;li&gt;使用异构Transformer进行假新闻检测;&lt;/li&gt;
+&lt;li&gt;LPGNet：用于节点分类的链接隐私图网络;&lt;/li&gt;
+&lt;li&gt;Trust-SIoT：迈向社交物联网中的可信对象分类;&lt;/li&gt;
+&lt;li&gt;在线社区的发帖批准;&lt;/li&gt;
+&lt;li&gt;集体智慧作为减少广泛的全球灾难性风险的基础设施;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2022-05-06)</title>
