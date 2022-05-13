@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2022-05-13)</title>
+      <link>https://netsci.complexly.cn/post/20220513/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220513/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络中的异常检测和社区检测;&lt;/li&gt;
+&lt;li&gt;在线社会网络抽样：Metropolis Hastings随机游走和随机游走;&lt;/li&gt;
+&lt;li&gt;链路推荐：它们对网络结构和少数群体的影响;&lt;/li&gt;
+&lt;li&gt;跨界意识形态竞争动态建模;&lt;/li&gt;
+&lt;li&gt;信息流估计：推特新闻研究;&lt;/li&gt;
+&lt;li&gt;从二值数据中推断经验因果图以支持多维贫困分析的框架;&lt;/li&gt;
+&lt;li&gt;通过（超）图分区的局部模体聚类;&lt;/li&gt;
+&lt;li&gt;FACTOID：用于识别错误信息传播者和政治偏见的新数据集;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2022-05-09)</title>
