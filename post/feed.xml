@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 17 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2022-05-20)</title>
+      <link>https://netsci.complexly.cn/post/20220520/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220520/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用图过滤的可扩展多视图聚类;&lt;/li&gt;
+&lt;li&gt;连续时间网络的相互激发潜在空间霍克斯过程模型;&lt;/li&gt;
+&lt;li&gt;一个简单而有效的有向图 SVD-GCN;&lt;/li&gt;
+&lt;li&gt;使用兼容标签传播简化异质图上的节点分类;&lt;/li&gt;
+&lt;li&gt;从卷积混合中学习图结构;&lt;/li&gt;
+&lt;li&gt;协调社区在社交媒体上的宣传传播;&lt;/li&gt;
+&lt;li&gt;一种调查公众对外骨骼技术的意见、观点和观点的方法;&lt;/li&gt;
+&lt;li&gt;波斯语 Twitter 上的意见操纵;&lt;/li&gt;
+&lt;li&gt;联合通信和传感：使用 MIMO 的模型和潜力;&lt;/li&gt;
+&lt;li&gt;一种基于弱监督迭代图的方法来检索 COVID-19 错误信息主题;&lt;/li&gt;
+&lt;li&gt;在线审核的个性化干预;&lt;/li&gt;
+&lt;li&gt;COVID-19 大流行对 LGBTQ 在线社区的影响;&lt;/li&gt;
+&lt;li&gt;Strauss 传递网络模型的自由能密度泛函;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2022-05-17)</title>
