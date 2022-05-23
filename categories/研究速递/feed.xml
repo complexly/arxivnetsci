@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2022-05-23)</title>
+      <link>https://netsci.complexly.cn/post/20220523/</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220523/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;边重连神经网络：在没有丰富功能的情况下提高网络弹性;&lt;/li&gt;
+&lt;li&gt;大型动态图上的子集节点异常跟踪;&lt;/li&gt;
+&lt;li&gt;循环分割满足时间网络中的块模型;&lt;/li&gt;
+&lt;li&gt;围绕开源软件项目的开发者社会网络中社区演化的定量分析;&lt;/li&gt;
+&lt;li&gt;通过关键字共现网络揭示韩国物理学会的作用;&lt;/li&gt;
+&lt;li&gt;核估计作为行人密度测量的一般概念;&lt;/li&gt;
+&lt;li&gt;大地理分类在美国 Reddit 用户之间传播错误信息中的作用;&lt;/li&gt;
+&lt;li&gt;多路网络上的超扩散;&lt;/li&gt;
+&lt;li&gt;Delator：通过神经网络自动检测交易图上的洗钱证据;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2022-05-20)</title>
