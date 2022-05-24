@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 23 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2022-05-24)</title>
+      <link>https://netsci.complexly.cn/post/20220524/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220524/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;国际足球网络：社区、演变和全球化;&lt;/li&gt;
+&lt;li&gt;识别和减轻退化核心嵌入中的不稳定性;&lt;/li&gt;
+&lt;li&gt;MultiBiSage：在 Pinterest 使用多个二部图的 Web 规模推荐系统;&lt;/li&gt;
+&lt;li&gt;使用无监督嵌入社交媒体帖子集群预测 COVID-19 病例数;&lt;/li&gt;
+&lt;li&gt;大规模自适应社会网络模拟中的社会碎片化转变;&lt;/li&gt;
+&lt;li&gt;用于可重构智能表面辅助无线边网络的联合谱学习;&lt;/li&gt;
+&lt;li&gt;馈赠关系驱动的社会组织转型;&lt;/li&gt;
+&lt;li&gt;ASFAP 工作组社会参与总结;&lt;/li&gt;
+&lt;li&gt;Omicron 变体 COVID-19 动力学的分数 SEIR 模型和数据驱动预测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2022-05-23)</title>
