@@ -242,7 +242,7 @@ var _hmt = _hmt || [];
 
 <p>作者： Hao Peng, Ruitong Zhang, Yingtong Dou, Renyu Yang, Jingyi Zhang, Philip S. Yu</p>
 
-<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07886v1.pdf.jpg" alt="" /></p>
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07886v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 图神经网络（GNN）已广泛用于各种结构化图数据的表示学习，通常是通过节点之间的消息传递，方法是通过不同操作汇总其邻居信息，从而在节点之间传递消息。尽管很有希望，但是大多数现有的GNN都简化了图中边的复杂性和多样性，因此无法有效地应对普遍存在的异构图，后者通常以多关系图表示的形式出现。在本文中，我们提出了RioGNN，它是一种新颖的，增强的，递归的和灵活的邻域选择指导的多关系图神经网络体系结构，可在保持关系依赖表示的同时导航神经网络结构的复杂性。我们首先根据实际任务构造一个多关系图，以反映节点，边，属性和标签的异质性。为了避免在不同类型的节点之间嵌入过度同化，我们采用了标签感知的神经相似性度量，以基于节点属性确定最相似的邻居。开发了一种增强的关系感知邻居选择机制，可以在从不同关系中聚合所有邻域信息以获得最终节点嵌入之前，在关系中选择目标节点的最相似邻居。特别地，为了提高邻居选择的效率，我们提出了一种新的递归和可扩展的强化学习框架，该框架对于不同比例的多关系图具有可估计的深度和宽度。由于通过过滤阈值机制认识到每个关系的个体重要性，RioGNN可以学习具有更多判别性的节点嵌入，并具有增强的可解释性。</p>
 
@@ -254,7 +254,7 @@ var _hmt = _hmt || [];
 
 <p>作者： Jianxin Li, Hao Peng, Yuwei Cao, Yingtong Dou, Hekai Zhang, Philip S. Yu, Lifang He</p>
 
-<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07892v1.pdf.jpg" alt="" /></p>
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07892v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 图神经网络（GNN）已广泛用于图的深度学习。他们可以学习有效的节点表示形式，从而在图分析任务（例如节点分类和节点聚类）中实现出色的性能。但是，大多数方法都忽略了实际图中的异质性。另一方面，为异构图设计的方法无法学习复杂的语义表示，因为它们仅使用元路径而不是元图。此外，它们不能完全刻画节点之间基于内容的相关性，因为它们要么不使用自我注意机制，要么仅使用它来考虑每个节点的直接邻居，而忽略了高阶邻居。我们提出了一种新颖的高阶属性增强（HAE）框架，该框架以逐层方式增强了节点嵌入。在HAE框架下，我们提出了一种用于异构网络表示学习的高阶属性增强图神经网络（HAEGNN）。 HAEGNN同时包含丰富的异构语义的元路径和元图，并利用自我注意机制来探索基于内容的节点交互。 HAEGNN独特的高阶体系结构允许检查一阶以及高阶邻域。此外，HAEGNN在理解不同元路径和元图的重要性时也显示出良好的可解释性。 HAEGNN还具有存储效率，因为它避免了基于每个元路径的矩阵计算。实验结果不仅显示了HAEGNN在节点分类，节点聚类和可视化方面优于最新技术的性能，而且还展示了其在内存效率和可解释性方面的优势。</p>
 
@@ -266,7 +266,7 @@ var _hmt = _hmt || [];
 
 <p>作者： Tianjin Huang, Yulong Pei, Vlado Menkovski, Mykola Pechenizkiy</p>
 
-<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07917v1.pdf.jpg" alt="" /></p>
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07917v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 近年来，归因于其在研究和实践中的重要性，对归因网络上的异常检测问题的兴趣激增。尽管已经提出理解决此问题的各种方法，但存在两个主要局限性：（1）由于缺乏监督信号，无监督方法通常工作效率低得多；（2）现有的异常检测方法仅使用局部上下文信息来检测异常。节点，例如一跳或两跳信息，但忽略全局上下文信息。由于异常节点在结构和属性上与正常节点不同，因此直观地知道，如果我们删除连接异常节点和正常节点的边，则异常节点与其邻居之间的距离应大于正常节点与其邻居之间的距离。因此，基于全局和局部上下文信息的跳数可以用作异常的指标。基于这种直觉，我们提出了一种基于跳数的模型（HCM），可以通过对本地和全局上下文信息进行建模来检测异常。为了更好地利用跳数进行异常识别，我们建议使用跳数预测作为自我监督的任务。我们基于通过HCM模型进行的跳数预测来设计两个异常分数，以识别异常。此外，我们采用贝叶斯学习来训练HCM模型，以刻画学习参数中的不确定性并避免过拟合。在现实世界中的属性网络上进行的大量实验表明，我们提出的模型在异常检测中是有效的。</p>
 
@@ -278,7 +278,7 @@ var _hmt = _hmt || [];
 
 <p>作者： Peter Bloem</p>
 
-<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.08163v1.pdf.jpg" alt="" /></p>
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2104.08163v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们介绍一种在知识图中查找网络主题的方法。网络主题是图表的有用模式或有意义的子单元，经常重复出现。我们扩展了网络主题的通用定义，使其与基本图模式相吻合。我们引入一种方法，该方法受近期针对简单图的研究启发，从给定的知识图中进行归纳，并表明找到的模体反映了图的基本结构。具体来说，我们显示出在随机图中没有发现任何模体，并且当我们人工插入一个模体时，就可以检测到它。最后，我们在三个真实世界的知识图上显示模体诱导的结果。</p>
 
@@ -290,7 +290,7 @@ var _hmt = _hmt || [];
 
 <p>作者： Benedek Rozemberczki, Paul Scherer, Yixuan He, George Panagopoulos, Maria Astefanoaei, Oliver Kiss, Ferenc Beres, Nicolas Collignon, Rik Sarkar</p>
 
-<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07788v1.pdf.jpg" alt="" /></p>
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07788v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们为PyTorch Geometric Temporal提供了一个深度学习框架，该框架结合了用于时空信号处理的最新机器学习算法。该库的主要目标是在统一易用的框架中为研究人员和机器学习从业人员提供时态几何深度学习。 PyTorch Geometric Temporal是在PyTorch生态系统中现有的库，简化的神经网络层定义，用于批处理的临时快照生成器以及集成的基准数据集的基础上创建的。通过类似教程的案例研究来说明这些功能。实验证明了在图书馆中实现的模型对诸如流行病学预测，乘车需求预测和网络交通管理等现实世界问题的预测性能。我们对运行时的敏感性分析表明，该框架可以潜在地在具有丰富时间特征和空间结构的Web级数据集上运行。</p>
 
@@ -302,7 +302,7 @@ var _hmt = _hmt || [];
 
 <p>作者： Unai Alvarez-Rodriguez, Vito Latora</p>
 
-<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07798v1.pdf.jpg" alt="" /></p>
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07798v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 我们介绍了一种基于高阶马尔可夫分析的符号序列内存研究的通用方法。最能代表序列的马尔可夫过程表示为最小顺序矩阵的混合，从而可以定义所谓的内存配置文件，该内存配置文件明确反映了相关性的真实顺序。通过恢复可调合成序列的记忆图谱验证了该方法。最后，我们扫描真实数据并通过实际示例展示如何使用我们的协议来提取符号序列的相关随机属性。</p>
 
@@ -314,7 +314,7 @@ var _hmt = _hmt || [];
 
 <p>作者： Zhuo Feng</p>
 
-<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07867v1.pdf.jpg" alt="" /></p>
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07867v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 这项工作介绍了一种高度可扩展的谱图致密化框架，用于通过线性测量（例如节点电压和电流）来学习电阻器网络。我们证明，给定 O（ log N）对电压和电流测量值，就有可能恢复超稀疏的 N 节点电阻器网络，该网络可以很好地保留图上的有效电阻距离。而且，学习到的图保留了原始图的结构（谱）特性，可以在许多电路设计和优化任务中利用这些特性。我们表明，所提出的图学习方法等效于使用类似Laplacian的精度矩阵来解决经典的图Lasso问题。通过针对各种实际测试案例的广泛实验，我们证明了该方法在不牺牲解决方案质量的情况下，可高度扩展地用于学习超稀疏电阻网络。</p>
 
@@ -326,7 +326,7 @@ var _hmt = _hmt || [];
 
 <p>作者： Yafei Zhang, Lin Wang, Jonathan J. H. Zhu, Xiaofan Wang</p>
 
-<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.08213v1.pdf.jpg" alt="" /></p>
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2104.08213v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 正在进行中的2019年冠状病毒疾病（COVID-19）大流行在全球造成严重破坏，造成数百万人丧生，人类出行受限以及经济发展停顿。利用中国大陆地区的城市流动性和案例数据，我们的分析表明，COVID-19在中国大陆的空间传播可以很好地解释为来自武汉的人类迁徙，如果发生COVID-19暴发，结果将有很大不同。在其他城市。例如，北京或广州的暴发将导致农历新年假期结束时COVID-19病例增加  sim  90％。在实施一系列控制措施之后，人类的流动性已经发生了重大变化，从而遏制了COVID-19的传播。我们的结果还表明，在COVID-19期间，欠发达地区通常遭受更严重的经济衰退，因此经济剥夺不平等。凭直觉，可以预见，确诊病例更多的城市将遭受更多的经济损失。但是，对于湖北省以外的城市，我们没有观察到这种现象。我们的工作对缓解疾病和重新评估COVID-19对我们社会的社会和经济影响具有重要意义。</p>
 
@@ -338,7 +338,7 @@ var _hmt = _hmt || [];
 
 <p>作者： Matthew Tsao, Kaidi Yang, Stephen Zoepf, Marco Pavone</p>
 
-<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07768v1.pdf.jpg" alt="" /></p>
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07768v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 大数据时代通过海量数据集带来了对用户行为的更丰富理解，可以帮助组织优化服务质量。在交通运输研究的背景下，移动性数据可以为市政当局（MA）提供有关如何操作，监管或改善交通运输网络的见解。但是，移动性数据可能包含有关最终用户和移动性提供商（MP）的商业秘密的敏感信息。由于这种数据隐私问题，MP可能不愿意将其数据集提供给MA。利用密码学的思想，我们提出了一种在MA和MP之间的分布式计算协议，其中MA从移动性数据中获取见解，而MP无需透露其商业秘密或用户的敏感数据。这可以通过两个步骤完成：承诺步骤和计算步骤。第一步，使用Merkle承诺和汇总的流量测量值来生成加密承诺。在第二步中，MP从数据中提取见解，并将其发送给MA。使用承诺和零知识证明，MA可以证明从MP接收到的信息是准确的，而无需直接检查移动性数据。从MA和MP不能从战略行为中受益的角度来看，该协议对MA和MP都是具有战略意义的。通过安全的多方计算，可以轻松地将协议扩展为具有多个MP的更实际的设置。</p>
 
@@ -350,7 +350,7 @@ var _hmt = _hmt || [];
 
 <p>作者： Leah P. Schwartz, Jean Liénard, Stephen V. David</p>
 
-<p><img src="https://cdn.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07780v1.pdf.jpg" alt="" /></p>
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2104.07780v1.pdf.jpg" alt="" /></p>
 
 <p>摘要： 在学术研究的许多领域中，性别代表性均出现了失衡。男性的代表比例过高，尤其是在高级职业阶段。增加妇女在培训计划中的招募的努力在许多领域都增加了代表人数，但是仍然观察到“漏水的管道”：不成比例的妇女在获得独立职位之前就离开研究。为了理解导致女性从学术研究中流失的因素，我们分析了涵盖科学与人文领域2000年至2015年期间的指导关系数据库。尽管受训人员和独立研究人员中女性的代表人数随时间增加，但是男性研究生和博士后仍继续以高于女性同事的比例从事独立研究。我们分析了导致这种持续偏见的指导关系的各个方面。观察到的一种强烈模式是同质性，受训者和导师往往是同一性别。据推测，制度上的偏见可能会限制女调查员的影响，进而可能影响其学员在学术界的保留。实际上，我们观察到，女导师的受训者比男导师的受训者更不可能继续从事独立研究职业。在控制了保留率的暂时趋势和在最高供资和引用水平下女导师人数不足的趋势之后，这种差距仍然存在，但仍得到了缓解。尽管获得了极高声望的奖项的导师培训生倾向于男性，但同质性与导师的成就无关。这些结果表明，除了其他限制女性受训者职业选择的因素外，使女性导师获得较少资源的体制偏见也助长了性别流失。</p>
 
