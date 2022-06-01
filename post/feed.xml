@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 24 May 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2022-06-01)</title>
+      <link>https://netsci.complexly.cn/post/20220601/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220601/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;人类流动性不成比例地扩大了低收入人群的 PM2.5 排放暴露;&lt;/li&gt;
+&lt;li&gt;时变网络中交互持久性的表征;&lt;/li&gt;
+&lt;li&gt;超越你的舒适区：基于扩散的网络分析知识轨迹推荐;&lt;/li&gt;
+&lt;li&gt;具有节点强化的复杂网络的K-core结构;&lt;/li&gt;
+&lt;li&gt;最大化临时参与者在意见形成中的影响;&lt;/li&gt;
+&lt;li&gt;COVID-19 大流行期间美国国内航空公司网络的动态;&lt;/li&gt;
+&lt;li&gt;二体金融交易商模型的精确解：从动力学理论的角度重新审视;&lt;/li&gt;
+&lt;li&gt;Twitter中政治家的自我改变关系的结构;&lt;/li&gt;
+&lt;li&gt;CALEB：增强机器人检测的条件对抗学习框架;&lt;/li&gt;
+&lt;li&gt;大流行开始时公园参观的空间变化;&lt;/li&gt;
+&lt;li&gt;在线极化的动态;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2022-05-24)</title>
