@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2022-06-23)</title>
+      <link>https://netsci.complexly.cn/post/20220623/</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220623/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于谣言检测的区域增强深度图卷积网络;&lt;/li&gt;
+&lt;li&gt;什么是多余的，什么不是？建模中的计算权衡以生成能源基础设施部署的替代方案;&lt;/li&gt;
+&lt;li&gt;自组织网络着色博弈中支付优化的马尔可夫链方法;&lt;/li&gt;
+&lt;li&gt;网络安全法：法律管辖权和权限;&lt;/li&gt;
+&lt;li&gt;一种根据用户在在线社交平台中的影响力对用户进行排名的快速算法;&lt;/li&gt;
+&lt;li&gt;在线知识传播平台上的电子烟是如何被框定的？;&lt;/li&gt;
+&lt;li&gt;城市和郊区汽车旅行之间的关系是否发生了几代人的变化？比较美国的千禧一代和 X 一代;&lt;/li&gt;
+&lt;li&gt;绘制科学的慈善支持;&lt;/li&gt;
+&lt;li&gt;将基于图的 Sybil 检测方法解释为低通滤波;&lt;/li&gt;
+&lt;li&gt;探索与算法构建的出版物分类相关的用户需求;&lt;/li&gt;
+&lt;li&gt;模块化密度最大化研究：列生成加速和计算复杂度分析;&lt;/li&gt;
+&lt;li&gt;基于文本内容相似度和情感倾向的社会网络社区检测;&lt;/li&gt;
+&lt;li&gt;模因流行度网络模型的扩散逼近;&lt;/li&gt;
+&lt;li&gt;论4D相对论时空的社会模拟;&lt;/li&gt;
+&lt;li&gt;模块化和异构有向网络上的动态降维;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2022-06-22)</title>
