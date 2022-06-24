@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2022-06-24)</title>
+      <link>https://netsci.complexly.cn/post/20220624/</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220624/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;几何块模型中的社区恢复;&lt;/li&gt;
+&lt;li&gt;基于降水事件的网络：网络指标与气象特性之间关系的分析;&lt;/li&gt;
+&lt;li&gt;用平均场博弈范式描述流行病传播的社会结构;&lt;/li&gt;
+&lt;li&gt;不同传播率和时间惩罚下的错误信息缓解;&lt;/li&gt;
+&lt;li&gt;一种用于分析时间网络的混合邻接和基于时间的数据结构;&lt;/li&gt;
+&lt;li&gt;课堂周转时间如何取决于演讲厅的大小？;&lt;/li&gt;
+&lt;li&gt;合作研究资助中的高阶富人俱乐部现象;&lt;/li&gt;
+&lt;li&gt;推断时间网络中的联系强度;&lt;/li&gt;
+&lt;li&gt;欧足联俱乐部比赛中使用的收入分配制度的不公平;&lt;/li&gt;
+&lt;li&gt;经济影响事件期间以太坊账户行为分析;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2022-06-23)</title>
