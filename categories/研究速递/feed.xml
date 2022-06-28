@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2022-06-28)</title>
+      <link>https://netsci.complexly.cn/post/20220628/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220628/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;全球发展合作的演变：用分层随机块模型分析援助流;&lt;/li&gt;
+&lt;li&gt;为动态网络提取寻找合适的时间间隔;&lt;/li&gt;
+&lt;li&gt;随机、有针对性和自适应攻击下的智能电网级联故障;&lt;/li&gt;
+&lt;li&gt;用于图中异常模式检测的校准非参数扫描统计;&lt;/li&gt;
+&lt;li&gt;我们都在楚门表演吗？通过自我训练发现 Instagram Crowdturfing;&lt;/li&gt;
+&lt;li&gt;消除虚假信息的歧义：超越在线内容的真实性;&lt;/li&gt;
+&lt;li&gt;民意调查中多项选择题的网络模型;&lt;/li&gt;
+&lt;li&gt;财富介导的热力学策略演化中的社区形成;&lt;/li&gt;
+&lt;li&gt;MultiSAGE：一种用于层间链路预测的多路嵌入算法;&lt;/li&gt;
+&lt;li&gt;具有社区结构的多路网络的多数投票模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2022-06-27)</title>
