@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2022-06-29)</title>
+      <link>https://netsci.complexly.cn/post/20220629/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220629/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于图的机器学习改进了即时缺陷预测;&lt;/li&gt;
+&lt;li&gt;一种用于 GPU 的新型高效成对最短路径算法;&lt;/li&gt;
+&lt;li&gt;用于有符号图的亚线性时间聚类 Oracle;&lt;/li&gt;
+&lt;li&gt;使用简约模型和马尔可夫决策过程的流行病控制建模;&lt;/li&gt;
+&lt;li&gt;有保障的演出：为送餐工人实现公平工资;&lt;/li&gt;
+&lt;li&gt;Twitter 话语社区的蝴蝶结结构;&lt;/li&gt;
+&lt;li&gt;土耳其 Twitter上的 COVID-19 大流行;&lt;/li&gt;
+&lt;li&gt;不良主体与补贴：基于CCM模型的调查;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2022-06-28)</title>

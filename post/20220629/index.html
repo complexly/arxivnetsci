@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要8篇(2022-06-29) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+基于图的机器学习改进了即时缺陷预测;
+一种用于 GPU 的新型高效成对最短路径算法;
+用于有符号图的亚线性时间聚类 Oracle;
+使用简约模型和马尔可夫决策过程的流行病控制建模;
+有保障的演出：为送餐工人实现公平工资;
+Twitter 话语社区的蝴蝶结结构;
+土耳其 Twitter上的 COVID-19 大流行;
+不良主体与补贴：基于CCM模型的调查;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要8篇(2022-06-29) - 网络科学研究速递">
+<meta itemprop="description" content="
+基于图的机器学习改进了即时缺陷预测;
+一种用于 GPU 的新型高效成对最短路径算法;
+用于有符号图的亚线性时间聚类 Oracle;
+使用简约模型和马尔可夫决策过程的流行病控制建模;
+有保障的演出：为送餐工人实现公平工资;
+Twitter 话语社区的蝴蝶结结构;
+土耳其 Twitter上的 COVID-19 大流行;
+不良主体与补贴：基于CCM模型的调查;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要8篇(2022-06-29) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220629/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+基于图的机器学习改进了即时缺陷预测;
+一种用于 GPU 的新型高效成对最短路径算法;
+用于有符号图的亚线性时间聚类 Oracle;
+使用简约模型和马尔可夫决策过程的流行病控制建模;
+有保障的演出：为送餐工人实现公平工资;
+Twitter 话语社区的蝴蝶结结构;
+土耳其 Twitter上的 COVID-19 大流行;
+不良主体与补贴：基于CCM模型的调查;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220629/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220629/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要8篇(2022-06-29)</h1>
+
+                  <p class="post-byline">
+                    2022年06月29日 · 3267 字 ·
+                    阅读时间约7分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>基于图的机器学习改进了即时缺陷预测;</li>
+<li>一种用于 GPU 的新型高效成对最短路径算法;</li>
+<li>用于有符号图的亚线性时间聚类 Oracle;</li>
+<li>使用简约模型和马尔可夫决策过程的流行病控制建模;</li>
+<li>有保障的演出：为送餐工人实现公平工资;</li>
+<li>Twitter 话语社区的蝴蝶结结构;</li>
+<li>土耳其 Twitter上的 COVID-19 大流行;</li>
+<li>不良主体与补贴：基于CCM模型的调查;</li>
+</ul>
+
+<p></p>
+
+<h3 id="基于图的机器学习改进了即时缺陷预测">基于图的机器学习改进了即时缺陷预测</h3>
+
+<p>原文标题： Graph-Based Machine Learning Improves Just-in-Time Defect Prediction</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2110.05371">http://arxiv.org/abs/2110.05371</a></p>
+
+<p>作者： Jonathan Bryan, Pablo Moriano</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2110.05371v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 当今软件的日益复杂性需要成千上万的开发人员的贡献。这种复杂的协作结构使开发人员更有可能引入容易出现缺陷的更改，从而导致软件故障。确定何时引入这些容易出现缺陷的更改已被证明具有挑战性，并且使用传统的机器学习 (ML) 方法进行这些确定似乎已经达到了一个平台期。在这项工作中，我们构建了由开发人员和源文件组成的贡献图，以捕捉构建软件所需更改的细微复杂性。通过利用这些贡献图，我们的研究显示了使用基于图的 ML 来改进即时 (JIT) 缺陷预测的潜力。我们假设从贡献图中提取的特征可能比从软件特征中提取的内在特征更好地预测容易发生缺陷的变化。我们使用基于图的 ML 来对表示容易出现缺陷的变化的边进行分类来证实我们的假设。这种对 JIT 缺陷预测问题的新框架会产生明显更好的结果。我们在 14 个开源项目上测试了我们的方法，并表明我们的最佳模型可以预测代码更改是否会导致 F1 分数高达 77.55% 的缺陷。这比 JIT 缺陷预测的最新技术水平增加了多达 46.72%。我们描述了限制、开放的挑战，以及如何将这种方法用于操作 JIT 缺陷预测。</p>
+
+<h3 id="一种用于-gpu-的新型高效成对最短路径算法">一种用于 GPU 的新型高效成对最短路径算法</h3>
+
+<p>原文标题： A Novel Work-Efficient APSP Algorithm for GPUs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2205.00162">http://arxiv.org/abs/2205.00162</a></p>
+
+<p>作者： Yelai Feng, Huaixi Wang</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2205.00162v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 最短路径问题是图论和网络科学中的一类典型问题，具有广泛的应用场景。目前，并行单源最短路径算法主要用于解决全对最短路径问题。我们提出了一种基于 GPU 块矩阵乘法的新型全对最短路径算法。我们的关键进步是将最短路径问题转化为线性代数问题，利用 GPU 在这方面的性能优势。在实验中，新算法的平均效率为 41.257times，最高可达 89.919times，优于通过二叉堆实现优先级队列并通过多线程优化的 Dijkstra 算法。</p>
+
+<h3 id="用于有符号图的亚线性时间聚类-oracle">用于有符号图的亚线性时间聚类 Oracle</h3>
+
+<p>原文标题： Sublinear-Time Clustering Oracle for Signed Graphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2206.13813">http://arxiv.org/abs/2206.13813</a></p>
+
+<p>作者： Stefan Neumann, Pan Peng</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2206.13813v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 社会网络通常使用有符号图建模，其中顶点对应于用户，边有一个符号，指示用户之间的交互是积极的还是消极的。出现的符号图通常包含清晰的社区结构，因为该图可以划分为少量的极化社区，每个社区都定义了一个稀疏切割并且不可分割成更小的极化子社区。我们为具有如此清晰社区结构的符号图提供了一个本地集群预言机，它可以回答成员查询，即“给定一个顶点 v，v 属于哪个社区？”，通过仅读取一个图的一小部分。形式上，当图有界最大度数且社区数最多为 O(log n) 时，则用 tildeO(sqrtnoperatornamepoly(1/varepsilon )) 预处理时间，我们的 oracle 可以在 tildeO(sqrtnoperatornamepoly(1/varepsilon)) 时间内回答每个成员资格查询，并正确分类 (1- varepsilon)- 顶点 w.r.t 的分数。一组隐藏的种植的真实社区。我们的预言机适用于只需要少量顶点的聚类信息的应用程序。以前，这种局部聚类预言机只对无符号图已知；我们对有符号图的推广需要一些新的想法，并对有符号的随机游走行为进行新的谱分析。我们评估我们的算法以构建这样的预言机并在合成数据集和真实数据集上回答成员资格查询，并在实践中验证其性能。</p>
+
+<h3 id="使用简约模型和马尔可夫决策过程的流行病控制建模">使用简约模型和马尔可夫决策过程的流行病控制建模</h3>
+
+<p>原文标题： Epidemic Control Modeling using Parsimonious Models and Markov Decision Processes</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2206.13910">http://arxiv.org/abs/2206.13910</a></p>
+
+<p>作者： Edilson F. Arruda, Tarun Sharma, Rodrigo e A. Alexandre, Sinnu Susan Thomas</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2206.13910v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 许多国家至少经历了两波 COVID-19 大流行。第二波要危险得多，因为不同的菌株似乎对人类健康更有害，但这源于对第一波的自满情绪。本文介绍了一种简约但具有代表性的随机流行病模型，该模型模拟了疾病的不确定传播，而不管延迟和恢复时间分布如何。我们还提出了马尔可夫决策过程，以在医疗保健系统的使用和流行病的经济成本之间寻求最佳权衡。我们将该模型应用于印度新德里的 COVID-19 数据，并模拟不同政策审查时间的流行病传播。结果表明，最优政策在第一波疫情中迅速采取行动，从而避免了医疗保健系统的崩溃和未来爆发的成本。对印度医疗保健系统最近在第二波 COVID-19 浪潮中崩溃的分析表明，如果在第一波浪潮之后促进迅速缓解，许多生命本可以得到保护。</p>
+
+<h3 id="有保障的演出-为送餐工人实现公平工资">有保障的演出：为送餐工人实现公平工资</h3>
+
+<p>原文标题： Gigs with Guarantees: Achieving Fair Wage for Food Delivery Workers</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2205.03530">http://arxiv.org/abs/2205.03530</a></p>
+
+<p>作者： Ashish Nair, Rahul Yadav, Anjali Gupta, Abhijnan Chakraborty, Sayan Ranu, Amitabha Bagchi</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2205.03530v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 随着外卖平台的日益普及，调查这些平台中“零工”工人的工作条件变得很重要，特别是为他们提供公平的工资、合理的工作时间和工作可用性的透明度。但是，这些问题的任何解决方案都不得降低客户体验，并且具有成本效益，以确保平台愿意采用它们。我们提出WORK4FOOD，它为送货主体提供收入保证，同时最大限度地降低平台成本并确保客户满意度。 WORK4FOOD 确保以不会增加工作时间或降低环境影响的方式满足收入保障。为了实现这些目标，WORK4FOOD 通过控制系统中的主体数量并根据主体位置、评级等因素为主体提供动态支付保证来平衡供需。我们在来自领先的真实世界数据集上评估 WORK4FOOD食品配送平台，并在手头的多维目标方面确立其优于现有技术的优势。</p>
+
+<h3 id="twitter-话语社区的蝴蝶结结构">Twitter 话语社区的蝴蝶结结构</h3>
+
+<p>原文标题： Bow-Tie Structures of Twitter Discursive Communities</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2202.03316">http://arxiv.org/abs/2202.03316</a></p>
+
+<p>作者： Mattia Mattei, Manuel Pratelli, Guido Caldarelli, Marinella Petrocchi, Fabio Saracco</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2202.03316v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在对 Twitter 辩论的分析中，最近的文献侧重于话语社区，即通过转发相互交流的账户集群。在目前的工作中，我们研究了不同语言的 8 个不同主题 Twitter 数据集中的话语社区。令人惊讶的是，我们观察到其中几乎所有的话语社区在政治或社会辩论中都表现出蝴蝶结结构。相反，当讨论的论点与体育赛事不同时，它们就不存在了，例如 Euro2020 土耳其和意大利数据集。我们进一步分析了在不同话语社区的各个部门创建的内容的质量，使用事实检查网站 Newsguard 的域注释：我们观察到，当话语社区受到 m/虚假信息的影响时，具有质量最低的是在 SCC 中生成和共享的消息，特别是在 SCC 和 OUT 部门之间的转发流中，存在大量低信誉或不知名的消息。从这个意义上说，在受 m/虚假信息影响的话语社区中，大部分帐户可以访问各种各样的内容，但其质量总体上相当低；根据世界卫生组织的说法，这种情况完美地描述了信息流行病的现象，即获得“关于问题的过多信息，这使得难以确定解决方案”。</p>
+
+<h3 id="土耳其-twitter上的-covid-19-大流行">土耳其 Twitter上的 COVID-19 大流行</h3>
+
+<p>原文标题： The COVID-19 Pandemic on the Turkish Twittersphere</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2206.13742">http://arxiv.org/abs/2206.13742</a></p>
+
+<p>作者： Burak Ozturan</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2206.13742v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 随着居家时间的增加，社交媒体平台的作用已成为 COVID-19 期间公众讨论的一个组成部分。个人使用社交媒体平台来表达自己的情感、互动和参与公共辩论。因此，对于那些想在大流行期间理解公众舆论的人来说，分析社交媒体平台至关重要。本论文是第一项研究土耳其 Twitter 领域以理解 COVID-19 爆发期间公众舆论变化的研究。为此，从 2020 年 2 月 12 日（土耳其首次公布的冠状病毒病例前一个月）开始，到 2020 年 6 月，收集了 430 万条关键词广泛的土耳其推文，以调查不同主题的舆论变化，并审查导致这种变化的演员。分析的范围不仅是与健康相关的讨论，还包括更广泛的主题，如政治、经济和虚假信息。本研究还收集了 2020 年 4 月 4 日至 2021 年 3 月 17 日期间 415 万条带有疫苗关键字（土耳其语为“acsi”）的土耳其推文，以解开信息生态系统的健康状况。初步结果表明，(i) 宗教是土耳其人对大流行的看法中的突出现象，(ii) 土耳其 Twitter 领域极易受到错误/虚假信息操作的影响，以及 (iii) 存在几个利益不同的社区疫苗网络。</p>
+
+<h3 id="不良主体与补贴-基于ccm模型的调查">不良主体与补贴：基于CCM模型的调查</h3>
+
+<p>原文标题： A poor agent and subsidy: an investigation through CCM model</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2206.13790">http://arxiv.org/abs/2206.13790</a></p>
+
+<p>作者： Sanchari Goswami</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2206.13790v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在这项工作中，研究了一些修改后的 CCM 类型动态财富交换模型中低于  threshold line 的主体人的动力学。这些主体人有资格获得补贴，这在任何实体经济中都可以看到。如果两个互动主体人的财富都低于阈值线，则禁止互动。可以在抽象的增益-损失空间 (GLS) 中设想此类智能体的行走，并在宏观上将其与惰性行走进行比较。从 GLS 的步行角度来看，对此类主体商给予一次补贴与重复给予补贴的效果进行了对比。可以看出，如果给予一次补贴，步行的正向漂移更大。研究了相关性和其他有趣的量。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220629/">https://netsci.complexly.cn/post/20220629/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20220628/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要10篇(2022-06-28)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
