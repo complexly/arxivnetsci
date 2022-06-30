@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2022-06-30)</title>
+      <link>https://netsci.complexly.cn/post/20220630/</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220630/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用图上的深度表征学习对团队绩效进行建模;&lt;/li&gt;
+&lt;li&gt;用于流行病预测的含时多分辨率图神经网络;&lt;/li&gt;
+&lt;li&gt;经典随机图上结构平衡系统的热力学特性;&lt;/li&gt;
+&lt;li&gt;使用在线国际象棋社区数据量化国际象棋开局的复杂性和相似性;&lt;/li&gt;
+&lt;li&gt;用无监督的方法量化有争议的讨论的结构：Twitter 气候变化对话;&lt;/li&gt;
+&lt;li&gt;Twitter 上 COVID-19 疫苗接种态度的多语言数据集;&lt;/li&gt;
+&lt;li&gt;P指数;&lt;/li&gt;
+&lt;li&gt;欧洲部门耦合能源模型中绿色氢的内生学习;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2022-06-29)</title>
