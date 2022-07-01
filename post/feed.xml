@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 30 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2022-07-01)</title>
+      <link>https://netsci.complexly.cn/post/20220701/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220701/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;拓扑特征在链路预测中的最大能力;&lt;/li&gt;
+&lt;li&gt;通过序列表征对网络拓扑和动态进行分类;&lt;/li&gt;
+&lt;li&gt;无人机包裹递送系统的隐私路由;&lt;/li&gt;
+&lt;li&gt;用于在线自适应影响最大化的可证明有效的强化学习;&lt;/li&gt;
+&lt;li&gt;SoK：社交媒体中的内容审核，从指南到执行，从研究到实践;&lt;/li&gt;
+&lt;li&gt;打破多智能体、多选项动态中的优柔寡断;&lt;/li&gt;
+&lt;li&gt;应对时间紧迫的网络安全威胁的有效集体行动;&lt;/li&gt;
+&lt;li&gt;比较正向和反向接触者追踪的效率;&lt;/li&gt;
+&lt;li&gt;符号自我网络模型及其在 Twitter 上的应用;&lt;/li&gt;
+&lt;li&gt;通过社会认知和基于群体的过程遵守社交媒体上的错误信息;&lt;/li&gt;
+&lt;li&gt;使用 BERT 进行 COVID-19 错误信息检测的两阶段分类器：对印度尼西亚推文的研究;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2022-06-30)</title>
