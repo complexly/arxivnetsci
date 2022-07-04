@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要5篇(2022-07-04) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+模块度优化作为图神经网络的训练标准;
+评估超参数对知识图谱嵌入质量的影响;
+对媒体偏见摇摆不定：在政治盟友和反对者网络中间歇性地改变主意;
+竞技在线射击游戏中根据行为进行玩家评分;
+不确定性下的决策：量子值算子方法;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要5篇(2022-07-04) - 网络科学研究速递">
+<meta itemprop="description" content="
+模块度优化作为图神经网络的训练标准;
+评估超参数对知识图谱嵌入质量的影响;
+对媒体偏见摇摆不定：在政治盟友和反对者网络中间歇性地改变主意;
+竞技在线射击游戏中根据行为进行玩家评分;
+不确定性下的决策：量子值算子方法;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要5篇(2022-07-04) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220704/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+模块度优化作为图神经网络的训练标准;
+评估超参数对知识图谱嵌入质量的影响;
+对媒体偏见摇摆不定：在政治盟友和反对者网络中间歇性地改变主意;
+竞技在线射击游戏中根据行为进行玩家评分;
+不确定性下的决策：量子值算子方法;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220704/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220704/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要5篇(2022-07-04)</h1>
+
+                  <p class="post-byline">
+                    2022年07月04日 · 1872 字 ·
+                    阅读时间约4分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>模块度优化作为图神经网络的训练标准;</li>
+<li>评估超参数对知识图谱嵌入质量的影响;</li>
+<li>对媒体偏见摇摆不定：在政治盟友和反对者网络中间歇性地改变主意;</li>
+<li>竞技在线射击游戏中根据行为进行玩家评分;</li>
+<li>不确定性下的决策：量子值算子方法;</li>
+</ul>
+
+<p></p>
+
+<h3 id="模块度优化作为图神经网络的训练标准">模块度优化作为图神经网络的训练标准</h3>
+
+<p>原文标题： Modularity Optimization as a Training Criterion for Graph Neural Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.00107">http://arxiv.org/abs/2207.00107</a></p>
+
+<p>作者： Tsuyoshi Murata, Naveed Afzal</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.00107v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 图卷积是一种最新的可扩展方法，用于通过在多个层上聚合局部节点信息来对属性图执行深度特征学习。这些层在前向模型中只考虑节点邻居的属性信息，而不在学习任务中包含全局网络结构的知识。特别是，模块化功能提供了有关网络社区结构的便捷信息来源。在这项工作中，我们通过在图卷积模型中加入网络的社区结构保护目标来研究对学习表示质量的影响。我们以两种方式合并目标，通过输出层成本函数中的显式正则化项和通过辅助层计算的附加损失项。我们报告了图卷积架构中社区结构保留项的效果。对两个属性书目网络的实验评估表明，社区保留目标的结合提高了稀疏标签机制中的半监督节点分类精度。</p>
+
+<h3 id="评估超参数对知识图谱嵌入质量的影响">评估超参数对知识图谱嵌入质量的影响</h3>
+
+<p>原文标题： Assessing the Effects of Hyperparameters on Knowledge Graph Embedding Quality</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.00473">http://arxiv.org/abs/2207.00473</a></p>
+
+<p>作者： Oliver Lloyd, Yi Liu, Tom Gaunt</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.00473v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 将知识图嵌入低维空间是一种流行的方法，用于将链路预测或节点分类等方法应用于这些数据库。这种嵌入过程在计算时间和空间方面都非常昂贵。造成这种情况的部分原因是超参数的优化，这涉及通过随机、引导或蛮力选择从大型超参数空间中重复采样，并测试生成的嵌入的质量。然而，并不是这个搜索空间中的所有超参数都同样重要。事实上，通过对超参数相对重要性的先验知识，可以从搜索中完全消除一些超参数，而不会显著影响输出嵌入的整体质量。为此，我们进行了 Sobol 敏感性分析，以评估调整不同超参数对嵌入质量方差的影响。这是通过执行数千次嵌入试验来实现的，每次都测量不同超参数配置产生的嵌入质量。我们回归了这些超参数配置的嵌入质量，使用该模型为每个超参数生成 Sobol 灵敏度指数。通过评估 Sobol 指数之间的相关性，我们发现具有不同数据集特征的知识图之间的超参数敏感性存在很大差异，这可能是导致这些不一致的原因。作为这项工作的额外贡献，我们确定了 UMLS 知识图中的几个关系，这些关系可能通过反向关系导致数据泄漏，并推导出并呈现 UMLS-43，该图的泄漏鲁棒变体。</p>
+
+<h3 id="对媒体偏见摇摆不定-在政治盟友和反对者网络中间歇性地改变主意">对媒体偏见摇摆不定：在政治盟友和反对者网络中间歇性地改变主意</h3>
+
+<p>原文标题： Vacillating about media bias: changing one&rsquo;s mind intermittently within a network of political allies and opponents</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.00372">http://arxiv.org/abs/2207.00372</a></p>
+
+<p>作者： Nicholas Kah Yean Low, Andrew Melatos</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.00372v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 意见动态模拟揭示的一种长期行为形式是间歇性，即个人在稳定、不变的信念和动荡、波动的信念之间循环，例如在推断媒体组织的政治偏见时。我们通过建立一个理想化的贝叶斯学习者网络来探索这一现象，他们通过观察抛硬币和来自政治盟友和反对者的同伴压力来推断硬币的偏见。数值模拟表明，三种类型的网络结构导致三种不同类型的间歇性，这些间歇性是由主体以特定方式“锁定”对手的确定信念引起的。学习者维持稳定或动荡信念的停留时间的概率密度函数在三种间歇性类型中有所不同。因此，至少在原则上，人们可以观察学习者的停留时间来推断底层网络结构。</p>
+
+<h3 id="竞技在线射击游戏中根据行为进行玩家评分">竞技在线射击游戏中根据行为进行玩家评分</h3>
+
+<p>原文标题： Behavioral Player Rating in Competitive Online Shooter Games</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.00528">http://arxiv.org/abs/2207.00528</a></p>
+
+<p>作者： Arman Dehpanah, Muheeb Faizan Ghori, Jonathan Gemmell, Bamshad Mobasher</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.00528v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 竞技网络博弈使用分级系统进行配对；基于进度的算法，根据他们玩的博弈的结果，用可解释的评级来估计玩家的技能水平。然而，玩家的整体体验是由他们博弈的唯一结果之外的因素决定的。在本文中，我们从博弈内统计数据中设计了几个特征来模拟玩家，并创建准确代表他们的行为和真实表现水平的评级。然后，我们通过预测竞技射击博弈类型的四种流行博弈模式中的玩家排名，将我们的行为评级的估计能力与使用三种主流评级系统创建的评级进行比较。我们的结果表明，行为评级提供了更准确的性能估计，同时保持了所创建表示的可解释性。考虑玩家博弈行为的不同方面并使用行为评分进行匹配可以使匹配更符合玩家的目标和兴趣，从而带来更愉快的博弈体验。</p>
+
+<h3 id="不确定性下的决策-量子值算子方法">不确定性下的决策：量子值算子方法</h3>
+
+<p>原文标题： Decision-making under uncertainty: a quantum value operator approach</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2206.05185">http://arxiv.org/abs/2206.05185</a></p>
+
+<p>作者： Lizhi Xin, Houwen Xin</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2206.05185v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们提出了一种用于不确定性决策的量子期望值理论。提出量子密度算子作为值算子来模拟人的主观信念。价值算子通过客观世界引导人们根据主观信念选择相应的行动。值算子可以从量子门和逻辑运算构造为量子决策树。遗传编程用于优化和自动生成量子决策树。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220704/">https://netsci.complexly.cn/post/20220704/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20220701/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要11篇(2022-07-01)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
