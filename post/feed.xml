@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2022-07-05)</title>
+      <link>https://netsci.complexly.cn/post/20220705/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220705/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;用于异步结构演化的考虑时间的动态图嵌入;&lt;/li&gt;
+&lt;li&gt;重建 COVID-19 传输网络以告知基于中介中心性的控制措施的框架;&lt;/li&gt;
+&lt;li&gt;费米统计方法应用于宏观人口统计数据建模;&lt;/li&gt;
+&lt;li&gt;重复博弈中零行列式策略存在的充要条件;&lt;/li&gt;
+&lt;li&gt;不同空间、时间和语法尺度的语言统计;&lt;/li&gt;
+&lt;li&gt;考虑节点特征和网络拓扑的三角形社区检测;&lt;/li&gt;
+&lt;li&gt;Twitter 上挖掘旅游体验：案例研究;&lt;/li&gt;
+&lt;li&gt;使用多层网络对推文进行图表示的情感分析;&lt;/li&gt;
+&lt;li&gt;基于图学习的相互依赖网络系统弹性的生成设计;&lt;/li&gt;
+&lt;li&gt;在聚合函数下寻找 Top-r 影响社区;&lt;/li&gt;
+&lt;li&gt;在动态图上实时计算最短周期：一种集线器标记方法;&lt;/li&gt;
+&lt;li&gt;数字时代的集体记忆;&lt;/li&gt;
+&lt;li&gt;意见动态模型中的最优控制：迈向统一框架;&lt;/li&gt;
+&lt;li&gt;恐怖袭击强化了“我们”与“他们”的二元认知;&lt;/li&gt;
+&lt;li&gt;新加坡不同地区公共交通（内）可达性和土地利用格局分析;&lt;/li&gt;
+&lt;li&gt;基于真实地理和人口数据的 COVID-19 建模;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要5篇(2022-07-04)</title>
