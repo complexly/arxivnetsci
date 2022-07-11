@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2022-07-11)</title>
+      <link>https://netsci.complexly.cn/post/20220711/</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220711/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;高频特征模式揭示的跨模式皮层增强的大脑结构功能束缚;&lt;/li&gt;
+&lt;li&gt;高阶网络中的内聚和隔离;&lt;/li&gt;
+&lt;li&gt;通信网络中互惠的时间模式;&lt;/li&gt;
+&lt;li&gt;通过社会学启发的神经网络预测意见动态;&lt;/li&gt;
+&lt;li&gt;城市规模移动数字孪生的在线轨迹预测;&lt;/li&gt;
+&lt;li&gt;DGraph：用于图异常检测的大规模金融数据集;&lt;/li&gt;
+&lt;li&gt;通过对抗性含时图表示学习进行动态社区检测;&lt;/li&gt;
+&lt;li&gt;规则网格中的合作;&lt;/li&gt;
+&lt;li&gt;TF-GNN：TensorFlow 中的图神经网络;&lt;/li&gt;
+&lt;li&gt;生活方式模式分析揭示受灾害影响社区的恢复轨迹;&lt;/li&gt;
+&lt;li&gt;通过有偏见的随机游走重连实现社区结构的涌现;&lt;/li&gt;
+&lt;li&gt;具有 VOC、季节性和疫苗的移动性驱动的空间显式 SEIQRD COVID-19 模型;&lt;/li&gt;
+&lt;li&gt;使用社交媒体数据分析进行事件检测的教程：应用程序、挑战和未解决的问题;&lt;/li&gt;
+&lt;li&gt;量子研究人员流动性：支付多萝西签证费用的神奇绿野仙踪;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2022-07-08)</title>
