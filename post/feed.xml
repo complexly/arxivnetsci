@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 11 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2022-07-12)</title>
+      <link>https://netsci.complexly.cn/post/20220712/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220712/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;异质邻域存在下的图神经网络公平性;&lt;/li&gt;
+&lt;li&gt;活动网络决定项目绩效;&lt;/li&gt;
+&lt;li&gt;加权单纯复形及其对高阶网络数据和拓扑的表示能力;&lt;/li&gt;
+&lt;li&gt;使用世界贸易网络分析风险传播;&lt;/li&gt;
+&lt;li&gt;跨学科研究的延迟影响;&lt;/li&gt;
+&lt;li&gt;社会不平等度量在预测某些模型物理系统的关键或故障点方面的成功;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2022-07-11)</title>
