@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 13 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2022-07-15)</title>
+      <link>https://netsci.complexly.cn/post/20220715/</link>
+      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220715/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;复杂网络之间的分析关系：编码、解码和因果关系;&lt;/li&gt;
+&lt;li&gt;等变超图扩散神经算子;&lt;/li&gt;
+&lt;li&gt;使用图神经网络的子图频率分布估计;&lt;/li&gt;
+&lt;li&gt;网络旁路维持复杂性;&lt;/li&gt;
+&lt;li&gt;活动网络完成时间的热带近似;&lt;/li&gt;
+&lt;li&gt;基于社会关系和历史行为的个性化推荐系统;&lt;/li&gt;
+&lt;li&gt;表征动态属性网络中的节点和边：一种基于社会的方法;&lt;/li&gt;
+&lt;li&gt;多智能体强化学习中的奖励共享关系网络作为紧急行为的框架;&lt;/li&gt;
+&lt;li&gt;一般非局部交通流模型的加速动力学蒙特卡罗方法;&lt;/li&gt;
+&lt;li&gt;大流行期间的行为变化恶化了城市遭遇的收入多样性;&lt;/li&gt;
+&lt;li&gt;通过敏感度有界的个性化 PageRank 进行差分私有图学习;&lt;/li&gt;
+&lt;li&gt;作为复杂网络的叛乱：PKK 中的形象共同出现和等级制度;&lt;/li&gt;
+&lt;li&gt;核心-边缘社区的结构;&lt;/li&gt;
+&lt;li&gt;自旋玻璃系统作为集体主动推理;&lt;/li&gt;
+&lt;li&gt;基于双重拍卖机制的股权驱动出租车定价策略在泰国曼谷都会区的可行性;&lt;/li&gt;
+&lt;li&gt;在社交媒体上检测对非自杀性自残感兴趣的人;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要3篇(2022-07-13)</title>
