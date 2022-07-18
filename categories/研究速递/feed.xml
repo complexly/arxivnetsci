@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 15 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2022-07-18)</title>
+      <link>https://netsci.complexly.cn/post/20220718/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220718/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;比特币区块链资金流动模式分析;&lt;/li&gt;
+&lt;li&gt;一种基于非对称相似度-流行度的有向复杂网络链路预测方法;&lt;/li&gt;
+&lt;li&gt;NFT 个人资料图片在社会网络社区中的影响;&lt;/li&gt;
+&lt;li&gt;通过动态图中的局部扩散估计社交媒体上的情绪传染;&lt;/li&gt;
+&lt;li&gt;刑事职业专业化;&lt;/li&gt;
+&lt;li&gt;有多少人分享了这个？通过实验研究社交线索对社交媒体的参与度、错误信息和不可预测性的影响;&lt;/li&gt;
+&lt;li&gt;利用机器学习分析、表征、预测和归因极端大气事件：回顾;&lt;/li&gt;
+&lt;li&gt;Twitter 知道你的政治观点吗？ POLiTweets 数据集和政治倾向发现的半自动方法;&lt;/li&gt;
+&lt;li&gt;将有向网络嵌入欧几里得和双曲空间的与模型无关的方法;&lt;/li&gt;
+&lt;li&gt;使用环境压力源模拟人群疏散;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2022-07-15)</title>
