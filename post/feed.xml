@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 18 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2022-07-21)</title>
+      <link>https://netsci.complexly.cn/post/20220721/</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220721/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;通过增强节点提高空间网络的鲁棒性;&lt;/li&gt;
+&lt;li&gt;计算机科学协作网络的社区结构及其对科学生产和消费的影响;&lt;/li&gt;
+&lt;li&gt;通过去噪graphlet分布比较有向网络;&lt;/li&gt;
+&lt;li&gt;识别和表征社交媒体上的错误信息超级传播者;&lt;/li&gt;
+&lt;li&gt;足球是谎言还是只是一个复杂的系统？;&lt;/li&gt;
+&lt;li&gt;危机复原力管理中负责任人工智能的路线图;&lt;/li&gt;
+&lt;li&gt;具有高无症状传播率的传染病时空模型;&lt;/li&gt;
+&lt;li&gt;固定大小细胞上人口分布的有限尺度尺度及其与分形空间结构的关系;&lt;/li&gt;
+&lt;li&gt;疫苗接种和检疫政策的有效性，以遏制 COVID-19 的传播;&lt;/li&gt;
+&lt;li&gt;如何（不）评估乘客路线、时刻表和线路计划;&lt;/li&gt;
+&lt;li&gt;有机地和大规模地软化在线极端情况;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2022-07-18)</title>
