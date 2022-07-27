@@ -7,10 +7,30 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 21 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要8篇(2022-07-27)</title>
+      <link>https://netsci.complexly.cn/post/20220727/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220727/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;社会网络中的确认偏差;&lt;/li&gt;
+&lt;li&gt;定量可视化二分数据集;&lt;/li&gt;
+&lt;li&gt;“这是假新闻”：描述 Twitter 用户对 COVID-19 虚假信息的自发揭穿;&lt;/li&gt;
+&lt;li&gt;社交媒体上错误信息的民间模式;&lt;/li&gt;
+&lt;li&gt;多单元内容缓存：优化成本和信息新鲜度;&lt;/li&gt;
+&lt;li&gt;在大型网络中寻找最大团;&lt;/li&gt;
+&lt;li&gt;通过深度学习的个性化传播对 COVID-19 的社会影响进行建模;&lt;/li&gt;
+&lt;li&gt;情境化在线会话网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2022-07-21)</title>
