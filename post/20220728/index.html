@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要10篇(2022-07-28) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+从贝叶斯推理的角度理解图神经网络中的非线性;
+GCN-WP &ndash; 用于电子竞技中获胜预测的半监督图卷积网络;
+电线上的鸟;
+无线电频率干扰及对 CMB-S4 宇宙微波背景调查的潜在影响回顾;
+社交直播的使用和幸福感：在 Twitch.tv 上检查参与度、财务承诺、社会资本和心理幸福感;
+探索 COVID-19 Twitter 精英的潜在社交空间;
+使用深度门控循环单元推断复杂网络中主体转移的起点-终点分布;
+为假新闻检测建模社会背景：一种基于图神经网络的方法;
+COVID-19 与登革热之间的相关性;
+BotBuster：使用混合专家进行多平台机器人检测;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要10篇(2022-07-28) - 网络科学研究速递">
+<meta itemprop="description" content="
+从贝叶斯推理的角度理解图神经网络中的非线性;
+GCN-WP &ndash; 用于电子竞技中获胜预测的半监督图卷积网络;
+电线上的鸟;
+无线电频率干扰及对 CMB-S4 宇宙微波背景调查的潜在影响回顾;
+社交直播的使用和幸福感：在 Twitch.tv 上检查参与度、财务承诺、社会资本和心理幸福感;
+探索 COVID-19 Twitter 精英的潜在社交空间;
+使用深度门控循环单元推断复杂网络中主体转移的起点-终点分布;
+为假新闻检测建模社会背景：一种基于图神经网络的方法;
+COVID-19 与登革热之间的相关性;
+BotBuster：使用混合专家进行多平台机器人检测;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要10篇(2022-07-28) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220728/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+从贝叶斯推理的角度理解图神经网络中的非线性;
+GCN-WP &ndash; 用于电子竞技中获胜预测的半监督图卷积网络;
+电线上的鸟;
+无线电频率干扰及对 CMB-S4 宇宙微波背景调查的潜在影响回顾;
+社交直播的使用和幸福感：在 Twitch.tv 上检查参与度、财务承诺、社会资本和心理幸福感;
+探索 COVID-19 Twitter 精英的潜在社交空间;
+使用深度门控循环单元推断复杂网络中主体转移的起点-终点分布;
+为假新闻检测建模社会背景：一种基于图神经网络的方法;
+COVID-19 与登革热之间的相关性;
+BotBuster：使用混合专家进行多平台机器人检测;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220728/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220728/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要10篇(2022-07-28)</h1>
+
+                  <p class="post-byline">
+                    2022年07月28日 · 4021 字 ·
+                    阅读时间约9分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>从贝叶斯推理的角度理解图神经网络中的非线性;</li>
+<li>GCN-WP &ndash; 用于电子竞技中获胜预测的半监督图卷积网络;</li>
+<li>电线上的鸟;</li>
+<li>无线电频率干扰及对 CMB-S4 宇宙微波背景调查的潜在影响回顾;</li>
+<li>社交直播的使用和幸福感：在 Twitch.tv 上检查参与度、财务承诺、社会资本和心理幸福感;</li>
+<li>探索 COVID-19 Twitter 精英的潜在社交空间;</li>
+<li>使用深度门控循环单元推断复杂网络中主体转移的起点-终点分布;</li>
+<li>为假新闻检测建模社会背景：一种基于图神经网络的方法;</li>
+<li>COVID-19 与登革热之间的相关性;</li>
+<li>BotBuster：使用混合专家进行多平台机器人检测;</li>
+</ul>
+
+<p></p>
+
+<h3 id="从贝叶斯推理的角度理解图神经网络中的非线性">从贝叶斯推理的角度理解图神经网络中的非线性</h3>
+
+<p>原文标题： Understanding Non-linearity in Graph Neural Networks from the Bayesian-Inference Perspective</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.11311">http://arxiv.org/abs/2207.11311</a></p>
+
+<p>作者： Rongzhe Wei, Haoteng Yin, Junteng Jia, Austin R. Benson, Pan Li</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.11311v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 图神经网络 (GNN) 在许多预测任务中显示出优于图的优势，因为它们在图结构数据中刻画非线性关系的能力令人印象深刻。然而，对于节点分类任务，通常只观察到 GNN 相对于其线性对应物的边际改进。以前的工作对这种现象的理解很少。在这项工作中，我们借助贝叶斯学习来深入研究 GNN 中用于节点分类任务的非线性函数。给定从统计模型 CSBM 生成的图，我们观察到给定节点标签自身和邻居属性的最大后验估计由两种类型的非线性组成，节点属性的可能非线性变换和来自邻居的 ReLU 激活的特征聚合。后者令人惊讶地与许多 GNN 模型中使用的非线性类型相匹配。通过进一步对节点属性施加高斯假设，我们证明只有当节点属性比图结构提供更多信息时，这些 ReLU 激活的优越性才显著，这很好地匹配了许多以前的经验观察。当训练和测试数据集之间存在节点属性的分布变化时，可以实现类似的论点。最后，我们在合成网络和真实网络上验证了我们的理论。</p>
+
+<h3 id="gcn-wp-用于电子竞技中获胜预测的半监督图卷积网络">GCN-WP &ndash; 用于电子竞技中获胜预测的半监督图卷积网络</h3>
+
+<p>原文标题： GCN-WP &ndash; Semi-Supervised Graph Convolutional Networks for Win Prediction in Esports</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.13191">http://arxiv.org/abs/2207.13191</a></p>
+
+<p>作者： Alexander J. Bisberg, Emilio Ferrara</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.13191v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 获胜预测​​对于理解电子竞技中的技能建模、团队合作和匹配至关重要。在本文中，我们提出了 GCN-WP，这是一种基于图卷积网络的电子竞技半监督获胜预测模型。该模型在一个赛季（1 年）的过程中学习电子竞技联赛的结构，并对另一个类似的联赛进行预测。该模型集成了 30 多个关于比赛和球员的特征，并采用图卷积根据其邻域对比赛进行分类。与机器学习或 LoL 的技能评级模型相比，我们的模型实现了最先进的预测准确性。该框架具有通用性，因此可以轻松扩展到其他多人在线博弈。</p>
+
+<h3 id="电线上的鸟">电线上的鸟</h3>
+
+<p>原文标题： Birds on a Wire</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2205.00995">http://arxiv.org/abs/2205.00995</a></p>
+
+<p>作者： P. L. Krapivsky, S. Redner</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2205.00995v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们调查了电线和高维基板上鸟类的占用统计数据。在一个维度中，鸟儿一只一只地降落在一根电线上，并在它们降落的地方休息。每当一只新来的鸟降落在已经休息的鸟的固定距离内，这些休息的鸟就会立即飞走。我们确定了电线的稳态占用率、相邻鸟类之间的间隙分布以及该过程的其他基本统计特征。我们讨论了更高维度中相应可观测量的猜想。</p>
+
+<h3 id="无线电频率干扰及对-cmb-s4-宇宙微波背景调查的潜在影响回顾">无线电频率干扰及对 CMB-S4 宇宙微波背景调查的潜在影响回顾</h3>
+
+<p>原文标题： Review of Radio Frequency Interference and Potential Impacts on the CMB-S4 Cosmic Microwave Background Survey</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.13204">http://arxiv.org/abs/2207.13204</a></p>
+
+<p>作者： Darcy R. Barron, Amy N. Bender, Ian E. Birdwell, John E. Carlstrom, Jacques Delabrouille, Sam Guns, John Kovac, Charles R. Lawrence, Scott Paine, Nathan Whitehorn</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.13204v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： CMB-S4将以前所未有的精度绘制宇宙微波背景图，同时测量毫米波时域天空，以促进我们对宇宙学和宇宙的理解。 CMB-S4 将从南极和智利的阿塔卡马沙漠两个地点进行观测。小口径和大口径望远镜与数十万个偏振敏感探测器的组合将在 20-300 GHz 的几个频段内进行观测，以前所未有的灵敏度测量超过 50% 的天空至弧分分辨率。 CMB-S4 力求在灵敏度方面取得巨大飞跃，同时在广泛的很大程度上未受保护的谱上进行观测，这些谱越来越多地用于地面和卫星传输。 CMB 仪器技术的基本方面使其容易受到广泛频率范围内的无线电频率干扰 (RFI) 的影响，包括其观测频段之外的频率。地面 CMB 仪器通过将超导辐射热计的大焦平面部署到极其干燥的高海拔地点，具有较大的分数带宽、宽视场和多年的集成时间，从而实现了它们非凡的灵敏度。历史上，合适的观测地点通过其极其偏远的位置自然地以及通过限制当地排放来提供重要的 RFI 保护。由于耦合机制很复杂，不会干扰 CMB 测量的安全发射水平或频率不能总是通过简单的计算来确定。我们讨论了与 CMB-S4 相关的各种 RFI 的干扰模型、缓解策略以及对调查灵敏度的潜在影响。</p>
+
+<h3 id="社交直播的使用和幸福感-在-twitch-tv-上检查参与度-财务承诺-社会资本和心理幸福感">社交直播的使用和幸福感：在 Twitch.tv 上检查参与度、财务承诺、社会资本和心理幸福感</h3>
+
+<p>原文标题： Social Live-Streaming Use &amp; Well-being: Examining Participation, Financial Commitment, Social Capital, and Psychological Well-being on Twitch.tv</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.13313">http://arxiv.org/abs/2207.13313</a></p>
+
+<p>作者： Grace H. Wolff, Cuihua Shen</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.13313v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本研究探讨了主动参与、财务承诺和被动参与领先的社交直播服务 Twitch.tv 与个人心理健康的关系。社会资本的三个维度——结构、关系和认知——以及准社会关系被探索为中介。通过比较两个完全饱和的结构方程模型，分析了来自 396 名受访者的横断面调查数据。调查结果表明，积极参与最喜欢的主播的聊天与幸福感的增加呈正相关。结构性社会资本，或具有更多的社会互动关系，正向中介积极参与和幸福之间的关系，以及财务承诺和幸福之间的关系。更大的认知社会资本，或与最喜欢的主播共享价值观和目标，与幸福感下降有关。准社会关系在使用和幸福感之间没有显著中介作用。我们的结果证明了有形的社会联系对感知关系或与最喜欢的流媒体的认同的重要性。</p>
+
+<h3 id="探索-covid-19-twitter-精英的潜在社交空间">探索 COVID-19 Twitter 精英的潜在社交空间</h3>
+
+<p>原文标题： Exploring the latent social space of COVID-19 Twitter elites</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.13352">http://arxiv.org/abs/2207.13352</a></p>
+
+<p>作者： Giacomo De Nicola, Victor H. Tuekam Mambou, Göran Kauermann</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.13352v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： COVID-19 大流行引发了大量虚假信息，加剧了日益分裂的在线讨论领域的两极分化。在这种情况下，流行的社交媒体用户发挥了重要作用，因为他们有能力向大量受众广播信息，从而影响公众舆论。我们利用公开可用的 Twitter 数据来研究有影响力的用户讨论大流行的行为，我们称之为 COVID-19 Twitter 精英。我们从网络的角度解决这个问题，将用户视为节点并将关系视为有向边。由此产生的网络结构是通过将参与者嵌入到潜在的社交空间中来建模的，在该空间中，彼此靠近的用户形成边的概率更高。结果表明存在两个不同的社区，可以解释为“普遍赞成”和“普遍反对”疫苗要求。我们进一步关注一些暴露的用户，例如政治家、活动家和新闻媒体，并讨论他们在潜在空间中的角色。我们的研究结果表明，这两个极端之间的所有信念都得到了体现，更激进的用户位于空间的极端，而更温和的参与者则位于中间。我们的分析展示了如何通过仅考虑精英网络中的追随者来提供 COVID-19 Twitter 生态系统的细微差别。这一发现证实了关于回声室效应在平台上普遍存在的现有证据，并展示了潜在空间模型在研究社交媒体交流方面的力量。</p>
+
+<h3 id="使用深度门控循环单元推断复杂网络中主体转移的起点-终点分布">使用深度门控循环单元推断复杂网络中主体转移的起点-终点分布</h3>
+
+<p>原文标题： Inferring origin-destination distribution of agent transfer in a complex network using deep gated recurrent units</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.13375">http://arxiv.org/abs/2207.13375</a></p>
+
+<p>作者： Vee-Liem Saw, Luca Vismara, Suryadi, Bo Yang, Mikael Johansson, Lock Yue Chew</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.13375v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 预测主体转移的起点-终点（OD）概率分布是管理复杂系统的一个重要问题。然而，相关统计估计量的预测准确性存在不确定性。虽然已经提出了特定的技术来克服这个缺陷，但仍然缺乏通用的方法。在这里，我们提出了一个带有门控循环单元 (DNNGRU) 的深度神经网络框架来解决这一差距。我们的 DNNGRU 是 emphnetwork-free 的，因为它是通过监督学习使用时间序列数据训练的，这些数据是关于通过边的主体数量的。我们使用它来研究网络拓扑如何影响 OD 预测精度，其中观察到性能增强取决于不同 OD 采用的路径之间的重叠程度。通过与给出准确结果的方法进行比较，我们展示了 DNNGRU 的近乎最佳性能，我们发现在不同的数据生成场景下，它始终优于现有方法和替代神经网络架构。</p>
+
+<h3 id="为假新闻检测建模社会背景-一种基于图神经网络的方法">为假新闻检测建模社会背景：一种基于图神经网络的方法</h3>
+
+<p>原文标题： Modelling Social Context for Fake News Detection: A Graph Neural Network Based Approach</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.13500">http://arxiv.org/abs/2207.13500</a></p>
+
+<p>作者： Pallabi Saikia, Kshitij Gundale, Ankit Jain, Dev Jadeja, Harvi Patel, Mohendra Roy</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.13500v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 假新闻的检测对于确保信息的真实性和维护新闻生态系统的可靠性至关重要。最近，由于最近社交媒体和虚假内容生成技术（如 Deep Fake）的激增，虚假新闻内容有所增加。大多数现有的假新闻检测模式都集中在基于内容的方法上。然而，这些技术中的大多数都无法处理由生成模型产生的超逼真的合成媒体。我们最近的研究发现，真实和虚假新闻的传播特征是可区分的，无论其形式如何。在这方面，我们研究了基于社会背景的辅助信息来检测假新闻。本文使用基于混合图神经网络的方法分析了假新闻检测的社会背景。这种混合模型基于集成关于新闻传播的图神经网络和来自关于新闻内容的转换器模型的双向编码器表示，以学习文本特征。因此，这种提出的方​​法可以学习内容和上下文特征，因此能够在 PolitiFact 上的 f1 得分为 0.91 和在 Gossipcop 数据集上的 f1 得分分别为 0.93 时优于基线模型</p>
+
+<h3 id="covid-19-与登革热之间的相关性">COVID-19 与登革热之间的相关性</h3>
+
+<p>原文标题： Correlations Between COVID-19 and Dengue</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.13561">http://arxiv.org/abs/2207.13561</a></p>
+
+<p>作者： Paula Bergero, Laura P. Schaposnik, Grace Wang</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.13561v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 据报道，最近登革热爆发的数量急剧增加，气候变化可能会扩大该疾病的地理传播范围。在这种情况下，本文展示了神经网络方法如何结合登革热和 COVID-19 数据以及外部因素（如社会行为或气候变量），以开发可以提高我们的知识并为健康提供有用工具的预测模型政策制定者。通过使用具有不同社会和自然参数的神经网络，在本文中，我们定义了一个相关模型，通过该模型我们表明 COVID-19 和登革热的病例数具有非常相似的趋势。然后，我们通过将模型扩展到包含两种疾病的长短期记忆模型 (LSTM) 来说明模型的相关性，并使用该模型在缺乏足够登革热数据的国家通过 COVID-19 数据估计登革热感染。</p>
+
+<h3 id="botbuster-使用混合专家进行多平台机器人检测">BotBuster：使用混合专家进行多平台机器人检测</h3>
+
+<p>原文标题： BotBuster: Multi-platform Bot Detection Using A Mixture of Experts</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2207.13658">http://arxiv.org/abs/2207.13658</a></p>
+
+<p>作者： Lynnette Hui Xian Ng, Kathleen M. Carley</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2207.13658v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 尽管发展迅速，但当前的机器人检测模型在处理不完整的数据和跨平台应用程序方面仍然面临挑战。在本文中，我们提出了 BotBuster，这是一种基于专家混合方法概念构建的社交机器人检测器。每个专家都经过培训，可以分析部分账户信息，例如用户名，并结合起来估计帐户是机器人的概率。对 10 个 Twitter 数据集的实验表明，BotBuster 优于流行的机器人检测基线（平均 F1=73.54 与平均 F1=45.12）。这伴随着 Reddit 数据集上的 F1=60.04 和外部评估集上的 F1=60.92。进一步分析表明，稳定的机器人分类只需要 36 个帖子。调查表明，机器人帖子的特征多年来发生了变化，并且很难与人类特征区分开来，这使得机器人检测成为一个困难且持续存在的问题。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220728/">https://netsci.complexly.cn/post/20220728/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20220727/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要8篇(2022-07-27)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

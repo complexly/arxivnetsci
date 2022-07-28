@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 27 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2022-07-28)</title>
+      <link>https://netsci.complexly.cn/post/20220728/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220728/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;从贝叶斯推理的角度理解图神经网络中的非线性;&lt;/li&gt;
+&lt;li&gt;GCN-WP &amp;ndash; 用于电子竞技中获胜预测的半监督图卷积网络;&lt;/li&gt;
+&lt;li&gt;电线上的鸟;&lt;/li&gt;
+&lt;li&gt;无线电频率干扰及对 CMB-S4 宇宙微波背景调查的潜在影响回顾;&lt;/li&gt;
+&lt;li&gt;社交直播的使用和幸福感：在 Twitch.tv 上检查参与度、财务承诺、社会资本和心理幸福感;&lt;/li&gt;
+&lt;li&gt;探索 COVID-19 Twitter 精英的潜在社交空间;&lt;/li&gt;
+&lt;li&gt;使用深度门控循环单元推断复杂网络中主体转移的起点-终点分布;&lt;/li&gt;
+&lt;li&gt;为假新闻检测建模社会背景：一种基于图神经网络的方法;&lt;/li&gt;
+&lt;li&gt;COVID-19 与登革热之间的相关性;&lt;/li&gt;
+&lt;li&gt;BotBuster：使用混合专家进行多平台机器人检测;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要8篇(2022-07-27)</title>
