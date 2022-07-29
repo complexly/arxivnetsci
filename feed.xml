@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2022-07-29)</title>
+      <link>https://netsci.complexly.cn/post/20220729/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220729/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多层网络相互依赖的因子模型;&lt;/li&gt;
+&lt;li&gt;社会影响力最大化的考虑社区的框架;&lt;/li&gt;
+&lt;li&gt;生态路由如何影响总系统排放？来自用户平衡模型的城市网络预测;&lt;/li&gt;
+&lt;li&gt;网络极化、过滤气泡和回声室：测量、模型和案例研究的注释评论;&lt;/li&gt;
+&lt;li&gt;使用微分方程对社交媒体影响进行数据驱动建模;&lt;/li&gt;
+&lt;li&gt;生成超图模型和谱嵌入;&lt;/li&gt;
+&lt;li&gt;剖析稳定币的失败：Terra-Luna 案例;&lt;/li&gt;
+&lt;li&gt;动态网络临界点的信息论视角;&lt;/li&gt;
+&lt;li&gt;Polkadot 分析：架构、内部结构和矛盾;&lt;/li&gt;
+&lt;li&gt;将社区社会脆弱性纳入飓风引起的住宅建筑风风险评估框架;&lt;/li&gt;
+&lt;li&gt;跨领域去中心化的去中心化演进：从治理到区块链;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2022-07-28)</title>
