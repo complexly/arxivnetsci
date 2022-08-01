@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 29 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2022-08-01)</title>
+      <link>https://netsci.complexly.cn/post/20220801/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220801/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;关于PageRank的初始值;&lt;/li&gt;
+&lt;li&gt;使用道路网络的结构特性估计环境空气污染;&lt;/li&gt;
+&lt;li&gt;多少个运动方程可以描述一个移动的人？;&lt;/li&gt;
+&lt;li&gt;SERCNN：在 Twitter 上检测抑郁症的堆叠嵌入递归卷积神经网络;&lt;/li&gt;
+&lt;li&gt;可持续发展目标作为英国大型公司 Twitter 讨论中的统一叙述;&lt;/li&gt;
+&lt;li&gt;使用多级指标体系对网络舆论危机进行评级;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2022-07-29)</title>
