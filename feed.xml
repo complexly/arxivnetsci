@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2022-08-02)</title>
+      <link>https://netsci.complexly.cn/post/20220802/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220802/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络社区检测20年;&lt;/li&gt;
+&lt;li&gt;复杂预测的拓扑结构;&lt;/li&gt;
+&lt;li&gt;使用图神经网络预测和缓解非局部级联故障;&lt;/li&gt;
+&lt;li&gt;有向符号网络中符号beta模型的有效估计和推理;&lt;/li&gt;
+&lt;li&gt;基于节点邻度频率的局部图嵌入;&lt;/li&gt;
+&lt;li&gt;具有不同储蓄倾向的经济市场的动力学模型;&lt;/li&gt;
+&lt;li&gt;具有异构互易性的随机网络;&lt;/li&gt;
+&lt;li&gt;群体形成中的分歧和两极分化;&lt;/li&gt;
+&lt;li&gt;应用于俄亥俄州 COVID-19 流行病的无似然动态生存分析;&lt;/li&gt;
+&lt;li&gt;Twitter 对竞选伙伴选择的政治影响：社会网络分析和语义分析——回顾;&lt;/li&gt;
+&lt;li&gt;伦敦疫情后更安全的交通恢复——车祸时空数据挖掘;&lt;/li&gt;
+&lt;li&gt;在 Twitter 上检测反疫苗用户;&lt;/li&gt;
+&lt;li&gt;从社会网络结构中识别社交媒体上有影响力的经纪人;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2022-08-01)</title>
