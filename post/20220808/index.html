@@ -1,0 +1,517 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要11篇(2022-08-08) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+具有边相关顶点权重的超图切割;
+Trackintel：用于人类移动性分析的开源 Python 库;
+GROWN&#43;UP：利用预训练的网页网络图表示;
+从群体遗传学角度看社会网络结构和复杂传染病的传播;
+时间网络的嵌入和轨迹;
+基于信任的依附;
+自然超图的增长原理;
+从微小的飞沫到宏观的人群：跨越短程呼吸道疾病传播模型的尺度，并应用于 COVID-19;
+局部绕行中心性：加权网络的一种新的局部中心性度量;
+控制复杂网络动态的外场和关键指数;
+通过网络增长干预提高少数群体的知名度;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要11篇(2022-08-08) - 网络科学研究速递">
+<meta itemprop="description" content="
+具有边相关顶点权重的超图切割;
+Trackintel：用于人类移动性分析的开源 Python 库;
+GROWN&#43;UP：利用预训练的网页网络图表示;
+从群体遗传学角度看社会网络结构和复杂传染病的传播;
+时间网络的嵌入和轨迹;
+基于信任的依附;
+自然超图的增长原理;
+从微小的飞沫到宏观的人群：跨越短程呼吸道疾病传播模型的尺度，并应用于 COVID-19;
+局部绕行中心性：加权网络的一种新的局部中心性度量;
+控制复杂网络动态的外场和关键指数;
+通过网络增长干预提高少数群体的知名度;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要11篇(2022-08-08) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220808/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+具有边相关顶点权重的超图切割;
+Trackintel：用于人类移动性分析的开源 Python 库;
+GROWN&#43;UP：利用预训练的网页网络图表示;
+从群体遗传学角度看社会网络结构和复杂传染病的传播;
+时间网络的嵌入和轨迹;
+基于信任的依附;
+自然超图的增长原理;
+从微小的飞沫到宏观的人群：跨越短程呼吸道疾病传播模型的尺度，并应用于 COVID-19;
+局部绕行中心性：加权网络的一种新的局部中心性度量;
+控制复杂网络动态的外场和关键指数;
+通过网络增长干预提高少数群体的知名度;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220808/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220808/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要11篇(2022-08-08)</h1>
+
+                  <p class="post-byline">
+                    2022年08月08日 · 4693 字 ·
+                    阅读时间约10分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>具有边相关顶点权重的超图切割;</li>
+<li>Trackintel：用于人类移动性分析的开源 Python 库;</li>
+<li>GROWN+UP：利用预训练的网页网络图表示;</li>
+<li>从群体遗传学角度看社会网络结构和复杂传染病的传播;</li>
+<li>时间网络的嵌入和轨迹;</li>
+<li>基于信任的依附;</li>
+<li>自然超图的增长原理;</li>
+<li>从微小的飞沫到宏观的人群：跨越短程呼吸道疾病传播模型的尺度，并应用于 COVID-19;</li>
+<li>局部绕行中心性：加权网络的一种新的局部中心性度量;</li>
+<li>控制复杂网络动态的外场和关键指数;</li>
+<li>通过网络增长干预提高少数群体的知名度;</li>
+</ul>
+
+<p></p>
+
+<h3 id="具有边相关顶点权重的超图切割">具有边相关顶点权重的超图切割</h3>
+
+<p>原文标题： Hypergraph Cuts with Edge-Dependent Vertex Weights</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.06084">http://arxiv.org/abs/2201.06084</a></p>
+
+<p>作者： Yu Zhu, Santiago Segarra</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2201.06084v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们开发了一个框架，用于将边相关的顶点权重 (EDVW) 合并到超图最小 s-t 割问题中。这些权重能够反映超边内顶点的不同重要性，从而产生更好的特征切割属性。更准确地说，我们引入了一类新的超边分裂函数，我们称之为基于 EDVWs，其中分裂超边的惩罚仅取决于与分裂每一侧的顶点相关联的 EDVW 的总和。此外，我们提供了一种构建基于子模 EDVWs 的分裂函数的方法，并证明配备这种分裂函数的超图可以简化为共享相同切割属性的图。在这种情况下，超图最小 s-t 割问题可以使用图最小 s-t 割问题的完善解决方案来解决。此外，我们表明现有的稀疏化技术可以很容易地扩展到我们的案例，并使简化图更小和更稀疏，从而进一步加速应用于简化图的算法。使用真实世界数据的数值实验证明了我们提出的基于 EDVWs 的分裂函数与现有工作中普遍采用的全有或全无分裂函数和基于基数的分裂函数相比的有效性。</p>
+
+<h3 id="trackintel-用于人类移动性分析的开源-python-库">Trackintel：用于人类移动性分析的开源 Python 库</h3>
+
+<p>原文标题： Trackintel: An open-source Python library for human mobility analysis</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2206.03593">http://arxiv.org/abs/2206.03593</a></p>
+
+<p>作者： Henry Martin, Ye Hong, Nina Wiedemann, Dominik Bucher, Martin Raubal</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2206.03593v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在过去的十年中，科学研究利用越来越多的大型跟踪数据集来增强我们对人类移动行为的理解。然而，到目前为止，用于各种数据收集方法的数据处理管道还没有标准化，因此限制了方法的可重复性、可比性和可转移性，并导致定量人类流动性分析。本文介绍了 Trackintel，这是一个用于人类移动分析的开源 Python 库。 Trackintel 建立在交通规划中使用的人类移动性标准数据模型之上，该模型与不同类型的跟踪数据兼容。我们介绍了涵盖人类出行分析全生命周期的库的主要功能，包括根据概念数据模型的处理步骤、读写接口以及分析功能（例如，数据质量评估、出行方式预测）和位置标签）。我们通过一个包含四个不同跟踪数据集的案例研究展示了 Trackintel 库的有效性。 Trackintel 可以作为标准化移动数据分析的重要工具，并提高人类移动新研究的透明度和可比性。</p>
+
+<h3 id="grown-up-利用预训练的网页网络图表示">GROWN+UP：利用预训练的网页网络图表示</h3>
+
+<p>原文标题： GROWN+UP: A Graph Representation Of a Webpage Network Utilizing Pre-training</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.02252">http://arxiv.org/abs/2208.02252</a></p>
+
+<p>作者： Benedict Yeoh, Huijuan Wang</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.02252v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 大型预训练神经网络无处不在，对于自然语言处理和计算机视觉中许多下游任务的成功至关重要。然而，在网络信息检索领域，缺乏同样灵活和强大的能够正确解析网页的预训练模型形成了鲜明的对比。因此，我们认为常见的机器学习任务，如从网页中提取内容和信息挖掘，具有低悬而未开发的收益。我们的目标是通过引入不可知的深度图神经网络特征提取器来缩小差距，该特征提取器可以摄取网页结构，对大量未标记数据进行预训练自我监督，并有效地微调网页上的任意任务。最后，我们展示了我们的预训练模型在两个非常不同的基准上使用多个数据集实现了最先进的结果：网页样板删除和流派分类，从而为其在各种下游任务中的潜在应用提供支持。</p>
+
+<h3 id="从群体遗传学角度看社会网络结构和复杂传染病的传播">从群体遗传学角度看社会网络结构和复杂传染病的传播</h3>
+
+<p>原文标题： Social network structure and the spread of complex contagions from a population genetics perspective</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.02864">http://arxiv.org/abs/2208.02864</a></p>
+
+<p>作者： Julian Kates-Harbeck, Michael M. Desai</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.02864v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 想法、行为和意见通过社会网络传播。如果传播给新个体的概率是个体受影响邻居比例的非线性函数，那么这种传播过程就变成了“复杂的传染”。这种非线性通常不会出现在物理传播感染中，而是会出现在传播的概念受到博弈论考虑（例如策略或行为的选择）或心理影响（例如社会强化和其他形式的同伴）的影响时影响（例如对于想法、偏好或意见）。在这里，我们研究了这种复杂传染病的随机动态如何受到底层网络结构的影响。受真实社会网络上复杂流行病模拟的启发，我们提出了一个通用框架，用于基于群体遗传学的数学工具分析具有任意非线性采用概率的传染病统计数据。我们的框架提供了一种统一的方法，直观地说明了复杂传染的几个关键特性：更强​​的社区结构和网络稀疏性可以显著增强传播，而广泛的度分布会抑制选择的效果。最后，我们表明，一些结构特征可以表现出临界值，这些值可以划分出任意规模的网络可能发生全球流行病的制度。我们的结果在人群中的基因竞争与思想和思想世界中的模因之间建立了相似之处。我们的工具通过社会影响深入理解信息、行为和思想的传播，并突出宏观网络结构在决定其命运中的作用。</p>
+
+<h3 id="时间网络的嵌入和轨迹">时间网络的嵌入和轨迹</h3>
+
+<p>原文标题： Embedding and trajectories of temporal networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.02869">http://arxiv.org/abs/2208.02869</a></p>
+
+<p>作者： Chanon Thongprayoon, Lorenzo Livi, Naoki Masuda</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.02869v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 时间网络数据在各个领域越来越可用，并且通常代表具有复杂结构和时间演变的高度复杂系统。由于处理此类复杂数据的难度，将时间网络数据粗粒度化为嵌入低维空间的数字轨迹可能很有用。我们将这样的过程称为时间网络嵌入，它不同于旨在嵌入单个节点的过程。时间网络嵌入是一项具有挑战性的任务，因为我们通常只能访问节点对之间的离散时间戳事件，并且通常事件以不规则的间隔发生，使得在给定时间构建网络已经成为一个不平凡的问题。我们提出了一种在给定一系列时间戳事件作为输入的情况下生成嵌入在低维空间中的时间网络轨迹的方法。我们通过结合地标多维尺度来实现这一目标，这是众所周知的多维尺度方法的样本外扩展，以及 tie-decay 时间网络的框架。这种组合使我们能够获得描述时间网络演变的连续时间轨迹。然后，我们研究了所提出的时间网络嵌入框架的数学特性。最后，我们展示了使用社交联系人的经验数据来查找联系人事件的时间组织以及它们在一天内和不同天的丢失的方法。</p>
+
+<h3 id="基于信任的依附">基于信任的依附</h3>
+
+<p>原文标题： Trust based attachment</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.02892">http://arxiv.org/abs/2208.02892</a></p>
+
+<p>作者： Julian Kates-Harbeck, Martin Nowak</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.02892v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在受间接互惠影响的社会系统中，积极的声誉是增加未来积极互动可能性的关键。八卦的传播可以放大一个人的行为对其声誉的影响，这取决于它在社会网络中的传播范围，这会导致渗透问题。为了量化这个概念，我们计算了发现特定交互的预期个人数量，即“观众”。对于潜在的捐助者来说，更多的受众构成了更高的声誉风险，因此更有动力按照当前的社会规范执行“好的”行动。因此，对于接收者来说，更多的听众会增加对合作伙伴合作的信任。这个想法可以用于生成社会网络的算法，我们称之为基于信任的附件 (TBA)。 TBA 生成的图与现实世界的网络共享关键的定量属性，例如高聚类、小世界行为和幂律度分布。我们还表明，TBA 可以通过基于三元闭包的简单朋友的朋友例程来近似，众所周知，三元闭包在生成现实的社会网络结构方面非常有效。因此，我们的工作为基于信任、八卦和社会信息传播概念的社会环境中的三元闭合提供了新的理由。因此，这些因素被确定为对人类如何形成社会联系的潜在重大影响。</p>
+
+<h3 id="自然超图的增长原理">自然超图的增长原理</h3>
+
+<p>原文标题： Growth principles of natural hypergraphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.03103">http://arxiv.org/abs/2208.03103</a></p>
+
+<p>作者： Alexei Vazquez</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.03103v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 多个系统可以用超图表示，超图是具有任意数量顶点之间关联的图的扩展。这些自然超图不会立即出现。它们是由超图演化的一些动态过程生成的。在这里，我研究什么是自然超图的最小增长原则。我假设边复制处的边复制和顶点添加是超图增长的关键原则。这两个原则的实施导致优先依恋、幂律度分布、小世界属性、高聚集系数和创始人效应的出现。这项工作阐明了超图增长动态背景下原则、涌现属性和上下文特定细节之间的区别。</p>
+
+<h3 id="从微小的飞沫到宏观的人群-跨越短程呼吸道疾病传播模型的尺度-并应用于-covid-19">从微小的飞沫到宏观的人群：跨越短程呼吸道疾病传播模型的尺度，并应用于 COVID-19</h3>
+
+<p>原文标题： From microscopic droplets to macroscopic crowds: Crossing the scales in models of short-range respiratory disease transmission, with application to COVID-19</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.03147">http://arxiv.org/abs/2208.03147</a></p>
+
+<p>作者： Simon Mendez (CNRS, IMAG), Willy Garcia, Alexandre Nicolas (CNRS, ILM)</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.03147v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 短程接触空气中携带病毒的呼吸道飞沫现在被认为是呼吸道疾病的有效传播途径，例如 COVID-19。为了评估在涉及数十到数百人的日常生活环境中与该途径相关的风险，需要在液滴传播的流体动力学模拟和人口规模的流行病学模型之间架起一座桥梁。我们通过粗粒度微观液滴轨迹（在各种环境流中模拟）到发射器周围病毒浓度的时空图并将这些图与不同场景（街道、火车站、市场、排队和街头咖啡馆&rsquo;es）。在单个行人的尺度上，我们的结果强调了环境气流速度相对于发射器运动的重要性。这种分散传染性气溶胶并因此减轻短程传播风险的空气动力学效应优于所有其他环境变量。在人群的规模上，该方法根据出现的新感染风险对场景进行排名，以街头咖啡馆为主，然后是户外市场。虽然微风对定性排名的影响相当微不足道，但即使是最温和的环境空气流量也会显著降低新感染的数量率。此处提出的框架在考虑 SARS-CoV-2 的情况下应用，但将其推广到其他空气传播病原体和其他（真实或假设的）人群安排是直截了当的。</p>
+
+<h3 id="局部绕行中心性-加权网络的一种新的局部中心性度量">局部绕行中心性：加权网络的一种新的局部中心性度量</h3>
+
+<p>原文标题： Local Detour Centrality: A Novel Local Centrality Measure for Weighted Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.03158">http://arxiv.org/abs/2208.03158</a></p>
+
+<p>作者： Haim Cohen, Yinon Nachshon, Paz M. Naim, Jürgen Jost, Emil Saucan, Anat Maril</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.03158v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在某种意义上，中心性反映了一个顶点控制网络中信息流的程度。在这里，我们提出局部绕行中心性作为一种新颖的基于中心性的中介度量，它刻画与替代路径相比，顶点缩短相邻顶点之间路径的程度。在展示了我们的度量之后，我们凭经验证明它不同于其他主要的中心度量，例如介数、度数、接近度和三角形的数量。通过实证案例研究，我们为局部绕道中心性提供了一种可能的解释，作为一种衡量一个词在语义网络中以上下文多样性为特征的程度的衡量标准。然后，我们检查我们的测量与存储在内存中的知识的可访问性之间的关系。为此，我们表明出现在几个不同和不同上下文中的单词在促进后续单词的检索方面比缺乏这种上下文多样性的单词更有效。</p>
+
+<h3 id="控制复杂网络动态的外场和关键指数">控制复杂网络动态的外场和关键指数</h3>
+
+<p>原文标题： External field and critical exponents in controlling dynamics on complex networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.03187">http://arxiv.org/abs/2208.03187</a></p>
+
+<p>作者： Hillel Sanhedrai, Shlomo Havlin</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.03187v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 复杂网络上的动态过程，包括生物、技术和社会系统，显示了系统不同全局状态之间的相变。通常，这种转变依赖于结构和发生在其上的动力学之间的相互作用，因此弱连通性，无论是稀疏网络还是脆弱的相互作用，都可能导致全球活动崩溃，而强连通性会导致高活动。在这里，我们展示了控制此类系统中一小部分节点的动力学在连续相变中充当外部场。因此，它定义了相应的临界指数，包括平衡和瞬态时间。我们使用动态函数的前序来找到一般动力学类别的临界指数。通过将此框架应用于三个示例，我们揭示了不同的普遍性类别。</p>
+
+<h3 id="通过网络增长干预提高少数群体的知名度">通过网络增长干预提高少数群体的知名度</h3>
+
+<p>原文标题： Improving the visibility of minorities through network growth interventions</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.03263">http://arxiv.org/abs/2208.03263</a></p>
+
+<p>作者： Leonie Neuhäuser, Fariba Karimi, Jan Bachmann, Markus Strohmaier, Michael T. Schaub</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.03263v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 通过干预提高少数群体在网络中的地位是一项具有高度理论和社会重要性的挑战。在这项工作中，我们研究了不同的网络增长干预如何随着时间的推移影响少数节点在度数排名中的位置。我们区分了两种干预：（i）群体规模干预，例如引入配额，以调节进入的少数节点和多数节点的比例； (ii) 行为干预，例如同质性，即改变群体互动和相互联系的方式。我们发现，如果某些行为变化没有同时表现出来，即使是极端的群体规模干预也不会对少数族裔在排名中的位置产生强烈影响。例如，如果网络中的参与者不采取同性恋行为，高配额不会增加排名中的少数族裔代表性。因此，我们研究的一个重要发现是，为了提高少数群体的知名度，需要协调群体规模和行为干预。此外，它们的潜在利益高度依赖于社会网络中的干预前条件。在一个真实的案例研究中，我们探讨了干预措施在学术界实现性别平等的有效性。我们的工作为旨在探索干预措施在不断增长的网络中的有效性的进一步研究奠定了理论和计算基础。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220808/">https://netsci.complexly.cn/post/20220808/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20220805/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要7篇(2022-08-05)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

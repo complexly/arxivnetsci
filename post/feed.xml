@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 05 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2022-08-08)</title>
+      <link>https://netsci.complexly.cn/post/20220808/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220808/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;具有边相关顶点权重的超图切割;&lt;/li&gt;
+&lt;li&gt;Trackintel：用于人类移动性分析的开源 Python 库;&lt;/li&gt;
+&lt;li&gt;GROWN+UP：利用预训练的网页网络图表示;&lt;/li&gt;
+&lt;li&gt;从群体遗传学角度看社会网络结构和复杂传染病的传播;&lt;/li&gt;
+&lt;li&gt;时间网络的嵌入和轨迹;&lt;/li&gt;
+&lt;li&gt;基于信任的依附;&lt;/li&gt;
+&lt;li&gt;自然超图的增长原理;&lt;/li&gt;
+&lt;li&gt;从微小的飞沫到宏观的人群：跨越短程呼吸道疾病传播模型的尺度，并应用于 COVID-19;&lt;/li&gt;
+&lt;li&gt;局部绕行中心性：加权网络的一种新的局部中心性度量;&lt;/li&gt;
+&lt;li&gt;控制复杂网络动态的外场和关键指数;&lt;/li&gt;
+&lt;li&gt;通过网络增长干预提高少数群体的知名度;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2022-08-05)</title>
