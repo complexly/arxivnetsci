@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2022-08-09)</title>
+      <link>https://netsci.complexly.cn/post/20220809/</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220809/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;金融网络上偿付能力传染动力学的降维;&lt;/li&gt;
+&lt;li&gt;使用谷歌学术数据建立量子退火计算和信息研究网络;&lt;/li&gt;
+&lt;li&gt;通过社会网络中的边建议最大化公平内容传播;&lt;/li&gt;
+&lt;li&gt;LFGCF：用于标签感知推荐的 Light Folksonomy Graph 协同过滤;&lt;/li&gt;
+&lt;li&gt;股市动态中的复发措施和转变;&lt;/li&gt;
+&lt;li&gt;传输神经网络：从病毒传播模型到神经网络;&lt;/li&gt;
+&lt;li&gt;网络结构偏好对节点分类和链路预测的影响;&lt;/li&gt;
+&lt;li&gt;估计社交媒体上代表性不足的用户的主题曝光;&lt;/li&gt;
+&lt;li&gt;网络拓扑和特征分布对集体决策的影响;&lt;/li&gt;
+&lt;li&gt;弥合差距：在线和离线 COVID-19 数据之间的共性和差异;&lt;/li&gt;
+&lt;li&gt;容量受限的拼车车队的集体动态;&lt;/li&gt;
+&lt;li&gt;选民模型中持续老化的分析和数值处理;&lt;/li&gt;
+&lt;li&gt;数字孪生：潜力、伦理问题和局限性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要11篇(2022-08-08)</title>
