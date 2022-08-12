@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 09 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2022-08-12)</title>
+      <link>https://netsci.complexly.cn/post/20220812/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220812/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;网络干扰下具有交错推出设计的图不可知估计器;&lt;/li&gt;
+&lt;li&gt;单位随机设计下利用低阶交互的邻域干扰;&lt;/li&gt;
+&lt;li&gt;顶级装备还是黑镜：从非政治内容推断政治倾向;&lt;/li&gt;
+&lt;li&gt;随机重置下复杂网络随机游走的熵率;&lt;/li&gt;
+&lt;li&gt;具有链接持久性的冷随机双曲图动力学;&lt;/li&gt;
+&lt;li&gt;超图中的高阶分量;&lt;/li&gt;
+&lt;li&gt;机器学习在统计方法之前预测 SARS-CoV-2 在哥伦比亚的传播;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要13篇(2022-08-09)</title>
