@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要12篇(2022-08-15) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+多路异构图卷积网络;
+时间相关随机重置下复杂网络上的随机游走;
+理解顺序决策过程的随机动力学：多臂bandit的路径积分分析;
+通过用户足迹识别用户档案文件;
+重叠世代模型中的预测与控制：基于人工智能的混沌稳定;
+城市尺度地震脆弱性评估的客观风险和感知风险;
+使用负二项式回归模型估计混合模式城市步道交通;
+地理网络上的疫苗接种策略;
+反身测量;
+公共交通系统的过度需求：匹兹堡港务局的案例;
+亚秒级电网频率记录的微观波动;
+现实配电网络的集合;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要12篇(2022-08-15) - 网络科学研究速递">
+<meta itemprop="description" content="
+多路异构图卷积网络;
+时间相关随机重置下复杂网络上的随机游走;
+理解顺序决策过程的随机动力学：多臂bandit的路径积分分析;
+通过用户足迹识别用户档案文件;
+重叠世代模型中的预测与控制：基于人工智能的混沌稳定;
+城市尺度地震脆弱性评估的客观风险和感知风险;
+使用负二项式回归模型估计混合模式城市步道交通;
+地理网络上的疫苗接种策略;
+反身测量;
+公共交通系统的过度需求：匹兹堡港务局的案例;
+亚秒级电网频率记录的微观波动;
+现实配电网络的集合;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要12篇(2022-08-15) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220815/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+多路异构图卷积网络;
+时间相关随机重置下复杂网络上的随机游走;
+理解顺序决策过程的随机动力学：多臂bandit的路径积分分析;
+通过用户足迹识别用户档案文件;
+重叠世代模型中的预测与控制：基于人工智能的混沌稳定;
+城市尺度地震脆弱性评估的客观风险和感知风险;
+使用负二项式回归模型估计混合模式城市步道交通;
+地理网络上的疫苗接种策略;
+反身测量;
+公共交通系统的过度需求：匹兹堡港务局的案例;
+亚秒级电网频率记录的微观波动;
+现实配电网络的集合;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220815/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220815/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要12篇(2022-08-15)</h1>
+
+                  <p class="post-byline">
+                    2022年08月15日 · 4825 字 ·
+                    阅读时间约10分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>多路异构图卷积网络;</li>
+<li>时间相关随机重置下复杂网络上的随机游走;</li>
+<li>理解顺序决策过程的随机动力学：多臂bandit的路径积分分析;</li>
+<li>通过用户足迹识别用户档案文件;</li>
+<li>重叠世代模型中的预测与控制：基于人工智能的混沌稳定;</li>
+<li>城市尺度地震脆弱性评估的客观风险和感知风险;</li>
+<li>使用负二项式回归模型估计混合模式城市步道交通;</li>
+<li>地理网络上的疫苗接种策略;</li>
+<li>反身测量;</li>
+<li>公共交通系统的过度需求：匹兹堡港务局的案例;</li>
+<li>亚秒级电网频率记录的微观波动;</li>
+<li>现实配电网络的集合;</li>
+</ul>
+
+<p></p>
+
+<h3 id="多路异构图卷积网络">多路异构图卷积网络</h3>
+
+<p>原文标题： Multiplex Heterogeneous Graph Convolutional Network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.06129">http://arxiv.org/abs/2208.06129</a></p>
+
+<p>作者： Pengyang Yu, Chaofan Fu, Yanwei Yu, Chao Huang, Zhongying Zhao, Junyu Dong</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.06129v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 异构图卷积网络在处理异构网络数据上的各种网络分析任务（从链路预测到节点分类）方面获得了极大的普及。然而，大多数现有工作忽略了多类型节点之间的多路网络关系异构性以及元路径中关系在节点嵌入中的不同重要性，这很难刻画跨不同关系的异构结构信号。为了应对这一挑战，这项工作提出了一种用于异构网络嵌入的多路异构图卷积网络（MHGCN）。我们的 MHGCN 可以通过多层卷积聚合自动学习多路异构网络中不同长度的有用异构元路径交互。此外，我们有效地将多关系结构信号和属性语义集成到具有无监督和半监督学习范式的学习节点嵌入中。在具有各种网络分析任务的五个真实世界数据集上进行的广泛实验证明了 MHGCN 在所有评估指标方面相对于最先进的嵌入基线的显著优势。</p>
+
+<h3 id="时间相关随机重置下复杂网络上的随机游走">时间相关随机重置下复杂网络上的随机游走</h3>
+
+<p>原文标题： Random walks on complex networks under time-dependent stochastic resetting</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.06212">http://arxiv.org/abs/2208.06212</a></p>
+
+<p>作者： Hanshuang Chen, Yanfei Ye</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.06212v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们研究了受时间相关随机重置影响的网络上的离散时间随机游走，其中步行者要么以概率 1-phi(a) 在相邻节点之间随机跳跃，要么以互补概率重置到给定节点phi(a)。重置概率phi(a) 取决于自上次重置事件以来的时间a（也称为a 步行者的年龄）。利用更新方法和转移矩阵的谱分解，我们制定了步行者在每个节点的静止占据概率和任意两个节点之间的平均首次通过时间。具体来说，我们认为两种不同的时间相关重置协议都是完全可解决的。一种是phi(a) 是a 的阶梯形函数，另一种是phi(a) 是a 的有理函数。我们在两个不同的网络上展示了理论结果，也通过数值模拟进行了验证，并发现时间调制重置协议在加速目标搜索过程的完成方面比恒定概率重置更有优势。</p>
+
+<h3 id="理解顺序决策过程的随机动力学-多臂bandit的路径积分分析">理解顺序决策过程的随机动力学：多臂bandit的路径积分分析</h3>
+
+<p>原文标题： Understanding the stochastic dynamics of sequential decision-making processes: A path-integral analysis of Multi-armed Bandits</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.06245">http://arxiv.org/abs/2208.06245</a></p>
+
+<p>作者： Bo Li, Chi Ho Yeung</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.06245v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 多臂老虎机（MAB）模型是研究不确定环境下决策的最经典模型之一。在这个模型中，玩家需要在每个时间步从一台老虎机的 K 个可能的手臂中选择一个来进行博弈，其中相应的手臂会向玩家返回一个随机奖励，可能来自特定的未知分布。玩家的目标是在此过程中收集尽可能多的奖励。尽管它很简单，但 MAB 模型为研究探索与利用之间的权衡以及为不确定性下的顺序决策设计有效算法提供了一个极好的平台。尽管已经建立了许多渐近优化算法，但由于决策制定和收集的奖励之间的交织，MAB 模型的随机动力学的有限时间行为似乎更难以分析。在本文中，我们采用统计物理学中的技术来分析 MAB 模型，该模型有助于表征在有限的短时间内累积后悔的分布、MAB 算法中感兴趣的中心量以及复杂的动力学行为。模型。</p>
+
+<h3 id="通过用户足迹识别用户档案文件">通过用户足迹识别用户档案文件</h3>
+
+<p>原文标题： Identifying User Profiles Via User Footprints</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.06251">http://arxiv.org/abs/2208.06251</a></p>
+
+<p>作者： Yasamin Kowsari</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.06251v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 用户识别一直是隐私和安全主题研究的主要领域。用户可以利用多个在线社会网络 (OSN) 访问各种文本、视频和链接，并与他们的朋友联系。识别与社会网络中用户的多个虚拟活动相对应的用户资料对于网络安全、用户行为模式分析和用户推荐系统等相关领域的发展具有重要意义。此外，基于公共内容预测个人属性是一个具有挑战性的话题。在这项工作中，我们进行了一项实证研究，并提出了一个性能相当好的方案。在这项工作中，我们调查了著名的问答社会网络 Reddit。通过考虑可用的个人和非个人属性，我们讨论了基于将用户活动等不同特征映射到特殊用户配置文件的主要发现。我们收集了一个由 5000 个样本组成的分布广泛的数据集。为了将非个人属性映射到个人属性，使用了基于支持向量机 (SVM)、随机森林 (RF) 和深度信念网络的分类方法。实验结果证明了所提出方法的有效性，并实现了高于 89% 的分类准确率。</p>
+
+<h3 id="重叠世代模型中的预测与控制-基于人工智能的混沌稳定">重叠世代模型中的预测与控制：基于人工智能的混沌稳定</h3>
+
+<p>原文标题： Forecasting and control in overlapping generations model: chaos stabilization via artificial intelligence</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.06345">http://arxiv.org/abs/2208.06345</a></p>
+
+<p>作者： T.A. Alexeeva, Q.B. Diep, N.V. Kuznetsov, T.N. Mokaev, I. Zelinka</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.06345v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 不规则的，尤其是混乱的行为对于经济过程来说通常是不可取的，因为它对预测它们的动态提出了挑战。在这种情况下，通过其数学模型控制这样的过程可用于抑制混沌行为并将系统从不规则动力学转变为规则动力学。在本文中，我们构建了一个具有控制功能的重叠世代模型。通过应用演化算法，我们表明在没有控制的情况下，可以在该模型中观察到规则和不规则行为（周期性和混沌）。然后我们利用Pyragas控制方法与两个控制参数进行综合控制来解决控制模型不规则行为的问题。我们解决了许多优化问题，应用演化算法来选择控制参数，以确保周期轨道的稳定性。我们比较了应用控制前后模型动力学的定性和定量特征，并验证了使用模拟获得的结果。因此，我们证明了人工智能技术（特别是演化算法）与 Pyragas 控制方法相结合非常适合深入分析和稳定本文考虑的模型中的不规则动力学。</p>
+
+<h3 id="城市尺度地震脆弱性评估的客观风险和感知风险">城市尺度地震脆弱性评估的客观风险和感知风险</h3>
+
+<p>原文标题： Objective and perceived risk in seismic vulnerability assessment at urban scale</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.06367">http://arxiv.org/abs/2208.06367</a></p>
+
+<p>作者： Eliana Fischer, Alessio Emanuele Biondo, Annalisa Greco, Francesco Martinico, Alessandro Pluchino, Andrea Rapisarda</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.06367v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 高地震活动性城市地区的地震风险评估无疑是区域管理者必须面对的最重要的问题之一。对这种风险的可靠评估是设计具体的地震改进干预措施和应急管理计划的基础。不适当的地震风险评估可能会提供误导性结果，并导致做出具有相关经济和社会影响的错误决策。城市地区的地震风险主要与“危害性”、“暴露性”和“脆弱性”三个因素相关联。 Hazard 衡量地震产生伤害的可能性；暴露评估受到伤害的人口数量；脆弱性表示所考虑的建筑物在发生地震时容易遭受损坏。对这些因素的估计可能并不总是与常住人口的感知风险一致。实施旨在降低建筑物脆弱性的结构抗震改进干预措施的倾向在很大程度上取决于感知风险。本文研究了客观风险和感知风险之间的区别，并强调了一些关键问题。本研究的目的是校准合适的政策，允许参考当前的感知风险水平解决最合适的地震风险缓解方案。我们建议引入地震政策预防指数 (SPPi)。该方法应用于针对卡塔尼亚（意大利）人口稠密地区的案例研究。</p>
+
+<h3 id="使用负二项式回归模型估计混合模式城市步道交通">使用负二项式回归模型估计混合模式城市步道交通</h3>
+
+<p>原文标题： Estimating Mixed-Mode Urban Trail Traffic Using Negative Binomial Regression Models</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.06369">http://arxiv.org/abs/2208.06369</a></p>
+
+<p>作者： Xize Wanga (University of Southern California), Greg Lindsey (University of Minnesota), Steve Hankey (University of Minnesota), Kris Hoff (National Community Stabilization Trust)</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.06369v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 需要多用途城市步道上的非机动交通数据和模型来改进城市交通系统的规划和管理。当因变量是非负整数时，负二项式回归模型是合适且有用的，并且像流量计数一样具有过度分散。本文介绍了八个负二项式模型，用于使用明尼苏达州明尼阿波利斯六个地点的主动红外监视器的 1,898 个每日混合模式交通计数来估计城市步道交通。我们的模型包括多达 10 个自变量，代表社会人口、建筑环境、天气和时间特征。通用模型可用于估计未监控交通的位置的交通。当无法获得来自监控器的计数时，可以使用包含每个监控站点的虚拟变量而不是社区特定变量的六位置模型来估计现有位置的流量。六种特定路径的模型适用于估计交通变化以响应天气和星期几的变化。验证结果表明负二项式模型优于普通最小二乘回归估计的模型。这些新模型估计的流量平均误差在大约 16.3% 以内，这对于规划和管理目的来说是合理的。</p>
+
+<h3 id="地理网络上的疫苗接种策略">地理网络上的疫苗接种策略</h3>
+
+<p>原文标题： Vaccination strategy on a geographic network</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.06370">http://arxiv.org/abs/2208.06370</a></p>
+
+<p>作者： Mohamad Badaoui, Jean-Guy Caputo, Arnaud Knippel</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.06370v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们考虑了一个描述流行病在地理网络上传播的简单模型。流行病的初始增长率是由易感者和图拉普拉斯形成的矩阵的最大特征值。假设疫苗接种减少了易感人群，我们定义了不同的疫苗接种策略：统一的、局部的或遵循给定的载体。利用微扰理论和图拉普拉斯算子的特殊形式，我们证明了与拉普拉斯算子的最大特征值对应的特征向量一起接种是最有效的。这个结果在一个 7 个顶点图、一个网格和一个法国铁路网络的实际示例上进行了说明。</p>
+
+<h3 id="反身测量">反身测量</h3>
+
+<p>原文标题： Reflexive Measurement</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.06371">http://arxiv.org/abs/2208.06371</a></p>
+
+<p>作者： James Michelson</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.06371v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 这篇文章是第一次系统地说明测量工具与它们在社会科学中得出的数据之间的因果关系。反思性测量的这个问题是普遍存在的，并且深刻地影响着社会科学探究。我认为，当面对反思性测量问题时，如果没有我们测量工具的因果效应模型，就不可能获得社会世界的科学知识。</p>
+
+<h3 id="公共交通系统的过度需求-匹兹堡港务局的案例">公共交通系统的过度需求：匹兹堡港务局的案例</h3>
+
+<p>原文标题： Excess demand in public transportation systems: The case of Pittsburgh&rsquo;s Port Authority</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.06372">http://arxiv.org/abs/2208.06372</a></p>
+
+<p>作者： Tianfang Ma, Robizon Khubulashivili, Sera Linardi, Konstantinos Pelechrinis</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.06372v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： “先进的城市不是穷人坐车的地方，而是富人也可以乘坐公共交通工具的地方”。这就是著名的波哥大前市长恩里克·佩纳洛萨（Enrique Penalosa）曾经说过的话。然而，为了实现这一目标，公共交通系统需要满足的关键特性之一是可靠性。虽然可靠性通常与按计划到达和离开有关，但在本研究中，我们对系统满足总乘客需求的能力感兴趣。这是至关重要的，因为如果系统的容量不足以满足所有乘客，那么乘客量将不可避免地下降。然而，量化这种超额需求并不简单，因为公共交通数据，特别是我们在本研究中关注的公交系统数据，只包括上车的人的信息，而不包括那些留在车站的人的信息由于巴士满员。在这项工作中，我们设计了一个框架来估计这种过度需求。我们的框架包括用于识别潜在过度需求实例的机制，以及针对给定公交路线和站点的需求的泊松回归模型。这些潜在的超额需求实例从泊松回归的训练阶段被过滤掉。我们通过模拟数据表明，这种过滤能够消除系统记录的审查数据引入的偏差。未能删除这些数据点会导致低估过度需求。然后，我们将我们的方法应用于从匹兹堡港务局收集的真实数据，并估计一年内的超额需求。</p>
+
+<h3 id="亚秒级电网频率记录的微观波动">亚秒级电网频率记录的微观波动</h3>
+
+<p>原文标题： Microscopic fluctuations in power-grid frequency recordings at the sub-second scale</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.06379">http://arxiv.org/abs/2208.06379</a></p>
+
+<p>作者： Benjamin Schäfer, Leonardo Rydin Gorjão, G. Cigdem Yalcin, Ellen Förstner, Richard Jumar, Heiko Maass, Uwe Kühnapfel, Veit Hagenmeyer</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.06379v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 电网等复杂系统对我们的日常生活至关重要。许多复杂系统显示（多）分形行为、相关波动和幂律。电网频率作为衡量电网供需平衡的指标，是否也显示出如此复杂的情况仍然是一个悬而未决的问题。在本文中，我们利用高分辨率测量来量化电网频率的特性。我们表明，在 1 秒以下，动力学可能会发生根本性变化，包括突然增加的功率谱密度、多重分形的出现和相关行为的变化。我们提供了一个简化的随机模型，其中涉及正相关的噪声来重现观察到的动态，可能与频率相关的负载有关。最后，我们强调了高质量测量的必要性，并讨论了我们如何获得此处分析的数据。</p>
+
+<h3 id="现实配电网络的集合">现实配电网络的集合</h3>
+
+<p>原文标题： Ensembles of Realistic Power Distribution Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.06384">http://arxiv.org/abs/2208.06384</a></p>
+
+<p>作者： Rounak Meyur, Anil Vullikanti, Samarth Swarup, Henning Mortveit, Virgilio Centeno, Arun Phadke, H. Vincent Poor, Madhav Marathe</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.06384v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 随着可再生能源的引入和智能电网技术的结合，电网正在发生重大变化。这些快速的进步需要新的模型和分析来跟上它们引发的各种新兴现象。此类工作的一个主要先决条件是为电网基础设施获取结构良好且准确的网络数据集。在本文中，我们提出了一个强大的、可扩展的框架来合成类似于给定区域的物理对应物的配电网络。我们使用有关相互依赖的道路和建筑基础设施的公开信息来构建网络。与基于网络统计的先前工作相比，我们结合工程和经济约束来创建网络。此外，我们提供了一个框架来创建配电网络的集合，以便为给定区域生成多个可能的网络实例。综合数据集由具有地理坐标、节点类型（住宅、变压器或变电站）等属性的节点和具有几何形状、线路类型（馈线、初级或次级）和线路参数等属性的边组成。为了验证，我们提供了生成的网络与实际配电网络的详细比较。生成的数据集代表现实的测试系统（与标准的 IEEE 测试用例相比），网络科学家可以使用这些系统来分析电网中的复杂事件，并对网络集合执行详细的敏感性和统计分析。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220815/">https://netsci.complexly.cn/post/20220815/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20220812/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要7篇(2022-08-12)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

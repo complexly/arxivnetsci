@@ -7,10 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 12 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要12篇(2022-08-15)</title>
+      <link>https://netsci.complexly.cn/post/20220815/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220815/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多路异构图卷积网络;&lt;/li&gt;
+&lt;li&gt;时间相关随机重置下复杂网络上的随机游走;&lt;/li&gt;
+&lt;li&gt;理解顺序决策过程的随机动力学：多臂bandit的路径积分分析;&lt;/li&gt;
+&lt;li&gt;通过用户足迹识别用户档案文件;&lt;/li&gt;
+&lt;li&gt;重叠世代模型中的预测与控制：基于人工智能的混沌稳定;&lt;/li&gt;
+&lt;li&gt;城市尺度地震脆弱性评估的客观风险和感知风险;&lt;/li&gt;
+&lt;li&gt;使用负二项式回归模型估计混合模式城市步道交通;&lt;/li&gt;
+&lt;li&gt;地理网络上的疫苗接种策略;&lt;/li&gt;
+&lt;li&gt;反身测量;&lt;/li&gt;
+&lt;li&gt;公共交通系统的过度需求：匹兹堡港务局的案例;&lt;/li&gt;
+&lt;li&gt;亚秒级电网频率记录的微观波动;&lt;/li&gt;
+&lt;li&gt;现实配电网络的集合;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2022-08-12)</title>
