@@ -7,10 +7,50 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要28篇(2022-08-16)</title>
+      <link>https://netsci.complexly.cn/post/20220816/</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220816/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;聚合多路网络的相似度矩阵平均值;&lt;/li&gt;
+&lt;li&gt;美国多模态能源系统的异函数图结构分析;&lt;/li&gt;
+&lt;li&gt;重新审视用于图分类的图神经网络的对抗性攻击;&lt;/li&gt;
+&lt;li&gt;有影响力的科学家更倾向于让合作者参与新主题;&lt;/li&gt;
+&lt;li&gt;通过双峰故障尺寸分布预测复杂网络中的级联动力学;&lt;/li&gt;
+&lt;li&gt;组合因果bandit;&lt;/li&gt;
+&lt;li&gt;在大学城四处走动：UA 国际学生面临的交通障碍案例研究;&lt;/li&gt;
+&lt;li&gt;COVID-19 数量在不同时间阶段和地理尺度上的分布规律;&lt;/li&gt;
+&lt;li&gt;城市光景的谱学;&lt;/li&gt;
+&lt;li&gt;墨西哥城的人口流动模式及其与 COVID-19 大流行期间社会经济变量的联系;&lt;/li&gt;
+&lt;li&gt;在线错误信息扩散的重新概念化;&lt;/li&gt;
+&lt;li&gt;跨人类组织的尺度率和功能多样性的普遍性;&lt;/li&gt;
+&lt;li&gt;从嘈杂的成对观察中重建超图;&lt;/li&gt;
+&lt;li&gt;用于聚类边着色超图的最优 LP 舍入和快速组合算法;&lt;/li&gt;
+&lt;li&gt;网络合作演化的扰动理论;&lt;/li&gt;
+&lt;li&gt;舆论市场模型：使用积极干预阻止极右翼舆论传播;&lt;/li&gt;
+&lt;li&gt;关于使物理学与整个社会特别是与科学家相关：缩小认知鸿沟;&lt;/li&gt;
+&lt;li&gt;Link-Backdoor：通过节点注入对链路预测进行后门攻击;&lt;/li&gt;
+&lt;li&gt;通过心理特征评分改进网络钓鱼检测;&lt;/li&gt;
+&lt;li&gt;使用持久同源解开力导向布局;&lt;/li&gt;
+&lt;li&gt;整体自然系统——设计与指导，指导新科学转型;&lt;/li&gt;
+&lt;li&gt;广泛的党派选区选举主要在全国范围内取消，但减少了选举竞争;&lt;/li&gt;
+&lt;li&gt;从已知到未知：用于开放集社交事件检测的质量感知自改进图神经网络;&lt;/li&gt;
+&lt;li&gt;DuETA：通过高效图学习的交通拥塞传播模式建模在百度地图上进行 ETA 预测;&lt;/li&gt;
+&lt;li&gt;基于 Copula 的聚类网络中广义友谊悖论的分析;&lt;/li&gt;
+&lt;li&gt;美国枪支暴力事件的双域分析;&lt;/li&gt;
+&lt;li&gt;计算语义网映射的综述：交互性的挑战;&lt;/li&gt;
+&lt;li&gt;绿色氢替代生产和储存方案对电力部门的影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2022-08-15)</title>
