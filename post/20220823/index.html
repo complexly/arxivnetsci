@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要14篇(2022-08-23) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+量化在线社区制度演变的选择性、随机性和互补性驱动因素;
+快速生成具有互易边和高聚类的简单有向社会网络图;
+通过过程模体进行网络推理，用于线性随机过程中的滞后相关性;
+通过权力和危险弧线的波动来描述书中的叙事时间;
+使用R包ts2net从时间序列创建网络;
+使用自配置框架在 Twitter 中进行可扩展链路预测;
+量化国际化肥贸易网络的时间稳定性;
+为什么这么容易发炎？炎症性社交媒体用户自动检测的可解释性;
+中国微博网站上干预措施的普及和识别竞赛;
+合作博弈的广义 Gately 值;
+相位振荡器网络中的部分同步和社区切换及其基于三个振荡器的双向加权链的分析;
+关于 SARS-CoV-2 Omicron 变体的推文的探索性研究：来自情感分析、语言解释、源跟踪、类型分类和嵌入式 URL 检测的见解;
+未来希格斯玻色子研究的环境足迹：谁最环保？;
+让 Reddit 再次伟大：评估适度干预对 r/The_Donald 的社区影响;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要14篇(2022-08-23) - 网络科学研究速递">
+<meta itemprop="description" content="
+量化在线社区制度演变的选择性、随机性和互补性驱动因素;
+快速生成具有互易边和高聚类的简单有向社会网络图;
+通过过程模体进行网络推理，用于线性随机过程中的滞后相关性;
+通过权力和危险弧线的波动来描述书中的叙事时间;
+使用R包ts2net从时间序列创建网络;
+使用自配置框架在 Twitter 中进行可扩展链路预测;
+量化国际化肥贸易网络的时间稳定性;
+为什么这么容易发炎？炎症性社交媒体用户自动检测的可解释性;
+中国微博网站上干预措施的普及和识别竞赛;
+合作博弈的广义 Gately 值;
+相位振荡器网络中的部分同步和社区切换及其基于三个振荡器的双向加权链的分析;
+关于 SARS-CoV-2 Omicron 变体的推文的探索性研究：来自情感分析、语言解释、源跟踪、类型分类和嵌入式 URL 检测的见解;
+未来希格斯玻色子研究的环境足迹：谁最环保？;
+让 Reddit 再次伟大：评估适度干预对 r/The_Donald 的社区影响;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要14篇(2022-08-23) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20220823/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+量化在线社区制度演变的选择性、随机性和互补性驱动因素;
+快速生成具有互易边和高聚类的简单有向社会网络图;
+通过过程模体进行网络推理，用于线性随机过程中的滞后相关性;
+通过权力和危险弧线的波动来描述书中的叙事时间;
+使用R包ts2net从时间序列创建网络;
+使用自配置框架在 Twitter 中进行可扩展链路预测;
+量化国际化肥贸易网络的时间稳定性;
+为什么这么容易发炎？炎症性社交媒体用户自动检测的可解释性;
+中国微博网站上干预措施的普及和识别竞赛;
+合作博弈的广义 Gately 值;
+相位振荡器网络中的部分同步和社区切换及其基于三个振荡器的双向加权链的分析;
+关于 SARS-CoV-2 Omicron 变体的推文的探索性研究：来自情感分析、语言解释、源跟踪、类型分类和嵌入式 URL 检测的见解;
+未来希格斯玻色子研究的环境足迹：谁最环保？;
+让 Reddit 再次伟大：评估适度干预对 r/The_Donald 的社区影响;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20220823/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20220823/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要14篇(2022-08-23)</h1>
+
+                  <p class="post-byline">
+                    2022年08月23日 · 6142 字 ·
+                    阅读时间约13分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>量化在线社区制度演变的选择性、随机性和互补性驱动因素;</li>
+<li>快速生成具有互易边和高聚类的简单有向社会网络图;</li>
+<li>通过过程模体进行网络推理，用于线性随机过程中的滞后相关性;</li>
+<li>通过权力和危险弧线的波动来描述书中的叙事时间;</li>
+<li>使用R包ts2net从时间序列创建网络;</li>
+<li>使用自配置框架在 Twitter 中进行可扩展链路预测;</li>
+<li>量化国际化肥贸易网络的时间稳定性;</li>
+<li>为什么这么容易发炎？炎症性社交媒体用户自动检测的可解释性;</li>
+<li>中国微博网站上干预措施的普及和识别竞赛;</li>
+<li>合作博弈的广义 Gately 值;</li>
+<li>相位振荡器网络中的部分同步和社区切换及其基于三个振荡器的双向加权链的分析;</li>
+<li>关于 SARS-CoV-2 Omicron 变体的推文的探索性研究：来自情感分析、语言解释、源跟踪、类型分类和嵌入式 URL 检测的见解;</li>
+<li>未来希格斯玻色子研究的环境足迹：谁最环保？;</li>
+<li>让 Reddit 再次伟大：评估适度干预对 r/The_Donald 的社区影响;</li>
+</ul>
+
+<p></p>
+
+<h3 id="量化在线社区制度演变的选择性-随机性和互补性驱动因素">量化在线社区制度演变的选择性、随机性和互补性驱动因素</h3>
+
+<p>原文标题： Quantifying the selective, stochastic, and complementary drivers of the institutional evolution in online communities</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2204.12521">http://arxiv.org/abs/2204.12521</a></p>
+
+<p>作者： Qiankun Zhong, Seth Frey, Martin Hilbert</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2204.12521v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 通常，制度和文化会根据当前的环境激励而适应性地发展。但有时制度变化是由于超出当前适应性的随机驱动，包括漂移、路径依赖、盲目模仿和波动环境中的互补合作。解开社会系统变化的选择性和随机成分，使我们能够识别长期组织发展的关键特征。演化方法为组织科学提供了丰富的理论，通过跟踪特定的有益或有害特征来证明组织演化。我们借助两个最常用的演化模型，即价格方程和对冲模型，在 20,000 个 Minecraft 社区的制度演化中对这些不同的驱动因素进行了实证测量。因此，我们发现行政规则和信息规则的选择压力很大，这表明它们与社区适应度的正相关是其频率变化的主要原因。我们还发现随机驱动降低了行政规则的平均频率。当根据演化的赌注对冲进行解释时，结果是有道理的。我们通过对冲结果表明，制度多样性有助于信息、通信和经济行为相关规则的增长和稳定性。</p>
+
+<h3 id="快速生成具有互易边和高聚类的简单有向社会网络图">快速生成具有互易边和高聚类的简单有向社会网络图</h3>
+
+<p>原文标题： Fast generation of simple directed social network graphs with reciprocal edges and high clustering</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2206.00502">http://arxiv.org/abs/2206.00502</a></p>
+
+<p>作者： Christoph Schweimer</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2206.00502v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在线社会网络已成为日常交流或分享信息和新闻的有用工具。最受欢迎的网络之一是 Twitter，用户通过有向的追随者关系相互连接。研究人员研究了 Twitter 关注者图，并用各种拓扑特征对其进行了描述。收集 Twitter 数据，尤其是爬取用户的关注者，是一个繁琐且耗时的过程，并且由于数据的敏感性，需要谨慎处理，其中包含个人用户信息。因此，我们的目标是快速生成具有互易边和高聚类的合成有向社会网络图。我们提出的方法基于先前开发的模型，但依赖较少的超参数并且运行时间显著降低。结果表明，该方法不仅可以很好地复制爬取的有向 Twitter 图。几个拓扑特征和流行病传播过程的应用，但它也具有高度可扩展性，允许快速创建具有与现实世界网络相似属性的更大图。</p>
+
+<h3 id="通过过程模体进行网络推理-用于线性随机过程中的滞后相关性">通过过程模体进行网络推理，用于线性随机过程中的滞后相关性</h3>
+
+<p>原文标题： Network inference via process motifs for lagged correlation in linear stochastic processes</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.08871">http://arxiv.org/abs/2208.08871</a></p>
+
+<p>作者： Alice C. Schwarze, Sara M. Ichinaga, Bingni W. Brunton</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.08871v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 从时间序列数据进行因果推断的一个主要挑战是计算可行性和准确性之间的权衡。受均值回归缓慢的自回归模型中滞后协方差的过程基序的启发，我们建议通过可以从滞后相关矩阵轻松计算的成对边测量 (PEM) 来推断因果关系网络。受过程基序对协方差和滞后方差的贡献的启发，我们制定了两个 PEM，它们可以纠正混杂因素和反向因果关系。为了证明我们的 PEM 的性能，我们考虑了来自线性随机过程模拟的网络干扰，并且我们证明了我们提出的 PEM 可以准确有效地推断网络。具体来说，对于略微自相关的时间序列数据，我们的方法实现了高于或类似于 Granger 因果关系、传递熵和收敛交叉映射的准确度——但计算时间比这些方法中的任何一种都短得多。我们快速准确的 PEM 是易于实施的网络推理方法，具有明确的理论基础。它们为从时间序列数据推断线性模型的当前范式提供了有希望的替代方案，包括格兰杰因果关系、向量自回归和稀疏逆协方差估计。</p>
+
+<h3 id="通过权力和危险弧线的波动来描述书中的叙事时间">通过权力和危险弧线的波动来描述书中的叙事时间</h3>
+
+<p>原文标题： Characterizing narrative time in books through fluctuations in power and danger arcs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.09496">http://arxiv.org/abs/2208.09496</a></p>
+
+<p>作者： Mikaela Irene Fudolig, Thayer Alshaabi, Kathryn Cramer, Christopher M. Danforth, Peter Sheridan Dodds</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.09496v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 虽然最近的研究集中在量化词语使用以找到叙事情感弧的整体形状，但叙事中的某些叙事特征仍有待探索。在这里，我们通过找到单词使用波动开始相关的文本长度来表征子叙事的叙事时间尺度。我们使用 ousiometrics 将 30,000 多本古腾堡计划书籍表示为时间序列，这是一种基本意义的权力-危险框架，它本身就是对源自语义差异的价-唤醒-优势框架的重新解释。我们使用经验模式分解将每本书的功率和危险时间序列分解为组成振荡模式和非振荡趋势的总和。通过将原始权力和危险时间序列的分解与打乱文本的分解进行比较，我们发现较短的书籍仅表现出总体趋势，而较长的书籍除了总体趋势之外还有波动，类似于子情节在一个整体叙事弧线。这些波动通常有一个几千字的周期，无论书籍长度或图书馆分类代码如何，但根据书籍的内容和结构而有所不同。我们的方法提供了一种数据驱动的去噪方法，适用于各种长度的文本，这与使用大窗口大小的更传统方法形成对比，这种方法可能会无意中平滑相关信息，尤其是对于较短的文本。</p>
+
+<h3 id="使用r包ts2net从时间序列创建网络">使用R包ts2net从时间序列创建网络</h3>
+
+<p>原文标题： From Time Series to Networks in R with the ts2net Package</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.09660">http://arxiv.org/abs/2208.09660</a></p>
+
+<p>作者： Leonardo N. Ferreira</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.09660v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 网络科学将自己确立为建模时间序列和复杂系统的重要工具。此建模过程包括将一组或单个时间序列转换为网络。节点可以表示完整的时间序列、段或单个值，而链接定义所表示的部分之间的关​​联或相似性。 R 是数据科学、统计学和机器学习中使用的主要编程语言之一，有许多可用的软件包。然而，没有一个包提供将时间序列转换为网络的必要方法。本文介绍了 ts2net，这是一个用于将一个或多个时间序列建模为网络的 R 包。该软件包提供了可以轻松并行计算的时间序列距离函数，并且可以在超级计算机中处理更大的数据集以及将距离矩阵转换为网络的方法。 Ts2net 还提供了将单个时间序列转换为网络的方法，例如递归网络、可见性图和转换网络。与其他软件包一起，ts2net 允许使用网络科学和图挖掘工具从时间序列中提取信息。</p>
+
+<h3 id="使用自配置框架在-twitter-中进行可扩展链路预测">使用自配置框架在 Twitter 中进行可扩展链路预测</h3>
+
+<p>原文标题： Scalable link prediction in Twitter using self-configured framework</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.09798">http://arxiv.org/abs/2208.09798</a></p>
+
+<p>作者： Nur Nasuha Daud, Siti Hafizah Ab Hamid, Chempaka Seri, Muntadher Saadoon, Nor Badrul Anuar</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.09798v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 链路预测分析对于深入理解社会网络交互和连接背后的事件至关重要，尤其是在当前不断发展的大规模社会网络中。对于大多数大型社会网络而言，传统的链路预测方法在可扩展性和效率方面表现不佳。 Spark 是一个分布式开源框架，可促进大规模社会网络中可扩展的链路预测效率。该框架为用户提供了许多可调属性来手动配置应用程序的参数。但是，当应用程序开始大幅扩展时，手动配置会引发性能问题，这很难设置并暴露于人为错误。本文介绍了一种新颖的自配置框架 (SCF)，以在 Spark 中提供自主功能，该功能可在使用 XGBoost 分类器执行应用程序之前立即预测和设置最佳配置。 SCF 在 Twitter 社会网络上使用三个链路预测应用程序进行评估：图聚类 (GC)、重叠社区检测 (OCD) 和冗余图聚类 (RGD)，以评估数据大小变化对 Twitter 中不同应用程序的影响。结果表明预测时间减少了 40%，并且资源消耗均衡，充分利用了资源，尤其是对于数量和规模有限的集群</p>
+
+<h3 id="量化国际化肥贸易网络的时间稳定性">量化国际化肥贸易网络的时间稳定性</h3>
+
+<p>原文标题： Quantifying the temporal stability of international fertilizer trade networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.09810">http://arxiv.org/abs/2208.09810</a></p>
+
+<p>作者： Mu-Yao Li, Li Wang, Wen-Jie Xie, Wei-Xing Zhou (ECUST)</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.09810v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 化肥对农业生产的重要性是不可否认的，大多数经济体依赖国际贸易来使用化肥。肥料贸易网络的稳定性是粮食安全的基础。我们使用三种有效的方法来衡量 1990 年至 2018 年三种肥料养分 N、P 和 K 的整体网络和不同功能子网络的时间稳定性。国际 N、P 和 K 贸易体系都有增加的趋势随着全球化进程的稳定。大权重子网络稳定性相对较高，但更容易受到极端事件的影响。小权重子网络稳定性较差，但自愈能力强，受冲击影响较小。总体而言，三大化肥贸易网络均呈现出稳定的核心和可恢复的外围。三肥整体网络稳定性相近，但K交易在核心部分稳定性明显更高，N交易在非核心部分最稳定。</p>
+
+<h3 id="为什么这么容易发炎-炎症性社交媒体用户自动检测的可解释性">为什么这么容易发炎？炎症性社交媒体用户自动检测的可解释性</h3>
+
+<p>原文标题： Why So Inflammatory? Explainability in Automatic Detection of Inflammatory Social Media Users</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.09941">http://arxiv.org/abs/2208.09941</a></p>
+
+<p>作者： Cuong Nguyen, Daniel Nkemelu, Ankit Mehta, Michael Best</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.09941v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 仇恨言论和错误信息在 Facebook 和 Twitter 等社会网络服务 (SNS) 上传播，加剧了全球各国的种族和政治暴力。我们认为，在全球南方的背景下，对这个问题的研究有限，并提出理解决这些问题的方法。之前的工作已经展示了使用用户级交互功能构建的机器学习模型如何有效地识别传播煽动性内容的用户。虽然这种技术在缺乏诸如地面实况数据和处理能力等语言资源的低资源语言环境中是有益的，但仍不清楚这些交互特征如何影响模型性能。在这项工作中，我们调查并展示了传播煽动性内容的用户与其他不传播煽动性内容的用户之间的交互特征的显著差异，应用可解释性工具来理解我们训练有素的模型。我们发现，具有较高交互重要性的特征（例如帐户年龄和活动计数）比具有较低交互重要性的特征（例如名称长度以及用户是否在他们的简历上有位置）显示出更高的解释力。我们的工作扩展了研究方向，旨在理解低资源、高风险环境中煽动性内容的性质，因为全球南方社交媒体使用的增长超过了适度的努力。</p>
+
+<h3 id="中国微博网站上干预措施的普及和识别竞赛">中国微博网站上干预措施的普及和识别竞赛</h3>
+
+<p>原文标题： Competition for popularity and identification of interventions on a Chinese microblogging site</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.10176">http://arxiv.org/abs/2208.10176</a></p>
+
+<p>作者： Hao Cui, János Kertész</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.10176v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 微博网站是用户获取信息、塑造舆论的重要载体，是持续竞争人气的舞台。最受欢迎的主题通常会在排名列表中显示。在这项研究中，我们通过中国微博新浪微博的热门搜索列表 (HSL) 调查公众关注动态，其中基于多维搜索量指数对热门话题标签进行排名。我们通过标签在列表中花费的时间、它们出现在列表中的时间、排名多样性和排名轨迹来描述排名动态。我们展示了昼夜节律如何影响主题标签的流行度，并通过机器学习分类算法观察其等级轨迹的类别。通过分析排名动态的模式，我们确定了平台提供商干预排名可能导致的异常情况，包括将主题标签锚定到 HSL 上的某些排名。我们提出了一个简单的排名模型来解释这种锚定效应的机制。</p>
+
+<h3 id="合作博弈的广义-gately-值">合作博弈的广义 Gately 值</h3>
+
+<p>原文标题： Generalised Gately Values of Cooperative Games</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.10189">http://arxiv.org/abs/2208.10189</a></p>
+
+<p>作者： Robert P. Gilles, Lina Mallozzi</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.10189v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们研究了 Gately 的具有可转移效用的合作博弈的解决方案概念。 Gately 的解决方案概念是一种讨价还价的解决方案，并试图最小化最大量化的“破坏”参与者就产生的集体收益分配进行的谈判。我们展示了 Gately 的解决方案概念对于广泛的博弈类别是明确定义的。我们考虑基于对破坏倾向的基于参数的量化的概括。此外，我们研究了 Gately 的解决方案及其与 Core 的泛化之间的关系。我们展示了 Gately 的解决方案在所有常规 3 人博弈的核心中。我们还确定了广义 Gately 值是任意常规合作博弈的核心插补的精确条件。我们构建了广义 Gately 值的对偶，并为常规合作博弈类设计了这些值的公理化。我们通过将 Gately 值应用于等级社会网络中的权力测量来结束本文。</p>
+
+<h3 id="相位振荡器网络中的部分同步和社区切换及其基于三个振荡器的双向加权链的分析">相位振荡器网络中的部分同步和社区切换及其基于三个振荡器的双向加权链的分析</h3>
+
+<p>原文标题： Partial synchronization and community switching in phase-oscillator networks and its analysis based on a bidirectional, weighted chain of three oscillators</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.10237">http://arxiv.org/abs/2208.10237</a></p>
+
+<p>作者： Masaki Kato, Hiroshi Kori</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.10237v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 复杂网络通常拥有基于网络连接性定义的社区。当网络中发生动态时，也可以考虑动态社区；即，一组显示类似动态过程的节点。我们已经从分析和数值上研究了动态社区结构的发展，其中社区被称为相位振荡器网络中频率同步的一组节点。我们首先证明，使用一些示例网络，当网络连通性或交互强度发生变化时，社区结构会发生变化。特别是，我们发现社区切换，即一部分振荡器改变它们同步的组，发生在一系列参数中。然后，我们提出了一个三振荡器模型：三个仓本相位振荡器的双向加权链，作为理解群落形成及其变化的理论框架。我们的分析表明，该模型显示了多种部分同步的模式：具有相似固有频率的振荡器倾向于同步以实现弱耦合，而紧密连接的振荡器倾向于同步以实现强耦合。通过在弱耦合状态下采用微扰方法和在强耦合状态下采用几何方法，我们获得了临界耦合强度的近似表达式。此外，我们阐明了不同模式之间转换的分岔类型。我们的理论可能有助于理解比社区结构化网络更广泛的复杂网络类别中部分同步模式的发展。</p>
+
+<h3 id="关于-sars-cov-2-omicron-变体的推文的探索性研究-来自情感分析-语言解释-源跟踪-类型分类和嵌入式-url-检测的见解">关于 SARS-CoV-2 Omicron 变体的推文的探索性研究：来自情感分析、语言解释、源跟踪、类型分类和嵌入式 URL 检测的见解</h3>
+
+<p>原文标题： An Exploratory Study of Tweets about the SARS-CoV-2 Omicron Variant: Insights from Sentiment Analysis, Language Interpretation, Source Tracking, Type Classification, and Embedded URL Detection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.10252">http://arxiv.org/abs/2208.10252</a></p>
+
+<p>作者： Nirmalya Thakur, Chia Y. Han</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.10252v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本文介绍了关于 Twitter 上不断生成的大数据的探索性研究结果，这些数据与分享有关 COVID-19 大流行的信息、新闻、观点、意见、想法、反馈和经验有关，特别关注 Omicron变体，这是目前 SARS-CoV-2 的全球主要变体。共研究了 12028 条关于 Omicron 变体的推文，分析的推文的具体特征包括 - 情绪、语言、来源、类型和嵌入的 URL。这项研究的结果是多方面的。首先，从情绪分析来看，50.5% 的推文具有中性情绪。其他情绪——坏的、好的、可怕的和伟大的分别出现在 15.6%、14.0%、12.5% 和 7.5% 的推文中。其次，语言解释的调查结果显示，65.9% 的推文是用英语发布的。紧随其后的是西班牙语、法语、意大利语和其他语言。第三，来源跟踪的结果显示，Android 版 Twitter 与 35.2% 的推文相关联。紧随其后的是 Twitter Web App、iPhone 版 Twitter、iPad 版 Twitter 和其他来源。第四，推文类型研究发现，转发推文占推文的60.8%，其次是原创推文和回复，分别占推文的19.8%和19.4%。第五，在嵌入式 URL 分析方面，发现推文中嵌入的最常见域是 twitter.com，其次是 biorxiv.org、nature.com 和其他域。最后，为了支持该领域的类似研究，我们开发了一个 Twitter 数据集，该数据集包含自 2021 年 11 月 24 日首次检测到该变体病例以来超过 500,000 条关于 SARS-CoV-2 omicron 变体的推文。</p>
+
+<h3 id="未来希格斯玻色子研究的环境足迹-谁最环保">未来希格斯玻色子研究的环境足迹：谁最环保？</h3>
+
+<p>原文标题： The environmental footprint of future Higgs boson studies: Who is the greenest?</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2208.10466">http://arxiv.org/abs/2208.10466</a></p>
+
+<p>作者： Patrick Janot, Alain Blondel</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2208.10466v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： rm e^+e^- Higgs 工厂在运行中的能耗几乎可以忽略不计。因此，未来的希格斯玻色子研究可能会对环境产生重大影响。这篇简短的说明提出了在 LHC 结束后可以立即可靠运行的所有希格斯工厂项目（即三个线性对撞机（CLIC、ILC 和 rm C^3）的项目）在运行期间估算环境足迹的方法) 和两个圆形对撞机（CEPC 和 FCC-ee）。预计的碳足迹从单一到一百倍不等，具体取决于所考虑的希格斯工厂。</p>
+
+<h3 id="让-reddit-再次伟大-评估适度干预对-r-the-donald-的社区影响">让 Reddit 再次伟大：评估适度干预对 r/The_Donald 的社区影响</h3>
+
+<p>原文标题： Make Reddit Great Again: Assessing Community Effects of Moderation Interventions on r/The_Donald</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.06455">http://arxiv.org/abs/2201.06455</a></p>
+
+<p>作者： Amaury Trujillo, Stefano Cresci</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2201.06455v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： subreddit r/The_Donald 一再被谴责为有毒且行为不端的在线社区，其原因是它面临着 Reddit 管理员一系列越来越严格的节制干预。它于 2019 年 6 月被隔离​​，2020 年 2 月被限制，最终于 2020 年 6 月被禁止，但尽管对此事进行了前期工作，但这一系列干预措施的效果仍不清楚。在这项工作中，我们采用多维因果推理方法来研究包含在 2 年时间范围内发布的超过 1500 万个帖子的数据，以检查此类干预在 subreddit 内外的影响。我们发现干预措施大大减少了有问题的用户的活动。然而，这些干预措施也导致了毒性的增加，并导致用户分享更多两极分化和不太真实的新闻。此外，限制比隔离的影响更大，r/The_Donald 的核心用户比其他用户受到的影响更大。总体而言，我们的结果提供了证据，表明干预措施具有混合效果，并描绘了社区层面适度策略后果的细致入微的画面。最后，我们反思了监管在线平台的挑战以及对适度干预的设计和部署的影响。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20220823/">https://netsci.complexly.cn/post/20220823/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20220822/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要7篇(2022-08-22)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

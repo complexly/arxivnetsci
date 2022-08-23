@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2022-08-23)</title>
+      <link>https://netsci.complexly.cn/post/20220823/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220823/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;量化在线社区制度演变的选择性、随机性和互补性驱动因素;&lt;/li&gt;
+&lt;li&gt;快速生成具有互易边和高聚类的简单有向社会网络图;&lt;/li&gt;
+&lt;li&gt;通过过程模体进行网络推理，用于线性随机过程中的滞后相关性;&lt;/li&gt;
+&lt;li&gt;通过权力和危险弧线的波动来描述书中的叙事时间;&lt;/li&gt;
+&lt;li&gt;使用R包ts2net从时间序列创建网络;&lt;/li&gt;
+&lt;li&gt;使用自配置框架在 Twitter 中进行可扩展链路预测;&lt;/li&gt;
+&lt;li&gt;量化国际化肥贸易网络的时间稳定性;&lt;/li&gt;
+&lt;li&gt;为什么这么容易发炎？炎症性社交媒体用户自动检测的可解释性;&lt;/li&gt;
+&lt;li&gt;中国微博网站上干预措施的普及和识别竞赛;&lt;/li&gt;
+&lt;li&gt;合作博弈的广义 Gately 值;&lt;/li&gt;
+&lt;li&gt;相位振荡器网络中的部分同步和社区切换及其基于三个振荡器的双向加权链的分析;&lt;/li&gt;
+&lt;li&gt;关于 SARS-CoV-2 Omicron 变体的推文的探索性研究：来自情感分析、语言解释、源跟踪、类型分类和嵌入式 URL 检测的见解;&lt;/li&gt;
+&lt;li&gt;未来希格斯玻色子研究的环境足迹：谁最环保？;&lt;/li&gt;
+&lt;li&gt;让 Reddit 再次伟大：评估适度干预对 r/The_Donald 的社区影响;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2022-08-22)</title>
