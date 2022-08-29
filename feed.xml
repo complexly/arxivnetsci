@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要7篇(2022-08-29)</title>
+      <link>https://netsci.complexly.cn/post/20220829/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220829/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;科学发现中的深度学习不透明度;&lt;/li&gt;
+&lt;li&gt;复杂网络中货币异质性对资源依赖的影响;&lt;/li&gt;
+&lt;li&gt;AOC；组装重叠的社区;&lt;/li&gt;
+&lt;li&gt;无监督网络对齐的高阶拓扑一致性;&lt;/li&gt;
+&lt;li&gt;H4M：以北京为例的异构、多源、多模式、多视图和多分布的社会经济分析数据集;&lt;/li&gt;
+&lt;li&gt;通过社区和性别意识播种有针对性的影响;&lt;/li&gt;
+&lt;li&gt;时间网络上意见动态的非马尔可夫模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2022-08-23)</title>
