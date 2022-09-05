@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2022-09-05)</title>
+      <link>https://netsci.complexly.cn/post/20220905/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220905/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;时间网络上影响最大化的有效子模性;&lt;/li&gt;
+&lt;li&gt;度异构网络上双井系统的平均场理论;&lt;/li&gt;
+&lt;li&gt;通过具有度约束的短路径最小化直径;&lt;/li&gt;
+&lt;li&gt;使用符号网络分析和可视化美国国会的两极分化和平衡;&lt;/li&gt;
+&lt;li&gt;结构保持图表示学习;&lt;/li&gt;
+&lt;li&gt;使用随机顺序吸附过程对密集 CSMA 网络进行建模;&lt;/li&gt;
+&lt;li&gt;影响最大化的可扩展对抗性攻击算法;&lt;/li&gt;
+&lt;li&gt;有向复杂网络上的意见动态;&lt;/li&gt;
+&lt;li&gt;强化学习的内在波动促进合作;&lt;/li&gt;
+&lt;li&gt;人才流失的数字痕迹：俄罗斯入侵乌克兰期间的开发人员;&lt;/li&gt;
+&lt;li&gt;有向网络的距离主干;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2022-08-29)</title>
