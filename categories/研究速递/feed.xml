@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 07 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2022-09-08)</title>
+      <link>https://netsci.complexly.cn/post/20220908/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220908/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;PERFECT：用于联合用户和社区对齐的双曲嵌入;&lt;/li&gt;
+&lt;li&gt;社交媒体参与度和加密货币表现;&lt;/li&gt;
+&lt;li&gt;Twitter 上一年的 COVID-19 疫苗错误信息;&lt;/li&gt;
+&lt;li&gt;黑手党网络破坏的人力和社会资本战略;&lt;/li&gt;
+&lt;li&gt;Covid-19 的基于主体的模拟器：使用较小的模型模拟较大的模型;&lt;/li&gt;
+&lt;li&gt;一种基于随机主体的模型，用于评估受人类流动性影响的 COVID-19 传播;&lt;/li&gt;
+&lt;li&gt;从印度人的名字中解码人口不公平;&lt;/li&gt;
+&lt;li&gt;社交媒体平台中的一种新的异构图表示：Steemit;&lt;/li&gt;
+&lt;li&gt;MultiViz：用于多层网络可扩展可视化的 Gephi 插件;&lt;/li&gt;
+&lt;li&gt;使用稳健的多通道图神经网络进行远程工作优化;&lt;/li&gt;
+&lt;li&gt;基于机器学习的 COVID-19 假新闻自动注释和检测;&lt;/li&gt;
+&lt;li&gt;犯罪网络中的机器学习合作伙伴;&lt;/li&gt;
+&lt;li&gt;具有高效近似的复合社区感知多元化影响力最大化;&lt;/li&gt;
+&lt;li&gt;从交互数据重建符号关系;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要18篇(2022-09-07)</title>
