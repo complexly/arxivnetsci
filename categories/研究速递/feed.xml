@@ -7,10 +7,39 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 12 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要17篇(2022-09-13)</title>
+      <link>https://netsci.complexly.cn/post/20220913/</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220913/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;更好地评估动态链路预测;&lt;/li&gt;
+&lt;li&gt;当昂贵的迁移有助于改善合作时;&lt;/li&gt;
+&lt;li&gt;使用统计方法在具有有限可见性的复杂网络中实现影响最大化 (IM);&lt;/li&gt;
+&lt;li&gt;一种基于复杂网络的链路预测图嵌入方法;&lt;/li&gt;
+&lt;li&gt;模拟观察性社会学习对儿童疫苗接种和疾病在家庭网络中传播的父母决策的影响;&lt;/li&gt;
+&lt;li&gt;避免“大过滤器”：对气候变化解决方案和有效实施组合的评估;&lt;/li&gt;
+&lt;li&gt;Bayan 算法：通过模块化的精确和近似优化检测网络中的社区;&lt;/li&gt;
+&lt;li&gt;PyPSA-地球。一种新的全球开放能源系统优化模型在非洲展示;&lt;/li&gt;
+&lt;li&gt;印欧语系的次扩散语义演化;&lt;/li&gt;
+&lt;li&gt;在竞争的顺序决策中优化理性个体之间的集体准确性;&lt;/li&gt;
+&lt;li&gt;医生与护士：理解医护人员在疫苗犹豫中的巨大差异;&lt;/li&gt;
+&lt;li&gt;西班牙 Facebook 帖子作为德克萨斯州 COVID-19 疫苗犹豫的指标;&lt;/li&gt;
+&lt;li&gt;随机并不总是公平的：推荐系统中的候选集不平衡和曝光不等式;&lt;/li&gt;
+&lt;li&gt;非同质图节点分类的图多项式卷积模型;&lt;/li&gt;
+&lt;li&gt;基于双曲自监督对比学习的网络异常检测;&lt;/li&gt;
+&lt;li&gt;在惩罚投资者的等级人口中信任的演变;&lt;/li&gt;
+&lt;li&gt;具有手性的活性粒子：在行人流中的应用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要4篇(2022-09-12)</title>
