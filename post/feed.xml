@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 13 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2022-09-16)</title>
+      <link>https://netsci.complexly.cn/post/20220916/</link>
+      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220916/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;多路网络上的非平衡随机游走;&lt;/li&gt;
+&lt;li&gt;意见动态的 S 型有界置信模型中极化的出现;&lt;/li&gt;
+&lt;li&gt;具有动态切换点的集体记忆衰减的两阶段模型;&lt;/li&gt;
+&lt;li&gt;超越密度的多样性：经验丰富的城市街道社会混合;&lt;/li&gt;
+&lt;li&gt;CommunityLM：从语言模型中探索党派世界观;&lt;/li&gt;
+&lt;li&gt;网络的定点中心性;&lt;/li&gt;
+&lt;li&gt;具有乘性噪声的基于主体的模型的意见动态中的反馈循环;&lt;/li&gt;
+&lt;li&gt;深度学习生成的社交媒体档案与真实档案没有区别吗？;&lt;/li&gt;
+&lt;li&gt;图上的 Bi-SIS 流行病——共存均衡的定量分析;&lt;/li&gt;
+&lt;li&gt;复杂的超图;&lt;/li&gt;
+&lt;li&gt;用于对演化网络中的传播进行分类的时间Graphlet核;&lt;/li&gt;
+&lt;li&gt;通过 Twitter 情绪预测公众对科学研究的反应;&lt;/li&gt;
+&lt;li&gt;什么是好的共和国总督？威尼斯共和国贵族社会网络分析;&lt;/li&gt;
+&lt;li&gt;网络功能学习的采样;&lt;/li&gt;
+&lt;li&gt;复杂系统科学和城市科学：在领土系统中应用于可持续性权衡;&lt;/li&gt;
+&lt;li&gt;借助隐喻概念映射在 Twitter 上进行可解释抑郁检测的分层注意网络;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要17篇(2022-09-13)</title>
