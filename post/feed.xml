@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 16 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2022-09-27)</title>
+      <link>https://netsci.complexly.cn/post/20220927/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20220927/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用双重重新排序方案压缩二部图;&lt;/li&gt;
+&lt;li&gt;使用移动数据识别潜在的活动行为和生活方式来描述城市动态;&lt;/li&gt;
+&lt;li&gt;识别高阶网络中显著交互节点的最大集合;&lt;/li&gt;
+&lt;li&gt;估计网络结构未知的随机实验中的总处理效果;&lt;/li&gt;
+&lt;li&gt;论群体智慧预测经济指标的功效;&lt;/li&gt;
+&lt;li&gt;SoK：区块链去中心化;&lt;/li&gt;
+&lt;li&gt;两种威胁之间的协同作用：虚假信息和 Covid-19;&lt;/li&gt;
+&lt;li&gt;TwiBot-22：迈向基于图的 Twitter Bot 检测;&lt;/li&gt;
+&lt;li&gt;人工智能和 6G 进入元界：基础、挑战和未来研究趋势;&lt;/li&gt;
+&lt;li&gt;保护隐私的在线内容审核：联邦学习用例;&lt;/li&gt;
+&lt;li&gt;诚信 2022：社会网络和媒体的诚信;&lt;/li&gt;
+&lt;li&gt;下一个新 POI 推荐的联合三元组损失学习;&lt;/li&gt;
+&lt;li&gt;粒子物理学中的多样性、公平性和包容性;&lt;/li&gt;
+&lt;li&gt;及时应对大流行病的医学和经济影响：确切解决方案的普遍性;&lt;/li&gt;
+&lt;li&gt;可持续区块链的演化动力学;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2022-09-16)</title>
