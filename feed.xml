@@ -7,10 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要16篇(2022-10-04)</title>
+      <link>https://netsci.complexly.cn/post/20221004/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20221004/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;带重启的随机游走的通用多层网络探索;&lt;/li&gt;
+&lt;li&gt;量子创业生态系统的景观;&lt;/li&gt;
+&lt;li&gt;量化仇恨社区如何激化在线用户;&lt;/li&gt;
+&lt;li&gt;通过时间衰减线图直接嵌入时间网络边;&lt;/li&gt;
+&lt;li&gt;COVID-19 大流行和美国远程办公的未来;&lt;/li&gt;
+&lt;li&gt;MLPInit：使用 MLP 初始化实现令人尴尬的简单 GNN 训练加速;&lt;/li&gt;
+&lt;li&gt;通过可视化超链接连通性来解释网站可靠性;&lt;/li&gt;
+&lt;li&gt;符号网络上多主题信念动态的持续振荡;&lt;/li&gt;
+&lt;li&gt;城市洪水期间扰动交通网络的剖析;&lt;/li&gt;
+&lt;li&gt;分析公共议会数据的开放框架;&lt;/li&gt;
+&lt;li&gt;使用时间知识图谱通过发表影响表示的引文轨迹预测;&lt;/li&gt;
+&lt;li&gt;多层网络的认知建模：洞察力、进步和未来挑战;&lt;/li&gt;
+&lt;li&gt;CBLab：具有丰富数据支持的可扩展交通仿真;&lt;/li&gt;
+&lt;li&gt;专利数据中的城市经济适应性和复杂性;&lt;/li&gt;
+&lt;li&gt;基于人类移动数据量化 COVID-19 传播风险：一种用于有效接触者追踪的个性化 PageRank 方法;&lt;/li&gt;
+&lt;li&gt;使用平台 crumbs 进行数据科学：对 YouTube 上的虚假浏览量的调查;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2022-09-27)</title>
