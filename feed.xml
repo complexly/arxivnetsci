@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2022-10-07)</title>
+      <link>https://netsci.complexly.cn/post/20221007/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20221007/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;单细胞数据中信号选择的多尺度方法;&lt;/li&gt;
+&lt;li&gt;通过重采样减少实验性社会网络中的偏差放大;&lt;/li&gt;
+&lt;li&gt;用于分类的考虑中心的随机游走图嵌入方法;&lt;/li&gt;
+&lt;li&gt;影响最大化：分而治之;&lt;/li&gt;
+&lt;li&gt;大规模综合图数据集生成框架;&lt;/li&gt;
+&lt;li&gt;具有高阶结构的图混合模式;&lt;/li&gt;
+&lt;li&gt;香农熵：加密货币投资组合的经济物理学方法;&lt;/li&gt;
+&lt;li&gt;社区作为模糊算子：社区检测算法的关键启发式的认识论问题;&lt;/li&gt;
+&lt;li&gt;揭示图对比学习中的结构公平性;&lt;/li&gt;
+&lt;li&gt;三态意见模型的均衡与动态;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要16篇(2022-10-04)</title>
