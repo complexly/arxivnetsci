@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要6篇(2022-10-12)</title>
+      <link>https://netsci.complexly.cn/post/20221012/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20221012/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;GIDN：一种用于高效链路预测的轻量级图初始扩散网络;&lt;/li&gt;
+&lt;li&gt;使用高阶拉普拉斯算子对单纯复形进行链接分块;&lt;/li&gt;
+&lt;li&gt;公共智慧很重要！社会文本分类的话语感知双曲傅里叶共同意;&lt;/li&gt;
+&lt;li&gt;多层网络上带突变的传播过程;&lt;/li&gt;
+&lt;li&gt;具有预训练语言模型的社交媒体中的时间感知主题识别：电动汽车的案例研究;&lt;/li&gt;
+&lt;li&gt;有向超图中的互惠：度量、发现和生成器;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要10篇(2022-10-07)</title>
