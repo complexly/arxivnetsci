@@ -7,10 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要10篇(2022-10-13)</title>
+      <link>https://netsci.complexly.cn/post/20221013/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20221013/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;不断给予的礼物：慷慨在多人在线博弈中具有传染性;&lt;/li&gt;
+&lt;li&gt;社交搜索：在线社交平台中检索信息综述;&lt;/li&gt;
+&lt;li&gt;使用定量论述分析检测 Twitter 上虚假信息的传播者;&lt;/li&gt;
+&lt;li&gt;预测社交媒体时间序列的基线实验评估;&lt;/li&gt;
+&lt;li&gt;JuryGCN：量化图卷积网络的Jackknife不确定性;&lt;/li&gt;
+&lt;li&gt;高级开发人员的社交性和好奇心对敏捷 Scrum 团队能力建设的影响;&lt;/li&gt;
+&lt;li&gt;模拟复杂网络中多个交互过程的传播;&lt;/li&gt;
+&lt;li&gt;多模式网络中模式转换的交通中断建模;&lt;/li&gt;
+&lt;li&gt;弹性建筑：针对混合工作优化的人员灵活校园运营的校准区域规模模拟;&lt;/li&gt;
+&lt;li&gt;Katz 参数对节点排名的影响及其医疗应用;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要6篇(2022-10-12)</title>
