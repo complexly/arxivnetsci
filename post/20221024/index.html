@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要7篇(2022-10-24) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+复杂网络分类问题的低秩表示;
+来自非重叠矩形脉冲序列的 1/f 噪声;
+地方病传播的耦合动力学和多元网络中的逐渐意识扩散;
+GLCC：图级聚类的通用框架;
+用于超图的 Ollivier-Ricci 曲率：统一框架;
+影响力和影响力：有向复杂网络中的全局方向性;
+具有特定任务结构的图少样本学习;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要7篇(2022-10-24) - 网络科学研究速递">
+<meta itemprop="description" content="
+复杂网络分类问题的低秩表示;
+来自非重叠矩形脉冲序列的 1/f 噪声;
+地方病传播的耦合动力学和多元网络中的逐渐意识扩散;
+GLCC：图级聚类的通用框架;
+用于超图的 Ollivier-Ricci 曲率：统一框架;
+影响力和影响力：有向复杂网络中的全局方向性;
+具有特定任务结构的图少样本学习;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要7篇(2022-10-24) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20221024/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+复杂网络分类问题的低秩表示;
+来自非重叠矩形脉冲序列的 1/f 噪声;
+地方病传播的耦合动力学和多元网络中的逐渐意识扩散;
+GLCC：图级聚类的通用框架;
+用于超图的 Ollivier-Ricci 曲率：统一框架;
+影响力和影响力：有向复杂网络中的全局方向性;
+具有特定任务结构的图少样本学习;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20221024/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20221024/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要7篇(2022-10-24)</h1>
+
+                  <p class="post-byline">
+                    2022年10月24日 · 2728 字 ·
+                    阅读时间约6分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>复杂网络分类问题的低秩表示;</li>
+<li>来自非重叠矩形脉冲序列的 1/f 噪声;</li>
+<li>地方病传播的耦合动力学和多元网络中的逐渐意识扩散;</li>
+<li>GLCC：图级聚类的通用框架;</li>
+<li>用于超图的 Ollivier-Ricci 曲率：统一框架;</li>
+<li>影响力和影响力：有向复杂网络中的全局方向性;</li>
+<li>具有特定任务结构的图少样本学习;</li>
+</ul>
+
+<p></p>
+
+<h3 id="复杂网络分类问题的低秩表示">复杂网络分类问题的低秩表示</h3>
+
+<p>原文标题： Low-Rank Representations Towards Classification Problem of Complex Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.11561">http://arxiv.org/abs/2210.11561</a></p>
+
+<p>作者： Murat Çelik, Ali Baran Taşdemir, Lale Özkahya</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.11561v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 代表社会互动、大脑活动、分子结构的复杂网络已被广泛研究，以便能够理解和预测它们作为图的特征​​。这些网络的模型和算法用于现实生活中的应用，例如搜索引擎和推荐系统。通常，此类网络是通过构建网络顶点的低维欧几里德嵌入来建模的，其中欧几里得空间中顶点的接近度暗示了边（链接）的可能性。在这项工作中，我们研究了现实生活中网络的这种低秩表示在网络分类问题上的表现。</p>
+
+<h3 id="来自非重叠矩形脉冲序列的-1-f-噪声">来自非重叠矩形脉冲序列的 1/f 噪声</h3>
+
+<p>原文标题： $1/f$ noise from the sequence of non-overlapping rectangular pulses</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.11792">http://arxiv.org/abs/2210.11792</a></p>
+
+<p>作者： Aleksejus Kononovicius, Bronislovas Kaulakys</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.11792v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们分析了由非重叠矩形脉冲组成的信号的功率谱密度。首先，我们推导出由非重叠脉冲序列构成的信号功率谱密度的一般公式。然后我们对矩形脉冲情况进行详细分析。我们表明，当特征脉冲持续时间与特征间隙持续时间相比较长时，可以观察到纯 1/f 噪声直到极低频率。否则，会观察到扭曲的 1/f 噪声。</p>
+
+<h3 id="地方病传播的耦合动力学和多元网络中的逐渐意识扩散">地方病传播的耦合动力学和多元网络中的逐渐意识扩散</h3>
+
+<p>原文标题： Coupled dynamics of endemic disease transmission and gradual awareness diffusion in multiplex networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.11819">http://arxiv.org/abs/2210.11819</a></p>
+
+<p>作者： Qingchu Wu, Tarik Hadzibeganovic, Xiao-Pu Han</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.11819v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 理解人类行为现象与传染病动力学之间的相互作用一直是数学流行病学的核心挑战之一。然而，在早期模型中，对于在爆发期间启动所需行为反应至关重要的社会认知过程往往被忽视或过度简化。将微观马尔可夫链方法与总概率定律相结合，我们在此建立了一个数学模型，描述了基于阶段的意识扩散进展与多路网络中地方病传播之间的动态相互作用。我们分析得出了模型的离散时间和连续时间版本的流行阈值，并且我们用数值证明了我们的分析论点在捕捉时间过程和耦合疾病意识动态的稳态方面的准确性。我们发现我们的模型对于任意非聚类多路网络是准确的，在预测传染病的时间演变和最终流行病规模方面都优于广泛采用的基于概率树的方法。我们的研究结果表明，除非分发的信息通过适当的保护措施触发对感染风险的强烈认识，否则向不知情的个人告知正在传播的疾病并不足以预防爆发，并且高度意识个人的免疫力可以提升流行病阈值，但前提是从弱意识到强意识的转变率足够高。因此，我们的研究表明，意识扩散和其他行为参数在对传染病的流行病学动态产生影响时会发生非平凡的相互作用，这表明未来的公共卫生措施不应忽视这种复杂的行为相互作用及其对多层网络系统中传染病传播的影响。</p>
+
+<h3 id="glcc-图级聚类的通用框架">GLCC：图级聚类的通用框架</h3>
+
+<p>原文标题： GLCC: A General Framework for Graph-level Clustering</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.11879">http://arxiv.org/abs/2210.11879</a></p>
+
+<p>作者： Wei Ju, Yiyang Gu, Binqi Chen, Gongbo Sun, Yifang Qin, Xingyuming Liu, Xiao Luo, Ming Zhang</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.11879v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本文研究了图级聚类问题，这是一项新颖但具有挑战性的任务。这个问题在各种实际应用中至关重要，例如生物信息学中的蛋白质聚类和基因组分析。近年来见证了深度聚类与图神经网络（GNN）相结合的成功。然而，现有的方法侧重于给定单个图的节点之间的聚类，而探索多图上的聚类仍然没有得到充分探索。在本文中，我们提出了一个通用的图级聚类框架，称为图级对比聚类（GLCC）给定多个图。具体来说，GLCC 首先构建一个自适应亲和图来探索实例和集群级别的对比学习 (CL)。实例级 CL 利用基于图拉普拉斯算子的对比损失来学习聚类友好的表示，而集群级 CL 刻画包含每个样本的邻居信息的有区别的集群表示。此外，我们利用邻居感知伪标签来奖励表示学习的优化。可以交替训练这两个步骤以相互协作和互惠互利。在一系列知名数据集上的实验证明了我们提出的 GLCC 优于竞争基线。</p>
+
+<h3 id="用于超图的-ollivier-ricci-曲率-统一框架">用于超图的 Ollivier-Ricci 曲率：统一框架</h3>
+
+<p>原文标题： Ollivier-Ricci Curvature for Hypergraphs: A Unified Framework</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.12048">http://arxiv.org/abs/2210.12048</a></p>
+
+<p>作者： Corinna Coupette, Sebastian Dalleiger, Bastian Rieck</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.12048v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 桥接几何和拓扑，曲率是一个强大且富有表现力的不变量。虽然曲率的效用在流形和图的背景下已经在理论上和经验上得到证实，但它对超图新兴领域的推广在很大程度上仍未得到探索。在图上，Ollivier-Ricci 曲率通过 Wasserstein 距离测量随机游走之间的差异，从而将几何概念基于概率和最优传输的想法。我们开发了 ORCHID，一个灵活的框架，将 Ollivier-Ricci 曲率推广到超图，并证明产生的曲率具有良好的理论性质。通过对来自不同领域的合成超图和真实世界超图的广泛实验，我们证明了 ORCHID 曲率既可扩展，又可用于在实践中执行各种超图任务。</p>
+
+<h3 id="影响力和影响力-有向复杂网络中的全局方向性">影响力和影响力：有向复杂网络中的全局方向性</h3>
+
+<p>原文标题： Influence and Influenceability: Global Directionality in Directed Complex Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.12081">http://arxiv.org/abs/2210.12081</a></p>
+
+<p>作者： Niall Rodgers, Peter Tino, Samuel Johnson</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.12081v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 理解哪些节点在复杂网络中具有影响力以及网络是否会受到一小部分节点的影响是网络分析的关键部分。然而，一些传统的重要性度量只关注节点级别的信息，而不考虑全局网络架构。我们使用营养分析的方法来研究有向网络，并表明有向网络的影响力和影响力取决于层次结构和全局方向性。我们表明，在有向网络中，可以到达最多其他节点的节点；特征向量中心性在哪里；可以控制选民动态的状态；代表广义剪刀石头布博弈中的成功策略，振荡器网络的最后阶段都可以由网络层次结构确定。然而，我们表明这些现象是由全球方向性介导的。以及突出与影响力和伪谱相关的真实网络的其他结构特性，这些特性可能随营养不相干而变化。结果可以适用于任何有向网络，并且原则强调层次结构中的节点位置对于网络影响很重要，由全局方向性介导，广泛适用于许多现实世界的动态。</p>
+
+<h3 id="具有特定任务结构的图少样本学习">具有特定任务结构的图少样本学习</h3>
+
+<p>原文标题： Graph Few-shot Learning with Task-specific Structures</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.12130">http://arxiv.org/abs/2210.12130</a></p>
+
+<p>作者： Song Wang, Chen Chen, Jundong Li</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.12130v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 图少样本学习在各种图学习任务中具有重要意义。在few-shot场景下，模型通常需要在有限的标记样本下进行分类。现有的图小样本学习方法通​​常利用图神经网络 (GNN) 并跨一系列元任务执行分类。然而，这些方法通常依赖于原始图（即元任务从中采样的图）来学习节点表示。因此，每个元任务中使用的图结构是相同的。由于元任务中的类集不同，节点表示应该以特定于任务的方式学习，以提高分类性能。因此，为了自适应地学习跨元任务的节点表示，我们提出了一种新颖的框架，该框架可以为每个元任务学习特定于任务的结构。为了处理跨元任务的各种节点，我们提取相关节点并基于节点影响和互信息学习特定于任务的结构。通过这种方式，我们可以学习具有为每个元任务量身定制的任务特定结构的节点表示。我们进一步在单图和多图设置下对五个节点分类数据集进行了广泛的实验，以验证我们的框架相对于最先进的基线的优越性。我们的代码在 <a href="https://github.com/SongW-SW/GLITTER">https://github.com/SongW-SW/GLITTER</a> 提供。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20221024/">https://netsci.complexly.cn/post/20221024/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20221013/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要10篇(2022-10-13)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
