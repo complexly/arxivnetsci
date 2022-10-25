@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要9篇(2022-10-25) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+使用上下文语义轴发现人的表示差异;
+全局导向机制下基于 DeGroot 的意见形成;
+魔鬼在冲突中：用于欺诈检测的分离信息图神经网络;
+为什么你会有这种感觉？总结社交媒体帖子中的情绪触发因素;
+网络中的 Schelling 扩展模型 &ndash; 华盛顿特区 Ghettos 的表征;
+接触网络的可逆变化如何影响疫情传播;
+一类随机超图模型;
+物理学家、非物理主题和跨学科;
+论欧洲城市扩张剖面的异质性;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要9篇(2022-10-25) - 网络科学研究速递">
+<meta itemprop="description" content="
+使用上下文语义轴发现人的表示差异;
+全局导向机制下基于 DeGroot 的意见形成;
+魔鬼在冲突中：用于欺诈检测的分离信息图神经网络;
+为什么你会有这种感觉？总结社交媒体帖子中的情绪触发因素;
+网络中的 Schelling 扩展模型 &ndash; 华盛顿特区 Ghettos 的表征;
+接触网络的可逆变化如何影响疫情传播;
+一类随机超图模型;
+物理学家、非物理主题和跨学科;
+论欧洲城市扩张剖面的异质性;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要9篇(2022-10-25) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20221025/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+使用上下文语义轴发现人的表示差异;
+全局导向机制下基于 DeGroot 的意见形成;
+魔鬼在冲突中：用于欺诈检测的分离信息图神经网络;
+为什么你会有这种感觉？总结社交媒体帖子中的情绪触发因素;
+网络中的 Schelling 扩展模型 &ndash; 华盛顿特区 Ghettos 的表征;
+接触网络的可逆变化如何影响疫情传播;
+一类随机超图模型;
+物理学家、非物理主题和跨学科;
+论欧洲城市扩张剖面的异质性;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20221025/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20221025/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要9篇(2022-10-25)</h1>
+
+                  <p class="post-byline">
+                    2022年10月25日 · 3797 字 ·
+                    阅读时间约8分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>使用上下文语义轴发现人的表示差异;</li>
+<li>全局导向机制下基于 DeGroot 的意见形成;</li>
+<li>魔鬼在冲突中：用于欺诈检测的分离信息图神经网络;</li>
+<li>为什么你会有这种感觉？总结社交媒体帖子中的情绪触发因素;</li>
+<li>网络中的 Schelling 扩展模型 &ndash; 华盛顿特区 Ghettos 的表征;</li>
+<li>接触网络的可逆变化如何影响疫情传播;</li>
+<li>一类随机超图模型;</li>
+<li>物理学家、非物理主题和跨学科;</li>
+<li>论欧洲城市扩张剖面的异质性;</li>
+</ul>
+
+<p></p>
+
+<h3 id="使用上下文语义轴发现人的表示差异">使用上下文语义轴发现人的表示差异</h3>
+
+<p>原文标题： Discovering Differences in the Representation of People using Contextualized Semantic Axes</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.12170">http://arxiv.org/abs/2210.12170</a></p>
+
+<p>作者： Li Lucy, Divya Tadimeti, David Bamman</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.12170v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 识别跨社会和时间上下文的语义差异的常见范例是使用静态词嵌入及其距离。特别是，过去的工作将嵌入与代表两个相反概念的“语义轴”进行了比较。我们将此范式扩展到 BERT 嵌入，并构建上下文化轴，以减轻反义词具有相邻表示的陷阱。我们在两个以人为中心的数据集上验证和展示了这些轴：来自维基百科的职业，以及 14 年来极端主义男性社区中的多平台讨论。在这两项研究中，语境化语义轴可以表征相同词类型的实例之间的差异。在后一项研究中，我们表明，随着时间的推移，对女性及其周围环境的提及变得更加可憎。</p>
+
+<h3 id="全局导向机制下基于-degroot-的意见形成">全局导向机制下基于 DeGroot 的意见形成</h3>
+
+<p>原文标题： DeGroot-based opinion formation under a global steering mechanism</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.12274">http://arxiv.org/abs/2210.12274</a></p>
+
+<p>作者： Ivan Conjeaud, Philipp Lorenz-Spreen, Argyris Kalogeratos</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.12274v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在本文中，我们研究了交互主体如何达到共识或极化状态。更具体地说，我们研究了全球转向机制（GSM）影响下的意见形成过程。我们认为 GSM 在网络层面聚合了主体人的意见，并以一种全球信息的形式向他们反馈。我们提出了 GSM-DeGroot 模型，这是一个新的基于两层主体的意见形成模型，它刻画主体到主体本地交互和 GSM 的转向效应之间的耦合动态。这样，主体会受到类似 DeGroot 的本地舆论传播的影响，以及可能影响其意见的各种可能的汇总信息，例如趋势新闻提要、新闻报道、民意调查、选举等。与标准 DeGroot 模型相反，我们模型的基石特征允许出现极化，这是主体对全局信息作出反应的不同方式。我们使用对合成数据的模拟，对模型动力学进行数值探索，以找到质量不同的行为机制。此外，我们挑战我们的模型，使其适应真实话题的动态，这些话题与抗议、社会运动以及长期地缘政治冲突升级为战争有关，这些话题引起了公众的关注并被记录在 Twitter 上。我们的实验表明，所提出的模型具有解释力，因为它显然通过一组相对较小的可解释参数刻画了真实的意见形成动态。</p>
+
+<h3 id="魔鬼在冲突中-用于欺诈检测的分离信息图神经网络">魔鬼在冲突中：用于欺诈检测的分离信息图神经网络</h3>
+
+<p>原文标题： The Devil is in the Conflict: Disentangled Information Graph Neural Networks for Fraud Detection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.12384">http://arxiv.org/abs/2210.12384</a></p>
+
+<p>作者： Zhixun Li, Dingshuo Chen, Qiang Liu, Shu Wu</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.12384v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 迄今为止，基于图的欺诈检测受到了相当大的关注。由于图神经网络 (GNN) 的巨大成功，许多采用 GNN 进行欺诈检测的方法已经获得了动力。然而，大多数现有方法都基于同质性的强归纳偏差，这表明上下文邻居倾向于具有相同的标签或相似的特征。在实际场景中，欺诈者经常进行伪装行为以避开检测系统。因此，同质假设不再成立，这被称为不一致问题。在本文中，我们认为性能下降主要归因于拓扑和属性之间的不一致。为理解决这个问题，我们建议将欺诈网络分解为两个视图，每个视图分别对应于拓扑和属性。然后，我们提出了一种简单有效的方法，该方法使用注意力机制自适应地融合两个视图，从而刻画特定于数据的偏好。此外，我们通过引入拓扑和属性的互信息约束来进一步改进它。为此，我们提出了一种解纠缠信息图神经网络 (DIGNN) 模型，该模型利用变分界来找到我们提出的优化目标函数的近似解。大量实验表明，我们的模型可以在现实世界的欺诈检测数据集上显著优于最先进的基线。</p>
+
+<h3 id="为什么你会有这种感觉-总结社交媒体帖子中的情绪触发因素">为什么你会有这种感觉？总结社交媒体帖子中的情绪触发因素</h3>
+
+<p>原文标题： Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.12531">http://arxiv.org/abs/2210.12531</a></p>
+
+<p>作者： Hongli Zhan, Tiberiu Sosea, Cornelia Caragea, Junyi Jessy Li</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.12531v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： COVID-19 大流行等危机持续威胁着我们的世界，并以不同的方式影响着全世界数十亿人的情感。理解导致人们情绪的诱因至关重要。社交媒体帖子可能是此类分析的良好来源，但这些文本往往充满多种情绪，触发因素分散在多个句子中。本文采用了一个新颖的角度，即情绪检测和触发摘要，旨在检测文本中的感知情绪，并总结触发每种情绪的事件及其评估。为了支持这一目标，我们引入了 CovidET（Covid-19 期间的情绪及其触发器），这是一个包含约 1,900 篇与 COVID-19 相关的英语 Reddit 帖子的数据集，其中包含感知情绪的手动注释和帖子中描述的触发器的抽象摘要.我们开发了强大的基线来共同检测情绪并总结情绪触发因素。我们的分析表明，CovidET 在特定情绪的总结以及长社交媒体帖子中的多情绪检测方面提出了新的挑战。</p>
+
+<h3 id="网络中的-schelling-扩展模型-华盛顿特区-ghettos-的表征">网络中的 Schelling 扩展模型 &ndash; 华盛顿特区 Ghettos 的表征</h3>
+
+<p>原文标题： A Schelling Extended Model in Networks &ndash; Characterization of Ghettos in Washington D.C</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.12661">http://arxiv.org/abs/2210.12661</a></p>
+
+<p>作者： Diego Ortega, Elka Korutcheva</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.12661v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 种族隔离影响了数百万城市居民。这一现实的主要表现是贫民区的创建，这些城市部分具有以下特征：低收入、低文化水平……通常在规则网格上定义隔离模型。然而，近年来，焦点已从这些不切实际的框架转移到通过地理信息系统 (GIS) 或网络定义的其他环境。然而，它们中的每一个都有其缺点：GIS 需要高分辨率数据，这些数据并不总是可用的，并且网络往往具有有限的实际应用。我们的工作试图填补它们之间的空白。首先，我们使用一些基本的 GIS 信息来定义网络，然后在其上运行扩展的 Schelling 模型。结果，我们获得了隔都的位置。之后，我们通过空间分析和机器学习分析城市的哪些部分被隔离，并比较我们的结果。对于华盛顿特区的案例研究，我们获得了 80% 的准确度。</p>
+
+<h3 id="接触网络的可逆变化如何影响疫情传播">接触网络的可逆变化如何影响疫情传播</h3>
+
+<p>原文标题： How the reversible change of contact network affects the epidemic spreading</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.12670">http://arxiv.org/abs/2210.12670</a></p>
+
+<p>作者： Xincheng Shu, Zhongyuan Ruan</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.12670v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在 COVID-19 大流行初期爆发期间，中国个人的流动模式呈现出可逆的变化——在许多地区，流动性先显著下降，然后又恢复。基于这一观察，我们在这里研究了特定类型的时变网络上的经典 SIR 模型，其中链路经历了冻结恢复过程。我们首先关注一个孤立的网络，发现恢复机制可能导致流行病的死灰复燃。链接冻结对流行动态的影响是微妙的。特别是，我们表明存在与流行病的最低流行率相对应的链接冻结率的最佳值。这一结果挑战了我们传统的观念，即更严格的预防措施（对应于更大的冷冻率）总能对流行病传播产生更好的抑制作用。我们进一步研究了一个开放系统，其中网络中的一小部分节点可能从“环境”（外部受感染节点）中感染疾病。在这种情况下，即使感染节点的数量已经下降到零，第二波也会出现，这不能用孤立的网络模型来解释。</p>
+
+<h3 id="一类随机超图模型">一类随机超图模型</h3>
+
+<p>原文标题： A class of models for random hypergraphs</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.12698">http://arxiv.org/abs/2210.12698</a></p>
+
+<p>作者： Marc Barthelemy</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.12698v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 尽管最近展示了高阶交互对各种过程的重要性，但很少有灵活的（空）模型可用。特别是，大多数关于超图的研究都集中在一小部分理论模型上。在这里，我们介绍了一类随机超图模型，它显示出与复杂网络模型相似的灵活性水平，其中主要成分是节点属于超边的概率。当这个概率是一个常数时，我们得到一个与 Erdos-Renyi 图相同精神的随机超图。该框架还允许我们引入不同的成分，例如超图的优先连接或空间随机超图。特别是，我们展示了对于 Erdos-Renyi 情况，有一个转换阈值尺度为 1/sqrtEN，其中 N 是节点数，E 是超边数。我们还讨论了一个随机几何超图，它显示了阈值距离尺度的渗透转换为 r_c^sim 1/sqrtE。对于这些不同的模型，我们提供了最有趣的度量结果，并在空间案例中引入了新的度量来表征超边的几何特性。这些不同的模型可以作为分析经验数据的基准。</p>
+
+<h3 id="物理学家-非物理主题和跨学科">物理学家、非物理主题和跨学科</h3>
+
+<p>原文标题： Physicists, Non Physical Topics, and Interdisciplinarity</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.13254">http://arxiv.org/abs/2210.13254</a></p>
+
+<p>作者： Serge Galam</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.13254v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 今天定义跨学科物理学首先需要重新定义今天的物理学，这反过来又要求澄清什么是物理学家。这个评估是我四十年来为建立社会物理学而争论和斗争的结果。因此，我对跨学科物理学的看法在确定以下主张之前反复向相反的方向发展：今天的物理学是由以“物理学家的方式”处理问题的物理学家所做的。然而，物理学家的培训应仅限于惰性物质。然而，将重点放在物理学家方法的普遍性上，将其作为研究主题的通用途径。因此，跨学科物理学应该成为一个珍宝柜，包括一个孵化器。只要至少由一位物理学家共同撰写，好奇心内阁将欢迎与任何类型的物体相关的所有一次性论文。否则，该论文应明确使用物理学中的技术。如果一个主题有很多论文，它将被转移到孵化器中，以促进新的合适的物理学子领域的潜在出现。物理学前沿中的社会物理学小节说明了一个过程。</p>
+
+<h3 id="论欧洲城市扩张剖面的异质性">论欧洲城市扩张剖面的异质性</h3>
+
+<p>原文标题： On the heterogeneity of urban expansion profiles in Europe</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.13322">http://arxiv.org/abs/2210.13322</a></p>
+
+<p>作者： Paul Kilgarriff, Remi Lemoy, Geoffrey Caruso</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.13322v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 对 585 个欧洲城市的人工土地利用 (ALU) 径向剖面与平均 ALU 剖面的差异进行了研究。使用 Urban Atlas 2012 数据，径向（或单中心）方法用于计算与市中心距离相关的城市土地利用概况。使用比例法则来控制城市规模和人口。因此，不同规模的城市可以以可比的方式进行对比。利用 585 个城市的整个样本的平均 ALU 配置文件，计算每个城市与平均配置文件的差异。利用这些差异，我们可以检查欧洲城市 ALU 的异质性，也可以检查城市内部的这些差异。我们利用城市规模和国家/地区的城市分组来尝试理解这些差异。结合 Urban Atlas 和 Corine 土地覆盖数据，研究了水对 ALU 剖面的影响。还引入了考虑到平均曲线差异的城市分类。排序方法用于可视化这些分类中的城市。结果突出了城市之间的异质性水平。除去水，我们可以看到，水量最高的城市的平均 ALU 水平更高。发现西班牙和法国的 ALU 水平不同，西班牙城市的 ALU 低于平均水平，法国高于平均水平。使用序列化技术使我们能够将城市分组和排序为可用于对城市进行基准测试的类型。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20221025/">https://netsci.complexly.cn/post/20221025/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20221024/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要7篇(2022-10-24)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+

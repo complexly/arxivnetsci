@@ -7,10 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要9篇(2022-10-25)</title>
+      <link>https://netsci.complexly.cn/post/20221025/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20221025/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;使用上下文语义轴发现人的表示差异;&lt;/li&gt;
+&lt;li&gt;全局导向机制下基于 DeGroot 的意见形成;&lt;/li&gt;
+&lt;li&gt;魔鬼在冲突中：用于欺诈检测的分离信息图神经网络;&lt;/li&gt;
+&lt;li&gt;为什么你会有这种感觉？总结社交媒体帖子中的情绪触发因素;&lt;/li&gt;
+&lt;li&gt;网络中的 Schelling 扩展模型 &amp;ndash; 华盛顿特区 Ghettos 的表征;&lt;/li&gt;
+&lt;li&gt;接触网络的可逆变化如何影响疫情传播;&lt;/li&gt;
+&lt;li&gt;一类随机超图模型;&lt;/li&gt;
+&lt;li&gt;物理学家、非物理主题和跨学科;&lt;/li&gt;
+&lt;li&gt;论欧洲城市扩张剖面的异质性;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要7篇(2022-10-24)</title>
