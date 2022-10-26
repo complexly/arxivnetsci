@@ -7,10 +7,36 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要14篇(2022-10-26)</title>
+      <link>https://netsci.complexly.cn/post/20221026/</link>
+      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20221026/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;基于位置的社会网络中锚店效应的因果分析;&lt;/li&gt;
+&lt;li&gt;从短期语言影响预测长期引用;&lt;/li&gt;
+&lt;li&gt;通过三元合作防御走向稳健的推荐系统;&lt;/li&gt;
+&lt;li&gt;仇恨言论在社交媒体上的传播;&lt;/li&gt;
+&lt;li&gt;气候灾害中的能源不平等：管理和灾害引起的停电中社会和空间差异的经验证据;&lt;/li&gt;
+&lt;li&gt;用于链路预测的线图对比学习;&lt;/li&gt;
+&lt;li&gt;FocusedCleaner：为基于 GNN 的稳健节点分类清理中毒图;&lt;/li&gt;
+&lt;li&gt;追随者——分析追随行为的追随者比率类别和用户向量;&lt;/li&gt;
+&lt;li&gt;寻找社会网络中创新的早期采用者;&lt;/li&gt;
+&lt;li&gt;探索建成环境与共享单车需求之间的关系：行程长度重要吗？;&lt;/li&gt;
+&lt;li&gt;航空影像经验观察的多式联运混合微观模型;&lt;/li&gt;
+&lt;li&gt;Cayley树的雪崩大小分布;&lt;/li&gt;
+&lt;li&gt;学习网络异构干扰下的个体治疗效果;&lt;/li&gt;
+&lt;li&gt;Datavoidant：用于解决社交媒体上政治数据空白的人工智能系统;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要9篇(2022-10-25)</title>
