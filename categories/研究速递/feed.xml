@@ -7,10 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 26 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要13篇(2022-10-31)</title>
+      <link>https://netsci.complexly.cn/post/20221031/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20221031/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;SQUIRE：用于多跳知识图推理的序列到序列框架;&lt;/li&gt;
+&lt;li&gt;网络如何塑造多样性的好坏;&lt;/li&gt;
+&lt;li&gt;缩小并观察：假新闻检测的新闻环境感知;&lt;/li&gt;
+&lt;li&gt;社区协议如何改善物理学中的工作场所文化;&lt;/li&gt;
+&lt;li&gt;你怎么去哪里？通过使用transformer学习出行模式信息来改进下一个位置预测;&lt;/li&gt;
+&lt;li&gt;社会特征不确定的动力学流行病模型的优化控制;&lt;/li&gt;
+&lt;li&gt;量子力学：统计平衡提示在评估概念含义时要谨慎;&lt;/li&gt;
+&lt;li&gt;带有伪装的动态社会互动的数学框架;&lt;/li&gt;
+&lt;li&gt;观鸟：人群智慧和桥接算法可以告知理解并减少错误信息的传播;&lt;/li&gt;
+&lt;li&gt;去中心化网络中意见收敛的中心化问题;&lt;/li&gt;
+&lt;li&gt;网络上的本地狄拉克同步;&lt;/li&gt;
+&lt;li&gt;MiCRO：在线多兴趣候选人检索;&lt;/li&gt;
+&lt;li&gt;聚类图——应用标签传播算法检测图数据库中的社区;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要14篇(2022-10-26)</title>

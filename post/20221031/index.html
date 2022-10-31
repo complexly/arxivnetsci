@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+  <base href="https://netsci.complexly.cn/">
+  <script>
+    document._writeOriginal = document.write;
+    document.write = function(str) {
+        if (str.indexOf('livereload.js') > -1) {
+            document._writeOriginal(str);
+        } else {
+            document._writeOriginal('<!-- Be Hijack!! -->');
+        }
+    }
+  </script>
+  <title>Arxiv网络科学论文摘要13篇(2022-10-31) - 网络科学研究速递</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+<meta name="description" content="
+SQUIRE：用于多跳知识图推理的序列到序列框架;
+网络如何塑造多样性的好坏;
+缩小并观察：假新闻检测的新闻环境感知;
+社区协议如何改善物理学中的工作场所文化;
+你怎么去哪里？通过使用transformer学习出行模式信息来改进下一个位置预测;
+社会特征不确定的动力学流行病模型的优化控制;
+量子力学：统计平衡提示在评估概念含义时要谨慎;
+带有伪装的动态社会互动的数学框架;
+观鸟：人群智慧和桥接算法可以告知理解并减少错误信息的传播;
+去中心化网络中意见收敛的中心化问题;
+网络上的本地狄拉克同步;
+MiCRO：在线多兴趣候选人检索;
+聚类图——应用标签传播算法检测图数据库中的社区;
+
+
+">
+<meta name="generator" content="http://gohugo.io/"/>
+
+<meta itemprop="name" content="Arxiv网络科学论文摘要13篇(2022-10-31) - 网络科学研究速递">
+<meta itemprop="description" content="
+SQUIRE：用于多跳知识图推理的序列到序列框架;
+网络如何塑造多样性的好坏;
+缩小并观察：假新闻检测的新闻环境感知;
+社区协议如何改善物理学中的工作场所文化;
+你怎么去哪里？通过使用transformer学习出行模式信息来改进下一个位置预测;
+社会特征不确定的动力学流行病模型的优化控制;
+量子力学：统计平衡提示在评估概念含义时要谨慎;
+带有伪装的动态社会互动的数学框架;
+观鸟：人群智慧和桥接算法可以告知理解并减少错误信息的传播;
+去中心化网络中意见收敛的中心化问题;
+网络上的本地狄拉克同步;
+MiCRO：在线多兴趣候选人检索;
+聚类图——应用标签传播算法检测图数据库中的社区;
+
+
+">
+<meta itemprop="image" content="https://netsci.complexly.cn/public/complexly.jpg">
+
+<meta property="og:title" content="Arxiv网络科学论文摘要13篇(2022-10-31) - 网络科学研究速递" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://netsci.complexly.cn/post/20221031/" />
+<meta property="og:image" content="https://netsci.complexly.cn/public/complexly.jpg" />
+<meta property="og:description" content="
+SQUIRE：用于多跳知识图推理的序列到序列框架;
+网络如何塑造多样性的好坏;
+缩小并观察：假新闻检测的新闻环境感知;
+社区协议如何改善物理学中的工作场所文化;
+你怎么去哪里？通过使用transformer学习出行模式信息来改进下一个位置预测;
+社会特征不确定的动力学流行病模型的优化控制;
+量子力学：统计平衡提示在评估概念含义时要谨慎;
+带有伪装的动态社会互动的数学框架;
+观鸟：人群智慧和桥接算法可以告知理解并减少错误信息的传播;
+去中心化网络中意见收敛的中心化问题;
+网络上的本地狄拉克同步;
+MiCRO：在线多兴趣候选人检索;
+聚类图——应用标签传播算法检测图数据库中的社区;
+
+
+">
+
+  <script>document.documentElement.className = document.documentElement.className.replace("no-js", "js");</script>
+  <link rel="canonical" href="https://netsci.complexly.cn/post/20221031/">
+  <link rel='shortlink' href="https://netsci.complexly.cn/post/20221031/"/>
+  <link rel="shortcut icon" href="https://netsci.complexly.cn/public/favicon.ico"/>
+  
+<link rel="stylesheet" id="human-style-css" href="/wp-content/themes/hueman/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="human-style-css2" href="/wp-content/themes/hueman-child/style.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="responsive-css" href="/wp-content/themes/hueman/responsive.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="font-awesome-css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="/public/highlight/styles/github.css">
+<script src="/public/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+<link rel="stylesheet" id="human-style-css3" href="/wp-content/themes/hueman-child/user.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="public/font/hack/css/hack.min.css">
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jplayer/2.4.0/jquery.jplayer.min.js"></script>
+<script type="text/javascript" src="wp-content/themes/hueman/js/scripts.js"></script>
+<script type="text/javascript" src="assets/picturefill/picturefill.min.js"></script>
+<script type="text/javascript" src="assets/js/jquery.matchHeight-min.js"></script>
+<script type="text/javascript" async defer src="assets/js/myblog.js"></script>
+
+</head>
+
+<body class="single single-post single-format-standard col-3cm full-width topbar-enabled chrome">
+<div id="wrapper">
+  <header id="header">
+
+  <nav class="nav-container group" id="nav-topbar">
+    <div class="nav-toggle"><i class="fa fa-bars"></i></div>
+    <div class="nav-text"></div>
+    <div class="nav-wrap container">
+      <a rel="nofollow" href="https://netsci.complexly.cn/" class="nav-cs-icon">
+        <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" src="/public/complexly.jpg" alt="complexly" title="Home">
+      </a>
+      <ul id="menu-default-menu" class="nav container-inner group">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/">首页</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+        </li>
+        
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="https://arxiv.complexly.cn/">个性化阅读平台</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/about/">关于我</a>
+        </li>
+        
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+          <a rel="nofollow" href="/feed.xml" type="application/rss+xml" target="_blank">订阅</a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-text">
+        
+        </li>
+      </ul>
+    </div>
+
+    <div class="container">
+      <div class="container-inner">
+        <div class="toggle-search"><i class="fa fa-search"></i></div>
+        <div class="search-expand">
+          <div class="search-expand-inner">
+            <form method="get" class="searchform themeform" action="https://www.google.com/search">
+              <div>
+                <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+    
+
+  </nav>
+  
+
+  <div class="container group">
+    <div class="container-inner">
+
+      <div class="group pad">
+
+        <div class="group pad">
+          <h1 class="site-title">
+            <a rel="nofollow" href="https://netsci.complexly.cn/" rel="home">
+              <img style="border-radius: 50%;width:35px;height:35px;margin:0 auto;" alt="complexly" src="/public/complexly.jpg"></img>
+              网络科学研究速递
+            </a>
+          </h1>
+          <p class="site-description">  </p>
+        </div>
+
+      </div>
+    </div>
+    
+  </div>
+  
+
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17d241e0fa4d5dbbd3f66a4d331ac776";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+</header>
+
+
+
+  <div class="container" id="page">
+    <div class="container-inner">
+      <div class="main">
+        <div class="main-inner group">
+          <section class="content">
+            <div class="page-title pad group">
+              <ul class="meta-single group">
+                
+                <li class="category">
+                  <a href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/" rel="category tag">研究速递</a>
+                </li>
+                
+              </ul>
+            </div>
+
+            <div class="pad group">
+
+              <article
+                  class="post type-post status-publish format-standard has-post-thumbnail hentry category-australien tag-bondi-beach tag-city2surf tag-sydney">
+                <div class="post-inner group">
+
+                  <h1 class="post-title">Arxiv网络科学论文摘要13篇(2022-10-31)</h1>
+
+                  <p class="post-byline">
+                    2022年10月31日 · 5291 字 ·
+                    阅读时间约11分
+                  </p>
+
+                  <div class="clear"></div>
+
+                  <div class="entry">
+                    <div class="entry-inner">
+                      
+                      <ul>
+<li>SQUIRE：用于多跳知识图推理的序列到序列框架;</li>
+<li>网络如何塑造多样性的好坏;</li>
+<li>缩小并观察：假新闻检测的新闻环境感知;</li>
+<li>社区协议如何改善物理学中的工作场所文化;</li>
+<li>你怎么去哪里？通过使用transformer学习出行模式信息来改进下一个位置预测;</li>
+<li>社会特征不确定的动力学流行病模型的优化控制;</li>
+<li>量子力学：统计平衡提示在评估概念含义时要谨慎;</li>
+<li>带有伪装的动态社会互动的数学框架;</li>
+<li>观鸟：人群智慧和桥接算法可以告知理解并减少错误信息的传播;</li>
+<li>去中心化网络中意见收敛的中心化问题;</li>
+<li>网络上的本地狄拉克同步;</li>
+<li>MiCRO：在线多兴趣候选人检索;</li>
+<li>聚类图——应用标签传播算法检测图数据库中的社区;</li>
+</ul>
+
+<p></p>
+
+<h3 id="squire-用于多跳知识图推理的序列到序列框架">SQUIRE：用于多跳知识图推理的序列到序列框架</h3>
+
+<p>原文标题： SQUIRE: A Sequence-to-sequence Framework for Multi-hop Knowledge Graph Reasoning</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.06206">http://arxiv.org/abs/2201.06206</a></p>
+
+<p>作者： Yushi Bai, Xin Lv, Juanzi Li, Lei Hou, Yincen Qu, Zelin Dai, Feiyu Xiong</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2201.06206v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 近年来，多跳知识图 (KG) 推理得到了广泛的研究，以提供关于具有证据路径的缺失链接的可解释预测。大多数以前的工作使用基于强化学习 (RL) 的方法来学习导航到目标实体的路径。然而，这些方法存在收敛速度慢且收敛性差的问题，并且当路径上存在缺失边时，它们可能无法推断出某个路径。在这里，我们介绍了 SQUIRE，这是第一个基于序列到序列的多跳推理框架，它利用编码器-解码器 Transformer 结构将查询转换为路径。我们的框架带来了两个好处：（1）它可以以端到端的方式学习和预测，从而提供更好更快的收敛； (2) 我们的 Transformer 模型不依赖于现有的边来生成路径，并且具有沿着路径补全缺失边的灵活性，尤其是在稀疏 KGs 中。在标准和稀疏 KG 上的实验表明，我们的方法比以前的方法产生了显著的改进，同时收敛速度提高了 4 到 7 倍。</p>
+
+<h3 id="网络如何塑造多样性的好坏">网络如何塑造多样性的好坏</h3>
+
+<p>原文标题： How networks shape diversity for better or worse</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2201.09254">http://arxiv.org/abs/2201.09254</a></p>
+
+<p>作者： Andrea Musso, Dirk Helbing</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2201.09254v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 社会多样性是生物多样性的社会类比，是创新、生产力和集体智慧的基础。如何推广？本文研究了社会结构如何促进和阻碍社会多样性，采用行为动力学模型和数值模拟。通过引入结构多样性指数（一种揭示社会结构维持多样性倾向的量词），我们研究了社会网络的基本特征——程度异质性、聚类、距离和规模——如何影响行为多样性。我们表明，程度异质性阻碍了多样性，而聚类和距离有利于它。这些结果为理解如何改变社会结构以维持更多（行为）多样性，从而维持社会创新、集体智慧和生产力开辟了新的视角。</p>
+
+<h3 id="缩小并观察-假新闻检测的新闻环境感知">缩小并观察：假新闻检测的新闻环境感知</h3>
+
+<p>原文标题： Zoom Out and Observe: News Environment Perception for Fake News Detection</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2203.10885">http://arxiv.org/abs/2203.10885</a></p>
+
+<p>作者： Qiang Sheng, Juan Cao, Xueyao Zhang, Rundong Li, Danding Wang, Yongchun Zhu</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2203.10885v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 假新闻检测对于防止在社交媒体上传播错误信息至关重要。为了区分假新闻和真实新闻，现有方法观察新闻帖子的语言模式并“放大”以使用知识源验证其内容或检查其读者的回复。然而，这些方法忽略了创建和传播假新闻帖子的外部新闻环境中的信息。新闻环境代表了近期主流媒体的舆论和公众关注度，这是制造假新闻的重要启示，因为假新闻往往被设计为乘风破浪，以意想不到的新颖内容吸引公众注意力，从而扩大曝光和传播。为了捕捉新闻帖子的环境信号，我们“缩小”观察新闻环境并提出新闻环境感知框架（NEP）。对于每个帖子，我们从最近的主流新闻中构建其宏观和微观新闻环境。然后我们设计了一个面向流行度和一个面向新颖性的模块来感知有用的信号并进一步辅助最终预测。在我们新建的数据集上进行的实验表明，NEP 可以有效地提高基本假新闻检测器的性能。</p>
+
+<h3 id="社区协议如何改善物理学中的工作场所文化">社区协议如何改善物理学中的工作场所文化</h3>
+
+<p>原文标题： How Community Agreements Can Improve Workplace Culture in Physics</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2209.06755">http://arxiv.org/abs/2209.06755</a></p>
+
+<p>作者： Emanuela Barzi, Simonetta Liuti, Christine Nattrass, Roxanne Springer, Charles H. Bennett</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2209.06755v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 公平、多样性和包容性 (EDI) 委员会和行为准则 (CoC) 在全国的实验室和物理系中变得很普遍。然而，这些 EDI 委员会和 CoC 通常没有能力为违规行为提供实际后果，因此主要是执行性质的。 APS 单位内和 APS 之外的各个小组已经投入了相当大的努力来制定现在称为社区指南的内容。社区指南通过设定参与面对面活动和虚拟交流的期望，帮助实施 CoC 的核心原则。当进一步伴随着问责制和执行程序时，它们会发展成社区协议。本白皮书讨论了创建和实施有效的社区协议所必需的要素，回顾了物理学中社区协议的示例，并认为物理合作、物理部门以及最终尽可能多的物理组织，无论大小，都应该有一个社区协议到位。我们主张社区协议应成为任何拥有章程的实体的章程的一部分。</p>
+
+<h3 id="你怎么去哪里-通过使用transformer学习出行模式信息来改进下一个位置预测">你怎么去哪里？通过使用transformer学习出行模式信息来改进下一个位置预测</h3>
+
+<p>原文标题： How do you go where? Improving next location prediction by learning travel mode information using transformers</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.04095">http://arxiv.org/abs/2210.04095</a></p>
+
+<p>作者： Ye Hong, Henry Martin, Martin Raubal</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.04095v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 预测个人的下一次访问位置是人类流动性分析中的一个关键问题，因为它是可持续交通选择的个性化和优化所必需的。在这里，我们提出了一个基于 Transformer 解码器的神经网络，以根据历史位置、时间和旅行模式预测个人将访问的下一个位置，这些行为维度在以前的工作中经常被忽视。特别是，下一个出行方式的预测被设计为辅助任务，以帮助指导网络的学习。为了评估，我们将这种方法应用于涉及 600 多人的两个大规模和长期 GPS 跟踪数据集。我们的实验表明，所提出的方法显著优于其他最先进的下一个位置预测方法（两个数据集的 F1 分数分别相对增加 8.05% 和 5.60%）。我们进行了广泛的消融研究，量化了考虑时间特征、出行方式信息和辅助任务对预测结果的影响。此外，我们通过实验确定在我们的模型中包含下一个模式预测时的性能上限。最后，我们的分析表明，位置预测的性能会随着个人选择的下一个出行方式而显著变化。这些结果显示了在人类流动性预测任务中更系统地考虑旅行行为的其他维度的潜力。我们的模型和实验的源代码可在 <a href="https://github.com/mie-lab/location-mode-prediction">https://github.com/mie-lab/location-mode-prediction</a> 获得。</p>
+
+<h3 id="社会特征不确定的动力学流行病模型的优化控制">社会特征不确定的动力学流行病模型的优化控制</h3>
+
+<p>原文标题： On the optimal control of kinetic epidemic models with uncertain social features</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.09201">http://arxiv.org/abs/2210.09201</a></p>
+
+<p>作者： Jonathan Franceschi, Andrea Medaglia, Mattia Zanella</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.09201v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 众所周知，接触者分布方面的社会异质性对传染病的传播有很大的影响。然而，可用的数据很少，它们的统计描述不具有普遍的模式，并且可能在空间和时间上有所不同。因此，必须设计最佳控制策略，模仿非药物干预的效果，以有效限制感染病例的数量。在这项工作中，从最近引入的考虑个人社会接触影响的流行病学动力学动力学模型开始，我们考虑了一种不确定的接触形成动力学，导致接触的细尾和肥尾分布。因此，我们分析了主体系统的最优控制策略的效果。由于动力学理论的经典方法，我们将不确定性量化方法与引入的数学模型相结合，以评估社会限制的影响。最后，使用所提出的建模方法并从可用数据开始，我们展示了所提出的选择性措施在抑制不确定性和流行趋势方面的有效性。</p>
+
+<h3 id="量子力学-统计平衡提示在评估概念含义时要谨慎">量子力学：统计平衡提示在评估概念含义时要谨慎</h3>
+
+<p>原文标题： Quantum Mechanics: Statistical Balance Prompts Caution in Assessing Conceptual Implications</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.15710">http://arxiv.org/abs/2210.15710</a></p>
+
+<p>作者： Brian Drummond</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.15710v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在整个量子力学中，在一组系统对不同测量类型的集体响应中存在统计平衡。统计平衡是量子力学的核心特征，是潜在的量子力学状态，尚未得到解释。此处探讨了“统计平衡”的概念，将其自 2019 年以来的含义与 2001 年的原始含义进行了比较。统计平衡现在是指以下上下文的特征： (a)集合对一种测量类型的集体响应； (b) 同一整体对另一种测量类型的集体响应表明，对于与原始测量类型相关的属性，没有明确定义的值可以归因于整体的各个成员。以某种无法解释的方式，原始类型测量的单次运行结果相互“平衡”，以给出符合规定概率的总体结果。无法解释的统计平衡提示在评估纠缠、测量、不确定性以及双缝和贝尔型分析的概念含义时要谨慎。物理学家有责任对更广泛的人群在量子力学的概念上保持精确，并明确许多可能的概念含义是不确定的。</p>
+
+<h3 id="带有伪装的动态社会互动的数学框架">带有伪装的动态社会互动的数学框架</h3>
+
+<p>原文标题： A mathematical framework for dynamical social interactions with dissimulation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.15712">http://arxiv.org/abs/2210.15712</a></p>
+
+<p>作者： Yuri Saporito, Max O. Souza, Yuri Thamsten</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.15712v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 建模社交互动是一项具有挑战性的任务，需要灵活的框架。例如，伪装和外部性是影响此类系统的相关特征——在流行模型中经常被忽视的元素。本文致力于研究一般数学框架，以理解主体人掩饰的社会情况，并且可能对外生的客观信息敏感。我们的模型包含一个参与者可以诚实、有说服力或顺从的人群。首先，我们考虑一个非合作的环境，在这个环境中，我们建立了博弈纳什均衡的存在性、唯一性和一些属性。其次，我们分析合作环境，确定帕累托前沿内的最优策略。在这两种情况下，我们都开发了数值算法，使我们能够以计算方式评估模型在各种设置下的行为。</p>
+
+<h3 id="观鸟-人群智慧和桥接算法可以告知理解并减少错误信息的传播">观鸟：人群智慧和桥接算法可以告知理解并减少错误信息的传播</h3>
+
+<p>原文标题： Birdwatch: Crowd Wisdom and Bridging Algorithms can Inform Understanding and Reduce the Spread of Misinformation</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.15723">http://arxiv.org/abs/2210.15723</a></p>
+
+<p>作者： Stefan Wojcik, Sophie Hilgard, Nick Judd, Delia Mocanu, Stephen Ragain, M.B. Fallin Hunzaker, Keith Coleman, Jay Baxter</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.15723v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们提出了一种为社交媒体帖子选择客观信息和主观有用注释的方法。我们利用在线环境中的数据，其中贡献者注释错误信息并同时评估其他人的贡献。我们的算法使用基于矩阵分解 (MF) 的方法来识别广泛吸引异构用户组的注释 - 有时称为“基于桥接的排名”。我们将这些数据与一项调查实验配对，在该实验中，个人被随机分配以查看帖子的注释。我们发现，与总体平均和人群生成的基线相比，算法选择的注释改进了关键指标。此外，当部署在 Twitter 上时，看到通过这种基于桥接的方法选择的注释的人转发社交媒体帖子的可能性明显低于那些没有看到注释的人。</p>
+
+<h3 id="去中心化网络中意见收敛的中心化问题">去中心化网络中意见收敛的中心化问题</h3>
+
+<p>原文标题： Centralization Problem for Opinion Convergence in Decentralized Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.16041">http://arxiv.org/abs/2210.16041</a></p>
+
+<p>作者： Yiping Liu, Jiamou Liu, Bakhadyr Khoussaino, Miao Qiao, Bo Yan</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.16041v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 本文旨在为去中心化（多智能体系统的普遍特征）和集中化（即实施中央控制以满足系统级目标的任务）之间的相互作用提供新的视角。特别是在网络化意见动态模型的背景下，本文提出并讨论了一个中心化框架。更准确地说，去中心化网络由自治主体及其未知且动态的社会结构组成。集中化是在网络中指定主体作为访问单元的过程，这些访问单元提供信息并对当地环境施加影响。我们讨论了 DeGroot 意见动态模型的集中化，旨在使用最少数量的访问单元来强制意见收敛。我们表明，集中化过程的关键在于选择访问单元，以便它们形成一个支配集。然后，我们在一个新的本地算法框架下提出算法，即潜行，以完成这项任务。为了验证我们的算法，我们在现实世界和合成网络上进行系统实验，并验证我们的算法优于基准。</p>
+
+<h3 id="网络上的本地狄拉克同步">网络上的本地狄拉克同步</h3>
+
+<p>原文标题： Local Dirac Synchronization on Networks</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.16124">http://arxiv.org/abs/2210.16124</a></p>
+
+<p>作者： Lucille Calmon, Ginestra Bianconi</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.16124v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 我们提出了本地狄拉克同步，它使用狄拉克算子来刻画任意网络上耦合节点和链接信号的动态。在局部狄拉克同步中，动力学的谐波模式自由振荡，而其他模式非线性相互作用，当模型的耦合常数增加时，导致整体同步状态。在这里，我们讨论模型的动机以及在不相关的随机网络和完全连接的网络上产生的集体行为。这些网络上的局部狄拉克同步的特点是不连续的过渡和有节奏的相干相位的出现。在这个有节奏的阶段，两个复数阶参数之一在复平面中以慢频率（称为涌现频率）在固有频率具有零平均值的帧中振荡。我们的理论预测很好地捕捉了完全连接网络和稀疏泊松和无标度网络的广泛数值结果，其中对于稀疏不相关网络，这些预测是在退火近似中获得的。这些结果揭示了拓扑（贝蒂数和谐波模式）与非线性动力学之间的相互作用，并揭示了拓扑如何在大脑节律的发生中发挥作用。</p>
+
+<h3 id="micro-在线多兴趣候选人检索">MiCRO：在线多兴趣候选人检索</h3>
+
+<p>原文标题： MiCRO: Multi-interest Candidate Retrieval Online</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.16271">http://arxiv.org/abs/2210.16271</a></p>
+
+<p>作者： Frank Portman, Stephen Ragain, Ahmed El-Kishky</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.16271v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在项目表现出短暂性和时间相关性的环境中（例如在社交媒体中）提供个性化推荐存在一些独特的挑战：（1）在频繁创建新项目的环境中归纳理解项目的短暂吸引力，（2）适应趋势在项目可能在相关性上经历时间变化的参与模式中，（3）在用户可能表达多种兴趣的项目空间上准确地建模用户偏好。在这项工作中，我们介绍了 MiCRO，这是一种生成统计框架，用于对多兴趣用户偏好和时间多兴趣项目表示进行建模。我们的框架是专门为适应新项目和参与的时间模式而制定的。 MiCRO 展示了在两个大规模用户项目数据集上执行的候选检索实验的强大经验性能：（1）（用户，用户）跟随交互的开源时间数据集和（2）（用户，推文）收藏的时间数据集作为对社区的额外贡献，我们将开源这些交互。</p>
+
+<h3 id="聚类图-应用标签传播算法检测图数据库中的社区">聚类图——应用标签传播算法检测图数据库中的社区</h3>
+
+<p>原文标题： Clustering Graphs &ndash; Applying a Label Propagation Algorithm to Detect Communities in Graph Databases</p>
+
+<p>地址： <a href="http://arxiv.org/abs/2210.16280">http://arxiv.org/abs/2210.16280</a></p>
+
+<p>作者： Andi Ferhati</p>
+
+<p><img src="https://fastly.jsdelivr.net/gh/complexly/arxivthumb@master/2210.16280v1.pdf.jpg" alt="" /></p>
+
+<p>摘要： 在过去的几十年中，数据库管理系统 (DBMS) 成为存储大量数据并对其执行复杂查询的强大工具。近年来，越来越多的非结构化或半结构化数据已经从关系模型中的数据表示转向替代数据模型。图数据库和图数据库管理系统 (GDBMS) 的使用有所增加，因为它们能够管理高度互连、不断发展的数据。本论文记录了在使用标签传播社区检测算法实现一个系统来识别图建模数据中的集群时所做的工作。该图是使用从 dblp.org 获得的计算机科学领域的学术出版物数据集构建的。开发的系统是一个 FullStack WebApp，由基于 Web 的用户界面、API 和存储在图数据库管理系统 (GDBMS) 中的数据（节点、边、图）组成。本文档中描述的是： - 在 ArangoDB 等图数据库管理系统 (GDBMS) 中操作预导入和导入数据的过程、节点的创建、节点之间的关系（边）以及由这些节点组成的图和边； - 在 NodeJS 中实现的 GraphQL API，用于从图数据库管理系统 (GDBMS) 请求数据； - 使用 TypeScript 和 React 制作的前端界面，包括搜索功能和在 Cytoscape 网络图中可视化结果的能力； - 在图上执行标签传播社区检测算法，找到的集群被存储并在用户请求时可视化。本论文希望为互连数据的图表示、集成和分析提供一种实用的实践方法。</p>
+
+<blockquote>
+<p>声明：Arxiv文章摘要版权归论文原作者所有，机器翻译后由本人进行校正整理，未经同意请勿随意转载。本系列在微信公众号“网络科学研究速递”（微信号netsci）和个人博客 <a href="https://netsci.complexly.cn">https://netsci.complexly.cn</a> （提供RSS订阅）进行同步更新。个性化论文阅读与推荐请访问 <a href="https://arxiv.complexly.cn">https://arxiv.complexly.cn</a> 平台。</p>
+</blockquote>
+                      
+                    </div>
+                    <div style="border: 1px dashed #e0e0e0; padding: 10px 10px 10px 10px; background-color: #fffeee; background-repeat: no-repeat; background-attachment: scroll; background-position: 1% 50%; -moz-background-size: auto auto; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">
+                        <div style="float:left;margin-top:0px;">
+                        <img src="/public/qrcode.jpg" width="129px" height="129px"/>
+                        </div>
+                        <div>
+                            <p style="margin-top:0px;">作者：<a target="_blank" href="https://www.complexly.me/">ComplexLY</a>
+                            <br />微信公众号：netsci
+                            <br />欢迎扫描左侧微信公众号二维码进行交流！
+                            <br />本文地址：<a target="_blank" href="https://netsci.complexly.cn/post/20221031/">https://netsci.complexly.cn/post/20221031/</a></p>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                  </div>
+                  
+
+                </div>
+                
+              </article>
+              
+              <div class="clear"></div>
+              
+              
+            </div>
+          </section>
+          <div class="sidebar s1">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>Follow:</p>
+      <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+    </div>
+    <div class="widget qrcode">
+    <img src="/public/qrcode.jpg" alt="qrcode" width="172px" height="172px"/>
+    <p> 微信扫一扫 <br/> 关注公众号 <br /> netsci <br /></p>
+</div>
+
+    <ul class="post-nav group">
+      <li class="next">
+        
+        <a href="https://netsci.complexly.cn/post/20221026/" rel="next">
+          <i class="fa fa-chevron-right"></i>
+          <strong>Next post</strong>
+          <span>Arxiv网络科学论文摘要14篇(2022-10-26)</span>
+        </a>
+        
+      </li>
+      <li class="previous">
+        
+      </li>
+    </ul>
+    <div id="search-2" class="widget widget_search"><h3>Search</h3>
+      <form method="get" class="searchform themeform" action="https://www.google.com/search">
+        <div>
+          <input type="text" class="search" name="q" placeholder="Press enter to start searching">
+        </div>
+      </form>
+    </div>
+  </div>
+  
+</div>
+
+          <div class="sidebar s2">
+  <a class="sidebar-toggle" title="Expand Sidebar"><i class="fa icon-sidebar-toggle"></i></a>
+  <div class="sidebar-content">
+    <div class="sidebar-top group">
+      <p>More</p>
+    </div>
+    <div id="categories-2" class="widget widget_categories"><h3>Categories</h3>
+      <ul>
+        
+          <li class="cat-item cat-item-1">
+            <a rel="nofollow" href="/categories/%E7%A0%94%E7%A9%B6%E9%80%9F%E9%80%92/">研究速递</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <footer id="footer">
+  <section class="container" id="footer-bottom">
+    <div class="container-inner">
+      <a id="back-to-top" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="pad group">
+        <div class="grid one-half">
+          <div id="copyright">
+            <p>Powered by
+              <a rel="nofollow" href="http://gohugo.io/" target="_blank" style="font-weight: bold">Hugo</a>.     <a rel="nofollow" href="http://beian.miit.gov.cn" target="_blank" style="font-weight: bold">京ICP备16005033号-1</a>
+            </p>
+          </div>
+          
+        </div>
+        
+        <div class="grid one-half last">
+          <ul class="social-links">
+    <li>
+    <a class="social-tooltip" title="On WeiBo"
+        href="http://weibo.com/thucomplexly" target="_blank">
+        <i class="fa fa-weibo"></i>
+    </a>
+    </li>
+    <li>
+    <a class="social-tooltip" title="On GitHub"
+        href="https://github.com/complexly" target="_blank">
+        <i class="fa fa-github"></i>
+    </a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+
+    </div>
+    
+  </section>
+  
+</footer>
+
+</div>
+</body>
+</html>
+
