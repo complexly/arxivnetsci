@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要15篇(2022-11-03)</title>
+      <link>https://netsci.complexly.cn/post/20221103/</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20221103/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;定制的顶点排序，用于在大图中更快地列出三角形;&lt;/li&gt;
+&lt;li&gt;缺失数据插补对图节点分类器公平性和准确性的影响;&lt;/li&gt;
+&lt;li&gt;银团网络对风险投资公司专业化和绩效的影响;&lt;/li&gt;
+&lt;li&gt;DeepTrace：学习使用图神经网络优化流行病网络中的接触者追踪;&lt;/li&gt;
+&lt;li&gt;重叠加权网络中的社区检测;&lt;/li&gt;
+&lt;li&gt;二分混合成员无分布模型。一种用于重叠二分加权网络中社区检测的新模型;&lt;/li&gt;
+&lt;li&gt;输电网络中N-1应急约束的基于拓扑的近似;&lt;/li&gt;
+&lt;li&gt;多尺度碳化反应：与文化遗产相关的事物现状和两个建模练习;&lt;/li&gt;
+&lt;li&gt;高阶演化网络的时间拓扑特性;&lt;/li&gt;
+&lt;li&gt;Tournesol：具有安全保证的无许可协作算法治理;&lt;/li&gt;
+&lt;li&gt;FiFo：大规模物联网网络中的鱼骨转发;&lt;/li&gt;
+&lt;li&gt;通过基尼指数观察临界尺度;&lt;/li&gt;
+&lt;li&gt;评估高管社交媒体帖子对股价的影响;&lt;/li&gt;
+&lt;li&gt;哥本哈根 Dybbolsbro 路口骑车人的计算愿望线分析;&lt;/li&gt;
+&lt;li&gt;使用基于指标的模型检测人工智能科学生态系统中的新兴技术;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要12篇(2022-11-02)</title>
