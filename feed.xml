@@ -7,10 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2017. All rights reserved.</copyright>
-    <lastBuildDate>Thu, 03 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Nov 2022 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://netsci.complexly.cn/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Arxiv网络科学论文摘要11篇(2022-11-08)</title>
+      <link>https://netsci.complexly.cn/post/20221108/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://netsci.complexly.cn/post/20221108/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;图算法的平均案例分析的外部有效性;&lt;/li&gt;
+&lt;li&gt;阴暗环境对鱼类集体行为的影响;&lt;/li&gt;
+&lt;li&gt;空间结构城市的隔离;&lt;/li&gt;
+&lt;li&gt;通过快速无标度网络模型对多维数据集进行建模;&lt;/li&gt;
+&lt;li&gt;BEKG：建筑环境知识图谱;&lt;/li&gt;
+&lt;li&gt;情绪分析的自动标记方法比较;&lt;/li&gt;
+&lt;li&gt;通过交易网络的相关张量谱预测 XRP 价格暴涨;&lt;/li&gt;
+&lt;li&gt;通过深入研究对话线程改进了社交媒体平台上特定目标的立场检测;&lt;/li&gt;
+&lt;li&gt;影响最大化综述：基于机器学习的组合优化;&lt;/li&gt;
+&lt;li&gt;GDP竞争力的逻辑预测;&lt;/li&gt;
+&lt;li&gt;预测碰撞、在复杂环境中导航、弯腰、推动和智能手机行走：基于智能体的多功能行人动力学模型;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Arxiv网络科学论文摘要15篇(2022-11-03)</title>
